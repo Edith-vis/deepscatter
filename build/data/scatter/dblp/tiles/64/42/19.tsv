@@ -1,0 +1,770 @@
+id	area	title	year	x	y	ix
+3235778	AI	electronic editor: automatic content-based sequential compilation of newspaper articles	2002	10.470570309787368	-12.372735560748374	3235805
+3237118	Web+IR	beyond document similarity: understanding value-based search and browsing technologies	2000	10.935805248399443	-12.219340311997644	3237145
+3239898	Web+IR	a personalized approach for re-ranking search results using user preferences	2014	10.867686247648964	-12.437569359771226	3239925
+3240387	Web+IR	a genre-aware approach to focused crawling	2009	11.119382551456942	-12.430760106091926	3240414
+3241873	Web+IR	serelec# - c# implementation of serelec: a meta search engine based on combinatorial search and search keyword based link classification	2012	10.886507826985222	-12.639327862075632	3241900
+3242158	Networks	searching for content-based addresses on the world-wide web	1998	10.596290612937493	-11.851251327544508	3242185
+3242339	Web+IR	adaptive focused crawling	2007	10.746110960070178	-11.948936290956912	3242366
+3242462	Web+IR	refining web authoritative resource by frequent structures	2003	10.73621878661977	-12.373476183584108	3242489
+3244966	ML	a new method for focused crawler cross tunnel	2006	10.468669625299317	-12.389631397395373	3244993
+3245473	DB	contextualized query sampling to discover semantic resource descriptions on the web	2008	10.588632262529908	-12.51003382692494	3245500
+3246342	DB	recommending missing citations for newly granted patents	2014	10.363000518429317	-12.246575861097202	3246369
+3247414	Web+IR	temporal document retrieval model for business news archives	2005	10.635315352591014	-12.468812257317676	3247441
+3253336	Web+IR	semi-supervised event-related tweet identification with dynamic keyword generation	2017	10.292442759596806	-12.127312938132086	3253363
+3258083	NLP	want answers? a reddit inspired study on how to pose questions	2015	10.463716774242858	-11.77054853374591	3258110
+3259015	Web+IR	contextual proximity based term-weighting for improved web information retrieval	2007	10.562105744035966	-12.289585745771527	3259042
+3259123	DB	kosmix: high-performance topic exploration using the deep web	2009	11.109824605333023	-12.053271789900515	3259150
+3261989	NLP	knowledge pattern extraction and their usage in exploratory search	2012	10.865269504602209	-11.937293987004356	3262016
+3262323	DB	supporting keyword queries on structured databases with limited search interfaces	2008	10.55760932742044	-11.951549802562596	3262350
+3263305	Web+IR	novelty detection: the trec experience	2005	10.748808102506764	-12.21781626736758	3263332
+3264338	Web+IR	topic-centric algorithm: a novel approach to web link analysis	2004	10.35421075696397	-12.61720218249056	3264365
+3266084	AI	review synthesis for micro-review summarization	2015	10.27597563621578	-11.846760725191267	3266111
+3266544	Web+IR	determining the user intent behind web search queries by learning from past user interactions with search results	2013	10.373818606836387	-12.292350701075584	3266571
+3267256	Web+IR	query expansion by mining user logs	2003	10.286197513783094	-12.432429623074045	3267283
+3267788	NLP	custom ordering on digital library information retrieval	2009	10.47164700606863	-11.944583698298185	3267815
+3268774	Web+IR	sns retrieval based on user profile estimation using transfer learning from web search	2018	10.40836414544902	-12.005422478239991	3268801
+3268941	Web+IR	query-based sampling using snippets	2010	10.477665055534509	-12.474218912699895	3268968
+3270657	Web+IR	role of ranking algorithms for information retrieval	2012	10.332189759186287	-11.97777708066144	3270684
+3270745	DB	detecting sequences and cycles of web pages	2005	10.300627129271225	-12.014411131747133	3270772
+3271081	Web+IR	towards selective user specific query expansion	2013	10.177482602955928	-12.664335606890194	3271108
+3271328	Web+IR	temporal ranking for fresh information retrieval	2003	11.069334679778457	-12.078333071000246	3271355
+3272807	OS	query-based versus resource-based cache strategies in tag-based browsing systems	2018	10.641022085067343	-12.149065474531795	3272834
+3273255	Web+IR	link analysis in mind maps: a new approach to determining document relatedness	2010	10.931327495734868	-12.406325380974733	3273282
+3274084	NLP	a selection algorithm for focused crawlers incorporating semantic metadata	2013	10.7796037845646	-12.235325142523484	3274111
+3275514	Web+IR	downloading textual hidden web content through keyword queries	2005	10.818814007122038	-12.244043848128516	3275541
+3277503	Web+IR	combining classifiers for web violent content detection and filtering	2007	10.54129717101623	-12.174541455524617	3277530
+3279510	Web+IR	characterizing web search queries that match very few or no results	2012	10.512458006852905	-11.830760879142733	3279537
+3280226	Web+IR	development and use of an evaluation collection for personalisation of digital newspapers.	2010	10.610942019443696	-11.901662963670216	3280253
+3282048	NLP	topics in tweets: a user study of topic coherence metrics for twitter data	2016	10.756398953552587	-11.985816590068257	3282075
+3282519	NLP	natural language processing for browse help	2004	10.881550525056811	-12.20019721300583	3282546
+3283839	Web+IR	accommodating explicit user expressions of uncertainty in voice search or something like that	2008	10.923304392533726	-12.4776382740735	3283866
+3284174	Web+IR	towards click-based models of geographic interests in web search	2008	10.239068950084203	-12.055410158681411	3284201
+3284633	Web+IR	link spam target detection using page farms	2009	10.645216207640749	-11.963658498798036	3284660
+3288938	Web+IR	towards nuanced system evaluation based on implicit user expectations	2015	10.592593286410368	-12.090556651778533	3288965
+3289152	Web+IR	evaluating automatically generated timelines from the web	2006	11.041247277190823	-12.265052225245062	3289179
+3291645	Web+IR	a relevance-based topic model for news event tracking	2009	10.49521869871456	-11.771247108773597	3291672
+3291702	Web+IR	a hyperlink-based recommender system written in sqeal	1998	10.775147615326734	-11.86663849571734	3291729
+3292239	Web+IR	stacking from tags: clustering bookmarks around a theme	2013	10.890748403488855	-12.048602732051627	3292266
+3292857	Web+IR	do not crawl in the dust: different urls with similar text	2009	10.798234178664913	-12.238130907863313	3292884
+3293103	Web+IR	tagging with queries: how and why?	2009	10.786384536062828	-12.18463324486358	3293130
+3294528	AI	bursty event detection from collaborative tags	2011	10.473189933154494	-11.791052492033367	3294555
+3294557	Web+IR	webguard: a web filtering engine combining textual, structural, and visual content-based analysis	2006	10.287516072393922	-12.545666861921516	3294584
+3295057	HCI	visual tagging through social collaboration: a concept paper	2007	10.26133655950767	-12.061097101850633	3295084
+3296610	Web+IR	personalizing the source selection and the result merging process	2009	10.840459555784523	-12.375997979652007	3296637
+3298662	Web+IR	discounted cumulated gain based evaluation of multiple-query ir sessions	2008	10.248945845623323	-12.084101805248125	3298689
+3299010	NLP	extracting product features for opinion mining using public conversations in twitter	2017	11.0928815592226	-12.103969084339168	3299037
+3299062	Web+IR	grid-enabled automatic web page classification	2006	10.716485968151359	-12.546931728933787	3299089
+3300729	Web+IR	detecting session boundaries to personalize search using a conceptual user context	2008	10.49439273701016	-11.814184348792711	3300756
+3300861	DB	mining research communities in bibliographical data	2007	10.994310357960858	-12.115766406568627	3300888
+3300964	Robotics	splog filtering based on writing consistency	2008	10.884398358660754	-12.13860838235459	3300991
+3301035	Web+IR	web crawler architecture	2009	10.84928849787285	-11.950118306503262	3301062
+3301607	SE	harnessing twitter to support serendipitous learning of developers	2017	10.628428553922609	-12.059316106465053	3301634
+3304202	Theory	a content-based recommender system for computer science publications	2018	10.307818909595401	-12.154844508404551	3304229
+3306561	ML	multi-level frontier based topic-specific crawler design with improved url ordering	2008	10.770701796983666	-12.097717118539329	3306588
+3306721	Theory	jamaica: a world wide web profiler	1999	10.962328641500218	-12.127535085688246	3306748
+3311721	DB	breadth-first crawling yields high-quality pages	2001	10.611135950115044	-12.251712226992383	3311748
+3312706	Web+IR	amore: a world-wide web image retrieval engine	1999	10.441590276854624	-12.020648006795021	3312733
+3312963	NLP	do user (browse and click) sessions relate to their questions in a domain-specific collection?	2013	10.545204464188602	-12.550156515720918	3312990
+3314895	DB	a novel semantic tagging technique exploiting wikipedia-based associated words	2015	10.466144581131742	-12.612637948357033	3314922
+3317699	NLP	statistical entity ranking with domain knowledge	2016	10.816774394673104	-12.525310546124699	3317726
+3317815	Web+IR	on predicting deletions of microblog posts	2015	10.650897390958471	-12.540909855506479	3317842
+3318008	Robotics	a novel trend surveillance system using the information from web search engines	2016	10.400683235181374	-12.58060554349033	3318035
+3321231	SE	web page's blocks based topical crawler	2008	10.640823617421242	-12.623026401032472	3321258
+3321292	AI	an intelligent human-expert forum system based on fuzzy information retrieval technique	2008	10.397811009195985	-12.031287474081061	3321319
+3321617	Web+IR	identifying vertical search intention of query through social tagging propagation	2009	10.833827001552887	-12.676048600761193	3321644
+3322511	HCI	another dimension to hypermedia access	1993	11.122577679717908	-12.163314520479426	3322538
+3322574	Logic	dynamic user profiles based on boolean formulas	2004	10.21311873930878	-11.94413356218895	3322601
+3325264	AI	eliciting better information need descriptions from users of information search systems	2007	11.11154079830644	-12.140317402846858	3325291
+3325831	HCI	style and branding elements extraction from businessweb sites	2010	10.585377985546387	-12.398693832069853	3325858
+3327044	NLP	automatically collecting, monitoring, and mining japanese weblogs	2004	10.989814861535931	-12.030737041437785	3327071
+3329775	DB	recommending paragraphs of wikipedia pages as a travel guide	2016	10.72036999587315	-12.659558314203933	3329802
+3329944	AI	using signals of human interest to enhance single-document summarization	2008	10.531950981721936	-12.246057916089228	3329971
+3331293	NLP	fuzzy-based answer ranking in question answering communities	2012	10.426253031814703	-11.85433861851594	3331320
+3331323	Theory	where to put the search concepts in the search result page	2011	10.774009906390804	-12.109035045017615	3331350
+3331540	DB	automatically acquiring training sets for web information gathering	2006	10.920807961586222	-12.098768627789244	3331567
+3332374	HCI	locally expandable allocation of folksonomy tags in a directed acyclic graph	2008	10.263933717640738	-12.492446986696653	3332401
+3332394	Web+IR	a solution to the exact match on rare item searches: introducing the lost sheep algorithm	2011	10.625159745165607	-12.540670542579475	3332421
+3333831	AI	generating succinct titles for web urls	2008	10.827795508685028	-12.422987553328555	3333858
+3334256	Web+IR	ontology-driven personalized query refinement	2009	10.391927599939184	-12.070160379201011	3334283
+3334302	Web+IR	presenting query aspects to support exploratory search	2010	10.976849745147312	-12.146923447400576	3334329
+3334370	NLP	a personalized news recommendation system based on tag dependency graph	2015	10.194721372128091	-12.41371767897857	3334397
+3334802	Web+IR	finding and linking incidents in news	2007	10.980948079422244	-12.397479928006149	3334829
+3335365	Web+IR	a multiple-document summarization system introducing user interaction for reflecting user's summarization need	2004	10.495417849824838	-12.011798527583485	3335392
+3336962	HCI	"""""""tagsonomy"""": easy access to web sites through a combination of taxonomy and folksonomy"""	2011	10.856464509606315	-12.086183164619355	3336989
+3337177	Web+IR	using the user’s recent browsing history for personalized query suggestions	2018	10.657850051405166	-12.118464415569193	3337204
+3340453	AI	activity-centred search in email	2008	10.683613102609801	-11.966996097855251	3340480
+3340838	AI	an application of collaborative web browsing based on ontology learning from user activities on the web	2004	10.220598313380206	-11.8104140329343	3340865
+3341044	Web+IR	from federated to aggregated search	2010	10.617249627328402	-12.093503684317625	3341071
+3341175	ML	attention: understanding authors and topics in context of temporal evolution	2011	10.886769121427886	-12.26505846862484	3341202
+3344335	ML	filtering microblogging messages for social tv	2011	10.847820440035267	-12.333939173883321	3344362
+3345467	NLP	sentiment-based and hashtag-based chinese online bursty event detection	2017	10.376971718810656	-11.961190943346427	3345494
+3348008	Web+IR	on the applicability of delicious for temporal search on web archives	2016	10.826614040492974	-11.778077578710528	3348035
+3348122	Web+IR	google penguin: evasion in non-english languages and a new classifier	2013	11.053905784570338	-12.279442489641855	3348149
+3348393	Web+IR	from query-by-keyword to query-by-example: linkedin talent search approach	2017	11.134533729992683	-12.333389125324821	3348420
+3349116	NLP	mining parallel corpus from sina microblog	2013	10.436476611572996	-11.739572991730242	3349143
+3351980	Visualization	an antiphishing strategy based on visual similarity assessment	2006	10.484253044593336	-12.492940750416686	3352007
+3352242	Web+IR	information filtering and information retrieval with the web filtering toolbar	2009	11.013149696205645	-12.504803263809944	3352269
+3353276	Web+IR	introduction to the special topic section on mining web resources for enhancing information retrieval	2007	10.793931645856452	-12.183993482674124	3353303
+3353703	Web+IR	introducing the webb spam corpus: using email spam to identify web spam automatically	2006	11.139987568737311	-11.850860708278873	3353730
+3355432	Web+IR	the journey is the reward - towards new paradigms in web search	2015	10.962178833026105	-11.918754417314574	3355459
+3358338	AI	semantic similarity measures for enhancing information retrieval in folksonomies	2013	10.706823405641986	-12.457924528531695	3358365
+3358764	Web+IR	learning to detect event-related queries for web search	2015	10.579709082262095	-12.073766236142786	3358791
+3358821	Web+IR	analyzing user behavior to rank desktop items	2006	10.443760045908512	-12.344148246290565	3358848
+3359077	Web+IR	a semantic similarity measure for recommender systems	2011	10.841348275215205	-11.81006849980547	3359104
+3361603	NLP	complura: exploring and leveraging a large-scale multilingual visual sentiment ontology	2016	10.502256785951584	-12.147422342782429	3361630
+3361831	SE	a visual technique to indicate overall and component relevancy of search-engine results	2000	10.970637454645793	-12.43589086837539	3361858
+3362677	ML	folksonomy implementation based on the art-1 neural network	2012	10.298792723451653	-12.170859172983278	3362704
+3362968	Web+IR	attribute extraction system for agricultural sem	2010	10.381822093335117	-12.35306171632386	3362995
+3363468	Web+IR	a hierarchical dirichlet model for taxonomy expansion for search engines	2014	10.347142884485669	-12.511113073061631	3363495
+3365192	Web+IR	improving cloaking detection using search query popularity and monetizability	2006	10.532946953927944	-12.463913316467126	3365219
+3366955	DB	path-oriented keyword search over graph-modeled web data	2011	10.23863282436716	-12.615075902851196	3366982
+3368705	Web+IR	do trec web collections look like the web	2002	10.988431225426636	-12.267360858388065	3368732
+3369042	Web+IR	validating query simulators: an experiment using commercial searches and purchases	2010	10.370461907105962	-12.224453549416802	3369069
+3370174	DB	automatic text classification and focused crawling	2011	10.878262430279882	-12.38140564083718	3370201
+3371025	Web+IR	a survey of text clustering algorithms	2012	10.627258694965493	-12.665935357577455	3371052
+3371097	Web+IR	analyzing and evaluating query reformulation strategies in web search logs	2009	10.799918033808849	-12.562534976150316	3371124
+3371098	DB	toward learning based web query processing	2000	10.823885166821684	-12.630107619624141	3371125
+3371126	AI	method for countering social bookmarking pollution using user similarities	2010	10.233980321385516	-11.92200999862784	3371153
+3374383	Web+IR	better contextual suggestions in clueweb12 using domain knowledge inferred from the open web	2014	10.641119449609231	-11.8378208924749	3374410
+3377549	Web+IR	preloading browsers for optimizing automatic access to hidden web: a ranking-based repository solution	2006	10.889894912784353	-12.307575848002243	3377576
+3378657	AI	noun retrieval effect on text summarization and delivery of personalized news articles to the user's desktop	2010	10.95194006316242	-12.575515323105119	3378684
+3380292	Web+IR	a novel crawling algorithm for web pages	2011	10.44110272628053	-12.31911845823325	3380319
+3381603	ML	local aspects of the global ranking of web pages	2010	10.319120394560018	-12.43953627354074	3381630
+3384161	Web+IR	deepbot: a focused crawler for accessing hidden web content	2007	10.946324536006069	-12.442829631135965	3384188
+3384838	Web+IR	form and function: the impact of query term and operator usage on web search results	2002	11.080702152799473	-12.42448096252535	3384865
+3387438	AI	a stochastic approach for modeling and computing web communities	2002	10.655247515952908	-11.726573215785244	3387465
+3391266	Web+IR	categorization of web pages - performance enhancement to search engine	2009	10.86807876626648	-11.914056351145033	3391293
+3392396	Web+IR	future influence ranking of scientific literature	2014	10.741976194126325	-11.794778106682624	3392423
+3392455	AI	a novel web usage mining approach for search engines	2002	10.590377053276116	-12.400130474001227	3392482
+3395370	Web+IR	user generated content: how good is it?	2009	10.968589322313688	-12.028910771446053	3395397
+3397750	DB	interactive sql query suggestion: making databases user-friendly	2011	10.637675979323063	-12.649940388690743	3397777
+3399168	Web+IR	to re-rank or to re-query: can visual analytics solve this dilemma?	2011	10.75329200799501	-12.552076563564796	3399195
+3399422	HPC	the research on an adaptive information grid architecture for recommendation system	2006	10.262802739501133	-12.316544525540733	3399449
+3400138	DB	mining online book reviews for sentimental clustering	2013	10.881446418722987	-12.084115047393663	3400165
+3401783	Web+IR	searching locally-defined entities	2014	10.749115537336003	-12.229974783845346	3401810
+3403086	Web+IR	on using query logs for static index pruning	2010	10.282339597682142	-12.590268460804618	3403113
+3406630	NLP	citation-based methods for personalized search in digital libraries	2007	10.718747883497157	-12.621642779426349	3406657
+3407683	Web+IR	websifter: an ontology-based personalizable search agent for the web	2000	10.930965456377619	-12.098798107387152	3407710
+3407862	Web+IR	graph regularization methods for web spam detection	2010	10.192294568150402	-12.266553875965377	3407889
+3408766	Web+IR	web page ranking using link attributes	2004	10.22522426578589	-12.435840417073335	3408793
+3410561	Web+IR	visualizing the results of multimedia web search engines	1996	10.688849134245446	-11.971720129510624	3410588
+3412169	Web+IR	designing clustering-based web crawling policies for search engine crawlers	2007	10.388649438293443	-12.365828138067995	3412196
+3412703	NLP	incorporating temporal information in microblog retrieval	2012	10.465478856267877	-11.891794870209765	3412730
+3414286	ML	orion: enabling suggestions in a visual query builder forultra-heterogeneous graphs	2016	10.349403425207761	-12.562382597936619	3414313
+3414858	Web+IR	how does the size of a document affect linked open data user modeling strategies?	2017	10.66734540819267	-12.524700147165944	3414885
+3415576	Web+IR	a case for interaction: a study of interactive information retrieval behavior and effectiveness	1996	10.710660756671821	-11.945530639581795	3415603
+3419538	Vision	web document duplicate detection using fuzzy hashing	2011	10.952324897203107	-12.619882105014767	3419565
+3419726	Web+IR	a new customized document categorization scheme using rough membership	2005	10.801558084997602	-12.479649003593568	3419753
+3420916	Web+IR	data extraction from web forums based on similarity of page layout	2009	11.060830469720932	-12.449394878275518	3420943
+3420923	ECom	melissa: mobile electronic lsa internet server search agent	2001	10.961223622156227	-12.226884016510557	3420950
+3422933	Web+IR	latent topics in graph-structured data	2012	10.778208936764162	-12.291994652137678	3422960
+3423914	Web+IR	enhanced topic distillation using text, markup tags, and hyperlinks	2001	10.478408161249675	-12.418099645521906	3423941
+3424605	AI	movie review mining and summarization	2006	10.944710454322223	-12.058221316704236	3424632
+3426058	DB	on web communities mining and analysis	2007	10.958104467037131	-12.387941541258755	3426085
+3427286	Web+IR	advertising keyword suggestion based on concept hierarchy	2008	10.648819001009754	-12.138234506788399	3427313
+3427786	Security	content based sms spam filtering	2006	10.277394876960253	-12.077506773362696	3427813
+3427814	DB	the connectivity server: fast access to linkage information on the web	1998	10.451318926049147	-11.891566163140864	3427841
+3427831	Web+IR	goal-oriented information retrieval using feedback from users	2001	10.329251370310034	-12.473394903477605	3427858
+3428393	Web+IR	search interface for query restructuring with discovering user interest	1999	10.828302918959936	-12.635866344404938	3428420
+3430426	Web+IR	ontology based information retrieval for learning styles of autistic people	2011	10.654601782309586	-11.911431569934294	3430453
+3431912	Web+IR	modelling of user preferences and needs in boolean retrieval systems	1994	10.868519243598351	-11.88666509798773	3431939
+3432171	DB	ptops index server for advanced search performance of p2p system with a simple discovery server	2003	10.438958261354774	-12.090663486760981	3432198
+3432816	Robotics	visualizing the structure of web communities based on data acquired from a search engine	2003	10.595627670385273	-12.451994389076741	3432843
+3433600	Web+IR	dynamic visualization of hubs and authorities during web search	2004	10.837711839221726	-12.427974974438062	3433627
+3433998	Web+IR	interactive visualization and navigation of web search results revealing community structures and bridges	2010	10.833052029953416	-11.765020162346492	3434025
+3434445	DB	performance evaluation of a countering method to social bookmarking pollution based on degree of bookmark similarity	2012	10.439436123666976	-11.941306202469445	3434472
+3435461	DB	effective web service retrieval based on clustering	2008	10.341443864744447	-12.489832318863494	3435488
+3435581	DB	mining related queries from web search engine query logs using an improved association rule mining model	2007	10.661544557769007	-12.20381209395334	3435608
+3435620	Web+IR	pnfs: personalized web news filtering and summarization	2013	10.244336465669946	-12.359756408380745	3435647
+3436687	Web+IR	combining evidence for automatic web session identification	2002	10.273152465383102	-12.200018682103474	3436714
+3436709	ML	a hybrid approach for dynamic topic models with fluctuating number of topics	2018	10.965561519827379	-11.84064456334697	3436736
+3437222	ECom	using the web graph to influence application behaviour	2004	10.554036081916069	-11.856344394402818	3437249
+3440169	DB	dscam: finding document copies across multiple databases	1996	10.866781628954518	-12.497762931965141	3440196
+3443473	DB	a new keywords method to improve web search	2010	10.982066161705939	-11.942333368377225	3443500
+3444134	Web+IR	query suggestion with feedback memory network	2018	10.20154243450569	-12.169891380040612	3444161
+3444926	Robotics	acquiring explicit user goals from search query logs	2008	10.430314484042707	-11.75389070505593	3444953
+3447553	Web+IR	latent semantic indexing for web service retrieval	2014	10.260860786010367	-12.674028652556373	3447580
+3447634	Web+IR	computing pagerank in a distributed internet search engine system	2004	10.397902641419329	-12.337196331144686	3447661
+3447862	Web+IR	user intent and assessor disagreement in web search evaluation	2013	10.389979152385866	-11.988954233802954	3447889
+3448536	DB	enabling personalization recommendation with weightedfp for text information retrieval based on user-focus	2004	10.343317955563393	-12.26387928694902	3448563
+3448866	ML	mining frequent patterns in print logs with semantically alternative labels	2013	10.402459675637491	-12.54718801815114	3448893
+3451039	Web+IR	visual content structures for wrapper induction in building metasearch systems	2010	10.91123704392171	-12.617745520872235	3451066
+3455020	Web+IR	online url classification for large-scale streaming environments	2017	10.887620643935929	-11.761713037532505	3455047
+3455253	Web+IR	a study of web information extraction technology based on beautiful soup	2015	10.819318987422397	-12.215048762055336	3455280
+3455611	Web+IR	using crowdsourcing for trec relevance assessment	2012	11.103705049342263	-12.065186374156227	3455638
+3456735	DB	improving encarta search engine performance by mining user logs	2002	10.748673470884881	-12.429513364420162	3456762
+3457559	ML	discovery of web communities from positive and negative examples	2003	10.381924993794637	-12.611897282466114	3457586
+3457987	Web+IR	tempas: temporal archive search based on tags	2016	10.835838059105155	-11.785169046271644	3458014
+3458800	Web+IR	a source independent framework for research paper recommendation	2011	11.089354580472461	-12.411323292592346	3458827
+3460010	NLP	classifying business types from twitter posts using active learning	2010	10.975954026759794	-11.748077742538998	3460037
+3461179	AI	web robot detection based on pattern-matching technique	2012	10.37577592811978	-11.965554084211547	3461206
+3463732	Web+IR	using sort-union to enhance economically-efficient sentiment stream analysis	2016	10.41547786421144	-11.968627771009483	3463759
+3463786	Web+IR	creating temporally dynamic web search snippets	2012	10.483306282615425	-11.801871581449099	3463813
+3467432	Web+IR	the impact of query refinement in the web people search task	2009	10.982522429588352	-12.34795520494281	3467459
+3469024	Web+IR	enhancing web search through query log mining	2009	10.359181282390816	-12.143749238598351	3469051
+3470259	NLP	what makes a query difficult?	2006	10.816316113465161	-12.635043881305554	3470286
+3471022	NLP	automatic generation of sitemaps based on navigation systems	2016	10.729386751258096	-12.657771830074186	3471049
+3472228	Web+IR	a novel burst-based text representation model for scalable event detection	2012	10.192611401155904	-11.947395466503398	3472255
+3472804	Web+IR	york university at trec 2005: hard track	2005	11.090297996090325	-11.843956390814366	3472831
+3472909	Web+IR	using anchor texts with their hyperlink structure for web search	2009	10.192649504258096	-11.979825588996107	3472936
+3473044	DB	mining search engine query logs via suggestion sampling	2008	10.232502606313131	-12.36617195228904	3473071
+3473087	DB	a collaborative approach to building evaluated web pages datasets	2009	10.690184211890427	-12.632773933809887	3473114
+3477671	Web+IR	event threading within news topics	2004	10.600124352607956	-11.842396034154401	3477698
+3478570	ML	incatomi: integrative causal topic miner between textual and non-textual time series data	2012	10.246032705717221	-11.905535379011626	3478597
+3479525	NLP	adawirl: a novel bayesian ranking approach for personal big-hit paper prediction	2016	10.240224944003163	-11.880408520826368	3479552
+3481299	ML	mining temporal evolution of entities in a stream of textual documents	2014	10.38281424804618	-11.735903772406907	3481326
+3482462	Web+IR	identifying spam web pages based on content similarity	2008	10.8883507206291	-12.016077175163002	3482489
+3483341	Web+IR	smartcrawler: a two-stage crawler for efficiently harvesting deep-web interfaces	2016	10.591870949083727	-12.576147294389566	3483368
+3485230	HCI	linea: building timelines from unstructured text	2015	10.535278642655186	-11.903427083695355	3485257
+3485392	Web+IR	an empirical investigation of user term feedback in text-based targeted image search	2007	11.069391526801722	-12.321752263642413	3485419
+3486417	Web+IR	generating fuzzy equivalence classes on rss news articles for retrieving correlated information	2008	10.450509449056435	-12.576911626921394	3486444
+3486947	Web+IR	an information retrieval approach to short text conversation	2014	10.44813261377011	-12.305149260050463	3486974
+3490501	ML	clustop: a clustering-based topic modelling algorithm for twitter using word networks	2017	10.734906177699182	-12.593204252909038	3490528
+3490871	DB	is there space for theory in modern commercial search engines?	2013	11.061632193182511	-12.041660125599579	3490898
+3491528	DB	the prompting method of iptv input method for chinese with full text search technology	2010	10.546788853653151	-12.125802263298034	3491555
+3493719	NLP	ranking book reviews based on user influence	2013	10.213702761847948	-11.754382020027846	3493746
+3494884	DB	combining visual and textual features for filtering spam emails	2008	10.288208024929007	-12.09425081277928	3494911
+3495063	DB	searching for needles in a world of haystacks	2000	10.773420295295697	-12.259359961880698	3495090
+3495535	Web+IR	news to go: hierarchical text summarization for mobile devices	2006	10.868920074931962	-12.340495632356571	3495562
+3497230	Web+IR	give me just one highly relevant document: p-measure	2006	10.668763275174287	-12.661665879159818	3497257
+3499248	Web+IR	imagesieve: exploratory search of museum archives with named entity-based faceted browsing	2010	10.565606253411056	-12.04528263717841	3499275
+3500311	Web+IR	adaptive query suggestion for difficult queries	2012	10.17637886435127	-12.588499749623423	3500338
+3500955	NLP	improving blog spam filters via machine learning	2017	10.770690418054263	-11.740097580937507	3500982
+3503115	DB	a novel web crawling method for vertical search engines	2017	10.548301281450623	-12.515951900612706	3503142
+3504375	ML	traversing news with ant colony optimisation and negative pheromones	2014	10.485276835175416	-12.388029672151857	3504402
+3506005	Theory	learning implicit user interest hierarchy for context in personalization	2003	10.396967287145015	-11.759507313553081	3506032
+3506109	AI	identifying helpful online reviews with word embedding features	2016	11.017602318935369	-11.778705210585748	3506136
+3506898	Web+IR	ihits: extending hits for personal interests profiling	2005	10.51505062524734	-11.778415410253524	3506925
+3507357	NLP	hyponymy extraction and web search behavior analysis based on query reformulation	2008	10.408681643015182	-12.45683256692002	3507384
+3507552	Web+IR	i3r: a new approach to the design of document retrieval systems	1987	11.124091760722447	-12.308352910792019	3507579
+3507798	Web+IR	a hybrid approach for refreshing web page repositories	2005	10.481480632832447	-12.1540084056565	3507825
+3508178	Web+IR	a teapot graph and its hierarchical structure of the chinese web	2008	10.988305439598006	-11.918588037814072	3508205
+3509611	Mobile	efficient extraction for mobile web access log with caching strategy	2016	10.247106122649198	-11.866042590906222	3509638
+3509713	Web+IR	intent mining in search query logs for automatic search script generation	2013	10.483687217338877	-12.405211442396562	3509740
+3510027	Crypto	exna: an efficient search pattern for search engines	2014	10.93918272041045	-12.259873518269597	3510054
+3510207	Web+IR	entity-based query recommendation for long-tail queries	2018	10.256089656492684	-12.416426833460672	3510234
+3510432	Vision	multi-engine search and comparison using the metacrawler	1996	11.136744001884296	-12.06608058459089	3510459
+3511853	Web+IR	an efficient adaptive focused crawler based on ontology learning	2005	10.781591750120835	-12.333033069371504	3511880
+3513076	HCI	how to improve the answering effectiveness in pay-for-knowledge community: an exploratory application of intelligent qa system	2018	10.85377893422168	-11.930883322989507	3513103
+3514015	Web+IR	adapting information retrieval systems to user queries	2008	10.466369786541431	-12.59197831061924	3514042
+3516068	Robotics	slide repository: a repository for slide reuse using research episode network	2014	10.959368130215829	-12.180129508547866	3516095
+3517513	Web+IR	topical trustrank: using topicality to combat web spam	2006	10.74665660676749	-11.858466905710115	3517540
+3519990	ML	automatic discovery of personal topics to organize email	2005	10.597420093922116	-11.973173358760631	3520017
+3520895	DB	tax-pq: dynamic taxonomy probing and query modification for topic-focused web search	2003	10.463342538505687	-12.261612304187956	3520922
+3521102	Web+IR	moodlens: an emoticon-based sentiment analysis system for chinese tweets	2012	10.70452344965617	-11.737882815971824	3521129
+3522525	Web+IR	understanding deep web search interfaces: a survey	2010	11.126513481744363	-12.070129503140787	3522552
+3523263	HPC	personalized scientific literature recommendation based on user's research interest	2016	10.968173520554394	-12.180127541742499	3523290
+3524129	ML	grabex: a graph-based method for web site block classification and its application on mining breadcrumb trails	2013	10.370570184419533	-12.10246963806773	3524156
+3524696	HCI	cognitive search intents hidden behind queries: a user study on query formulations	2014	10.460411130512595	-11.844337195028265	3524723
+3525543	DB	learning and discovering structure in web pages	2003	10.697871247385649	-12.589578017865234	3525570
+3525739	Web+IR	a semantic method for multiple resources exploitation	2015	10.821850774611336	-12.542627856765533	3525766
+3526504	HCI	of categorizers and describers: an evaluation of quantitative measures for tagging motivation	2010	11.102092760262527	-11.951322031593484	3526531
+3526755	Web+IR	on linear mixture of expert approaches to information retrieval	2006	10.930624943728576	-12.230597902690745	3526782
+3531046	Web+IR	refining search results using a mining framework	2009	10.612262050853198	-12.17189803980683	3531073
+3531234	Web+IR	recommending queries by extracting thematic experiences from complex search tasks	2018	10.3164025408232	-11.760191215686064	3531261
+3532686	AI	automatic restaurant information and keyword extraction by mining blog data for chinese restaurant search	2014	10.47535238787412	-11.849752695275345	3532713
+3533733	HCI	analyzing topic transitions using term context-dependent attractiveness	2009	11.061178001679751	-12.325134013456061	3533760
+3535009	HPC	a semantic associative search method for www information resources	2000	10.645488289807505	-11.726203836080579	3535036
+3535076	NLP	user embedding for scholarly microblog recommendation	2016	10.642503794107636	-11.74798920432097	3535103
+3535238	Web+IR	comparison of scheduling algorithms for domain specific web crawler	2014	10.847398187552766	-12.292094154865625	3535265
+3536683	Web+IR	yokie: explorations in curated real-time search & discovery using twitter	2012	10.929463751135085	-11.987068268994156	3536710
+3536999	Web+IR	using relevance feedback and ranking in interactive searching	1995	10.549758195392073	-12.155810904560392	3537026
+3537239	NLP	adaptive clustering-based change prediction for refreshing web repository	2015	10.647298137414843	-11.736150325342322	3537266
+3537558	Web+IR	a tutorial on leveraging knowledge graphs for web search	2015	10.874931731976332	-12.24441230237181	3537585
+3539336	NLP	time-aware relation extraction for entities using news headlines	2017	11.073001232560113	-11.755753613425641	3539363
+3539534	NLP	preliminary investigation on user interaction with ibm watson analytics	2016	10.9877818242572	-11.882256357055438	3539561
+3539789	Web+IR	query suggestions in the absence of query logs	2011	10.643651129382905	-12.437601448726234	3539816
+3540062	Web+IR	supporting analysis of future-related information in news archives and the web	2009	10.797548029140906	-12.077431125069086	3540089
+3546051	AI	towards generating textual summaries of graphs	2001	11.075367225678669	-12.423688710803606	3546078
+3546706	Web+IR	understanding reading attention distribution during relevance judgement.	2018	10.594187508315734	-11.910217772918243	3546733
+3548666	Web+IR	using temporal bursts for query modeling	2013	10.19661255244637	-12.43782465013584	3548693
+3550966	DB	profile-based focused crawling for social media-sharing websites	2009	10.495467713612829	-12.421111127702115	3550993
+3551752	Web+IR	evaluating search engines and defining a consensus implementation	2018	10.628009996429348	-12.253099721557984	3551779
+3556387	NLP	quickview: advanced search of tweets	2011	11.064187367577958	-12.358482393051267	3556414
+3557280	Web+IR	a case study of using geographic cues to predict query news intent	2009	10.419734706506269	-12.173097219273856	3557307
+3560474	Web+IR	detecting topic evolution in scientific literature: how can citations help?	2009	11.110767959982919	-12.463600414991813	3560501
+3562261	AI	an object-event reading interest model	2015	10.66539854044401	-12.167071499108362	3562288
+3563192	Web+IR	are search engine users equally reliable?	2010	10.178977296208584	-12.374773390023792	3563219
+3564244	Web+IR	test collection-based ir evaluation needs extension toward sessions - a case of extremely short queries	2009	10.684425480639762	-12.030792140556086	3564271
+3564768	Web+IR	the web and social networks	2002	10.307013126913919	-12.019573657272606	3564795
+3565172	Web+IR	why can't i find my files? new methods for automating attribute assignment	2003	11.032100963474916	-12.244380260109661	3565199
+3566341	Web+IR	ads keyword rewriting using search engine results	2015	10.323348164460523	-12.249960769718951	3566368
+3566928	DB	rankbox: an adaptive ranking system for mining complex semantic relationships using user feedback	2012	10.23887142355522	-11.761354030553901	3566955
+3568116	Web+IR	facet discovery for structured web search: a query-log mining approach	2011	10.231721094583245	-12.053953735847184	3568143
+3569093	Web+IR	using web-mining for academic measurement and scholar recommendation in expert finding system	2011	11.098597238685596	-11.855912580573293	3569120
+3570053	Web+IR	ranking tagged resources using social semantic relevance	2011	10.693604588573432	-12.244746690414473	3570080
+3570951	AI	an email and meeting assistant using graph walks	2006	10.327068572262608	-12.444764409315315	3570978
+3572338	DB	domain and keyword specific data extraction from invisible web databases	2011	10.999799431815731	-12.546106944696053	3572365
+3573837	DB	a weighted freshness metric for maintaining search engine local repository	2004	10.65594354785656	-12.199974096234662	3573864
+3574167	DB	adaptive topic follow-up on twitter	2017	10.346901040710053	-12.397863181586072	3574194
+3574550	Web+IR	video search in video sharing site based on public video lists	2015	10.318004558430124	-12.019245583740323	3574577
+3576126	Web+IR	an ontology-based approach for semantics ranking of the web search engines results	2012	10.736639769810543	-12.281087765619395	3576153
+3577066	Web+IR	online annotation of text streams with structured entities	2010	10.195622201662335	-12.444456533667589	3577093
+3582357	Web+IR	interactive information retrieval using clustering and spatial proximity	2004	10.592620384814394	-12.402155648259013	3582384
+3582470	DB	feedback-driven clustering for automated linking of web pages	2013	10.639489955532461	-11.959994395955226	3582497
+3584021	AI	top-n news recommendations in digital newspapers	2012	10.408840707774816	-11.81878678225724	3584048
+3586754	HCI	extracting information from semi-structured web pages by considering user's context	2010	10.82216429221976	-12.195078679888134	3586781
+3587434	DB	keyword search in structured data and network analysis: a preliminary experiment over dblp	2015	10.613356851817066	-12.190103629073386	3587461
+3587692	ML	extended probabilistic latent semantic analysis model for topics in time-stamped images	2011	10.447870845190783	-11.732736505430507	3587719
+3587756	Web+IR	enhanced web document retrieval using automatic query expansion	2004	10.856007184450423	-12.584643965944036	3587783
+3589383	Web+IR	static reformulation: a user study of static hypertext for query-based reformulation	2007	10.782659435026767	-12.26745691923974	3589410
+3591227	Robotics	enhancing focused crawling with genetic algorithms	2005	10.35881104689892	-12.238396302245464	3591254
+3597419	AI	an information retrieval method based on knowledge reasoning	2007	10.793292968556377	-12.652599487424624	3597446
+3598233	Robotics	distinguishing humans from robots in web search logs: preliminary results using query rates and intervals	2009	10.2553746237401	-12.27289984848638	3598260
+3600384	AI	blog search engines	2007	11.111223816205328	-12.054548343606776	3600411
+3601215	Web+IR	user-intent custom adaptive search service based on ontology and similar-word retrieval algorithm composition	2012	10.852012069221573	-12.072226917411776	3601242
+3601548	DB	implicit user modelling for web search improvement	2007	10.547775454784263	-12.091907234327099	3601575
+3602936	AI	cofea: a novel approach to spam review identification based on entropy and co-training	2016	10.533899775053163	-12.140284089187407	3602963
+3603039	DB	an examination of semantic relationships between professionally assigned metadata and user-generated tags for popular literature in complementary and alternative medicine	2011	11.125065252601802	-11.736728749281836	3603066
+3603572	Web+IR	complex event extraction from real-time news streams	2015	10.838128618620235	-11.935912400845993	3603599
+3603919	NLP	an evaluation framework of user interaction with metadata surrogates	2009	11.098406239875171	-11.804516725997784	3603946
+3604640	ML	blogharvest: blog mining and search framework	2006	10.942617271723053	-12.503409814403787	3604667
+3606598	AI	internet search: subdivision-based interactive query expansion and the soft semantic web	2006	10.90919491740649	-12.63081868777977	3606625
+3608096	Web+IR	improving relevance judgment of web search results with image excerpts	2008	10.649828457103624	-12.570100791499419	3608123
+3608990	NLP	multi-tier architecture for web search engines	2003	10.835370751337138	-11.857597157686653	3609017
+3610096	DB	cranai: a new search model reinforced by combining a ranking algorithm with author inputs	2005	10.448457329851538	-12.566933775813975	3610123
+3612940	Web+IR	design of dynamically updated automatic ontology for mobile phone information retrieval system	2014	10.605302058093981	-11.9267672119663	3612967
+3613186	Web+IR	a webpage classification algorithm concerning webpage design characteristics	2012	10.721096714516436	-12.378964455291154	3613213
+3613870	AI	automatic seed set expansion for trust propagation based anti-spam algorithms	2013	10.278036137824683	-12.264089393087838	3613897
+3614664	Web+IR	twiner: named entity recognition in targeted twitter stream	2012	11.050598928294619	-11.75318562321068	3614691
+3617988	Web+IR	finding neighbor communities in the web using inter-site graph	2003	10.232524318068156	-12.251149308294707	3618015
+3619102	Web+IR	mining highly authoritative web resources for one-stop learning	2005	10.564268775044413	-11.858766620868568	3619129
+3619723	DB	the evolution of link-attributes for pages and its implications on web crawling	2004	10.527239204306714	-11.741897461530455	3619750
+3620859	Web+IR	automatically tagging online community content using probabilistic topic models	2010	10.544391569854788	-11.76098845421901	3620886
+3621899	Web+IR	smartnews: bringing order into comments chaos	2013	11.100774837250876	-11.952385925575086	3621926
+3622150	Web+IR	enhancing personalized indexing with xml	2004	10.639422222696377	-11.929470861469676	3622177
+3623653	DB	an improved shark-search algorithm based on multi-information	2007	10.658398819968637	-12.359961659507466	3623680
+3624251	Web+IR	navigation in degree of interest trees	2006	10.737368547393313	-12.48021844867738	3624278
+3624405	Web+IR	how do users perceive information: analyzing user feedback while annotating textual units	2017	11.067094606943057	-11.766409774922959	3624432
+3625429	Theory	specific-purpose web searches on the basis of structure and contents	2005	10.713897804181967	-12.632632000477715	3625456
+3627303	AI	a generative model for identifying target companies of microblogs	2014	11.08962597233158	-12.341691531454424	3627330
+3627533	NLP	predicting best answerers for new questions: an approach leveraging convolution neural networks in community question answering	2016	10.208404261244864	-12.15931883592169	3627560
+3628881	Web+IR	the indexable web is more than 11.5 billion pages	2005	11.073147639012316	-11.809323632426008	3628908
+3629323	Web+IR	learning subjective relevance to facilitate information access	1995	10.682006817395779	-11.997387556796927	3629350
+3632383	Web+IR	mining neighbors' topicality to better control authority flow	2010	10.472931788745619	-12.001556282063994	3632410
+3634555	Web+IR	web structure and evolution web structure, age, and page quality	2002	10.350625832032064	-12.34220032974652	3634582
+3637326	DB	rankmass crawler: a crawler with high pagerank coverage guarantee	2007	10.552803119480416	-12.007607862970351	3637353
+3638029	Web+IR	hebbian algorithms for a digital library recommendation system	2002	11.024878492051418	-12.478405662642533	3638056
+3639427	DB	summarizing approach for efficient search by k-medoids method	2015	10.288754176732526	-12.298447340829355	3639454
+3639441	ML	an efficient algorithm for topic ranking and modeling topic evolution	2011	10.6207270215867	-11.899837684591102	3639468
+3639491	Web+IR	query suggestion by query search: a new approach to user support in web search	2009	10.374225691334054	-12.300360389385785	3639518
+3639674	Web+IR	advances in information retrieval	2012	10.742081192560127	-12.517834739712649	3639701
+3641938	NLP	tag-geotag correlation in social networks	2008	10.22581501491747	-12.50059973887509	3641965
+3643951	Web+IR	emerging topic tracking system	2001	10.773941038893714	-12.43054728661994	3643978
+3644505	Web+IR	semantically driven snippet selection for supporting focused web searches	2009	10.790715349743936	-12.321774331432138	3644532
+3645713	AI	user modeling for exploratory search on the social web. exploiting social bookmarking systems for user model extraction, evaluation and integration	2011	10.610799714662221	-11.957193948237276	3645740
+3647516	NLP	a dataset for research on short-text conversations	2013	11.125370967791508	-12.583923616924608	3647543
+3652846	Web+IR	an e-mail filtering method based on multi-attribute values of user's profile	2011	10.213422110785318	-12.193210671566431	3652873
+3653998	Theory	data mining in law with adaptive learning techniques	1999	11.113020366466786	-12.603013261636667	3654025
+3655274	Web+IR	relevance as a subjective and situational multidimensional concept	2012	10.795237474614446	-12.56131584016469	3655301
+3655824	Web+IR	automatic performance evaluation of web search engines	2004	10.640691034436577	-12.469615452137383	3655851
+3655853	DB	divdb: a system for diversifying query results	2011	10.545248949459213	-12.050485828303973	3655880
+3656413	AI	affective topic model for social emotion detection	2014	10.719470786682116	-11.980900443402321	3656440
+3656870	Web+IR	using metadata to enhance a web information gathering system	2000	11.027067029841454	-12.345646084938624	3656897
+3657997	Web+IR	fading away: dilution and user behaviour	2013	10.762157586362916	-11.953586201927829	3658024
+3658107	Web+IR	exploring wikipedia and dmoz as knowledge bases for engineering a user interests hierarchy for social network applications	2009	10.302042540858332	-12.205898094601045	3658134
+3659280	Web+IR	concept set extraction with user session context	2007	10.458605758380962	-11.918327288483045	3659307
+3659903	Web+IR	web document clustering using a hybrid neural network	2004	10.684122490607287	-12.276222172174249	3659930
+3660833	Web+IR	the use of implicit evidence for relevance feedback in web retrieval	2002	10.97958069031538	-12.146067159835493	3660860
+3662676	HCI	tagclusters: semantic aggregation of collaborative tags beyond tagclouds	2009	10.178525353269348	-12.270105267175115	3662703
+3662834	Web+IR	mining web informative structures and contents based on entropy analysis	2004	10.633740640399498	-12.598694924602723	3662861
+3665603	Robotics	context-aware and voice interactive search	2013	10.560238796960002	-12.171484614503678	3665630
+3666670	Web+IR	an algorithm to use feedback on viewed documents to improve web query - enabling naïve searchers to search the web smartly	2006	10.834331288724767	-12.146272666917186	3666697
+3666833	Web+IR	on the reliability and intuitiveness of aggregated search metrics	2013	10.411626763943886	-12.588358364215225	3666860
+3667105	Web+IR	introducing query expansion methods for collaborative information retrieval	2004	10.657961190965814	-12.363129960092596	3667132
+3668697	HCI	queryfind: search ranking based on users? feedback and expert?s agreement	2004	10.452397559248137	-11.807002335158668	3668724
+3671977	Web+IR	mining authoritative and topical evidence from the blogosphere for improving opinion retrieval	2018	10.582345383633069	-12.106717589362376	3672004
+3672108	ML	identifying diachronic topic-based research communities by clustering shared research trajectories	2014	10.924699376197779	-11.95361584198234	3672135
+3672620	NLP	weibo-oriented chinese news summarization via multi-feature combination	2015	10.909662722818833	-12.59509235130307	3672647
+3674590	Web+IR	using idocument for document categorization in nepomuk social semantic desktop	2009	10.514324343972254	-12.228966036760788	3674617
+3675816	Robotics	collective intelligence-based web page search: combining folksonomy and link-based ranking strategy	2009	10.27925255606239	-11.725005163755126	3675843
+3676879	Web+IR	concept level web search via semantic clustering	2007	11.141357732543913	-12.583502908363268	3676906
+3677359	ML	attention to describe products with attributes	2017	10.332220723843598	-12.603464719941359	3677386
+3677444	AI	exna: an efficient search pattern for semantic search engines	2016	10.84317948503181	-12.474267229416464	3677471
+3679898	Web+IR	galaxysearch - discovering the knowledge of many by using wikipedia as a meta-searchindex	2011	10.572822355739957	-12.576244940610714	3679925
+3682090	HCI	wnavis: navigating wikipedia semantically with an sna-based summarization technique	2012	10.698653939977603	-12.117693778310489	3682117
+3682205	Web+IR	pirsidil: a personalized information retrieval system in a digital library	2011	10.644633731897336	-12.164486372006671	3682232
+3683013	Web+IR	mining web site's topic hierarchy	2005	10.529706163140283	-12.051559706609527	3683040
+3683177	NLP	a model for ranking entity attributes using dbpedia	2014	10.601285357655648	-12.22227621039559	3683204
+3683446	Web+IR	how to merge three different methods for information filtering ?	2015	11.02249005561894	-12.419140930359175	3683473
+3689789	Web+IR	structured data retrieval using cover density ranking	2010	10.618712720599886	-12.628932779283021	3689816
+3690587	Web+IR	evaluation of context-aware recommendation systems for information re-finding	2017	10.82966788211456	-12.410578382326095	3690614
+3692510	NLP	re-examining the potential effectiveness of interactive query expansion	2003	10.992709661339672	-11.966480383822613	3692537
+3693116	Web+IR	mobex: a system for exploratory search on the mobile web	2012	10.508968212109425	-12.459168894846616	3693143
+3695090	ML	harnessing global expertise: a comparative study of expertise profiling methods for online communities	2014	10.625377739146725	-12.226464761671554	3695117
+3695263	Web+IR	interactive web-wrapper construction for extracting relational information from web documents	2005	10.734762107224725	-12.61801176540842	3695290
+3695532	DB	link farm spam detection based on its properties	2008	10.608531290235096	-11.79038426112094	3695559
+3695818	Web+IR	learning document aboutness from implicit user feedback and document structure	2009	10.535378694790301	-12.557971341770482	3695845
+3697193	DB	extracting new topic contents from hidden web sites	2004	10.733090728987166	-11.841237342858033	3697220
+3697616	HCI	tagassist: automatic tag suggestion for blog posts	2007	10.880890529204052	-12.4462955832819	3697643
+3699995	Web+IR	the noise factor: irrelevant search results on the world wide web	2000	11.028932680537029	-12.510227791498435	3700022
+3702333	ML	a comparative study of web resource mining algorithms for one-stop learning	2006	10.50019478304569	-12.042015801455106	3702360
+3704416	Web+IR	multidimensional search result diversification: diverse search results for diverse users	2011	10.460196061270693	-12.356486449583375	3704443
+3704755	DB	mirror site maintenance based on evolution associations of web directories	2007	10.5333112419129	-12.034757229907667	3704782
+3705111	Web+IR	web page summarization for just-in-time contextual advertising	2011	10.263816896046905	-12.110143708917278	3705138
+3705556	DB	mining related queries from search engine query logs	2006	10.385793465494203	-12.512744888193586	3705583
+3707009	ML	spectrum: retrieving different points of view from the blogosphere	2009	10.895346137589529	-11.869213705253264	3707036
+3709853	DB	near-miner: mining evolution associations of web site directories for efficient maintenance of web archives	2009	10.586919348365628	-11.923422536513913	3709880
+3711597	Visualization	linea: tailoring timelines by visual exploration of temporal text	2014	10.58855315927755	-11.988581156962235	3711624
+3713071	Web+IR	a multiple-document summarization system with user interaction	2004	10.662861738403329	-11.889814077508586	3713098
+3713778	AI	categorizing photographs for user-adapted searching in a news agency e-commerce application	2001	10.176699751396592	-11.96404736065861	3713805
+3716155	DB	a keyword-based scholar recommendation framework for biomedical literature	2018	10.95788114944225	-12.377101049708534	3716182
+3716512	Web+IR	xpath based crawling method with crowdsourcing for targeted online market places	2016	10.797429422993412	-11.864663807814827	3716539
+3717756	Web+IR	pming distance: a collaborative semantic proximity measure	2012	10.220025417502221	-11.970622846840605	3717783
+3718727	Robotics	identifying consensus tags in social tagging systems	2011	10.61966699980476	-12.472152434375115	3718754
+3722704	AI	towards contextual search: social networks, short contexts and multiple personas	2011	10.566798854958764	-11.877559553388233	3722731
+3723198	DB	answering why-not questions on top-k queries	2012	10.561155848557904	-12.130662739020064	3723225
+3723553	Web+IR	evaluating similarity measures for emergent semantics of social tagging	2009	10.95059359133632	-11.775151187276114	3723580
+3724175	Web+IR	social search and discovery using a unified approach	2009	10.308385227590971	-11.8245037985087	3724202
+3724262	DB	processing recommender top-n queries in relational databases	2015	10.226958721308877	-12.252778595025887	3724289
+3724404	HCI	an ontology-based method for sparsity problem in tag recommendation	2013	10.531037180159245	-12.152016655422573	3724431
+3724568	ML	finding communities in site web-graphs and citation graphs	2006	10.214450063168456	-11.800522985239365	3724595
+3724743	HCI	enhanced web page content visualization with firefox	2009	11.064245852503321	-12.248564426748946	3724770
+3726616	DB	a unified probabilistic framework for web page scoring systems	2004	10.408335405613151	-11.942893904795065	3726643
+3727450	Robotics	web robot detection techniques based on statistics of their requested url resources	2005	10.706619002634788	-11.777191364583913	3727477
+3730269	Web+IR	query-based web page summarisation: a task-oriented evaluation	2001	10.87393230055531	-12.32967035170928	3730296
+3730311	ML	extraction of user profiles by discovering preferences through machine learning	2003	10.377668182296956	-11.81956558582425	3730338
+3730846	Web+IR	integrating web content clustering into web log association rule mining	2005	10.256903307918472	-12.175427709555251	3730873
+3731233	Web+IR	webscsa: web search by constrained spreading activation	1999	10.587140541862512	-11.915119868820806	3731260
+3732134	NLP	seed v3: entity-oriented exploratory search in knowledge graphs on tablets	2018	10.71036272778508	-11.896133953693766	3732161
+3734768	AI	mining web query hierarchies from clickthrough data	2007	10.393826403800272	-12.576539638083732	3734795
+3735004	Robotics	ranking approaches for microblog search	2010	10.743514220331306	-11.770402598595703	3735031
+3735237	Robotics	an implementation of genetic algorithm for clustering help desk data for service automation	2018	11.02476105892647	-12.008468337847074	3735264
+3735371	HCI	ontology-based semantic reminiscence support system	2012	10.669170629029654	-11.79603982034842	3735398
+3737755	DB	logsig: generating system events from raw textual logs	2011	10.567474380290335	-12.483627443950052	3737782
+3739548	Web+IR	an information update method towards internal search engine	2015	10.741598515712695	-12.208216422851507	3739575
+3740455	Web+IR	xml search personalization strategies using query expansion, reranking and a search engine modification	2013	10.693856941061084	-12.66190279101748	3740482
+3742068	NLP	a new partial information extraction method for personal mashup construction	2009	10.865489183143533	-12.550855232402501	3742095
+3742520	Web+IR	topic discovery and evolution in scientific literature based on content and citations	2017	10.936529471035929	-12.630123232100642	3742547
+3742739	ECom	customized query response for an improved web search	2007	11.071069945524908	-12.331747848342266	3742766
+3743406	DB	webyacht: a concept-based search tool for www	1999	11.066756664427283	-12.41831593517019	3743433
+3746217	Web+IR	enhancing folksonomy-based content retrieval with semantic web technology	2010	10.441888278486157	-12.361601480299433	3746244
+3746945	NLP	using section - semantic relation structures to enhance the performance of web search	2000	10.79995290624939	-12.625050849216171	3746972
+3748632	NLP	linking archives using document enrichment and term selection	2011	10.32543258514427	-12.352267362826232	3748659
+3749091	Theory	the improvement of page sorting algorithm for music users in nutch	2016	10.631552972909592	-12.619613491817095	3749118
+3750297	Web+IR	semantic and bayesian profiling services for textual resource retrieval.	2006	10.872216093421816	-12.662057034547265	3750324
+3750624	Web+IR	a method for determining ontology-based user profile in document retrieval system	2017	10.318493775756638	-12.048058752251626	3750651
+3750794	Web+IR	analyzing and comparing on-line news sources via (two-layer) incremental clustering	2016	11.14087988588554	-12.654087618985518	3750821
+3750988	DB	visually extracting data records from query result pages	2013	10.338358586901167	-12.672955383865638	3751015
+3752304	Web+IR	tie-breaker: a new perspective of ranking and evaluation for microblog retrieval	2013	10.398486332619543	-12.114095801326167	3752331
+3752443	NLP	exploiting reviewers' comment histories for sentiment analysis	2014	10.516452757907668	-11.904369289047024	3752470
+3754032	Visualization	hierarchical visualization of video search results for topic-based browsing	2016	10.209918532626016	-12.377811809642534	3754059
+3754653	ML	visual analysis of relationships between heterogeneous networks and texts: an application on the ieee vis publication dataset	2017	10.342720217708088	-12.536378830154616	3754680
+3755371	Web+IR	deriving context specific information on the web	2001	10.481403217413984	-12.074122152625625	3755398
+3755810	Web+IR	discovery of semantic relationships among web pages based on web topic structures	2001	10.548211126801153	-12.061754586179235	3755837
+3757517	ML	publication induced research analysis (pira) - experiments on real data	2012	10.518999254536784	-12.517972887536388	3757544
+3759985	Web+IR	a new approach to relevancy in internet searching - the	2003	10.333675696503937	-12.428980835745053	3760012
+3760952	Web+IR	mining web pages using features of rendering html elements in the web browser	2011	10.935238853958099	-12.564892657270894	3760979
+3761185	Web+IR	implicit user profiling for on demand relevance feedback	2004	10.253107625803562	-11.747605107632973	3761212
+3761632	AI	vision-based web page block segmentation and informative block detection	2013	10.286424324689332	-12.65830440727058	3761659
+3763251	Web+IR	improving browsing in digital libraries with keyphrase indexes	1999	11.1166102861275	-12.601503434952892	3763278
+3764725	HPC	community-based endogamy as an influence indicator	2014	10.859631591867975	-11.871634157827414	3764752
+3765082	Web+IR	a novel method for unsupervised and supervised conversational message thread detection	2016	10.837624022976264	-12.486358353513449	3765109
+3765529	ML	going a step beyond the black and white lists for url accesses in the enterprise by means of categorical classifiers	2014	10.224135728720467	-12.428998055349233	3765556
+3768242	Web+IR	classifying web review opinions for consumer product analysis	2009	11.060591341439862	-11.741661710650305	3768269
+3769415	Web+IR	improving the methods of email classification based on words ontology	2013	10.270109957300596	-11.963744036316305	3769442
+3771804	Web+IR	user access pattern enhanced small web search	2003	10.319683511926423	-12.498413612993865	3771831
+3772216	Web+IR	using the web to validate document recognition results: experiments with business cards	2005	11.067093270972409	-11.877613410302088	3772243
+3772798	Web+IR	disputed sentence suggestion towards credibility-oriented web search	2012	10.750317481339836	-12.250570448703707	3772825
+3773708	AI	complementing search engines with online web mining agents	2003	10.710909531325596	-11.864179829775901	3773735
+3774359	HCI	community2vec: vector representations of online communities encode semantic relationships	2017	10.799753974675038	-11.93563328654066	3774386
+3774408	Web+IR	online spam-blog detection through blog search	2008	10.36933601384553	-11.939800636702376	3774435
+3774787	Web+IR	using knowledge graph to improve enterprise search experience	2018	11.009907240399071	-12.481576797964024	3774814
+3774847	DB	semantic similarity based focused crawling	2009	10.598690962611071	-12.558135473291891	3774874
+3776483	Vision	focused crawler framework based on open search engine	2018	10.931537438803547	-12.496507603183836	3776510
+3778339	Web+IR	crawling deep web entity pages	2013	10.92612682957823	-12.482282163127316	3778366
+3780683	Web+IR	topical search engine for internet of things	2014	10.950711603504152	-12.136420097688177	3780710
+3781517	NLP	personalizing navigation in folksonomies using hierarchical tag clustering	2008	10.554125502138788	-11.868804052035689	3781544
+3782612	Web+IR	ontology-based web crawler	2004	10.441415234547012	-12.381071128001947	3782639
+3784310	DB	analysis-aware approach to improving social data quality	2017	10.604041768330573	-12.620961984826605	3784337
+3784407	Web+IR	efficient summarization-aware search for online news articles	2007	10.639682594157193	-12.640761871176627	3784434
+3784505	NLP	an unsupervised service annotation by review analysis	2018	10.921887999846382	-12.280592794971149	3784532
+3784810	AI	evaluation of dialog strategies for a tourist information retrieval system.	1998	10.919931917211764	-11.735699366345624	3784837
+3785061	AI	cirgdisco at replab2012 filtering task: a two-pass approach for company name disambiguation in tweets	2012	11.134981463436237	-12.40553307383067	3785088
+3785356	AI	a new hybrid approach to sentiment classification	2016	10.947614978157015	-12.604874144830651	3785383
+3786859	NLP	streaming first story detection with application to twitter	2010	10.253918334489704	-12.525662728355325	3786886
+3791258	Web+IR	soft-404 pages, a crawling problem	2014	10.594661219617805	-12.679355483649832	3791285
+3791944	DB	an explorative association-based search for the semantic web	2010	10.972772847720966	-12.658471592679591	3791971
+3793593	ECom	a treemap-based result interface for search engine users	2007	10.425341305472935	-12.468083725170741	3793620
+3793926	ML	exploiting temporal characteristics of features for effectively discovering event episodes from news corpora	2014	10.653078121386432	-12.64463288986728	3793953
+3795298	DB	exploring user expertise and descriptive ability in community question answering	2014	10.241712884479954	-11.990628217031116	3795325
+3795907	Web+IR	experimental assessment of the target adaptive ontology-based web search framework	2010	11.060335965560236	-12.169986321377378	3795934
+3796319	Web+IR	semantic recommender system for the recovery of the preserved web heritage	2015	10.459540536572597	-11.977069688163073	3796346
+3797355	Web+IR	temporal-textual retrieval: time and keyword search in web documents	2012	10.447883767173424	-12.657219605401998	3797382
+3797576	DB	pagechaser: a tool for the automatic correction of broken web links	2008	10.681664245394437	-11.8555854284492	3797603
+3798415	ML	web mining in search engines	2004	10.570043094199216	-11.840087049715102	3798442
+3799539	Web+IR	long-term learning for web search engines	2002	10.756353590014612	-12.677258443450858	3799566
+3799993	DB	on-line new event detection using time window strategy	2011	10.747269040603122	-11.876584919331224	3800020
+3801374	Web+IR	source retrieval via naïve approach and passage selection heuristics notebook for pan at clef2013	2013	10.662064829726786	-12.616084152739074	3801401
+3802487	Web+IR	deriving music theme annotations from user tags	2009	10.241074968773693	-11.796217288336216	3802514
+3803423	Vision	information retrieval aware web site modelling and generation	2004	10.915568909104381	-12.384483889824226	3803450
+3803864	ML	the cooperation model for multi-agents and the identification on replicated collections for web crawler	2010	10.417722446920312	-12.67324294083967	3803891
+3806391	Web+IR	recommending patents based on latent topics	2013	11.122671945514645	-12.614311797994311	3806418
+3806995	AI	learning to schedule webpage updates using genetic programming	2013	10.264837585074147	-12.380215234179655	3807022
+3807076	Web+IR	personalized web search via query expansion based on user's local hierarchically-organized files.	2017	10.748838719728091	-12.636519267264967	3807103
+3807789	DB	discover information and knowledge from websites using an integrated summarization and visualization framework	2010	11.019705794603443	-12.267700420285154	3807816
+3808705	ML	personalizing image search results on flickr	2007	10.434384181459226	-12.202056015425345	3808732
+3811175	Robotics	a novel web page filtering system by combining texts and images	2006	10.313768836623462	-12.240916533684073	3811202
+3814933	Web+IR	bingo! and daffodil: personalized exploration of digital libraries and web sources	2004	10.784476068067374	-11.956347721086244	3814960
+3815941	ML	towards a next-generation search engine	2000	10.979627163731363	-11.999090682785173	3815968
+3816385	Robotics	extending web search for online plagiarism detection	2007	10.986832328955245	-11.774808007912307	3816412
+3816815	NLP	ontology based web crawling - a novel approach	2005	10.428181462798149	-12.435662823666615	3816842
+3817750	Web+IR	presenting web site search results in context: a demonstration	1998	10.84856958755063	-12.09487841115	3817777
+3818705	HPC	digital libraries - classification and visualization techniques	2000	10.837376444342873	-12.566476103015859	3818732
+3819398	Web+IR	ranking web documents with dynamic evaluation by expert groups	2003	10.565047892738562	-11.819578518324125	3819425
+3820387	NLP	university of waterloo at trec 2014 contextual suggestion: experiments with suggestion clustering	2014	10.529811845090952	-11.946536319700424	3820414
+3820760	Web+IR	case: a platform for crowdsourcing based api search	2015	10.20786742012177	-12.330669578177588	3820787
+3820903	Web+IR	entity tracking in real-time using sub-topic detection on twitter	2014	10.282447157767471	-12.486101874496276	3820930
+3821779	Web+IR	searching linked objects with falcons: approach, implementation and evaluation	2009	11.113815125717917	-12.6260366519493	3821806
+3821829	Web+IR	relevance and effort: an analysis of document utility	2014	10.407996130216064	-12.218661902864056	3821856
+3822357	Vision	semantic meta-search using cohesion network analysis	2018	10.821315382169496	-12.346184042018994	3822384
+3823279	AI	tag sources for recommendation in collaborative tagging systems	2009	10.576817625359595	-12.283451248071804	3823306
+3825897	AI	car: incorporating filtered citation relations for scientific article recommendation	2015	10.70701177646644	-11.974808407265645	3825924
+3825953	Web+IR	the query-flow graph: model and applications	2008	10.228785980134166	-11.9351419386543	3825980
+3827419	Web+IR	pros: a personalized ranking platform for web search	2004	10.309777092583492	-11.746247228351637	3827446
+3827589	HCI	using content analysis to support the noise detechtion and visualization of shared workspaces	2005	10.775488276749083	-12.00779662575392	3827616
+3827623	NLP	words-of-wisdom search system based on user's desired sentiment	2012	10.21420342483614	-12.098290671010847	3827650
+3828413	DB	lda based semi-supervised learning from streaming short text	2015	10.198661015730048	-11.94438073383169	3828440
+3831542	Visualization	statistical and structural approaches to filtering internet pornography	2004	10.39970231444268	-12.527014571343695	3831569
+3832139	NLP	integration of document index with perception index	2002	10.705952057729851	-12.095776208361073	3832166
+3832350	AI	facetedpedia: enabling query-dependent faceted search for wikipedia	2010	10.790128195612194	-12.081604925886927	3832377
+3832468	Web+IR	a novel term weighing scheme towards efficient crawl of textual databases	2013	10.753859127264068	-12.334668787774715	3832495
+3834382	NLP	extracting categorical topics from tweets using topic model	2013	10.275871677563767	-11.750385428736974	3834409
+3834600	Web+IR	incremental relevance feedback for information filtering	1996	10.345085462423643	-12.420716403559675	3834627
+3834744	Web+IR	analyzing evolving stories in news articles	2017	10.986233264647336	-11.829433535102206	3834771
+3836533	Web+IR	tag clouds for summarizing web search results	2007	10.693818431545356	-12.208085270095276	3836560
+3838285	Web+IR	information dissemination based on semantic relations.	2003	10.884282945346492	-12.212391144231484	3838312
+3842451	ML	overlaying communities and topics: an analysis on publication networks	2011	10.692231616139267	-12.67702138553996	3842478
+3844428	NLP	user-model based personalized summarization	2007	10.36506503248842	-11.838138778157143	3844455
+3846311	Web+IR	building enriched web page representations using link paths	2012	10.57617452843872	-12.593436837732725	3846338
+3848665	HCI	re-testing the perception of social annotations in web search	2013	11.13142566004796	-12.302174866155825	3848692
+3857381	Web+IR	why not, wine?: towards answering why-not questions in social image search	2013	11.042879935496504	-12.448349606717011	3857408
+3857712	NLP	social media understanding by word cloud timeline	2014	10.932249574042764	-11.846774675962347	3857739
+3858656	Web+IR	vipreader: a light news reader for the visually impaired person	2014	11.093183913718343	-12.044198850518892	3858683
+3860000	Web+IR	recency ranking by diversification of result set	2011	10.333735262857466	-12.168717246202624	3860027
+3860352	Web+IR	search result clustering using semantic web data	2011	10.801383336650119	-12.58434193500464	3860379
+3860718	Vision	semantic context extraction from collaborative networks	2015	10.260295070513788	-11.765036288106828	3860745
+3860877	Web+IR	document retrieval from user-selected web sites	2003	11.113320605899188	-12.41195536858419	3860904
+3862187	AI	web-linkage viewer: drawing links in the web based on a site-oriented framework	2003	10.54397079637116	-11.80952894385222	3862214
+3862834	Web+IR	modeling user activities on the web using paragraph vector	2015	10.42875147348436	-11.767772309884567	3862861
+3863548	NLP	an ecologically valid evaluation of speech summarization	2012	11.046281234938133	-11.731477062593278	3863575
+3863757	AI	sentiment search: an emerging trend on social media monitoring systems	2014	10.287700559277713	-11.811232721879506	3863784
+3863816	Vision	greedy recommending is not always optimal	2003	10.228305495557287	-11.755501247389232	3863843
+3864755	AI	personal concept hierarahy construction	2012	10.27783004550579	-12.295675847725716	3864782
+3866670	ML	discovering concept-level event associations from a text stream	2016	10.661937915515317	-12.368747677613618	3866697
+3866705	DB	information discovery across multiple streams	2009	11.055003449909675	-12.469585487554298	3866732
+3866791	Embedded	deep web crawling for insights from polar data	2017	11.057585685009792	-12.608289454054551	3866818
+3867318	Web+IR	time-aware structured query suggestion	2013	10.234890550492134	-11.99302148963631	3867345
+3868631	AI	learning implicit user interest hierarchy for context in personalization	2003	10.390730416028061	-11.778574697029619	3868658
+3869934	Web+IR	ads-portal domains: identification and measurements	2010	11.077401993985227	-11.912061422475428	3869961
+3869946	Web+IR	ontology-supported document ranking for novelty search	2013	10.27594239900153	-12.41499473808183	3869973
+3870051	Web+IR	the influence of personalization on tag query length in social media search	2010	10.621845092282543	-12.389357741232299	3870078
+3870924	DB	entity type disambiguation in user queries	2011	10.687035030066005	-12.617411310356257	3870951
+3873000	AI	indexing hypertext documents in context	1991	11.001983853582239	-12.148779179167589	3873027
+3873700	Web+IR	semantic history map: graphs aiding web revisitation support	2010	10.728400376166807	-11.74294933415283	3873727
+3874835	Web+IR	forming within-site topical information space to facilitate online free-choice learning	2010	10.576482490081796	-12.16857835537465	3874862
+3874880	DB	enriching the contents of enterprises' wiki systems with web information	2010	11.040990511515284	-12.183809544132412	3874907
+3875269	Web+IR	dynamic strategies for query constructing and rank merging from multiple search engines	2015	10.71012855485219	-12.269234423679814	3875296
+3876988	Web+IR	spam email classification using an adaptive ontology	2007	10.614596856116279	-12.093643021767306	3877015
+3878807	Web+IR	learning from users' querying experience on intranets	2012	10.37442069903219	-12.371317941356752	3878834
+3879019	Web+IR	one query, many clicks: analysis of queries with multiple clicks by the same user	2016	10.525646049924458	-11.981999781746644	3879046
+3880585	Web+IR	gaz-guide: agent-mediated information retrieval for official gazettes	2001	11.084832004833087	-11.787857278885093	3880612
+3881713	HCI	understanding the semantics of ambiguous tags in folksonomies	2007	10.856521171105316	-11.967365716237413	3881740
+3885991	Web+IR	identifying spam link generators for monitoring emerging web spam	2010	10.315423606358195	-12.208665094860699	3886018
+3886402	Web+IR	microblogging temporal summarization: filtering important twitter updates for breaking news	2015	10.701584022809923	-11.963728646831653	3886429
+3888657	Web+IR	literal-matching-biased link analysis	2004	10.188320556617457	-12.298188701587039	3888684
+3890575	Web+IR	multiple evidence combination in web site search based on users' access histories	2007	10.54964589913153	-12.619293985248213	3890602
+3892022	DB	distributed ontology-driven focused crawling	2013	10.900296872666717	-12.480052930972086	3892049
+3897132	Web+IR	collaborative filtering to locate, comprehend, and organize collections of web sites	1998	10.606561887045721	-12.028062941502185	3897159
+3898182	DB	web query refinement without information loss	2004	10.564921916834493	-12.57239215233997	3898209
+3899599	Vision	genetic search based on multiple mutations	2000	10.444677418919738	-11.863559250468972	3899626
+3900192	Web+IR	full-text search in email archives using social evaluation, attached and linked resources	2012	10.750007595006553	-12.120887470296873	3900219
+3901855	Web+IR	getting the most out of social annotations for web page classification	2009	10.633476250019749	-12.481790892855589	3901882
+3905461	Web+IR	link-based hidden attribute discovery for objects on web	2011	10.40163905405231	-12.607469189714816	3905488
+3907633	Web+IR	assessment of conversation co-mentions as a resource for software module recommendation	2009	10.687936782927821	-12.096815732807007	3907660
+3908358	ML	rough set based ensemble prediction for topic specific web crawling	2009	10.409701272189587	-12.57729710657009	3908385
+3908747	DB	discovering large dense subgraphs in massive graphs	2005	10.3703412554031	-12.245135895270838	3908774
+3910031	Web+IR	crechaindo: an iterative and interactive web information retrieval system based on lattices	2009	10.362481885941609	-12.405893355684814	3910058
+3910274	HCI	bigfile: bayesian information gain for fast file retrieval	2018	10.274390542682827	-11.849187584968705	3910301
+3910582	Web+IR	university of glasgow at trec 2014: experiments with terrier in contextual suggestion, temporal summarisation and web tracks	2013	11.028673873986444	-12.519507923723486	3910609
+3911621	DB	deep web sources focused crawling	2007	10.65899414555069	-12.262202043023064	3911648
+3912064	DB	patent citation recommendation for examiners	2015	10.560271677131805	-12.55268270478874	3912091
+3912666	ML	searching a fixed graph	1996	10.420817137186248	-12.371099214840855	3912693
+3917656	Web+IR	crawling a country: better strategies than breadth-first for web page ordering	2005	10.49843910346457	-12.21546671334734	3917683
+3917988	DB	using personalization to improve xml retrieval	2014	10.617957332381174	-12.329063163071575	3918015
+3918734	Web+IR	applying ontological framework for finding links into the future from web	2009	11.004701281089575	-11.897479574547939	3918761
+3919379	DB	affinity-based probabilistic reasoning and document clustering on the www	2000	10.421071701164427	-12.437070851062114	3919406
+3920304	Web+IR	newsjunkie: providing personalized newsfeeds via analysis of information novelty	2004	11.009750388808996	-12.064916377980376	3920331
+3926346	NLP	temporal modelling of geospatial words in twitter	2016	10.391953378321576	-11.900185438589627	3926373
+3926941	DB	inzeit: efficiently identifying insightful time points	2010	10.592028067605431	-12.654487861510464	3926968
+3927394	DB	automatic extraction of publication time from news search results	2006	10.80788315380322	-12.511638887901105	3927421
+3927452	HCI	comparing tagging vocabularies among four enterprise tag-based services	2007	11.004470813410164	-12.255530042183693	3927479
+3927939	NLP	choosing values for text fields in web forms	2012	10.591296269535778	-12.677088042542989	3927966
+3928999	DB	querying with preferences in a digital library	2005	10.927289618569901	-11.956354279407638	3929026
+3930511	Web+IR	an improved hits algorithm based on analysis of web page links and web content similarity	2016	10.21791567627443	-12.661551272053602	3930538
+3930531	DB	xer: a recommendation for xml element	2010	10.972266123604728	-12.666708663975136	3930558
+3931684	Web+IR	context-aware search for personal information management systems	2012	10.579314542644383	-12.265365955342928	3931711
+3931746	DB	predicting query times	1998	10.623144600786992	-12.348935638029088	3931773
+3932059	Web+IR	learning to discover domain-specific web content	2018	10.912666779805065	-12.127599023030735	3932086
+3935996	Web+IR	term-based commercial intent analysis	2009	10.204565407158011	-12.129879571969225	3936023
+3937881	ML	time-dependent event hierarchy construction	2007	10.620506363587277	-12.278344128310197	3937908
+3938500	Web+IR	a semantic approach to contextual advertising	2007	10.62789567549239	-11.991217247034127	3938527
+3938970	ML	multiple factor hierarchical clustering algorithm for large scale web page and search engine clickstream data	2012	11.003656597623573	-11.888160305459044	3938997
+3939656	Web+IR	dynamical modification of context for an iterative and interactive information retrieval process on the web	2007	10.362898633690994	-12.370780474807976	3939683
+3939786	DB	query recommendation in digital libraries using olap	2010	10.33375161756538	-12.246819953282724	3939813
+3941387	Web+IR	browsing and searching in hypertext systems	1993	11.072434196312303	-12.048072911660745	3941414
+3941487	DB	a fast chinese web-document clustering method under pareto’s principle	2008	10.336286635377274	-12.134983319355197	3941514
+3942729	Web+IR	web page classification using distributed learning automata and partitioning graph algorithm	2010	10.234986757558918	-12.13334170171056	3942756
+3942896	ML	hcc: a hierarchical co-clustering algorithm	2010	10.523161373911648	-12.259233563040386	3942923
+3943710	DB	modelling users' interests and needs for an adaptive online information system	2003	10.648165283162989	-12.231462062922633	3943737
+3944830	ML	focused crawling using navigational rank	2010	10.218643117480484	-12.549438818038167	3944857
+3947116	Web+IR	enhanced searching algorithms for relevant web pages using hyperlink graphs	2005	10.343842994036672	-12.439265047092867	3947143
+3947913	Metrics	filtering performance analysis and application study of advertising filtering tools	2017	10.433955426548883	-12.214649370538144	3947940
+3948380	ML	ranking convolutional recurrent neural networks for purchase stage identification on imbalanced twitter data	2017	10.411019311272597	-11.8236946592221	3948407
+3948574	AI	words-of-wisdom search based on multi-dimensional sentiment vector	2011	10.26613588766832	-11.815718784761849	3948601
+3950213	Web+IR	an integrated ranking algorithm for efficient information computing in social networks	2012	10.256468302231916	-11.736346808687545	3950240
+3950339	Web+IR	understanding and predicting question subjectivity in social question and answering	2016	10.721778293840083	-11.910851443065336	3950366
+3952005	Web+IR	distributed and collaborative web change detection system	2015	10.66318254671298	-11.921383150976881	3952032
+3952023	Web+IR	serp-level disambiguation from search results	2015	10.955981517929613	-11.846418904819979	3952050
+3952371	Web+IR	discovery of similarity computations on the internet	1999	10.880678085727348	-12.323926143191473	3952398
+3953346	DB	snapshot of the position of a site in the internet: vector space model applied to external pages	2012	10.32617303333571	-12.305026744523992	3953373
+3953455	ML	machine learning on web documents	2004	10.389123022801046	-12.126316121919064	3953482
+3954721	Web+IR	inquirus, the neci meta search engine	1998	10.900694367320044	-12.2317240432959	3954748
+3956178	AI	keyword management system based on ontology for contextual advertising	2007	10.496352542407656	-11.916586854108234	3956205
+3956735	ML	a general evaluation framework for adaptive focused crawlers	2014	10.80392181325751	-12.41338012430766	3956762
+3961155	DB	schema adaptive modeling and incremental matching for web interface	2015	10.550978277311238	-12.098385705646562	3961182
+3961791	Web+IR	aces: a contextual engine for search	2004	11.099533035918224	-12.614703775665856	3961818
+3962459	DB	hawk: a focused crawler with content and link analysis	2008	10.77110190752233	-12.307701162909096	3962486
+3962998	ML	generating summary keywords for emails using topics	2008	10.663384165186235	-12.547253162604752	3963025
+3967091	Web+IR	a study on combination of block importance and relevance to estimate page relevance	2005	10.550565469286225	-12.520030216949069	3967118
+3969410	DB	a system for keyword search on textual streams.	2007	10.683923136776448	-12.102864035842295	3969437
+3969529	AI	ju_cse: a conditional random field (crf) based approach to aspect based sentiment analysis	2014	11.11141887879747	-12.154519997832269	3969556
+3969694	NLP	using element and document profile for information clustering	2004	10.393034812323439	-12.214012528884515	3969721
+3970815	DB	hints from the crowd: a novel nosql database	2013	10.307608071388744	-12.302142257534086	3970842
+3971460	Web+IR	information retrieval from hypertext: an approach using plausible inference	1993	10.889106038412493	-12.586230165732742	3971487
+3971727	NLP	extraction of the contents in the web texts by content-density distribution	2011	10.938351829723683	-12.59933015487708	3971754
+3973359	Web+IR	cleaning search results using term distance features	2008	10.578763532439684	-12.269595158518756	3973386
+3973877	Web+IR	improved relevance ranking in webgather	2001	10.53916898713434	-12.36679604802465	3973904
+3974453	NLP	video to article hyperlinking by multiple tag property exploration	2014	10.709855701576373	-12.531059086151345	3974480
+3976055	NLP	detecting human sentiment from text using a proximity-based approach	2011	10.622284364142141	-11.794393208026175	3976082
+3976155	Web+IR	quality models for microblog retrieval	2012	10.31468173033748	-11.779369420226645	3976182
+3979985	NLP	a two-stage approach to retrieving answers for how-to questions	2006	10.85864564247866	-12.28761015371291	3980012
+3981855	Web+IR	detection of near-duplicate user generated contents: the sms spam collection	2011	10.917736057393348	-12.168294847609378	3981882
+3982469	Web+IR	an adaptive real-time web search engine	1999	10.742456007072034	-11.790545310676672	3982496
+3984532	NLP	examining the coherence of the top ranked tweet topics	2016	10.40800883421748	-12.349732787368845	3984559
+3986214	Web+IR	fuzzy qualitative models to evaluate the quality on the web	2004	10.727138851479369	-11.913821407158096	3986241
+3987510	Metrics	let other users help you find answers: a collaborative question-answering method with continuous markov chain model	2011	10.530860871968828	-11.803730012611027	3987537
+3992022	Web+IR	know your onions: understanding the user experience with the knowledge module in web search	2015	11.048769263128836	-12.162710770051453	3992049
+3992488	Web+IR	on the topic discovery using query logs and hyperlink	2006	10.662378183766512	-12.320659841925744	3992515
+3992514	Web+IR	constructing multi-granular and topic-focused web site maps	2001	10.952405535955299	-12.436517924240679	3992541
+3993960	Robotics	using computation tree logic for intelligent information search on the web	2002	11.02253656375092	-12.492049555142545	3993987
+3994225	Web+IR	a keyword-based semantic prefetching approach in internet news services	2004	10.302407999395136	-12.38741847865779	3994252
+3995327	Web+IR	keyword enhanced web structure mining for business intelligence	2006	10.567563492438023	-12.273242933231016	3995354
+3996570	NLP	finding similar medical questions from question answering websites	2018	10.19308998510133	-12.426216540555464	3996597
+3997256	AI	usage derived recommendations for a video digital library	2007	10.565143738330068	-11.889272180198354	3997283
+4001943	Web+IR	investigating the precision of web image search engines for popular and less popular entities	2017	10.448983184798424	-12.562659477356734	4001970
+4002155	Robotics	the research on topic detection of microblog based on tc-lda	2013	10.250302012880924	-11.931602745978386	4002182
+4002513	Web+IR	comparing methods for detecting child exploitation content online	2012	10.635606239300973	-12.010614308918809	4002540
+4003494	Web+IR	similarity based hot spot news clustering	2015	10.432037968740165	-12.117984623720679	4003521
+4004032	Web+IR	dom block clustering for enhanced sampling and evaluation	2015	10.731707961107984	-12.278393279574056	4004059
+4005482	Web+IR	a fact/opinion classifier for news articles	2007	10.556946148617248	-11.732287689842908	4005509
+4006077	DB	a probabilistic query suggestion approach without using query logs	2013	10.294717049393174	-11.940586507146016	4006104
+4006332	Web+IR	sentiment flow - a general model of web review argumentation	2015	10.598837341671302	-12.120557525354972	4006359
+4008614	Web+IR	why are moved web pages difficult to find?: the wish approach	2009	10.554260341909641	-11.978732623939571	4008641
+4009091	DB	hierarchical topic-based communities construction for authors in a literature database	2010	10.480437578224569	-12.291304103062437	4009118
+4010821	Web+IR	intent feature discovery using q&a corpus and web data	2010	10.886972154312446	-12.304241005749637	4010848
+4011246	ML	an analysis of citation recommender systems: beyond the obvious	2017	10.581433049071583	-11.79910864525899	4011273
+4011983	NLP	generating recommendation dialogs by extracting information from user reviews	2013	10.543772962226177	-11.992590041781412	4012010
+4015255	Web+IR	hierarchical triadic context analysis for folksonomy-based web applications	2008	10.517134835804855	-12.567332570092692	4015282
+4015449	AI	theme based clustering of tweets	2014	11.004366139042752	-11.975200942848476	4015476
+4015480	AI	from dbpedia and wordnet hierarchies to linkedin and twitter	2015	10.893673611417661	-11.809124323914725	4015507
+4018171	Web+IR	finding, weighting and describing venues: csiro at the 2012 trec contextual suggestion track	2012	10.957800106158755	-12.181422995559931	4018198
+4019625	AI	hierarchically structured recommender system for improving nps of a company	2014	11.053110074728082	-12.295527668673074	4019652
+4020974	Web+IR	clustering memes in social media streams	2014	10.34857502088645	-12.022075969652686	4021001
+4021081	Web+IR	web search personalization via social bookmarking and tagging	2007	10.3565500098899	-11.993646844037011	4021108
+4021338	SE	task behaviors during web search: the difficulty of assigning labels	2009	10.832069900627873	-11.92040584584359	4021365
+4023108	DB	file and task abstraction in task workflow patterns for file recommendation using file-access log	2014	10.708427667739693	-12.066160403263913	4023135
+4023134	DB	combined ranking for multi-media web search engine	2009	10.549813354730363	-12.487441039701777	4023161
+4023951	Web+IR	"""from machu_picchu to """"rafting the urubamba river"""": anticipating information needs via the entity-query graph"""	2013	10.412593193245543	-11.934385092341804	4023978
+4025360	Web+IR	the effects of latency penalties in evaluating push notification systems	2016	11.128214042851784	-11.827447763977268	4025387
+4026316	Web+IR	search effectiveness with a breadth-first crawl	2008	10.291899147896457	-12.564264669622716	4026343
+4026615	DB	a systematic framework to discover pattern for web spam classification	2017	10.285086134411609	-12.224916560423868	4026642
+4026855	DB	tailoring entity resolution for matching product offers	2012	11.127301409351228	-12.371912216320837	4026882
+4027312	DB	improvement of page ranking algorithm based on timestamp and link	2008	10.41827602219928	-11.947990737223869	4027339
+4028975	Web+IR	convergence of web 2.0 and semantic web: a semantic tagging and searching system for creating and searching blogs	2007	11.012458427415769	-12.281266047149613	4029002
+4029345	DB	web mining for topics defined by complex and precise predicates	2004	11.062042828440546	-12.585983077532306	4029372
+4029644	Logic	method of visualizing homepages using certain quantifiers and its verification	2001	10.752596917751518	-12.540246497985034	4029671
+4030984	Web+IR	exploiting social tags to overcome cold start recommendation problem	2014	10.364935717098714	-11.896299915551493	4031011
+4031022	NLP	automatically identifying tag types	2009	10.21475492410661	-12.501886198026071	4031049
+4035053	NLP	large scale sentiment learning with limited labels	2017	10.274408597808169	-11.941830425836278	4035080
+4036582	Web+IR	generating page clippings from web search results using a dynamically terminated genetic algorithm	2005	10.476208101981324	-11.982981290275063	4036609
+4037578	Web+IR	information retrieval from the web: an interactive paradigm	2005	10.839327206878641	-12.596233355611894	4037605
+4038297	OS	extraction of relationship between web pages and files in access logs	2012	10.797565892840302	-12.337598656315274	4038324
+4039573	Web+IR	similarity retrieval of web documents considering both text and style	2004	11.047782196390893	-12.007473577052574	4039600
+4039764	Web+IR	genetic programming-based discovery of ranking functions for effective web search	2005	10.501495909943765	-12.438213448776246	4039791
+4041263	Web+IR	a rough set based self-adaptive web search engine	2001	10.218239662903693	-11.991149555085272	4041290
+4041831	Web+IR	exploring social annotations with the application to web page recommendation	2009	10.473353439885674	-12.163469405369534	4041858
+4043561	Web+IR	just-in-time contextual advertising	2007	10.244518145550972	-12.100213623060947	4043588
+4044017	SE	searching keyword-lacking files based on latent interfile relationships	2010	11.001715184532387	-12.50393518623157	4044044
+4044029	AI	improvement of precision and recall for information retrieval in a narrow domain: reuse of concepts by formal concept analysis	2004	10.821001603930249	-12.211648055657033	4044056
+4044437	DB	personalizing xml full text search in pimento	2008	10.577498729011424	-12.055450084705555	4044464
+4044900	Web+IR	semantic contextualisation of social tag-based profiles and item recommendations	2011	10.301246640459873	-12.048827551755009	4044927
+4046167	Crypto	web search engine metrics: (direct metrics to measure user satisfaction)	2010	11.097143137668064	-11.80384697607051	4046194
+4046366	AI	identifying user preferences with wrapper-based decision trees	2011	10.24779071262668	-11.916842085226516	4046393
+4046956	DB	query recommendation with tf-iqf model and popularity factor	2008	10.22948470588442	-12.126633677205508	4046983
+4047443	Web+IR	webrelievo: a system for browsing and analyzing the evolution of related web pages	2004	10.61295554799519	-11.841910733266063	4047470
+4047557	DB	treelicious: a system for semantically navigating tagged web pages	2010	10.697918991202188	-12.144054856728168	4047584
+4047575	DB	efficient query rewrite for structured web queries	2011	11.088055399903928	-12.046153075596207	4047602
+4052591	NLP	semantic query expansion using cluster based domain ontologies	2012	10.8017090323529	-12.424556667487927	4052618
+4054543	NLP	evaluating the helpfulness of linked entities to readers	2014	10.499805150367203	-12.3290595230904	4054570
+4054986	Web+IR	online learning to rank for information retrieval: sigir 2016 tutorial	2016	11.081587224997516	-12.357173144579177	4055013
+4055591	Web+IR	from query to question in one click: suggesting synthetic questions to searchers	2013	10.736941230246948	-12.327541299258144	4055618
+4055952	DB	news topic detection based on hierarchical clustering and named entity	2011	10.543478330529783	-12.006055673198516	4055979
+4056543	Web+IR	semantic advertising for web 3.0	2009	10.617579098802931	-11.91590428387005	4056570
+4057189	Web+IR	web page summarization using dynamic content	2004	10.41646996947009	-11.928242951272257	4057216
+4060242	Web+IR	discriminative bi-term topic model for headline-based social news clustering	2015	10.265403793191828	-12.010281586927162	4060269
+4060762	Web+IR	mapreduce based information retrieval algorithms for efficient ranking of webpages	2011	10.320291896783116	-12.538401455778846	4060789
+4061077	DB	web personalization method based on relevance feedback on keyword space	2009	10.268917581652694	-12.631317726224472	4061104
+4063589	DB	enhanced query processing for nosql crowdsourcing systems	2014	10.202459189685014	-12.463563085425196	4063616
+4064028	DB	using online relevance feedback to build effective personalized metasearch engine	2001	10.375275174716707	-12.25145891607357	4064055
+4065180	Web+IR	discovering aspects of web pages from their referential contexts in the web	2004	10.990695960862483	-11.86962886151654	4065207
+4066391	Robotics	support for browsing in an intelligent text retrieval system	1989	10.911976156991136	-11.843922014841946	4066418
+4067679	Web+IR	hashtag recommendation for hyperlinked tweets	2014	10.201875990884774	-12.410918284153734	4067706
+4068409	DB	intelligent web crawler	2010	11.023056150059574	-12.307420964015995	4068436
+4069712	Web+IR	comparative study of search engine result visualisation: ranked lists versus graphs	2013	10.516978516274646	-12.466973198014651	4069739
+4071033	Web+IR	improving mobile search using content enrichment	2007	10.629972150356123	-12.011789215407562	4071060
+4072692	Web+IR	analysis of link graph compression techniques	2008	10.492220644265966	-12.578179832583794	4072719
+4073069	Web+IR	visualizing web search results in 3d	2004	10.688741201938676	-11.934449950477962	4073096
+4075296	Web+IR	evidence of quality of textual features on the web 2.0	2009	10.584172463334141	-12.143371218683528	4075323
+4076441	Web+IR	using bloom filters to refine web search results	2005	10.250267200428626	-12.486153105342309	4076468
+4079126	Web+IR	concept based tie-breaking and maximal marginal relevance retrieval in microblog retrieval	2014	10.393421094402838	-12.622965622023154	4079153
+4079332	Web+IR	collaborative cyberporn filtering with collective intelligence	2011	10.623727504962233	-11.739219408567012	4079359
+4079529	Web+IR	analysis of anchor text for web search	2003	10.841061185306025	-12.150406503700168	4079556
+4080116	Web+IR	product aspect ranking and its applications	2014	10.766973762995134	-11.926655826751144	4080143
+4080776	Web+IR	interactive multidimensional document visualization	1998	10.44450904550379	-12.205263511131642	4080803
+4081584	ML	interactive and adaptive search context for the user with the exploration of personalized view reformulation	2005	10.722204729585746	-12.062307909684778	4081611
+4083184	ML	archive knowledge discovery by proxy cache	2004	10.783717013064043	-12.047114643026221	4083211
+4084863	DB	chinese web comments clustering analysis with a two-phase method	2009	10.35370081355418	-11.901296397227744	4084890
+4085962	ML	methods for miningweb communities: bibliometric, spectral, and flow	2004	10.37520346199128	-12.057146578486414	4085989
+4086057	HPC	a sophisticated library search strategy using folksonomies and similarity matching	2009	11.091991434775414	-12.475528660512516	4086084
+4088952	SE	an improved method for ranking of search results based on user interest	2008	10.694922375538859	-12.476526604247693	4088979
+4089281	AI	a structure-oriented unsupervised crawling strategy for social media sites	2018	10.454139439848257	-12.244528086217532	4089308
+4089367	NLP	characterization of evaluation metrics in topical web crawling based on genetic algorithm	2005	10.274049727983863	-12.569955921771722	4089394
+4090195	Web+IR	structural web search engine	2003	10.843064595486076	-12.36056511428148	4090222
+4091302	AI	profiling users and knowledge graphs on the web	2018	10.407969339381305	-12.143130552363978	4091329
+4091796	NLP	supporting the evaluation of complex search tasks with the searchtrails tool	2014	10.625408945717327	-11.758749773437044	4091823
+4092438	SE	improving query suggestion for digital libraries	2011	10.826281505489805	-12.631933899655024	4092465
+4093054	NLP	s-hitsc: an improved model and algorithm for topic distillation on the web	2006	10.311335005875003	-12.41762702656374	4093081
+4093370	DB	mining term association rules for heuristic query construction	2004	10.86540211685738	-12.615534045162315	4093397
+4093838	Web+IR	topicexplorer: exploring document collections with topic models	2012	10.30457173282195	-12.46534458025149	4093865
+4094347	ML	improving search results with data mining in a thematic search engine	2004	10.65107579412212	-12.249263214936905	4094374
+4094593	Web+IR	smartnews: towards content-sensitive ranking of comments	2013	11.109480413021958	-12.0342684840444	4094620
+4095006	AI	intersubjectivity and sentiment: from language to knowledge	2016	10.887952655438841	-11.757843180757616	4095033
+4095055	Web+IR	overview of the trec 2015 contextual suggestion track	2012	10.885878862649909	-12.624533072102349	4095082
+4095367	NLP	extraction of topical consumer products from weblogs	2008	10.865026909714643	-11.98483227045334	4095394
+4095467	Web+IR	exploring cost-effective approaches to human evaluation of search engine relevance	2005	10.51592661689543	-12.419026300442749	4095494
+4099073	ML	hierarchical estimation framework of multi-label classifying: a case of tweets classifying into real life aspects	2015	10.384300693262226	-11.840360476914418	4099100
+4099083	DB	metrics for accessing heterogeneous data: is there any hope? (panel)	1995	10.536813268947164	-12.5526305635471	4099110
+4099898	HPC	semantic map based web search result visualization	2007	10.863392893908546	-12.234844677939304	4099925
+4103183	Web+IR	techniques for efficient fragment detection in web pages	2003	11.046126072360932	-11.964757189042151	4103210

@@ -1,0 +1,972 @@
+id	area	title	year	x	y	ix
+3200123	Theory	threshold approximate matching in grammar-compressed strings	2014	-9.446433779132342	10.971383558453565	3200150
+3200154	Theory	on-line repetition detection	2006	-9.760801408132517	10.674188354812477	3200181
+3200417	Theory	decreasekeys are expensive for external memory priority queues	2017	-9.904639120612762	11.11747976271171	3200444
+3200941	Theory	binomial heaps and skew binomial heaps	2010	-9.691431727819484	10.973379527935009	3200968
+3206035	DB	batch source-code plagiarism detection using an algorithm for the bounded longest common subsequence problem	2012	-9.268494005050288	10.582710882186149	3206062
+3207522	Theory	concerning the merging of equal length tape files	1965	-9.380210313302028	10.779316626946638	3207549
+3208077	DB	parallel algorithms for the longest common subsequence problem	1994	-10.026587448595118	10.737443661799883	3208104
+3209527	AI	single versus multiple sorting in all pairs similarity search	2010	-9.295719641102144	11.009299904889186	3209554
+3210333	Theory	reliable minimum finding comparator networks	2000	-9.294421015394748	11.277130419927428	3210360
+3210338	Theory	two algorithms for lcs consecutive suffix alignment	2007	-9.92289047858162	10.5795139800388	3210365
+3211119	Theory	an efficient parallel algorithm for random sampling	1989	-9.31243782978726	10.968983909181397	3211146
+3211774	AI	1.6-bit pattern databases	2010	-9.279580236568982	11.143239506644841	3211801
+3212194	Theory	linear-size suffix tries	2016	-9.616400300588264	10.775546009109249	3212221
+3212235	Theory	a simple algorithm for merging two disjoint linearly-ordered sets	1972	-9.952103460222439	10.70781001405592	3212262
+3212793	Logic	a new method for updating and rebalancing tree-type main memory dictionaries	1996	-9.502831879140148	11.061278638467247	3212820
+3212942	Theory	self-adjusting k-ary search trees	1995	-9.926950170442387	10.856324538341966	3212969
+3215512	Theory	a succinct grammar compression	2013	-9.709202125628275	11.088268767240967	3215539
+3215606	Theory	two-dimensional periodicity and its applications	1992	-9.683739813499493	10.886665043632831	3215633
+3216014	Theory	a faster implementation of online run-length burrows-wheeler transform	2017	-9.481318896839547	11.112499852137788	3216041
+3217157	Theory	fast matching statistics in small space	2018	-9.392047642452066	11.003725337928154	3217184
+3217860	PL	inorder traversal of a binary heap and its inversion in optimal time and space	1992	-9.898123064004457	10.717911556642779	3217887
+3219613	Networks	lru stack processing	1975	-9.347032383311	11.189016873753967	3219640
+3220108	Theory	a generalization of the suffix tree to square matrices, with applications	1995	-9.728849684704905	10.693580983091524	3220135
+3220441	DB	optimal re-encryption strategy for joins in encrypted databases	2013	-10.010287901208867	10.429299268207405	3220468
+3222125	DB	bounded disorder file organization	1994	-9.504943667701015	10.4375847540331	3222152
+3224950	Theory	constrained string editing	1986	-10.126240969480042	10.5572165472521	3224977
+3225483	ML	multiple serial episode matching	2006	-9.301392164274594	10.8325078107855	3225510
+3227184	Theory	searching in compressed dictionaries	2002	-9.230359684867127	11.197986836378298	3227211
+3227383	Theory	pattern-based data compression	2004	-9.239346894360356	10.909556593548425	3227410
+3228326	Theory	on fast and memory-efficient construction of an antidictionary array	2012	-9.361882016860484	11.148402936329804	3228353
+3229787	DB	matching subsequences in trees	2006	-9.70328614160614	10.570017522099526	3229814
+3230691	Theory	a loop-free two-close gray-code algorithm for listing k-ary dyck words	2006	-9.9874815790527	10.47847441433824	3230718
+3230805	DB	lossless data compression via substring enumeration	2010	-9.539029741575543	11.162698804706721	3230832
+3231664	DB	b-treaps: a uniquely represented alternative to b-trees	2009	-9.729742766620387	10.859340205419462	3231691
+3231794	Theory	algorithmic complexity of protein identification: combinatorics of weighted strings	2004	-10.114743378974826	10.831651868032637	3231821
+3233245	Theory	reporting consecutive substring occurrences under bounded gap constraints	2016	-9.808177070363538	10.523070163717604	3233272
+3236126	Visualization	locating all tandem repeat families in a sequence	2004	-9.740062277479787	10.685727404681463	3236153
+3241281	HPC	on parallel prefix computation	1994	-9.9959610921745	11.121031078830207	3241308
+3241388	ML	an algorithmic and complexity analysis of interpolation search	1980	-9.713733184174796	10.629926346264382	3241415
+3244741	Theory	fpga-based parallel comparison of run-length-encoded strings	2004	-9.793932046000576	11.279991354490873	3244768
+3245037	Comp.	algorithmic permutation of part of the torah	2007	-9.403188288399226	10.70707563533568	3245064
+3246401	DB	optimal distribution of signatures in signature hashing	1992	-9.699267754504325	10.562688204631048	3246428
+3246472	Theory	optimal linear perfect hash families	1998	-10.091471738519845	10.93124646919649	3246499
+3247270	Theory	identifying features via homotopy on handwritten mathematical symbols	2013	-9.788298427091172	10.357024668028362	3247297
+3248159	Theory	string matching with variable length gaps	2012	-10.081298833358627	10.499438994735334	3248186
+3250616	Theory	bounds on the complexity of the longest common subsequence problem	1976	-10.052592082259377	10.707952370670368	3250643
+3251240	ML	a simple and efficient connected components labeling algorithm	1999	-9.529263867534803	10.808314319173343	3251267
+3251397	DB	a data structure and an algorithm for the nearest point problem	1983	-9.944154118008065	10.500636057704432	3251424
+3252170	Theory	inplace 2d matching in compressed images	2003	-9.645044285085897	11.106971512628329	3252197
+3252607	Arch	handling memory cache policy with integer points counting	1997	-10.046640163325776	10.48878461874993	3252634
+3254307	Theory	calculating kolmogorov complexity from the output frequency distributions of small turing machines	2014	-9.200596885578497	10.432006912109651	3254334
+3255230	Theory	how to update a balanced binary tree with a constant number of rotations	1990	-10.085951176193905	10.372516823373703	3255257
+3255534	AI	analysis of an optimized search algorithm for skip lists	1995	-9.463782974482076	10.46478292973574	3255561
+3256173	Theory	lyndon factorization of grammar compressed texts revisited	2018	-10.089695088422074	10.965795009958955	3256200
+3256560	Theory	predicting string search speed	1996	-9.273522894889494	10.723771875350213	3256587
+3256802	Theory	burrows-wheeler transform and run-length enconding	2017	-10.108860104484732	10.754975799291378	3256829
+3257282	ML	a simple fast hybrid pattern-matching algorithm	2007	-9.523523138778977	10.624382274571891	3257309
+3257709	Visualization	a simple algorithm for finding exact common repeats	2007	-9.892999082351873	10.606651468929392	3257736
+3257838	Theory	the complexity of heaps	1992	-10.026596624033527	10.364719639163859	3257865
+3258788	DB	dynamic external hashing: the limit of buffering	2009	-9.32531392834157	11.152892839688768	3258815
+3259438	ML	an all-substrings common subsequence algorithm	2008	-9.671818476184997	10.77971920218914	3259465
+3260471	Theory	approximate string matching with suffix automata	1993	-9.196818732709524	10.385413515842066	3260498
+3261986	Crypto	a family of perfect hashing methods	1996	-9.982560405458486	10.551664333179604	3262013
+3263383	Theory	should tables be sorted?	1978	-9.79091582743928	10.75471430302565	3263410
+3263798	Theory	biased skip lists	2004	-9.644410526199025	10.54660372473442	3263825
+3265311	Theory	multi-method dispatching: a geometric approach with applications to string matching problems	1999	-9.337573635214524	10.719136567930908	3265338
+3265562	ML	efficient sublinear time parallel algorithms for dynamic programming and context-free recognition	1992	-9.887111483664317	10.623795606681476	3265589
+3266829	Theory	on sorting, heaps, and minimum spanning trees	2010	-9.464582776336828	11.20946908072278	3266856
+3267066	Theory	weighted increment linear search for scatter tables	1972	-9.432126804673656	10.88658698706542	3267093
+3267494	ML	finding approximate palindromes in strings	2002	-9.666823462285551	10.358274407894307	3267521
+3267691	Theory	the extended boyer-moore-horspool algorithm for locality-sensitive pseudo-code	2011	-9.186008166218182	10.435403425138169	3267718
+3267968	Theory	on the design of efficient multistage interconnection networks	1996	-9.938089924162966	11.131954098996804	3267995
+3269031	DB	load-balancing the distance computations in record linkage	2015	-10.010934390363538	11.111541104265923	3269058
+3269532	Theory	periodicity in data streams with wildcards	2018	-9.833312332263132	10.842505841372327	3269559
+3271400	DB	further refinement of the linear quotient hashing method	1979	-9.41924057962352	10.389221754033194	3271427
+3271808	Theory	on the bit complexity of minimum link paths: superquadratic algorithms for problem solvable in linear time	1999	-10.126543849480868	11.091423570638382	3271835
+3273364	Theory	relationship between antidictionary automata and compacted substring automata	2013	-9.307802264471528	11.034985195269408	3273391
+3274294	Theory	let sleeping files lie: pattern matching in z-compressed files	1994	-9.333151213320793	11.144854204944155	3274321
+3274299	Theory	oracle computations in parallel numerical linear algebra	1994	-9.760072225602318	10.335242449865282	3274326
+3274726	DB	instance-level worst-case query bounds on r-trees	2013	-10.086298833271142	10.798754230888347	3274753
+3275221	OS	practical fast searching in strings	1980	-9.214193253652304	10.966537322708415	3275248
+3275559	Theory	sequence alignment algorithms for run-length-encoded strings	2008	-9.428615714506591	10.979215972532193	3275586
+3275710	Web+IR	the compressed permuterm index	2010	-9.324958200346195	11.201724546679602	3275737
+3275769	PL	computing permutation encodings	1999	-9.905723106473786	11.283803875425065	3275796
+3276361	Theory	a variation on the boyer-moore algorithm	1992	-9.488213326211806	10.790300549965478	3276388
+3277218	Theory	linear probing: the probable largest search time grows logarithmically with the number of records	1987	-9.83835084953102	10.585957255992582	3277245
+3278547	Theory	constructing graphs with limited resources	2018	-10.039089017263802	10.370268366694496	3278574
+3279124	Vision	a novel algorithm for solving the string matching problem	2006	-9.33359025026961	10.806460902613576	3279151
+3279303	Theory	an empirical study of insertion an deletion in binary search trees	1983	-9.965608601044693	10.916813050125716	3279330
+3280329	PL	a taxonomy of sublinear multiple keyword pattern matching algorithms	1996	-9.262625866881192	10.413016711500275	3280356
+3282763	ML	algorithms for pattern matching	1986	-9.21124785585395	10.472415419419606	3282790
+3283136	Theory	on-line approximate string matching with bounded errors	2008	-9.68286823880898	10.710804320386972	3283163
+3284522	Theory	a collection of new regular grammar pattern matching algorithms.	1996	-9.261875994403828	10.495704932509478	3284549
+3286000	DB	highest order voronoi processing on apache spark	2018	-9.899658118397461	11.147075829082198	3286027
+3286774	Vision	"""comments on """"concurrent search and insertion in avl trees"""""""	1981	-9.206223994209571	10.669727086984746	3286801
+3286805	ML	real-time traversal in grammar-based compressed files	2005	-9.714390691966155	11.092350760572925	3286832
+3287777	DB	deleting keys of b-trees in parallel	2002	-9.757911946519359	11.055748221188553	3287804
+3289052	Theory	trade-offs between depth and width in parallel computation (preliminary version)	1983	-9.438491794231183	10.717860928341665	3289079
+3289230	Theory	the limits of buffering: a tight lower bound for dynamic membership in the external memory model	2010	-9.953018657716246	10.708691377017693	3289257
+3290565	AI	lazy evaluation in penniless propagation over join trees	2002	-9.640888006529476	10.604180412153537	3290592
+3290867	Theory	approximate parameterized matching	2004	-10.006099710285037	10.72356550667982	3290894
+3291206	Theory	text indexing, suffix sorting, and data compression: common problems and techniques	2009	-9.54555951809236	11.087954360920346	3291233
+3292053	Theory	computing the bwt and the lcp array in constant space	2015	-9.659070475911742	11.023600869646137	3292080
+3292658	Theory	slowing down sorting networks to obtain faster sorting algorithms	1987	-9.822860111468476	11.030327023326604	3292685
+3292896	Vision	optimal correspondence of string subsequences	1990	-9.6811521805821	10.489858277621183	3292923
+3293774	DB	potentials and limitations of visual methods for the exploration of complex data structures	2007	-9.959989164206467	10.798896312874383	3293801
+3293804	Theory	permutation pattern matching in (213, 231)-avoiding permutations	2016	-10.11312257844639	10.573143623579004	3293831
+3293908	Theory	cache oblivious search trees via binary trees of small height	2002	-9.680137850548013	11.135934316801931	3293935
+3294594	DB	worst-case analysis for region and partial region searches in multidimensional binary search trees and balanced quad trees	1977	-9.602154315864817	10.640550287845599	3294621
+3296116	Theory	a fully linear-time approximation algorithm for grammar-based compression	2003	-10.000142602601006	10.638730159579476	3296143
+3296384	Theory	saving comparisons in the crochemore-perrin string-matching algorithm	1996	-9.699466086473052	10.84729984526808	3296411
+3297194	Vision	evaluation of the optimal causal message ordering algorithm	2000	-9.901010677733833	10.594712568552008	3297221
+3299509	Crypto	compressed representations of permutations, and applications	2009	-9.735315887034297	10.938903379768352	3299536
+3300536	ML	era revisited: theoretical and experimental evaluation	2014	-9.184009681775878	10.472389775344226	3300563
+3301038	Theory	noisy subsequence recognition using constrained string editing involving substitutions, insertions, deletions and generalized transpositions	1995	-9.71176608818356	10.663612554333096	3301065
+3301228	Theory	suffix arrays: what are they good for?	2006	-9.270806055374743	11.00981301193677	3301255
+3301477	Theory	the string edit distance matching problem with moves	2007	-9.899166110269539	10.852881169533152	3301504
+3302549	Theory	nonlinearity of davenport-schinzel sequences and of a generalized path compression scheme	1984	-10.100648196938684	10.705188946332065	3302576
+3302611	Theory	brief announcement: a contention-friendly, non-blocking skip list	2012	-9.448626218628327	11.069600647536085	3302638
+3302888	AI	architecture of a nonnumerical accumulator - abstract	1976	-9.17671491745816	11.135189998485744	3302915
+3303121	Theory	quicksort algorithms with an early exit for sorted subfiles	1987	-9.543964459306043	11.150005448836833	3303148
+3303394	Theory	caching for web searching	2002	-9.676813920296855	10.980791978732471	3303421
+3303558	Theory	primitives for asynchronous list compression	1992	-9.194658205542456	10.81111619882244	3303585
+3303638	Theory	adaptive dictionary matching	1991	-10.067030904068561	10.944358024738374	3303665
+3304681	Theory	confluently persistent tries for efficient version control	2008	-9.785106796156624	11.082046342158296	3304708
+3304765	Theory	toward optimal self-adjusting heaps	2017	-9.998291480235217	10.962295194557022	3304792
+3306068	Theory	compact approximation of lattice functions with applications to large-alphabet text search	2002	-9.483903194140579	10.962998313800137	3306095
+3308089	Theory	traversing grammar-compressed trees with constant delay	2016	-10.02692493704257	10.6939416571886	3308116
+3311835	Theory	cole's parametric search technique made practical	2013	-10.05973817105266	10.427227042595767	3311862
+3312369	Theory	dynamic elias-fano representation	2017	-10.058826265698928	10.822496039300232	3312396
+3312998	DB	a density control algorithm for doing insertions and deletions in a sequentially ordered file in good worst-case time	1992	-9.531370217094	10.853422972830703	3313025
+3313405	Theory	analysis of algorithms and data structures for text indexing	2006	-9.664623857310254	11.01630257981916	3313432
+3314716	ML	multiple pattern matching in lzw compressed text	1998	-9.730282944778569	10.9548788857989	3314743
+3315215	Theory	sharp load thresholds for cuckoo hashing	2012	-9.895505869190234	10.459083036579072	3315242
+3316460	Theory	counting and reporting red/blue segment intersections	1994	-9.852313593307237	11.283758010558795	3316487
+3316503	Logic	bit-parallel (delta, gamma)-matching and suffix automata	2005	-9.18550611389258	10.715106097765382	3316530
+3319817	Theory	speeding up string matching by weak factor recognition	2017	-9.416356032356244	10.747527847495478	3319844
+3319957	Theory	the cost of offline binary search tree algorithms and the complexity of the request sequence	2008	-9.823358616817869	10.4927202391414	3319984
+3320150	DB	space-efficient substring occurrence estimation	2011	-9.539399163798883	11.095496009539692	3320177
+3321749	HPC	fast parallel algorithms for processing of joins	1987	-10.093120303878418	11.1610524925702	3321776
+3321794	Theory	a relationship between self-organizing lists and binary search trees	1991	-9.744451645907027	10.547222705458363	3321821
+3322087	Theory	approximate string matching with ordered q-grams	2004	-9.625057825414617	10.565718525324822	3322114
+3322526	ECom	new results for online page replication	2004	-9.484354772316502	10.633544962181473	3322553
+3323211	Theory	universal compressed text indexing	2018	-9.566320343525653	11.124400496398287	3323238
+3323361	Theory	regular expression searching over ziv-lempel compressed text	2001	-9.373403291899855	11.099750862350783	3323388
+3323391	DB	computing longest previous non-overlapping factors	2011	-9.640069298280569	10.763505286606435	3323418
+3324041	Theory	dynamic fully-compressed suffix trees	2008	-9.410029958619267	11.009851525190586	3324068
+3324751	ML	better filtering with gapped q-grams	2001	-10.103494549227534	10.710378504763897	3324778
+3324788	DB	multi-sorting algorithm for finding pairs of similar short substrings from large-scale string data	2009	-9.771890463475387	10.84694879839109	3324815
+3325041	Theory	masking-based domain extenders for uowhfs: bounds and constructions	2005	-9.380253146149624	10.621895288126423	3325068
+3325920	Theory	an efficient algorithm for sequential random sampling	1987	-9.520107879594336	10.409717426709667	3325947
+3326407	Theory	indexed dynamic programming to boost edit distance and lcss computation	2018	-9.89252241404216	10.519448268550272	3326434
+3326547	Theory	systolic arrays for the recognition of permutation-invariant segments	1996	-9.737879456546276	11.125213699772857	3326574
+3326654	Theory	on aspects of universality and performance for closed hashing (extended abstract)	1989	-9.999646173180645	10.517828653241056	3326681
+3327029	Theory	the complexity of the multiple pattern matching problem for random strings	2018	-9.845194835327934	10.340326004682103	3327056
+3329439	DB	the tiled bitmap forensic analysis algorithm	2010	-9.230752180264012	10.855052849222696	3329466
+3329530	Theory	limits on the power of concurrent-write parallel machines	1986	-10.061870927304524	11.046703191346523	3329557
+3330651	Theory	computing the longest common prefix array based on the burrows-wheeler transform	2013	-9.32731326221906	11.04717382438344	3330678
+3331822	SE	a fast algorithm to compute heap memory bounds of java card applets	2008	-9.466309342813958	10.641685789894249	3331849
+3333051	Theory	update-efficient data structures for dynamic ip router tables	2007	-9.318150160849015	11.039781297233674	3333078
+3333212	Theory	competitive fib aggregation for independent prefixes: online ski rental on the trie	2013	-9.591856356830908	10.87358098250252	3333239
+3333745	Theory	fast and powerful hashing using tabulation (invited talk)	2017	-9.966421657458328	10.739542437668215	3333772
+3335130	Theory	approximate indexed lists	1998	-9.938301617672025	10.732528728895774	3335157
+3335954	Theory	optimum multiway search trees	1980	-9.941131256072337	10.443948261629632	3335981
+3336755	Theory	deterministic sampling - a new technique for fast pattern matching	1991	-9.5618552480464	10.572706293866515	3336782
+3339492	DB	efficient unbalanced merge-sort	2006	-9.937391813475944	10.740853578772215	3339519
+3340401	HPC	a new algorithm for intermediate dataset storage in a cloud-based dataflow	2015	-9.346089627028867	11.145463195778207	3340428
+3341460	Theory	linear probing with constant independence	2007	-9.953484124130302	10.627888656324435	3341487
+3341488	Theory	available stabilizing heaps	2001	-9.448771049928407	10.770207905775834	3341515
+3342993	DB	finding and approximating top-k answers in keyword proximity search	2006	-10.005579977430326	10.980983498698881	3343020
+3343545	Theory	streaming k-mismatch with data recovery and applications	2016	-9.957752096982269	10.857394993539534	3343572
+3345069	Theory	a general technique for implementation of efficient priority queues	1995	-9.856738312936985	10.9892671386638	3345096
+3346448	Theory	a nearly memory-optimal data structure for sets and mappings	2003	-9.396829281441633	11.08665643804451	3346475
+3347382	DB	approximate matching in the linfinity metric	2008	-9.641753332451414	10.595066944055167	3347409
+3348329	HPC	efficient parallel shuffle recognition	1994	-9.995213448480936	11.224801967305336	3348356
+3348489	Theory	time and space efficient lempel-ziv factorization based on run length encoding	2012	-9.659499019817751	11.098877496596955	3348516
+3348558	Theory	fringe analysis for extquick: an in situ distributive external sorting algorithm	1991	-9.776320785244227	10.649063230662156	3348585
+3350199	Robotics	a simple and compact algorithm for the rmq and its application to the longest common repeat problem	2007	-9.706659786622767	10.602803501605234	3350226
+3350368	EDA	cache and energy efficient alignment of very long sequences	2015	-9.359383296930744	11.120071813546257	3350395
+3352248	Vision	three major extensions to kirkpatrick's point location algorithm	1996	-9.842139033468042	10.687149701440745	3352275
+3353099	Theory	sliding suffix tree	2018	-9.606651558126273	10.91872820169915	3353126
+3353466	ECom	efficient counting of square substrings in a tree	2014	-9.982806515071752	10.672986084164544	3353493
+3354137	Theory	optimal parallel algorithms for periods, palindromes and squares (extended abstract)	1992	-10.1287376941319	10.775527461012263	3354164
+3354144	Theory	a provably, linear time, in-place and stable merge algorithm via the perfect shuffle	2015	-10.084928562972204	10.72000190164191	3354171
+3354688	Networks	efficient algorithms for the inverse sort transform	2007	-9.375752657247373	11.025896887257824	3354715
+3355117	Theory	parameterized matching in the streaming model	2013	-9.837032443685036	10.692258984967324	3355144
+3355149	Web+IR	fast multi-dimensional approximate pattern matching	1999	-9.636201017051032	10.9126710713559	3355176
+3356050	ECom	a compressed suffix tree based implementation with low peak memory usage	2014	-9.345706071530547	11.00788174828804	3356077
+3357560	Theory	heaps and heapsort on secondary storage	1999	-9.311592519120769	11.021511293344783	3357587
+3358053	Logic	edit distance of run-length encoded strings	2002	-10.069930129683279	11.185915084828524	3358080
+3358233	Theory	application of finte fields to memory interleaving	1993	-9.973234612393416	11.03690759517476	3358260
+3360199	PL	on the shared substring alignment problem	2000	-9.210743803099334	10.967522016119464	3360226
+3360204	Vision	inducing suffix and lcp arrays in external memory	2013	-9.60822316419185	10.979609277959721	3360231
+3364210	Theory	construction of aho corasick automaton in linear time for integer alphabets	2005	-9.449782395357172	10.579228363066383	3364237
+3364264	NLP	approximate matching between a context-free grammar and a finite-state automaton	2013	-9.902007390956811	10.434491403180491	3364291
+3364749	PL	analysis of pivot sampling in dual-pivot quicksort: a holistic analysis of yaroslavskiy’s partitioning scheme	2015	-9.184360478671126	10.962941292561558	3364776
+3365986	Theory	k -mismatch with don't cares	2007	-9.781303239804675	10.711008049526278	3366013
+3366140	Theory	a linear size index for approximate pattern matching	2011	-9.820735370818307	10.927411837786536	3366167
+3366558	DB	longest common subsequence between run-length-encoded strings: a new algorithm with improved parallelism	2004	-9.976278711196256	11.278517508200226	3366585
+3367442	Theory	on the complexity of list ranking in the parallel external memory model	2014	-10.087834009636401	10.730343576575835	3367469
+3368622	Theory	worst-case efficient single and multiple string matching on packed texts in the word-ram model	2012	-9.636903043992572	10.98982999290355	3368649
+3368708	PL	efficient sparse polynomial factoring using the funnel heap	2016	-9.195065177682533	11.25824444033341	3368735
+3370412	Theory	the property suffix tree with dynamic properties	2016	-9.643918363913043	10.697270088688693	3370439
+3372125	Theory	compressed multiple pattern matching	2018	-9.739712035652754	10.995830782010962	3372152
+3372138	Theory	compressed dynamic tries with applications to lz-compression in sublinear time and space	2007	-9.689017919397623	11.046564476305608	3372165
+3373019	Theory	an improved algorithm for computing the edit distance of run-length coded strings	1995	-9.668432658526566	10.775471716298831	3373046
+3374449	Theory	space-efficient framework for top-k string retrieval problems	2009	-9.713950985288893	10.923090493128617	3374476
+3374489	Theory	should static search trees ever be unbalanced?	2010	-9.66376072010148	11.00871413175683	3374516
+3374546	Theory	efficient edit distance with duplications and contractions	2012	-9.865456320390242	10.97001354324765	3374573
+3375432	ML	a method for improving string pattern matching machines	1984	-9.253149737331308	10.48930782690721	3375459
+3376762	Theory	the average complexity of parallel comparison merging	1992	-9.678795057021995	10.528867726914408	3376789
+3376777	NLP	compact directed acyclic word graphs for a sliding window	2002	-9.608163961550591	10.913006444252737	3376804
+3376921	Theory	a randomized algorithm for approximate string matching	2001	-9.854216467242267	10.596850917899983	3376948
+3377278	Theory	a space and time efficient algorithm for constructing compressed suffix arrays	2002	-9.472136684173813	11.156740812465822	3377305
+3378162	Theory	idpm: an improved degenerate pattern matching algorithm for biological sequences	2017	-9.721135749895426	10.565860814783267	3378189
+3378708	Theory	fast longest common extensions in small space	2016	-9.75706788167528	11.028216154700171	3378735
+3383994	Theory	succinct text indexes on large alphabet	2006	-9.524433453343152	10.773305902147452	3384021
+3384520	PL	indexing finite language representation of population genotypes	2011	-9.284044926981766	11.063264175720947	3384547
+3385502	Theory	on the time and space complexity of computation using write-once memory or is pen really much worse than pencil?	1992	-9.719441932272806	10.976261283863266	3385529
+3386349	AI	improved and self-tuned occurrence heuristics	2013	-9.237162660708183	10.627554279038764	3386376
+3386576	Theory	optimal stable merging	1995	-9.98484847373452	10.529834329133868	3386603
+3386606	Theory	optimal self-adjusting trees for dynamic string data in secondary storage	2007	-9.741652422598436	10.959411204859414	3386633
+3388147	HPC	erratum: bulk-synchronous parallel multiplication of boolean matrices	1999	-9.897599145471323	11.102302906575293	3388174
+3389264	Theory	dynamic dictionary matching with failure functions	1994	-9.649975688421256	10.874647475324835	3389291
+3390196	DB	the generation of random permutations on the fly	1988	-9.605929629539073	10.448594938746714	3390223
+3390571	Logic	inducing enhanced suffix arrays for string collections	2017	-9.563075009609907	10.916955198636627	3390598
+3391080	Theory	simple and flexible detection of contiguous repeats using a suffix tree (preliminary version)	1998	-9.46817437098198	10.77464264777683	3391107
+3391103	DB	optimality in external memory hashing	2007	-9.526417228798733	11.080481306217882	3391130
+3393450	Theory	the soft heap: an approximate priority queue with optimal error rate	2000	-10.017379139915592	10.811356366382947	3393477
+3394004	Theory	three-dimensional pattern matching	1997	-9.618503567852196	10.93174279287431	3394031
+3395670	DB	error-correcting keys in relational databases	2000	-9.675908889362754	10.763879922587352	3395697
+3396091	Theory	succinct dynamic cardinal trees with constant time operations for small alphabet	2011	-10.067238880700671	10.83515994836001	3396118
+3397294	Theory	a comparison of approximate string matching algorithms	1996	-9.364193869185463	10.710718422095177	3397321
+3397466	Theory	the dyck language edit distance problem in near-linear time	2014	-10.058385187319152	10.74324101733956	3397493
+3397482	Theory	succinct indexes	2008	-9.835046678893477	11.027140701797297	3397509
+3397622	Theory	efficient algorithms with asymmetric read and write costs	2016	-9.974234696899273	11.25100348843673	3397649
+3397838	Theory	optimal query/update tradeoffs in versioned dictionaries	2011	-9.458002122142622	11.06163313014252	3397865
+3399893	DB	lower bounds for sorting with few random accesses to external memory	2005	-9.830233441824683	10.980908323138332	3399920
+3400004	DB	a multiple sliding windows approach to speed up string matching algorithms	2012	-9.243864065546852	10.631959288461136	3400031
+3400671	Theory	cache-oblivious index for approximate string matching	2007	-9.902778961797736	10.960606270814194	3400698
+3400887	Theory	nearest point query on 184m points in e3 with a uniform grid.	2005	-9.819266889703664	11.118701976764596	3400914
+3401506	Theory	a framework for dynamic parameterized dictionary matching	2016	-9.970252535188234	10.865486141594916	3401533
+3401949	DB	two skew-binary numeral systems and one application	2011	-9.28074350599216	10.480727206671578	3401976
+3402387	Theory	maximal palindromic factorization	2013	-10.044725508320477	10.547788893254369	3402414
+3402655	DB	access path optimization in relational joins	1995	-9.350912260263259	10.898976822943029	3402682
+3402703	Theory	efficient algorithms to globally balance a binary search tree	1984	-9.560931189495577	10.419516004839007	3402730
+3404554	Theory	edit distance: sketching, streaming, and document exchange	2016	-9.99477947206491	10.629436135524793	3404581
+3405619	Theory	on-line linear-time construction of word suffix trees	2006	-9.453844995185014	10.830496989846683	3405646
+3405965	Theory	a new distance metric on strings computable in linear time	1988	-9.778254378376024	10.59430881963455	3405992
+3407073		replacement schemes and two-level tables	1996	-9.648404553741797	11.00539637218483	3407100
+3407540	Theory	average case analysis of searching in associative processing	1998	-9.777213398376906	10.703292051574943	3407567
+3408542	DB	faster algorithms for computing longest common increasing subsequences	2006	-10.012306994997314	10.73050589553299	3408569
+3410876	Theory	string matching with weighted errors	1990	-9.613290321527519	10.650709222370617	3410903
+3411582	Theory	weighted dynamic finger in binary search trees	2016	-9.85588307022148	10.666446575047043	3411609
+3413090	Graphics	improved algorithms for finding consistent superstrings based on a new graph model	2009	-10.05899306721301	10.352217518312527	3413117
+3413482	Theory	2d lyndon words and applications	2015	-9.958033791287132	10.507269977854511	3413509
+3414820	Theory	exploring the duality between skip lists and binary search trees	2007	-9.570023794337901	10.786376227251427	3414847
+3414906	AI	a novel technique for compressing pattern databases in the pancake sorting problems	2011	-10.128719862661358	11.123356311297893	3414933
+3415539	Theory	on the sorting-complexity of suffix tree construction	2000	-10.044839265856304	10.79028326034879	3415566
+3415743	Crypto	concurrent use of b-trees with variable-length entries	1988	-9.28346099724581	10.894876089576528	3415770
+3422183	Theory	transforming comparison model lower bounds to the parallel-random-access-machine	1997	-9.843064965145768	10.404239049829973	3422210
+3423116	Theory	encoding nearest larger values	2018	-9.984173696450824	10.636676397982358	3423143
+3423290	Theory	low redundancy in static dictionaries with o(1) worst case lookup time	1999	-9.977737143389245	10.820661413221831	3423317
+3425033	Theory	the characterization of data-accumulating algorithms	2000	-9.479060096516221	10.970648098511257	3425060
+3425433	Theory	on the analysis of two fundamental randomized algorithms - multi-pivot quicksort and efficient hash functions	2015	-9.866432804393137	10.97945590220167	3425460
+3425996	Theory	sorting in c log n parallel sets	1983	-10.006990946455193	11.221281948258005	3426023
+3430123	Theory	a lower bound for quantum search of an ordered list	1999	-10.064526344182816	10.426940716202179	3430150
+3430594	Theory	probabilistic data structures for priority queues (extended abstract)	1998	-9.698199844262007	11.016290432832127	3430621
+3433072	Theory	linear-space substring range counting over polylogarithmic alphabets	2012	-9.857014319523966	10.883128982256338	3433099
+3433991	Theory	the discrete logarithm hides o(log n) bits	1988	-10.017386000258675	10.637386602680811	3434018
+3434724	ECom	measuring the clustering effect of bwt via rle	2017	-9.663654022987037	10.794301604627082	3434751
+3436658	DB	the complexity of trie index construction	1977	-9.607481718909554	10.916716363156723	3436685
+3438557	Theory	recursions removal in fast matrix multiplication without stacks	2003	-9.402109056910435	10.629321086522623	3438584
+3439001	Theory	statistical encoding of succinct data structures	2006	-9.67045572596675	11.124050251687605	3439028
+3441489	DB	classes of cost functions for string edit distance	1997	-10.081778674941027	10.585543853190552	3441516
+3441895	Theory	approximate swapped matching	2000	-9.786549315854408	10.884523995507926	3441922
+3441973	Theory	theoretical and empirical comparisons of approximate string matching algorithms	1992	-9.640304618092113	10.921484591651659	3442000
+3442732	EDA	depth efficient transformations of arithmetic into boolean circuits	1985	-10.036286283016736	11.148754744873939	3442759
+3443406	Theory	a prefix array for parameterized strings	2017	-9.558294472395362	10.486091203445538	3443433
+3443582	Theory	a work-optimal cgm algorithm for the lis problem	2001	-10.042835776935432	11.269719591428034	3443609
+3443694	Theory	distributed searching of k-dimensional data with almost constant costs	2000	-9.924709919405947	11.033577534173894	3443721
+3446472	DB	large deviations for increasing subsequences of permutations and a concurrency application	2017	-9.605497551331037	10.766474115285975	3446499
+3450212	EDA	on generating permutations under user-defined constraints	2013	-9.215069968978742	10.41107757405642	3450239
+3452453	AI	efficient merged longest common subsequence algorithms for similar sequences	2018	-9.85339768060772	10.834994406611596	3452480
+3452783	ECom	irredundant tandem motifs	2014	-9.415347673021984	10.453671256226336	3452810
+3454749	Theory	dotted suffix trees a structure for approximate text indexing	2006	-9.669017180235015	10.785363014429633	3454776
+3454945	Theory	an implicit data structure for searching a multikey table in logarithmic time	1991	-9.63268023265598	10.83654405747474	3454972
+3455262	Theory	squares, cubes, and time-space efficient string searching	1995	-9.856827608234793	10.877177276391118	3455289
+3455945	Theory	how to implement a random bisection cut	2016	-9.918089424055637	10.861483295441024	3455972
+3457124	ECom	beating $\mathcal{o}(nm)$ in approximate lzw-compressed pattern matching	2013	-9.613325508089213	10.80943174569983	3457151
+3460635	Robotics	lcp array construction using o(sort(n)) (or less) i/os	2016	-9.937945568050537	11.042321445867506	3460662
+3461038	Theory	improved upper bounds for time-space tradeoffs for selection with limited storage	1998	-10.09271442582434	10.853313899142067	3461065
+3461827	Web+IR	faster lyndon factorization algorithms for slp and lz78 compressed text	2013	-9.628892910404762	10.907952897639618	3461854
+3462923	Theory	optimal parallel randomized renaming	1997	-9.609569131649316	10.364022136694123	3462950
+3463172	DB	performance guarantees for b-trees with different-sized atomic keys	2010	-9.74827468209584	11.105541176512569	3463199
+3464445	Theory	finding all periods and initial palindromes of a string in parallel	1995	-9.905394806133273	10.898185274685767	3464472
+3464529	Theory	indexing weighted sequences: neat and efficient	2017	-9.906231135570772	10.674462047198805	3464556
+3466552	Comp.	lossless filter for multiple repeats with bounded edit distance	2008	-9.450684209111127	10.718750995073195	3466579
+3467927	DB	analysis of simple randomized buffer management for parallel i/o	2004	-9.205760046515238	10.932831783255153	3467954
+3468323	Theory	dictionary matching with one gap	2014	-9.772423265663564	10.705629087605068	3468350
+3469150	Theory	a compression-boosting transform for two-dimensional data	2006	-9.352190628848085	11.096614583181925	3469177
+3471331	DB	symbolic gray code as a perfect multiattribute hashing scheme for partial match queries	1982	-9.248373766524153	10.846835605757725	3471358
+3471776	Theory	introspective sorting and selection algorithms	1997	-9.604485098298474	11.065228831340974	3471803
+3473046	Theory	efficient bundle sorting	2000	-9.6740073968642	10.948014598582404	3473073
+3474687	Theory	a three-level sieve algorithm for the shortest vector problem	2013	-9.729361988249595	11.266971248322823	3474714
+3475575	DB	fast text searching for regular expressions or automaton searching on tries	1996	-9.253902918473178	10.59258939376658	3475602
+3475831	Theory	implementation and analysis of binomial queue algorithms	1978	-9.926922613166212	10.70523688000013	3475858
+3477139	Theory	optimal lower bounds for rank and select indexes	2007	-10.05538081776306	10.817627376166103	3477166
+3477211	Theory	an in-place framework for exact and approximate shortest unique substring queries	2015	-9.544975764952234	11.020946752858913	3477238
+3477599	Theory	search trees with relaxed balance and near-optimal height	2001	-9.78812204971147	10.990979566475193	3477626
+3478004	Theory	monotone minimal perfect hashing: searching a sorted table with o(1) accesses	2009	-10.078182752487196	10.828102592610627	3478031
+3480000	Theory	faster longest common extension queries in strings over general alphabets	2016	-9.99865033750226	10.73293049388401	3480027
+3481423	Theory	beating o(nm) in approximate lzw-compressed pattern matching	2013	-9.624701159439018	10.862362730685598	3481450
+3482460	DB	a contextual normalised edit distance	2008	-9.434434539877737	10.577845129689198	3482487
+3486337	DB	string matching with involutions	2012	-10.080591678992477	10.565053895074943	3486364
+3489128	Theory	dynamic programming in transposition and time-warp invariant polyphonic content-based music retrieval	2011	-9.239181875653808	10.633101472088944	3489155
+3489173	Logic	persistence, randomization and parallelization: on some combinatorial games and their applications (abstract)	1993	-9.909211852632486	10.884728981756579	3489200
+3491332	Theory	competitive tree-structured dictionaries	2000	-9.777333535248381	10.93116272663683	3491359
+3491461	Theory	worst-case optimal priority queues via extended regular counters	2012	-9.912815180884909	10.939873126127033	3491488
+3491933	Theory	towards a final analysis of pairing heaps	2005	-9.904827826106711	10.77666635817567	3491960
+3493114	NLP	the parallel complexity of queue versus stack breadth-first search	1990	-9.353944011717953	10.741175630948916	3493141
+3494571	Theory	computing quasi suffix arrays	2003	-10.033254957941752	10.765049531485731	3494598
+3496228	Theory	optimal lightweight construction of suffix arrays for constant alphabets	2007	-9.67584923448837	11.05585354568726	3496255
+3497298	Theory	bidirectional variable-order de bruijn graphs	2016	-9.409048517999901	10.753636077412793	3497325
+3501166	ML	evaluation of maximum redundancy of data compression via substring enumeration for k-th order markov sources	2014	-9.510171630120391	11.062578850417584	3501193
+3502024	Networks	a simplified recombination scheme for the fibonacci buddy system	1975	-9.763994020196018	11.185556410372953	3502051
+3502336	Theory	a novel algorithm for string matching with mismatches	2016	-9.267254276122696	10.923636482477107	3502363
+3502384	Theory	simple confluently persistent catenable lists (extended abstract)	1998	-9.436063028392377	10.92523478536899	3502411
+3502772	Logic	detecting regularities on grammar-compressed strings	2015	-9.998498152510974	10.489243243998157	3502799
+3505558	Theory	average-case analysis of approximate trie search	2006	-9.908770419084222	10.704769809564144	3505585
+3505856	Theory	the number of bit comparisons used by quicksort: an average-case analysis	2004	-9.840083551506746	10.604637801415523	3505883
+3506394	Theory	randomized competitive algorithms for generalized caching	2012	-9.19763737912504	10.649014935755542	3506421
+3507848	Theory	external string sorting: faster and cache-oblivious	2006	-9.972212221957113	10.90056675648007	3507875
+3507915	Theory	two-dimensional partitioning problems	1996	-9.9697021650599	10.441332663912194	3507942
+3508951	Theory	amortization results for chromatic search trees, with an application to priority queues	1995	-9.646486601880452	11.227329038567074	3508978
+3509411	DB	space-optimal hidden line elimination for rectangles	1996	-10.100558360895072	10.600790374419113	3509438
+3509451	Theory	multidimensional digital searching-alternative data structures	1994	-9.595040858024623	10.535578243069175	3509478
+3510137	Theory	fast string matching with mismatches	1994	-9.22741036420758	10.489441223282665	3510164
+3510179	Theory	isa[  k  ] trees: a class of binary search trees with minimal or near minimal internal path length	1993	-9.524625518766577	11.06655335524171	3510206
+3510253	Theory	minimum search tree structures for data partitioned into pages	1972	-9.9542979776985	10.783039540091616	3510280
+3511149	Theory	online dictionary matching with one gap	2015	-9.824234173021603	10.548556701562912	3511176
+3511939	DB	an adaptive packed-memory array	2006	-9.820920066310473	11.100444233567913	3511966
+3513861	Theory	amortization results for chromatic search trees, with an application to priority queues	1997	-9.673310632157104	11.214539753280835	3513888
+3515307	DB	optimal partial-match retrieval when fields are independently specified	1979	-9.293352042764235	10.694223255322557	3515334
+3515984	DB	on a model of indexability and its bounds for range queries	2002	-9.433269759791354	11.058198941216158	3516011
+3517647	Theory	a fast on-line algorithm for the longest common subsequence problem with constant alphabet	2012	-9.964797757286586	10.720382519761495	3517674
+3518063	DB	an efficient parallel algorithm for finding the largest and the second largest elements from a list of elements	2006	-10.024021018726042	10.976041673036807	3518090
+3519338	DB	planar point location for large data sets: to seek or not to seek	2000	-9.529295670173797	10.968686973831902	3519365
+3519482	Logic	computing the longest increasing subsequence of a sequence subject to dynamic insertion	2013	-9.984214517320103	10.863684841199902	3519509
+3519525	DB	on the possible patterns of inputs for block sorting in the burrows-wheeler transformation	2011	-9.86800036577711	10.641695744429338	3519552
+3521689	Theory	alternatives to splay trees with o(log n) worst-case access times	2001	-9.968587613812971	10.80841268892875	3521716
+3521872	Theory	a comparative study of 2-3 trees and avl trees	1983	-9.201685218343028	10.54287707236203	3521899
+3522616	Theory	static dictionaries on ac0 rams: query time theta(sqrt(log n/log log n)) is necessary and sufficient	1996	-9.78132477163108	11.043945623799967	3522643
+3523186	Logic	ac-automaton update algorithm for semi-dynamic dictionary matching	2016	-9.649182783269133	10.837499071061853	3523213
+3523411	Theory	fully dynamic data structure for lce queries in compressed space	2016	-9.97773401017752	10.957882334024521	3523438
+3524840	Theory	near real-time suffix tree construction via the fringe marked ancestor problem	2011	-9.775338598682497	10.73636467369392	3524867
+3525662	ML	faster cube pruning	2010	-9.179278624344848	10.540628233722137	3525689
+3527007	Logic	on the time overhead of counters and traversal markers	1981	-9.839226496222182	10.83650667332642	3527034
+3527727	Theory	using hashing to solve the dictionary problem	2012	-9.781120899089256	10.975668239261642	3527754
+3528343	Logic	string matching under a general matching relation	1995	-9.650980445947988	10.596768334730518	3528370
+3528639	Theory	analysing deletions in competitive self-adjusting linear list	1994	-9.473738795277287	10.652779661055495	3528666
+3531164	Vision	recognition of noisy subsequences using constrained edit distances	1987	-10.028585410418273	10.59817243524326	3531191
+3531651	Theory	faster str-ic-lcs computation via rle	2017	-10.080351271252628	10.777221228928038	3531678
+3534325	Crypto	dynamic memories with faster random and sequential access	1977	-9.87355083407012	11.05511774145732	3534352
+3536023	Theory	exponentially decreasing number of operations in balanced trees	2001	-9.337553302636936	10.370855287749935	3536050
+3536307	Theory	optimal conclusive sets for comparator networks	2007	-9.670407746472462	10.601864914230267	3536334
+3538555	Theory	sorting with minimum data movement (preliminary draft)	1989	-9.959848523484796	10.8962687530618	3538582
+3538590	Theory	on iterated integer product	1992	-9.952108172570016	10.407257759746187	3538617
+3538634	OS	improving the performance of buddy systems	1986	-9.174911141169014	10.879030233491962	3538661
+3538833	Theory	bounds for compression in streaming models	2007	-9.353588687579444	11.197817525969825	3538860
+3539643	Theory	multidimensional matching and fast search in suffix trees	2003	-9.613523798081834	10.811533690332089	3539670
+3540317	Web+IR	the quantile index - succinct self-index for top-k document retrieval	2017	-9.773978575784554	11.054545363099006	3540344
+3543183	Theory	computing alignment plots efficiently	2009	-9.387929904242398	11.011714237702439	3543210
+3548910	Theory	almost linear time computation of maximal repetitions in run length encoded strings	2017	-10.105389370136182	10.752418778148556	3548937
+3549648	ML	a fast parallel merging algorithm for 2-3 trees	1984	-9.775081694779283	11.25307179908093	3549675
+3550082	Vision	high speed error correction of phoneme sequences	1986	-9.48979313124243	10.848855829360016	3550109
+3551550	Theory	practical algorithms for pattern based linear regression	2005	-9.986441237677042	10.516304442037988	3551577
+3552417	Theory	fast index for approximate string matching	2010	-9.674031340433627	10.796459009703225	3552444
+3554616	Theory	an insertion technique for one-sided height-balanced trees	1976	-9.679986066861645	10.93121340677026	3554643
+3555868	Theory	managing storage for extendible arrays	1974	-9.287321350907613	10.347245276819498	3555895
+3555944	NLP	a fast string-searching algorithm for multiple patterns	1993	-9.549898708456233	10.714656252798903	3555971
+3556518	Theory	linear time inference of strings from cover arrays using a binary alphabet	2012	-9.64051948712184	10.374327292179764	3556545
+3556696	Theory	engineering wavelet tree implementations for compressed web graph representations	2016	-9.403865082183387	11.238555396079787	3556723
+3559357	Theory	efficient tree layout in a multilevel memory hierarchy	2002	-10.130934402118367	10.994627664920817	3559384
+3559698	Graphics	efficient axis-translation of binary digital pictures by blocks in linear quadtree representation	1988	-9.640978686891824	11.230665118419417	3559725
+3560078	DB	an eight-dimensional systematic evaluation of optimized search algorithms on modern processors	2018	-9.737781740997448	10.505623331762628	3560105
+3560646	Theory	longest common factor of two words	1987	-9.760020118088391	10.461556648161043	3560673
+3562598	Web+IR	slow optimally balanced search strategies vs. cached fast uniformly balanced search strategies	1990	-9.387432446642674	10.81919435771028	3562625
+3562822	Theory	efficient algorithms for the scaled indexing problem	2004	-9.816475496983939	10.89669240257458	3562849
+3565006	Theory	parallel query in the suffix tree	2015	-9.500821246539386	11.0890848074637	3565033
+3565261	DB	mining maximal flexible patterns in a sequence	2007	-9.809826476375038	10.535548254957002	3565288
+3567056	Theory	faster index for property matching	2008	-9.894559527729047	10.810076216804834	3567083
+3567301	Theory	more on randomized on-line algorithms for caching	2003	-9.33649425825377	10.666632652841956	3567328
+3567992	Theory	minimal and monotone minimal perfect hash functions	2015	-9.697340306089892	11.038681686034836	3568019
+3568712	Theory	new layouts for the shuffle-exchange graph (extended abstract)	1981	-9.955844061372915	10.539018715012789	3568739
+3568871	EDA	a simple in-place algorithm for in-shuffle	2004	-9.616204685385544	10.554756691578437	3568898
+3569497	Theory	a comment on optimal tree structures	1969	-9.75622944923236	10.920195840548844	3569524
+3571997	DB	an efficient pruning strategy for approximate string matching over suffix tree	2015	-9.396329972338751	10.868548744335715	3572024
+3572752	Theory	optimal integer alphabetic trees in linear time	2005	-9.931646557475863	10.436350848035369	3572779
+3575610	Theory	an estimate of the store size necessary for dynamic storage allocation	1971	-9.488836118650012	10.875310781465894	3575637
+3576264	DB	fast similarity search in string databases	2005	-9.186992433868404	11.154208281399438	3576291
+3576661	Theory	violation heaps: a better substitute for fibonacci heaps	2008	-9.61670233226248	10.930472734581528	3576688
+3577783	DB	data compression procedures utilizing the similarity of data	1981	-9.399818617812626	10.942172066079063	3577810
+3578661	Logic	improved approximate string matching and regular expression matching on ziv-lempel compressed texts	2007	-9.245883472388773	11.072927988730875	3578688
+3579692	Theory	policy-based benchmarking of weak heaps and their relatives,	2010	-9.478806143291672	10.904745887279791	3579719
+3579805	Theory	masking patterns in sequences: a new class of motif discovery with don't cares	2009	-9.836293027472996	10.812260020297833	3579832
+3581398	ECom	on the weak prefix-search problem	2013	-9.62421010918274	10.899735161156457	3581425
+3583090	DB	finding overlaps within regular expressions with variable-length gaps	2013	-9.609445119872131	10.68506112147907	3583117
+3583736	Theory	average-case linear-time similar substring searching by the q-gram distance	2014	-10.012975119960963	10.870001874881645	3583763
+3584099	Theory	finding distinct subpalindromes online	2013	-9.947736869596683	10.439125346031313	3584126
+3585500	Theory	two algorithms for approximate string matching in static texts	1991	-9.436172718945251	10.80628827233451	3585527
+3585837	DB	combinatorial queries and updates on partial words	2009	-9.776575129556472	10.67088702658845	3585864
+3586506	Theory	making deterministic signatures quickly	2007	-9.759128434724476	10.982851078888379	3586533
+3589284	DB	an o(n3loglogn/logn) time algorithm for the all-pairs shortest path problem	2005	-9.982827743573797	11.008421685897622	3589311
+3591192	Theory	an analysis of two in-place array rotation algorithms	1997	-9.263371043636763	10.985358188358788	3591219
+3592243	DB	external memory stream sampling	2015	-9.474516401272547	11.010771340815651	3592270
+3592404	DB	a fast and simple algorithm for computing the longest common subsequence of run-length encoded strings	2008	-9.942236579992397	10.909242935884723	3592431
+3593907	Theory	maintaining ideally distributed random search trees without extra space	2009	-9.911344822956927	10.790309286590727	3593934
+3594153	Theory	algorithmics on slp-compressed strings: a survey	2012	-9.575066388870326	10.61093720751245	3594180
+3594534	Theory	k-block parallel addition versus 1-block parallel addition in non-standard numeration systems	2014	-9.726162695254995	10.955918051558092	3594561
+3595030	Theory	efficient data structures for the factor periodicity problem	2012	-10.00945605322796	10.501985667166784	3595057
+3595078	Theory	a note on segmentation of computer programs	1968	-9.322846867421	10.587327004897574	3595105
+3597307	Theory	dictionary-matching on unbounded alphabets: uniform length dictionaries	1995	-9.746595361082314	10.619455292796426	3597334
+3598694	NLP	the compressed overlap index	2017	-9.270777827518533	11.033559951683461	3598721
+3600795	Theory	efficient string matching algorithms for combinatorial universal denoising	2005	-9.556873222318439	10.498366212331963	3600822
+3603180	DB	string matching using a distance function	2015	-9.33467190520823	10.405208287186001	3603207
+3606248	ML	cache-oblivious peeling of random hypergraphs	2014	-9.652265548596745	11.100403718397686	3606275
+3606536	Theory	alphabet-independent and scaled dictionary matching	2000	-9.62903911730545	10.948501900273683	3606563
+3607079	Theory	effective splaying with restricted rotations	2008	-9.8877902866295	10.831356365125592	3607106
+3607084	Crypto	sorting and/by merging finger trees	1992	-10.002495025666716	10.649281377048423	3607111
+3607521	Theory	a string-matching interpretation of the equation xmyn = zp	1992	-9.71253976224884	10.4485775674895	3607548
+3607582	Theory	on computing the combinatorial power of sw-banyan networks	1989	-10.0032706822474	10.870084167337932	3607609
+3609225	Theory	towards optimal approximate streaming pattern matching by matching multiple patterns in multiple streams	2018	-9.868112640858591	10.926754248916078	3609252
+3611921	Theory	k-sort: a new sorting algorithm that beats heap sort for n <= 70 lakhs!	2011	-9.713552915654367	11.004566263362307	3611948
+3614177	Theory	an in-place priority queue with o(1) time for push and lg n + o ( 1 ) comparisons for pop	2015	-10.023881914360722	11.015814424358897	3614204
+3615396	Theory	hierarchical bin buffering: online local moments for dynamic external memory arrays	2008	-9.67827671893081	10.9740902005106	3615423
+3615557	Theory	an effective algorithm for string correction using generalized edit distances--i. description of the algorithm and its optimality	1981	-9.849880320808207	10.707431356980626	3615584
+3618131	ML	improving table compression with combinatorial optimization	2002	-9.398679299567664	11.061595282373943	3618158
+3619774	Theory	using difficulty of prediction to decrease computation: fast sort, priority queue and convex hull on entropy bounded inputs	1993	-9.89132626257888	10.787550386213493	3619801
+3620267	ML	the spreadsort high-performance general-case sorting algorithm	2002	-9.239026820673171	11.018906531146936	3620294
+3620862	DB	parallel reduction of a chain query in distributed databases	1992	-9.92959667162922	11.035416347908239	3620889
+3621161	Theory	a faster external memory priority queue with decreasekeys	2019	-9.943541297869183	11.123277669480105	3621188
+3622529	Theory	finding characteristic substrings from compressed texts	2009	-9.45092017855453	10.997263773351785	3622556
+3622637	Theory	an improved query time for succinct dynamic dictionary matching	2014	-9.792218274820328	10.893810040140885	3622664
+3623451	Theory	approximate all-pairs suffix/prefix overlaps	2010	-9.880968391920028	10.83795896930748	3623478
+3626190	Theory	pointers versus arithmetic in prams	1996	-9.812320509594834	10.801050531342929	3626217
+3626729	Theory	on the complexity of grammar-based compression over fixed alphabets	2016	-9.698030651863409	10.557677895108037	3626756
+3627268	Vision	pattern matching on elastic-degenerate text with errors	2017	-9.909073462397279	10.628204620352943	3627295
+3629550	DB	a scalable hash ripple join algorithm	2002	-9.481279162377398	11.104831144681034	3629577
+3631621	Theory	exact and approximate pattern matching in the streaming model	2009	-9.74476445302521	10.818930795089175	3631648
+3632270	Theory	pattern matching in pseudo real-time	2011	-9.992713150357355	10.646812727719002	3632297
+3632453	Theory	amortized efficiency of list update and paging rules	1985	-9.504886333491404	10.803592338503863	3632480
+3632455	Theory	competive analysis of randomized paging algorithms	1996	-9.210196730943952	10.711925332387118	3632482
+3632958	Theory	faster top-k document retrieval in optimal space	2013	-9.61637308121055	11.008339560882332	3632985
+3633615	DB	distribution-aware compressed full-text indexes	2011	-9.591761326253616	11.080396620589912	3633642
+3634725	DB	implementing the lz-index: theory versus practice	2008	-9.545595583517427	10.994092082399835	3634752
+3635157	Theory	deterministic skip lists	1992	-9.593517751609369	10.951448635012937	3635184
+3635884	DB	the complexity of querying external memory and streaming data	2005	-9.473421467055276	10.95940127409459	3635911
+3636493	DB	improving suffix array locality for fast pattern matching on disk	2008	-9.238857397469523	11.060359591208663	3636520
+3637651	Theory	alphabet dependence in parameterized matching	1994	-9.417215646589419	10.370162009984305	3637678
+3638556	Theory	run generation revisited: what goes up may or may not come down	2015	-9.197326515164557	10.580831267657366	3638583
+3639590	Theory	linear time universal coding and time reversal of tree sources via fsm closure	2004	-9.175619741615566	10.800562264843204	3639617
+3639688	Theory	lightweight lcp-array construction in linear time	2010	-9.19033113898983	10.968979180743704	3639715
+3639951	Theory	parallel time o(log n) acceptance of deterministic cfls on an exclusive-write p-ram	1988	-9.719001365594751	11.212872077381494	3639978
+3640088	Theory	randomized function evaluation on a ring	1989	-10.053766245262654	10.419475831689276	3640115
+3640473	OS	an analysis of storage utilization factor in block split data structuring scheme	1978	-9.69156339940059	10.51646158546643	3640500
+3641096	Theory	simd bpriori algorithms	2010	-9.509830995474786	10.600975778835018	3641123
+3642476	Theory	perfect hashing functions: a single probe retrieving method for static sets	1977	-9.20204952137236	10.955571832398707	3642503
+3643005	Theory	a new universal cycle for permutations	2017	-10.087953028865398	10.381643400931226	3643032
+3643157	Theory	an optimal parallel dictionary	1989	-9.443785652960107	11.241567213117637	3643184
+3644795	AI	compact searchable static binary trees	2004	-9.304230345207564	10.814161398050604	3644822
+3645076	OS	engineering a sorted list data structure for 32 bit key	2004	-9.423677621818717	11.085999668772512	3645103
+3645686	Theory	the complexity of searching an ordered random table	1976	-9.589197329901932	10.42126416155792	3645713
+3645993	Theory	shortest unique substring queries on run-length encoded strings	2016	-9.971748975963928	10.88610141629253	3646020
+3647353	Vision	document image decoding using iterated complete path search	2000	-9.29559719034806	11.246577174729502	3647380
+3648868	Theory	linear-time algorithms in memory hierarchies	1994	-9.533132546765726	10.845400523689575	3648895
+3649077	Vision	compacting a dynamic edit distance table by rle compression	2016	-9.898660658635182	11.004660822036895	3649104
+3650277	Theory	a model classifying algorithms as inherently sequential with applications to graph searching	1992	-9.387884795073251	10.850017106919706	3650304
+3651544	DB	a file structure supporting traversal recursion	1989	-9.530995276574831	10.946599516529773	3651571
+3652774	Theory	on demand string sorting over unbounded alphabets	2012	-9.734580903113374	10.931683639445188	3652801
+3654220	Theory	space-economical algorithms for finding maximal unique matches	2002	-9.90550691400051	10.773502890022597	3654247
+3655014	Theory	compressed index for a dynamic collection of texts	2004	-9.673703309746566	10.966396237661682	3655041
+3655137	Theory	on-line turing machine computations	1966	-9.35084295344118	11.042344286569096	3655164
+3655583	Theory	a new data structure for heapsort with improved number of comparisons	2007	-9.999372519150796	10.796701611458161	3655610
+3657481	DB	on reinsertions in m-tree	2008	-9.338810227180039	10.87446975661386	3657508
+3657488	Theory	playing tetris on meshes and multi-dimensional shearsort	1997	-10.116272957933363	10.455201853220435	3657515
+3658249	Web+IR	hierarchical binary search	1980	-9.205570740595867	10.663023386868632	3658276
+3658722	Theory	full table quadratic searching for scatter storage	1970	-9.549208340714523	10.851371179280752	3658749
+3659933	Theory	optimal pagination of b-trees with variable-length items	1984	-9.636248087651133	10.730992048672453	3659960
+3660910	Web+IR	a lempel-ziv compressed structure for document listing	2013	-9.17214810375117	11.065705777046745	3660937
+3661121	DB	dynamic text indexing under string updates	1997	-9.602247500477674	10.884214690911833	3661148
+3661157	Theory	a new method for approximate indexing and dictionary lookup with one error	2005	-9.756442880729947	10.882697107091312	3661184
+3661923	Theory	theoretical and practical improvements on the rmq-problem, with applications to lca and lce	2006	-9.53470409999548	10.954230450780294	3661950
+3662921	Theory	approximate pattern matching with k-mismatches in packed text	2013	-9.732538009466152	11.024140865963664	3662948
+3665366	Theory	a note on bottom-up skew heaps	1987	-9.775643358250953	10.956946318604976	3665393
+3667179	HPC	new methods for the generation of permutations, combinations, and other combinatorial objects in parallel	1993	-10.010135640673317	11.002454720360713	3667206
+3667803	Theory	inducing the lcp-array	2011	-9.502658192821496	10.625988029780489	3667830
+3667812	Theory	limitations of the qrqw and erew pram models	1996	-9.553184712077359	11.25749448135154	3667839
+3667948	Theory	the on-line d-dimensional dictionary problem	1992	-9.595678434132221	10.796210096727311	3667975
+3668027	DB	the i/o performance of multiway mergesort and tag sort	1985	-9.326594468234552	11.233327529350543	3668054
+3669111	Theory	a new algorithm for the generation of binary de bruijn sequences	1990	-10.044845048208463	10.93313372895444	3669138
+3669392	DB	fuzzy joins using mapreduce	2012	-10.0591922685915	11.215225871860289	3669419
+3673739	Theory	a 3+omega(1) lower bound for page migration	2015	-9.293023463850488	10.88387226275091	3673766
+3678112	Theory	using swaps and deletes to make strings match	2015	-9.787617623612906	10.541196852569856	3678139
+3679027	DB	the deap-a double-ended heap to implement double-ended priority queues	1987	-9.783401303999	10.362692483731662	3679054
+3679221	Theory	efficient approximate dictionary look-up for long words over small alphabets	2006	-9.67804935324576	11.006388566060052	3679248
+3680819	Theory	reconstructing strings from substrings with quantum queries	2012	-10.031942755782307	10.341557789299932	3680846
+3680929	Theory	a trade-off for worst-case efficient dictionaries	2000	-9.395457196110355	10.962190212759475	3680956
+3681257	Theory	tight chip area lower bounds for discrete fourier and walsh-hadamard transformations	1985	-9.21449264220074	10.630636392727537	3681284
+3681640	Comp.	an improved algorithm to enumerate all traces that sort a signed permutation by reversals	2010	-9.391440564225334	10.749263379229472	3681667
+3681734	DB	algorithms for trie compaction	1984	-9.277729732005401	10.949324960564065	3681761
+3684672	Theory	fast and practical algorithms for computing all the runs in a string	2007	-9.911141226711896	10.757590495935421	3684699
+3684675	Theory	on the bit complexity of minimum link paths: superquadratic algorithms for problems solvable in linear time	1996	-9.884744575812627	10.98891420710136	3684702
+3685031	Theory	associative retrieval trie hash-coding	1977	-9.428434913102274	10.533126126190027	3685058
+3685184	Theory	online and dynamic recognition of squarefree strings	2007	-9.964793073654935	10.601699654935144	3685211
+3685970	Theory	joint size and depth optimization of sorting networks	2018	-9.629111632037409	11.051247031803863	3685997
+3687672	Theory	geometric bwt: compressed text indexing via sparse suffixes and range searching	2013	-9.487275793778686	11.058403926279473	3687699
+3689920	Theory	a faster linear systolic algorithm for recovering a longest common subsequence	1997	-9.851759116441446	11.156430313843467	3689947
+3691375	Theory	threshold counters with increments and decrements	1999	-9.289727266495396	11.002935322252698	3691402
+3692090	Theory	saving space in fast string-matching	1980	-9.59674744033618	10.89200669045258	3692117
+3694503	NLP	lzrr: lz77 parsing with right reference	2018	-9.269503964217787	11.257671089245608	3694530
+3694837	Theory	getting back to the past in the union-find problem	1988	-9.972385129240019	10.50463370658376	3694864
+3698666	Theory	refining enumeration schemes to count according to permutation statistics	2014	-10.053447233035618	10.438082127615418	3698693
+3699818	Theory	compressed text indexing with wildcards	2011	-9.55994901503584	10.965028351510025	3699845
+3700471	HPC	fast parallel computation of longest common prefixes	2014	-9.5405348323458	11.14087551475118	3700498
+3701379	Theory	minimal indices for successor search	2012	-9.7890493542569	10.968324766509706	3701406
+3703047	DB	a graph structured text field index based on word fragments	1981	-9.482079260081466	10.812655461958986	3703074
+3704028	Theory	a design of a parallel dictionary using skip lists	1996	-9.752122861312758	10.951324732177083	3704055
+3704123	Crypto	self-adjusting hash tables	1985	-9.532103257295901	10.814095316019847	3704150
+3704564	DB	a compressed enhanced suffix array supporting fast string matching	2009	-9.630867996168552	10.862422307367737	3704591
+3706124	Theory	a dynamic programming approach to length-limited huffman coding: space reduction with the monge property	2010	-9.809470204290168	11.019018765591584	3706151
+3706741	Theory	a fast and space - economical algorithm for length - limited coding	1995	-9.714608562571351	10.8391931156646	3706768
+3708642	AI	iterative-expansion a	2012	-9.32520728524336	10.67072437682095	3708669
+3708830	Theory	trends in su x sorting: a survey of low memory algorithms	2012	-9.374195743104217	11.038611276856557	3708857
+3709075	Theory	two constant-factor-optimal realizations of adaptive heapsort	2011	-9.616473446628918	10.9463010555312	3709102
+3713116	Web+IR	xml compression via directed acyclic graphs	2014	-9.678214830969427	11.061850527247376	3713143
+3714495	NLP	non-redundant random generation from weighted context-free languages	2008	-9.468660586034538	10.668206079003113	3714522
+3715042	Theory	data structural bootstrapping, linear path compression, and catenable heap ordered double ended queues	1992	-9.629247372379346	10.946867721737657	3715069
+3716090	Theory	worst-case efficient sorting with quickmergesort	2018	-9.677753838788883	11.016443420585325	3716117
+3716912	ML	an effective grammar-based compression algorithm for tree structured data	2003	-9.31277312784831	11.029095422361124	3716939
+3718680	Theory	on string matching with k mismatches	2013	-9.327119761893773	10.717317544794943	3718707
+3720987	Theory	optimal space distributed order-preserving lists	1999	-9.800792028710617	10.741059207310721	3721014
+3721324	Theory	improving block sorting compression using simulated annealing	2013	-9.256979058020322	11.092240276727583	3721351
+3723158	DB	optimal space-time tradeoffs for inverted indexes	2015	-9.230663659531713	11.27231043925332	3723185
+3723616	Theory	an efficient algorithm for dynamic text indexing	1994	-9.181981758481552	10.920624503690076	3723643
+3726102	Theory	computational bounds on hierarchical data processing with applications to information security	2005	-9.936813914566995	10.592195386643075	3726129
+3726470	Theory	branch mispredictions don't affect mergesort	2012	-9.589797474655391	11.175409568997186	3726497
+3726545	DB	validating xml documents in the streaming model with external memory	2013	-9.311785353295644	11.174977959968631	3726572
+3726960	Theory	optimal series-parallel trade-offs for reducing a function to its own graph	2002	-9.930956534372855	10.611942532221619	3726987
+3727849	Theory	two tagless variations on the deutsch-schorr-waite algorithm	1986	-9.912024173935226	10.882439766680074	3727876
+3728298	Theory	a space-saving approximation algorithm for grammar-based compression	2008	-9.9592257729033	10.751281142248082	3728325
+3730077	Theory	the dynamic predicate stashing copy problem and the steiner problem in graphs	2000	-9.6537136544655	10.888642349287418	3730104
+3730808	Theory	online checkpointing with improved worst-case guarantees	2013	-10.08429516834886	10.593830449416233	3730835
+3731549	Theory	correction networks	1999	-9.896008229528414	11.193201172993591	3731576
+3731933	Theory	non-overlapping indexing - cache obliviously	2018	-9.999668355856556	10.90993142947332	3731960
+3732746	Theory	on the dynamization of data structures	1988	-9.851720462083804	10.865385127644732	3732773
+3733714	Theory	approximate on-line palindrome recognition, and applications	2014	-9.702359205033117	10.59334133714745	3733741
+3733808	Theory	dynamic perfect hashing: upper and lower bounds	1988	-10.0400823843272	10.8684207049598	3733835
+3733856	Theory	succinct ordinal trees based on tree covering	2012	-10.041777771654504	10.885156577068472	3733883
+3734472	DB	on the compression of search trees	2014	-9.366913588540838	11.209791080630906	3734499
+3734560	Arch	enumerative implementation of lempel-ziv 77 algorithm	2008	-9.316283172401016	11.050186569224708	3734587
+3734857	Theory	monotone scoring of patterns with mismatches: (extended abstract)	2004	-9.878295021163217	10.495003949476722	3734884
+3734980	ML	a fast algorithm for discovering optimal string patterns in large text databases	1998	-9.680767891255408	10.887330964880514	3735007
+3735080	Theory	meldable heaps and boolean union-find	2002	-10.058385895105372	10.909709305195113	3735107
+3735950	Theory	a space-saving linear-time algorithm for grammar-based compression	2004	-9.926550701957877	10.727465965607953	3735977
+3736181	Theory	in-place initializable arrays	2017	-9.496265103500107	11.176020081912126	3736208
+3736675	Theory	minimizing index size by reordering rows and columns	2012	-9.417958355160444	11.142079420781913	3736702
+3738478	DB	approximate query processing over static sets and sliding windows	2018	-9.907382013666792	10.675100548909382	3738505
+3738921	Theory	efficient generation of optimal prefix code: equiprobable words using unequal cost letters	1975	-9.808093726900555	10.748282078118748	3738948
+3738975	DB	extracting digital fingerprints from chinese documents	2007	-9.343811945779686	10.827157694016156	3739002
+3739238	Theory	optimal extraction of irredundant motif bases	2010	-9.71538323583573	10.721846717256213	3739265
+3739583	ML	streaming dictionary matching with mismatches	2018	-10.079426940287703	10.448287299657444	3739610
+3740023	Theory	on bit-parallel processing of multi-byte text	2004	-9.180207504190514	11.068197319868595	3740050
+3740134	DB	cross-document pattern matching	2012	-9.479392001021699	10.681400027115094	3740161
+3741102	Theory	an efficient algorithm for the longest tandem scattered subsequence problem	2004	-9.841679173393146	10.525860256035807	3741129
+3741672	Theory	compressed dynamic range majority data structures	2017	-9.897918284302607	10.933382472496616	3741699
+3745281	Theory	length-limited coding	1990	-9.563576962499262	11.004408792383193	3745308
+3745351	EDA	textual compression by collapsible tries	2006	-9.29488074712411	10.98422514443375	3745378
+3748251	Theory	limits on the power of concurrent-write parallel machines	1988	-10.107696948120644	11.176278999911355	3748278
+3751215	AI	acceleration of sweep-line technique by employing smart quicksort	2005	-9.81504315523748	10.852876704646269	3751242
+3751245	Theory	dynamic index and lz factorization in compressed space	2016	-9.717705373602486	11.050507927953568	3751272
+3752071	Theory	the violation heap: a relaxed fibonacci-like heap	2010	-9.64606910404034	10.906126126954891	3752098
+3753598	Theory	in-place suffix sorting	2007	-9.632913115222703	11.03821496132128	3753625
+3753621	Theory	fully-online construction of suffix trees for multiple texts	2016	-9.624985908868354	10.869599061576533	3753648
+3753627	Theory	computing the communication complexity of quantum channels	2013	-9.93134879339284	10.617753799446287	3753654
+3754205	Theory	quickmergesort: practically efficient constant-factor optimal sorting	2018	-9.777409506999806	10.938785281412176	3754232
+3754994	Theory	space lower bounds for online pattern matching	2013	-9.931522632859856	10.792383972914305	3755021
+3755994	Theory	on compressing permutations and adaptive sorting	2013	-10.011884510308539	10.807074499207747	3756021
+3756238	Theory	streaming for aibohphobes: longest palindrome with mismatches	2017	-9.895415519065942	10.928511731428484	3756265
+3757668	Theory	optimal on-line simulations of tree machines by random access machines	1992	-9.520670471808057	10.593261883665138	3757695
+3757685	Theory	deletion algorithms for hashing that preserve randomness	1981	-9.571589694910038	10.939138166560056	3757712
+3757836	Theory	fast and simple character classes and bounded gaps pattern matching, with applications to protein searching	2003	-9.31490220299407	10.730999420966093	3757863
+3759367	Theory	a composite stabilizing data structure	2001	-9.221930451863953	10.815743558151901	3759394
+3760488	Visualization	systolic algorithms for string manipulations	1984	-9.632819155263801	10.826441334858934	3760515
+3761884	Theory	quantifying competitiveness in paging with locality of reference	2015	-9.223526561287613	10.623030376949261	3761911
+3762743	Theory	a family of fast exact pattern matching algorithms	2016	-9.768554664251122	10.816172968180293	3762770
+3765344	Theory	fast string dictionary lookup with one error	2015	-9.688512527649957	10.987554533474206	3765371
+3766431	Theory	the power of parallel prefix	1985	-9.666590732167275	11.252322387846725	3766458
+3768011	DB	comparing hierarchical data in external memory	1999	-9.682332990566982	11.005470937969573	3768038
+3768889	Theory	a principle of independence for binary tree searching	1974	-9.711871028271213	10.528848056010624	3768916
+3768920	Theory	dynamic relative compression, dynamic partial sums, and substring concatenation	2016	-9.579958026916907	11.122860550998759	3768947
+3769724	Theory	median filtering is equivalent to sorting	2014	-9.745792784026476	10.892869371360245	3769751
+3769844	Theory	relative interval analysis of paging algorithms on access graphs	2015	-9.802769106296216	10.620280232432474	3769871
+3770036	Theory	a four-stage algorithm for updating a burrows-wheeler transform	2009	-9.18727101374553	11.176738865922015	3770063
+3770763	Theory	a black box for online approximate pattern matching	2008	-10.049021191207489	10.749442623772804	3770790
+3771083	Theory	fast prefix search in little space, with applications	2010	-9.845870396948174	10.944451945291755	3771110
+3771122	Theory	suffix vector: space- and time-efficient alternative to suffix trees	2002	-9.28088321628783	10.856463918145497	3771149
+3771623	Theory	locally maximal common factors as a tool for efficient dynamic string algorithms	2018	-10.034054209193924	10.785551411324153	3771650
+3772341	Theory	associative retrieval trie hash-coding	1976	-9.480329244226839	10.53612460305299	3772368
+3772967	Theory	an algorithm for a merge recognition problem	1982	-10.11766931357149	11.005300477889543	3772994
+3773208	Theory	optimal parallel searching an array for certain repetitions	2003	-9.944364633660424	10.587633615836106	3773235
+3773859	Theory	engineering a compressed suffix tree implementation	2009	-9.427268735606738	11.139354876538368	3773886
+3774276	ECom	multiway in-place merging	2010	-9.882414313836847	10.701673907458746	3774303
+3777643	Vision	module filtering preprocessing for module assignment problems in pipelined computing	2002	-9.273214545590475	11.035954280927108	3777670
+3778878	Theory	more graph drawing in the cloud: data-oblivious st-numbering, visibility representations, and orthogonal drawing of biconnected planar graphs	2012	-9.732399404566149	11.271312256536596	3778905
+3779672	Theory	rank-pairing heaps	2011	-9.640778543719987	10.908368189852114	3779699
+3780113	Theory	using hashing to solve the dictionary problem (in external memory)	2011	-9.703627544261142	11.000718783657987	3780140
+3780706	Theory	on frequency-based menu-splitting algorithms	1984	-9.234818040383924	10.550646184963599	3780733
+3780933	Theory	general suffix automaton construction algorithm and space bounds	2009	-9.251221396839863	10.423200387143352	3780960
+3781039	Theory	maintaining a random binary search tree dynamically	2006	-9.742599364842745	10.885897971947017	3781066
+3781364	Theory	rank-sensitive data structures	2005	-10.12479539515876	10.904602521006556	3781391
+3781986	Theory	backing up in singly linked lists	1999	-9.498318811807914	11.0419533306745	3782013
+3782763	Theory	efficient algorithms for pattern matching with general gaps, character classes, and transposition invariance	2008	-9.752952791951836	10.424322281747378	3782790
+3783547	Theory	finding range minima in the middle: approximations and applications	2010	-9.937992008896456	10.892057349276183	3783574
+3783677	Theory	robin hood hashing (preliminary report)	1985	-9.615740676503664	10.754903965544562	3783704
+3783739	DB	fast and practical approximate string matching	1996	-9.35879156665942	10.658267497278496	3783766
+3784399	DB	efficient dynamic range searching using data replication	1998	-10.047157913068775	10.62550542950609	3784426
+3784767	Theory	finding the position of the k-mismatch and approximate tandem repeats	2006	-9.991311294490592	10.425334027247397	3784794
+3785463	Security	red-black trees with relative node keys	2014	-9.523442176872859	10.970112206715159	3785490
+3786048	Theory	one-probe search	2002	-9.751489115169187	10.919025155259702	3786075
+3786336	Theory	run compressed rank/select for large alphabets	2018	-9.793733863615527	10.951420161191251	3786363
+3786394	Theory	pattern matching in dynamic texts	2000	-9.679268490271733	10.748201202271149	3786421
+3787528	Theory	faster kinetic heaps and their use in broadcast scheduling	2001	-9.592171474536368	10.77186328975661	3787555
+3788128	Crypto	simpler and faster dictionaries on the ac0 ram	1998	-9.812935270899356	11.017262029035251	3788155
+3788305	Theory	simple algorithm for sorting the fibonacci string rotations	2006	-9.782709615195072	10.626563382212202	3788332
+3790899	DB	efficient algorithms for context query evaluation over a tagged corpus	2009	-9.828894881204231	10.914910242402573	3790926
+3791236	Theory	tree rebalancing in optimal time and space	1986	-9.796834483332814	10.812583551852832	3791263
+3791834	ML	online pattern matching for string edit distance with moves	2014	-9.314604194870098	11.010617367560576	3791861
+3793016	Theory	correspondence-based data structures for double-ended priority queues	2000	-9.463414393951245	10.84589741191802	3793043
+3797152	NLP	lempel-ziv parsing in external memory	2014	-9.2299389113251	11.135454623577068	3797179
+3797159	ML	ranked reservoir sampling: an extension to the reservoir sampling algorithm	2007	-9.328569441355226	10.924312569010713	3797186
+3797354	Theory	on suffix extensions in suffix trees	2012	-9.30726418214768	10.761077508368151	3797381
+3799886	Logic	a fast set intersection algorithm for sorted sequences	2004	-9.96658601965206	10.58328722834657	3799913
+3800829	Theory	lower bounds for language recognition on two-dimensional alternating multihead machines	1989	-9.222035077568476	10.426446988455183	3800856
+3801152	Theory	optimal parallel suffix tree construction	1997	-9.799879755647398	10.636504431058007	3801179
+3801451	Logic	from suffix trees to suffix vectors	2005	-9.351791873687251	10.558198716848056	3801478
+3802151	Vision	fast search algorithms for associative memories	1986	-9.961805126352708	10.5381837327533	3802178
+3802213	Theory	on optimal top-k string retrieval	2012	-10.03792740320622	10.944367542598878	3802240
+3802343	AI	approximation of function evaluation over sequence arguments via specialized data structures	2015	-9.478735014863606	10.726936939914651	3802370
+3803509	Theory	pairing heaps with o(log log n) decrease cost	2009	-9.85749782931822	10.912598088346806	3803536
+3803523	Theory	permuted longest-common-prefix array	2009	-9.812651641315034	10.689803273696647	3803550
+3804894	EDA	splaying for compression: an experimental study	2011	-9.385100085626373	10.921631210455557	3804921
+3805422	HPC	a probabilitic parallel associative search and query set of algorithms	1992	-9.557125652210466	11.226645405830624	3805449
+3805423	Theory	computing parent nodes in threaded binary trees	1986	-9.991495836319073	10.878139902828774	3805450
+3806407	Theory	k-difference matching in amortized linear time for all the words in a text	2009	-9.956619299208468	10.765504565438373	3806434
+3806810	Graphics	prefix b-trees	1977	-9.202913826946034	11.035879221284995	3806837
+3807004	DB	algorithms for jumbled indexing, jumbled border and jumbled square on run-length encoded strings	2014	-9.675866696908654	10.828096659306526	3807031
+3808048	Theory	compact representations of ordered sets	2004	-9.977479708168136	10.972711315474312	3808075
+3809144	Theory	randomized search trees	1996	-9.983863725869199	10.833260240471061	3809171
+3809434	Theory	splay trees, davenport-schinzel sequences, and the deque conjecture	2008	-10.101680452012062	10.771789533896998	3809461
+3810146	Theory	randomized weighted caching with two page weights	2001	-9.321019455205604	10.580465236169186	3810173
+3811776		new noise-based logic representations to avoid some problems with time complexity	2011	-9.391489830163394	11.265215600547315	3811803
+3812188	DB	comments on 'hash-based and index-based join algorithms for cube and ring connected multicomputers'	1991	-9.835678388982467	10.952782194814255	3812215
+3812583	Theory	linear time algorithms for finding and representing all the tandem repeats in a string	2004	-9.886824200176886	10.530966754365414	3812610
+3813162	ML	encoding timing information for musical query matching	2002	-9.690250654300183	11.028308508177066	3813189
+3815015	Theory	"""selection and sorting in the """"restore"""" model"""	2014	-10.108849564500249	10.981190986473711	3815042
+3816541	Theory	speeding up two string-matching algorithms	1994	-9.39944939223964	10.872073396921976	3816568
+3816908	Theory	mismatch sampling	2008	-9.672801555659122	10.601771365160248	3816935
+3817081	Theory	new method in information processing for maintaining an efficient dynamic ordered set	2009	-9.462849607093773	10.999233436307307	3817108
+3817323	Crypto	fat heaps without regular counters	2012	-9.745337467886912	10.942805605973772	3817350
+3819679	AI	bipartite grammar-based representations of large sparse binary matrices: framework and transforms	2016	-9.27117873824	10.697790651397073	3819706
+3819810	Theory	hash functions for priority queues	1983	-9.932246548204484	10.781037447356553	3819837
+3820453	Theory	finding approximate palindromes in strings quickly and simply	2004	-10.130304469999787	10.59627772683193	3820480
+3820596	Theory	oblivious string embeddings and edit distance approximations	2006	-10.064391387129904	10.659620028165344	3820623
+3820976	Theory	average case lower bounds on the construction and searching of partial orders	1985	-10.105406101733598	10.661997727672588	3821003
+3822081	DB	comparing insertion schemes used to update 3-2 trees	1979	-9.682649620550007	10.581708361808193	3822108
+3822308	Theory	randomized meldable priority queues	1998	-10.090274663373176	10.688031967946646	3822335
+3823359	DB	consecutive retrieval with redundancy: an optimal linear and an optimal cyclic arrangement and their storage space requirements	1980	-9.574522262276657	10.774586099862194	3823386
+3824195	Theory	the factor automaton	1998	-9.350679404193812	10.987287276166331	3824222
+3825517	Theory	shortest unique substring query revisited	2014	-9.625015879079507	10.824707001983674	3825544
+3825973	Theory	on multi-level k-ranges for range search	2004	-9.961350080960989	10.654513571485753	3826000
+3828606	Theory	fast implementations of automata computations	2000	-9.193411413419753	10.439766549441194	3828633
+3829337	Theory	an efficient list-moving algorithm using constant workspace	1976	-9.582280870497303	10.750118897169703	3829364
+3829883	Theory	a dictionary for approximate string search and longest prefix search	2006	-9.84939195402216	10.954208668082089	3829910
+3830541	Theory	approximate bit vectors for fast unification	2011	-9.486544997524662	10.577809850770812	3830568
+3832047	Theory	on finding the height of a binary search tree	1993	-9.731244837527981	10.751223443301251	3832074
+3832497	Theory	space-efficient algorithms for document retrieval	2007	-9.805505718180104	10.923976738154089	3832524
+3832889	Theory	quicksort for equal keys	1985	-9.67743491277649	11.081771729575234	3832916
+3833527	Theory	space efficient linear time lempel-ziv factorization for small alphabets	2014	-9.709197346784897	11.139951408485844	3833554
+3833579	Theory	position heaps for parameterized strings	2017	-9.44409358824199	10.65657742562989	3833606
+3835495	DB	providing concise database covers instantly by recursive tile sampling	2014	-10.06919020947109	10.378273113763372	3835522
+3836102	Theory	efficient computations of l1 and linfinity rearrangement distances	2007	-9.732902376697169	10.57067531408165	3836129
+3837727	Web+IR	self-adjusting and split sequence hash tables	1989	-9.188219264485989	10.729351297519736	3837754
+3838994	Theory	diophantine-equation based arithmetic test set embedding	2006	-9.984475467447703	11.283545431689479	3839021
+3840103	Theory	randomized ternary search tries	2016	-9.896528677823731	10.906505739595952	3840130
+3840219	Theory	a simple, fast, and compact static dictionary	2009	-9.450956025941872	11.118118472865977	3840246
+3842338	Robotics	massively parallel construction of the cell graph	2015	-9.415067653501335	11.158306307784695	3842365
+3842375	Theory	an efficient algorithm for the all pairs suffix-prefix problem	1992	-10.131214216884008	10.620599400751816	3842402
+3842424	Theory	position heaps for permuted pattern matching on multi-track string	2015	-9.647367755385396	10.969369404577213	3842451
+3845457	Theory	dynamic relative compression	2015	-9.456359160283524	11.146340704640092	3845484
+3845494	Theory	an efficient algorithm for identifying the most contributory substring	2007	-9.736645756083034	10.738083357845648	3845521
+3847469	Theory	dynamic multi-dimensional data structures based on quad- and k—d trees	1982	-9.759395676823141	10.831314152576034	3847496
+3847998	Theory	feasible time-optimal algorithms for boolean functions on exclusive-write parallel random-access machines	1996	-9.819842843778085	11.197104723055062	3848025
+3848054	HPC	a constant time parallel detection of repetitions	1999	-10.045242431609914	11.073298640925577	3848081
+3849728	Theory	approximation ratio of repair	2017	-9.954880805265123	10.56785882175372	3849755
+3849986	Theory	two-tier relaxed heaps	2008	-9.795913919825988	10.977863988476098	3850013
+3853596	DB	general algorithms for the address calculation of lexicographically ordered tuples	1985	-9.717711325376463	10.59739217317972	3853623
+3853750	Theory	implicit compression boosting with applications to self-indexing	2007	-9.498994792590151	11.16175696800992	3853777
+3854805	Crypto	on sorting of signed permutations by prefix and suffix reversals and transpositions	2014	-10.003902009716477	10.505374659452409	3854832
+3857595	DB	accessing multiple sequences through set associative caches	1999	-9.242231234859638	11.008806829456429	3857622
+3861129	DB	incrementally maintaining run-length encoded attributes in column stores	2012	-9.287788920974592	11.218024299588691	3861156
+3861602	ML	dyntg: a tool for interactive, dynamic instrumentation	2005	-9.62993480733517	10.930917235362196	3861629
+3862856	Theory	a swar approach to counting ones	2011	-9.949776037266993	10.782495953319604	3862883
+3864173	Vision	on the construction of an antidictionary with linear complexity using the suffix tree	2007	-9.526221246490117	11.280265864905159	3864200
+3865715	Theory	dynamic nested brackets	2004	-9.891345492937278	10.683931329065954	3865742
+3865960	Theory	skip lists: a probabilistic alternative to balanced trees	1990	-9.692470674008154	10.812252481839044	3865987
+3866820	Theory	strictly implicit priority queues: on the number of moves and worst-case time	2015	-10.099647876247193	10.874952495745408	3866847
+3867870	Crypto	interpolation search - a log log n search	1978	-9.25984516802449	10.5224479850512	3867897
+3868670	Theory	digital access to comparison-based tree data structures and algorithms	2001	-9.367137108681467	11.119953744822064	3868697
+3868887	Theory	building heaps fast	1989	-9.834181911070557	10.547413848166984	3868914
+3869271	Theory	practical algorithms to rank necklaces, lyndon words, and de bruijn sequences	2017	-9.912621237304586	10.367415071104256	3869298
+3869548	Theory	online construction of wavelet trees	2017	-9.464390574324456	10.941091905725928	3869575
+3870828	Theory	optimal bounds for the predecessor problem and related problems	2002	-9.33435259218404	10.759035499270349	3870855
+3871914	Web+IR	bit-parallel search algorithms for long patterns	2010	-9.346611610927239	10.724053019860023	3871941
+3872340	Theory	a priority queue with the working-set property	2006	-9.704833519160779	10.897004699423352	3872367
+3872650	DB	persistent cache-oblivious streaming indexes	2017	-9.862163103315666	11.013036467482898	3872677
+3872856	Theory	bounds on the obdd-size of integer multiplication via universal hashing	2005	-9.869269633823869	11.282717393838803	3872883
+3874300	Theory	representing prefix and border tables: results on enumeration	2017	-9.704006013544207	10.58398740358074	3874327
+3874620	Theory	compact directed acyclic word graphs for a sliding window	2004	-9.57296910028418	10.915407105334909	3874647
+3876468	NLP	on the approximation ratio of lempel-ziv parsing	2018	-9.562678226825833	11.135581581446733	3876495
+3878412	ECom	emerging behavior as binary search trees are symmetrically updated	2000	-9.352956509931248	10.558756852196412	3878439
+3878711	Theory	a fast string searching algorithm	1977	-9.492613597505471	10.688801048377409	3878738
+3881674	Theory	a faster longest common extension algorithm on compressed strings and its applications	2015	-9.989662280776882	10.932614383723841	3881701
+3881686	Theory	efficient parallel solutions of linear algebraic circuits	1999	-9.952948590824176	11.247296390365822	3881713
+3884337	Theory	parallel parsing on a one-way array of finite-state machines	1986	-9.379854452174461	11.028419840459454	3884364
+3885175	DB	strongly competitive algorithms for caching with pipelined prefetching	2004	-9.342256546769288	11.109474789353607	3885202
+3886168	Theory	linear-time ranking of permutations	2007	-9.940813270887359	10.55516450640803	3886195
+3886404	DB	string join using precedence count matrix	2004	-9.448560356851504	10.722563388543056	3886431
+3886654	Theory	a space lower bound for dynamic approximate membership data structures	2013	-10.068734167497515	10.629994265770256	3886681
+3886949	Theory	time bounds for streaming problems	2014	-9.97197307842912	11.114069132760983	3886976
+3887424	Logic	a simple array version of m-heap	2014	-9.494853206955638	11.015146608407475	3887451
+3888105	ML	quantum partial search of a database with several target items	2007	-9.827090309763976	10.38500182431342	3888132
+3888475	Theory	optimal substring-equality queries with applications to sparse text indexing	2018	-9.829071134616004	10.984440727794885	3888502
+3889596	Theory	stable minimum storage merging by symmetric comparisons	2004	-9.950180558136623	10.667084632995342	3889623
+3892164	DB	construction of a tree from its traversals in optimal time and space	1990	-9.472322576625967	10.603233333414464	3892191
+3894945	Theory	theory of 2-3 heaps	2003	-9.49897721122292	10.89540988082507	3894972
+3895423	Theory	cache-oblivious implicit predecessor dictionaries with the working-set property	2012	-9.660578104270348	10.997057360582971	3895450
+3896485	HPC	broadword computing and fibonacci code speed up compressed suffix arrays	2009	-9.382406767380157	11.254303876789434	3896512
+3897398	Theory	reversing longest previous factor tables is hard	2011	-10.042577928115275	10.778528930314712	3897425
+3897461	Theory	purely functional random-access lists	1995	-9.68179000646776	10.844289800260535	3897488
+3897495	Theory	an encoding for order-preserving matching	2017	-9.924635787855458	10.930823921240219	3897522
+3897795	PL	on enumerating the dna sequences	2012	-9.209003197831484	11.130416705482306	3897822
+3899106	Theory	on pattern matching with swaps	2013	-9.860696287422805	10.704773609965484	3899133
+3899666	Theory	a simple linear-time algorithm for in situ merging	1984	-10.025288507367913	11.088139755474618	3899693
+3899914	Theory	linear bidirectional on-line construction of affix trees	2003	-9.376621159429678	10.48443264439307	3899941
+3900593	AI	an analysis of random-walk cuckoo hashing	2009	-9.801118464742805	10.84392466412601	3900620
+3900782	Theory	knowledge states: a tool for randomized online algorithms	2008	-9.25147223655941	10.621092586504801	3900809
+3902281	Theory	streaming algorithms for computing edit distance without exploiting suffix trees	2016	-10.036027289224293	10.715897373128485	3902308
+3902983	Theory	tabulation based 5-universal hashing and linear probing	2010	-9.86412641133745	10.958123543646105	3903010
+3903925	Crypto	splaysort: fast, versatile, practical	1996	-9.277553837580466	10.929329343567462	3903952
+3904871	Theory	the position end-set tree: a small automaton for word recognition in biological sequences	1993	-9.244022421499624	10.49484568083417	3904898
+3905094	Theory	the amortized cost of finding the minimum	2015	-9.670844625342976	10.721926338798443	3905121
+3905192	Theory	compact q-gram profiling of compressed strings	2014	-9.325456911725515	11.049612043467818	3905219
+3905240	DB	combinatorial compression and partitioning of large dictionaries	1983	-9.223992259253171	11.087684727354643	3905267
+3907574	Theory	efficient pattern matching in elastic-degenerate strings	2016	-9.666059402619972	10.547842294734034	3907601
+3907598	Theory	parallel sorting on cayley graphs	1991	-10.096507513867301	11.149191566129758	3907625
+3910101	Theory	fast and powerful hashing using tabulation	2017	-9.955754376243034	10.74272672925112	3910128
+3910310	Theory	string inference from the lcp array	2016	-9.631769235345383	10.43783463089963	3910337
+3910804	Theory	simulation of parallel random access machines by circuits	1984	-9.196331265973653	10.745153059591622	3910831
+3910978	Theory	packed compact tries: a fast and efficient data structure for online string processing	2016	-9.805685062102096	11.035574447785065	3911005
+3911971	Vision	dynamic memories with fast random and sequential access	1975	-9.525111096550852	10.994870651940944	3911998
+3913264	Logic	window-accumulated subsequence matching problem is linear	2001	-9.46281600202313	10.822953475979832	3913291
+3913738	Theory	inducing suffix and lcp arrays in external memory	2016	-9.549538811246304	11.004121803688236	3913765
+3916872	Theory	an approximate string-matching algorithm	1992	-9.477990248338177	10.861233275025286	3916899
+3917694	Theory	a note on bifix-free sequences (corresp.)	1973	-9.750996607532409	10.756354088737183	3917721
+3917908	Theory	near-optimal online multiselection in internal and external memory	2016	-9.623783655646347	10.875167420054215	3917935
+3920136	Theory	on the linear number of matching substrings	2010	-9.559346602216758	10.587346425444798	3920163
+3920267	Theory	fast dynamic arrays	2017	-9.42906115531617	11.117144777882944	3920294
+3920460	Theory	parallel integer sorting using small operations	1995	-10.087877308299603	11.14626022983376	3920487
+3922774	Theory	dal: accommodating skip lists in the sdds model	2000	-9.526788886828932	10.334296842180995	3922801
+3923913	DB	bwt arrays and mismatching trees: a new way for string matching with k mismatches	2017	-9.238188688248147	10.910423972698457	3923940
+3924949	DB	partially persistent b-trees with constant worst-case update time	2012	-9.613493210204387	11.003737371783004	3924976
+3925298	Theory	on the complexity of optimal grammar-based compression	2006	-9.828724323837257	10.645435115857472	3925325
+3926179	Theory	on efficient unsuccessful search	1992	-9.445117983680381	10.928575516966369	3926206
+3926543	Theory	breaking a time-and-space barrier in constructing full-text indices	2003	-9.745866868949161	11.063452084274509	3926570
+3929771	Theory	compressed index for property matching	2011	-9.873426844044529	10.870050844349619	3929798
+3929865	Theory	average complexity of exact and approximate multiple string matching	2004	-9.957992352394408	10.657661133584615	3929892
+3930674	Theory	an efficient string sorting algorithm for weighing matrices of small weight	2010	-10.051698842555377	10.608228310486636	3930701
+3930718	Theory	rotated library sort	2013	-9.838046952693826	11.150038857341151	3930745
+3931425	EDA	a quadsection algorithm for grammar-based image compression	2012	-9.388000281534207	11.110230882371416	3931452
+3931432	ML	optimal continguous expression dag evaluations	1995	-9.525798941667198	10.919293735849669	3931459
+3931862	Theory	approximate swap and mismatch edit distance	2007	-10.045370158558683	10.687399531819358	3931889
+3934124	Vision	the effect of multiple reference characters on detecting matches in string-searching algorithms	2005	-9.221507798023902	10.872352708943447	3934151
+3934579	Theory	constant-memory iterative generation of special strings representing binary trees	2009	-10.115572910467886	10.427629707517593	3934606
+3934647	Theory	enhanced quicksort algorithm	2010	-9.237779804442775	10.717921009333015	3934674
+3936104	Logic	a fast and compact technique of implementing transition tables for finite state automata	2000	-9.45507203043755	10.816592867819752	3936131
+3936731	EDA	parallel generation of permutations by inversion vectors	2012	-10.018894002726693	11.20262628470869	3936758
+3937475	NLP	a faster algorithm for the computation of string convolutions using lz78 parsing	2010	-9.563708089333547	11.027603572444079	3937502
+3937763	Theory	a new universal class of hash functions and dynamic hashing in real time	1990	-9.650374197504727	10.731846625611952	3937790
+3938513	Theory	towards real-time suffix tree construction	2005	-9.804004781124569	10.760689441260213	3938540
+3940399	Theory	applying an edit distance to the matching of tree ring sequences in dendrochronology	1999	-10.121183185089961	10.586640438669766	3940426
+3945624	Theory	a sub-quadratic sequence alignment algorithm for unrestricted cost matrices	2002	-9.913033665373963	10.797216271115657	3945651
+3945777	Theory	from nondeterministic suffix automaton to lazy suffix tree	2010	-9.264373102634707	10.522983948618569	3945804
+3945909	Theory	on the all occurrences of a word in a text	1998	-9.862842330206819	10.530564889688623	3945936
+3946692	Theory	brief announcement: tree decomposition for faster concurrent data structures	2010	-9.729576893129595	10.989939797509654	3946719
+3947512	Theory	indexed tree matching with complete answer representations	1998	-9.753580241360579	10.49567803101055	3947539
+3947676	Theory	efficient storage and retrieval by content and address of static files	1974	-9.292076217110699	10.885798953214458	3947703
+3947971	Theory	range median of minima queries, super-cartesian trees, and text indexing	2008	-9.852074935539688	10.947378202469109	3947998
+3948765	Logic	factor automata of automata and applications	2007	-9.181792988131203	10.337449720096533	3948792
+3950009	Theory	problems related to subsequences and supersequences	1999	-9.992878936003818	10.427898534524669	3950036
+3950783	Theory	a linear lower bound on index size for text retrieval	2001	-9.579875014838054	11.003134389967844	3950810
+3951854	Networks	efficient randomized web-cache replacement schemes using samples from past eviction times	2002	-9.397343966450014	10.842202868795967	3951881
+3954929	Theory	optimal partitioning for dual pivot quicksort - (extended abstract)	2013	-9.630831853179393	10.467121741913713	3954956
+3955946	Theory	deterministic parallel list ranking	1991	-10.065411219996992	10.678043647020903	3955973
+3956839	Theory	soft heaps simplified	2013	-9.992562093890148	10.92748468796604	3956866
+3959993	NLP	adaptive shivers sort: an alternative sorting algorithm	2018	-9.684610544654152	10.495106018378577	3960020
+3960556	Theory	derivation of a parallel string matching algorithm	2003	-9.935978278443931	10.561580086020278	3960583
+3960572	Metrics	estimating the number of active flows in a data stream over a sliding window	2007	-9.875932922557462	10.723688217987231	3960599
+3960796	EDA	a linear time algorithm for rolling binary trees	2017	-9.82832855231641	10.781333975457908	3960823
+3962369	ML	optimal discovery of repetitions in 2d	2005	-9.931280574735801	10.341304777399637	3962396
+3963685	DB	tuning algorithms for jumbled matching	2015	-9.464983750303618	10.630246129569349	3963712
+3964933	Theory	approximation algorithms for grammar-based compression	2002	-9.845129213100508	10.805035488834083	3964960
+3965376	Theory	time and space efficient search for small alphabets with suffix arrays	2005	-9.78416015838941	10.951859649001685	3965403
+3965527	Theory	alphabet-dependent string searching with wexponential search trees	2015	-9.85297805592282	10.914727986903195	3965554
+3965752	Theory	improved single and multiple approximate string matching	2004	-9.76555992321498	10.679872571764491	3965779
+3967805	Theory	pbwt: achieving succinct data structures for parameterized pattern matching and related problems	2017	-10.05135525422626	10.885506118531408	3967832
+3968589	Theory	greed sort: optimal deterministic sorting on parallel disks	1995	-9.910740477297873	11.034093467349718	3968616
+3970827	Theory	duel and sweep algorithm for order-preserving pattern matching	2018	-9.833852776971968	10.71144304613369	3970854
+3971358	Theory	optimistic sorting and information theoretic complexity	1993	-9.587393538756608	10.531861069197957	3971385
+3971457	Theory	a modeling approach to the evaluation of internal sorting methods	1980	-9.217570002733856	10.938630433971719	3971484
+3972468	Theory	external selection	2006	-10.080382830876676	10.727941565934383	3972495
+3973687	ML	efficient counting of square substrings in a tree	2012	-10.021059018524273	10.674439600572637	3973714
+3973893	HPC	parallel quicksort	1991	-9.883801595730393	10.868898092848642	3973920
+3974405	Theory	pattern matching in lempel-ziv compressed strings: fast, simple, and deterministic	2011	-9.57770324292357	11.02893992511674	3974432
+3975303	Logic	the amortized analysis of a non-blocking chromatic tree	2018	-9.735129647775418	11.173839251192708	3975330
+3976321	Theory	optimal worst-case operations for implicit cache-oblivious search trees	2003	-9.394887033784853	11.194957188059652	3976348
+3978305	Theory	parameterized diff	1999	-9.535957588571796	10.409284861960039	3978332
+3978638	Theory	range selection and predecessor queries in data aware space and time	2017	-9.793078601328617	11.111602350105624	3978665
+3982735	Theory	a tight lower bound for top-down skew heaps	1997	-9.992843539831696	11.089576665588277	3982762
+3983265	Theory	most recent match queries in on-line suffix trees (with appendix).	2014	-9.526999366116504	10.973296778236904	3983292
+3983785	Theory	computing runs on a general alphabet	2016	-9.947408210419157	10.793772380036634	3983812
+3983810	Theory	algorithms for pattern involvement in permutations	2001	-9.969542871145183	10.617364894337252	3983837
+3986115	Theory	linked dynamic tries with applications to lz-compression in sublinear time and space	2013	-9.772186360246202	11.006032463532724	3986142
+3987722	PL	fast and accurate flow-insensitive points-to analysis	1997	-9.215544531779033	11.134547008151817	3987749
+3988023	Theory	fingerprints in compressed strings	2017	-9.706967217831483	11.011001245695148	3988050
+3988658	Theory	faster approximate pattern matching in compressed repetitive texts	2011	-9.5357959444717	11.026391883967298	3988685
+3990519	Theory	on effective procedures for speeding up algorithms	1969	-9.208608043308953	10.44473518498626	3990546
+3990683	DB	simulating equatorial measurements on ghz states with finite expected communication cost	2012	-9.969728848865518	10.513167708920204	3990710
+3992535	ECom	the approximate swap and mismatch edit distance	2010	-9.971809412707916	10.696589596036217	3992562
+3992769	Theory	hashing of databases based on indirect observations of hamming distances	1996	-9.45893724651176	10.69820672452585	3992796
+3993465	Theory	an improved algorithm for approximate string matching	1989	-9.315620869662288	10.46902925022458	3993492
+3994259	Theory	self-organizing doubly-linked lists	1993	-9.803746790598275	10.442242995455306	3994286
+3994491	DB	enumeration of mso queries on strings with constant delay and logarithmic updates	2018	-9.529498387863088	10.458087717512562	3994518
+3996758	Theory	introducing efficient parallelism into approximate string matching and a new serial algorithm	1986	-9.448583028886963	10.936724221295009	3996785
+3997131	DB	a note on the reconstruction of a binary tree from its traversals	1992	-10.09310450920218	10.835456646585259	3997158
+3997356	Theory	the ultimate heapsort	1998	-10.02600664183601	11.038080453684024	3997383
+3998260	Theory	a parallel algorithm for fixed-length approximate string-matching with k-mismatches	2010	-9.543865317523093	11.04083391376569	3998287
+3998548	Theory	some novel results from analysis of move to front (mtf) list accessing algorithm	2012	-9.377810439099454	10.783517159257627	3998575
+3998723	DB	storing a sparse table	1979	-9.324382241681954	11.139766422330034	3998750
+3999681	Theory	alphabet-independent compressed text indexing	2014	-9.705667988791687	10.883018942015473	3999708
+4000393	Theory	poketree: a dynamically competitive data structure with good worst-case performance	2006	-9.478881140063796	11.092058030028724	4000420
+4000433	Theory	efficient randomized pattern-matching algorithms	1987	-9.607598524392762	10.836584467980218	4000460
+4000608	Theory	alphabet-independent two-dimensional witness computation	1996	-10.110534391046967	10.671177332934876	4000635
+4000640	Theory	combining binary search trees	2013	-10.007951657141863	10.723891192768887	4000667
+4001607	DB	post-optimization and incremental refinement of r-trees	1999	-9.55416262679973	10.86076319334301	4001634
+4003547	DB	searching patterns in digital image databases	2005	-9.794027224578883	10.896877612511602	4003574
+4003989	Vision	on the expected longest length probe sequence for hashing with separate chaining	2011	-9.192497922031881	10.971312607753044	4004016
+4004489	Theory	on the number of elements to reorder when updating a suffix array	2012	-9.423839688964396	10.991491097581294	4004516
+4005123	Theory	efficient algorithms for the longest common subsequence in $k$-length substrings	2014	-9.554100628680699	10.72338073883984	4005150
+4005331	ML	fast pattern matching for word lists	1985	-9.229721865360958	10.767653102041573	4005358
+4005360	Theory	dynamic compressed strings with random access	2013	-9.887637839336572	10.979821915125045	4005387
+4005362	Theory	on the set lcs and set-set lcs problems	1993	-9.695678710702527	10.497132295234405	4005389
+4006519	Theory	the tree model for hashing: lower and upper bounds	1996	-9.67480726321216	10.834828441564763	4006546
+4007085	Theory	dynamizing static algorithms, with applications to dynamic trees and history independence	2004	-9.308206754634119	10.357592387473764	4007112
+4007947	PL	compressed spaced suffix arrays	2014	-9.34588599467187	10.989256218267933	4007974
+4008915	Theory	pseudo-realtime pattern matching: closing the gap	2010	-10.030943994496427	10.680704084586043	4008942
+4009917	HPC	fast and efficient operations on parallel priority queues	1996	-9.394140963687542	11.213272434344528	4009944
+4010740	Theory	better compression through better list update algorithms	2014	-9.451215131131494	11.079472137655802	4010767
+4014093	Theory	bounds on the time for parallel ram's to compute simple functions	1982	-9.404246436415287	10.729262442520467	4014120
+4014313	Theory	linear time suffix array construction using d-critical substrings	2009	-9.434451090499463	10.895705303260069	4014340
+4014605	Theory	approximate dictionary queries	1996	-9.711610068649707	10.848512160702837	4014632
+4016864	Theory	a b-tree dynamic router-table design	2005	-9.60120941159911	11.192379449887476	4016891
+4018116	Theory	computational issues in exploiting dependent and-parallelism in logic programming: leftness detection in dynamic search trees	2005	-9.531882277448997	10.606539352009683	4018143
+4018629	Theory	paging and list update under bijective analysis	2009	-9.420404104003456	10.499732649771117	4018656
+4020333	Theory	a probabilistic pipeline algorithm for k selection on the tree machine	1985	-10.096685073990145	10.813992583177944	4020360
+4020566	AI	hu-tucker minimum redundancy alphabetic coding method [z] (algorithm 428)	1972	-9.674784590473974	10.990925424538768	4020593
+4020621	Theory	efficient lz78 factorization of grammar compressed text	2012	-9.629080816368381	11.019052716001797	4020648
+4021093	Theory	dictionary matching in a stream	2015	-9.665266771364033	10.685629714099571	4021120
+4021699	Theory	optimal partitioning for dual-pivot quicksort	2015	-9.430017712324092	10.785926867419484	4021726
+4022407	Theory	a general class of resource tradeoffs	1982	-9.990103594876258	10.53129957883943	4022434
+4022852	NLP	cube pruning as heuristic search	2009	-9.561080309904744	10.449396021511493	4022879
+4023517	Theory	on pattern matching with k mismatches and few don't cares	2017	-9.76285558522782	10.748619808127685	4023544
+4025854	Theory	in-place associative integer sorting	2012	-9.333407805942745	11.147292949133917	4025881
+4026944	DB	efficient evaluation of set expressions	2014	-9.895615275998138	10.539750689847343	4026971
+4027428	Web+IR	variable-byte encoding is now space-efficient too	2018	-9.288109002124402	11.255340520909689	4027455
+4027732	Theory	balancing binary trees by internal path reduction	1983	-10.018600727955741	10.909614820127112	4027759
+4030909	Logic	efficient rebalancing of b-trees with relaxed balance	1996	-9.504261269583102	11.158359108127641	4030936
+4031584	Theory	linear-time suffix sorting - a new approach for suffix array construction	2016	-9.679890745945917	10.71901984650322	4031611
+4034473	Theory	randomized splay trees: theoretical and experimental results	2002	-9.562071106576916	10.864938157653393	4034500
+4034592	Theory	fast, small, simple rank/select on bitmaps	2012	-9.217343076402068	11.05647204331942	4034619
+4034600	Theory	two-dimensional periodicity in rectangular arrays	1998	-10.030521352015999	10.749613091388918	4034627
+4034890	DB	an algorithm for string matching with a sequence of don't cares	1991	-9.651348390530188	10.827104682778868	4034917
+4035671	Theory	fun-sort--or the chaos of unordered binary search	2004	-9.89038740586076	10.945735613878558	4035698
+4036214	Theory	indexing text using the ziv-lempel trie	2004	-9.525105379149405	11.035285077632311	4036241
+4036550	Theory	a self-adjusting data structure for multidimensional point sets	2012	-10.041859429345756	10.849292446177603	4036577
+4036679	Theory	the property suffix tree with dynamic properties	2010	-9.643068710195044	10.702439771364551	4036706
+4037086	Theory	the position heap of a trie	2012	-9.563818070115248	10.787704090760656	4037113
+4037315	Theory	decision sort and its parallel implementation	2005	-9.251192798655335	10.432715729613928	4037342
+4039948	Theory	efficient stack simulation for set-associative virtual address caches with real tags	1995	-10.062012003244476	11.138752662789368	4039975
+4040160	Theory	optimal spaced seeds for faster approximate string matching	2007	-9.316053188270006	10.73609132559154	4040187
+4040787	Theory	note on optimal trees for parallel hash functions	2016	-9.828937027786596	11.005450201213991	4040814
+4042000	Theory	multidimensional balanced binary trees	1989	-9.651837995787783	10.928682988771953	4042027
+4042163	Theory	an extension of the string-to-string correction problem	1975	-9.603044177442227	10.521357614446636	4042190
+4044208	Robotics	optimizing connected component labeling algorithms	2005	-9.560317373454467	11.080018894909792	4044235
+4045782	Crypto	binary block order rouen transform	2016	-9.773125439818076	10.600025421721396	4045809
+4046608	Theory	a note on the longest common abelian factor problem	2015	-10.122639544228873	10.619236057387658	4046635
+4047234	Theory	managing unbounded-length keys in comparison-driven data structures with applications to on-line indexing	2014	-9.667456552841102	11.010510358641882	4047261
+4047907	Theory	lrm-trees: compressed indices, adaptive sorting, and compressed permutations	2011	-9.648565013490396	11.081126897001104	4047934
+4048108	Theory	lower bounds for randomized exclusive write prams	1995	-9.905186038899107	10.362343318804044	4048135
+4048201	Vision	simpler and faster lempel ziv factorization	2013	-9.516269040111576	10.919834045890065	4048228
+4049355	Crypto	graphs, hypergraphs and hashing	1993	-9.964896407557292	10.4092579123516	4049382
+4049537	DB	window query-optimal clustering of spatial objects	1995	-9.365330447774065	10.378615458966266	4049564
+4049596	Theory	succinct indexes for strings, binary relations and multi-labeled trees	2007	-9.715551253202273	11.07929129096385	4049623
+4052294	Robotics	a simple shuffle-based stable in-place merge algorithm	2011	-9.806646097978307	11.069055426285852	4052321
+4052624	Theory	a combined bit and timestamp algorithm for the list update problem	1995	-9.410981951256344	10.576505895116737	4052651
+4053979	Theory	sequential and indexed two-dimensional combinatorial template matching allowing rotations	2005	-9.74407918026844	10.836614623406028	4054006
+4054932	Theory	linear-time longest-common-prefix computation in suffix arrays and its applications	2001	-9.519271689047144	10.820515719119756	4054959
+4055752	Theory	a simpler implementation and analysis of chazelle's soft heaps	2009	-9.982198057367322	10.87623722180567	4055779
+4056335	Theory	on the space complexity of one-pass compression	2006	-9.41817862675475	11.273546763589929	4056362
+4058036	Logic	tree template matching in ranked ordered trees by pushdown automata	2011	-9.194013885373385	10.448767913154963	4058063
+4061743	Theory	approximate string matching in sublinear expected time	1990	-9.992963032435982	10.64413571428266	4061770
+4063789	Theory	study of bit-parallel approximate parameterized string matching algorithms	2009	-9.569976352350992	10.731406828057493	4063816
+4063902	Theory	longest common factor made fully dynamic	2018	-9.717770770631095	10.73140972272384	4063929
+4065331	Theory	near real-time suffix tree construction via the fringe marked ancestor problem	2013	-9.745141434236725	10.742440097692587	4065358
+4068585	Theory	palindrome pattern matching	2013	-9.568338389322145	10.549674320325527	4068612
+4069172	Theory	suffix sorting via shannon-fano-elias codes	2008	-9.64975474520702	11.079356019470497	4069199
+4069433	Theory	a partially persistent data structure for the set-union problem with backtracking	1988	-9.978575906756422	10.53663987389147	4069460
+4070522	Theory	average case and distributional analysis of dual-pivot quicksort	2015	-9.180491861328703	10.940754997857557	4070549
+4071740	DB	an experimental study of priority queues in external memory	2000	-9.785463305874195	10.707481385441891	4071767
+4073468	Theory	tunneling on wheeler graphs	2018	-9.565233574431463	10.920408715576565	4073495
+4074162	Robotics	efficient parallel algorithms for tree-related problems using the parentheses matching strategy	1994	-9.711820815530798	10.426897619443016	4074189
+4075752	Theory	a simple parallel cartesian tree algorithm and its application to parallel suffix tree construction	2014	-9.79016725543592	11.168379954387193	4075779
+4075949	Theory	a fast algorithm for translating combinator expressions with bc-chains	1987	-9.494075300749584	10.616151830523982	4075976
+4078433	Theory	the weak-heap family of priority queues in theory and praxis	2012	-9.929761063007897	10.858628426658733	4078460
+4078436	Theory	fast stable merging and sorting in constant extra space	1992	-10.055648447521603	10.807630073088156	4078463
+4078929	Theory	a simple algorithm for stable minimum storage merging	2007	-9.801679384653529	10.828762800050864	4078956
+4079318	Theory	constructing the suffix tree of a tree with a large alphabet	1999	-10.002258177877586	10.750277066272576	4079345
+4079785	Theory	on regular expression matching and deterministic finite automata	2015	-9.708970900554533	10.789142694003948	4079812
+4079949	Theory	the pairwise sorting network	1992	-9.977944733870864	11.220648308139028	4079976
+4080107	Theory	the problem of context sensitive string matching	2002	-10.062874890725645	10.510050118691376	4080134
+4080220	Theory	a time-space tradeoff for sorting on non-oblivious machines	1979	-9.778601918250377	10.857681797308354	4080247
+4080754	Theory	algorithms for jumbled indexing, jumbled border and jumbled square on run-length encoded strings	2016	-9.735369773309603	10.854895368706806	4080781
+4082372	Visualization	on compactly encoding with differential compression	2006	-9.899776207781725	10.909393016314276	4082399
+4082598	Theory	minimal suffix and rotation of a substring in optimal time	2016	-9.961174973877815	10.722272763742607	4082625
+4083535	Theory	complexity of layered binary search trees with relaxed balance	2001	-9.589863892442374	10.9111637990258	4083562
+4084470	Theory	the independence of miss ratio on page size	1976	-9.249436621082973	10.863897259689148	4084497
+4085877	Theory	sublinear merging and natural mergesort	1993	-9.810544900943013	10.647277522665352	4085904
+4085957	Crypto	longest common factor after one edit operation	2017	-9.962874741244203	10.722320850926517	4085984
+4085981	PL	implementation of dawg	1998	-9.212637770782566	10.374286611827037	4086008
+4087370	Theory	sorting shuffled monotone sequences	1994	-10.056246680588416	10.578803300842925	4087397
+4089174	Theory	linear-time text compression by longest-first substitution	2009	-9.247341284663019	10.954902159393122	4089201
+4090065	Vision	efficient algorithm for circular burrows-wheeler transform	2012	-10.0446475859738	10.77607340881623	4090092
+4091374	AI	knowledge state algorithms: randomization with limited information	2007	-9.271952692594962	10.395651540722527	4091401
+4092477	Theory	dynamic suffix tree and two-dimensional texts management	1997	-9.273596454072539	10.554681281437807	4092504
+4093014	NLP	on the structure of consistent partitions of substring set of a word	2009	-9.6893870719145	10.6063452032027	4093041
+4093073	AI	information acquisition in minimal window search	1985	-9.990878523148185	10.876988120793431	4093100
+4093788	Theory	generating sorted lists of random numbers	1980	-9.553479117386628	10.989551633059056	4093815
+4095582	DB	finding frequent elements in non-bursty streams	2007	-9.765052783609928	10.652497002944694	4095609
+4098348	Theory	general methods for the analysis of the maximum size of dynamic data structures (extended abstract)	1989	-9.958929100946957	10.408634659601114	4098375
+4099995	Theory	finding maximal quasiperiodicities in strings	2000	-9.870210438840497	10.584903386413737	4100022
+4102414	Theory	minimal indices for successor search - (extended abstract)	2013	-9.930003558059393	10.955537836008325	4102441

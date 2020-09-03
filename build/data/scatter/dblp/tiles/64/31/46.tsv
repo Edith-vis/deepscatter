@@ -1,0 +1,487 @@
+id	area	title	year	x	y	ix
+3289863	EDA	power/performance hardware optimization for synchronization intensive applications in mpsocs	2006	0.4322803113991517	13.990339019636854	3289890
+3290823	HPC	efficient kernel management on gpus	2016	0.5041315222434603	14.037040484929545	3290850
+3292025	Embedded	mapping of modal applications given throughput and latency constraints	2011	0.1355376370458881	13.327840904747125	3292052
+3293985	EDA	rapid design space exploration of two-level unified caches	2014	-0.4247407318326663	13.527340286330773	3294012
+3297580	Arch	evaluating integrated graphics processors for data center workloads	2013	0.23559455270604054	13.462378571259096	3297607
+3302729	Embedded	the multi supply function abstraction for multiprocessors	2009	0.22404164734362006	13.7124770476196	3302756
+3305387	Arch	a streaming high-throughput linear sorter system with contention buffering	2011	0.09755713016773432	13.614413583991585	3305414
+3306405	HPC	comparing implementations of near-data computing with in-memory mapreduce workloads	2014	0.4909685368826858	13.270488088865466	3306432
+3307828	Arch	alpha architecture: hardware implementation and software programming implications	1992	-0.03484860224804996	13.431996245708973	3307855
+3310271	Arch	efficient data supply for hardware accelerators with prefetching and access/execute decoupling	2016	-0.3750899145599864	13.41492952047677	3310298
+3313282	EDA	way stealing: cache-assisted automatic instruction set extensions	2009	0.1555540599124256	13.7323205496733	3313309
+3315296	HPC	performance modeling of shared memory multiple issue multicore machines	2012	0.17059771833441198	13.524303577082057	3315323
+3318151	Metrics	data cache parameter measurements	1998	0.2598129709147858	13.89348944894784	3318178
+3319894	Arch	performance characterization of a hardware mechanism for dynamic optimization	2001	-0.02402662585401115	13.315359372978742	3319921
+3320602	Arch	feli: hw/sw support for on-chip distributed shared memory in multicores	2011	0.2806264559252825	13.767654087581036	3320629
+3325082	PL	simulation-based code duplication for enhancing compiler optimizations	2017	0.3903782479422893	13.298885834821501	3325109
+3326133	Embedded	a design flow for supporting component-based software development in multiprocessor real-time systems	2018	-0.05463574656547618	13.918948745548933	3326160
+3326881	Arch	esesc: a fast multicore simulator using time-based sampling	2013	-0.4291361351211537	13.770047092138185	3326908
+3327749	HPC	enhancing locality in two-dimensional space through integrated computation and data mappings	2007	0.11921357874075855	13.647380514457238	3327776
+3329813	Embedded	towards state-based rt analysis of fsm-sadfgs on mpsocs with shared memory communication	2017	-0.037864766276325984	13.715449129535074	3329840
+3331955	Arch	identifying energy-efficient concurrency levels using machine learning	2007	0.4178307955595205	13.673940408013596	3331982
+3332777	Arch	dependable multithreaded processing using runtime validation	2006	0.34161895226158073	13.559749998628776	3332804
+3332897	HPC	fastpath: towards wire-speed nvme ssds	2018	0.2909499989151309	13.989806706688091	3332924
+3334210	Arch	data cache and direct memory access in programming mediaprocessors	2001	-0.2998940469834879	13.607622085859663	3334237
+3337026	Arch	the vpc trace-compression algorithms	2005	0.3516441547707753	14.006644496040387	3337053
+3338076	Arch	looking back on the language and hardware revolutions: measured power, performance, and scaling	2011	-0.35339515747409306	14.109373749019706	3338103
+3340770	EDA	the argo noc: combining tdm and gals	2015	0.09782082256033288	14.098254530737117	3340797
+3341359	HPC	performance and energy evaluation of different multi-threading interfaces in embedded and general purpose systems	2015	0.0823262252086156	13.303175982034887	3341386
+3341692	HPC	direction-optimizing breadth-first search on cpu-gpu heterogeneous platforms	2013	-0.14289802842112873	13.760159045280552	3341719
+3341817	OS	policym: rapid prototyping of resource management policies for hmps	2017	0.36197011107264376	13.713494587609773	3341844
+3342009	Arch	decreasing network power with on-off links informed by scientific applications	2013	0.10864496912648282	13.573063492306806	3342036
+3343561	Arch	dynamic branch prediction with perceptrons	2001	0.09526674787659564	14.09450244387018	3343588
+3347184	Arch	comparing software and hardware schemes for reducing the cost of branches	1989	-0.0410777233550466	13.478273375418437	3347211
+3354405	Arch	improving performance of loops on diam-based vliw architectures	2014	-0.4401738059053442	13.986789545302631	3354432
+3354810	HPC	deferring accelerator offloading decisions to application runtime	2014	0.3307245972993466	13.220220849090664	3354837
+3356364	Arch	decomposition of data flow graphs on multiprocessors	1977	0.486788849087882	13.32016265386082	3356391
+3356898	EDA	assessing the effect of device-based test scheduling on heterogeneous test suite execution	2018	-0.42915888468292507	13.98561708926665	3356925
+3357748	Arch	performance of commercial multimedia workloads on the intel pentium 4: a case study	2009	0.02917435512713811	13.665477594168136	3357775
+3359136	AI	bounds on the energy consumption of computational kernels	2014	-0.11566179437350013	13.58764255384198	3359163
+3362612	Arch	initial evaluation of multimedia extensions on vliw architectures	2004	-0.24711130686937555	13.755955470190996	3362639
+3362709	Arch	extending multicore architectures to exploit hybrid parallelism in single-thread applications	2007	0.2440346327692785	13.662880842879149	3362736
+3364024	HPC	chill: a system for fine-grained mapping of chained high impact long-latency load phases on tightly coupled heterogeneous multi-cores	2017	0.27493573472702665	13.944015225997164	3364051
+3364890	EDA	branch target buffers: wcet analysis framework and timing predictability	2009	0.3574156558966217	13.648917148081837	3364917
+3369431	HPC	reducing off-chip memory access via stream-conscious tiling on multimedia applications	2006	-0.021596701593021017	13.5204391954845	3369458
+3372343	HPC	energy-aware high performance computing - a survey	2013	0.12681400616008584	13.336071424438545	3372370
+3372579	Arch	risc performance pushes back: a perspective on performance limits in general-purpose applications	1990	-0.15594538553307666	13.223453862958989	3372606
+3373244	EDA	static analysis for fast and accurate design space exploration of caches	2008	-0.3031454097649612	13.271734575286274	3373271
+3374250	HPC	research on power saving and energy efficiency for data-centric computing on production hpc systems	2017	0.060387046035995824	13.990774127383187	3374277
+3376691	HPC	fault mitigation strategies for cuda gpus	2013	0.3679399673763373	13.937715370133779	3376718
+3376991	SE	potential and methods for embedding dynamic offloading decisions into application code	2016	0.3861564329680741	13.206288009121874	3377018
+3378049	Arch	an analysis of instruction-fetching strategies in pipelined computers	1980	0.2485247073915439	13.223056117795961	3378076
+3379762	Logic	a methodology for designing energy-aware systems for computational science	2015	0.042034587363124466	13.207782421317432	3379789
+3379846	Arch	energy transparency for deeply embedded programs	2017	-0.02812692543097906	13.597432487566588	3379873
+3382893	Arch	cluster assignment of global values for clustered vliw processors	2003	-0.1347080344895957	13.354214954586821	3382920
+3383454	Arch	getting ready for approximate computing: trading parallelism for accuracy for dss workloads	2015	-0.08035336819484802	13.905793697091214	3383481
+3383908	Arch	cars: a new code generation framework for clustered ilp processors	2001	-0.09050426334868293	13.431418591993106	3383935
+3392545	Arch	hrl: efficient and flexible reconfigurable logic for near-data processing	2016	-0.029386153644531888	13.68258196918802	3392572
+3394056	HPC	a platform for developing adaptable multicore applications	2009	-0.2439929299383945	13.852363196030641	3394083
+3395508	Arch	securing more registers with reduced instruction encoding architectures	2007	-0.3653435707318476	14.049790620676925	3395535
+3395866	Arch	architecture and implementation of pim/m	1992	0.2381619512273935	13.736108290946536	3395893
+3396096	Embedded	partitioning and interface synthesis in hierarchical multiprocessor real-time systems	2016	0.06189109011916238	13.96851631929392	3396123
+3396700	Arch	data reorganization in memory using 3d-stacked dram	2015	-0.07815720844626046	13.550735693196268	3396727
+3398367	Arch	increasing the instruction fetch rate via multiple branch prediction and a branch address cache	1993	0.08041990196225245	13.458461788780635	3398394
+3408925	Arch	dynamic capacity-speed tradeoffs in smt processor caches	2007	0.2610977845602314	14.089277945847487	3408952
+3410331	Arch	exploring the design space for a shared-cache multiprocessor	1994	-0.029968282915710794	13.97583270790022	3410358
+3410798	HPC	on the impact of dynamic data management for distributed local memories in heterogeneous mpsocs	2013	0.14686113790192296	14.150471148755214	3410825
+3412058	AI	energy efficient execution of pomdp policies	2015	-0.4455112740637382	13.8687421154371	3412085
+3416062	Arch	a cam-based separated btb for a superscalar processor	2013	-0.1854354500593999	14.103318935076661	3416089
+3416724	PL	approximate computation with outlier detection in topaz	2015	-0.31605632309746423	13.608305494131189	3416751
+3417845	Arch	performance modeling for designing noc-based multiprocessors	2013	-0.2691613838223727	13.561498685705054	3417872
+3420096	Embedded	energy-optimizing source code transformations for os-driven embedded software	2004	-0.3694791263342713	13.54685648042148	3420123
+3421093	HPC	performance and power evaluation of an in-line accelerator	2010	-0.2929581434758601	13.865778116019001	3421120
+3425099	HPC	towards reconfigurable hpc component models	2018	-0.4325352983378731	13.50700666245328	3425126
+3425545	Arch	kin: a high performance asynchronous processor architecture	1998	0.2046488055916041	13.64286343121341	3425572
+3427050	HPC	loop scheduling with complete memory latency hiding on multi-core architecture	2006	0.17426141604765805	13.711937658649427	3427077
+3428771	Arch	flexible hardware/software support for message passing on a distributed shared memory architecture	2005	0.01357282086906488	13.45894363027018	3428798
+3430015	EDA	an ultrasynchronization checking method with trace-driven simulation for fast and accurate mpsoc virtual platform simulation	2013	-0.19556989454287507	13.689450211134925	3430042
+3430520	Embedded	predictable and efficient virtual addressing for safety-critical real-time systems	2001	0.03964830810130975	13.434648846739936	3430547
+3430742	Embedded	towards virtual memory support in real-time and memory-constrained embedded applications: the interval page table	2011	0.1775363444926917	13.986130612201517	3430769
+3431543	Arch	register assignment for software pipelining with partitioned register banks	2000	-0.05972964816741096	13.935761203149507	3431570
+3432015	EDA	real-time event-handling and scheduling on a multithreaded java microcontroller	2003	0.3587312859171209	13.714070396851255	3432042
+3436242	Arch	hierarchical coarse-grained stream compilation for software defined radio	2007	0.24498873791137374	13.37647569321117	3436269
+3440840	Arch	reconfigurable risc - a new approach for space-efficient superscalar microprocessor architecture	2002	-0.2758989648987051	13.707563461249563	3440867
+3442537	EDA	efficient memory allocations on a many-core accelerator	2012	-0.21424701817424874	13.56524092589237	3442564
+3442801	PL	efficient spill code for sdram	2003	-0.4197026870239879	14.04443543155981	3442828
+3448588	Arch	towards near-data processing of compare operations in 3d-stacked memory	2018	-0.2222167216651704	13.793612797081087	3448615
+3448867	OS	graphsar: a sparsity-aware processing-in-memory architecture for large-scale graph processing on rerams	2019	-0.17182433062765182	13.678946139321015	3448894
+3449103	OS	using machine learning in trace-driven energy-aware simulations of high-throughput computing systems	2017	0.3506718994947323	13.748587398021474	3449130
+3449220	HPC	reducing operand transport complexity of superscalar processors using distributed register files	2003	0.21962643874337154	14.118962248511007	3449247
+3454863	Embedded	wcet-aware re-scheduling register allocation for real-time embedded systems with clustered vliw architecture	2012	-0.18482318846182447	13.911995009733074	3454890
+3455694	Arch	quantifying energy use in dense shared memory hpc node	2016	-0.4567445875168093	13.699635699245636	3455721
+3457286	Arch	epoch profiles: microarchitecture-based application analysis and optimization	2015	0.4835434170613379	13.628915853334535	3457313
+3458444	Arch	big vs little core for energy-efficient hadoop computing	2017	0.13502854452735882	13.625637049230113	3458471
+3459045	Arch	on using the roofline model with lower bounds on data movement	2014	0.11603134854493605	13.361843444954513	3459072
+3459575	EDA	hmmc: a memory controller for heterogeneous multi-core system	2015	-0.4501617130440162	13.412771006257529	3459602
+3460002	Embedded	multiprocessor system-on-chip - hardware design and tool integration	2011	-0.36543489490566416	13.935545214643804	3460029
+3462416	Embedded	a hardware scheduler based on task queues for fpga-based embedded real-time systems	2015	-0.2335872673007157	14.114662856884152	3462443
+3464963	HPC	thread mapping using system-level throughput prediction model for shared memory multicores	2014	0.025223041536122343	13.536993755397205	3464990
+3465636	EDA	an integrated framework for energy optimization of embedded real-time applications	2014	0.034021362374178715	13.519804863393274	3465663
+3466170	HPC	a novel memory subsystem evaluation framework for chip multiprocessors	2010	0.0972327135127676	13.685266618277687	3466197
+3469790	Arch	integrating complete-system and user-level performance/power simulators: the simwattch approach	2003	-0.03812350158719118	13.746608853899806	3469817
+3470029	Arch	the effect of compiler optimizations on pentium 4 power consumption	2003	0.32238496331011257	13.250119967585821	3470056
+3472731	Arch	exploiting dma for performance and energy optimized stream on a dsp	2014	-0.4289133417544611	13.666143379119582	3472758
+3474023	HPC	practical performance prediction under dynamic voltage frequency scaling	2011	-0.3172544299043175	13.953387914856954	3474050
+3475577	Arch	profile directed instruction cache tuning for embedded systems	2006	-0.4395598121037509	13.957132745570778	3475604
+3480717	Arch	fame: a fast and accurate memory emulator for new memory system architecture exploration	2015	-0.36946988156636695	13.549548231012668	3480744
+3483511	SE	wcet analysis of modern processors using multi-criteria optimisation	2009	0.4527680678895938	13.439010236616705	3483538
+3484088	Arch	quantifying the potential benefits of on-chip near-data computing in manycore processors	2017	0.3420112846080727	13.327661443559176	3484115
+3487971	EDA	accurately timed transaction level models for virtual prototyping at high abstraction level	2012	-0.2583045071382018	13.45935236684178	3487998
+3491621	EDA	modeling and simulation of complex heterogeneous systems	2008	-0.14847508963694336	13.29643149786709	3491648
+3491742	Embedded	a hardware scheduler for real time multiprocessor system on chip	2010	-0.17876310692215802	13.988422200925367	3491769
+3491843	Arch	energy-performance considerations for data offloading to fpga-based accelerators over pcie	2018	-0.06793511097776354	13.343609941544953	3491870
+3491873	PL	efficient code assignment techniques for local memory on software managed multicores	2015	0.4615168534308643	13.563312004193033	3491900
+3492699	Embedded	dynamic rescheduling of tasks in time predictable embedded systems	2012	0.2158728552797881	13.784027027895947	3492726
+3495117	Arch	a case for dual-mapping one-way caches	2006	0.3109263820087081	13.736085336892454	3495144
+3495538	HPC	thread scheduling for heterogeneous multicore processors using phase identification	2011	0.5056279390209203	13.633932403790036	3495565
+3499651	EDA	fast shared on-chip memory architecture for efficient hybrid computing with cgras	2013	-0.014716694075297356	13.606558986090127	3499678
+3502356	HPC	interaction cost: for when event counts just don't add up	2004	-0.3915495504413949	13.59162092898183	3502383
+3504291	Arch	partition scheduling on heterogeneous multicore processors for multi-dimensional loops applications	2016	0.43016351954239945	13.764134479518033	3504318
+3504741	HPC	a vector-/spl mu/simd-vliw architecture for multimedia applications	2005	-0.2095175194209134	13.781842639076393	3504768
+3505134	Arch	quantitative evaluation of register pressure on software pipelined loops	1998	0.2849425386192925	13.270360536238675	3505161
+3505743	Arch	towards code generation for the synchronous control asynchronous dataflow (scad) architectures	2016	0.3439864881341582	13.323514574060395	3505770
+3509143	EDA	bandwidth-sensitivity-aware arbitration for fpgas	2012	-0.21242044503666688	14.010205135240811	3509170
+3509260	EDA	delay hidden techniques based on configuration contexts reuse and differential reconfiguration in coarse-grained reconfigurable processor	2013	0.08687709330226275	13.775903453103886	3509287
+3510139	Arch	adapting memory hierarchies for emerging datacenter interconnects	2015	0.35301147374245634	14.156487589113185	3510166
+3512814	Arch	integrated cuda-to-fpga synthesis with network-on-chip	2014	-0.40045127844109374	13.44785899039726	3512841
+3512869	EDA	novel feature selection algorithm for thermal prediction model	2018	-0.02736884563799057	14.060699005343746	3512896
+3523659	Embedded	embedded systems resources: views on modeling and analysis	2008	-0.16217271495541485	14.08861343318749	3523686
+3525122	PL	invasive computing - common terms and granularity of invasion	2013	0.5052470754969992	13.651327350184555	3525149
+3525744	ML	gicomp and greenoffice - monitoring and management platforms for it and home appliances	2013	-0.35570145154759697	13.348084499066427	3525771
+3527455	Arch	research of configurable hybrid memory architecture for big data processing	2017	-0.3568060600663395	13.748477949432283	3527482
+3528445	Embedded	time synchronization for an emulated can device on a multi-processor system on chip	2017	-0.056450775649947285	13.218564902197649	3528472
+3532219	Arch	self-monitored adaptive cache warm-up for microprocessor simulation	2004	-0.2388700380320335	13.88801656569444	3532246
+3532867	EDA	unified instruction reordering and algebraic transformations for minimum cost offset assignment	2003	-0.4326768044655636	13.303333328545785	3532894
+3533395	Arch	rpstacks: fast and accurate processor design space exploration using representative stall-event stacks	2014	0.06600327550184415	13.329341397670241	3533422
+3534766	EDA	configurable range memory for effective data reuse on programmable accelerators	2014	-0.443427334450269	13.335302453937793	3534793
+3535247	Arch	a compiler framework for supporting speculative multicore processors	2007	-0.2006382738181726	13.434916362908671	3535274
+3535994	Arch	experience in automatic storage allocation	1961	0.1339401029962652	14.020169930527173	3536021
+3537927	EDA	an operating system framework for reconfigurable systems	2005	-0.3734242704266951	13.37340659123437	3537954
+3538923	Embedded	luna: hard real-time, multi-threaded, csp-capable execution framework	2011	-0.06306641533539775	13.291185588937044	3538950
+3542398	Arch	adaptive loop caching using lightweight runtime control flow analysis	2013	-0.2200509466312089	14.101884072926016	3542425
+3543751	Embedded	hierarchical transactional memory protocol for distributed mixed-criticality embedded systems	2016	-0.28112844028750233	14.11074912865444	3543778
+3544261	PL	exploiting frequent field values in java objects for reducing heap memory requirements	2005	0.0921016733764315	14.112451826702205	3544288
+3545667	EDA	analysis and improvement of dynamic multi-core hardware prefetch technology based on pre-execution	2010	0.14886724051209027	14.102118263052736	3545694
+3546406	HPC	engineering parallel sorting for the intel scc	2012	-0.320478684691278	13.367685713252056	3546433
+3549897	HPC	performance and energy optimization of matrix multiplication on asymmetric big.little processors	2015	-0.351028014708206	13.677205926176994	3549924
+3552205	HPC	thorough analysis of pcie gen3 communication	2017	0.035940379772906164	14.023423008681233	3552232
+3552455	Arch	automatic generation of miniaturized synthetic proxies for target applications to efficiently design multicore processors	2014	-0.09505222509759484	13.434923468499308	3552482
+3556164	HPC	a dynamic storage scheme for conflict-free vector access	1989	0.2319723001124312	13.765253602159564	3556191
+3556601	Arch	predictor virtualization	2008	0.2770337772564063	14.09025478511658	3556628
+3557600	HPC	prism: predicting resilience of gpu applications using statistical methods	2018	-0.027448265815929792	13.511358995280535	3557627
+3557619	PL	shared scratch pad memory space management across applications	2009	-0.26224244100339283	13.822949002999925	3557646
+3559464	Embedded	inter-task register-allocation for static operating systems	2002	-0.3705283517024272	13.575096862690588	3559491
+3561620	HPC	vbiw: optimizing indirect branch in dynamic binary translation	2013	0.2456731462100021	13.471572840666807	3561647
+3562665	Arch	redundant execution on heterogeneous multi-cores utilizing transactional memory	2018	0.1306863781607223	14.010471443954664	3562692
+3563240	Embedded	performance modeling of multithreaded programs for mobile asymmetric chip multiprocessors	2015	-0.004314319728857966	13.609016464724315	3563267
+3566386	Arch	reducing division latency with reciprocal caches	1996	-0.31285788667901904	13.611096479978151	3566413
+3569150	Arch	characterization of alpha axp performance using tp and spec workloads	1994	0.41393002527578143	13.854575373590071	3569177
+3572296	HPC	characterization and performance analysis for 3d benchmarks	2012	0.07636820055505521	13.50063981578243	3572323
+3572594	HPC	automated task distribution in multicore network processors using statistical analysis	2007	-0.2776323504220393	14.106597485729544	3572621
+3573459	EDA	short-circuit compiler transformation: optimizing conditional blocks	2007	0.12326475701405128	13.203455968904956	3573486
+3573708	OS	debugging fpga-based packet processing systems through transaction-level communication-centric monitoring	2009	-0.0271044582706774	13.324663675203382	3573735
+3575497	Arch	reducing cost and tolerating defects in page-based intelligent memory	2000	-0.23169472757391216	14.134539808976287	3575524
+3575511	Embedded	forecast-based interference: modelling multicore interference from observable factors	2017	-0.1826138873528618	13.882891975907937	3575538
+3577217	HPC	prefetching and cache management using task lifetimes	2013	0.4937941085599333	13.932181517368916	3577244
+3577399	EDA	efficient task scheduling for runtime reconfigurable systems	2010	0.31950207446225865	13.897078498983278	3577426
+3577851	EDA	history length adjustable gshare predictor for high-performance embedded processor	2006	-0.010177356936197932	14.129490559194856	3577878
+3578533	Arch	improving execution unit occupancy on smt-based processors through hardware-aware thread scheduling	2014	0.2249758283307543	13.241980916278408	3578560
+3580306	HPC	the role of interconnects in the performance scalability of multicore architectures	2008	-0.02301037919819444	13.767228434812731	3580333
+3583438	OS	towards better cpu power management on multicore smartphones	2013	-0.16672052566861842	13.805175711163207	3583465
+3589863	Arch	extending statistical cache models to support detailed pipeline simulators	2014	0.19328460203254955	13.684634511936949	3589890
+3590158	Arch	perimeter quadrature-based metric for estimating fpga fragmentation in 2d hw multitasking	2008	-0.3679038774849074	14.094887031111766	3590185
+3591427	HPC	are our dense linear algebra libraries energy-friendly?	2014	-0.20990024305782715	13.532593872476422	3591454
+3591647	EDA	transmuting coprocessors: dynamic loading of fpga coprocessors	2009	-0.4172994120549296	14.11089314546716	3591674
+3592045	HPC	energy saving and thermal management opportunities in a workload-aware mpi runtime for a scientific hpc computing node	2017	0.02077366743370147	13.722132447789196	3592072
+3593034	AI	better exploration of region-level value locality with integrated computation reuse and value prediction	2001	0.3285981479616949	13.560937749384632	3593061
+3593181	HPC	reducing overheads of local communications in fine-grain parallel computation	1997	0.030520806595201837	13.640929747867505	3593208
+3593594	Arch	a new reactive processor with architectural support for control dominated embedded systems	2003	-0.15666127270862834	13.546939002873973	3593621
+3594966	Arch	efficient query processing in crossbar memory	2017	-0.3898703018517701	14.126034676221336	3594993
+3595159	HPC	a novel hardware support for heterogeneous multi-core memory system	2017	-0.22241580633490865	13.661023621443878	3595186
+3595367	Arch	a dataflow computer which accelerates execution of sequential programs by precedent firing instructions	2002	0.4430217706512332	13.539619732540073	3595394
+3595730	EDA	cache-based high-level simulation of microthreaded many-core architectures	2014	0.2553421322061663	13.622095211363197	3595757
+3595903	Arch	reducing control overhead in dataflow architectures	2006	-0.0452866892246872	13.436042862167715	3595930
+3597571	EDA	analyzing consistency issues in hmc atomics	2016	-0.15064281900611498	13.562128991998508	3597598
+3604835	Arch	on the design of a register queue based processor architecture (farm-rq)	2003	0.04731565006121534	13.866732512125168	3604862
+3607943	Arch	temporal multithreading architecture design for a java processor	2014	-0.38543572017063865	13.274533318070553	3607970
+3610397	Arch	efficient transient-fault tolerance for multithreaded processors using dual-thread execution	2006	0.012056409916485251	14.10105011601969	3610424
+3615175	Embedded	rtos support for parallel execution of hard real-time applications on the merasa multi-core processor	2010	0.41801018135468654	14.106699710461957	3615202
+3615975	Arch	composite confidence estimators for enhanced speculation control	2009	0.018354186215318462	13.978267676991756	3616002
+3616632	Embedded	energy aware algorithmic engineering	2014	-0.10168741026983134	13.310832102870677	3616659
+3619974	HPC	architecture-aware configuration and scheduling of matrix multiplication on asymmetric multicore processors	2016	-0.1476971578460417	13.539983311109461	3620001
+3620529	Arch	eshmp: a stall-time-based scheduling for performance heterogeneous multicore systems	2011	0.4148424259717317	13.954150030935118	3620556
+3621155	EDA	the apparatus and enabling of a code balanced system	2007	-0.2556013898205654	13.910939518821907	3621182
+3622031	Embedded	hw resource componentizing for addressing the mega-complexity of cyber-physical systems	2011	-0.12052740223165995	13.391975720429366	3622058
+3622458	EDA	design of new hash mapping functions	2009	0.05265778427294796	14.116443836133088	3622485
+3629988	HPC	evaluating orthogonality between application auto-tuning and run-time resource management for adaptive opencl applications	2014	-0.25505193186802066	13.577888363397436	3630015
+3633851	Arch	performance evaluation of the powerpc 620 microarchitecture	1995	0.400302396393273	13.2593253523174	3633878
+3634785	Embedded	on energy efficiency and amdahl's law in fpga based chip heterogeneous multiprocessor systems (abstract only)	2014	-0.4394187969034329	14.097525523816204	3634812
+3636299	Arch	a c to hdl compiler for pipeline processing on fpgas	2000	-0.230255832280886	13.267278258127206	3636326
+3639436	OS	a comprehensive scheduler for asymmetric multicore systems	2010	0.4327323022977896	13.91471241334128	3639463
+3640382	Arch	exploiting instruction level parallelism in processors by caching scheduled groups	1997	0.4981331541840829	13.539070078426974	3640409
+3643813	Arch	ultra-fast dmac tlm model for high speed virtual platform simulation	2013	0.27697710770411305	13.352647583363092	3643840
+3644798	EDA	reduced dram cycle times with extended data-out	1996	-0.3118020670428364	14.075871616115284	3644825
+3644915	Arch	optimal compilation for exposed datapath architectures with buffered processing units by sat solvers	2016	0.3232181199174852	13.393694871563936	3644942
+3646755	HPC	mp-queue: an efficient communication library for embedded streaming multimedia platforms	2007	0.245904412973233	13.543814530538855	3646782
+3651122	DB	rectangularly multi-module memory system with table-based dynamic addressing scheme	2008	-0.2873549188162037	13.738804251948633	3651149
+3651561	Networks	a very fast algorithm for ram compression	1997	-0.16415351154740546	13.839203366247213	3651588
+3651801	Arch	decoupled processors architecture for accelerating data intensive applications using scratch-pad memory hierarchy	2010	0.3690145041383249	13.924649028786588	3651828
+3651951	Embedded	fast linux bootup using non-intrusive methods for predictable industrial embedded systems	2013	0.2161918359462069	13.93179454139494	3651978
+3652655	Arch	runtime multitasking support on polymorphic platforms	2010	0.4034448674997229	13.515272714556179	3652682
+3659594	Arch	embedding a superscalar processor onto a chip multiprocessor	2004	0.1124072165583375	13.93549171003946	3659621
+3660732	Arch	a hardware-driven profiling scheme for identifying program hot spots to support runtime optimization	1999	-0.32567502203999044	13.6167089806834	3660759
+3660982	Arch	top-pim: throughput-oriented programmable processing in memory	2014	-0.21911283614012794	13.742850195233073	3661009
+3661200	HPC	performance analysis of on-chip cache and main memory compression systems for high-end parallel computers	2004	-0.10887587505930024	13.857736247632964	3661227
+3662974	Arch	weld: a multithreading technique towards latency-tolerant vliw processors	2001	0.0016956896087066613	13.392715046907535	3663001
+3664250	PL	optimizing data permutations for simd devices	2006	0.0581332334187237	13.258027816477881	3664277
+3664573	HPC	power consumption analysis of parallel algorithms on gpus	2014	0.17768106109791088	13.584111346243866	3664600
+3666567	Arch	scaling soft processor systems	2008	0.2932825362882348	13.296657475916483	3666594
+3666598	Arch	folklore confirmed: compiling for speed = compiling for energy	2013	-0.4144916688999447	13.766253524029064	3666625
+3671437	Arch	effective usage of vector registers in decoupled vector architectures	1998	0.4189498324968153	13.98655317005821	3671464
+3673701	EDA	a variability-aware openmp environment for efficient execution of accuracy-configurable computation on shared-fpu processor clusters	2013	-0.354918846269575	14.07593028700244	3673728
+3674535	Arch	building conflict-free fft schedules	2015	-0.07271285842122742	13.389201404387554	3674562
+3678104	EDA	energy-aware task scheduling for mpsoc-based embedded systems	2018	-0.0859142508315503	13.705600419074475	3678131
+3678224	HPC	a scalability prediction approach for multi-threaded applications on manycore processors	2015	0.33593317513502474	13.742313344022556	3678251
+3680523	HPC	a hw/sw co-design of execution migration for shared-isa heterogeneous chip multiprocessors	2013	-0.20328539081909744	13.25109677352795	3680550
+3681037	EDA	scenario-aware workload characterization based on a max-plus linear representation	2016	0.4152916821896467	13.343605512854678	3681064
+3681788	EDA	design and implementation of a dynamic loop buffer by reusing the instruction buffer	2013	-0.42916322920918704	14.130104615583036	3681815
+3683763	EDA	a pattern based instruction encoding technique for high performance architectures	2009	-0.2596435092320812	13.685029575482242	3683790
+3687033	Arch	runtime 3-d stacked cache management for chip-multiprocessors	2013	0.0548888689844326	13.970313036539984	3687060
+3688118	Arch	ddm-cmp: data-driven multithreading on a chip multiprocessor	2005	-0.12740612658312442	13.397045976567464	3688145
+3688466	Arch	hardware and software support for speculative execution of sequential binaries on a chip-multiprocessor	1998	0.5035427473554437	13.508334396189179	3688493
+3690260	HPC	a data cache with dynamic mapping	2003	0.41869099717027797	13.235697403340065	3690287
+3697467	Arch	storage free confidence estimation for the tage branch predictor	2011	0.3695476683983555	14.143123680775838	3697494
+3697871	Arch	branch trace compression for snapshot-based simulation	2006	0.4668043794490094	14.054099065387994	3697898
+3698187	EDA	exploiting instruction-level parallelism for integrated control-flow monitoring	1994	-0.2040878068648535	14.046473181235285	3698214
+3700986	Arch	evaluation methods of computer memory system	2015	-0.14605414077585574	14.099997216948555	3701013
+3703819	HPC	tradeoff between data-, instruction-, and thread-level parallelism in stream processors	2007	0.020282223684180627	13.284406342541946	3703846
+3704318	Embedded	a hardware time manager implementation for the xenomai real-time kernel of embedded linux	2012	0.17197481046322025	13.71119673695707	3704345
+3704323	PL	predictive thread-to-core assignment on a heterogeneous multi-core processor	2007	0.4413689238222921	13.626286756600528	3704350
+3708760	Arch	thread merging schemes for multithreaded clustered vliw processors	2009	0.5006830255531863	13.616627488511927	3708787
+3708914	PL	architecture and compiler support for gpus using energy-efficient affine register files	2017	-0.44761910639839053	13.703196266364694	3708941
+3710350	HPC	measuring energy consumption using eml (energy measurement library)	2014	-0.20461244373263526	13.502800589479625	3710377
+3712057	Arch	fpga-based prototyping systems for emerging memory technologies	2014	-0.4067327011542407	13.744101196299914	3712084
+3714978	Embedded	implementation-aware model analysis: the case of buffer-throughput tradeoff in streaming applications	2015	0.034426101375373136	13.79126174427438	3715005
+3715067	Arch	using analytical models to efficiently explore hardware transactional memory and multi-core co-design	2008	-0.09186979459305313	13.586545202369154	3715094
+3715310	HPC	aspen-based performance and energy modeling frameworks	2018	0.028115007841966518	13.386734924247762	3715337
+3717647	Arch	trace driven simulation of dynamic branch prediction schemes	2000	0.40373390966869904	13.558652059102528	3717674
+3717773	PL	and then there were none: a stall-free real-time garbage collector for reconfigurable hardware	2013	-0.0038966465751218314	13.722846009985135	3717800
+3719422	Arch	hardware and software cache prefetching techniques for mpeg benchmarks	2000	-0.044221088346229113	13.9816282023144	3719449
+3723244	EDA	exploring different execution paradigms in exposed datapath architectures with buffered processing units	2017	0.04006904807258097	13.34853846060191	3723271
+3723457	PL	wcet-aware register allocation based on integer-linear programming	2011	0.2572917452824873	13.301780421672303	3723484
+3725352	Arch	three extensions to register integration	2002	0.10381126507222348	13.985075627675336	3725379
+3726117	Arch	an optimal algorithm for scheduling requests on interleaved memories for a pipelined processor	1981	0.42420389848836143	13.684194794216529	3726144
+3726210	HPC	multiobjective optimization technique based on monitoring information to increase the performance of thread migration on multicores	2014	0.09042965476293774	14.033217602416086	3726237
+3727604	Arch	optimizing software cache performance of packet processing applications	2007	0.3870863454264082	13.72974071940351	3727631
+3728106	Embedded	state-based communication on time-predictable multicore processors	2016	0.3456938575058612	13.440677088822715	3728133
+3731660	Arch	balancing reuse opportunities and performance gains with subblock value reuse	2003	0.15229986051115751	13.737999474169932	3731687
+3735598	Arch	mipp: a microbenchmark suite for performance, power, and energy consumption characterization of gpu architectures	2016	-0.002083911914984326	13.379247558685153	3735625
+3736019	EDA	phased scheduling of stream programs	2003	-0.07249921928102449	13.526177765843173	3736046
+3736232	Embedded	a fine-grain clock synchronization mechanism for myrinet clusters	2002	0.3130978443559841	13.591613279639065	3736259
+3736239	PL	buffer and register allocation for memory space optimization	2006	-0.07609139449214186	13.79161070205682	3736266
+3737579	Arch	speculative network processor for quality-of-service-aware protocol processing	2004	0.3289018260988993	13.583798426067775	3737606
+3737959	HPC	performance of a hardware scheduler for many-core architecture	2012	0.15734632501203247	13.818451803079741	3737986
+3740049	Embedded	an efficient time annotation technique in abstract rtos simulations for multiprocessor task migration	2008	-0.15021636499348648	14.08031532506479	3740076
+3740109	Arch	gpgpu performance estimation with core and memory frequency scaling	2017	-0.2647809838415047	13.948194643495526	3740136
+3745963	Arch	variable instruction fetch rate to reduce control dependent penalties	2017	0.3942077897189419	13.614109833879551	3745990
+3749603	HPC	impact of the memory controller on the performance of parallel workloads	2013	-0.10875993775491198	13.68959455927079	3749630
+3750931	Arch	orthogonal instruction processing: an alternative to lightweight vliw processors	2017	-0.4073244981787588	13.7842366391905	3750958
+3751046	Embedded	a hardware architecture to deploy complex multiprocessor scheduling algorithms	2014	0.10900276909623816	13.955113743013918	3751073
+3753328	EDA	static analysis of processor stall cycle aggregation	2008	-0.4175484564074029	13.657149433856858	3753355
+3755697	Arch	eureca: on-chip configuration generation for effective dynamic data access	2015	-0.43936637669371176	13.746382235226724	3755724
+3756419	EDA	feedback-based global instruction scheduling for gpgpu applications	2012	-0.44163025043992143	13.608196535665314	3756446
+3759745	Arch	characterizing power and performance of gpu memory access	2016	-0.055132155962058206	13.962002136307378	3759772
+3760663	Arch	high-performance throughput computing	2005	-0.2683671605983199	13.674230965277786	3760690
+3760803	Arch	a case for a working-set-based memory hierarchy	2005	-0.451206624588399	13.914880023143626	3760830
+3761340	Metrics	an analytical cache performance evaluation framework for embedded out-of-order processors using software characteristics	2018	0.031423581642985504	13.849603885098967	3761367
+3762448	Arch	evaluator-executor transformation for efficient pipelining of loops with conditionals	2013	0.3234062287622436	13.73096514786902	3762475
+3764677	Arch	performance and hardware complexity tradeoffs in designing multithreaded architectures	1996	0.22395182093449897	13.762234451725702	3764704
+3767266	Embedded	mixed-criticality transactional memory controller for embedded systems	2016	-0.20703479682658427	13.801054227786913	3767293
+3767871	Arch	architectural specialization for inter-iteration loop dependence patterns	2014	-0.3938391314758199	13.354753739283526	3767898
+3768429	Arch	a comparative simulation study on the power–performance of multi-core architecture	2014	0.1706644002172613	13.601047188149307	3768456
+3769476	Arch	a survey of techniques for architecting tlbs	2017	-0.43663048968603535	13.419936126720051	3769503
+3771178	Arch	simp (single instruction stream/multiple instruction pipelining): a novel high-speed single-processor architecture	1989	0.4365150568117541	13.480932400314432	3771205
+3772950	Arch	optimal organizations for pipelined hierarchical memories	2002	0.2405912348568511	13.58007039457123	3772977
+3775049	HPC	fine-grained energy-efficient sorting on a many-core processor array	2012	-0.4385113891016413	13.293191101070974	3775076
+3780024	Arch	on the efficiency of reductions in µ-simd media extensions	2001	0.18010141741661573	13.650958352104757	3780051
+3783488	Embedded	static timing analysis of shared caches for multicore processors	2012	0.46211653656567	13.8307716257783	3783515
+3788475	Arch	scheduling algorithms for asymmetric multi-core processors	2017	0.00351676346572155	13.941567295604886	3788502
+3789040	PL	a constraint programming approach for integrated spatial and temporal scheduling for clustered architectures	2013	-0.27735834407709065	13.57319962653181	3789067
+3789379	Arch	nanostreams: a microserver architecture for real-time analytics on fast data streams	2018	-0.08613290691166718	13.544914731623097	3789406
+3792204	Arch	scaling up next generation supercomputers	2008	0.011697300595534279	13.575937739550676	3792231
+3793623	HPC	compiler-directed i/o optimization	2002	0.00775752662216072	13.540901267034176	3793650
+3794899	HPC	compile-time techniques for improving scalar access performance in parallel memories	1991	0.4790193026513399	13.882464971704602	3794926
+3795186	HPC	multi-core and many-core shared-memory parallel raycasting volume rendering optimization and tuning	2012	0.3610779970917589	13.226470478668404	3795213
+3795376	HPC	performance of a globally-clocked parallel simulator	1993	-0.15748326149885028	13.30330380242803	3795403
+3797127	Embedded	dtfm: a flexible model for schedulability analysis of real-time applications on noc-based architectures	2017	-0.24790714058858665	14.018231886351149	3797154
+3797384	EDA	virtual configuration management: a technique for partial runtime reconfiguration	2009	-0.06468179766965093	13.257135109373946	3797411
+3799913	Embedded	combination of instruction set simulation and abstract rtos model execution for fast and accurate target software evaluation	2008	-0.43964699881300057	13.824297871055546	3799940
+3800103	Arch	simultaneous multithreading trace processors	2003	0.08929261930480308	13.60137392276791	3800130
+3800224	Theory	the impact of voltage-frequency scaling for the matrix-vector product on the ibm power8	2016	-0.331196661779578	13.290428902092517	3800251
+3803227	Embedded	utilising application flexibility in energy aware computing	2008	-0.3275775983517669	13.265224568059207	3803254
+3806493	HPC	data confidentiality in collaborative computing	2005	0.4672036071441558	13.758046256388429	3806520
+3808871	Embedded	an empirical evaluation of the influence of the load-store unit on wcet analysis	2012	0.4683706786426074	13.274221973844874	3808898
+3809659	Arch	accurate memory data flow modeling in statistical simulation	2006	0.09928820354522654	13.532789418147548	3809686
+3810742	Embedded	high precision automatic scheduling of periodic task sets for microcontrollers	2008	-0.2741737032508224	13.579169121267194	3810769
+3812182	Arch	implementing a leading loads performance predictor on commodity processors	2014	-0.08031534481574877	13.937923627747832	3812209
+3814388	Arch	a genetic algorithm to improve linux kernel performance on resource-constrained devices	2010	0.10619142506037182	13.733817438452412	3814415
+3815776	EDA	efficient memory partitioning for parallel data access in multidimensional arrays	2015	-0.01657922006121846	13.610104352337508	3815803
+3816810	EDA	approximation algorithm for data mapping on block multi-threaded network processor architectures	2007	0.2719288927184477	13.94685954489851	3816837
+3817943	Embedded	t-crest: time-predictable multi-core architecture for embedded systems	2015	0.19622304441364716	13.941668046786365	3817970
+3817978	Arch	wcet analysis of the shared data cache in integrated cpu-gpu architectures	2017	0.3717960169041936	14.017639028796413	3818005
+3818161	HPC	dynamic percolation: a case of study on the shortcomings of traditional optimization in many-core architectures	2012	0.3797368458460319	13.41977267392264	3818188
+3820091	Arch	reducing the branch penalty by rearranging instructions in double-width memory	1991	0.496252319660517	13.814039551709506	3820118
+3825626	HPC	analysis of the tradeoffs between energy and run time for multilevel checkpointing	2014	-0.11147468669123567	14.112512610588045	3825653
+3827751	ECom	an approach for enhancing inter-processor data locality on chip multiprocessors	2007	-0.3328080511989341	14.157122158121838	3827778
+3827999	Arch	data access optimization in a processing-in-memory system	2015	-0.3773013768330215	13.333183988936144	3828026
+3830783	HPC	predicting performance of applications on multicore platforms	2016	0.3430264617721642	13.328650913582962	3830810
+3831110	HPC	ibm power8 performance features and evaluation	2015	0.14370400881076906	13.903987916480745	3831137
+3831425	Arch	sequential architecture models for prolog: a performance comparison	1990	-0.009880816304153104	13.848829936200307	3831452
+3832773	HPC	evaluation of partitioning methods for stream applications on a heterogeneous multi-core processor simulator	2008	-0.3758089223075722	13.636189217147287	3832800
+3834984	Arch	improving code density with variable length encoding aware instruction scheduling	2016	0.13764118297777234	13.921911648149369	3835011
+3837543	Arch	optimal 2-bit branch predictors	1995	0.3279344988688941	13.883261714942153	3837570
+3838022	HPC	probabilistic monte carlo simulations for static branch prediction	2017	0.17465155742912603	13.533775253058266	3838049
+3838311	EDA	hardware compilation of application-specific memory-access interconnect	2006	-0.1761304131080291	13.262183192345052	3838338
+3838709	Arch	chip-size evaluation of a multithreaded processor enhanced with a pid controller	2010	-0.15707868147270873	13.536338311726125	3838736
+3839895	HPC	gigabyte-scale alignment of biological sequences: a case study of io bandwidth reconfiguration for fpga acceleration	2013	0.14260774232738474	13.394604443887724	3839922
+3840277	Arch	scaling up the atlas chip-multiprocessor	2005	-0.026716318955687126	14.059336145350409	3840304
+3841399	Arch	epic: explicititly parallel instruction computing	2000	-0.16509667801854286	13.611622681571276	3841426
+3842982	Embedded	research and design of shared resources competition solution among hardware-software tasks based on unified scheduling	2008	-0.0242679513702598	13.82076761539924	3843009
+3843162	HPC	a dynamic cache architecture for efficient memory resource allocation in many-core systems	2016	0.10479737785116504	13.95190064659922	3843189
+3843666	Arch	stochastic contention level simulation for single-chip heterogeneous multiprocessors	2010	-0.4018010850449105	14.11280341107715	3843693
+3844233	Arch	toward dark silicon in servers	2011	-0.4580793230811192	13.456331755556528	3844260
+3844771	HPC	evaluating application performance and energy consumption on hybrid cpu+gpu architecture	2012	0.09476591721635946	13.479705013773634	3844798
+3845724	OS	effects of source-code optimizations on gpu performance and energy consumption	2015	-0.2957864176726177	13.876724960609293	3845751
+3847214	HPC	energy-performance tradeoffs for hpc applications on low power processors	2015	-0.4276143904424565	13.793290539870114	3847241
+3847788	Arch	moguls: a model to explore the memory hierarchy for bandwidth improvements	2011	-0.39695701141775375	14.161151406797545	3847815
+3848610	Embedded	deeppicar: a low-cost deep neural network-based autonomous car	2018	0.08041760241116443	13.700053546251205	3848637
+3849832	EDA	a memory hierarchical layer assigning and prefetching technique to overcome the memory performance/energy bottleneck	2005	-0.04629062950724317	13.760165310777335	3849859
+3853440	Arch	phase-guided scheduling on single-isa heterogeneous multicore processors	2011	0.2746228541977268	13.722115510919911	3853467
+3857607	Embedded	architectures and modeling of predictable memory controllers for improved system integration	2011	0.066306933967677	14.126514819082473	3857634
+3860681	HPC	on the greenness of in-situ and post-processing visualization pipelines	2015	0.08949468840436918	13.407112787514913	3860708
+3863137	HPC	transformations for improving data access locality in non-perfectly nested loops	1998	-0.011484592309284176	13.490657309630047	3863164
+3863358	HPC	balancing performance and fault detection for gpgpu workloads	2012	0.15903004436320348	13.647695705716062	3863385
+3863801	HPC	assessing the impact of the cpu power-saving modes on the task-parallel solution of sparse linear systems	2014	-0.2045162354735704	13.770631496779473	3863828
+3864758	HPC	the green index: a metric for evaluating system-wide energy efficiency in hpc systems	2012	0.1324816228209072	13.462285673646035	3864785
+3867223	Embedded	green software development for multi-core architectures	2014	0.14646249169077444	13.485691158867883	3867250
+3868584	PL	a hardware implementation of realloc function	2000	-0.19767857887681067	13.396684684536538	3868611
+3872079	HPC	design space exploration of caches using compressed traces	2004	-0.031314232097661966	13.573901798591056	3872106
+3874623	HPC	towards an energy efficient soc computing cluster	2014	-0.37068674968085613	13.894502818958713	3874650
+3875461	Arch	factors influencing the performance of a cpu-rfu hybrid architecture	2002	-0.20204084801538405	13.321879130071606	3875488
+3877442	Arch	improving gpgpu energy-efficiency through concurrent kernel execution and dvfs	2015	0.1907778744293382	13.642282972806438	3877469
+3878822	Arch	accurate modeling of aggressive speculation in modern microprocessor architectures	2005	0.036371750779434935	13.595943802015526	3878849
+3879152	Arch	software trace cache	2005	0.4295373185695097	14.021559134874073	3879179
+3883245	Arch	dark silicon and the end of multicore scaling	2011	-0.4561805872638672	14.00525266702696	3883272
+3884883	OS	hadoop in low-power processors	2014	0.1270465511069694	13.572396614760114	3884910
+3888252	EDA	compiler-directed memory management for heterogeneous mpsocs	2011	-0.1925085959403129	13.315382113771	3888279
+3889294	Arch	optimized register renaming scheme for stack-based x86 operations	2007	0.42105625207066416	13.562890124206586	3889321
+3891760	Arch	analytical bounds on the threads in ixp1200 network processor	2003	-0.3925352497216065	13.962273002385515	3891787
+3893268	HPC	a promising cuda-accelerated vehicular area network simulator using ns-3	2014	0.5010041959384899	13.478778523434661	3893295
+3895465	Visualization	hapi: hardware assisted pruned index for consumer electronics	2007	0.4170908271085961	13.853831255375045	3895492
+3896502	Arch	scalable parallel memory architecture with a skew scheme	1993	0.3439872992882069	14.088645791825908	3896529
+3899448	Arch	hardware schemes for early register release	2002	0.2892825300006214	14.105553578387774	3899475
+3901141	Arch	improving the accuracy of dynamic branch prediction using branch correlation	1992	0.3292943135000873	14.036186792560349	3901168
+3901544	HPC	nanostreams: codesigned microservers for edge analytics in real time	2016	-0.012543449319683856	13.5997507369441	3901571
+3905142	EDA	reducing the communication of message-passing systems synthesized from synchronous programs	2014	0.20871978720911954	13.27627307550128	3905169
+3905171	EDA	cost-driven hybrid configuration prefetching for partial reconfigurable coprocessor	2007	-0.18189983027765905	14.157014406540391	3905198
+3907834	EDA	compsoc: a template for composable and predictable multi-processor system on chips	2009	-0.39305911420244616	13.942316347260073	3907861
+3908654	HPC	a system-level simulation framework for evaluating task migration in mpsocs	2014	0.30971316081347017	13.697968934817885	3908681
+3908977	HPC	performance/energy trade-off in scientific computing: the case of arm big.little and intel sandy bridge	2015	-0.2910731385719313	13.694463057399835	3909004
+3910610	Embedded	apnet: approximation-aware real-time neural network	2018	0.3163621056740845	14.087242344896795	3910637
+3912402	SE	fine-grained energy modeling for the source code of a mobile application	2016	-0.12926453809278768	13.919152918522173	3912429
+3912760	HPC	editorial of the special issue: si: e2sc	2016	0.43775238129254623	14.158912911808347	3912787
+3915484	EDA	dynamic relocation of hybrid tasks: strategies and methodologies	2009	0.18352748391193452	13.47622348907606	3915511
+3915711	HPC	hardware/software co-simulation for last level cache exploration	2009	0.20754765482713108	13.342914498082758	3915738
+3916251	EDA	improvement on branch scheduling for vliw architecture	2011	0.2913777525641809	13.258987804349337	3916278
+3917240	Arch	fine grain thread scheduling on multicore processors: cores with multiple functional units	2013	-0.13813540550832232	13.370358109626189	3917267
+3917607	Arch	efficient out-of-order execution of guarded isas	2014	0.3781063046445864	13.825793356113332	3917634
+3922627	EDA	flushing-enabled loop pipelining for high-level synthesis	2014	-0.2480409119219384	13.534834245868971	3922654
+3922737	Arch	analysis of the conditional skip instructions of the hp precision architecture	1994	0.3831953606641727	13.450126441295222	3922764
+3924179	Arch	communication versus computation	2004	0.3553826969734987	13.737083380638714	3924206
+3924515	HPC	power and performance characterization of computational kernels on the gpu	2010	-0.12209560482357287	13.775678188276636	3924542
+3925215	PL	bytewise register allocation	2015	-0.26211220284459524	13.939265095671212	3925242
+3931542	EDA	benchmarking renderscript: potential for energy efficient multi-core mobile devices	2015	-0.16655968287922399	13.5789746405328	3931569
+3932844	Arch	branch penalty reduction on ibm cell spus via software branch hinting	2011	0.4305102172869377	13.959184850311864	3932871
+3937972	HPC	flashabacus: a self-governing flash-based accelerator for low-power systems	2018	-0.38848401011639294	13.47809997328898	3937999
+3943185	Arch	improving energy efficiency through parallelization and vectorization on intel core i5 and i7 processors	2012	-0.2020658893441524	13.991052949440894	3943212
+3944871	Arch	data path issues in a highly concurrent machine	1992	0.2721147034287896	13.703753039104958	3944898
+3945722	Arch	design tradeoffs for the alpha ev8 conditional branch predictor	2002	0.13617968047977286	14.044572919484866	3945749
+3946252	EDA	towards a viable out-of-order soft core: copy-free, checkpointed register renaming	2009	0.499700064227651	14.100310774427056	3946279
+3946869	Arch	perl-a registerless architecture	1998	0.10247970271533806	13.806584865000506	3946896
+3949259	OS	a hardware monitor study of a cdc kronos system	1976	-0.2563950925264136	13.329377454087313	3949286
+3949531	Arch	speculative subword register allocation in embedded processors	2004	0.4539227022995177	14.158231906093803	3949558
+3952373	Arch	studying the impact of application-level optimizations on the power consumption of multi-core architectures	2012	0.3236129192436372	13.703539370065709	3952400
+3953561	Arch	per-task energy accounting in computing systems	2014	-0.12441919231241436	13.981377837377579	3953588
+3954780	Arch	software thread integration for instruction-level parallelism	2013	0.3257898120918573	13.654357052801533	3954807
+3956348	Embedded	a unified execution model for multiple computation models of streaming applications on a composable mpsoc	2013	-0.16087602292467745	13.945020086872773	3956375
+3957271	Arch	design and implementation of floating point stack on general risc architecture	2007	0.1965469414500271	13.689882852308006	3957298
+3957538	Arch	analyzing cuda workloads using a detailed gpu simulator	2009	0.39337887844037706	13.248754272702456	3957565
+3959501	Mobile	cu-simulator: a parallel scalable simulation platform for radio channel in wireless sensor networks	2015	0.20225212478937046	13.428786689085115	3959528
+3960682	Theory	2l-murr: a compact register renaming scheme for smt processors	2005	0.17196935950896555	14.123729162113909	3960709
+3961761	HPC	characterizing the performance-energy tradeoff of small arm cores in hpc computation	2014	-0.25557303992553804	13.676621456313677	3961788
+3963772	Arch	tradeoffs in the design of single chip multiprocessors	1994	-0.323357896058464	14.03119727447305	3963799
+3966194	Arch	an instruction set and microarchitecture for instruction level distributed processing	2002	-0.12410964210626713	13.548089027635926	3966221
+3966608	HPC	towards new energy efficiency limits of high performance clusters	2013	0.1244394404921762	13.58389577266838	3966635
+3969527	Arch	hardware prediction of os run-length for fine-grained resource customization	2010	0.3492351061959483	13.328829124203903	3969554
+3973866	EDA	hybrid compile and run-time memory management for a 3d-stacked reconfigurable accelerator	2013	0.09661876275052353	14.084457166396913	3973893
+3976691	Arch	nvm streaker: a fast and reconfigurable performance simulator for non-volatile memory-based memory architecture	2018	-0.3021779422287943	14.049750693948274	3976718
+3977437	EDA	configuration-sensitive process scheduling for fpga-based computing platforms	2004	-0.24619941784546134	13.86413495987424	3977464
+3978803	Arch	processor design based on dataflow concurrency	2003	0.10347118383908158	13.296905104504685	3978830
+3979745	Arch	low-power and real-time address translation through arithmetic operations for virtual memory support in embedded systems	2008	-0.4311169255617894	14.045443075791207	3979772
+3980055	HPC	feedback-directed pipeline parallelism	2010	0.4090325329916105	13.292642425787404	3980082
+3980164	Arch	squeezing energy savings out of similar data and computation in gpgpus	2016	0.4360923687374314	13.604471567372165	3980191
+3980780	EDA	pim architecture exploration for hmc	2016	-0.3045528705273792	13.720989595491874	3980807
+3983410	HPC	decentralized dynamic resource management support for massively parallel processor arrays	2011	0.22931979611811856	13.221665908981128	3983437
+3984058	EDA	hybrid techniques for fast multicore simulation	2009	0.2051016944412999	13.215392314219633	3984085
+3987444	Arch	b2sim:: a fast micro-architecture simulator based on basic block characterization	2006	0.2498620059513311	13.386833555766563	3987471
+3987735	HPC	a power-aware cost model for hpc procurement	2016	0.3112208461600841	13.735303063654134	3987762
+3991751	Arch	branch prediction topologies for smt architectures	2005	0.3869650279492258	13.983805357097069	3991778
+3992534	HPC	workload partitioning strategy for improved parallelism on fpga-cpu heterogeneous chips	2018	0.0393616974296604	13.913773245227725	3992561
+3993086	SE	a multi-granularity nc program optimization approach for energy efficient machining	2018	-0.36301002159509305	13.388820670213448	3993113
+3993671	Arch	memory coalescing for hybrid memory cube	2018	0.08454027016336177	13.658889974981795	3993698
+3995322	EDA	exploiting multi-level scratchpad memories for time-predictable multicore computing	2012	0.2502631131040462	14.111787312647454	3995349
+3995358	Arch	quantifying the interaction between structural properties of software and hardware in the arm big.little architecture	2018	-0.07940114810207467	13.906895138886686	3995385
+3995982	Embedded	software architecture supporting integrated real-time systems	2003	-0.11210592493241263	13.860823121015748	3996009
+3996937	Arch	measurement and interpretation of micro-benchmark and application energy use on the cray xc30	2014	-0.2607058443142079	14.141427142509425	3996964
+3998836	HPC	rebalancing the core front-end through hpc code analysis	2016	0.05672679364831292	14.146356241329991	3998863
+3999062	Arch	automated os-level device runtime power management	2015	0.3131712746613755	13.883510123050499	3999089
+4000672	Arch	runtime scheduling of the lu factorization: performance and energy	2013	0.13421203275947627	14.112362040537764	4000699
+4001617	HPC	power and energy profiling of scientific applications on distributed systems	2005	0.32014064364640205	14.00033682969064	4001644
+4005695	EDA	elimination of redundant memory traffic in high-level synthesis	1996	-0.3734654931880208	13.639012489874668	4005722
+4006128	Arch	fpga based hardware-software co-designed dynamic binary translation system	2013	-0.39169032957199307	13.339319213944032	4006155
+4006670	HPC	pase: a parallel speedup estimation framework for network-on-chip based multicore systems	2017	-0.09993959758146044	13.499135107772904	4006697
+4007238	Arch	a case for studying dram issues at the system level	2003	-0.3564970363538121	14.117308144364914	4007265
+4009369	HPC	scheduling optimization in multicore multithreaded microprocessors through dynamic modeling	2013	0.3324451472071294	14.0227400648259	4009396
+4010285	Arch	hmmsim: a simulator for hardware-software co-design of hybrid main memory	2015	-0.3665231959901623	14.012770069050081	4010312
+4010834	Arch	efficient use of invisible registers in thumb code	2005	-0.3534469148460268	14.115302722746224	4010861
+4012724	Arch	morphable cache architectures: potential benefits	2001	-0.3363493675454206	14.054735792963168	4012751
+4013664	EDA	maximum and sorted cache occupation using array padding	2007	0.3123688895401723	13.744839097975296	4013691
+4014408	Arch	speculative dynamic vectorization	2002	0.4994241334828818	13.250760991973364	4014435
+4014744	EDA	counterflow pipelining: architectural support for preemption in asynchronous systems using anti-tokens	2006	0.0033389237863715835	13.964676043175654	4014771
+4017231	Embedded	design and test of the rt-nke task scheduling algorithm for multicore architectures	2018	-0.3109312962912936	13.262482100811038	4017258
+4020137	HPC	meric and radar generator: tools for energy evaluation and runtime tuning of hpc applications	2017	-0.11724535875177855	13.924786091158472	4020164
+4021196	Embedded	wcet analysis of multi-level non-inclusive set-associative instruction caches	2008	0.4533689229682914	13.636855925350671	4021223
+4021377	Embedded	predictable processors for mixed-criticality systems and precision-timed i/o	2015	0.4497188447228767	14.088417922235903	4021404
+4023764	Arch	hierarchical memory system design for a heterogeneous multi-core processor	2008	-0.1685728388464252	13.603760033466134	4023791
+4023816	Arch	optimizing graph algorithms in asymmetric multicore processors	2018	0.3100487205563895	13.458530848561473	4023843
+4025660	HPC	application specific memory access, reuse and reordering for sdram	2011	0.36500651291337577	14.102643707862775	4025687
+4026090	EDA	ssdm: smart stack data management for software managed multicores (smms)	2013	0.33924081155101793	13.671050728113014	4026117
+4027116	Arch	performance-energy optimizations for shared vector accelerators in multicores	2015	-0.4173432044905499	14.032262504208504	4027143
+4028069	AI	balancing task- and data-level parallelism to improve performance and energy consumption of matrix computations on the intel xeon phi	2015	0.19780887287854446	14.090639948965453	4028096
+4028538	EDA	spm conscious loop scheduling for embedded chip multiprocessors	2006	0.4057091544862681	13.989929719894281	4028565
+4029930	HPC	pose: a mathematical and visual modelling tool to guide energy aware code optimisation	2015	-0.3226261719353501	13.588880865813088	4029957
+4030667	EDA	instruction buffering for nested loops in low power design	2002	-0.3639502888372384	13.886188694603266	4030694
+4030697	Arch	spatial computation	2004	-0.06508128047210174	13.225329542365685	4030724
+4035885	Arch	two-level hierarchical register file organization for vliw processors	2000	0.021516985046205958	13.931664797943867	4035912
+4037258	EDA	lmstr: local memory store the case for hardware controlled scratchpad memory for general purpose processors	2016	0.30049818147371443	13.51963099679459	4037285
+4038774	SE	hypercube clock synchronization	1992	0.02842148113826953	13.465862068594928	4038801
+4040859	Embedded	serialized multitasking code generation from dataflow specification	2008	0.1270068381776058	13.353071978587337	4040886
+4045215	Embedded	reducing procedure call bloat in arm binaries	2016	-0.4432701221399604	13.722921923698289	4045242
+4046026	Arch	compiler techniques for energy saving in instruction caches of speculative parallel microarchitectures	2000	-0.4215437451010983	13.858076566325114	4046053
+4047370	Arch	scima-smp: on-chip memory processor architecture for smp	2004	-0.3072258546959832	13.62616469223763	4047397
+4050856	Embedded	a real-time media framework for asymmetric mpsoc	2006	-0.30670800728071146	13.404027740571086	4050883
+4050955	HPC	operand size reconfiguration for big data processing in memory	2017	-0.315643700565021	14.045919944243867	4050982
+4054712	HPC	measurement and characterization of haswell power and energy consumption	2015	-0.0957072007319042	14.133672238904538	4054739
+4054745	HPC	leveraging multi-core computing architectures in avionics	2012	0.0660712833756397	13.454509850811124	4054772
+4057447	Arch	recent advances and new avenues in hardware-level reliability support	2005	0.2005684288939654	13.281416831623215	4057474
+4058576	Arch	using complete machine simulation for software power estimation: the softwatt approach	2002	-0.3889339847254215	13.94546031270396	4058603
+4059345	Arch	performance comparison of load/store and symmetric instruction set architectures	1990	-0.25560271380346444	13.702167257931334	4059372
+4059395	Arch	functional implementation techniques for cpu cache memories	1999	0.35447750904926856	14.084389361645274	4059422
+4062527	Embedded	memory allocation for embedded systems with a compile-time-unknown scratch-pad size	2005	0.012779177663255712	13.900258382593654	4062554
+4063541	EDA	software coherence management on non-coherent cache multi-cores	2016	0.12220710229456958	13.52140910793509	4063568
+4064991	EDA	a preemption algorithm for a multitasking environment on dynamically reconfigurable processors	2008	-0.4513054698422079	13.916010930955885	4065018
+4069739	Embedded	towards scheduling hard real-time image processing tasks on a single gpu	2017	0.2059984101325763	13.686648154321384	4069766
+4073186	Arch	accurately modeling the on-chip and off-chip gpu memory subsystem	2018	0.19725893853682408	14.153851684781985	4073213
+4073261	Arch	graphia: an in-situ accelerator for large-scale graph processing	2018	0.33721718980307125	13.260876246983376	4073288
+4075291	Embedded	resource management on multicore systems: the actors approach	2011	0.3929330008247848	13.990703259946955	4075318
+4078041	Arch	clustered vliw architectures with predicated switching	2001	-0.1221346172676445	14.135918674063744	4078068
+4078187	Arch	modulo path history for the reduction of pipeline overheads in path-based neural branch predictors	2007	0.3535471469193437	14.147512469687095	4078214
+4079510	Metrics	performance impact of emerging memory technologies on big data applications: a latency-programmable system emulation approach	2018	0.2915538055052546	13.699188101176453	4079537
+4080931	Arch	diversity: a design goal for heterogeneous processors	2016	0.06447375944044405	13.397372613133983	4080958
+4085114	Arch	an evaluation of asynchronous and synchronous design for superscalar architectures	1997	-0.4350945660922789	13.76469353445333	4085141
+4088103	Arch	resolving register bank conflicts for a network processor	2003	-0.10043483065449456	13.963209399884546	4088130
+4089350	EDA	dlx hotokada: a design and implementation of a 32-bit dual core capable dlx microprocessor with single level cache	2008	-0.10104847246409764	13.719354205184883	4089377
+4090927	Arch	enabling long debug traces of hls circuits using bandwidth-limited off-chip storage devices	2017	-0.09219346620844487	13.783971631716087	4090954
+4093091	HPC	an architecture and task scheduling algorithm for systems based on dynamically reconfigurable shared memory clusters	2001	0.07137614499215998	13.20293052684304	4093118
+4100550	Arch	the performance potential of multiple functional unit processors	1988	0.3827562730324643	13.301824349172527	4100577

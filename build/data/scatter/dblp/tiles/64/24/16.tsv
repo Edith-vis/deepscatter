@@ -1,0 +1,230 @@
+id	area	title	year	x	y	ix
+3649051	Vision	3d models retrieval by using characteristic views	2002	-6.632641169636966	-15.11152288904963	3649078
+3649572	Robotics	image mosaic based on sift	2008	-6.761020367903714	-14.776832980460524	3649599
+3653037	Vision	invariant image recognition using radial jacobi moment invariants	2011	-7.163346570152938	-15.473153589089902	3653064
+3654755	Vision	image retrieval based on anisotropic scaling and shearing invariant geometric coherence	2014	-6.294000550277464	-14.95036898723841	3654782
+3654980	Robotics	fast screening algorithm for rotation invariant template matching	2018	-6.544027494795666	-14.810508578363596	3655007
+3656918	Vision	treesha: 3d shape retrieval with a tree graph representation based on the autodiffusion function topology	2014	-7.069724558970339	-14.987964209766432	3656945
+3658641	Vision	parametric representation of objects in color space using one-class classifiers	2014	-6.650040854546687	-15.22148314473326	3658668
+3667395	Vision	multimodal image matching based on multimodality robust line segment descriptor	2016	-6.292628432614263	-15.180529340946624	3667422
+3677558	Vision	fingerprint verification based on multistage minutiae matching	2006	-6.311276065449687	-15.365971863216313	3677585
+3677817	Vision	attributed stroke graph matching for seal imprint verification	1989	-7.179152358831537	-15.140672549822018	3677844
+3679937	Vision	manifold topological multi-resolution analysis method	2011	-7.024741726957685	-14.817023705023232	3679964
+3681309	Vision	extraction of regions of interest from face images using cellular analysis	2008	-6.813508989093861	-15.332262394658937	3681336
+3681655	Vision	a geometric framework for rectangular shape detection	2014	-6.844397458221215	-15.230490292570252	3681682
+3681828	Vision	real-time scene text detection based on stroke model	2014	-7.131359017668107	-15.531214406624816	3681855
+3686505	Vision	model-based learning of local image features for unsupervised texture segmentation	2018	-7.066275882387134	-15.15698244586515	3686532
+3692694	Vision	megh: a new affine invariant descriptor	2013	-6.524598185356764	-14.994866732528072	3692721
+3694201	Vision	a robust coarse-to-fine method for pupil localization in non-ideal eye images	2007	-6.5149001504421875	-15.23231924630741	3694228
+3696492	Vision	a handwritten chinese character recognition system using hierarchical displacement extraction based on directional features	1998	-6.7547482461610375	-15.324523619695547	3696519
+3698467	Vision	shape-based image retrieval using generic fourier descriptor	2002	-6.425696378616394	-15.49187688061676	3698494
+3703270	Vision	shape classification based on skeleton-branch distances	2015	-6.98175497258469	-14.671972895976268	3703297
+3706940	Vision	a probabilistic approach for 3d shape retrieval by characteristic views	2007	-6.5243030033523794	-14.748169653849715	3706967
+3709605	Vision	fast ray features for learning irregular shapes	2009	-6.520220405010388	-14.75916779151007	3709632
+3712103	Robotics	a slope k method for image based localization	2009	-6.571431684728108	-14.728565007535842	3712130
+3716923	Vision	method of extracting interest points based on multi-scale detector and local e-hog descriptor	2011	-6.282531149522376	-14.786731369167676	3716950
+3717283	AI	image feature descriptor based on shape salience points	2013	-6.317004453987228	-15.296793387000267	3717310
+3719847	Vision	a new fingerprint matching algorithm based on minimum cost function	2009	-6.756859657975063	-14.938537715109751	3719874
+3719937	Vision	3d model search and retrieval based on the 3d radon transform	2004	-6.3118670245028055	-15.313809395627699	3719964
+3721310	Vision	segmentation of graphical objects as maximally stable salient regions	2011	-6.593209423520413	-15.44814787893399	3721337
+3722694	Vision	shape classification using the inner-distance	2007	-6.537980601846918	-14.851794337763462	3722721
+3722701	Vision	shape representation robust to the sketching order using distance map and direction histogram	2008	-6.358954148109946	-14.905081916222699	3722728
+3725822	Vision	naturally combined shape-color moment invariants under affine transformations	2017	-7.217612382507022	-14.81604496334148	3725849
+3727705	Robotics	a contour extraction algorithm of palmprints based on corner point features	2012	-6.488186510979228	-15.426343694532894	3727732
+3735297	Vision	color restoration for objects of interest using robust image features	2008	-6.336331537821842	-14.974824651212385	3735324
+3736688	Vision	modified color ratio gradient	2005	-6.827608842835769	-14.80237833172736	3736715
+3738575	Vision	reliable image matching via modified hausdorff distance with normalized gradient consistency measure	2005	-6.43602440427492	-14.95640336969408	3738602
+3741036	Vision	knife detection scheme based on possibilistic shell clustering	2013	-6.439846835680204	-14.716904436558584	3741063
+3741846	Vision	detection and segmentation of generic shapes based on affine modeling of energy in eigenspace	2001	-6.9442298669477385	-15.078431681534429	3741873
+3744202	Vision	diffusion distance for histogram comparison	2006	-6.4567910902328896	-15.307523860976884	3744229
+3749086	Vision	multi-scale bisector integrals: an invariant descriptor for accurate shape retrieval	2015	-6.75693142997997	-15.161794836429422	3749113
+3749462	Vision	saliency map based improved segmentation	2015	-6.913513816817968	-14.913363502272096	3749489
+3751893	Vision	classification-driven active contour for dress segmentation	2016	-7.164157924279537	-15.15709883887846	3751920
+3754353	Vision	δ-distance: a family of dissimilarity metrics between images represented by multi-level feature vectors	2006	-6.450144898678823	-15.344653460151706	3754380
+3755963	Vision	human face profile recognition using attributed string	2002	-7.162515396661013	-14.987217498099431	3755990
+3760068	Vision	color segmentation and figure-ground segregation of natural images	2000	-7.082416362953695	-14.944778211240434	3760095
+3760248	Robotics	binocular stereo matching algorithm for wide baseline based on stable extremal regions	2007	-6.664604372890785	-15.12037925951823	3760275
+3761398	Vision	robust duplicate detection of 2d and 3d objects	2010	-6.3196871850606575	-14.660816118306858	3761425
+3761616	Robotics	a pre-processing approach for efficient feature matching process in extreme illumination scenario	2012	-6.552425147962523	-14.865763891183688	3761643
+3766665	Vision	a multiscale circum-ellipse area representation for planar shape retrieval	2017	-7.212203478788633	-15.245580514660597	3766692
+3770283	Vision	automatic detection of singular points in fingerprint images using convolution neural networks	2017	-6.568111729363433	-15.472571890958182	3770310
+3772018	Vision	bwt-based efficient shape matching	2007	-6.769721461712295	-14.744625051802714	3772045
+3776039	Vision	a shape descriptor for 3d objects based on rotational symmetry	2010	-6.984682070301584	-14.883780838718328	3776066
+3778014	Vision	volumetric shape contexts for mesh co-segmentation	2016	-6.864437018521287	-14.817327620773113	3778041
+3783386	NLP	differential invariants under gamma correction	2000	-6.544857400905068	-15.399634869443352	3783413
+3785048	Vision	fingerprint matching incorporating ridge features with minutiae	2011	-6.3866635572430726	-15.291322075097206	3785075
+3787345	Vision	signatures versus histograms: definitions, distances and algorithms	2006	-6.582260377456531	-15.363923397565673	3787372
+3790513	Vision	three-dimensional object retrieval based on vector quantization of invariant descriptors	2012	-6.787674431230947	-14.911655113022391	3790540
+3790741	Vision	improvement of fingerprint matching by describing the minutiae neighborhood using a set of quaternion disc-harmonic moments	2014	-6.2704236444593935	-15.226938038349127	3790768
+3792548	Vision	contour retrieval and matching by affine invariant fourier descriptors	2007	-7.074941844643472	-14.923336817643824	3792575
+3794590	Vision	phase preserving fourier descriptor for shape-based image retrieval	2016	-6.272736614811714	-15.47551574081569	3794617
+3800359	Vision	performance evaluation of shape matching via chord length distribution	1984	-6.862231096163911	-15.215154144194127	3800386
+3801842	Vision	prong features detection of a 3d model based on the watershed algorithm: copyright restrictions prevent acm from providing the full text for this work.	2004	-6.422571592192429	-15.033467944595479	3801869
+3802467	Vision	maximal disk based histogram for shape retrieval	2003	-6.536093384675066	-15.456986296566296	3802494
+3805110	EDA	intelligent object extraction algorithm based on foreground/background classification	2005	-7.2235682214816475	-15.18893272289484	3805137
+3808179	Visualization	a comparison of minutia triplet based features for fingerprint indexing	2016	-6.454103990966623	-15.274114257163793	3808206
+3810169	Robotics	panoramic image mosaics using local wavelet-features	2016	-6.4962446408908665	-14.909943341826171	3810196
+3811296	Vision	fingerprint matching by thin-plate spline modelling of elastic deformations	2003	-6.582789427862064	-15.325763285866715	3811323
+3811589	Vision	lip contour extraction using a deformable model	2000	-6.482192244512459	-15.368919988607647	3811616
+3811847	Vision	transductive object cutout	2008	-6.5704253458149315	-14.602324291057613	3811874
+3813755	Vision	local visual patch for 3d shape retrieval	2010	-6.496705333551493	-15.047961114695505	3813782
+3814090	Robotics	mental rotation by neural network	2009	-6.691553760293287	-15.48598317978451	3814117
+3814694	Vision	a new shape descriptor for object recognition and retrieval	2010	-6.893186465081987	-14.960032477888582	3814721
+3816985	Vision	image matching using colour edge cooccurrence histograms	2006	-6.821608153799652	-15.295744607818792	3817012
+3817849	Vision	surface matching with salient keypoints in geodesic scale space	2008	-6.773854370823948	-14.934954935740715	3817876
+3817936	Vision	a main stem concept for image matching	2005	-6.349683242693829	-15.321069752552436	3817963
+3820919	Vision	polygonal shape recognition using string-matching techniques	1991	-7.187838003006961	-14.876861622707866	3820946
+3823091	Mobile	a framework for radial data comparison and its application to fingerprint analysis	2016	-7.079453091260572	-15.320617530692726	3823118
+3823186	ML	key-components: detection of salient regions on 3d meshes	2013	-6.651693212361993	-14.60635076208016	3823213
+3823655	Vision	moment-based techniques for image retrieval	2008	-7.020615304234787	-15.446038546723983	3823682
+3827494	Vision	invariant feature extraction and object shape matching using gabor filtering	2002	-6.746523563357072	-15.063905462880086	3827521
+3841068	Vision	dithering-based sampling and weighted α-shapes for local feature detection	2015	-7.159184124634629	-15.04685605789667	3841095
+3841947	Vision	target localization based on sift algorithm	2011	-6.485960152449187	-14.629064045406249	3841974
+3842860	Vision	identifying elephant photos by multi-curve matching	2008	-6.776122886053022	-15.326267983015855	3842887
+3843239	Vision	spectral total-variation local scale signatures for image manipulation and fusion	2018	-7.076679398551122	-15.307165646229176	3843266
+3845151	Vision	art extension for description, indexing and retrieval of 3d objects	2004	-6.575108376221429	-15.233105571028569	3845178
+3845562	HCI	a preliminary study of the usage of similarity measures to detect singular points in fingerprint images	2013	-7.156881498399582	-15.020996837911513	3845589
+3848714	Vision	gauss-laguerre keypoints descriptors for color images	2011	-6.975874278252874	-15.064590210961098	3848741
+3849344	Vision	similarity measure determination from nurbs-warping method	2002	-6.725254704415042	-15.144785612627695	3849371
+3850733	Vision	polyhedral model retrieval using weighted point set	2003	-7.228882761306042	-14.77815158762174	3850760
+3852765	Vision	a comparative study of irregular pyramid matching in bag-of-bags of words model for image retrieval	2014	-6.287957650866613	-15.532222689017308	3852792
+3853221	Robotics	a hybrid method for multi-sensor remote sensing image registration based on salience region	2014	-6.926543099106898	-15.318201002971387	3853248
+3853349	Vision	discrete representation of top points via scale space tessellation	2005	-7.142658586781867	-14.75509942466754	3853376
+3855882	Vision	global volumetric image registration using local linear property of image manifold	2014	-7.1959813989435	-14.939273005445086	3855909
+3860881	Vision	a new 3-d model retrieval system based on aspect-transition descriptor	2006	-6.711901189764947	-14.887571951279535	3860908
+3861039	Vision	advances in image and graphics technologies	2015	-6.846473951364915	-14.790342748771375	3861066
+3863103	Vision	fast skewed object matching with adaptive rotation step based on affine transformation	2017	-7.19773731300535	-14.836136005981018	3863130
+3866519	Vision	pixel-level singular point detection from multi-scale gaussian filtered orientation field	2010	-6.323501315155789	-15.247682908071845	3866546
+3869289	Vision	using fourier descriptors and spatial models for traffic sign recognition	2011	-6.870890184153557	-14.604135443559056	3869316
+3872498	Vision	view matching with blob features	2005	-6.6704204973650745	-14.63543555185308	3872525
+3873320	Vision	robust license plate detection using profile-based filter	2018	-6.444659776594313	-15.354435586709387	3873347
+3876143	Vision	retrieving articulated 3-d models using medial surfaces	2005	-7.188800946710724	-14.677994310641115	3876170
+3876370	Vision	evaluating the change in fingerprint directional patterns under variation of rotation and number of regions	2015	-6.6559756967751085	-15.411634909345922	3876397
+3876912	AI	model based object recognition - the role of affine invariants	1996	-6.948881983669957	-14.600187516350946	3876939
+3878937	Vision	delaunay triangulation for image object indexing: a novel method for shape representation	1999	-6.5960411070564495	-15.204031845896726	3878964
+3879217	Vision	recognition of sport players' numbers using fast-color segmentation	2012	-6.348008248240893	-14.924877221220456	3879244
+3879759	ML	ensemble of panorama-based convolutional neural networks for 3d model classification and retrieval	2018	-6.473873769825535	-14.729764973076403	3879786
+3881170	Vision	improvement of zernike moment descriptors on affine transformed shapes	2007	-6.524307540017525	-15.393056316340838	3881197
+3881189	Vision	a shape based approach for biometrical analyses	2009	-6.567096525744244	-14.78084601552695	3881216
+3881514	Robotics	character reconstruction with radial-harmonic-fourier moments	2007	-7.139211549224735	-15.155765259216494	3881541
+3884663	Vision	fast computation of rotation-invariant image features by an approximate radial gradient transform	2013	-7.077905441078174	-14.969951670423914	3884690
+3884705	ML	topographic product models applied to natural scene statistics	2006	-6.566847666800394	-15.279975308903143	3884732
+3885807	Vision	an advanced rotation invariant descriptor for sar image registration	2017	-6.758704457254447	-14.97092812130013	3885834
+3888558	Vision	a distance-based shape descriptor invariant to similitude and its application to shape classification	2016	-6.516335680839758	-15.360979205688515	3888585
+3889203	AI	recognition of vehicle number plates	2008	-6.30317082516248	-14.843753437488058	3889230
+3891256	Vision	using self-organizing maps to learn geometric hash functions for model-based object recognition	1998	-6.446685849451362	-14.91610107160817	3891283
+3895441	Vision	local feature extraction in fingerprints by complex filtering	2005	-6.4454153305606505	-15.524008514948122	3895468
+3899340	Vision	applications of approximate string matching to 2d shape recognition	1993	-7.201926565989026	-14.791747827821252	3899367
+3901073	Vision	a method for blur and affine invariant object recognition using phase-only bispectrum	2008	-7.132817853621446	-15.25175287338401	3901100
+3905759	Robotics	flexible rotation invariant bases from orthogonal moments	2018	-7.100910389331889	-15.41483707158968	3905786
+3908869	Vision	a complex network-based approach for boundary shape analysis	2009	-7.0572045825896685	-15.508352502899074	3908896
+3908878	Vision	object-shape recognition and 3d reconstruction from tactile sensor images	2014	-6.385376110491163	-15.126480230285239	3908905
+3908996	Vision	combined invariants to blur and rotation using zernike moment descriptors	2009	-6.995998384461582	-15.365420334109519	3909023
+3911947	Vision	binary coherent edge descriptors	2010	-6.445683149842731	-15.120564845457704	3911974
+3912450	Logic	a multiple substructure matching algorithm for fingerprint verification	2007	-6.550327880742367	-15.037573590532393	3912477
+3913299	Vision	a novel approach for interest point detection via laplacian-of-bilateral filter	2015	-6.944160909589073	-14.87552049929122	3913326
+3914675	Robotics	improved pupil center localization method for eye-gaze tracking-based human-device interaction	2014	-6.672110880146763	-15.205201601615059	3914702
+3914811	Vision	indexing hierarchical structures using graph spectra	2005	-6.570465578255021	-14.688260411502382	3914838
+3915430	Vision	points of focus from color radial symmetry maps	2010	-6.3686956735040265	-15.054044190089394	3915457
+3917114	Vision	an approximately complete string representation of local object boundary features for concept-based biomedical image retrieval	2004	-6.660159248778733	-15.301056405414984	3917141
+3920527	Vision	real-time detection of the triangular and rectangular shape road signs	2007	-6.921242556047488	-15.313238420932548	3920554
+3924127	Vision	generic fourier descriptor for shape-based image retrieval	2002	-6.47858020584482	-15.477568990794122	3924154
+3925132	Vision	active shape models with invariant optimal features: application to facial analysis	2007	-6.56810738907434	-14.67735056240075	3925159
+3928094	Vision	multiresolution superpixels for visual saliency detection	2014	-6.820027056841378	-15.30481364079451	3928121
+3929637	Vision	extended clique models: a new matching strategy for fingerprint recognition	2013	-6.806977642864003	-15.0833959409618	3929664
+3933079	Robotics	a control operator for perceptual grouping based on the gestalt vision's theory	2011	-6.471629370499418	-15.006845078834742	3933106
+3933804	Vision	trademark shapes description by string-matching techniques	1994	-6.9933969591979634	-15.05283243827617	3933831
+3937939	AI	combining pixel-level and patch-level information for segmentation	2015	-6.9427465064762615	-14.874422368940671	3937966
+3939333	Visualization	retrieval of 3d polygonal objects based on multiresolution signatures	2011	-6.8118028504040895	-15.292670843093415	3939360
+3943984	Vision	detecting unusual activity in video	2004	-6.404625186206427	-14.613367809022119	3944011
+3948498	Vision	wavelet transform for partial shape recognition using sub-matrix matching.	2008	-6.969935379405063	-15.186349367173474	3948525
+3949213	Vision	shape similarity measurement for boundary based features	2005	-6.812878060037197	-15.176559509167493	3949240
+3950552	Vision	a view-based 3d object shape representation technique	2007	-6.978849109902789	-15.030448538169527	3950579
+3953657	Vision	a handwritten character recognition method based on unconstrained elastic matching and eigen-deformations	2002	-6.643515500463573	-14.982529599377393	3953684
+3955235	Vision	salient region detection and feature extraction in 3d visual data	2008	-6.786720581693278	-15.375174583047421	3955262
+3956795	Vision	geometric total variation for texture deformation	2010	-6.689424149871456	-15.011221758869526	3956822
+3957033	Vision	a comparison of prefilters in orb-based object detection	2017	-6.286787935426933	-15.308826183821399	3957060
+3959627	Vision	statistical shape features for content-based image retrieval	2002	-6.766668654655812	-15.263346041312586	3959654
+3959657	Vision	standard deviation normalized summed squared difference for image registration	2017	-7.163506981448514	-14.921474881562656	3959684
+3960096	Vision	spatially aware dictionary learning and coding for fossil pollen identification	2016	-7.135643451237304	-14.79266255368613	3960123
+3961317	Vision	walking to singular points of fingerprints	2016	-6.4937312404800425	-15.250039543729526	3961344
+3962567	Vision	sar and optical image registration using nonlinear diffusion and phase congruency structural descriptor	2018	-6.8719937382293965	-15.369502906968256	3962594
+3965970	Vision	real-time object recognition: hierarchical image matching in a parallel virtual machine environment	1998	-6.669754544982637	-14.671158665802214	3965997
+3971386	Vision	3d body scans retrieval based on intersection views	2016	-6.8161915637874015	-14.979406342320823	3971413
+3971730	Vision	the effect of edge strength on object recognition from edge images	1998	-6.7710115748816815	-15.302845847581336	3971757
+3973833	Vision	sar-sift: a sift-like algorithm for applications on sar images	2012	-7.185751154880532	-14.957043601077318	3973860
+3979171	Vision	extracting invariable features using geometry projection based histogram model for 3d object description	2009	-7.103466480994867	-14.694758209319108	3979198
+3980078	Vision	noisy logo recognition using line segment hausdorff distance	2003	-6.587990589282121	-15.035320716829164	3980105
+3983311	Vision	analysis and retrieval of 3d facial models using iso-geodesic stripes	2008	-6.377634615201114	-14.784760963041613	3983338
+3985906	Vision	partial object recognition based on an ellipse using symmetry in image databases	2006	-7.168031093645912	-14.612951568681106	3985933
+3987340	Vision	tracking abnormalities in video capsule endoscopy using surrounding features with a triangular constraint	2012	-6.8514395996366835	-14.746023011763642	3987367
+3987445	Vision	trademark recognition using the pdh shape descriptor	2008	-6.6508345274299945	-14.8831047343133	3987472
+3988750	Vision	real-time feature descriptor matching via a multi-resolution exhaustive search method	2013	-6.295088541246576	-14.775831895398701	3988777
+3991628	DB	distorted fingerprint indexing using minutia detail and delaunay triangle	2006	-6.588975702594523	-15.214594883678439	3991655
+3995140	Robotics	an enhancement to sift-based techniques for image registration	2010	-6.26323770210883	-15.000172890487855	3995167
+3996248	Visualization	hierarchical exploration of volumes using multilevel segmentation of the intensity-gradient histograms	2012	-7.008655975046947	-14.719389192324927	3996275
+3996744	Vision	image indexing by using a rotation and scale invariant partition	1998	-6.723920589852145	-14.938187905094194	3996771
+3997451	Vision	graph contexts for retrieving deformable non-rigid 3d shapes	2014	-6.354360572974893	-14.99082754716069	3997478
+3998118	Vision	content image retrieval based on topological information	2004	-6.84892720774783	-14.91307173744578	3998145
+4000906	Robotics	an algorithm based on photo consistency for image feature point matching	2017	-6.4690180035273075	-15.051243170878994	4000933
+4000998	Vision	content-based retrieval of 3d models based on multiple aspects	2004	-6.332455846637372	-15.024083076740803	4001025
+4002009	Vision	a 3d shape descriptor based on spherical harmonics through evolutionary optimization	2016	-6.265085749215938	-15.186830142856195	4002036
+4004768	DB	dynamic time warping of cyclic strings for shape matching	2005	-6.904183835913515	-14.994634780820824	4004795
+4004865	Robotics	the hybrid approach of image segmentation using meanshift and saliency maps	2012	-7.031843644810679	-15.536995215216052	4004892
+4004995	Vision	robust detection of singular points for fingerprint recognition	2003	-6.907621653403507	-15.47415187128228	4005022
+4006144	Vision	image matching for repetitive patterns by clustering and transforming in feature space	2013	-6.665568414499711	-14.813241887556927	4006171
+4007653	Vision	3d cad model matching from 2d local invariant features	2010	-7.136722889365503	-14.833408971953347	4007680
+4010591	Vision	tempo: feature-endowed teichmüller extremal mappings of point clouds	2016	-7.208573957711374	-14.65904898817209	4010618
+4014066	Vision	a new algorithm for distorted fingerprints matching based on normalized fuzzy similarity measure	2006	-6.289180610605579	-15.388443933293473	4014093
+4014195	Vision	a novel indexing approach for multimedia image databases	1999	-7.091090606312014	-15.35970132281457	4014222
+4016635	Vision	experimental results of bispectral invariants discriminative power	2012	-6.960524632730652	-15.386696566989524	4016662
+4021367	Vision	a comparative study of three moment-based shape descriptors	2005	-6.46907157692434	-15.466449664237485	4021394
+4023945	Vision	combining features for shape and motion trajectory of video objects for efficient content based video retrieval	2009	-6.354616594276358	-14.994404689529722	4023972
+4024176	Vision	shape-based invariant texture indexing	2009	-6.924701258209497	-15.447413791723678	4024203
+4026516	Vision	index trees for accelerating deformable template matching	2002	-6.7353880062648335	-15.031899140680164	4026543
+4026589	Vision	a compact shape descriptor for triangular surface meshes	2014	-6.922477042113237	-15.021476046096378	4026616
+4028070	AI	optimizing motion and colour segmented images with neural networks	2004	-6.709942531973205	-15.274006015387814	4028097
+4030852	Vision	chain code-based shape representation and similarity measure	1996	-6.4508449755932675	-15.064164871096287	4030879
+4032505	Vision	using landmarks to establish a point-to-point correspondence between signatures	2000	-7.2215747912844845	-15.108359670855119	4032532
+4032689	Vision	robust normalization of silhouettes for recognition applications	2004	-6.28078826496248	-14.9056579635623	4032716
+4033421	Vision	adaptive polar based filtering method for image copy-move forgery detection	2016	-6.316224886583265	-15.245650358269405	4033448
+4035370	Visualization	a unified methodology for computing accurate quaternion color moments and moment invariants	2014	-7.1632324171707324	-15.434992513354175	4035397
+4040245	Vision	blur-countering keypoint detection via eigenvalue asymmetry	2018	-6.9400083525503575	-14.966800735733454	4040272
+4041084	Vision	an acquisition method of distance information in direction signs	2017	-6.6326348465951455	-15.26265377809292	4041111
+4042742	Logic	distance transform network for shape analysis	2019	-6.96967609677929	-15.43730549512131	4042769
+4049603	Vision	trisi: a distinctive local surface descriptor for 3d modeling and object recognition	2013	-6.5262750311535775	-14.835658783039195	4049630
+4049987	Vision	visual shape retrieval using multiscale term distributions	2000	-6.482029305643447	-15.348119074081929	4050014
+4050254	Robotics	a fast template matching method for rotation invariance using two-stage process	2009	-7.162472322330989	-14.943592234870591	4050281
+4051014	Vision	comparison of image patches using local moment invariants	2014	-7.132729058875147	-15.195823410178251	4051041
+4051579	ML	bessel-fourier moment-based robust image zero-watermarking	2013	-6.519492910915008	-15.530552671349255	4051606
+4058907	Vision	non-parametric spectral model for shape retrieval	2015	-7.105806160234067	-14.74398827627	4058934
+4060816	Visualization	shrec’08 entry: 3d face recognition using moment invariants	2008	-7.184410060084205	-15.126521739353116	4060843
+4061685	Vision	shrec’08 entry: registration and retrieval of 3d faces using a point distribution model	2008	-6.365124306230586	-14.609393523216367	4061712
+4061811	ML	context based detection of keypoints and features in eye regions	1996	-6.284878702094453	-14.642970195905967	4061838
+4063230	Vision	feature matching using guidance-constraint method	2016	-6.321340060044229	-14.602659995992965	4063257
+4063639	Vision	a new multiscale line detection approach for aerial image with complex scene	2006	-7.203729258339787	-14.624165776038316	4063666
+4064396	AI	palmprint recognition based on line and slope orientation features	2011	-6.511026464667162	-15.223732613690894	4064423
+4065854	Vision	robust classification of arbitrary object classes based on hierarchical spatial feature-matching	1997	-7.0515201185011325	-14.99380129040518	4065881
+4065866	Vision	genetic algorithm for affine point pattern matching	2003	-6.643346238944403	-14.985098643515597	4065893
+4066569	Vision	envelope extraction for composite shapes for shape retrieval	2012	-6.942511327323071	-15.039103075911596	4066596
+4066795	Vision	rotation invariant similarity measure for non-local self-similarity based image denoising	2015	-6.707134941228597	-15.200724368029555	4066822
+4074405	Vision	computer analysis of images and patterns	2013	-6.678053123831989	-15.085555391206045	4074432
+4081443	Robotics	real-time multi-feature based fire flame detection in video	2017	-6.347320612392597	-15.176349752186825	4081470
+4082634	Vision	a global feature for non-rigid 3d shape retrieval with shape similarity	2014	-6.742617276740162	-14.831039577121684	4082661
+4083398	Vision	delaunay triangulation algorithm for fingerprint matching	2006	-6.5991665254683705	-15.23562997528314	4083425
+4083548	Vision	efficient 3-d model search and retrieval using generalized 3-d radon transforms	2006	-6.4495690702078505	-15.1801251186184	4083575
+4084466	Robotics	analysis of stability in static signatures using cosine similarity	2012	-6.753515364766233	-15.250183559728722	4084493
+4085537	Vision	characterization of color images with multiscale monogenic maxima	2018	-7.201859876632708	-15.147790347395732	4085564
+4086301	Robotics	image fusion with saliency map and interest points	2016	-6.264099718405467	-14.839993770549267	4086328
+4087127	Vision	the use of active shape models for locating structures in medical images	1993	-7.0792065136165725	-14.7552586448609	4087154
+4088417	Vision	detecting changes in multilayered orthoimages with spatiotemporal texture blocks	2008	-6.586473312440742	-14.707118297676766	4088444
+4089612	Vision	symmetry-based alignment for 3d model retrieval	2014	-7.1045548751274	-14.80183798054543	4089639
+4090587	Crypto	indexing of technical line drawings based on f-signatures	2001	-6.568206003355477	-15.222231537315011	4090614
+4094298	Robotics	localization and extraction on the eyes, nose and mouth of human face	2009	-6.302630171973022	-15.337723767979965	4094325
+4094626	Vision	image registration method using harris corner and modified hausdorff distance with near set	2015	-6.5773786897083815	-14.800238165286935	4094653
+4095080	Vision	retrieval by classification of images containing large manmade objects using perceptual grouping	2002	-6.6667224041687785	-14.70723029706726	4095107
+4096215	Vision	shape recognition using orientational and morphological scale-spaces of curvatures	2015	-6.971633060819838	-15.024648631078033	4096242
+4100954	Vision	deeplayout: a semantic segmentation approach to page layout analysis	2018	-6.520646585176588	-14.779147707753513	4100981
+4102166	Vision	a scale invariant detector based on local energy model for matching images	2007	-6.716890993156201	-15.249429069992086	4102193
+4103125	Vision	the distinctiveness of a curve in a parameterized neighborhood: extraction and applications	2006	-7.220555988164724	-15.11569834180275	4103152
+4103272	Vision	gestalt-based feature similarity measure in trademark database	2006	-6.3287331678669965	-15.274847507915132	4103299

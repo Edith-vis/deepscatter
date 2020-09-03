@@ -1,0 +1,757 @@
+id	area	title	year	x	y	ix
+3375464	ML	bhattacharyya distance and confidence map based feature selection for common spatial patterns algorithms in brain computer interface	2015	-0.34447548075080203	-18.454228019121295	3375491
+3378314	Robotics	intracavitary signal analysis for atrial fibrillation prediction	2012	-0.06252164159660849	-18.751958934415732	3378341
+3378745	ML	a channel selection method for eeg classification based on exponentially damped sinusoidal model and stochastic relevance analysis	2013	-0.13264256518114148	-19.229260160599214	3378772
+3379570	Robotics	nonlinear analysis of auscultation signals in traditional chinese medicine using wavelet transform and approximate entropy	2009	0.3715124260863519	-19.29502945636633	3379597
+3379874	HCI	a practical measuring system for intestinal pressure activity and its clinical application	2010	0.3416638831727995	-18.88819450358943	3379901
+3380763	EDA	doppler spectrogram calculation using cfft algorithm in a digital signal processor based system	2009	-0.4000603030027276	-18.659990978105046	3380790
+3382131	EDA	ecg signal analysis based on variational mode decomposition and bandwidth property	2016	0.07552115343732893	-19.18950453958641	3382158
+3384481	Robotics	a fast ecg diagnosis using frequency-based compressive neural network	2017	0.23947131674772554	-19.02692606387579	3384508
+3384801	Vision	epileptic seizure detection using eegs based on kernel radius of intrinsic mode functions	2017	0.005528150319027218	-19.177984453769128	3384828
+3387103	AI	clinical severity of noise in ecg	2016	0.06549052135613129	-18.82009545749462	3387130
+3388567	ML	rhythm-based heartbeat duration normalization for atrial fibrillation detection	2016	0.3531320207006259	-18.932861550101517	3388594
+3391929	Visualization	feature relevance analysis supporting automatic motor imagery discrimination in eeg based bci systems	2013	-0.09599362455828372	-18.5760563569834	3391956
+3393492	AI	hidden markov model-based classification of heart valve disease with pca for dimension reduction	2012	0.410353887166836	-19.228786059425172	3393519
+3393903	EDA	cognitive state estimation by effective feature extraction and proper channel selection of eeg signal	2015	0.039590746061842035	-18.600584748368274	3393930
+3393944	Robotics	image features of spectral correlation function for arrhythmia classification	2015	0.3873738842192312	-19.291044988126497	3393971
+3393952	HCI	heart rate variability analysis using time and frequency methods in β-bloker patients	2018	-0.4324338903774401	-18.95989293117751	3393979
+3396350	HCI	automatic detection of absence seizures with compressive sensing eeg	2016	0.3919713925148354	-19.15196971983537	3396377
+3396645	AI	coherence research of audio-visual cross-modal based on hht	2014	-0.1003227375839438	-18.75564225971084	3396672
+3399447	HCI	characterization of rem/nrem sleep using breath sounds in osa	2016	0.5009525788377787	-18.786447276485372	3399474
+3400825	ML	nonparametric approach for the computation of tolerance intervals for circadian blood pressure variability	1994	-0.2507468265221741	-19.19874817629441	3400852
+3401191	Vision	a robust algorithm for fetal qrs detection using the non-invasive maternal abdomen ecgs	2013	0.07722004018960707	-18.49895833246773	3401218
+3403037	ML	prognostic models based on patient snapshots and time windows: predicting disease progression to assisted ventilation in amyotrophic lateral sclerosis	2015	0.297887025548389	-19.12467779233476	3403064
+3403411	SE	physiological signal variability analysis based on the largest lyapunov exponent	2009	-0.4184489523683936	-19.196209600295038	3403438
+3403563	ML	performance analysis of wavelet transforms and morphological operator-based classification of epilepsy risk levels	2014	0.10985433395279832	-19.247379728735442	3403590
+3403865	Visualization	the matching of sinus arrhythmia to respiration: are trauma patients without serious injury comparable to healthy laboratory subjects?	2014	-0.2678154936264299	-18.882391558395927	3403892
+3406025	HCI	deception decreases brain complexity	2018	-0.0666773558167785	-19.125459776763318	3406052
+3406520	Vision	comparative study of methods for atrial fibrillation cycle length estimation in fractionated electrograms	2017	-0.4526458765903676	-19.20035286742647	3406547
+3406731	Vision	biosignals events detection - a morphological signal-independent approach	2012	0.3524065127474245	-18.608502428158435	3406758
+3406969	Vision	feature enhancement techniques for the detection of spinal cord injury	1976	-0.4409230092220727	-19.136075214742533	3406996
+3407352	ML	a deep learning method for classification of images rsvp events with eeg data	2013	-0.14379967834089075	-18.47683514789458	3407379
+3409528	AI	p300 wave detection based on rough sets	2006	0.33755460188605696	-19.071153142086672	3409555
+3409810	ML	single channel analysis of sleep eeg: an adaptive database method	1998	-0.2582305748323185	-18.73596996106569	3409837
+3409901	Mobile	classification of ictal and interictal eeg using rms frequency, dominant frequency, root mean instantaneous frequency square and their parameters ratio	2018	-0.17989301165385602	-19.21422727732601	3409928
+3410393	Comp.	application of fft analyzed cardiac doppler signals to fuzzy algorithm	2002	-0.1923510067267707	-18.777121366247574	3410420
+3411936	NLP	human emotion variation analysis based on eeg signal and poms scale	2016	0.2765683854326613	-18.790087159853705	3411963
+3413908	Visualization	a cognitive brain-computer interface prototype for the continuous monitoring of visual working memory load	2015	0.32719708730328395	-18.767126894471296	3413935
+3416147	ML	seizure detection by means of hidden markov model and stationary wavelet transform of electroencephalograph signals	2012	0.049793538041417736	-19.078523851017668	3416174
+3417759	Robotics	phase-based detection of intentional state for asynchronous brain-computer interface	2015	-0.1489393735146788	-18.5053692488285	3417786
+3419893	Metrics	eeg signals classification based on time frequency analysis	2017	-0.2995173880319614	-19.205662579226228	3419920
+3420150	Mobile	euclidean distance measure for the electrocardiogram fiducial points detection in the phase-space formed with the derivative rule	2016	-0.14084631031287134	-18.806981763262392	3420177
+3421467	Visualization	time-frequency analysis of accelerometry data for detection of myoclonic seizures	2010	-0.33719032657592124	-19.099426863229294	3421494
+3422709	HCI	distinguishing patients with gastritis and cholecystitis from the healthy by analyzing wrist radial arterial doppler blood flow signals	2010	0.31108803170066635	-18.63988213402512	3422736
+3422769	ML	quantitative video analysis of complex epileptic seizures during videotelemetry: increasing the reliability of eeg correlation and behavioral autocorrelation	1999	-0.04569169828763145	-18.92057090600799	3422796
+3422903	ML	ecg arrhythmia classification using a probabilistic neural network with a feature reduction method	2013	0.4961592584531563	-19.08158705383272	3422930
+3425689	ML	parkinson's disease prediction using gene expression - a projection based learning meta-cognitive neural classifier approach	2013	-0.1835284926127676	-18.44627935596234	3425716
+3426472	ML	automatic pattern recognition in ecg time series	2002	-0.19812897128398613	-18.985569374062067	3426499
+3428193	ML	no surprise - fixed sequence event-related potentials for brain-computer interfaces	2012	0.01676631119543704	-19.144736100368714	3428220
+3430636	Robotics	robustness of time frequency distribution based features for automated neonatal eeg seizure detection	2014	0.4015505751063269	-19.239264119680268	3430663
+3431349	Robotics	prediction of chatter in machining process based on hybrid som-dhmm architecture	2007	0.4710700241518394	-18.821036750580976	3431376
+3431831	ML	comparison of feature extraction methods for eeg bci classification	2015	0.1032041828281147	-18.482906098467023	3431858
+3432910	PL	the evaluation of eeg response to photic stimulation in normal and diseased subjects	2009	-0.3544670420813796	-19.15659550186211	3432937
+3433421	ML	automatic seizure detection based on kernel robust probabilistic collaborative representation	2018	0.01972396764297494	-19.273283986334867	3433448
+3433912	NLP	statistical and neuro-fuzzy approaches for emboli detection	2004	0.42681999805201065	-19.132720387311537	3433939
+3433936	ML	early detection of alzheimer's disease by blind source separation, time frequency representation, and bump modeling of eeg signals	2005	0.18283801538204525	-19.106368293275192	3433963
+3436517	Vision	intracardiac electrogram envelope detection during atrial fibrillation using fast orthogonal search	2017	-0.1319207882124063	-19.099037929111663	3436544
+3436553	AI	wavelet-based base line wandering removal and r peak and qrs complex detection	2007	-0.2472147207625276	-18.95797619781427	3436580
+3436675	Vision	autocorrelation kernel support vector machines for doppler ultrasound m-mode images denoising	2016	-0.038512897046947735	-19.249603583883022	3436702
+3438919	Visualization	bruit-enhancing phonoangiogram filter using sub-band autoregressive linear predictive coding	2018	-0.4027629277363236	-19.0686377347033	3438946
+3440069	Web+IR	automatic classification of infant sleep based on instantaneous frequencies in a single-channel eeg signal	2013	-0.21536730390384373	-19.22197612157509	3440096
+3441371	Robotics	heart sound segmentation using fractal decomposition	2016	-0.2932163291629623	-18.76679616262923	3441398
+3442923	Mobile	use of wavelet entropy to compare the eeg background activity of epileptic patients and control subjects	2003	-0.34229547179721065	-19.03507141984252	3442950
+3443976	EDA	neural classification of lung sounds using wavelet packet coefficients energy	2006	0.4764570706430869	-19.10990528963302	3444003
+3446633	ML	enhancement of life-threatening arrhythmia discrimination in the intensive care unit with morphological features and interval feature extraction via random forest classifier	2016	0.390301079557728	-19.105891144929824	3446660
+3447021	HCI	arterial waveforms measured at the wrist as indicators of diabetic endothelial dysfunction in the elderly	2012	-0.40698433740834095	-18.474700062204466	3447048
+3447747	ML	single-trial p300 classification using pca with lda, qda and neural networks	2017	-0.0526020646005528	-18.455493933218534	3447774
+3448076	EDA	a novel method for arterial blood pressure pulse detection based on a new coupling strategy and discrete wavelet transform	2015	0.133133160653626	-19.092487677791407	3448103
+3449453	ML	extraction of ssveps-based inherent fuzzy entropy using a wearable headband eeg in migraine patients	2018	0.029732808462772643	-19.287648220743044	3449480
+3450337	EDA	tumor response extraction based on ensemble empirical mode decomposition for early breast cancer detection by uwb	2014	-0.3963747450236372	-19.035967314227094	3450364
+3451040	ML	a short-time multifractal approach for arrhythmia detection based on fuzzy neural network	2001	0.15323389801769793	-19.129912619751856	3451067
+3451267	Robotics	novel feature for identification of focal eeg signals with k-means and fuzzy c-means algorithms	2015	0.08247401739417078	-19.248045173835628	3451294
+3452071	Visualization	correntropy-based spectral characterization of respiratory patterns in patients with chronic heart failure	2010	-0.1461423404746647	-19.15816370001965	3452098
+3453051	AI	a novel selection of optimal statistical features in the dwpt domain for discrimination of ictal and seizure-free electroencephalography signals	2017	0.4037702664146228	-19.11683709781173	3453078
+3453364	ML	multi-category eeg signal classification developing time-frequency texture features based fisher vector encoding method	2016	0.4598453310295604	-19.22132340891711	3453391
+3456282	SE	assessment of sedation-analgesia by means of poincaré analysis of the electroencephalogram	2016	0.36233637104334937	-18.851487850341684	3456309
+3457654	Mobile	a rule-based decision-making diagnosis system to evaluate arteriovenous shunt stenosis for hemodialysis treatment of patients using fuzzy petri nets	2014	0.4295312122572636	-19.107515279422095	3457681
+3458072	ML	sae-based classification of school-aged children with autism spectrum disorders using functional magnetic resonance imaging	2018	0.1510671490890641	-18.54731611290143	3458099
+3458559	ML	long-term heart rate variability as a predictor of patient age	2006	0.3153583719496076	-19.159877499068468	3458586
+3458912	ML	automated seizure detection using limited-channel eeg and non-linear dimension reduction	2017	0.2892703287942147	-19.039418804729788	3458939
+3461357	AI	implementing wavelet/probabilistic neural networks for doppler ultrasound blood flow signals	2007	0.4824151088141798	-19.362400509328392	3461384
+3462431	ML	frequency detection for ssvep-based bci using deep canonical correlation analysis	2016	-0.18725039105709035	-18.546804308519768	3462458
+3464657	ML	a bci motor imagery experiment based on parametric feature extraction and fisher criterion	2012	0.07210499257185775	-18.770007755540878	3464684
+3465174	Visualization	a modified common spatial pattern algorithm customized for feature dimensionality reduction in fnirs-based bcis	2018	-0.18205870406726712	-18.473797493865682	3465201
+3466114	ML	odorant recognition using biological responses recorded in olfactory bulb of rats	2015	0.06929649591789185	-18.69095874618007	3466141
+3466234	Visualization	on sound-based interpretation of neonatal eeg	2018	-0.319280163657989	-19.076446065164518	3466261
+3466614	AI	automated dynamic electrocardiogram noise reduction using multilayer lstm network	2018	0.04410655429506756	-18.925834296622913	3466641
+3466693	ML	statistical spectral feature extraction for classification of epileptic eeg signals	2010	0.2284787968249305	-19.178091496098805	3466720
+3466726	Robotics	motor imagery task classification using transformation based features	2017	-0.11828425563768293	-18.77222046905537	3466753
+3468493	Visualization	automatic detection of st-t complex changes on the ecg using filtered rms difference series: application to ambulatory ischemia monitoring	2000	-0.1697181998384115	-19.045897324443704	3468520
+3469812	AI	machine learning techniques for brain signal analysis with applications on seizure detection and brain-computer interfaces	2016	0.4577267136083546	-18.536661789601	3469839
+3469903	ML	novel and efficient algorithms for early detection of myocardial ischemia	2017	0.4737716244596978	-19.28758004667654	3469930
+3470820	Robotics	eeg ‘diarization’ for the description of neonatal brain injuries	2014	0.4586887814369286	-19.191058566899763	3470847
+3472206	HCI	frequency and time domain analysis of foetal heart rate variability with traditional indexes: a critical survey	2016	-0.4601080418686646	-19.181349201867768	3472233
+3473647	Robotics	hilbert-huang transform and neural networks for electrocardiogram modeling and prediction	2014	0.07022891057239651	-18.99737449524128	3473674
+3474856	ML	single trial discrimination between right and left hand movement-related eeg activity	2004	-0.4017479555327909	-18.73820192166527	3474883
+3475453	Robotics	r-wave detection: a comparative analysis of four methods using newborn piglet ecg	2010	-0.31315394904214994	-19.056312954622978	3475480
+3478080	HPC	abnormal heart sounds detection based on the scaled time-frequency representation and feature selection	2016	0.4765170349842864	-19.138237915295655	3478107
+3480149	NLP	modified multiscale entropy in hrv for automatic selection of threshold value r	2012	-0.12779629855902866	-18.95994595482532	3480176
+3480827	ML	weighted time warping for temporal segmentation of multi-parameter physiological signals	2011	-0.4489925523658681	-18.782602811307715	3480854
+3481934	Vision	objective investigation of vision impairments using single trial pattern reversal visually evoked potentials	2013	0.10804471295769157	-18.891818426458038	3481961
+3482023	Arch	towards the development of an automated blood vessel classification system	2016	0.21437542217005146	-19.163441303875942	3482050
+3483912	Visualization	a two-stage discrimination of cardiac arrhythmias using a total least squares-based prony modeling algorithm	2000	-0.3049426453829004	-19.1838539961278	3483939
+3484299	SE	detection of breathing segments in respiratory signals	2012	0.477384632838438	-18.71018372105853	3484326
+3484681	Vision	quantifying abnormal qrs peaks using a novel time-domain peak detection algorithm: application in patients with cardiomyopathy at risk of sudden death	2015	0.03760221009299793	-19.00998487726845	3484708
+3485322	Robotics	automatic localization of epileptic seizures as a symptom of brain tumor	2015	-0.0862958493439549	-19.00805955706429	3485349
+3486237	ML	noninvasive diagnosis of coronary artery disease using a neural network algorithm	1992	0.07092811877753602	-19.075648397243622	3486264
+3486647	DB	the ann-based computing of drowsy level	2009	0.2861969992449817	-18.997292451663398	3486674
+3488011	ML	discriminant analysis of multivariate time series: application to diagnosis based on ecg signals	2014	0.1255873238683589	-19.204782462276615	3488038
+3488824	ML	classification of auditory selective attention using spatial coherence and modular attention index	2018	0.09833038038312993	-18.43920998076705	3488851
+3490484	ML	using phase space reconstruction for patient independent heartbeat classification in comparison with some benchmark methods	2011	0.499639747862302	-19.143941227135368	3490511
+3490646	Robotics	detecting problem behavior in children from biological signals: validation through chaos analysis	2006	0.0933515347364536	-18.699122252370017	3490673
+3491497	Visualization	utility of approximate entropy from overnight pulse oximetry data in the diagnosis of the obstructive sleep apnea syndrome	2007	0.2888079732485577	-19.185462703482507	3491524
+3491819	AI	recognizing affective state patterns using regularized learning with nonlinear dynamical features of eeg	2018	0.4151215765254189	-18.552819476293486	3491846
+3492134	AI	predicting termination of paroxysmal atrial fibrillation using empirical mode decomposition of the atrial activity and statistical features of the heart rate variability	2014	0.15561931106305155	-19.28669467904721	3492161
+3493050	Robotics	analysis of human status by chaos in six voices	2010	-0.4225219697164305	-18.877140710619866	3493077
+3493956	SE	simple and objective screening of major depressive disorder by heart rate variability analysis during paced respiration and mental task conditions	2017	-0.09953893825136534	-18.9474365912078	3493983
+3494667	EDA	filter bank common spatial patterns in mental workload estimation	2015	-0.1151470402020808	-18.48345654264449	3494694
+3495037	ML	mixed-band wavelet-chaos-neural network methodology for epilepsy and epileptic seizure detection	2007	0.11854664771125566	-19.200593061451148	3495064
+3495557	Vision	acoustic thoracic image of crackle sounds using linear and nonlinear processing techniques	2010	-0.31597341425619024	-19.016196577232652	3495584
+3496094	Robotics	individual identification with high frequency ecg : preprocessing and classification by neural network	2011	0.2912184661582539	-18.491968611461697	3496121
+3497220	Vision	visualisation of long-term ecg signals applied to post-intensive care patients	2018	-0.31883074930047345	-19.116392165839287	3497247
+3497664	ML	automatic detection of single slow eye movements and analysis of their changes at sleep onset	2013	0.16653659812773075	-19.110356286240695	3497691
+3498031	Robotics	evaluation of respiratory properties by means of fractional order models	2017	0.4512006246454061	-19.144786472080305	3498058
+3499255	ML	relation of fetal heart rate signals with unassignable baseline to poor neonatal state at birth	2012	0.2813352190244037	-19.225659680721453	3499282
+3499338	ML	classification of eeg signals based on ar model and approximate entropy	2015	0.2583470356276077	-18.762934211848226	3499365
+3499623	ML	combined optimization of spatial and temporal filters for improving brain-computer interfacing	2006	-0.3308001835341559	-18.56433781817569	3499650
+3499792	Web+IR	novel method to discriminate awaking and sleep status in light of the power spectral density	2010	0.2290495777256005	-18.845792631507486	3499819
+3500084	Robotics	classification of schizophrenia's eeg based on high order pattern discovery	2010	0.16384345645738438	-19.144218416212045	3500111
+3500967	AI	paroxysmal atrial fibrillation prediction using kalman filter	2011	0.25469141539709284	-19.081279699530125	3500994
+3501153	NLP	multichannel decoding for phase-coded ssvep brain-computer interface	2012	-0.3262570275426651	-18.51268035222018	3501180
+3501869	AI	epileptic seizure detection from ecog signals acquired with experimental epilepsy	2013	0.4313745448185932	-19.18216720099413	3501896
+3502767	ML	cardiac disease classification using heart rate signals	2009	0.4803605778317342	-19.23393512972497	3502794
+3503460	Vision	affective pattern analysis of image in frequency domain using the hilbert-huang transform	2012	0.4294043310027576	-18.578571907985467	3503487
+3503653	NLP	robust wavelet stabilized footprints of uncertainty for fuzzy system classifiers to automatically detect sharp waves in the eeg after hypoxia ischemia	2017	0.03539251737707886	-19.238483503380987	3503680
+3504132	ML	neural network classification of late gamma band electroencephalogram features	2006	0.10531526496142067	-18.737514861059477	3504159
+3504373	NLP	de-noising and baseline wandering removal of electrocardiogram using double density discrete wavelet	2007	-0.3094986734657032	-18.921268067881694	3504400
+3504851	Embedded	detection of respiration in central venous pressure using state machine	2013	-0.01801455262646684	-18.684849096516288	3504878
+3506450	AI	automatic ecg wave extraction in long-term recordings using gaussian mesa function models and nonlinear probability estimators	2007	0.14189417568251575	-19.19574365637944	3506477
+3508621	Visualization	a comparison of common spatial patterns with complex band power features in a four-class bci experiment	2006	-0.025576945406996832	-18.518611673568167	3508648
+3508717	AI	detection of electrocardiogram signals using an efficient method	2014	0.11722445897470928	-19.282437785128554	3508744
+3509077	HPC	emd based power spectral pattern analysis for quasi-brain-death eeg	2009	-0.437353250766545	-19.240346156117386	3509104
+3510701	AI	sequential total variation denoising for the extraction of fetal ecg from single-channel maternal abdominal ecg	2016	-0.1345454114737907	-18.697351532771734	3510728
+3512181	Vision	sparse approximation of long-term biomedical signals for classification via dynamic pca	2011	0.04520797115990578	-19.07835307613966	3512208
+3512891	AI	identification of the normal and abnormal heart sounds based on energy features and neural network	2017	0.1975247890351168	-19.061708057879766	3512918
+3513208	ML	complexity analysis of neonatal eeg using multiscale entropy: applications in brain maturation and sleep stage classification	2017	-0.26824088703855964	-19.332069150734466	3513235
+3514503	Vision	emotion recognition using neighborhood components analysis and ecg/hrv-based features	2017	0.4952745274373397	-19.091508930235115	3514530
+3515210	NLP	development and comparison of four sleep spindle detection methods	2007	0.02247058124399801	-19.20217068393902	3515237
+3515988	Robotics	temporal prediction of respiratory motion using a trained ensemble of forecasting methods	2016	-0.3401525158362512	-19.068663214527486	3516015
+3521050	ML	decoding eeg in cognitive tasks with time-frequency and connectivity masks	2016	-0.4510837835065656	-18.705410106749824	3521077
+3526468	EDA	an efficient automated technique for epilepsy seizure detection using eeg signals	2017	0.1282511530667804	-19.21889181775402	3526495
+3527505	ML	system classification by using discriminant functions of time-frequency features	2006	0.13914152361880386	-18.881434927264227	3527532
+3527512	Security	comparison between scalp eeg and behind-the-ear eeg for development of a wearable seizure detection system for patients with focal epilepsy	2017	-0.009690315514190664	-18.712905014709985	3527539
+3527538	ML	on the use of t-distributed stochastic neighbor embedding for data visualization and classification of individuals with parkinson's disease	2018	0.4352172358566202	-18.84922802073045	3527565
+3528072	HCI	towards an improved on-linme algorithm to estimate the fetal heart rate from ultrasound data	2003	0.1519992294289386	-18.52336064749393	3528099
+3528865	Web+IR	analysis and classification of sleep stages based on difference visibility graphs from a single-channel eeg signal	2014	0.05360968612003562	-19.36864468030369	3528892
+3529331	ML	a bayesian change point model for epileptic seizure detection	2017	-0.4018625857687824	-19.212909928063052	3529358
+3531748	Visualization	running wavelet archetype aids the determination of heart rate from the video photoplethysmogram during motion	2017	-0.1420550820651476	-18.45243935561548	3531775
+3532715	AI	pyeeg: an open source python module for eeg/meg feature extraction	2011	0.2307287421667339	-18.605446031776644	3532742
+3534702	Vision	using renyi entropy to detect early cardiac autonomic neuropathy	2013	-0.21458318882390806	-19.36365930758811	3534729
+3534899	ML	relationship between quantitative t-wave alternans estimates and parameters describing clinical status of patient in accute phase of myocardial infarction and outcome results	2012	-0.3818830484118471	-19.295632477125817	3534926
+3536539	AI	a motion-tolerant approach for monitoring spo2 and heart rate using photoplethysmography signal with dual frame length processing and multi-classifier fusion	2017	-0.20331621194678975	-18.650395597832205	3536566
+3537596	ML	motor imagery eeg classification based on multi-scale time windows	2017	0.16882443082685913	-18.489766444585072	3537623
+3538400	Robotics	improvement of human identification accuracy by wavelet of peak-aligned ecg	2015	0.04995458297774276	-18.540676514973136	3538427
+3540169	HCI	noninvasive seizure prediction using autonomic measurements in patients with refractory epilepsy	2018	-0.1225390689263244	-19.206529059262365	3540196
+3540688	ML	phase synchrony rate for the recognition of motor imagery in brain-computer interface	2005	-0.23659900704619824	-18.74876626468661	3540715
+3540689	HCI	analysis and automatic identification of sleep stages using higher order spectra	2010	0.06548035075103588	-19.182189591669854	3540716
+3540968	Visualization	comparison of entropy-based regularity estimators: application to the fetal heart rate signal for the identification of fetal distress	2006	-0.3925842366210893	-19.28376379684087	3540995
+3541328	Visualization	biometric identification of cardiosynchronous waveforms utilizing person specific continuous and discrete wavelet transform features	2012	0.22955658843360274	-18.73733253313646	3541355
+3544034	Mobile	statistical investigation of heart rate variable derived from photoplethysmography signal in sleep staging process	2017	0.4659022252754356	-18.660645178583195	3544061
+3544580	Vision	removing piston-driven mechanical chest compression artefacts from the ecg	2017	-0.07338910967742444	-18.451783043453922	3544607
+3544900	ML	unsupervised analysis of event-related potentials (erps) during an emotional go/nogo task	2016	0.17157850087749615	-18.75203900155581	3544927
+3547268	Graphics	an assessment procedure involving waveform shapes for pupil light reflex	2010	-0.24052801040119046	-19.31292298303415	3547295
+3547362	Arch	time- frequency based renyi entropy of heart rate variability for newborn seizure detection	2007	-0.17329596365228614	-19.16896467818868	3547389
+3547787	AI	transcranial magnetic stimulation (tms) to evaluate and classify mental diseases using neural networks	2005	0.18530050500659084	-19.09868474229168	3547814
+3548729	ML	automatic classification of sleep stages based on the time-frequency image of eeg signals	2013	0.2653380528573981	-19.180997290344934	3548756
+3549077	HPC	trend-extracted mse based on adaptive aligned eemd with early termination scheme: analysis of the acute stroke patients' physiological signals	2014	0.004148446215945339	-19.246346900410664	3549104
+3553518	NLP	a method for automated j wave detection and characterisation based on feature extraction	2015	0.35125918867452305	-19.29080340257733	3553545
+3553960	Vision	stochastic relevance analysis of epileptic eeg signals for channel selection and classification	2013	0.0957093826551522	-19.17969966531141	3553987
+3554695	ML	pattern recognition for brain-computer interface on disabled subjects using a wavelet transformation	2008	-0.3984959175974855	-19.193311078961074	3554722
+3555150	EDA	chaos based nonlinear analysis of epileptic seizure	2010	0.1788428770739758	-19.244514309394795	3555177
+3555974	ML	nonlinear energy operators for defibrillation shock outcome prediction	2016	-0.060862489829125274	-19.305119313707674	3556001
+3557341	HCI	circadian period of human blood pressure and heart rate in clinical health under ordinary conditions	1989	0.052797325342852544	-18.9633788071748	3557368
+3558383	ML	discrimination between ischemic and heart-rate related st-episodes - non-linear classification for an online capable approach	2010	0.3869457576991583	-19.149679120202922	3558410
+3558782	AI	a channel selection method for eeg classification in emotion assessment based on synchronization likelihood	2007	0.31929719950426244	-18.629611774715364	3558809
+3559159	ML	extracting nonlinear correlation for the classification of single-trial eeg in a finger movement task	2014	-0.4208805552014757	-18.57209234440024	3559186
+3559368	EDA	analysis of fatigue conditions in biceps brachii muscles using surface electromyography signals and strip spectral correlation	2014	-0.4548951769442451	-18.761143677556184	3559395
+3560007	AI	time-frequency based feature extraction for the analysis of vibroarthographic signals	2018	0.36421355528065946	-19.287783106448966	3560034
+3562161	AI	detection of epileptic indicators on clinical subbands of eeg	2008	-0.31827199825471564	-19.220952309017747	3562188
+3566362	ML	impact of target probability on single-trial eeg target detection in a difficult rapid serial visual presentation task	2011	-0.2999139457137125	-18.934357783388233	3566389
+3567352	ML	classification of ecg recordings with neural networks based on specific morphological features and regularity of the signal	2017	0.4345340517133444	-19.175296632131666	3567379
+3568330	ML	power spectrum analysis of eeg for watching 2d & 3d videos and resting state	2018	-0.2658058451640421	-18.619362671333	3568357
+3571353	Embedded	novel real-time fpga-based r-wave detection using lifting wavelet	2016	0.20827730646618836	-18.53169402881855	3571380
+3571650	ML	a novel feature level fusion for heart rate variability classification using correntropy and cauchy-schwarz divergence	2018	0.4769856467563498	-18.93276154904954	3571677
+3573129	ML	measurement of speech signal patterns under borderline mental disorders	2017	-0.3535046677714526	-19.291897061660805	3573156
+3574532	Comp.	a morphology alignment method for resampled heartbeat signals	2013	0.2773927956735641	-19.26866504241086	3574559
+3575246	ML	relevant feature selection from a combination of spectral-temporal and spatial features for classification of motor imagery eeg	2018	-0.20164309518824866	-18.53216219699699	3575273
+3576580	AI	a cauchy-based state-space model for seizure detection in eeg monitoring systems	2015	-0.4449691865705804	-18.941526094348504	3576607
+3578813	Robotics	enhanced classical dysphonia measures and sparse regression for telemonitoring of parkinson's disease progression	2010	0.08844024521930204	-19.239832507315167	3578840
+3579657	Robotics	adaptive neuro-fuzzy classifier for ‘petit mal’ epilepsy detection using mean teager energy	2013	0.3924148575542104	-19.130068804562594	3579684
+3579853	Vision	support vector machine for cardiac beat detection in single lead electrocardiogram	2007	0.16335591299157678	-19.096060512701246	3579880
+3579983	ML	support vector channel selection in bci	2004	0.03769532842738108	-18.49750534048016	3580010
+3580561	ML	linear methods for reducing emg contamination in peripheral nerve motor decodes	2016	-0.028717484316734307	-18.487360047225064	3580588
+3581400	ML	classification of event-related potentials in individuals at risk for alcoholism using wavelet transform and artificial neural network	2004	0.25017671393686514	-19.128480523523177	3581427
+3581502	Metrics	subject and class specific frequency bands selection for multiclass motor imagery classification	2011	0.14323014263319925	-18.57342369785171	3581529
+3583008	AI	identification of discriminative features in the eeg	2004	0.23623177488734615	-18.883576705972782	3583035
+3583892	ML	classification of bipolar disorder and schizophrenia using steady-state visual evoked potential based features	2018	-0.028179840504327137	-19.3211437711879	3583919
+3584924	Vision	frequency recognition based on wavelet-independent component analysis for ssvep-based bcis	2015	-0.3279322921338714	-18.59758412509402	3584951
+3584969	Robotics	a novel method to model ecg beats using gaussian functions	2011	-0.16091947221506206	-18.84683659991198	3584996
+3586820	Visualization	a performance-based approach to designing the stimulus presentation paradigm for the p300-based bci by exploiting coding theory	2017	0.4659286692214811	-18.583024725818767	3586847
+3588304	Robotics	robust detection of epileptic seizures using deep neural networks	2018	-0.11733278228708327	-18.945617464109148	3588331
+3588470	ML	recognition of early phase of atherosclerosis using principles component analysis and artificial neural networks from carotid artery doppler signals	2006	0.4489988607655573	-19.294678408082174	3588497
+3592323	Visualization	seizure prediction in intracranial eeg: a patient-specific rule-based approach	2011	0.4146713128371398	-19.240854306938225	3592350
+3592501	Vision	spectral and nonlinear analyses of meg background activity in patients with alzheimer's disease	2008	-0.2277707461943673	-19.37807885613401	3592528
+3594322	Vision	atrial fibrillation classification with artificial neural networks	2007	0.4230957475959624	-19.21918899483985	3594349
+3595442	SE	temporal and spectral analysis of internal carotid artery doppler signal for normal and abnormal flow detection	2015	0.30167320475078563	-19.18090827693732	3595469
+3595638	ML	wavelet sample entropy optimization through optimal mother function selection for atrial fibrillation analysis	2010	-0.1610350156037594	-19.300428373211453	3595665
+3595725	EDA	low-complexity intrauterine pressure monitoring by teager energy estimation	2013	-0.01154116195923569	-18.72713678788297	3595752
+3597884	Visualization	assessment of sleep quality by electrocardiogram: usefulness for risk stratification among hemodialysis patients with end-stage renal disease	2018	0.13785457478237065	-18.993475564337185	3597911
+3599238	ML	visual data mining with self-organising maps for ventricular fibrillation analysis	2013	0.2221857665990141	-19.17980667522334	3599265
+3599245	ML	arrhythmia heart beats classification using mahalanobis generalized learning vector quantization (mahalanobis glvq)	2011	0.4891546096044872	-19.193571972997265	3599272
+3601883	ML	classifying human emotional states using wireless eeg based erp and functional connectivity measures	2016	0.13074594411541254	-18.492738626384657	3601910
+3602818	ML	rapid annotation of seizures and interictal-ictal continuum eeg patterns	2018	0.4416686049117976	-19.245219134503863	3602845
+3609280	Robotics	fetal heart rate detection using vpw-fri	2014	-0.2620449316770872	-18.72687116871812	3609307
+3609762	AI	automated characterization and classification of coronary artery disease and myocardial infarction by decomposition of ecg signals: a comparative study	2017	0.21722349270785588	-18.9423734250333	3609789
+3610121	SE	hemodynamic characteristics for improvement of eeg-bci performance	2013	-0.10392901900816234	-18.456678834132703	3610148
+3610247	ML	identification of anisomerous motor imagery eeg signals based on complex algorithms	2017	-0.034008341036920006	-18.570383539642123	3610274
+3610362	Robotics	ecg beats classification based on ensemble feature composed of independent components and qrs complex width	2008	0.4441982577037341	-19.219367560861137	3610389
+3611189	Security	identification of heroin addict pulse signals using multiwavelet transform	2017	0.24849043123975145	-19.166695930267267	3611216
+3611194	ML	a simple algorithm for ventilation detection in the capnography signal during cardiopulmonary resuscitation	2017	0.33471902573566603	-18.94003994868013	3611221
+3612878	ML	qrs complexes detection for ecg signal: the difference operation method	2008	-0.2543201688080717	-18.94022693185729	3612905
+3613418	EDA	process control operator eeg feature extraction based on empirical mode decomposition and spectral analysis	2013	-0.30341446018756824	-18.75399696663472	3613445
+3613557	Arch	application of savitzky-golay digital differentiator for qrs complex detection in an electrocardiographic monitoring system	2017	-0.3167415790297093	-18.82083001765905	3613584
+3615309	Visualization	detection of circaseptan rhythm and the “monday effect” from long-term pulse rate dynamics	2011	-0.32901091276972005	-19.082244116006336	3615336
+3615979	Visualization	a classification scheme for ventricular arrhythmias using wavelets analysis	2012	0.21921287065211773	-19.177546634774686	3616006
+3617503	AI	deep gaussian mixture-hidden markov model for classification of eeg signals	2018	-0.196171203888743	-18.68245932752282	3617530
+3619719	Visualization	three-dimensional brain–computer interface control through simultaneous overt spatial attentional and motor imagery tasks	2018	-0.3225458754874801	-18.87569532069028	3619746
+3619798	EDA	detecting parkinson's diseases via the characteristics of the intrinsic mode functions of filtered electromyograms	2015	0.06218253385749445	-19.06627097930489	3619825
+3621036	ML	single-trial classification of event-related potentials in rapid serial visual presentation tasks using supervised spatial filtering	2014	-0.22663224708782306	-18.51743055057113	3621063
+3621674	ML	a new method for ecg signal feature extraction	2010	-0.17865972115086767	-18.785456523667982	3621701
+3624428	Vision	ventricular intramyocardial electrograms and their expected potential for cardiac risk surveillance, telemonitoring, and therapy management	2009	-0.3750735350053851	-18.61754207204364	3624455
+3624692	Arch	comparison of algorithms for detection of high frequency oscillations in intracranial eeg	2014	-0.4557217390898872	-19.285348599295734	3624719
+3624787	HCI	recognition of heartbeats using support vector machine networks: a comparative study	2005	0.4678912967298111	-19.013600132541093	3624814
+3626418	ML	automatic classification of plant electrophysiological responses to environmental stimuli using machine learning and interval arithmetic	2018	-0.07778177621786546	-18.961885846838133	3626445
+3627106	Metrics	time-frequency analysis of normal and abnormal biological signals	2006	-0.19876258209024425	-19.115292413537773	3627133
+3627386	AI	classification of eeg signals for epileptic seizures using hybrid artificial neural networks based wavelet transforms and fuzzy relations	2017	0.4306321793287599	-19.21657922947923	3627413
+3627493	EDA	towards closed-loop deep brain stimulation: decision tree-based essential tremor patient's state classifier and tremor reappearance predictor	2014	0.18715856260563796	-18.537066096647614	3627520
+3627621	HCI	spontaneous lie detection using functional near-infrared spectroscopy in an interactive game	2015	0.4615545245615206	-18.812455257519282	3627648
+3627851	HCI	on time domain analysis of photoplethysmogram signals for monitoring heat stress	2015	0.32150454349738994	-18.52040286433317	3627878
+3629388	Vision	objective detection of brainstem auditory evoked potentials with a priori information from higher presentation levels	2002	0.07029987605507637	-18.88862650323572	3629415
+3629607	ML	comments on parametric and non-parametric detection of epileptiform spike activity	1984	0.010040004600490648	-18.774209809777812	3629634
+3631132	HCI	pulse rate variability in children with disordered breathing during different sleep stages	2013	-0.3443161102020794	-18.711451074380935	3631159
+3631176	NLP	online and offline determination of qt and pr interval and qrs duration in electrocardiography	2012	0.3203851159843981	-18.746024506366936	3631203
+3631729	Vision	hidden markov models compared to the wavelet transform for p-wave segmentation in egc signals	1998	0.10343423448920176	-19.04068894046256	3631756
+3633227	Robotics	staging of awake and sleep based on feature map	1995	0.17305753871396307	-18.841021704575862	3633254
+3634171	EDA	automatic detection of atrial fibrillation and flutter - a tachogram-based algorithm for mobile devices	2009	0.4171689364739093	-18.679050408980853	3634198
+3634194	ML	application of stationary wavelet entropy in pathological brain detection	2016	0.0017095957198654595	-19.38159838404081	3634221
+3635123	Visualization	epileptic seizure prediction using zero-crossings analysis of eeg wavelet detail coefficients	2016	0.2978181845904512	-19.068340375754612	3635150
+3635646	SE	feature extraction for bcis based on electromagnetic source localization and multiclass filter bank common spatial patterns	2015	-0.41756026617143815	-18.80737173516902	3635673
+3636166	Robotics	adaptive abnormality detection on ecg signal by utilizing flac features	2011	-0.00826664055069392	-19.06350016410119	3636193
+3636252	Vision	analysis of phonocardiogram signals through proactive denoising using novel self-discriminant learner	2017	0.4112932599976454	-18.76581557800286	3636279
+3638331	ML	an automated approach for epilepsy detection based on tunable q-wavelet and firefly feature selection algorithm	2018	0.3107853181269644	-19.27287339697664	3638358
+3638910	SE	measurement of duration, energy of instantaneous frequencies, and splits of subcomponents of the second heart sound	2015	0.0170005898406916	-19.128274826985933	3638937
+3643793	ML	automatic detection of epileptic seizures in long-term eeg records	2015	0.3987119912725832	-19.04582729757555	3643820
+3647209	HCI	on the stimulus duty cycle in steady state visual evoked potential	2014	0.13024608577175328	-18.53816352011865	3647236
+3647363	Visualization	a novel frequency band selection method for common spatial pattern in motor imagery based brain computer interface	2010	-0.1883162099904579	-18.49052492060399	3647390
+3647762	ML	discrete wavelet transform based seizure detection in newborns eeg signals	2003	0.2201076033115835	-19.18128507814008	3647789
+3648084	Vision	pvc discrimination using the qrs power spectrum and self-organizing maps	2009	0.10117517555852178	-19.22746301279289	3648111
+3648686	ML	development of entropy based algorithm for cardiac beat detection in 12-lead electrocardiogram	2007	0.11345173892910647	-19.063886084946933	3648713
+3649762	Robotics	automatic frequency bands segmentation using statistical similarity for power spectrum density based brain computer interfaces	2006	-0.2282761128462341	-18.761651538027454	3649789
+3649929	Vision	supporting gastroesophageal reflux disease diagnostics by using wavelet analysis in esophageal ph-metry	2018	0.3744102316692005	-18.74913947032919	3649956
+3650279	ML	classification of inter-ictal and ictal eegs using multi-basis modwpt, dimensionality reduction algorithms and ls-svm: a comparative study	2019	-0.03863958415113184	-18.60047545104098	3650306
+3650747	ML	people identification with rms-based spatial pattern of eeg signal	2012	-0.39103692826826014	-18.74506978641498	3650774
+3650864	ML	detecting hypovolemia in postoperative patients using a discrete fourier transform	2015	0.1478768483300667	-18.921561110427753	3650891
+3650910	ML	calibration-less detection of steady-state visual evoked potentials-comparisons and combinations of methods	2014	-0.2157708239363535	-18.795600328885605	3650937
+3651206	Visualization	a stroke severity monitoring system based on quantitative modified multiscale entropy	2014	-0.020933388260150856	-19.23666986287497	3651233
+3652898	Robotics	neural network modeling of ambulatory systolic blood pressure for hypertension diagnosis	2003	0.01932369710203186	-18.738676511741353	3652925
+3654389	Visualization	classification in emotional bci using phase information from the eeg	2016	-0.4282988556938554	-19.046691606964878	3654416
+3654687	DB	similarity measurement study for bio-signal waveform based on tunnel morph	2010	0.03766671819471777	-18.560870320092565	3654714
+3655592	Robotics	application and contrast in brain-computer interface between hilbert-huang transform and wavelet transform	2008	-0.3874907843050192	-18.755031019721496	3655619
+3656665	NLP	computerized wrist pulse signal diagnosis using kpca	2010	0.2389070741779192	-18.618043977547355	3656692
+3657004	NLP	neural network classification of word evoked neuromagnetic brain activity	2001	0.43482785869021934	-19.242738381631	3657031
+3657763	Visualization	multiclass steady-state visual evoked potential frequency evaluation using chirp-modulated stimuli	2016	-0.21614374933674985	-18.62512987798736	3657790
+3659341	ML	compact convolutional neural networks for classification of asynchronous steady-state visual evoked potentials	2018	-0.4438799493916952	-18.553314821930087	3659368
+3661531	ML	comparison of fractal dimension estimation algorithms for epileptic seizure onset detection	2008	0.38874813386432655	-19.13923053308772	3661558
+3661875	Logic	clinical value of cardiac i-123 metaiodobenzylguanidine scintigraphy between parkinson's disease and parkinson's disease associated dementia	2012	-0.33719188668858324	-19.210799921143426	3661902
+3662358	ML	motor imagery classification for bci using common spatial patterns and feature relevance analysis	2013	-0.19898607415894726	-18.631854275257805	3662385
+3662424	ML	a journal of real peak recognition of electrocardiogram (ecg) signals using neural network	2012	0.4682031972351935	-19.18271176172617	3662451
+3664745	Visualization	three-dimensional segmented poincare plot analysis — a new approach of cardiovascular and cardiorespiratory regulation analysis	2014	-0.37411750193178006	-19.32845501896632	3664772
+3667357	ML	design of spiking neural networks for blood pressure prediction during general anesthesia: considerations for optimizing results	2017	0.4892561062310495	-19.04555805010408	3667384
+3667464	SE	classification of doppler ultrasound signal quality for the application of fetal valve motion identification	2015	0.4397995413993043	-18.946398256558172	3667491
+3669886	Robotics	analysis of progression of fatigue conditions in biceps brachii muscles using surface electromyography signals and complexity based features	2014	-0.4072132673960291	-18.941013888684644	3669913
+3670692	Vision	p300 speller efficiency with common average reference	2012	-0.24034010807218106	-18.622248288545368	3670719
+3671241	HCI	real-time classification of exercise exertion levels using discriminant analysis of hrv data.	2015	0.22111299361577416	-18.85772527086068	3671268
+3671476	SE	an improved approach to the classification of seven common tcm pulse conditions	2011	0.4769977930984933	-18.979020214041427	3671503
+3671740	ML	a wavelet optimization approach for ecg signal classification	2012	0.4879988624990841	-19.05669940809099	3671767
+3673760	SE	respiratory sounds classification using statistical biomarker	2017	0.3840085086903568	-19.265257534238998	3673787
+3674079	HCI	detection of epileptiform activities in the eeg using neural network and expert system	1998	0.17510637220306832	-19.13702071827217	3674106
+3675378	Robotics	extracting the r-wave position from an fecg record using recognition of multi-channel shapes	2013	0.29169299722262154	-18.477644196565286	3675405
+3675459	ML	epileptic eeg signal classification using optimum allocation based power spectral density estimation	2018	0.4661162710317738	-18.830526626254002	3675486
+3676066	SE	changes in inhaler inhalation acoustic features during induced bronchoconstriction: a pilot study	2016	0.09562278536629233	-18.64500267383107	3676093
+3677160	Vision	automatic detection of the wake and stage 1 sleep stages using the eeg sub-epoch approach	2013	-0.09739280193680107	-19.04558256295979	3677187
+3678927	HCI	multiscale wavelet method for heart abnormality detection within iots environment	2018	0.2869859415477478	-18.7645802891535	3678954
+3685771	Embedded	development of adaptive qrs detection rules based on center differentiation method for clinical application	2012	0.2946156808468802	-19.060443117733133	3685798
+3688471	Visualization	sleep stage classification with cross frequency coupling	2014	0.0666817709793564	-18.578170046468927	3688498
+3688664	Robotics	localization of epileptic foci based on scalp eeg and approximate entropy	2013	-0.4556232383270807	-19.26207437867113	3688691
+3690608	ML	classification of motor imagery electroencephalography signals using spiking neurons with different input encoding strategies	2016	-0.035418202295114866	-18.462865812453963	3690635
+3690797	HPC	spectral eeg featuresfor evaluating cognitive load	2011	-0.02507543758677902	-18.99671504395139	3690824
+3691977	AI	enhancing eeg signals recognition using roc curve	2018	0.3690907401386129	-18.48975761753784	3692004
+3692972	ML	better pregnancy monitoring using nonlinear correlation analysis of external uterine electromyography	2013	0.2534709540884029	-18.908192759644784	3692999
+3696093	Robotics	an adaptive approach for heartbeat detection based on s-transform in seismocardiograms	2016	-0.4292908347828781	-18.915012148829472	3696120
+3696301	ML	assessing physiologic data representations for anesthesia record-keeping	2002	-0.24861156183438304	-19.135346978521053	3696328
+3696446	ML	a novel feature extractor based on wavelet and kernel pca for spike sorting neural signals	2014	-0.15840831539208522	-19.21862768714644	3696473
+3696882	DB	evaluation of the accuracy and noise response of an open-source pulse onset detection algorithm on pulsatile waveform databases	2016	-0.3778926911789863	-18.81404952313368	3696909
+3697782	ML	enhanced performance by a hybrid nirs–eeg brain computer interface	2012	-0.30454077134934343	-18.62135712726452	3697809
+3699674	ML	data mining process for identification of non-spontaneous saccadic movements in clinical electrooculography	2017	0.2928552069514683	-18.708373031814965	3699701
+3701736	EDA	parametric modeling of electrocardiograms using particle swarm optimization	2018	-0.31033875397002314	-19.043435628485184	3701763
+3701929	ML	test-retest reliability and feature selection in physiological time series classification	2012	0.4876235922199992	-18.660744999798933	3701956
+3702008	ML	feature-level fusion of mental task’s brain signal for an efficient identification system	2015	-0.002948463308159626	-18.57203765550961	3702035
+3702049	HCI	heart rate variability biofeedback treatment for post-stroke depression patients: a pilot study	2015	-0.2830304943370772	-18.48171282865746	3702076
+3702849	ML	overcomplete discrete wavelet transform based respiratory sound discrimination with feature and decision level fusion	2017	0.4921520245285363	-19.35533774762828	3702876
+3705184	AI	automatic recognition of arrhythmia based on principal component analysis network and linear support vector machine	2018	0.4467828850603329	-19.08680244784402	3705211
+3705324	Robotics	feature selection study of p300 speller using support vector machine	2010	0.06375286162586187	-18.47735654443021	3705351
+3705683	EDA	computationally efficient qrs detection analysis based on dual-slope method	2014	-0.2945122845363493	-18.481455160354887	3705710
+3705708	ML	detection of pvc in ecg signals using fractional linear prediction	2016	0.006521820237785975	-19.246499275452734	3705735
+3705791	EDA	novel technique for estimating quiet breath rate and strength	2018	-0.1487157085382517	-18.966546653664672	3705818
+3706747	Robotics	mechanical ventilation system monitoring: automatic detection of dynamic hyperinflation and asynchrony	2013	-0.09378037369242917	-18.92415399297487	3706774
+3707116	Robotics	signal quality assessment of f-waves in atrial fibrillation	2017	-0.12184977008904345	-18.57828528598442	3707143
+3707197	Visualization	detecting fetal heart sounds by means of fractal dimension analysis in the wavelet domain	2017	-0.03856914632455016	-18.8927131395723	3707224
+3709695	Mobile	wavelet based method for congestive heart failure recognition by three confirmation functions	2016	0.3789850182799885	-19.187307627357708	3709722
+3711338	ML	classification of eeg signals under different brain functional states using rbf neural network	2004	0.33506218696136275	-18.613511713155347	3711365
+3711901	HCI	signal analysis of out-of-hospital cardiac arrest electrocardiograms for decision support during cardiopulmonary resuscitation	2000	-0.004889545059438442	-18.91496940811437	3711928
+3712230	HCI	robust heart rate estimation from noisy phonocardiograms	2014	0.34708220535344336	-18.85072494427281	3712257
+3712246	ML	a hybrid approach for artifact detection in eeg data	2010	0.3628941123366585	-18.62410522764525	3712273
+3712960	ML	multi-task learning for subthalamic nucleus identification in deep brain stimulation	2018	-0.1814828256558386	-19.303950653683643	3712987
+3713783	EDA	ischemic stroke detection system with computer aided diagnostic capability	2018	-0.103835944334554	-18.98339994271436	3713810
+3714744	ML	discrimination of epileptic events using eeg rhythm decomposition	2011	-0.3535277787598613	-19.27418164281134	3714771
+3715011	ML	fuzzy entropy analysis of the electroencephalogram in patients with alzheimer's disease: is the method superior to sample entropy?	2018	-0.19717910453613327	-19.352149350114352	3715038
+3715127	ML	towards brain big data classification: epileptic eeg identification with a lightweight vggnet on global mic	2018	-0.07600370257684091	-19.19701440809438	3715154
+3715752	DB	person identification in irregular cardiac conditions using electrocardiogram signals	2011	0.2277311458445459	-18.85507371817899	3715779
+3716375	Web+IR	automatic characterization of sleep need dissipation using a single hidden layer neural network	2017	0.2898110896542495	-19.07575721041856	3716402
+3717493	ML	identifying informative features for erp speller systems based on rsvp paradigm	2010	0.04388013024275775	-18.50389751299461	3717520
+3718788	ML	a pca aided cross-covariance scheme for discriminative feature extraction from eeg signals	2017	0.24646200732224866	-18.439553290737898	3718815
+3720182	AI	detection of cognitive states from fmri data using machine learning techniques	2007	-0.1857783132259306	-19.067282945296505	3720209
+3722617	ML	wavelet based normal and abnormal heart sound identification using spectrogram analysis	2012	0.2820334810631652	-19.231386050288748	3722644
+3722856	ML	one class support vector machine based filter for improving the classification accuracy of ssvep bci	2017	0.07944415487888001	-18.464274908635204	3722883
+3723595	SE	neonatal pain analyzer: development and validation	2006	0.0843644699856343	-19.031503356346388	3723622
+3725408	Vision	calculating a vagal tone index using webcam photoplethysmography	2014	-0.4534517972482564	-18.83098844854707	3725435
+3726067	Robotics	information extraction from multimodal ecg documents	2009	0.06395113231534717	-18.700731552688637	3726094
+3726169	ML	statistics over features of ecg signals	2009	0.33775931443676394	-19.212774592778548	3726196
+3726230	ML	learning to decode human emotions with echo state networks	2016	0.07789437051488506	-18.812173675650765	3726257
+3728130	AI	a novel graph regularized sparse linear discriminant analysis model for eeg emotion recognition	2016	-0.3663572615777805	-18.447974836656968	3728157
+3728586	AI	on an automatic delineator for arterial blood pressure waveforms	2010	-0.17688142744292526	-18.9612919005551	3728613
+3729069	ML	a new approach for automated detection of behavioral task onset for patients with parkinson's disease using subthalamic nucleus local field potentials	2015	0.30959143965890273	-19.05043208450612	3729096
+3729661	ML	discriminating object from non-object perception in a visual search task by joint analysis of neural and eyetracking data	2016	0.2819965879151254	-19.384580690199034	3729688
+3729882	Robotics	overlapping animal sound classification using sparse representation	2018	0.09102088314184087	-18.549834012686556	3729909
+3730531	ML	estimating residual stenosis for an arteriovenous shunt using a flexible fuzzy classifier	2014	0.3062467251047709	-19.24101826291875	3730558
+3730956	ML	deep neural network predicts emotional responses of the human brain from functional magnetic resonance imaging	2018	0.30004070016289164	-18.72714712232481	3730983
+3732204	Robotics	quality filtering of eeg signals for enhanced biometric recognition	2013	0.3341213169945961	-18.7112359492586	3732231
+3732549	Web+IR	feature extraction of the first difference of emg time series for emg pattern recognition	2014	0.005638487537139376	-18.638601532994368	3732576
+3732982	ML	recurrent neural networks employing lyapunov exponents for analysis of doppler ultrasound signals	2008	0.41208424887191497	-19.258486256009892	3733009
+3733576	Robotics	processing and analysis of bio-signals from human stomach	2010	-0.39501906699574507	-18.749481213093024	3733603
+3734077	HCI	automated analysis of ecg waveforms with atypical qrs complex morphologies	2014	-0.1357139683384813	-19.181984878378227	3734104
+3735399	ML	preliminary results of clinical tests of a new neural-network-based otitis media analysis system	2011	-0.2789303052387567	-18.73249292439565	3735426
+3736947	ML	classification of seizure and non-seizure eeg signals based on emd-tqwt method	2017	0.12876095867907755	-19.197660888353234	3736974
+3737087	AI	eeg classification based on image configuration in social anxiety disorder	2018	0.05514073519018901	-18.54516089501736	3737114
+3737930	Web+IR	new feature extraction approach for epileptic eeg signal detection using time-frequency distributions	2010	0.09303556852567714	-19.17898229767549	3737957
+3740992	DB	nonlinear dynamics techniques for the detection of the brain areas using mer signals	2008	0.04856357525224563	-19.216895276481637	3741019
+3742719	ML	bayesian approach to identify spike and sharp waves in eeg data of epilepsy patients	2017	-0.3275081574163461	-19.275909463904654	3742746
+3743097	ML	kalman-based spectro-temporal ecg analysis using deep convolutional networks for atrial fibrillation detection	2018	0.4429469936816107	-19.266652610214784	3743124
+3743111	HCI	a comparison study on multidomain eeg features for sleep stage classification	2017	0.13492726614403908	-19.171088528015105	3743138
+3744465	Vision	characterization of qt interval adaptation to rr interval changes and its use as a risk-stratifier of arrhythmic mortality in amiodarone-treated survivors of acute myocardial infarction	2004	-0.3809484413550057	-19.338475901843733	3744492
+3745644	ML	detection of epileptiform activity in eeg signals based on time-frequency and non-linear analysis	2015	0.0726118515597639	-19.218392723631553	3745671
+3746908	Robotics	extraction of stationary spectral components using stochastic variability	2012	-0.33126433331993416	-19.168177980062676	3746935
+3747521	ML	using elman recurrent neural networks with conjugate gradient algorithm in determining the anesthetic the amount of anesthetic medicine to be applied	2009	0.14145800199242492	-18.833769362861226	3747548
+3748136	Visualization	an algorithm for detecting seizure termination in scalp eeg	2011	0.11123542399598307	-19.09047175196273	3748163
+3748756	ML	classification of electroencephalographic seizure recordings into ictal and interictal files using correlation sum	2009	0.0003792118352145377	-19.307510510257774	3748783
+3748909	Robotics	system for intelligent processing and recognition of auditory brainstem response (abr) signals	2003	0.4254282675271968	-18.980705197972892	3748936
+3750635	Robotics	eeg classification of physiological conditions in 2d/3d environments using neural network	2013	0.4667298487253886	-18.61749577668459	3750662
+3750943	ML	investigation of entropy and complexity measures for detection of seizures in the neonate	2008	-0.26094065171357805	-19.289870312882922	3750970
+3753259	Robotics	an application of nonlinear feature extraction - a case study for low speed slewing bearing condition monitoring and prognosis	2013	-0.10082207316833372	-18.738644640704837	3753286
+3753579	SE	real-time automatic apneic event detection using nocturnal pulse oximetry	2018	0.4279306824176019	-18.799460055859466	3753606
+3753646	ML	application of recurrence quantification analysis for the automated identification of epileptic eeg signals	2011	0.4754389454874509	-19.297616236687556	3753673
+3753853	ML	svm-based recursive feature elimination to compare phase synchronization computed from broadband and narrowband eeg signals in brain-computer interfaces	2005	0.00569882582750795	-18.642214026121604	3753880
+3753891	AI	time-frequency analysis of brain electrical signals for behvior recognition in patients with parkinson's disease	2013	0.1729007165752068	-19.066637597398614	3753918
+3754397	HCI	antepartum cardiotocography: a study of fetal reactivity in frequency domain	2006	-0.3236541774462101	-19.177499318162628	3754424
+3754745	AI	bispectral analysis of eeg for emotion recognition	2015	0.4566397083721629	-18.599809520835397	3754772
+3756142	ML	time-frequency feature extraction of newborn eeg seizure using svd-based techniques	2004	-0.3350373508636125	-19.2049999658752	3756169
+3757430	NLP	a real time experimental setup for classification of epilepsy risk levels	2015	0.4056467732360821	-19.130287283834086	3757457
+3759321	Robotics	dimensionality reduction for anomaly detection in electrocardiography: a manifold approach	2012	0.3732574330571116	-18.903874174595877	3759348
+3759549	ML	single-trial detection of realistic images with magnetoencephalography	2015	-0.2145673464504916	-18.54377160187836	3759576
+3762570	DB	epileptic seizure prediction based on a bivariate spectral power methodology	2012	0.19873253085275724	-19.001443959884924	3762597
+3762836	Networks	the packet wavelet transform in the analysis of phonocardiogram's signals (aortic stenosis and mitral stenosis)	2018	0.1266725214356888	-19.138307173121568	3762863
+3763542	Robotics	ventricular fibrillation detection by an improved time domain algorithm combined with svm	2014	0.4271519847299341	-19.19169282733107	3763569
+3763717	Robotics	towards real time qrs detection: a fast method using minimal pre-processing	2006	0.12673559578519594	-19.19342132239889	3763744
+3763857	Robotics	can graph metrics be used for eeg-bcis based on hand motor imagery?	2018	-0.10410188256414322	-18.607283301826637	3763884
+3764479	ML	classification of multi-class motor imagery with a novel hierarchical svm algorithm for brain–computer interfaces	2017	0.20741847234582309	-18.55597415080728	3764506
+3764724	ML	formulation and validation of a method for classifying neurons from multielectrode recordings	2005	-0.15225094010535306	-19.251245087033986	3764751
+3765472	ML	complexity-measure-based sequential hypothesis testing for real-time detection of lethal cardiac arrhythmias	2007	0.3586108245519385	-19.159742499331465	3765499
+3766016	ML	decimation filter with common spatial pattern and fishers discriminant analysis for motor imagery classification	2016	0.2560840587142809	-18.5227884742057	3766043
+3766813	ML	a multistage, multimethod approach for automatic detection and classification of epileptiform eeg	2002	0.14950379943880376	-19.08192192547057	3766840
+3767009	Comp.	a robust detection algorithm to identify breathing peaks in respiration signals from spontaneously breathing subjects	2015	-0.1951111848566013	-18.868491135166238	3767036
+3767322	AI	a novel method for the detection of r-peaks in ecg based on k-nearest neighbors and particle swarm optimization	2017	0.1803471986706216	-19.123293670432698	3767349
+3768216	Vision	effective phonocardiogram segmentation using time statistics and nonlinear prediction	2010	-0.02965469001743953	-19.11364707878016	3768243
+3768261	Vision	structural pattern recognition of carotid pulse waves using a general waveform parsing system	1976	0.39235749486843136	-18.875836488628877	3768288
+3768548	Visualization	heart sound cancellation from lung sound recordings using recurrence time statistics and nonlinear prediction	2005	-0.2402890737761833	-18.984608641747283	3768575
+3769047	Comp.	fetal heart rate discovery: algorithm for detection of fetal heart rate from noisy, noninvasive fetal ecg recordings	2013	0.05273711030818015	-18.785473923209626	3769074
+3769110	Robotics	classifier cascade to aid in detection of epileptiform transients in interictal eeg	2018	0.4257954054500253	-19.125125308440055	3769137
+3769159	ML	how to reduce classification error in erp-based bci: maximum relative areas as a feature for p300 detection	2017	-0.02860702787953925	-18.559380783089928	3769186
+3769341	Visualization	nonlinear analysis of heart rate variability for the assessment of dysphoria	2017	0.2474850148070149	-18.947320309000077	3769368
+3770668	Visualization	application of cross wavelet transform for ecg pattern analysis and classification	2014	-0.04670521497978125	-19.337845751315207	3770695
+3770697	ML	implementation of wavelet transform extrasystole heart sound with convolution method for feature extraction	2017	-0.43436171103879706	-18.85723982027072	3770724
+3770972	AI	coherent ensemble averaging techniques for impedance cardiography	1990	-0.4577025447011486	-18.50853127617053	3770999
+3771197	ML	novel wavelet neural network algorithm for continuous and noninvasive dynamic estimation of blood pressure from photoplethysmography	2015	0.25348682190102617	-18.95944629071805	3771224
+3774065	ML	content-dependent fusion: combining human meg and fmri data to reveal spatiotemporal dynamics of animacy and real-world object size	2017	0.04193488349091306	-19.215442451452336	3774092
+3776914	SE	single-trial eeg classification of similar errors	2018	0.11279486909045908	-18.912954865583274	3776941
+3778326	ML	modeling of ventricular repolarisation time series by multi-layer perceptrons	2001	0.2306935278169564	-19.300766147083625	3778353
+3779007	Visualization	a robust method for pulse peak determination in a digital volume pulse waveform with a wandering baseline	2014	-0.28534164545663243	-18.621735933991975	3779034
+3779182	Vision	treatment of obstructive sleep apnea syndrome by monitoring patients airflow signals	2000	0.4875796811797344	-18.439597990321413	3779209
+3779359	Vision	fractal qrs-complexes pattern recognition for imperative cardiac arrhythmias	2010	0.3380133804994765	-19.29741974202945	3779386
+3780437	ML	myocardial infarction classification by morphological feature extraction from big 12-lead ecg data	2014	0.0970463101929755	-19.066335742813326	3780464
+3780997	Robotics	wavelet-based processing and adaptive fuzzy clustering for automated long-term polysomnography analysis	2006	0.4154248476527753	-19.030119737277147	3781024
+3782901	AI	automated detection of epileptic eegs using a novel fusion feature and extreme learning machine	2016	0.3711117896910005	-18.80881286800228	3782928
+3784526	ML	improving reliability of monitoring background eeg dynamics in asphyxiated infants	2016	0.20793392116471116	-19.186146939044992	3784553
+3785703	ML	qrs complex detection using combination of mexican-hat wavelet and complex morlet wavelet	2013	0.028716703130234375	-19.13972060948616	3785730
+3785895	Visualization	an adaptive spatial filter for user-independent single trial detection of event-related potentials	2015	-0.4122573130815296	-18.457483816058684	3785922
+3787692	Comp.	automated off-line respiratory event detection for the study of postoperative apnea in infants	2011	0.3203960629859062	-18.462100274839106	3787719
+3789802	Robotics	a brain computer interface methodology based on a visual p300 paradigm	2009	-0.22402249258778226	-18.5483472331649	3789829
+3791541	HCI	breath sound changes associated with malpositioned endotracheal tubes	2005	-0.2408974971264651	-18.435770145484263	3791568
+3792245	ML	on the selection of time-frequency features for improving the detection and classification of newborn eeg seizure signals and other abnormalities	2012	0.09877197004955933	-19.066492406497737	3792272
+3793357	AI	analysis in cardiac stability over thirty minute periods	2017	-0.3907705330402382	-18.621263994469874	3793384
+3793585	ML	efficient automatic selection and combination of eeg features in least squares classifiers for motor imagery brain-computer interfaces	2013	-0.09409776498605862	-18.5209319041914	3793612
+3795678	ML	a neural-network technique to learn concepts from electroencephalograms	2005	0.5051941591183812	-19.091090661489712	3795705
+3798876	ML	optimum spatio-spectral filtering network for brain–computer interface	2011	-0.12513484319885845	-18.609720171086835	3798903
+3800574	ML	an improved qrs complex detection method having low computational load	2018	-0.18557706432640167	-18.91542368324698	3800601
+3801294	EDA	assessing effect of beat detector on detection dependent signal quality indices	2016	0.2449285958275852	-19.039082504168498	3801321
+3801381	Visualization	detrended fluctuation analysis for major depressive disorder	2015	-0.24549006369999304	-19.35973331231512	3801408
+3801562	ML	noise-assisted data processing with empirical mode decomposition in biomedical signals	2011	-0.4568102631179663	-18.987942922818387	3801589
+3801846	SE	ecg analysis in the time-frequency domain	2012	0.06538636597179617	-19.044774393121603	3801873
+3802277	NLP	grove: an auxiliary device for sympathetic assessment via eda measurement of neutral, stress, and anger emotions during simulated driving conditions	2018	-0.06374177916462345	-19.10798466193221	3802304
+3807863	Visualization	detection of different types of noise in lung sounds	2016	0.4815411371437362	-18.858322929076	3807890
+3807981	Vision	2-channel convolutional 3d deep neural network (2cc3d) for fmri analysis: asd classification and feature learning	2018	0.19719968407657507	-18.520108436765085	3808008
+3808885	AI	qrs complex detection in experimental orthogonal electrograms of isolated rabbit hearts	2014	-0.3801500336603649	-19.03902923453411	3808912
+3810505	Vision	application of walsh transform based method on tracheal breath sound signal segementation	2008	0.04638059539193913	-19.061125549550678	3810532
+3810945	Robotics	adaptive pattern recognition in the analysis of cardiotocographic records	2001	0.4656501286657969	-19.106360433423028	3810972
+3812803	Robotics	extraction of stationary components in biosignal discrimination	2012	-0.07438809613643503	-19.111017254260712	3812830
+3813154	ML	eeg signal analysis of patients with obstructive sleep apnea syndrome (osas) using power spectrum and fuzzy entropy	2017	0.469348796448695	-19.15402360240838	3813181
+3813614	Vision	detection of unusual objects and temporal patterns in eeg video recordings	2009	-0.09835199771998446	-18.84447836546101	3813641
+3814766	Vision	automated detection of paroxysmal atrial fibrillation using an information-based similarity approach	2017	0.40552700283958426	-19.2879299274886	3814793
+3814847	ML	arif index for predicting the classification accuracy of features and its application in heart beat classification problem	2009	0.437586116093078	-18.834062804654454	3814874
+3815109	HCI	fetal heart rate monitoring from phonocardiograph signal using repetition frequency of heart sounds	2016	-0.1831037011771564	-18.687064740637766	3815136
+3815407	EDA	classification of heart disorders based on tunable-q wavelet transform of cardiac sound signals	2015	0.15988845089016973	-19.09876271420435	3815434
+3816316	ML	automated epileptic seizure detection in scalp eeg based on spatial-temporal complexity	2017	0.33793801585541416	-19.040022212058137	3816343
+3817639	AI	deep learning for seismic template recognition	2018	0.3868867765335687	-19.157941748534814	3817666
+3817889	ML	fuzzy clustering-based feature extraction method for mental task classification	2016	0.21234832728106387	-18.562757307584423	3817916
+3817904	ML	the ifast model, a novel parallel nonlinear eeg analysis technique, distinguishes mild cognitive impairment and alzheimer's disease patients with high degree of accuracy	2007	0.41616028172673575	-19.20349912601652	3817931
+3821241	ML	a novel procedure for classification of early human actions from eeg signals	2017	-0.043259877188825686	-18.764894478252142	3821268
+3822160	ML	a convolution neural networks scheme for classification of motor imagery eeg based on wavelet time-frequecy image	2018	0.22929432112243825	-18.481956004566047	3822187
+3822229	Arch	gating of false alarms in myocardial ischemia monitoring using st segment deviation trend estimator	2017	0.426027716649009	-18.740551223966747	3822256
+3823095	ML	expert system approach to electroencephalogram signal processing	1995	-0.2787869719741115	-19.07826764318355	3823122
+3823855	AI	seizure prediction by analyzing eeg signal based on phase correlation	2015	0.01964262718143024	-19.165323416135784	3823882
+3825760	ML	exploring motor imagery eeg patterns for stroke patients with deep neural networks	2018	-0.16246162918605625	-18.473068124736628	3825787
+3826045	Robotics	customization of entropy estimation measures for human arterial hypertension records segmentation	2012	0.20694116275184693	-18.58216221601009	3826072
+3826242	Web+IR	apnea–hypopnea index prediction using electrocardiogram acquired during the sleep-onset period	2017	0.39197785148632575	-19.234413635858477	3826269
+3828099	ML	mind reading: an automated classification of thought processes from imagery fmri data	2010	0.19281147310223348	-18.662625075497434	3828126
+3828245	ML	feature extraction and classification of biosignals - emotion valence detection from eeg signals	2013	0.4022069266683711	-18.704562152600133	3828272
+3830196	AI	presenting a new search strategy to select synchronization values for classifying bipolar mood disorders from schizophrenic patients	2013	0.1310600373339902	-18.666140620132122	3830223
+3831428	Vision	integrating markov model and morphology analysis for finer classification of ventricular arrhythmia in real time	2017	0.4400238348966311	-18.975536825731037	3831455
+3833124	Metrics	complex networks approach for eeg signal sleep stages classification	2016	0.22325894202132632	-19.35406746686969	3833151
+3833829	Theory	identification of pulmonary disorders by using different spectral analysis methods	2016	0.3095915811572748	-19.17112295964192	3833856
+3833838	HCI	evaluation of analytical modeling functions for the phonation onset process	2016	-0.3104031773734129	-19.122500873075012	3833865
+3835552	ML	enhanced approach for ecg classification based on wavelet transform and decision tree models	2013	0.43829358741786895	-19.163570301316273	3835579
+3835711	AI	generalized feature extraction for wrist pulse analysis: from 1-d time series to 2-d matrix	2017	0.15714102984089212	-18.527702382730276	3835738
+3836222	AI	automatic detection of interictal epileptiform discharges based on time-series sequence merging method	2013	0.24696454180500654	-19.214888839748408	3836249
+3836280	Vision	detection of adventitious lung sounds using entropy features and a 2-d threshold setting	2015	0.04892337188597802	-18.851823025811502	3836307
+3836372	Vision	frequency recognition based on canonical correlation analysis for ssvep-based bcis	2007	-0.3691575871187991	-18.674072190317442	3836399
+3837988	NLP	adaptive frequency decomposition of eeg with subsequent expert system analysis	2001	0.07284275887119335	-19.07643006606985	3838015
+3838175	ML	steady-state visual evoked potentials for eeg-based biometric identification	2017	-0.10260942546156984	-18.748046209721295	3838202
+3840473	Vision	electrocardiogram signal analysing - delineation and localization of ecg component	2016	-0.4157593847987995	-18.833477828919214	3840500
+3840914	AI	neural network classifier based on the features of multi-lead ecg	2005	0.4463837935366099	-19.179360756890485	3840941
+3842418	NLP	the study of feature selection strategy in electrocardiogram identification	2014	0.4849373934991028	-19.151594050244448	3842445
+3842524	Vision	applying brain emotional learning based fuzzy inference system for eeg signal classication between schizophrenics and control participant	2017	0.2410660647167498	-18.802581577776667	3842551
+3844826	ML	classification of motor states from brain rhythms using lattice neural networks	2016	-0.3797560573031549	-18.45619276195463	3844853
+3845247	Visualization	estimation of respiratory rate from photoplethysmogram data using time–frequency spectral estimation	2009	-0.3886832160122584	-18.570834262196325	3845274
+3846288	EDA	signal-to-noise ratio estimation based on haar wavelet for cardiovascular bio-signals in web-based e-healthcare system	2015	-0.3879298241537981	-18.45436325515817	3846315
+3846726	ML	a new approach for single-trial detection of laser-evoked potentials and its application to pain prediction	2013	-0.0914314100419598	-18.92840078896679	3846753
+3848546	EDA	linear and nonlinear analysis of normal and cad-affected heart rate signals	2014	-0.2535750341291391	-19.275034843199087	3848573
+3848649	ML	pattern recognition of spectral entropy features for detection of alcoholic and control visual erp’s in multichannel eegs	2017	0.14526407835916716	-18.908864830693933	3848676
+3848908	Visualization	detection and removal of ventricular ectopic beats in atrial fibrillation recordings via principal component analysis	2011	-0.3813796658341295	-19.19687436527353	3848935
+3849415	AI	noise maps for quantitative and clinical severity towards long-term ecg monitoring	2017	0.025352416094488368	-18.563561300379053	3849442
+3850012	Visualization	digestive activity evaluation by multichannel abdominal sounds analysis	2010	-0.2350386881701016	-18.931926997245096	3850039
+3851461	ML	heart rate variability for assessment of fatigue of central motor control in a rhythmical finger tapping task	2017	-0.2945582662225369	-18.905965198317485	3851488
+3852817	Vision	supraventricular tachycardia classification in the 12-lead ecg using atrial waves detection and a clinically based tree scheme	2016	0.3715212396351096	-19.268801197124027	3852844
+3853595	EDA	effect of the hilbert-huang transform method on sleep staging	2017	0.462764592181009	-18.94189060159956	3853622
+3853645	EDA	combined matching pursuit and wigner-ville distribution analysis for the discrimination of ictal heart rate variability	2016	-0.015019723352195147	-19.104521307927392	3853672
+3855197	Robotics	p300 detection for brain-computer interface from electroencephalogram contaminated by electrooculogram	2006	-0.32095577939563896	-18.810852998778238	3855224
+3855758	ML	eeg-assisted modulation of sound sources in the auditory scene	2018	0.07388566682894772	-18.550724994199538	3855785
+3855807	ML	exploring two novel features for eeg-based brain-computer interfaces: multifractal cumulants and predictive complexity	2012	-0.11156015796397688	-18.650427149957704	3855834
+3856951	SE	short-term assessment of autonomic nervous system as a potential tool to quantify pain experience	2016	-0.3296852066812315	-18.62310507126184	3856978
+3857708	Visualization	optimized detector for closed-loop devices for neurostimulation	2017	-0.04095629760507825	-18.943582928714108	3857735
+3858617	ML	robust multichannel qrs detection	2014	0.07250060008044028	-18.73670467217772	3858644
+3859231	ML	detection of qrs-complex using k-nearest neighbour algorithm	2013	0.4154926630554366	-19.11513874269329	3859258
+3859940	Visualization	a practical ssvep-based algorithm for perceptual dominance estimation in binocular rivalry	2018	0.06670468061616057	-18.625385260206443	3859967
+3861243	AI	tracking epileptogenesis progressions with layered fuzzy k-means and k-medoid clustering	2012	-0.175453822284665	-19.02735171039013	3861270
+3862331	ML	noise benefits in motor imagery classification using ensemble support vector machine	2014	0.39231200767190144	-18.810541336889404	3862358
+3862408	ML	statistics over features for internal carotid arterial disorders detection	2008	0.21304818516382126	-19.226013153192238	3862435
+3863923	SE	using s-transform in eeg analysis for measuring an alert versus mental fatigue state	2014	0.4446345336508715	-18.462740778208254	3863950
+3864209	NLP	systemic health evaluation of rf generators using gaussian mixture models	2016	0.27676633907849524	-19.19110472655321	3864236
+3865503	ML	recurrence quantification analysis of eeg predicts responses to incision during anesthesia	2006	0.13212646022606853	-18.826917637011928	3865530
+3865665	Visualization	spatio-spectral analysis of ecog signals during voice activity	2013	-0.3925051818332765	-19.213836743506416	3865692
+3868596	SE	influence of eeg artifacts on detecting neonatal seizure	2010	-0.4160622337653234	-19.229502054418088	3868623
+3868694	ML	classification of epileptic motor manifestations and detection of tonic–clonic seizures with acceleration norm entropy	2013	0.24331635790146294	-19.09535526477651	3868721
+3870814	SE	robust local field potential-based neural decoding by actively selecting discriminative channels	2018	-0.17173230137125026	-18.627234498089713	3870841
+3871584	Robotics	a novel dictionary for neonatal eeg seizure detection using atomic decomposition	2012	0.026800708710004027	-19.120606289581687	3871611
+3871892	Vision	eeg pattern recognition: an efficient improvement combination of erd/ers/laterality features to create a self-paced bci system	2016	-0.09549317736937757	-18.60572720016076	3871919
+3874064	ML	intra-patient and inter-patient seizure prediction from spatial-temporal eeg features	2014	0.12760240922655572	-19.302683755590337	3874091
+3876692	Metrics	predictive analysis of cardiac resynchronization therapy response by means of the ecg	2016	-0.000524237482499903	-19.14134153446129	3876719
+3877091	AI	epileptic seizure detection in eegs signals using a fast weighted horizontal visibility algorithm	2014	0.006768985121503334	-19.13073005242022	3877118
+3878518	ML	detecting epileptic seizures using electroencephalogram: a novel technique for seizure classification using fast walsh-hadamard transform and hybrid extreme learning machine	2012	0.4858513736099901	-18.96970533257044	3878545
+3879368	Visualization	structural group classification technique based on regional fmri bold responses	2005	-0.3311935742186158	-19.214513345608687	3879395
+3880005	ML	time-series discrimination using feature relevance analysis in motor imagery classification	2015	-0.0686973249495539	-18.735265607262768	3880032
+3880278	ML	eeg-based estimation of mental fatigue by using kpca-hmm and complexity parameters	2010	0.3206186511726913	-18.55359903389447	3880305
+3881990	AI	preprocessing rr interval time series for heart rate variability analysis and estimates of standard deviation of rr intervals	2006	-0.422314900005423	-19.21446575449337	3882017
+3882374	ML	classification of seizure and seizure-free eeg signals using local binary patterns	2015	0.19680461290493398	-19.270397953723126	3882401
+3882523	AI	seizure detection in temporal lobe epileptic eegs using the best basis wavelet functions	2009	0.19718292372893748	-19.173374335117604	3882550
+3883198	ML	non-adaptive methods for fetal ecg signal processing: a review and appraisal	2018	-0.14269596231230242	-18.781225524817067	3883225
+3884411	ML	energy distribution of eeg signals: eeg signal wavelet-neural network classifier	2010	0.4171796800425849	-19.197658167252946	3884438
+3885034	Robotics	discrimination of vision impairments using single trial veps	2011	0.059594905536769625	-18.806303000262726	3885061
+3885990	Metrics	p300 response classification in the presence of magnitude and latency fluctuations	2011	0.1803243963049113	-18.61489009854485	3886017
+3886943	Robotics	quantification of pain degree by frequency features of single-chanelled eeg	2018	0.4862035745275469	-18.71112292375572	3886970
+3889047	Visualization	time-frequency analysis of phonocardiogram for classifying heart disease	2016	0.3866829844875781	-19.170340172653415	3889074
+3889503	Vision	the use of telemetry-evoked compound action potentials (tecap) in cochlear implantation	2007	0.2812461857078699	-18.586796533105034	3889530
+3889996	ML	an algorithm for the detection of atrial fibrillation using the pulse oximetric signal	2011	0.034738524955827306	-19.23331530294295	3890023
+3890643	HCI	perccs: person-count from carbon dioxide using sparse non-negative matrix factorization	2015	-0.15924175450983238	-18.567084690640645	3890670
+3890856	Visualization	oscillations of heart rate and respiration synchronize during affective visual stimulation	2012	-0.17470596838616234	-19.109260512575094	3890883
+3891260	ML	spatial filter feature extraction methods for p300 bci speller: a comparison	2016	-0.020530084117576744	-18.460771843501387	3891287
+3891632	Visualization	cerebral blood flow velocity pulse onset detection using adaptive thresholding	2017	-0.013979703137005237	-19.10034987180144	3891659
+3892230	HCI	detection of the third heart sound using a tailored wavelet approach: method verification	2005	-0.2470450181350144	-18.97313904233782	3892257
+3892746	Robotics	seizure detection based on spatiotemporal correlation and frequency regularity of scalp eeg	2012	-0.12105483127130952	-19.233706742043072	3892773
+3893574	ML	a supervised learning approach based on the continuous wavelet transform for r spike detection in ecg	2008	0.4254157877782807	-19.212934740831102	3893601
+3895493	Visualization	wavelet transform-based analysis of qrs complex in ecg signals	2013	-0.3613761461601092	-19.039909315384527	3895520
+3896011	Vision	feature analysis and de-noising of mrs data based on pattern recognition and wavelet transform	2006	-0.14235829010362794	-19.358544981056408	3896038
+3896482	AI	computerized electro neuro ophthalmograph (cenog)	1980	0.4011337388917836	-18.75581918323552	3896509
+3896777	ML	classification algorithms for fetal qrs extraction in abdominal ecg signals	2017	0.2063940088014113	-18.9373332339561	3896804
+3897165	Robotics	automatic diagnosis of adhd based on nonlinear analysis of actimetry registries	2011	0.43336285846144895	-19.012810963249432	3897192
+3897407	ML	index of t-wave variation as a predictor of sudden cardiac death in chronic heart failure patients with atrial fibrillation	2016	-0.15655979981316073	-19.291367375828045	3897434
+3897421	Visualization	assessment of features for automatic ctg analysis based on expert annotation	2011	0.4522190344228607	-19.197478789328333	3897448
+3898380	ML	permutation entropy and signal energy increase the accuracy of neuropathic change detection in needle emg	2018	0.11430650201285107	-19.130171736367505	3898407
+3899248	Web+IR	instantaneous frequency based index to characterize respiratory crackles	2018	-0.08455217116137137	-19.178333837903477	3899275
+3899361	AI	discrimination between emboli and artifacts for outpatient transcranial doppler ultrasound data	2017	-0.2696751501339426	-18.688823588385773	3899388
+3901222	Graphics	software development for the analysis of heartbeat sounds with labview in diagnosis of cardiovascular disease	2008	0.04245376172116542	-18.726195756648774	3901249
+3901789	Visualization	spatial correlation based artifact detection for automatic seizure detection in eeg	2013	-0.4492279447048964	-18.674844101012347	3901816
+3902748	ML	an automatic recognition for the auditory brainstem response waveform	2015	-0.050840157094349886	-19.05423498574674	3902775
+3903007	ML	an integrated index for the identification of focal electroencephalogram signals using discrete wavelet transform and entropy measures	2015	0.37623372217694345	-19.20293942484417	3903034
+3904208	HCI	a proposed novel method for chd screening by fetal heart murmur detection using phonocardiography	2013	-0.030630781150956393	-18.77277487475017	3904235
+3906087	ML	multichannel foetal heartbeat detection by combining source cancellation with expectation-weighted estimation of fiducial points	2013	-0.13048258321700196	-18.73246045633284	3906114
+3906218	SE	arrhythmia detection using amplitude difference features based on random forest	2015	0.4294585351749217	-19.09431566335039	3906245
+3907788	ML	a methodology for time-frequency image processing applied to the classification of non-stationary multichannel signals using instantaneous frequency descriptors with application to newborn eeg signals	2012	0.06374919825049168	-19.232642188751733	3907815
+3909141	Vision	detection of acute ischemia episodes from qrs angles changes using a laplacian noise model	2014	-0.2118363965702344	-19.176638110135645	3909168
+3909808	HCI	improved wavelet entropy calculation with window functions and its preliminary application to study intracranial pressure	2013	-0.2834952498301471	-19.280568635258092	3909835
+3911841	SE	the first experience with the use of noise-assisted empirical mode decomposition algorithm in the processing of multi-channel electrogastrography signals	2016	-0.4484608021410067	-18.876666894915427	3911868
+3911939	ML	a signal analysis method for impulse-like eye movements	1999	-0.28523423670999365	-18.815876500566894	3911966
+3913503	ML	on the use of spiking neural network for eeg classification	2008	-0.10819764380108399	-18.590821943636875	3913530
+3914478	EDA	electrodermal activity processing: a convex optimization approach	2014	0.45985006260581607	-18.79537524446767	3914505
+3915081	Visualization	detection of myocardial ischemia episode using morphological features	2013	-0.014197630301895425	-19.20390392609189	3915108
+3915127	HCI	an approach based on wavelet analysis for feature extraction in the a-wave of the electroretinogram	2011	-0.21632763587784914	-19.11833388306772	3915154
+3916304	Robotics	higher-order spectra for the estimation of total-airway-response (tar) in snore-based diagnosis of apnoea	2004	0.3260560546891209	-18.913382931441788	3916331
+3916862	ML	toward a brain interface for tracking attended auditory sources	2016	0.043899628244403535	-19.324043431395413	3916889
+3920140	Robotics	diagnosis of epilepsy utilizing time-series distribution of eeg signals	2018	0.2580731992994441	-19.302041749228934	3920167
+3920750	ML	segmentation of heart sounds based on dynamic clustering	2012	-0.3771060671412657	-19.034631072321414	3920777
+3923699	Visualization	a multiscale mean shift localization approach for robust extraction of heart sounds in respiratory signals	2013	-0.4354278697604964	-18.954754755742584	3923726
+3924709	EDA	fetal electrocardiogram enhancement in abdominal recordings: recording setup analysis	2013	-0.35516336461047565	-18.451205527766454	3924736
+3925072	Vision	two-dimensional warping for one-dimensional signals—conceptual framework and application to ecg processing	2014	-0.4166158306784826	-19.187686782463945	3925099
+3925495	DB	automatic detection of heart sounds and clicks with murmurs	2017	0.3002049967544369	-18.931990193958036	3925522
+3926115	Visualization	asthmatic airways obstruction assessment based on detailed analysis of respiratory sound spectra	2000	-0.18402478392535132	-18.84582072683596	3926142
+3926623	Robotics	epilepsy seizure detection using eeg signals	2017	-0.11355283831270807	-19.25706428962492	3926650
+3926647	Vision	ecg segmentation in a body sensor network using adaptive hidden markov models	2008	0.4756744915055854	-18.854112682230912	3926674
+3926671	ML	prediction of stride interval time series	2016	-0.0909951337113808	-19.151166752015666	3926698
+3926864	AI	neural network based person identification using eeg features	1999	0.2958838824783827	-18.687625376054807	3926891
+3928631	AI	pca and kpca of ecg signals with binary svm classification	2011	0.4160266305701125	-19.00742787009325	3928658
+3928892	ML	mutual information in natural position order of electroencephalogram is significantly increased at seizure onset	2010	0.11025575820467484	-18.705067022693946	3928919
+3929195	ML	knowledge extraction about atrial arrhythmias through networks of biologically inspired artificial cardiac cells	2018	0.15414928230562489	-19.349637997738725	3929222
+3931570	SE	performance study of wavelet-based ecg analysis for st-segment detection	2015	-0.06088794131637349	-19.131689609603182	3931597
+3932004	ML	dynamic initiation and dual-tree complex wavelet feature-based classification of motor imagery of swallow eeg signals	2012	0.009615908448981752	-18.61621419285691	3932031
+3933262	AI	artificial neural network and wavelet based automated detection of sleep spindles, rem sleep and wake states	2008	0.40988015787485343	-19.10732609917615	3933289
+3933759	ML	sleep stages classification from electroencephalographic signals based on unsupervised feature space clustering	2015	0.14228963839485975	-18.55734254213916	3933786
+3934332	Mobile	on the detection of cardiac arrhythmia with principal component analysis	2017	0.11554144179730287	-18.97836325148385	3934359
+3935367	ML	cardiology knowledge free ecg feature extraction using generalized tensor rank one discriminant analysis	2014	0.030247331007367997	-19.10491907716331	3935394
+3939012	Robotics	detecting sleep spindles in eegs using wavelet fourier analysis and statistical features	2019	0.40716513275919947	-19.29665320984448	3939039
+3939571	HPC	quartiles and mel frequency cepstral coefficients vectors in hidden markov-gaussian mixture models classification of merged heart sounds and lung sounds signals	2015	0.4558518981514594	-19.305037979424103	3939598
+3940659	Web+IR	ectg: an automatic procedure to extract digital cardiotocographic signals from digital images	2018	0.06387640929710107	-18.91400593922261	3940686
+3940765	ML	morphologic features of the ecg for detection of stress-induced ischemia	2013	0.14621886909610682	-19.08014712960497	3940792
+3941883	SE	noise level classification for eeg using hidden markov models	2015	-0.0350232941099442	-18.91029613540325	3941910
+3945312	ML	spike pattern recognition by supervised classification in low dimensional embedding space	2016	0.44621007082730463	-19.224618171219863	3945339
+3947425	ML	automatic channel selection in eeg signals for classification of left or right hand movement in brain computer interfaces using improved binary gravitation search algorithm	2017	-0.1765022895695007	-18.523336258070888	3947452
+3947505	ML	ecg beat classification using linear prediction error signal	1991	-0.20813947386003373	-18.816687522023308	3947532
+3948732	ML	classification of brain-stem trigeminal evoked potentials in multiple sclerosis, minor head injuries and post-concussion syndrome pathologies by similarity measurements	2000	0.4164331762982623	-19.217986704704387	3948759
+3949151	Visualization	assessing the similarity between time series using a wavelet transform: application and interpretability aspects	2014	0.4335349014370595	-18.853983193777534	3949178
+3949519	ML	single channel eeg time-frequency features to detect mild cognitive impairment	2017	0.1296083275823311	-19.37500345730273	3949546
+3949990	Web+IR	electro-physiological data fusion for stress detection	2012	0.41988884807943105	-18.450379444065724	3950017
+3950443	EDA	channel selection for epilepsy seizure prediction method based on machine learning	2012	0.4872849758453254	-18.589234487031547	3950470
+3951288	Mobile	automatic detection of atrial fibrillation for mobile devices	2009	0.3778598888048131	-18.861354198708156	3951315
+3952219	Visualization	sleep apnoea classification using heart rate variability, ecg derived respiration and cardiopulmonary coupling parameters	2016	0.36676840616118256	-19.02440994858272	3952246
+3952482	Robotics	on robust extraction of pulse transit time from multimodal pulsatile signals	2015	-0.03559400490600224	-18.665294815911132	3952509
+3953929	Robotics	swallow-monitoring system with acoustic analysis for dysphagia	2014	0.3668106742307615	-18.445476970883	3953956
+3956786	AI	heart rate extraction from photoplethysmogram on fuzzy logic discriminator	2010	-0.22548177969622826	-18.609974248785814	3956813
+3956877	ML	analysis on saccade-related independent components by various ica algorithms for developing bci	2008	-0.2534496746807475	-18.684199358727838	3956904
+3957114	AI	an automated feature extraction and emboli detection system based on the pca and fuzzy sets	2007	0.48993410794649	-19.337688019548548	3957141
+3957627	ML	an automatic patient-specific seizure onset detection method in intracranial eeg based on incremental nonlinear dimensionalityreduction	2010	0.3075946199996568	-19.332900004554965	3957654
+3958076	ML	eeg based epileptiform pattern recognition inside and outside the seizure states	2018	0.33970383694637835	-19.238775422864823	3958103
+3959985	HCI	towards a multimodal brain–computer interface: combining fnirs and ftcd measurements to enable higher classification accuracy	2013	0.15073779836523876	-18.65863030742535	3960012
+3960324	NLP	simultaneous eeg analysis and feature extraction selection based on unsupervised learning	2018	0.11784008691325427	-18.66551641973004	3960351
+3960363	HCI	p3b amplitude as a signature of cognitive decline in the older population: an eeg study enhanced by functional source separation	2018	0.04759945557073497	-19.369200575641575	3960390
+3960883	Vision	robust detection of heart beats using dynamic thresholds and moving windows	2014	0.006440278021695386	-18.937988606190373	3960910
+3963371	ML	functional data analysis for gait curves study in parkinson's disease	2006	0.41139830683792494	-18.95860709914336	3963398
+3965412	DB	optimizing dynamical similarity index extraction window for seizure detection	2014	0.04860064362484122	-19.155519916586762	3965439
+3965654	ML	an offline/real-time artifact rejection strategy to improve the classification of multi-channel evoked potentials	2008	0.3294620300990722	-19.027337122469945	3965681
+3965913	AI	surface electromyography based muscle fatigue detection using high-resolution time-frequency methods and machine learning algorithms	2018	0.3937185893898861	-19.036307145387173	3965940
+3966106	ML	cardiovascular assessment of supportive doctor-patient communication using multi-scale and multi-lag analysis of heartbeat dynamics	2018	0.22779829488571424	-18.97235208882796	3966133
+3966409	AI	a genetic programming approach to feature selection and classification of instantaneous cognitive states	2007	0.03708717871780805	-18.494554393755752	3966436
+3966435	ML	adaptive time-frequency analysis of knee joint vibroarthrographic signals for noninvasive screening of articular cartilage pathology	2000	0.19851403188921066	-19.089511280583185	3966462
+3967656	Robotics	key points recognition of pulse wave based on wavelet transform	2011	0.1031678574387088	-18.638364138984226	3967683
+3968304	Robotics	p and t wave detectionon multichannel ecg using fri	2014	-0.3286918634321273	-18.823061011341093	3968331
+3968809	HCI	eeg signal analysis of real-word reading and nonsense-word reading between adults with dyslexia and without dyslexia	2017	0.127185388114562	-19.09923507916906	3968836
+3969211	ML	time-frequency localized three-band biorthogonal wavelet filter bank using semidefinite relaxation and nonlinear least squares with epileptic seizure eeg signal classification	2017	-0.059709576032732074	-19.063475944937238	3969238
+3969558	ML	discrimination between two mental states (rest and motor image) using wavelet transform and neural networks	2001	0.20357754326876612	-18.523205032759627	3969585
+3970128	Robotics	relationships between behavioral and single-trial target detection performance with magnetoencephalography	2018	0.29360404992572803	-19.045580951141996	3970155
+3971045	EDA	fpga-based detection of qrs complexes in ecg signal	2015	0.05892940730752017	-18.92516669445046	3971072
+3971237	ML	signal feature extraction by multi-scale pca and its application to respiratory sound classification	2012	0.15237300904506226	-19.274632330562454	3971264
+3971535	ML	modified cc-lr algorithm with three diverse feature sets for motor imagery tasks classification in eeg based brain-computer interface	2014	0.0845530631512117	-18.48753449704717	3971562
+3972231	ML	comparison of computational algorithms applied on transthoracic impedance waveforms to predict head-up tilt table testing outcome	2006	-0.043699870431735635	-18.78823290099939	3972258
+3975256	Robotics	neonatal eeg audification for seizure detection	2014	0.00852455450678059	-18.790517445553018	3975283
+3975790	Robotics	detection of early stage alzheimer’s disease using eeg relative power with deep neural network	2018	0.3986299523115198	-18.945981488772837	3975817
+3976022	ML	automated epileptic seizure onset detection	2010	0.2924540242531144	-19.200525868307174	3976049
+3977073	DB	assessment of fetal reactivity biopatterns during labour by fetal ecg analysis	2009	-0.16387490260238985	-19.17021196253416	3977100
+3977078	Visualization	a low-complex multi-channel methodology for noise detection in phonocardiogram signals	2015	-0.14388377778709202	-18.820442580812646	3977105
+3977358	AI	noninvasive fetal qrs detection using a linear combination of abdomen ecg signals	2013	-0.4509274284351008	-18.79692964278116	3977385
+3977869	Robotics	fast and efficient rejection of background waveforms in interictal eeg	2016	0.491962814508633	-19.17900844523797	3977896
+3977915	ML	discovery of multiple level heart-sound morphological variability resulting from changes in physiological states	2012	-0.18957844410887287	-18.522998851663797	3977942
+3979861	AI	classification of parkinsonian and essential tremor using empirical mode decomposition and support vector machine	2011	0.4369250246463504	-19.123941113395027	3979888
+3980481	ML	early detection of epileptic seizures based on parameter identification of neural mass model	2013	0.4450604762100987	-19.033196633602763	3980508
+3981170	Vision	predicting very early stage mild cognitive impairment based on a voxel-wise arterial spin labeling analysis	2014	0.32215038734485457	-19.127149996561588	3981197
+3981300	Vision	hemodynamic response analysis for mind-driven type-writing using a type 2 fuzzy classifier	2018	0.1059199729908775	-18.560100443019213	3981327
+3983491	Vision	neonatal seizure detection using atomic decomposition with a novel dictionary	2014	0.09269145738624547	-19.208505646730952	3983518
+3983754	Robotics	improved computerized cardiac auscultation by discarding artifact contaminated pcg signal sub-sequence	2018	-0.12537469387450084	-18.948849496159653	3983781
+3983967	Visualization	a high performance approach for classification of motor imagery eeg	2018	0.1380594417805825	-18.472584661438788	3983994
+3985590	EDA	empirical mode decomposition for noninvasive atrial fibrillation dominant frequency estimation	2015	-0.4514284325680218	-18.959469054311317	3985617
+3985772	DB	real-time qrs detector using stationary wavelet transform for automated ecg analysis	2017	0.05747419612629266	-18.997652828727453	3985799
+3986753	Visualization	detection of cardiac arrest using a simplified frequency analysis of the impedance cardiogram recorded from defibrillator pads	2011	0.1141516238411244	-18.45700639503117	3986780
+3987078	AI	fnirs approach to pain assessment for non-verbal patients	2017	0.2747892384383573	-18.911498071302066	3987105
+3991334	Robotics	investigation of parameters highlighting drug induced small changes of the t-wave's morphology for drug safety studies	2011	0.2617504161566633	-19.330937516901397	3991361
+3991355	AI	separation of rhythms of eeg signals based on hilbert-huang transformation with application to seizure detection	2012	-0.4045226329431012	-19.13519742530188	3991382
+3994765	Visualization	qeeg-based classification with wavelet packet and microstate features for triage applications in the er	2006	0.2348797992608056	-19.01484395681296	3994792
+3997048	ML	identification of time-varying t-wave alternans from 20--minute ecg recordings - issues related to twa magnitude threshold and length of ecg time series	2008	-0.3358437938357059	-19.161101296347933	3997075
+3997469	DB	determination of r-peaks in ecg signal using hilbert transform and pan-tompkins algorithms	2017	-0.21306279630175093	-18.935981563667067	3997496
+3997718	Vision	using wavelet transform and fuzzy neural network for vpc detection from the holter ecg	2004	0.058412319323231016	-19.20024973926576	3997745
+3998127	NLP	an attribute grammar for qrs detection	1986	0.3868922105251688	-18.976272132222835	3998154
+3999129	DB	a distributed descriptor characterizing structural irregularity of eeg time series for epileptic seizure detection	2018	0.15110633578490856	-19.142733783060084	3999156
+4000854	ML	algorithm for emg noise level approximation in ecg signals	2017	-0.2880006137393303	-18.91786127604048	4000881
+4001638	HCI	improved fuzzy logic system to evaluate milk electrical conductivity signals from on-line sensors to monitor dairy goat mastitis	2016	-0.3864190330068749	-18.76900156866021	4001665
+4001947	ML	detection of electromyographic signals from facial muscles with neural networks	2006	0.3935303786192647	-18.934247355633694	4001974
+4002107	Robotics	off-line analysis of the p300 event-related potential using discrete wavelet transform	2013	0.1913611900665388	-18.550319051036105	4002134
+4002849	Robotics	diagnosis algorithm of sleep apnea syndrome	2012	0.3217136771241752	-19.119896747553305	4002876
+4002999	ML	automated detection of fast ripples and rejection of artifacts in human scalp electroencephalogram	2017	0.018007408500818826	-19.10913113985091	4003026
+4005045	ML	ecg feature extraction using time frequency analysis	2009	0.2258168915617404	-18.694751169856925	4005072
+4005170	Visualization	comparison among feature extraction techniques based on power spectrum for a ssvep-bci	2014	-0.2903892828801061	-19.00227234934565	4005197
+4005195	ML	multiclass support vector machines for eeg-signals classification	2007	0.39005377218243215	-18.866776860903663	4005222
+4005258	Vision	fusion of scores in a detection context based on alpha integration	2015	0.24590995822770256	-18.8115265745217	4005285
+4006752	ML	svm detection of premature ectopic excitations based on modified pca	2005	0.32938075818834445	-19.209594745069282	4006779
+4006993	AI	wavelet-based eeg preprocessing for biometric applications	2013	-0.11654675517301795	-18.560026125749925	4007020
+4007596	ML	multiwavelet feature sets for ecg beat classification	2017	0.4083103396119313	-19.14740424359027	4007623
+4007935	ML	extraction of multivariate components in brain signals obtained during general anesthesia. (extraction de composants multivariés des signaux cérébraux obtenus pendant l'anesthésie générale)	2016	-0.08642246285049246	-19.3503422369732	4007962
+4008729	Vision	automatic quantitative analysis of human respired carbon dioxide waveform for asthma and non-asthma classification using support vector machine	2018	0.33700535892597466	-19.12779558269878	4008756
+4010526	ML	brain-computer interface (bci): is it strictly necessary to use random sequences in visual spellers?	2012	0.0779062766274023	-18.694766046542377	4010553
+4010970	Robotics	mutual information entropy research on dementia eeg signals	2004	-0.4074140046476746	-19.25189127634169	4010997
+4012578	HCI	estimating vigilance level by using eeg and emg signals	2007	0.17144741328778412	-18.924205815419157	4012605
+4012651	ML	beat-to-beat estimation of stroke volume using impedance cardiography and artificial neural network	2017	0.4109423560156401	-19.19416081560041	4012678
+4014771	ML	eeg dataset reduction and feature extraction using discrete cosine transform	2012	0.17954762219515275	-18.48454827852298	4014798
+4014866	Robotics	classification of poincaré plots for temporal series of heart rate variability by using machine learning techniques	2010	0.4624303960599209	-19.111577995328954	4014893
+4015271	AI	pulse analysis system with a novice periodic function examination method on sepsis survival prediction	2014	0.041368262789849265	-18.898229618454803	4015298
+4015282	AI	artificial neural network based approach to eeg signal simulation	2012	-0.3639633845600521	-19.01051112220361	4015309
+4017012	ML	combining eeg signal processing with supervised methods for alzheimer’s patients classification	2018	0.33846590406336896	-19.299407141042554	4017039
+4019072	ML	a sensor-based wrist pulse signal processing and lung cancer recognition	2018	0.184371901809524	-18.596019160923806	4019099
+4022978	ML	a simple distance based seizure onset detection algorithm using common spatial patterns	2016	0.10236787253492416	-19.127384439509704	4023005
+4022996	Vision	decision-level fusion of eeg and pupil features for single-trial visual detection analysis	2009	0.24316853357128174	-18.463888310534877	4023023
+4023038	Robotics	ecg based human identification using wavelet distance measurement	2011	0.023204877453641224	-18.734243406926254	4023065
+4023129	HCI	qt variability index changes with severity of cardiovascular autonomic neuropathy	2012	-0.4414541900581092	-19.238076405693494	4023156
+4023529	ML	heart arrhythmia classification using the prediction by partial matching algorithm	2015	0.35375269091376377	-19.087061158855814	4023556
+4024407	ML	a neural network method for detection of obstructive sleep apnea and narcolepsy based on pupil size and eeg	2008	0.2014532036781613	-19.216098964891106	4024434
+4024588	ML	epileptic seizure detection using neural fuzzy networks	2006	0.4629039730779464	-19.162048891858106	4024615
+4025198	Visualization	frequency and phase mixed coding in ssvep-based brain--computer interface	2011	-0.39452343428951736	-18.67679284512005	4025225
+4025646	SE	automatic sleep apnoea detection using measures of amplitude and heart rate variability from the electrocardiogram	2002	0.481805264263106	-18.752058226874933	4025673
+4026814	HCI	performance of a self-paced brain computer interface on data  contaminated with eye-movement artifacts and on data recorded in a  subsequent session	2008	-0.42644548074407945	-19.142524988486965	4026841
+4027605	Visualization	single-trial classification of fnirs signal measured from prefrontal cortex during four directions motor imagery tasks	2017	0.010559817429896015	-18.576289876203877	4027632
+4029668	ML	comparison of mlp neural network and neuro-fuzzy system in transcranial doppler signals recorded from the cerebral vessels	2007	0.39595523909105895	-19.12842967425366	4029695
+4031926	ML	discrimination and classification of focal and non-focal eeg signals using entropy-based features in the emd-dwt domain	2016	0.3854793746413165	-19.27909028036623	4031953
+4032132	Robotics	a new adaptive signal segmentation approach based on hiaguchi's fractal dimension	2012	-0.3155096499029004	-18.854449009528032	4032159
+4032594	ML	a novel fourth heart sounds segmentation algorithm based on matching pursuit and gabor dictionaries	2014	-0.05509701339710262	-19.029553773629296	4032621
+4033054	DB	application of svm-rfe on eeg signals for detecting the most relevant scalp regions linked to affective valence processing	2013	0.2420009506745063	-18.816660922561134	4033081
+4035410	Visualization	furia: an inverse solution based feature extraction algorithm using fuzzy set theory for brain–computer interfaces	2009	0.3717670232331641	-18.82924491753507	4035437
+4035456	ML	an algorithm used for ventricular fibrillation detection without interrupting chest compression	2012	0.2825163773702949	-18.753931314984357	4035483
+4038731	HCI	characterization of a carotid distension waveform from audio signal acquired with a stethoscope	2017	-0.14400988164891845	-18.65174608498431	4038758
+4039739	ML	robust structural modeling and outlier detection with gmdh-type polynomial neural networks	2005	-0.057408439830729366	-19.352360825707358	4039766
+4040830	EDA	sequential algorithm for the detection of the shockable rhythms in electrocardiogram	2012	0.425999511310329	-18.462188570403846	4040857
+4041781	Embedded	automated rapid seizure detection in the human ecog	1995	0.4491376907703724	-18.95865794436576	4041808
+4043210	ML	on the use of wavelet neural networks in the task of epileptic seizure detection from electroencephalography signals	2012	0.3447689762576678	-18.953913810594408	4043237
+4043606	ML	a link between the increase in electroencephalographic coherence and performance improvement in operating a brain-computer interface	2015	0.2109371087535755	-18.535430582554728	4043633
+4044633	Vision	a new approach to classification of brainwaves	1989	0.4069940373194273	-19.224939558288977	4044660
+4045856	Embedded	a windowed impulse rejection filter for hrv artifact detection	2013	-0.2626581867017573	-18.618773804580368	4045883
+4049371	ML	instantaneous assessment of hedonic olfactory perception using heartbeat nonlinear dynamics: a preliminary study	2017	0.10406179935380977	-18.870727283495366	4049398
+4050390	SE	ventricular activity morphological characterization: ectopic beats removal in long term atrial fibrillation recordings	2013	-0.29363139192553345	-19.164352085691725	4050417
+4050985	Robotics	recognizing thoracic breathing by ensemble empirical mode decomposition	2013	0.4097693285619365	-18.798580728153343	4051012
+4051394	AI	detection of alcoholism: an eeg hybrid features and ensemble subspace k-nn based approach	2019	0.14446357317261185	-19.05751744221966	4051421
+4052071	HCI	recurrence quantification analysis across sleep stages	2015	0.35625440932598545	-19.10789565964831	4052098
+4052861	Embedded	voice processing technique for human cerebral activity measurement	2008	-0.14213140514672953	-18.729537496273316	4052888
+4052884	ML	detection of sleep apnea with chaotic sound features	2013	0.474523290362436	-19.093442408206304	4052911
+4055969	ML	time-frequency optimization for discrimination between imagination of right and left hand movements based on two bipolar electroencephalography channels	2014	-0.2916160080734371	-18.82497286067005	4055996
+4056017	ML	epileptic seizure monitoring by one-class support vector machine	2014	-0.16042779016460926	-19.32044925771586	4056044
+4056427	EDA	ischemia detection via dynamic time warping and fuzzy rules	2012	0.4228048940548431	-19.11620546601512	4056454
+4058265	Robotics	automatic recognition for arrhythmias with the assistance of hidden markov model	2013	0.4672556652952611	-19.133434048253992	4058292
+4063202	Robotics	wavelet-based features for characterizing ventricular arrhythmias in optimizing treatment options	2011	0.08580548025566356	-19.215313569263426	4063229
+4066855	Visualization	detection of compressed tracheal sound patterns with large amplitude variation during sleep	2008	-0.3729885202566609	-18.800403770406675	4066882
+4067193	ML	feature selection algorithm for evoked eeg signal due to rgb colors	2016	0.12130693629009362	-18.65046534321027	4067220
+4067431	Vision	robust ecg biometrics by fusing temporal and cepstral information	2010	0.4971692448985574	-19.125510047157864	4067458
+4068131	DB	classifying detection of epileptic eeg based on approximate entropy in wavelet domain	2009	-0.1895400445707958	-19.1021881894362	4068158
+4068463	EDA	box method to remove baseline wander from ecg	2010	0.37069761445201016	-18.61823580750139	4068490
+4069508	ML	vep optimal channel selection using genetic algorithm for neural network classification of alcoholics	2002	0.3240670590599868	-18.538030106328048	4069535
+4070748	Visualization	features of cerebral oxygenation detects brain injury in premature infants	2016	-0.1244486609129577	-19.113483627700337	4070775
+4070841	ML	eeg classification for hybrid brain-computer interface using a tensor based multiclass multimodal analysis scheme	2016	-0.3063919159171089	-18.539143750679816	4070868
+4073568	DB	reducing ecg alarm fatigue based on sqi analysis	2014	0.2305348954186525	-18.935356365044466	4073595
+4077823	ML	3d heart sound source localization via combinational subspace methods for long-term heart monitoring	2017	-0.003376846856850419	-18.630866800563	4077850
+4078155	ML	ar based quadratic feature extraction in the vmd domain for the automated seizure detection of eeg using random forest classifier	2017	0.4810269614794578	-19.26265740619285	4078182
+4078294	Robotics	integrating the spatial profile of the n200 speller for asynchronous brain-computer interfaces	2011	-0.006276837792484222	-18.460471065104876	4078321
+4078644	Visualization	sleep apnea classification using least-squares support vector machines on single lead ecg	2013	0.4763365250470557	-19.05491120172833	4078671
+4079448	EDA	atrial signal extraction in atrial fibrillation ecgs exploiting spatial constraints	2008	-0.382622537718516	-18.82381630617177	4079475
+4080787	HCI	automated diagnosis of diabetes using heart rate variability signals	2011	0.0913186382153011	-19.21696131122137	4080814
+4081127	DB	time series clustering algorithm for two-modes cyclic biosignals	2011	-0.037774058664302494	-18.90074103243481	4081154
+4081999	DB	pulse feature analysis and extraction based on pulse mechanism analysis	2009	0.1719551329594975	-18.472163506409952	4082026
+4082159	Web+IR	an evaluation of the relaxation effect of music based on the relationships between the condition of pulse and music tempo using the eeg and hrv based indicators	2008	-0.011898293932709388	-18.56126548807898	4082186
+4082787	ML	adapting subject specific motor imagery eeg patterns in space-time-frequency for a brain computer interface	2009	-0.08740833496380566	-18.548523487709435	4082814
+4085254	ML	epileptic electroencephalogram signal classification based on sparse representation	2011	0.11057752275276413	-19.02775378908459	4085281
+4085764	ML	40-hz assr fusion classification system for observing sleep patterns	2015	0.2603846689477193	-19.007249389836996	4085791
+4086001	AI	analysis of eeg epileptic signals with rough sets and support vector machines	2009	0.3070378373552	-19.23591728702163	4086028
+4087346	NLP	analyzing speech of patients with vocal polyps based on channel parameters and fuzzy logic systems	2011	0.3614071541567198	-19.22090291086646	4087373
+4088759	ML	spatial filtering for eeg-based regression problems in brain–computer interface (bci)	2018	0.04836045100648196	-18.49010051306869	4088786
+4089230	ML	a bispectrum approach to feature extraction for a motor imagery based brain-computer interfacing system	2010	-0.2378646763843772	-18.73344525532051	4089257
+4089977	Robotics	ssvep frequency detection methods considering background eeg	2012	-0.09217093515704494	-18.524057965168808	4090004
+4090372	ML	a new bacterial growth graph pattern analysis to improve positive predictive value of continuous monitoring blood culture system	2018	0.2628997325186156	-19.256742242279728	4090399
+4090889	ML	qrs detection algorithm for long term holter records	2013	-0.2603356598306831	-18.76466568378116	4090916
+4093872	Robotics	automatic respiratory sound classification using temporal-spectral dominance	2011	0.13702220404159318	-19.129797304024645	4093899
+4097916	ML	expectation maximization based pca and hessian lle with suitable post classifiers for epilepsy classification from eeg signals	2016	0.3661668732227492	-19.197304217728774	4097943
+4098101	ML	reliability of lagged poincaré plot parameters in ultrashort heart rate variability series: application on affective sounds	2018	-0.30728413730768017	-19.098609620370578	4098128
+4098984	HCI	effect of age and postural related changes on cardiac autonomic function in the pre-menopausal and post-menopausal women	2017	-0.4524681601145835	-18.678114401958112	4099011
+4101104	Networks	thresholding wavelet networks for signal classification	2003	-0.21532670274180396	-18.88921939742389	4101131
+4101162	ML	combining blind source analysis and elman recurrent neural network to determine overlapping voltammograms	2012	-0.26653787218429914	-18.6771779332	4101189
+4101235	AI	qrs wave recognition based on united algorithm of mathematical morphology and wavelet	2009	-0.28230297991828457	-18.926008419678293	4101262
+4102611	Visualization	eeg-based tonic cold pain characterization using wavelet higher order spectral features	2015	-0.327718384775714	-19.192386548463197	4102638
+4102693	HCI	improved respiration rate estimation using a kalman filter and wavelet cross-coherence	2013	-0.17475129126094885	-18.602404372708786	4102720

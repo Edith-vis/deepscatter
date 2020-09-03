@@ -1,0 +1,125 @@
+id	area	title	year	x	y	ix
+3745214	Robotics	testing a distributed system: generating test sequences without potential controllability and observability problems	2006	3.1626454771259875	9.596612856711804	3745241
+3746390	Logic	distributed dynamic partial order reduction	2010	2.8038666920182367	9.76754827325906	3746417
+3752841	SE	data race detection on compressed traces	2018	3.283841158658249	10.022221313243033	3752868
+3756470	PL	the complexity of copy constant detection in parallel programs	2001	3.1996506597524634	9.601526269863989	3756497
+3757347	Embedded	on the false path problem in hard real-time programs	1996	3.258839806177785	9.588679707066175	3757374
+3767205	PL	array types for a graph processing language	2016	2.5925728890756803	10.151901532630156	3767232
+3768043	PL	a graph grammar to transform dags into graphs describing multithreaded programs	2011	2.747684743353404	10.257593125238033	3768070
+3770463	PL	compiler optimization of c++ virtual function calls	1996	3.292533360305714	10.298445805484775	3770490
+3771687	Logic	protocol validation: a parallel technique to reduce the reachability tree	1994	3.0462939387018926	9.442878671455393	3771714
+3772170	Arch	software de-pipelining technique	2004	2.69835071575056	10.293144276206581	3772197
+3774161	Arch	microprogram structures for high level language elements	1977	2.567386412028192	10.280880818062288	3774188
+3774621	PL	high level thread-based competitive or-parallelism in logtalk	2009	3.061472670196732	9.40859202879586	3774648
+3779736	HPC	improving the efficiency of nondeterministic independent and-parallel systems	1996	2.6727845675218833	10.165938103595897	3779763
+3785795	Embedded	symbolic worst case execution times	2011	3.3720034625219406	9.522066112313649	3785822
+3787221	PL	a two step hardware design method using cλash	2012	2.4955204434585982	9.870989350969342	3787248
+3787362	Robotics	an approach to improve locality using sandwich types	1998	2.6233811647227894	10.055461334098108	3787389
+3790473	Arch	a parallel pipelined processor with conditional instruction execution	1991	2.6617466750635383	9.47056252843336	3790500
+3790779	Crypto	on the static analysis of indirect control transfers in binaries	2000	3.277959954517885	9.699429127579274	3790806
+3793561	DB	implementing speculative parallelism in possible computational worlds	1993	2.4861201370129504	10.181197915818553	3793588
+3795645	PL	retargetable microcode synthesis	1987	2.58249309749886	10.185036249640303	3795672
+3797392	Arch	the design and implementation of a personal sequential inference machine: psi	1983	2.575308113014894	10.252868334309063	3797419
+3798535	PL	automatic parallelization of lazy functional programs	1992	3.121218063994464	9.532392729951408	3798562
+3798858	Logic	compatibility in a multi-component environment	2013	3.375877852261523	9.87268204382272	3798885
+3799465	PL	interprocedural induction variable analysis based on interprocedural ssa form ir	2010	3.1663166426708487	9.724762519533568	3799492
+3805102	PL	fast and exact analysis for lru caches	2019	2.872243157561987	9.753935725071251	3805129
+3805505	DB	model checking round-based distributed algorithms	2010	2.766171777206936	9.443162287400172	3805532
+3810382	Embedded	a high-level-language programmable controller	1986	2.681122967020527	10.182604239430473	3810409
+3811086	PL	a simple, linear-time algorithm for x86 jump encoding	2008	3.12460777771787	9.390823301231256	3811113
+3811682	DB	minimizing the make span of diagnostic multi-query graphs using graph pruning and query merging	2018	3.366682823234884	9.661592047724337	3811709
+3813460	ML	a parallel architecture for signal understanding through inference on uncertain data	1987	2.7130811480934494	9.985337076140377	3813487
+3819943	EDA	cuda accelerated ltl model checking - revisited	2010	2.559711924596995	9.83079672683787	3819970
+3820941	PL	towards a parallel search for solutions of non-deterministic computations	2009	2.5757627205204785	9.658058708937077	3820968
+3822418	Arch	functional programming for reconfigurable computing	2004	2.9593692824738813	10.162591923605572	3822445
+3824633	Logic	improving the quality of bounded model checking by means of coverage estimation	2007	3.2404769186747364	9.832514835936928	3824660
+3825279	PL	experiments in automatic microcode generation	1983	2.688587079828225	10.196629582898717	3825306
+3831904	DB	stream processing	1984	2.833694825449846	9.732960218041393	3831931
+3833265	AI	a parallel completion procedure for term rewriting systems	1992	2.4937987968108364	10.169054540705783	3833292
+3838143	PL	hierarchical parallelization of imperative programs	1993	2.7169979149050216	10.10825957957409	3838170
+3844899	Logic	modeling and analyzing periodic distributed computations	2010	2.6486114011955952	9.560849285781535	3844926
+3845413	EDA	a prolog implementation of an instruction-level processor simulator	1987	2.49545411628036	10.291123796866524	3845440
+3850113	Arch	a high-level language for horizontal microprogramming	1974	2.6007688359271217	10.302112653504043	3850140
+3850633	PL	shared contract-obedient endpoints	2012	2.921201618049324	9.899226116061124	3850660
+3854156	PL	programming techniques for efficiently exploiting parallelism in logic programming languages	1990	2.6904135534434777	9.663736672290598	3854183
+3855327	PL	a set-oriented parallel execution model for prolog	1989	2.6385855627809027	10.108084016564813	3855354
+3857844	Logic	a calculus of functional bsp programs with explicit substitution	2003	3.2244540731979505	9.804726373465108	3857871
+3859212	PL	an optimizing pascal compiler	1979	2.6059665200473834	10.070332389762989	3859239
+3860337	PL	analyzing programs with explicit parallelism	1991	2.9854594648332293	10.236999942510558	3860364
+3861740	Theory	efficient gateway synthesis from formal specifications	1991	2.8800894695103367	9.537511013201804	3861767
+3864210	PL	state machines and assertions: an integrated approach to modeling and verification of distributed systems	1986	3.2744641148352516	9.457941727017712	3864237
+3871037	EDA	revisiting smalltalk-80 blocks: a logic generator for fpgas	1996	3.2100142643334357	10.11709753676439	3871064
+3871349	AI	parallel model checking using abstraction	2012	2.5038642688520336	9.841860665628476	3871376
+3873079	Logic	parallel protocol verification using the two-phase algorithm	1989	3.2238054760025947	9.433187622126782	3873106
+3878210	Logic	formal specification and verification method of concurrent and distributed systems by restricted timed automata	1997	3.065909591366683	9.36874246829066	3878237
+3878599	Logic	formal verification of arbiters using property strengthening and underapproximations	2010	3.3019562456150267	9.480094649431493	3878626
+3879464	EDA	recursion flattening	2008	3.2922131577754543	9.721365578137174	3879491
+3880111	PL	semantics and implementation of a generalized forall statement for parallel languages	1997	3.162163869165649	9.574431173233624	3880138
+3882276	Embedded	a flag simulation strategy based on fusion of semantic trees in binary translation	2013	2.568655948753418	10.022247582757892	3882303
+3884293	AI	highly parallel inference engine pie —goal rewriting model and machine architecture—	1984	2.867127921568407	9.655030069313971	3884320
+3886800	EDA	verification of rtl generated from scheduled behavior in a high-level synthesis flow	1998	3.117220402439717	9.540332128008034	3886827
+3888463	Metrics	testing protocols modeled as fsms with timing parameters	1999	3.0640639346378835	9.675316317447656	3888490
+3891152	PL	implementation of speculative parallelism in functional languages	1994	3.0641929501308662	9.640174304107944	3891179
+3896520	PL	a program form based on data dependency in predicate regions	1983	2.6873111267570566	9.954587336306382	3896547
+3896666	PL	combining tools for optimization and analysis of floating-point computations	2018	2.761232345265783	9.757296429083118	3896693
+3899817	Embedded	automata-based symbolic scheduling for looping dfgs	2001	2.543740639552665	9.577134855595268	3899844
+3902194	HPC	glu: a high-level system for granular data-parallel programming	1997	2.9293735735735384	10.237608438939686	3902221
+3904941	SE	testing real-time constraints in a process algebraic setting	1995	2.754439465746383	9.496996667086961	3904968
+3907163	DB	optimizing and parallelizing loops in object-oriented database programming languages	1992	3.238083324526839	9.689652465651056	3907190
+3910239	PL	verification and improvement of the sliding window protocol	2003	3.2673246153540974	9.61330617437686	3910266
+3911548	SE	computational caches	2013	3.384585169749028	9.972041159245547	3911575
+3913106	PL	"""a solution to a problem with morel and renvoise's """"global optimization by suppression of partial redundancies"""""""	1988	2.5786653654079816	9.706057849462429	3913133
+3919151	PL	with-loop scalarization - merging nested array operations	2003	3.0008056383286834	10.05349024570388	3919178
+3919495	PL	fast tactic-based theorem proving	2000	3.2949343019880426	9.484798573915187	3919522
+3921398	Embedded	a graph-theoretic approach for timing analysis in real time logic	1986	2.8921218269206888	9.403420141573154	3921425
+3924846	NLP	a massively parallel architecture for natural language parsing - some results	1998	2.640909643468858	9.9409745264841	3924873
+3928735	Arch	reconfigurable computing based on universal configurable blocks-a new approach for supporting performance- and realtime-dominated applications	2000	2.5228233158753564	10.320187892267613	3928762
+3931519	HPC	scheduling speculative work in muse and performance results	1992	2.6797631543455984	10.23582622109945	3931546
+3934195	Embedded	simulation-verification: biting at the state explosion problem	2001	2.6815028415904516	9.388323270999033	3934222
+3936014	AI	a review of literature on parallel constraint solving	2018	3.244014404708488	9.94807767548013	3936041
+3941274	Arch	backtracking in independent and-parallel implementations of logic programming languages	2001	2.584100197691251	9.6346770698936	3941301
+3943852	Arch	recursive microprogramming in a syntax recognizer	1973	2.5085675508809926	10.14610816893752	3943879
+3944969	Networks	synchronizable test sequences based on multiple uio sequences	1995	3.22187945660708	9.602844407353825	3944996
+3947626	Arch	on the design of a microcode compiler for a machine-independent high-level language	1981	2.6705058737160794	10.280165493808104	3947653
+3952020	EDA	symbolic simulation heuristics for high-level design descriptions with uninterpreted functions	2001	2.9956995843239027	9.465931767596897	3952047
+3952423	PL	a note on data-parallelism and (and-parallel) prolog	1994	2.9117542011427666	9.512193552951725	3952450
+3955410	HPC	code generation in the polyhedral model is easier than you think	2004	2.7806477166252304	9.603801750758072	3955437
+3959714	SE	software fault tolerance of distributed programs using computation slicing	2003	3.3413313210647795	9.51658390325635	3959741
+3963046	PL	concurrency paradigms: competitive, coordinated, and collaborative: which control mechanisms are appropriate?	2015	3.4060811450243533	10.15657507484488	3963073
+3966910	PL	a semantic framework to address data locality in data parallel languages	2004	2.781054072098048	10.299821414940084	3966937
+3969466	PL	efficiently computing static single assignment form and the control dependence graph	1991	3.2619143025147714	9.465439167178676	3969493
+3976712	PL	program parallelization using synchronized pipelining	2009	2.683817051772559	10.091982461191408	3976739
+3981338	EDA	correctness properties and exemplified applicability of a signal matching algorithm with multidimensional tolerance specifications	2018	2.4430448506655087	9.573972092309717	3981365
+3984521	PL	towards a high-level implementation of execution primitives for unrestricted, independent and-parallelism	2008	3.302579533620043	9.827404610644097	3984548
+3987032	Embedded	formal simulation and analysis of the cash scheduling algorithm in real-time maude	2006	3.2350732531010027	9.44669520372944	3987059
+3989876	ML	r2m: a reconfigurable rewrite machine	1994	2.531797064971007	10.179377051449103	3989903
+3996197	HPC	denotational semantics of an hpf-like data-parallel langguage model	2001	2.981434732575804	10.101528542476704	3996224
+4002349	Arch	relating buffer-oriented microarchitecture validation to high-level pipeline functionality	2001	3.0419329730844207	9.922660203933301	4002376
+4003714	PL	elimination of redundant array subscript range checks	1995	3.2833870025527414	10.288187171061347	4003741
+4006836	PL	giga-scale exhaustive points-to analysis for java in under a minute	2015	3.205051745387009	9.483055797398595	4006863
+4011940	Logic	verification of faulty message passing systems with continuous state space in pvs	2010	3.1553837983544253	9.579926476324298	4011967
+4014310	Theory	a theoretical formalism for analyzing agent-based models	2014	2.7763793281155533	9.666548292137273	4014337
+4015918	HPC	constant propagation in a hierarchical intermediate program representation	1999	3.0564327946347225	9.551478215668267	4015945
+4017542	PL	copying operands versus copying results: a solution to the problem of large operands in ffp's	1981	2.8726713854773265	10.010100976890737	4017569
+4021854	HPC	restructuring programs for high-speed computers with polaris	1996	3.007291033353729	9.939502780922503	4021881
+4027829	Logic	multi-core nested depth-first search	2011	2.6276714979133238	9.776192181454727	4027856
+4030886	PL	validation of loop parallelization and loop vectorization transformations	2016	3.293204319027852	10.044068649359488	4030913
+4041169	PL	logical inference techniques for loop parallelization	2012	3.132738873540089	9.800693492207378	4041196
+4045489	Theory	why multi-sld beats sld (even on a uniprocessor)	1994	2.73260452237342	9.933696583925961	4045516
+4047003	PL	abstract interpretation for the compile-time optimization of logic programs	1993	3.3536938034827566	10.039069895904724	4047030
+4047479	NLP	pit: a macro-implemented implementation language	1972	2.614560434852005	10.153135311473413	4047506
+4047809	PL	fast prolog with vam1p based prolog compiler	1992	2.9166260529445154	10.063258401635958	4047836
+4049532	DB	towards multi-threaded local tabling using a common table space	2012	3.010328781296044	9.94658498543716	4049559
+4051383	Theory	a formal proof of a necessary and sufficient condition for deadlock-free adaptive networks	2010	3.11533543154931	9.66939000640583	4051410
+4060616	Arch	hardware-accelerated regular expression matching with overlap handling on ibm poweren processor	2013	3.2125604772943466	10.302229647424367	4060643
+4072728	AI	stabilizing mobile philosophers	2005	2.6247860406842842	10.317333104507892	4072755
+4073382	EDA	automatic verification of pipelined microprocessors	1994	3.0421029974679317	9.457173231671176	4073409
+4086495	PL	space efficient breadth-first and level traversals of consistent global states of parallel programs	2017	2.9803244552371857	9.726782124179914	4086522
+4088925	Logic	protocol validation by simultaneous reachability analysis	1997	3.1420024670619697	9.520744634540918	4088952
+4091032	EDA	formal model construction using hdl simulation semantics	2007	2.9804393731452614	9.389139499328213	4091059
+4092273	PL	esp — extended self-contained prolog — as a preliminary kernel language of fifth generation computers	1983	2.7395727482580403	10.236162184107474	4092300
+4092681	PL	symbolic range analysis of pointers	2016	3.09828448634462	10.216681456899408	4092708
+4094231	EDA	automated generation of directed tests for transition coverage in cache coherence protocols	2012	2.5009226713730386	9.580976228543431	4094258
+4095948	Security	"""comments on """"a distributed scheme for detecting communication deadlocks"""""""	1989	3.244917891898285	10.119859401069661	4095975
+4101998	HPC	representation of concurrency with ordering matrices	1973	2.626865621122918	10.195668096023127	4102025
+4103025	EDA	an optimal approach to hardware/software partitioning for synchronous model	2004	2.4900647915308496	9.622534069753831	4103052

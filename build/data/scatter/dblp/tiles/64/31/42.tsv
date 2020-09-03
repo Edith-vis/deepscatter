@@ -1,0 +1,122 @@
+id	area	title	year	x	y	ix
+3844974	EDA	modeling and simulation of fast floating-point function generation.	2003	-0.4414095801790812	9.66619670981166	3845001
+3846800	SE	applications of residues for the analysis of parallel systems communicating by fifo channels	1986	0.02769474287441972	10.280880701536539	3846827
+3849709	Arch	simulation using parallelism in computer architecture	1984	-0.06272855791095065	10.11261641309826	3849736
+3859874	HPC	an overview of the apc compiler for distributed memory machines	2003	0.17709849269010972	10.07915682315372	3859901
+3860023	Arch	a comparison of two synchronization primitives in an operating system for parallel processing applications	1986	0.03844428590534912	10.147253693874424	3860050
+3861593	PL	maximizing parallelism and minimizing synchronization with affine partitions	1998	-0.4345029044783316	10.11913256779787	3861620
+3864824	EDA	a pgm based multi-level reliability analysis method for data cache	2015	-0.1244990629516398	10.151267565304947	3864851
+3865107	ML	fast density-based clustering using graphics processing units	2014	-0.3905643345846717	9.692442763077732	3865134
+3865856	Theory	programming dec-alpha based multiprocessors the easy way (extended abstract)	1994	0.3708961171098431	10.181412292002632	3865883
+3869451	ML	medical image dataset processing over cloud/mapreduce with heterogeneous architectures	2017	-0.002736668305323746	9.9622462618989	3869478
+3875632	Graphics	cosmic simulations	2012	0.4427047899267828	9.980868216575207	3875659
+3876414	PL	index vector elimination - making index vectors affordable	2006	-0.28584150999845154	10.164561609239566	3876441
+3880747	SE	scheduling of a control and data flow graph	1993	-0.3509435513300091	10.04965477167281	3880774
+3884357	Arch	an analysis of a multicache shared memory ring interconnection	1982	-0.2887543345740223	10.045687246622446	3884384
+3885904	SE	automatic generation of floating-point test data	1976	0.3251513015829447	10.295681706361114	3885931
+3886239	HPC	exploiting heterogeneous computing systems for energy efficiency	2012	-0.2059970193805456	9.876210202478447	3886266
+3887794	HPC	using fg to reduce the effect of latency in parallel programs running on clusters	2007	0.4036311082896483	10.25627806065081	3887821
+3888488	Vision	cm-2 performance evaluation on panel method calculations	1993	0.01866267161459597	9.941118919544973	3888515
+3888902	ML	a uniform parallel optimization method for knowledge discovery grid	2008	0.4817496946033945	10.117038661721164	3888929
+3890199	HPC	toward automatic distribution	1994	-0.458420186357746	10.225042677672958	3890226
+3890328	DB	p-autoclass: scalable parallel clustering for mining large data sets	2003	0.3832074227039379	10.163290470435085	3890355
+3891057	PL	a practical functional program for the cray x-mp	1992	0.030601513845713288	9.8503794772139	3891084
+3893122	HPC	polca - a programming model for large scale, strongly heterogeneous infrastructures	2013	0.27917403705322835	9.964459553750293	3893149
+3899750	HPC	sparse matrix computations on the cm-5	1993	-0.32454743553709464	10.037476766901502	3899777
+3901086	Embedded	architecture/os support for embedded multi-core systems	2010	-0.06911856929207492	9.958995336327137	3901113
+3901972	NLP	some performance inequalities for multiprogrammed and multiprocessing computers	1984	0.2363288935733194	10.033542208807072	3901999
+3902613	HPC	applying parallel and distributed processing techniques to a tether dynamics simulation	1997	0.16402785765377706	9.689200650073117	3902640
+3907461	PL	a proofe system for a simple data-parallel programming language	1994	0.4531535145697445	10.009632538788	3907488
+3907691	HPC	a practical method for quickly improving performance and reducing answer time through the selection of hot loops based on the input data	2012	-0.206011026856548	10.079396780011562	3907718
+3907705	ML	bigger buffer k-d trees on multi-many-core systems	2015	-0.11240867487223152	10.325458209895901	3907732
+3908258	Metrics	parallel performance analysis of large markov models	2000	-0.09414209273842546	9.786802800638037	3908285
+3909457	HPC	parallel simulation of mobile communication networks using a distributed workstation environment	1995	0.4791341161908245	10.2436868984585	3909484
+3909680	HPC	review of 'highly parallel computations: algorithms and applications, ' by m.p. bekakos	2002	0.2785250834121461	10.060941329570642	3909707
+3915204	PL	coordinating heterogeneous parallelism : distributing collections in lisp	1995	0.3595001649234627	9.830435791747316	3915231
+3915805	PL	performance of a particle-in-cell plasma simulation code on the bbn tc2000	1992	0.01719432315966072	9.805627691664883	3915832
+3917590	NLP	chapter two - exploring future many-core architectures: the teraflux evaluation framework	2017	0.03366754723989829	10.197854652633852	3917617
+3920042	HPC	simulation analysis of resource allocation policies on space-sharing pc clusters and parallel computers	2002	0.27415176766100324	10.269224095584056	3920069
+3920579	DB	cg_hadoop: computational geometry in mapreduce	2013	-0.3539647650947029	9.802217769847571	3920606
+3922036	Robotics	a parallel implementation of the tree-structured self-organizing map	2002	0.16471155923329928	10.15486147140346	3922063
+3924419	DB	parallel computation of direct transitive closures	1991	0.11341907538569612	9.63379808805766	3924446
+3925784	HPC	geophysical modeling - migration viewed as a spectrum of supercomputer applications	1986	0.30978951794566223	9.972257943466053	3925811
+3928850	OS	"""corrected model for """"predicting the relative performance of cpu"""""""	2011	-0.4457625469181751	9.939409560236438	3928877
+3929880	HPC	dynamic load balancing in parallel numerical simulations of reactive gas flows	2005	0.4482940389020664	10.109571010446107	3929907
+3931102	HPC	towards computer aided development of parallel compilers running on transputer architecture	1995	0.2693693891471721	10.021022426268901	3931129
+3933451	HPC	applications of parallel computing in transportation - introduction	2001	-0.08414821624496034	9.736577462335124	3933478
+3934559	Vision	shared memory multiprocessor implementation and evaluation of hough transform algorithm	1991	-0.2566168077682228	10.258396423411039	3934586
+3936285	HPC	allocation management solutions for high performance computing	2005	0.30888880635563915	10.029295778869956	3936312
+3936390	HPC	pesa i-a parallel architecture for production systems	1987	-0.05559990325058521	9.82987848711714	3936417
+3936946	Arch	a synchronous model for static optimizations of multicomputer programs	1992	0.09583910708956933	10.13746226626786	3936973
+3942269	HPC	security in high-performance computing environments	2017	0.4252312148008073	10.159475179149348	3942296
+3942465	DB	maintaining web cache coherency.	2000	0.43159499140661617	10.06133660525818	3942492
+3943148	Vision	parallel computing for chromosome reconstruction using pvm	1997	-0.24758578656191485	9.818278407048869	3943175
+3943925	PL	a high-level library for multidimensional arrays programming in computational science	2018	0.4635019545543849	9.94848519897424	3943952
+3945290	Embedded	clustering application benchmark	2006	0.28241844839022096	10.040314059797367	3945317
+3945874	HPC	high-performance fortran languages: advanced applications and their implementation	1994	0.21787307703957984	9.70994380654384	3945901
+3947516	Vision	massive parallel models of net dynamic objects	1995	-0.31695443883796204	9.757927576062409	3947543
+3948894	Arch	architectural features of cassm: a context addressed segment sequential memory	1978	0.32603380010111765	9.91555905213982	3948921
+3950586	ML	parallel implementation of an hybrid neural network used for speech recognition task	1995	-0.4476129163523733	9.636726600120234	3950613
+3951969	SE	dependability analysis for large systems: a hierarchical modeling approach	1993	0.3596975994739147	9.615876821929238	3951996
+3953952	Web+IR	hardware systems for text information retrieval	1983	-0.21321713519655813	10.078361196378037	3953979
+3954545	HPC	toward a performance science: a comparative analysis of computing systems	1977	0.22248017429248973	9.901927418520016	3954572
+3954856	HPC	experiences with computational steering on existing scientific applications	1999	0.4770638745001245	10.023037411166946	3954883
+3956479	HPC	convergence in a sparse distributed memory	1998	-0.4048247767175797	9.713418917619396	3956506
+3957210	Web+IR	low-cost parallel text retrieval using pc-cluster	2001	0.1391770641544906	10.05388830081508	3957237
+3957353	HPC	analysis of i/o requirements of scientific applications	2018	0.2757335841851665	9.954757680507653	3957380
+3961672	HPC	on methods for fast and efficient parallel memory access.	1990	-0.4518207016858881	10.105913542576179	3961699
+3964824	HPC	polygonal overlay computation on cloud, hadoop, and mpi	2017	0.2726346670449348	10.127002243814117	3964851
+3967308	HPC	ianos - efficient use of hpc grid resources	2008	0.28909621546480896	9.967290499470748	3967335
+3970556	Robotics	parallel construction method of a disk-based suffix tree on a pc cluster	2008	-0.4595025043863845	9.597975913509488	3970583
+3974303	SE	efficient and retargetable simd translation in a dynamic binary translator	2018	0.3798273986997936	10.235062397584931	3974330
+3981843	Theory	parallel discrete - event simulation on shared memory multiprocessors	1991	0.19354310074993475	10.020370832343948	3981870
+3990658	OS	system tuning the univac executive operating system's dynamic allocator	1981	0.05632043474549636	10.277631666788912	3990685
+3992432	ML	mpdc: massive parallel architecture for very large databases	1984	-0.4018249960821902	9.870466737218766	3992459
+3997490	HPC	design and implementation of the multimedia operation mechanism for responsive multithreaded processor	2005	0.494268411664181	10.30801927696804	3997517
+3998302	Robotics	"""erratum to: """"a neural network algorithm for servicing jobs with sequential and parallel machines"""""""	2014	0.0006103058025866602	10.036601137469905	3998329
+4005819	Vision	parallel guessing: a strategy for high-speed computation	1987	-0.11806429339211075	10.317190145876195	4005846
+4016934	HPC	window memory layout scheme for alternate row-wise/column-wise matrix access	2013	-0.2567395790450017	9.910205583167658	4016961
+4017225	Logic	f-code and its implementation: a portable software platform for data parallelism	1993	0.33450656485745084	10.300884429726594	4017252
+4017527	HPC	a new method of scheduling uet tasks on parallel machines	2006	-0.08049887194788045	9.879928491155372	4017554
+4019165	HPC	performance evaluation and quality optimization in parallel processing systems with mixed applications	1995	-0.16662722878516045	10.122375792158222	4019192
+4021733	HPC	the workshop on performance evaluation of parallel computing	1987	0.09654375596659988	9.836143967351344	4021760
+4023883	HPC	performance considerations in the parallel execution of numerical algorithms on two processors	1982	0.4950567435074763	10.148457053117383	4023910
+4025002	HPC	configuration caching in adaptive computing systems using association rule mining (arm)	2005	-0.0006645252441480643	9.822104557993773	4025029
+4025923	HPC	software support for parallel computing: where are we headed?	1991	-0.2057906869822108	9.758092359882356	4025950
+4028048	HPC	an experimental study of the effectiveness of high level parallel programming	1991	0.3834761203853085	10.027092117306184	4028075
+4033144	HPC	massively parallel computing in a proction environment ipsc/860 installation at kfa jülich	1993	0.03579009785600628	10.151592883180797	4033171
+4033169	HPC	oracle parallel processing - oracle parallel execution and oracle parallel server	2000	0.30519003133548595	10.250026190073834	4033196
+4033171	Arch	scheduling divisible loads on a chain of processors	1997	0.3677980230807006	10.268385397390391	4033198
+4034930	OS	parallelization techniques for heterogeneous multicores with applications	2017	-0.012713747841138821	10.248236838129547	4034957
+4036180	AI	accelerating training process in logistic regression model using opencl framework	2017	-0.2955384159297341	9.711858700069259	4036207
+4038185	HPC	optimal mpi datatype normalization for vector and index-block types	2014	0.2723401922926621	10.234402860016102	4038212
+4038554	Theory	a computation-implementation parallelization approach to the vehicle loading and routing problem	2019	0.05009998755199654	9.861671331671207	4038581
+4044058	Theory	parallel d-d delaunay triangulations in shared and distributed memory	2017	-0.3550754582575916	9.915223382920784	4044085
+4046189	Embedded	memory-based optimization techniques for real-time systems	2012	0.04889474702140622	9.929808867945805	4046216
+4048583	HPC	exploiting parallelisms for real time applications: the hamlet approach	1994	-0.3880482693344117	9.900111136890418	4048610
+4051869	EDA	design of embedded real-time computing systems	1995	-0.02478298951939345	9.868103380131428	4051896
+4052333	HPC	parallel sparse matrix solver on the gpu applied to simulation of electrical machines	2010	-0.4090993391745777	10.195265997269493	4052360
+4056471	HPC	network substrate for parallel processing on a workstation cluster	1994	0.07664062516049543	10.078817039669868	4056498
+4057874	HPC	inter- and intra-transaction parallelism for combined oltp/olap workloads	1997	-0.029810676920406686	9.892863737896429	4057901
+4058536	DB	p-dot: a model of computation for big data	2013	-0.3967328107675276	10.299505355520244	4058563
+4059662	NLP	building and operating large-scale spinnaker machines	2016	-0.3517320825013334	9.771107580929066	4059689
+4061418	Robotics	a theoretical investigation of feedback guided dynamic loop scheduling.	1999	-0.15826293075561595	9.772348325317667	4061445
+4063938	EDA	partitioning communication processes for efficient execution of the fork-join structures	2000	0.24154529483576526	10.168341650179501	4063965
+4065893	Theory	synchronization problems in hierarchically organized multiprocessor computer systems	1979	0.2596829335490467	10.159175740525832	4065920
+4067456	EDA	distributed molecular dynics using the pvm system	1993	0.09458346499391397	9.799900949860993	4067483
+4072255	HPC	a mimid supercomputer system for large scale numerical applications	1983	-0.0558681632537321	9.902044269135642	4072282
+4072613	Logic	scheduling speculative work in muse	1993	0.449817670085288	9.998358775746755	4072640
+4074402	ML	computational mathematics - models, methods, and analysis with matlab and mpi	2004	0.03015928483428648	9.66250226978516	4074429
+4074798	HPC	on system effectiveness evaluation of real-time parallel and distributed computing systems	1990	0.0545934853827266	9.773340128224568	4074825
+4075625	ML	point estimation of the stress-strength reliability parameter for parallel system with independent and non-identical components	2018	0.4071500535619652	9.977144421221707	4075652
+4082655	NLP	fast document similarity computations using gpgpu	2018	-0.13754800956138946	9.821279118323408	4082682
+4084517	HPC	towards a resilience investigation framework for high performance computing	2014	0.3628928019610883	10.020841562583424	4084544
+4085006	Robotics	on the scalability of a parallel genetic algorithm based on domain decomposition	2003	-0.2552091983263424	9.889472782761674	4085033
+4085528	DB	a novel associative memory architecture for quick matching	2002	-0.3921562854829933	9.983198779388973	4085555
+4086546	EDA	using path-spectra-based cloning in region-based optimization for instruction-level parallelism	2001	-0.11515174205315006	10.213237346483805	4086573
+4087238	EDA	a loop parallelization technique for linear dependence vector	1995	-0.2763384573207074	9.749202678359934	4087265
+4087528	HPC	cost optimal analysis for workstation clusters.	1996	0.006234357183428804	9.912223158808423	4087555
+4090357	Arch	ddc delta driven computer - a parallel machine for symbolic processing	1986	-0.1989422328643162	9.965906702942394	4090384
+4099202	NLP	mpi/openmp hybrid parallel inference methods for latent dirichlet allocation — approximation and evaluation	2013	-0.07835728700641591	9.844125830136608	4099229
+4099257	HPC	performance issues for message-passing mimd machines	1991	0.03858547123366983	10.232761031079793	4099284
+4100380	HPC	high performance computing architectures	2009	0.23093139241895894	9.982361345783511	4100407

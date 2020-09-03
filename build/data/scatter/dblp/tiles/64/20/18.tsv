@@ -1,0 +1,211 @@
+id	area	title	year	x	y	ix
+3671569	Vision	knn-based color line model for image matting	2013	-10.670039012229983	-13.48026614279401	3671596
+3675393	Graphics	appearance-space texture synthesis	2006	-11.015418182819037	-13.209710837839346	3675420
+3675586	Vision	candy: conditional adversarial networks based end-to-end system for single image haze removal	2018	-11.0320140897348	-13.01421220683038	3675613
+3681158	Vision	an improved method of detecting edge direction for spatial error concealment	2012	-10.988195553215464	-13.159285339678455	3681185
+3684170	Robotics	haze removal for unmanned aerial vehicle aerial video based on spatial-temporal coherence optimisation	2018	-11.097110842264168	-12.861090762633946	3684197
+3684512	Vision	super-resolution from noisy image sequences exploiting a 2d parametric motion model	2000	-10.951677001852362	-13.208361960319085	3684539
+3684539	Vision	adaptive colour constancy algorithm using discrete wavelet transform	2012	-11.027541409511505	-13.3199990348001	3684566
+3687842	Vision	image separation between natural and artificial objects using fractal dimension	1994	-10.368746723960294	-13.315259712376866	3687869
+3689021	Vision	image inpainting based on probabilistic structure estimation	2010	-10.670759787782123	-13.059971032638233	3689048
+3690022	Graphics	manifold preserving edit propagation	2012	-10.389511321646976	-13.121588170644346	3690049
+3690279	Vision	motion compensated super-resolution of video by level sets evolution	2004	-10.615585950348699	-13.476746452044008	3690306
+3693326	Robotics	perceptually derived localized linear operators: application to image sequence compression	1993	-10.300790414818168	-13.294128271793216	3693353
+3695587	Vision	tensor-based 3d color face reconstruction using a single image	2012	-10.474544452887912	-12.955827684901388	3695614
+3699567	Vision	exemplar-based image inpainting using color distribution analysis	2012	-10.530380627271576	-12.759338198333456	3699594
+3699643	Robotics	a sampling-based gem algorithm with classification for texture synthesis	2006	-10.279480658016727	-13.157944797550694	3699670
+3700601	Vision	an illumination estimation scheme for color constancy based on chromaticity histogram and neural network	2005	-10.47303155581541	-13.426799785991962	3700628
+3701231	Vision	video super-resolution using simultaneous motion and intensity calculations	2011	-10.170278009736736	-13.428205812821908	3701258
+3702779	Vision	an image super-resolution algorithm for different error levels per frame	2006	-10.778322750904278	-13.098587494291134	3702806
+3702903	Vision	application of the total least squares procedure to linear view interpolation	1999	-10.199016451653158	-12.995287670186295	3702930
+3705664	Vision	super-resolution with adaptive pixel weighting scheme and its application to super-resolved free-viewpoint image synthesis	2013	-10.450804551726598	-12.72315138391639	3705691
+3709132	Vision	rain removal by image quasi-sparsity priors	2018	-11.088008968525653	-12.992759334542768	3709159
+3710260	Vision	recovering shading from color images	1992	-10.209411392293514	-12.898580935829491	3710287
+3711210	Vision	fast and robust variational optical flow for high-resolution images using slic superpixels	2015	-10.822574254100294	-13.200872329930887	3711237
+3711427	Vision	iteratively reweighted graph cut for multi-label mrfs with non-convex priors	2015	-10.170751226623569	-13.113785324726875	3711454
+3712378	Vision	discontinuity-preserving and viewpoint invariant reconstruction of visible surfaces using a first order regularization	1995	-10.177742437082287	-13.131816156089492	3712405
+3713847	Vision	complex sinusoidally modulated imaging for real-time pixel-wise optical flow detection	2007	-10.336019653397381	-13.28094005129511	3713874
+3715379	Vision	towards naturalistic depth propagation	2013	-10.884850836556778	-12.954685904607839	3715406
+3717628	Vision	patch-based stereo matching using 3d convolutional neural networks	2018	-10.704622173538047	-13.05170858563858	3717655
+3721012	Vision	sketch-guided texture-based image inpainting	2006	-11.043822060923224	-13.243777073102793	3721039
+3721020	Vision	hierarchical super-resolution-based inpainting	2013	-11.038105583981086	-12.796648350267875	3721047
+3727639	Vision	integrating wavelet transformation with markov random field analysis for the depth estimation of light-field images	2017	-10.952046232256851	-13.15672744324957	3727666
+3730429	Vision	color correction via robust reference selection and recovery using a low-rank matrix model	2011	-10.78109302570994	-13.124872360621145	3730456
+3730434	Vision	further improvement of super-resolution reconstruction	2007	-11.064144084273586	-13.248265798880508	3730461
+3731992	ML	iterative gradient-driven patch-based inpainting	2011	-10.55459464799048	-12.764401272260912	3732019
+3734338	Vision	an iterative approach for shadow removal in document images	2018	-10.497963136600923	-12.781917674659756	3734365
+3735599	Vision	a reference estimator based on composite sensor pattern noise for source device identification	2014	-10.89034866937541	-13.052793168309146	3735626
+3738991	Vision	automatic tv logo removal using statistical based logo detection and frequency selective inpainting	2005	-10.61301604627808	-13.335300051135215	3739018
+3739509	Robotics	total variation regularization algorithm for video stabilization in a digital camera	2013	-10.603103912673769	-12.783150526606331	3739536
+3742881	Vision	intrinsic light fields	2016	-11.06401922317476	-12.758623561571527	3742908
+3743335	Vision	recursive displacement estimation and restoration of noisy-blurred image sequences	1993	-10.232835005993083	-13.552053018643356	3743362
+3743507	Vision	optimized color sampling for robust matting	2007	-10.705099300806564	-13.424419742903005	3743534
+3744734	Vision	variational optic flow computation with a spatio-temporal smoothness constraint	2001	-10.385751389997068	-13.388724009236991	3744761
+3745544	Vision	variational dense motion estimation using the helmholtz decomposition	2003	-10.376343600568774	-13.534371243795245	3745571
+3748325	Vision	depth estimation within a multi-line-scan light-field framework	2014	-10.14800854824461	-13.043710426588948	3748352
+3750773	Vision	spatio-temporal video filtering algorithm based on 3-d anisotropic diffusion equation	1998	-10.192475498825145	-13.575626180245534	3750800
+3752177	Vision	structure-texture decomposition via joint structure discovery and texture smoothing	2018	-10.7732799696581	-13.127340866875313	3752204
+3752363	Vision	robust methods for high-quality stills from interlaced video in the presence of dominant motion	1997	-10.58400895954312	-12.813169569839776	3752390
+3756591	ML	continuous multiclass labeling approaches and algorithms	2011	-10.274030917967039	-13.190271951072287	3756618
+3757908	Vision	a mrf model based scheme for accurate detection and adaptive interpolation of missing data in highly corrupted image sequences	1999	-10.57280987366032	-13.166616032024484	3757935
+3763999	Vision	edge-labeling using dictionary-based relaxation	1990	-10.82456092444326	-13.552179324670966	3764026
+3770318	Vision	a fast restoration method for atmospheric turbulence degraded images using non-rigid image registration	2013	-10.647102445132568	-13.146813278036113	3770345
+3771946	Vision	color correction: a novel weighted von kries model based on memory colors	2011	-10.793505648417478	-13.1109892354179	3771973
+3771949	Vision	multisensor video fusion based on higher order singular value decomposition	2015	-10.83427891082575	-12.713562819531688	3771976
+3776794	Robotics	a fast video noise reduction method by using object-based temporal filtering	2007	-10.823771826620442	-12.917543803562591	3776821
+3784483	Vision	scene flow estimation from light fields via the preconditioned primal-dual algorithm	2014	-10.662346333140576	-13.051800636345124	3784510
+3789280	Vision	fast detection and removal of glare in gray scale laparoscopic images	2018	-10.862777549898736	-13.302290220666036	3789307
+3791746	Vision	exemplar-based image inpainting base on structure construction	2008	-10.742763388194538	-12.796101101205805	3791773
+3791840	Vision	lime: low-light image enhancement via illumination map estimation	2017	-10.947283874437076	-12.722042322986011	3791867
+3797048	Vision	super-resolution reconstruction of continuous image sequences	1999	-10.802520888734005	-13.380506202276711	3797075
+3797204	Vision	cycle-dehaze: enhanced cyclegan for single image dehazing	2018	-11.074453380529548	-13.055661749491511	3797231
+3797388	Vision	vector field smoothing via heat flow	2004	-10.539219679814499	-13.115629829352105	3797415
+3799029	Vision	learning a scene background model via classification	2009	-10.38886304048674	-12.984951295634778	3799056
+3799230	Vision	a directional diffusion algorithm for inpainting	2015	-11.022807183674438	-12.967597085864721	3799257
+3803401	Vision	color constancy using 3d scene geometry derived from a single image	2014	-10.200957487544494	-12.755682674509218	3803428
+3803546	Vision	fast video interpolation/upsampling using linear motion model	2011	-10.550724900450273	-12.948204946197267	3803573
+3808003	Vision	adaptive deblurring of surveillance video sequences that deteriorate over time	2013	-10.93553371366616	-12.71726628280215	3808030
+3813158	Vision	removing partial blur in a single image	2009	-11.02383519832092	-13.102012708701105	3813185
+3813243	Robotics	image completion based on weighting patch match	2009	-10.582051883606855	-12.956332528679347	3813270
+3813878	Vision	image segmentation and reconstruction using graph cuts and texton mask	2007	-10.353694838157237	-12.884840800072176	3813905
+3817113	Vision	edge detection in optical flow fields	1982	-10.980916379438534	-13.391813698471207	3817140
+3822129	Vision	a recursive least square adaptive filter for nonuniformity correction of infrared image sequences	2005	-10.962953470269904	-12.74081639160982	3822156
+3823642	Vision	super-resolution via recapture and bayesian effect modeling	2009	-10.400915434488587	-12.940312021039624	3823669
+3825913	Vision	deep underwater image enhancement	2018	-10.958709064929106	-12.85259626525152	3825940
+3826655	HCI	image based visibility estimation during day and night	2014	-10.755381879684787	-12.929657287686	3826682
+3834837	Vision	a space variant gradient based corner detector for sparse omnidirectional images	2010	-10.179054193845404	-13.024260914267593	3834864
+3842171	Vision	a block-based super-resolution for video sequences	2008	-10.710332382540749	-13.004117517907414	3842198
+3843018	Vision	inpainting with sparse linear combinations of exemplars	2009	-10.897383023378561	-13.070946144030454	3843045
+3843845	Vision	color image dehazing using surround filter and dark channel prior	2018	-11.081105822089457	-12.804907234246054	3843872
+3846155	Vision	hierarchical example-based range-image super-resolution with edge-preservation	2014	-10.526034620435944	-13.369588801704312	3846182
+3847250	Robotics	high dynamic range imaging by a rank-1 constraint	2013	-10.43219380923633	-12.757445825282776	3847277
+3849150	Mobile	improved block truncation coding using extreme mean value scaling and block-based high speed direct binary search	2011	-10.980469138897943	-13.281380812869251	3849177
+3850539	Vision	impossible and ambiguous shading patterns	1992	-10.155389486008993	-12.847680164630976	3850566
+3860817	Vision	intrinsic image extraction from a single image	2009	-10.662987264602725	-13.022025440575089	3860844
+3860894	Robotics	upsampling of low-resolution depth map with enhancing depth discontinuity regions	2014	-10.397919604455495	-12.734094836470986	3860921
+3862244	Vision	example-based enhancement of degraded video	2014	-11.097583972926056	-12.712487224902317	3862271
+3863597	Vision	direct method for reconstructing shape from shading	1992	-10.145006708828008	-13.003673849240851	3863624
+3865809	Vision	single-image dehazing algorithm based on convolutional neural networks	2018	-11.007444674012609	-13.013869737706985	3865836
+3867028	Vision	simultaneous foreground, background, and alpha estimation for image matting	2010	-10.32259100464804	-12.692842879138864	3867055
+3867215	Vision	motion estimation in blurred frames using phase correlation	2013	-10.557756262908354	-12.688953359020328	3867242
+3872223	Vision	a novel refocusing distance measurement method using super-resolved light field images	2018	-10.9527375231951	-13.025954297875035	3872250
+3872489	Vision	super-resolution reconstruction using spatio-temporal filtering	2003	-10.360049569513802	-13.438456521326122	3872516
+3872982	Vision	object detection in a noisy scene	1996	-10.420858928101566	-13.177087513330164	3873009
+3875428	ML	spatio-temporal super-resolution for multi-videos based on belief propagation	2018	-10.808811212912367	-13.097862049925528	3875455
+3880768	Vision	exemplar-based image inpainting based on pixel inhomogeneity factor	2017	-10.75586765108699	-12.812196357756116	3880795
+3883354	Vision	regularized depth from defocus	2008	-11.07856010735293	-13.460458197470109	3883381
+3883436	Vision	sparse regularization of tv-l1 optical flow	2014	-10.956013895140577	-13.233906949291608	3883463
+3883464	Robotics	a multihypothesis motion-compensated temporal filter for video denoising	2006	-10.978162580749874	-12.846512207739035	3883491
+3888339	Robotics	depth super-resolution with deep edge-inference network and edge-guided depth filling	2018	-10.54577110656377	-12.831570959151831	3888366
+3890619	Vision	an eigenbackground subtraction method using recursive error compensation	2006	-10.809768230504591	-13.137739215118188	3890646
+3893043	Vision	detail-preserving and content-aware variational multi-view stereo reconstruction	2016	-11.005919845873187	-13.088478915809029	3893070
+3893671	Robotics	fast block-based algorithms for connected components labeling	2013	-10.186000182956633	-13.231946489033971	3893698
+3894456	Vision	non-local image dehazing	2016	-10.962414251786956	-12.853966084571507	3894483
+3898017	Vision	block-sparse rpca for consistent foreground detection	2012	-10.518938716615905	-13.004326177215734	3898044
+3898060	Vision	monocular depth estimation using whole strip masking and reliability-based refinement	2018	-10.477356771831053	-12.914347841319527	3898087
+3898568	Vision	restoration of out-of-focus lecture video by automatic slide matching	2010	-11.041540395802695	-12.779209370891975	3898595
+3899037	Vision	sample-based image completion using structure synthesis	2013	-10.54972027090999	-13.062086599299873	3899064
+3900386	Vision	single image smoke detection	2014	-10.952745159425426	-12.924849329963047	3900413
+3903389	Vision	two step variational method for subpixel optical flow computation	2009	-10.628400173820776	-13.18633851200391	3903416
+3907037	Vision	semantic filtering	2016	-10.9366369835058	-12.953409137277596	3907064
+3909031	Vision	structure-guided image completion via regularity statistics	2016	-11.001864228087783	-13.610819102519276	3909058
+3911631	AI	iris image deblurring based on refinement of point spread function	2012	-10.967999230495591	-13.179761863027306	3911658
+3911674	Vision	intensity fluctuations and natural texturing	1988	-10.383787924028463	-13.497951267349533	3911701
+3912105	Visualization	a motion and edge adaptive deinterlacing algorithm	2004	-10.67732663265272	-13.201991022798035	3912132
+3912245	Vision	shape-from-shading using the heat equation	2007	-10.156317851576981	-12.939137271060796	3912272
+3914983	Vision	a pixel-to-pixel convolutional neural network for single image dehazing	2017	-11.066766062798592	-12.995379056606886	3915010
+3915163	ML	image inpainting based on a novel criminisi algorithm	2018	-10.584429715439127	-13.226601320906054	3915190
+3918647	Vision	in defense of 3d-label stereo	2013	-10.230489039073037	-13.60016747320858	3918674
+3921807	Vision	improved video denoising algorithm based on spatial-temporal combination	2013	-10.724688740469318	-12.718933872458422	3921834
+3923678	Vision	removing rain from a single image via discriminative sparse coding	2015	-10.973605309665922	-12.997038648447932	3923705
+3923724	Vision	sparsity based reflection removal using external patch search	2017	-11.030700204486209	-12.819288641437106	3923751
+3926386	Vision	noise resistance global method optical flow using adaptive lorentzian influence	2018	-10.228883591436297	-13.098116695915225	3926413
+3928317	Robotics	color constancy method based on local chromaticity distribution and illuminant influence for hue angle	2017	-10.454619659360153	-12.957317686959687	3928344
+3930302	Vision	total least squares 3-d motion estimation	1998	-10.686663137669106	-13.192239557610533	3930329
+3932173	Vision	depth recovery from light field using focal stack symmetry	2015	-10.840688634018578	-12.816294989823135	3932200
+3933336	Vision	dense optical flow field estimation using recursive lms filtering	2006	-10.424629240641123	-13.093000321179435	3933363
+3937623	Vision	edge and depth from focus	1998	-10.190735849520909	-13.32882792122956	3937650
+3938337	Vision	moving object detection between multiple and color images	2003	-11.000317976676133	-13.503315846359882	3938364
+3939801	Vision	cramer-rao bounds for parametric shape estimation in inverse problems	2003	-10.334069237911796	-13.517508073387836	3939828
+3941915	Vision	natural image illuminant estimation via deep non-negative matrix factorisation	2018	-10.70439889026436	-12.98943874114328	3941942
+3943776	Vision	pedestrian detection at night time in fir domain: comprehensive study about temperature and brightness and new benchmark	2018	-11.052214196949148	-13.086596425891235	3943803
+3947786	Robotics	variational fusion of time-of-flight and stereo data using edge selective joint filtering	2017	-10.55387507627594	-12.713259444197712	3947813
+3950335	Vision	iterative feedback estimation of depth and radiance from defocused images	2012	-10.890089449435582	-12.970581939753135	3950362
+3951225	Vision	fast exemplar-based image inpainting using a new pruning technique	2017	-10.752649034012306	-13.285925424917185	3951252
+3953296	AI	a novel patch matching algorithm for exemplar-based image inpainting	2017	-10.648573067666883	-12.796532726194606	3953323
+3953738	Vision	disparity estimation for image fusion in a multi-aperture camera	2015	-10.412419307353288	-12.698012418895464	3953765
+3953981	Vision	specular detection and removal for a grayscale image based on the markov random field	2016	-10.407669378816662	-12.901459626413715	3954008
+3955265	Vision	combining defocus and photoconsistency for depth map estimation in 3d integral imaging	2017	-10.678139426749087	-12.683541732369974	3955292
+3955769	Vision	color-guided boundary-preserving depth upsampling based on l0 gradient minimization	2016	-10.827862353340867	-12.996282495645337	3955796
+3956143	Vision	knn matting	2012	-11.078297794358738	-13.58456133860828	3956170
+3958994	Comp.	inpainting large missing regions based on seam carving	2018	-10.982375278987305	-12.830348268100133	3959021
+3959372	Graphics	dehazing using color-lines	2014	-11.02369691295757	-12.884290479399276	3959399
+3959749	Vision	a confidence measure based moving object extraction system built for compressed domain	2000	-10.400291227150706	-12.725212566488805	3959776
+3961607	Vision	saliency detection using dct coefficients and superpixel-based segmentation	2013	-10.644990650127912	-13.38205472609224	3961634
+3965132	Vision	enhancement of underwater color images by two-side 2-d quaternion discrete fourier transform	2018	-10.997999976261568	-12.904395099408347	3965159
+3970193	Vision	spatio-context-based target tracking with adaptive multi-feature fusion for real-world hazy scenes	2018	-10.834276370803918	-13.06682172443187	3970220
+3971679	Vision	kinect depth inpainting via graph laplacian with tv21 regularization	2013	-10.899240115060543	-12.941528161268733	3971706
+3972439	AI	a new algorithm for unsupervised global and local color correction	2003	-11.04227618969821	-13.246473370655206	3972466
+3972678	Vision	a novel nonlinear regression approach for efficient and accurate image matting	2013	-10.914903507866304	-13.28921486480926	3972705
+3978478	Robotics	efficient depth map recovery using concurrent object boundaries in texture and depth images	2013	-10.628382303048395	-12.979865581588733	3978505
+3981529	Vision	super-resolution of speed signs in video sequences	2007	-10.473784008937011	-13.16998768258201	3981556
+3981677	Vision	just noticeable defocus blur detection and estimation	2015	-10.964775530835087	-12.906621188233357	3981704
+3985520	Vision	a relaxed factorial markov random field for colour and depth estimation from a single foggy image	2013	-10.777120987491223	-12.91433521067137	3985547
+3987657	Vision	improved seam carving for image retargeting with sift feature preservation	2015	-10.52099686399949	-12.886066626788928	3987684
+3989139	Vision	bayesian color constancy revisited	2008	-10.138845006138695	-13.083582203170192	3989166
+3989193	Vision	single-image dehazing via optimal transmission map under scene priors	2015	-11.085447941166851	-13.019473038046582	3989220
+3991983	Vision	similarity transformation parameters recovery based on radon transform. application in image registration and object recognition	2015	-10.797856106104431	-13.42133796031015	3992010
+3992857	Vision	blind motion deblurring using image statistics	2006	-10.973373600661377	-12.898418877987005	3992884
+3998073	Robotics	a multi-exposure image fusion algorithm without ghost effect	2011	-11.019898595816343	-12.750272821100529	3998100
+3999907	Vision	joint detection, interpolation, motion and parameter estimation forimage sequences with missing data	1997	-10.39563750357935	-13.235127514493337	3999934
+4000388	Robotics	edge-preserving directional regularization technique for disparity estimation of stereoscopic images	1999	-10.72175090422042	-12.871241933961688	4000415
+4003827	Vision	compressive online robust principal component analysis with optical flow for video foreground-background separation	2017	-11.079107904722507	-12.96072366742991	4003854
+4005632	ML	approximated robust principal component analysis for improved general scene background subtraction	2016	-10.322363622984243	-13.022937491398055	4005659
+4005752	Vision	motion-based blind super-resolution approach to overcome spatial limitation of camera sensor network	2009	-10.826476776538405	-12.730616965684474	4005779
+4007763	Vision	robust focus ranging	1992	-10.847939991232298	-12.702471562179625	4007790
+4008578	Vision	a method for enforcing integrability in shape from shading algorithms	1988	-10.471917607083027	-13.054067392888598	4008605
+4008619	Vision	a cost minimization with light field in scene depth map estimation	2016	-10.242608260966435	-12.73023284215705	4008646
+4014174	Vision	patch mosaic for fast motion deblurring	2012	-10.8907361207622	-13.21990800490262	4014201
+4016206	Robotics	single image fog removal algorithm based on an improved dark channel prior method	2016	-10.952935829917278	-12.757486826536514	4016233
+4018343	Vision	multi-frame real image restoration based on double loops with alternative maximum likelihood estimation	2016	-11.042477865758977	-13.324519675865991	4018370
+4021322	Vision	poisson image fusion based on markov random field fusion model	2013	-10.979365209764977	-13.445823348678475	4021349
+4022460	Vision	fast natural image matting in perceptual color space	2005	-10.752758038154823	-12.778771394133091	4022487
+4023591	Vision	con-patch: when a patch meets its context	2016	-10.265399848113852	-12.856742705376105	4023618
+4024492	Vision	optimal recovery of depth from defocused images using an mrf model	1998	-10.978083076016869	-13.156222738657231	4024519
+4024616	Vision	normalized cross-correlation: the contrast-dependent problem and its solution	1995	-10.692704189660846	-12.852963071391025	4024643
+4024876	Vision	block wiener-based image registration for moving target indication	2009	-10.631881324342539	-13.189405385193865	4024903
+4028133	Vision	motion deblurring via using generative adversarial networks for space-based imaging	2018	-11.059109483408387	-12.816987914440707	4028160
+4031275	ML	single image deraining using deep convolutional networks	2018	-10.932752582498926	-13.047504836349963	4031302
+4032606	Vision	color constancy using natural image statistics and scene semantics	2011	-10.176809279337819	-13.57091130701609	4032633
+4033980	Vision	a novel approach for partial blur detection and segmentation	2013	-10.589184919037956	-13.440666023278904	4034007
+4036739	Vision	a novel visibility restoration algorithm for single hazy images	2013	-11.072711391293732	-12.943233629234573	4036766
+4037937	Vision	illuminant color estimation for real-world mixed-illuminant scenes	2011	-10.155620906628279	-12.933992217749346	4037964
+4048792	Vision	robust wavelet-based super-resolution reconstruction: theory and algorithm	2006	-10.808577641248755	-12.981356576164144	4048819
+4053625	Vision	edge-based asymmetric gaussian blurring for depth map pre-processing	2015	-10.583283769055852	-12.992893174912355	4053652
+4053702	Robotics	efficient moving objects detection by lidar for rain removal	2016	-10.874955466039658	-12.888777050705631	4053729
+4054658	Vision	derivative-based scale invariant image feature detector with error resilience	2014	-11.077771077037294	-13.276281891892106	4054685
+4055148	Vision	an iterative super-resolution reconstruction of image sequences using fast affine block-based registration with btv regularization	2006	-10.41064007817602	-13.020875647687426	4055175
+4055415	Vision	image super-resolution framework with multi-channel constraints	2007	-11.055356228802452	-13.162478515271955	4055442
+4058122	Vision	translational displacement estimation with subpixel accuracy of dct-sign phase correlation	2015	-10.235210873499836	-12.698782845747054	4058149
+4059040	Vision	motion estimation based on markov random fields	1994	-10.275654490458724	-13.521367380884044	4059067
+4059491	Robotics	iterative refinement of transmission map for stereo image defogging	2017	-10.677577620927305	-12.792586750844311	4059518
+4060636	Vision	combining texture synthesis and diffusion for image inpainting	2009	-10.73562135734155	-13.256808422171176	4060663
+4060891	Vision	removing out-of-focus blur from similar image pairs	2013	-10.935725903790264	-13.021967264210405	4060918
+4064375	Vision	surface height recovery using heat flow and manifold embedding	2004	-10.373061853334619	-13.180205612064519	4064402
+4067129	Vision	novel shape-from-shading methodology with specular reflectance using wavelet networks	2007	-10.204228479071938	-12.725893798444922	4067156
+4068985	Vision	a novel de-interlacing method based on locally-adaptive nonlocal-means	2012	-10.847170942797762	-13.416885681196597	4069012
+4070048	Vision	reconstruction-based change detection with image completion for a free-moving camera	2018	-10.614147788927305	-12.759630593068707	4070075
+4071549	Vision	direct analytical methods for solving poisson equations in computer vision problems	1990	-10.24982090111132	-12.995267690022624	4071576
+4073551	Vision	learning-based underwater image enhancement with adaptive color mapping	2015	-11.008611172705805	-12.89246085345652	4073578
+4079088	Robotics	local self similarity-based super-resolution for asymmetric dual-camera	2016	-10.961093970991456	-12.712106413639125	4079115
+4082388	Vision	robust least-squares image matching in the presence of outliers	2007	-10.82862559259641	-13.546502978792827	4082415
+4085359	Vision	least squares and robust estimation of local image structure	2003	-10.528305652621581	-13.638840533797527	4085386
+4085634	Vision	contrast enhancement using non-overlapped sub-blocks and local histogram projection	2011	-11.088115285537167	-13.498362753222807	4085661
+4087424	Vision	multi-frame image super-resolution reconstruction using sparse co-occurrence prior and sub-pixel registration	2013	-11.064329625145321	-13.205645145342894	4087451
+4089569	Vision	a variational stereo method for the three-dimensional reconstruction of ocean waves	2011	-10.283126866595008	-13.06032002795891	4089596
+4091318	Robotics	an enhancement to closed-form method for natural image matting	2010	-11.02677187516362	-13.158732170096545	4091345
+4091337	Vision	robust discontinuity-preserving model for estimating optical flow	1996	-10.274956644425602	-13.596867211397292	4091364
+4091878	Vision	geometric, algebraic, and thermophysical techniques for object recognition in ir imagery	1998	-10.264553444760097	-12.721045559951564	4091905
+4098613	Vision	image colorization via color propagation and rank minimization	2015	-11.030584333649003	-13.082333653190787	4098640
+4101447	Vision	minutiae detection by enhancement of fingerprint images in spatial and wavelet domain inside roi	2018	-11.036354776509686	-12.9728995897912	4101474
+4102431	Vision	expressway visibility estimation based on image entropy and piecewise stationary time series analysis	2018	-10.71258675105247	-13.136449704224848	4102458

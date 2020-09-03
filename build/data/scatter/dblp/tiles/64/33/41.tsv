@@ -1,0 +1,787 @@
+id	area	title	year	x	y	ix
+3072880	SE	a method for analysing the performance of certain testing techniques for concurrent systems	2005	2.3350871827185644	9.178302696604149	3072907
+3076261	Logic	verifying recurrence properties in self-stabilization by checking the absence of finite counterexamples	2015	1.7877106865700372	9.04675714930062	3076288
+3078510	EDA	signal transition graph decomposition: internal communication for speed independent circuit implementation	2011	2.2385305252587537	9.340038902204595	3078537
+3080995	Logic	hybrid input-output conformance and test generation	2006	1.7026221253607705	8.992335007769837	3081022
+3083169	Logic	propositional dynamic logic with fixed points: algorithmic tools for verification of finite state machines	1992	2.368384519680036	8.43316996427204	3083196
+3084158	Logic	stubborn sets for reduced state space generation	1989	1.6931913215103154	8.644751364303959	3084185
+3085020	EDA	practical synthesis of speed-independent circuits using unfoldings	1998	2.269482825134934	9.137296395096595	3085047
+3086012	Logic	efficient state classification of finite state markov chains	1998	1.9404826703822533	9.162091817699078	3086039
+3088172	Robotics	on the transparency of automata as discrete-event control specifications	2010	1.5170428018295536	8.906327918233238	3088199
+3088184	Logic	verification of probabilistic systems with faulty communication	2005	1.811812871893549	9.303828685484707	3088211
+3088820	Logic	ariadne: dominance checking of nonlinear hybrid automata using reachability analysis	2012	2.1385736746689155	8.494966720896644	3088847
+3089807	Theory	invisible safety of distributed protocols	2006	1.8692350877666235	8.634986485803408	3089834
+3092178	Logic	large-scale directed model checking ltl	2006	2.4112773382979005	9.052289746656648	3092205
+3096343	Logic	model checking ltl using net unforldings	1998	1.834066199415468	8.8035977805998	3096370
+3097681	AI	sat-based strategy extraction in reachability games	2015	1.537391596499765	8.533727230415701	3097708
+3098278	EDA	an algorithm for exact bounds on the time separation of events in concurrent systems	1993	2.128431964539509	9.236786313462016	3098305
+3099897	Logic	simple invariants for proving the safety of distributed protocols (invited talk)	2016	2.261074396618687	8.581351375739127	3099924
+3100971	Logic	an efficient verification algorithm for parallel controllers	1994	2.3142685975164397	9.117104362415429	3100998
+3102273	Logic	using forward reachability analysis for verification of lossy channel systems	2004	1.6848745861555343	8.956392333223418	3102300
+3105549	Robotics	a technique for generating the reduced reachability graph of petri net models	2008	2.4319714432595934	9.14698455001976	3105576
+3107153	Logic	partial-order reduction techniques for real-time model checking	1998	2.066708299696112	8.742547108873149	3107180
+3108641	Logic	infinite-state high-level mscs: model-checking and realizability	2006	2.0266949032663573	8.816363495902921	3108668
+3109346	Logic	unbounded verification results by finite-state compositional techniques: 10any states and beyond	1998	1.499411961745546	8.963383165254541	3109373
+3114040	Logic	symbolic analysis of bounded petri nets	2001	2.3836534729085628	9.045433626623593	3114067
+3114163	Logic	automatic verification of parameterized synchronous systems (extended abstract)	1996	1.571811225307999	8.4950984019566	3114190
+3114409	Logic	on model checking for real-time properties with durations	1993	1.635504654174949	8.750102945998313	3114436
+3115544	Logic	lazy determinisation for quantitative model checking.	2013	2.127415536059968	8.616383511978231	3115571
+3116939	Logic	analysis of three hybrid systems in timed µcrl	2001	2.29751961142798	8.42680367010136	3116966
+3118764	Theory	message sequence graphs and decision problems on mazurkiewicz traces	1999	2.126771521399684	8.691173671818257	3118791
+3120981	Robotics	performance trees: expressiveness and quantitative semantics	2007	2.3456097966029246	8.501089902457199	3121008
+3121531	AI	improved iterative methods for verifying markov decision processes	2015	1.7276026512058122	9.241174624659497	3121558
+3125459	Logic	analysis of petri nets by ordering relations in reduced unfoldings	1998	2.000974808106549	9.167174486910977	3125486
+3125545	Logic	distributed bmc: a depth-first approach to explore clause symmetry	2009	2.204049040604364	9.123776946840318	3125572
+3129868	SE	bounded ltl model checking with stable models	2003	1.7441005983351174	8.555344219300855	3129895
+3132524	SE	pvesta: a parallel statistical model checking and quantitative analysis tool	2011	2.2868376989383314	9.143757012471811	3132551
+3132583	Logic	model checking probabilistic distributed systems	2003	1.7296558951468937	8.754397302434203	3132610
+3133718	AI	symbolic verification with periodic sets	1994	2.0493882989653605	8.763692781196882	3133745
+3137289	Logic	synthesis of reactive(1) designs	2012	1.6159172217397741	8.609226878310666	3137316
+3137602	Logic	automated invariant generation for the verification of real-time systems	2009	2.36078455893333	9.149438612826616	3137629
+3137982	AI	the computational complexity of avoiding spurious states in state space abstraction	2010	1.8234807093070668	8.430634166095333	3138009
+3138521	Logic	translation of timed promela to timed automata with discrete data	2008	2.1552030645860003	8.684467154859862	3138548
+3139302	EDA	trace theoretic verification of asynchronous circuits using unfoldings	1995	2.047429812793873	9.113322606758727	3139329
+3141143	EDA	symbolically synthesizing small circuits	2012	1.7329873839355587	8.44895153952999	3141170
+3141194	Logic	an incremental approach to model checking progress properties	2011	2.031749827237117	8.65290823396662	3141221
+3146181	SE	parametric ndrft for the derivation of optimal repair strategies	2009	1.5619699148301642	9.123308488234496	3146208
+3147597	AI	symbolic model checking for one-resource rb+-atl	2015	1.7186396342695711	8.4332407663117	3147624
+3149093	Logic	dihomotopic reduction used in deadlock detection	2009	2.2986863477520085	9.016145965677467	3149120
+3150695	EDA	timed state space exploration using posets	2000	2.123197818035767	9.108027714130495	3150722
+3152001	Logic	partial order reduction: model-checking using representatives	1996	1.9933649784477847	8.78291226961838	3152028
+3153039	Logic	synthesis for unbounded bit-vector arithmetic	2012	1.5019410031283793	8.499062073248613	3153066
+3153302	Logic	efficient simulation-based verification of probabilistic timed automata	2017	2.097302649809544	9.009865013827325	3153329
+3153533	Logic	decision diagram algorithms for logic and timed verification	2008	2.1601546723373413	9.081231678692186	3153560
+3153841	Logic	a markov chain model checker	2000	1.7155299096639125	9.154778412655663	3153868
+3153850	Logic	verifying progress in timed systems	1999	1.9069426349533904	8.890057141224148	3153877
+3156002	Logic	sat-based reachability checking for timed automata with discrete data	2007	2.2110440090480994	8.83679196411935	3156029
+3156258	Logic	from liveness to promptness	2009	1.5205294671132747	8.620152611170914	3156285
+3156454	Logic	compositional state space generation with partial order reductions for asynchronous communicating systems	2000	2.3928151708979937	8.723082587777375	3156481
+3157972	Embedded	verifying linear real-time logic specifications	2007	2.430529984341137	8.647412988398129	3157999
+3161592	Theory	stochastic formal methods for hybrid systems	2009	1.6399497707155637	8.886386557407624	3161619
+3162846	Logic	combining constraint solving and symbolic model checking for a class of a systems with non-linear constraints	1997	2.00021743101761	8.832003081717525	3162873
+3165098	Logic	sat-based verification without state space traversal	2000	1.9823570998189184	8.459490920872566	3165125
+3166491	EDA	verification of tempura specification of sequential circuits	1997	1.9869354277364744	8.815764473733955	3166518
+3166702	Embedded	reducing the number of clock variables of timed automata	1996	2.1086565755917004	9.24112842438878	3166729
+3171342	EDA	synchronizing sequences on a class of unbounded systems using synchronized petri nets	2016	1.9230730714595927	9.157764950726213	3171369
+3172386	Logic	underapproximation for model-checking based on universal circuits	2010	1.6975087514625995	8.920912353468285	3172413
+3174093	Logic	symmetry and reduced symmetry in model checking	2004	1.972983695595789	8.467428872622907	3174120
+3174607	Visualization	analysis of real-time systems by data flowgraphs	1978	1.812299183565011	8.744453985506492	3174634
+3175665	Embedded	specification and verification techniques of embedded systems using probabilistic linear hybrid automata	2005	2.2527474493402586	9.179622445860005	3175692
+3175736	EDA	a verification system for transient response of analog circuits	2007	2.0612061553259866	9.183271918617752	3175763
+3177953	Logic	verification of asynchronous concurrency and the shaped stack constraint	2014	2.3960295703013452	8.825509368182283	3177980
+3178023	Logic	a non-standard semantics for generating reduced transition systems	1996	2.064387573093593	8.505761444009604	3178050
+3182935	EDA	combining pdr and reverse pdr for hardware model checking	2018	2.249655846426512	8.933410742470109	3182962
+3183332	SE	bisimulation and model checking	1999	1.9671403146867672	8.605296027503643	3183359
+3183567	Logic	stubborn sets for model checking the ef/ag fragment of ctl	2000	1.9336223019548924	8.54942643709565	3183594
+3183675	SE	a state class approach to time petri nets with weak semantics	2008	1.773521359509856	8.824633044445854	3183702
+3183994	Logic	symmetry in temporal logic model checking	2006	1.6409495730234145	8.56902574386398	3184021
+3186355	Logic	revealing vs. concealing: more simulation games for büchi inclusion	2013	2.1542923974838613	8.60709272312693	3186382
+3187351	Logic	symbolic model checking temporal logics of knowledge in multi-agent system via extended mu-calculus	2007	2.160260726976568	8.508389442270474	3187378
+3187818	Logic	efficient state space generation of gspns using decision diagrams	2002	1.6772024600466624	8.9337815148548	3187845
+3189841	Logic	harnessing smt-based bounded model checking through stateless explicit-state exploration	2013	2.354838058718297	8.788573672245125	3189868
+3192302	Logic	a new approach to upward-closed set backward reachability analysis	2005	1.5957224438973074	8.73105167543818	3192329
+3193408	Logic	on interleaving in timed automata	2006	1.538023566195157	8.791290703398777	3193435
+3198384	AI	efficient symbolic supervisory synthesis and guard generation - evaluating partitioning techniques for the state-space exploration	2011	1.9994074743822037	8.962895285674906	3198411
+3199211	Logic	an efficient algorithm to compute the synchronized product	1995	2.3636019122092318	9.161616238515444	3199238
+3199541	Logic	speeding up symbolic model checking by accelerating dynamic variable reordering	1999	2.1763740478216933	8.668413053112515	3199568
+3202034	SE	improved bdd-based discrete analysis of timed systems	2012	2.341520509030344	8.885584673088122	3202061
+3203739	Logic	identification and counter abstraction for full virtual symmetry	2005	2.2674593798344937	8.811410303262814	3203766
+3205500	Logic	towards reachability trees for high-level petri nets	1984	1.759252940805103	8.484898008666864	3205527
+3205784	Logic	verification of clocked and hybrid systems	1996	2.23151450710399	8.894403893044595	3205811
+3206857	Logic	stochastic process algebras - between lotos and markov chains	1998	1.9895970398599847	9.231181953819476	3206884
+3207166	Embedded	a note on digitization of real-time models and logics.	2018	1.5940354893119668	8.654362336157092	3207193
+3208538	AI	star-topology decoupling in spin	2018	1.9227933973925344	8.801723464077945	3208565
+3209685	EDA	progressive solutions to fsm equations	2008	2.4127093173835688	8.956078038339982	3209712
+3211683	SE	dealing with uncertainty in verification of nondeterministic systems	2014	1.5568892170511377	9.19068508589576	3211710
+3212526	Logic	algorithms for guided tree automata	1996	1.7721006882955752	8.814065862756332	3212553
+3212583	Logic	ctl-like fragments of a temporal logic of robustness	2010	1.8593357553294518	8.579994121373451	3212610
+3213951	Embedded	on specification transparency: toward a formal framework for designer comprehensibility of discrete-event control specifications in finite automata	2013	1.5078948098467424	8.962629504216661	3213978
+3215558	PL	data-centric dynamic partial order reduction	2017	2.4175757235262165	9.283331866954196	3215585
+3216430	Embedded	a new abstraction-refinement based verifier for modular linear hybrid automata and its implementation	2014	2.3712646689696024	8.814211271360362	3216457
+3216733	Embedded	efficient verification of real-time systems: compact data structure and state-space reduction	1997	2.3179432968504856	9.194439548232733	3216760
+3218684	Logic	formal modeling and analysis for interactive hybrid systems	2011	1.9025850141538756	8.47712820449857	3218711
+3218953	SE	coverability analysis of time basic petri nets with non-urgent behavior	2016	1.639816126772227	8.829313651625734	3218980
+3219216	Logic	proving conditional termination	2008	1.6660192012491193	8.487068454374354	3219243
+3219414	SE	parametric behaviour analysis for time petri nets	1999	1.880528110183142	9.035272146149127	3219441
+3219966	Logic	a global timed bisimulation preserving abstraction for parametric time-interval automata	2004	1.7252118553760516	9.065791367519775	3219993
+3221871	PL	temporal modalities for concisely capturing timing diagrams	2005	2.260888150551416	8.476989811033642	3221898
+3225363	Logic	bisimulation and other undecidable equivalences for lossy channel systems	2001	1.6759788712238446	9.097052775020183	3225390
+3226132	EDA	static analysis techniques for parameterised boolean equation systems	2009	2.060850985928964	8.589114056298497	3226159
+3226239	Embedded	a formal approach to the integration of performance aspects in the modeling and analysis of concurrent systems	1998	1.6747065788999056	9.106327860847333	3226266
+3228931	Logic	bounded model checking for linear time temporal-epistemic logic	2012	2.238272926502499	8.620495795328933	3228958
+3229894	Logic	on deadlockability, liveness and reversibility in subclasses of weighted petri nets	2018	1.5372463306164268	8.640702770049081	3229921
+3230211	Embedded	infinite structures in timed systems	2009	1.5643422316638262	9.000963326239088	3230238
+3230893	Logic	language representability of finite place/transition petri nets	2015	2.042491580794	8.434792856781636	3230920
+3231422	PL	safety verification of asynchronous pushdown systems with shaped stacks	2013	1.740887494030171	8.903211550361512	3231449
+3231617	SE	regular state machines	2000	1.924027665571292	8.938145674984543	3231644
+3233476	Arch	performance evaluation on uniform interactive markov chains	2009	1.5908816180491854	8.791127141359429	3233503
+3235221	ML	improved control strategy for parallel logic programming	1989	1.7346866002844707	8.535479021202455	3235248
+3240948	SE	towards understanding the behavior of classes using probabilistic models of program inputs	2013	1.6240005234537531	8.850641250135018	3240975
+3241394	Logic	calculating-confluence compositionally	2003	2.1388411486088588	8.776372008776454	3241421
+3244319	Embedded	fortuna: model checking priced probabilistic timed automata	2010	1.7288903259583726	9.229447741105595	3244346
+3246974	Logic	on the minimisation of acyclic models	2008	1.5728714343098829	8.819718245302152	3247001
+3247219	SE	falsification of temporal properties of hybrid systems using the cross-entropy method	2012	2.2168073587701644	9.044303789868248	3247246
+3247429	Logic	a complete bounded model checking algorithm for pushdown systems	2007	2.380727178552452	8.565997819355657	3247456
+3247786	Logic	quantitative robustness analysis of flat timed automata	2011	1.5780866487447258	8.651046655082192	3247813
+3249818	Logic	analysis of petri nets and transition systems	2015	2.1978335432863814	8.632404844405741	3249845
+3251931	SE	runtime verification by convergent formula progression	2014	1.7664491034555152	8.423333801783434	3251958
+3253125	Logic	a transformation-based approach to implication of gste assertion graphs	2013	1.5305385202361612	8.653312227306778	3253152
+3253302	Logic	verifying clocked transition systems	1995	2.225392510901067	8.900544135648921	3253329
+3255804	Embedded	symbolic supervisory control of timed discrete event systems	2012	1.5774329881082478	9.130395966346981	3255831
+3258925	Logic	coping with strong fairness	2000	1.9208485852950543	8.602241716508285	3258952
+3263477	Logic	optimizations for ltl synthesis	2006	1.5605789006104136	8.590618053729061	3263504
+3263832	Logic	iterating transducers in the large (extended abstract)	2003	1.6461368921248445	8.49058338975636	3263859
+3264682	ML	a deterministic parallel algorithm for the homing sequence problem	1996	2.2455652061165985	9.260525379954164	3264709
+3264961	Logic	synthesizing robust systems	2009	1.848571381881976	9.048658392967694	3264988
+3265790	Embedded	data structure choices for on-the-fly model checking of real-time systems	2011	2.150536958579945	9.066370368414523	3265817
+3267441	Logic	automated analysis of parametric timing-based mutual exclusion algorithms	2012	2.053417191271843	8.923288769503783	3267468
+3269656	Logic	model checking through symbolic reachability graph	1997	1.8999924760191005	8.768861264704446	3269683
+3272015	Logic	rapid parameterized model checking of snoopy cache coherence protocols	2003	1.890189980847536	8.644543525779284	3272042
+3272288	Logic	lazy approximation for dense real-time systems	2004	2.1516546871479063	8.596190416200312	3272315
+3272427	Embedded	an integrated approach for the specification and analysis of stochastic real-time systems	2002	1.7282137193926024	9.147523586362638	3272454
+3274689	Logic	finite symbolic reachability graphs for high-level petri nets	1997	1.5833017469569552	8.682801912365008	3274716
+3275237	Logic	twotowers: a tool integrating functional and performance analysis of concurrent systems	1998	2.2219522810100405	8.876871524023073	3275264
+3278517	Embedded	experiments with parametric verification of real-time systems	1999	2.2851332905073973	8.773833105244842	3278544
+3281332	Logic	symbolic vs. bounded synthesis for petri games	2017	1.4771083022202662	8.612049858336688	3281359
+3282652	Logic	techniques for distributed reachability analysis with partial order and symmetry based reductions	2009	2.2756103804523105	9.08457962396322	3282679
+3284163	SE	a proposal for relative time petri nets	2005	2.2443962270596693	8.992809684442086	3284190
+3288217	Embedded	computation of minimal siphons in petri nets by using binary decision diagrams	2013	1.894206697828729	8.79646580212375	3288244
+3291246	Logic	event-clock automata: a determinizable class of timed automata	1999	1.701378311066906	8.71481160332962	3291273
+3292032	Embedded	enumeration of reachable and other states of simple version of systems of simple sequential processes with resources (s3pr)	2012	1.6495933784091263	9.019818816550838	3292059
+3293811	Logic	weak bisimulation for probabilistic timed automata	2010	1.5784764039375094	8.651907198200686	3293838
+3298172	Logic	finite countermodels as invariants. a case study in verification of parameterized mutual exclusion protocol	2010	1.9595806008802648	8.581362395025947	3298199
+3298639	SE	incremental runtime verification of probabilistic systems	2012	2.1030868951220576	9.020798825321156	3298666
+3298895	EDA	safety property verification of cyclic synchronous circuits	2004	2.151054156927997	9.016033367463468	3298922
+3300140	AI	design of a distributed reachability algorithm for analysis of linear hybrid automata	2007	2.145719225917008	9.014464500096427	3300167
+3303067	Logic	on partial order semantics for sat/smt-based symbolic encodings of weak memory concurrency	2015	1.9167280924452867	8.509256968730941	3303094
+3303082	Logic	proving termination of probabilistic programs using patterns	2012	1.9925231552091769	8.654845043426336	3303109
+3303409	PL	a zonotopic framework for functional abstractions	2015	1.6681849116942606	8.485278568482688	3303436
+3303649	Logic	compositional algorithms for ltl synthesis	2010	2.057327861253488	8.601884117353784	3303676
+3305007	Logic	improved automata generation for linear temporal logic	1999	2.06758386492099	9.013139835782066	3305034
+3305605	Theory	automata and processes on multisets of communicating objects	2010	2.3353907288282563	8.985825668905404	3305632
+3306700	EDA	smt-based bounded model checking of fixed-point digital controllers	2014	1.6767901186455034	9.30310320371968	3306727
+3308358	Logic	a quantifier-free smt encoding of non-linear hybrid automata	2012	2.0015365188079706	8.529926538161964	3308385
+3309360	SE	a lightweight regular model checking approach for parameterized systems	2011	2.1047628298059364	8.55829207976385	3309387
+3313961	Logic	tools and algorithms for the construction and analysis of systems	2002	1.9504820908170617	9.326970567722087	3313988
+3315725	EDA	state space reductions for scalable verification of asynchronous designs	2010	2.415318786875936	9.107318056857748	3315752
+3315879	Logic	lp deadlock checking using partial order dependencies	2000	2.159518500120996	8.967163627387524	3315906
+3316826	Logic	model checking software programs with first order logic specifications using aig solvers	2014	2.2327051759426917	8.580876322953689	3316853
+3316994	Logic	on the complexity of verifying structural properties of discrete event simulation models	1999	1.5829860864584058	9.254476837993641	3317021
+3318892	Arch	formal refinement of bsp programs with early cost evaluation	2011	2.2695264479524027	9.282210818963543	3318919
+3320487	Logic	towards an approximate conformance relation for hybrid i/o automata	2016	1.5144649857512245	8.622781960558923	3320514
+3320613	Robotics	on the revision problem of specification automata	2012	1.6428933946467623	8.713573092438299	3320640
+3322392	AI	sat-based explicit ltl reasoning	2015	2.3977015395749084	8.538094222288327	3322419
+3326583	Logic	unbounded scalable verification based on approximate property-directed reachability and datapath abstraction	2014	2.3636392545951237	9.296781700469197	3326610
+3326849	Robotics	formal description and complexity analysis of routing in mobile ad hoc system	2005	1.4881748044453331	8.868032953454328	3326876
+3327515	PL	minimal state graph generation	1992	1.5978370880308437	8.819006967115232	3327542
+3329049	Logic	monitoring temporal logic with clock variables	2018	1.5589311297758501	9.003731623158917	3329076
+3329105	SE	extracting environmental constraints to make reactive system specifications realizable	2009	2.160346193069686	8.744776440571156	3329132
+3329654	Logic	testing of symbolic-probabilistic systems	2004	2.1461395079851577	8.970376449555943	3329681
+3329855	Robotics	scenario-based behavioral nonexistent consistency checking for cyber-physical systems	2014	1.6004576628916898	9.088967954836443	3329882
+3330022	EDA	statistical model checking for hybrid petri nets with multiple general transitions	2017	1.5263146693968566	9.226042172230494	3330049
+3331006	Logic	what is decidable about perfect timed channels?	2017	1.698452172610562	9.251093037251565	3331033
+3334001	Logic	dynamic symmetry reduction	2005	2.1060083174863715	8.759726573619051	3334028
+3335059	NLP	test case generation for ultimately periodic paths	2007	2.1422996530518432	8.555382150508517	3335086
+3338742	Logic	fatal attractors in parity games: building blocks for partial solvers	2014	1.5466324630529869	8.58078867311762	3338769
+3339765	ECom	efficient abstraction algorithms for predicate detection	2017	2.3409102360879546	9.347184531908397	3339792
+3339866	SE	directed explicit state-space search in the generation of counterexamples for stochastic model checking	2010	1.9278596327955195	8.990391100686479	3339893
+3342238	Embedded	reachability of hybrid systems in space-time	2015	2.0134419601007094	9.108335384030696	3342265
+3343399	Embedded	on simplification of timed automata	2016	1.9565657896460467	8.897612304471014	3343426
+3344131	DB	distributed synthesis is simply undecidable	2014	1.488772611401891	8.594655483143908	3344158
+3346343	Logic	a framework to handle linear temporal properties in (\omega-)regular model checking	2009	1.6010607244436077	8.501612113646296	3346370
+3347224	SE	property-preserving composition by place merging	2005	1.6777271525543471	8.856414807405306	3347251
+3349624	Logic	specification and model checking of temporal properties in time petri nets and timed automata	2004	1.923608092636549	8.741107314861083	3349651
+3351278	Logic	symbolic model checking for a discrete clocked temporal logic with intervals	1997	1.9993708751372683	9.046582165702652	3351305
+3351887	DB	sequence algebra, sequence decision diagrams and dynamic fault trees	2011	2.0942625803080257	8.49232096384593	3351914
+3352262	EDA	verification of synchronous sequential machines based on symbolic execution	1989	2.4337038588370645	9.036649681664803	3352289
+3352591	Logic	ltl model-checking for dynamic pushdown networks communicating via locks	2014	1.6970831254987486	8.719569123894214	3352618
+3353618	Logic	param: a model checker for parametric markov models	2010	1.6960764849218373	8.866535584138242	3353645
+3355759	Logic	verifying ltl properties on hierarchical systems: application to aircraft autopilot	2006	2.0245938341399867	8.767420861056275	3355786
+3356218	Logic	hardware verification using symbolic state transition graphs	1993	2.370818616700053	9.165663409448774	3356245
+3361173	AI	using coarse state space abstractions to detect mutex pairs	2013	1.9122036398548128	8.976472768879226	3361200
+3364019	EDA	asynchronous communication of petri nets and the refinement of transitions	1992	1.7578555257090078	8.491688821993682	3364046
+3364356	Logic	verification of clocked and hybrid systems	1996	2.142891435074836	8.875145781645266	3364383
+3364564	Logic	generalizing the discrete timed automaton	2000	1.4968301923619438	8.729028790084291	3364591
+3365122	Logic	verification of scope-dependent hierarchical state machines	2008	1.5384500058861643	8.708583042969531	3365149
+3365637	Logic	model checking algorithms for analog verification	2002	1.5735685449088777	8.911381741420827	3365664
+3365862	Logic	deriving complexity results for interaction systems from 1-safe petri nets	2008	1.9089022450588728	8.450293076418367	3365889
+3367952	Logic	specification and analysis of self-timed circuits	1994	2.0247041282639207	9.019508568267874	3367979
+3368578	AI	group synthesis for parametric temporal-epistemic logic	2012	2.245293279339198	8.588931611397992	3368605
+3369281	Logic	state space reduction based on live variables analysis	2003	1.924635079444097	8.471401925736227	3369308
+3369287	AI	unsolvability certificates for classical planning	2017	2.305786548589186	8.678442462185794	3369314
+3369418	EDA	towards assertion based verification of analog and mixed signal designs using psl	2007	2.360613824524864	9.193798736341106	3369445
+3369545	Logic	conversion algorithm of linear-time temporal logic to buchi automata	2014	1.7471022917423855	8.538345601491791	3369572
+3370399	Logic	symbolic controller synthesis for discrete and timed systems	1994	1.8283742831785883	8.67334580169479	3370426
+3370893	PL	one net fits all	2018	2.3380882632855022	8.563468811586901	3370920
+3371618	Logic	untameable timed automata	2003	2.4366289935156358	8.506113890810633	3371645
+3371993	Logic	compositional verification of liveness property in inhibitor-arc connections of petri net systems	2012	1.8496301018929568	9.0509779321488	3372020
+3373143	Logic	monotonic partial order reduction: an optimal symbolic partial order reduction technique	2009	2.1523890956582123	8.795249135430744	3373170
+3373584	Embedded	verification and performance analysis of embedded and cyber-physical systems using uppaal	2014	2.182372399263052	9.32336903472703	3373611
+3374082	Logic	symbolic on-the-fly synthesis in supervisory control theory	2016	1.8963057388343485	9.218280474580844	3374109
+3374751	Theory	priority networks of communicating finite state machines	1985	1.6870909756874808	9.267899457149033	3374778
+3375381	Embedded	"""on """"a simple protocol whose proof isńt"""": the state machine approach"""	1985	1.7300605469998036	8.869129238023268	3375408
+3377881	Logic	a coalgebraic representation of reduction by cone of influence	2006	2.0610374612140667	8.414543279627383	3377908
+3378204	Logic	efficient state classification of finite-state markov chains	1998	2.0186430457853226	9.173132194648119	3378231
+3379214	EDA	compositionally progressive solutions of synchronous fsm equations	2008	2.072506318810329	8.916839087407759	3379241
+3379711	Logic	practical first-order temporal reasoning	2008	2.1667226509738957	8.758420208044758	3379738
+3380437	Logic	counterexample-guided synthesis of observation predicates	2012	1.766114938379831	8.958759406094677	3380464
+3381014	Logic	stronger reduction criteria for local first search	2006	1.810745927357516	8.52674757816286	3381041
+3382001	Logic	symbolic unfoldings for networks of timed automata	2006	1.861872397437	8.429238199769024	3382028
+3382890	Logic	timed automata with action durations – from theory to implementation	2014	2.196045240745628	8.89348172221273	3382917
+3385195	Logic	improving hyltl model checking of hybrid systems	2013	1.875478123968644	8.559427974156254	3385222
+3385341	Logic	linear phase-portrait approximations for nonlinear hybrid systems	1995	2.011445465205837	9.173369719469004	3385368
+3385973	Logic	a general modular synthesis problem for pushdown systems	2016	1.668792950757937	8.46938568073557	3386000
+3387327	AI	distinguishing experiments for timed nondeterministic finite state machines	2013	1.696945205493378	9.167075680216358	3387354
+3388517	DB	the parallel complexity of two problems on concurrency	1991	1.6722688570441682	9.095033318729996	3388544
+3389206	Logic	proving non-termination using max-smt	2014	2.1823491988603223	8.663566289698235	3389233
+3389542	SE	invariant-based performance analysis of timed petri net models	2016	1.7382877422984886	9.149676971018817	3389569
+3392684	DB	the complexity of checking the existence and derivation of adaptive synchronizing experiments for deterministic fsms	2017	1.5553984651831565	9.18030334832959	3392711
+3393064	AI	a causal analysis method for concurrent hybrid automata	2006	1.4791219645509428	9.170850777190967	3393091
+3393295	SE	three-valued spatio-temporal logic: a further analysis on spatio-temporal properties of stochastic systems	2017	2.156679779382496	8.998832572489295	3393322
+3394080	Logic	synthesis of petri nets with localities	2009	2.2812156315939367	8.826049513330494	3394107
+3394085	Embedded	rigorous modeling of hybrid systems using interval arithmetic constraints	2004	1.6935984721224655	8.964548578110934	3394112
+3394669	AI	ant colony optimization for model checking	2007	2.372169480892476	9.31032112086475	3394696
+3395152	ECom	verification in queue-connected multicounter machines	2002	1.5077304158952978	9.11795806451021	3395179
+3395304	SE	effective bit-width and under-approximation	2009	2.1365295223957643	8.472831589607816	3395331
+3395855	Logic	specification and analysis of a composition of protocols	1993	2.266736617937477	8.82506337458659	3395882
+3396445	EDA	efficient timing analysis of a class of petri nets	1995	1.4788863216056167	9.078461584750386	3396472
+3398064	SE	improved reachability analysis in dtmc via divide and conquer	2013	1.972769065451628	9.338957670202051	3398091
+3398490	Embedded	network invariants for real-time systems	2008	2.234765700751695	8.583321242371698	3398517
+3399374	Logic	symmetry reduction for b by permutation flooding	2007	1.8560155547825603	8.780805188167314	3399401
+3400672	Logic	on equivalent execution semantics of concurrent systems	1986	2.4163625992756117	8.469198795107314	3400699
+3402972	Logic	model checking markov chains : techniques and tools	2008	1.5147127455428395	9.13977238541116	3402999
+3403413	Logic	on probabilistic alternating simulations	2010	2.0240874008485243	8.417518387462339	3403440
+3404850	Logic	strategy representation by decision trees in reactive synthesis	2018	1.578600372741794	8.575193213768872	3404877
+3404863	Logic	a state-based characterisation of the conflict preorder	2011	2.044452781421471	8.542024511905558	3404890
+3404923	Logic	syntax-driven behavior partitioning for model-checking of esterel programs	2006	2.2118457811942958	8.97561775032136	3404950
+3406792	Logic	lightweight statistical model checking in nondeterministic continuous time.	2018	1.6190698630618554	9.095541465957787	3406819
+3406964	Logic	translation from multisingular hybrid petri nets to multisingular hybrid automata	2014	2.2452838921665546	9.031699066730608	3406991
+3407536	AI	fast ltl satisfiability checking by sat solvers	2014	2.309716451544284	8.532008490034206	3407563
+3412557	Logic	supervisory control of finite state machines	1995	1.7280328879021365	8.94323910309082	3412584
+3412592	Logic	sequential and distributed on-the-fly computation of weak tau-confluence	2012	2.217791830530321	8.470918819057339	3412619
+3414743	ECom	fixing the state budget: approximation of regular languages with small dfas	2017	1.7612042696488046	8.51851433727761	3414770
+3415296	PL	distributed verification of rare properties using importance splitting observers	2015	1.6122395023053704	9.2436469080986	3415323
+3419336	Logic	synthesis of nets with step firing policies	2009	1.7664127909555003	8.454612388080282	3419363
+3420525	Embedded	analyzing non-deterministic real-time systems with (max, +) algebra	1998	1.7651478542901031	9.154214801070193	3420552
+3421819	Logic	beyond liveness: efficient parameter synthesis for time bounded liveness	2005	2.0902735277156794	8.945681763041849	3421846
+3424872	Robotics	on compositional reasoning for guaranteeing probabilistic properties	2012	1.7979821244187733	9.125794214684603	3424899
+3426868	SE	multimapping abstractions and hierarchical heuristic search	2012	2.036524892344624	8.969329204030691	3426895
+3427431	DB	merging behavior specifications	1995	1.7206055274594765	8.511387343312235	3427458
+3431130	Logic	simple is better: efficient bounded model checking for past ltl	2005	2.0756590510577357	8.515813612401711	3431157
+3433961	Logic	a new model for model checking: cycle-weighted kripke structure	2009	1.7405830030882237	8.72427361514521	3433988
+3435270	Logic	introduction to generalized symbolic trajectory evaluation	2003	2.0789634799384054	8.830597130906444	3435297
+3435868	AI	extracting mutual exclusion invariants from lifted temporal planning domains	2018	2.3282343553282647	8.780311624918973	3435895
+3436341	Logic	a kahn principle for networks of nonmonotonic real-time processes	1993	2.026219053683304	8.95675058548468	3436368
+3437906	Logic	symbolic unfolding of parametric stopwatch petri nets	2013	1.7243021488701376	8.853033472796882	3437933
+3438745	Logic	identifying state coding conflicts in asynchronous system specifications using petri net unfoldings	1998	2.206040290054973	8.94186840174414	3438772
+3440131	Logic	advanced unbounded ctl model checking by using aigs, bdd sweeping, and quantifier scheduling	2006	2.1032430699951714	8.603940994418844	3440158
+3442201	Logic	parametric verification and test coverage for hybrid automata using the inverse method	2013	1.7186798841912485	8.972976195422953	3442228
+3444313	PL	model checking of component protocol conformance - optimizations by reducing false negatives	2010	2.2852472867720426	8.676663635622509	3444340
+3447249	Logic	coarse abstractions make zeno behaviours difficult to detect	2011	1.6545850708245633	8.774329958264655	3447276
+3448049	NLP	choreographies for automatic recovery	2017	2.2364291057496395	8.527369073518477	3448076
+3449396	Logic	safety first: a two-stage algorithm for ltl games	2009	1.7368294641282744	8.5364750826394	3449423
+3451742	Logic	symbolic supervisory control of resource allocation systems	2014	1.6889055209746635	9.237707243235695	3451769
+3453553	Logic	improved question-guided stubborn set methods for state properties	2000	2.074284181573724	8.718532704001179	3453580
+3454102	PL	the general product machine: a new model for symbolic fsm traversal	1998	2.348546702257653	9.090583600933817	3454129
+3455265	Logic	handling global conditions in parameterized system verification	1999	2.0579082842790557	8.992883811525374	3455292
+3457070	EDA	stochastic modelling and simulation of mobile systems	2010	1.6889724033171418	9.17254012417668	3457097
+3457162	EDA	using canonical representations of solutions to speed up infinite-state model checking	2002	1.661653661780941	8.500383172180697	3457189
+3457703	Logic	towards performance evaluation with general distributions in process algebras	1998	1.6504029089046666	9.060829005137473	3457730
+3459090	Logic	counterexample guided abstraction refinement for stability analysis	2016	2.125397099976302	8.795038440512988	3459117
+3459787	Embedded	the development of imprecise real-time systems	1994	2.268993759794896	9.035262234780001	3459814
+3461624	Logic	direct translation of ltl formulas to büchi automata	2012	1.9607072553492668	8.642503487071915	3461651
+3461963	SE	a discrete time model for performance evaluation and correctness verification of real time systems	2003	1.643222981377708	9.063327429232519	3461990
+3462835	Theory	compositional construction of swn models	1995	2.1999532938867965	8.72341227745008	3462862
+3466766	Security	one-representative safety analysis in the non-monotonic transform model	1994	1.692337228751204	8.456843175650755	3466793
+3466970	Logic	a resource-based prioritized bisimulation for real-time systems	1994	1.7158413319875698	8.527722070601397	3466997
+3469103	Logic	towards formal verification of distributed algorithms	2015	1.57065927097323	8.7758636735912	3469130
+3469171	SE	using statistical model checking for measuring systems	2014	1.6917369726253402	8.77661830222117	3469198
+3469281	AI	a compositional modelling and verification framework for stochastic hybrid systems	2017	1.706272171550128	9.025218506889203	3469308
+3471317	Theory	checking mergeable priority queues	1994	2.4354878325177616	9.253427972251123	3471344
+3472167	SE	resolving race conditions in asynchronous partial order scenarios	2005	1.8755666765153831	8.436256387844715	3472194
+3475135	Logic	a method for stepwise refinement and abstraction of petri nets	1983	2.4376116101709826	8.957540294247385	3475162
+3476675	Logic	quantitative static analysis of communication protocols using abstract markov chains	2017	2.4168139173603596	8.847138730655367	3476702
+3476886	Logic	symmetry reduced model checking for b	2007	2.375342514386217	8.783251105980277	3476913
+3477262	Logic	efficient guided symbolic reachability using reachability expressions	2006	2.319224489975945	8.97416661947475	3477289
+3478713	Logic	error diagnosis in finite communicating systems	1991	1.9882207952707451	8.63871342794472	3478740
+3481371	Logic	verifying liveness properties of reactive systems (tutorial abstract)	1997	2.1756780527277764	8.589856989282872	3481398
+3481508	Embedded	decidability of a class of dual communicating finite state machines	1996	1.6434320712790569	8.97322417774332	3481535
+3486627	DB	efficient online monitoring and formula synthesis with past stl	2018	1.6199155715189422	9.075947886222998	3486654
+3489102	PL	program verification as probabilistic inference	2007	2.1172265083933395	8.710524230436704	3489129
+3489433	SE	games-based model checking of protocols: counting doesn't count	2000	2.0703565236295938	8.757042551392253	3489460
+3491414	Logic	compositional invariant generation for timed systems	2014	2.175127587696788	8.666040258971611	3491441
+3493093	SE	two-way alternating automata and finite models	2001	2.109085007688846	8.65378590549088	3493120
+3495218	EDA	bounded reachability checking of asynchronous systems using decision diagrams	2007	2.304072922686201	8.994680338769411	3495245
+3498951	Logic	characterization of simulation by probabilistic testing	2016	2.089292930330896	8.711601566440873	3498978
+3501641	AI	diagnosability testing with satisfiability algorithms	2007	1.8227203311298776	8.544214278668568	3501668
+3505274	Logic	task-structured probabilistic i/o automata	2006	1.6194001504893698	8.784022731963487	3505301
+3507930	Embedded	model checking prioritized timed systems	2012	2.4162249379513847	9.169053483363301	3507957
+3508772	Logic	spades - a process algebra for discrete event simulation	2000	2.046776187884899	8.44879410040337	3508799
+3509727	Logic	is there a best büchi automaton for explicit model checking?	2014	2.3851099717964734	8.748132902068598	3509754
+3511057	Logic	analyzing fair parametric extended automata	2001	1.682802359527286	8.507652099932747	3511084
+3511192	Embedded	schedulability analysis of timed regular tasks by under-approximation on wcet	2016	1.8229873988940335	8.916162767008279	3511219
+3516984	Logic	checking system properties via integer programming	1996	2.0722773897155258	8.753976678498537	3517011
+3517483	Logic	distributed markov chains	2015	1.8789379236402035	8.878092528654822	3517510
+3519283	AI	towards an efficient algorithm for unfolding petri nets	2001	2.1591483834099274	9.029276808533016	3519310
+3520262	Logic	the stochastic semantics and verification for periodic control systems	2012	2.098580024818597	9.253989340391557	3520289
+3521688	Logic	parameterized verification of broadcast networks of register automata	2013	1.6174626367563698	8.983996954166239	3521715
+3524441	Embedded	scaling bdd-based timed verification with simulation reduction	2016	1.8125492425450331	8.878939549626939	3524468
+3527701	Logic	statistical approximation of optimal schedulers for probabilistic timed automata	2016	1.5822325447288572	9.17018487493445	3527728
+3528816	Logic	some investigations on deadlock freedom issues of a cyclically connected system using dijkstra's weakest precondition calculus	2007	2.3679793957783843	8.529863944822987	3528843
+3529975	EDA	reactive and proactive diagnosis of distributed systems using net unfoldings	2012	1.895804983798024	8.632938294816503	3530002
+3530271	Logic	semantics of deterministic shared-memory systems	2008	2.208978144375467	8.712015887380527	3530298
+3530402	Logic	characterizing non-zenoness on real-time processes	2001	1.6435967475017728	8.730816683437725	3530429
+3533454	AI	automata slicing for diagnosing discrete-event systems with partially ordered observations	2005	1.6381266201227938	9.034281501364006	3533481
+3534519	Logic	bounded parametric verification for distributed time petri nets with discrete-time semantics	2010	2.075517715049368	8.74539028652364	3534546
+3535324	SE	deadlock property analysis of concurrent programs based on petri net structure	2016	2.316914714067334	9.002803849585993	3535351
+3537848	SE	quantification of priority-or gates in temporal fault trees	2012	2.4067615766659203	8.574082529541599	3537875
+3538489	Logic	symbolic implementation of alternating automata	2007	2.1189893878273898	8.625550583318981	3538516
+3539686	Robotics	recursive decomposition of progress graphs	2009	2.2746726843459992	9.01562127135504	3539713
+3540220	Logic	question-guided stubborn set methods for state properties	2006	1.967909637056572	8.662346818966956	3540247
+3540302	SE	an improved protocol validation technique for a class of communication models	1986	1.4887518509072264	9.35816450602207	3540329
+3540515	Logic	on the construction of pullbacks for safe petri nets	2006	1.670959970269391	8.537948339124382	3540542
+3540917	Logic	design and evaluation of a symbolic and abstraction-based model checker	2004	1.7550096160841917	8.497774878797403	3540944
+3540924	Logic	testing timed automata	2001	1.546611658946205	8.65262010218467	3540951
+3541613	EDA	ctl-property transformations along an incremental design process	2006	2.379288427567553	8.902663309948327	3541640
+3541733	EDA	a graph-based transformation reduction to reach uppaal states faster	2014	2.216737173493036	9.084045496021725	3541760
+3542913	SE	verifying temporal properties of sequential machines without building their state diagrams	1990	2.0380478257801267	8.897354940389842	3542940
+3543487	SE	fluent temporal logic for discrete-time event-based models	2005	2.034406959898234	8.617603198545368	3543514
+3545628	Logic	trace-based semantics for probabilistic timed i/o automata	2007	1.8899348972882581	8.773331607031576	3545655
+3546044	AI	verification of distributed epistemic gossip protocols	2018	1.906589476553524	8.523371108414588	3546071
+3546153	Logic	abstraction refinement in symbolic model checking using satisfiability as the only decision procedure	2004	2.334327753861054	8.58745867535518	3546180
+3546365	Logic	monte carlo methods for process algebra	2006	1.621392679133867	8.916293697017727	3546392
+3546464	Logic	mixing lossy and perfect fifo channels	2008	1.5350807008896803	9.17930115794432	3546491
+3548630	Robotics	concurrent temporal planning using timed petri nets - policy evaluation	2007	1.5050103542450668	8.634076254113937	3548657
+3549191	Logic	efficient symbolic state-space construction for asynchronous systems	2000	2.398665426957642	9.289177142876207	3549218
+3551168	Logic	statistical model checking for markov decision processes	2012	1.5028499855295565	9.03583033133311	3551195
+3553225	SE	symbolic minimisation of stochastic process algebra models	1999	2.351799950453497	8.856818312219632	3553252
+3553387	Logic	combining predicate abstraction with fixpoint approximations	2016	2.2725037995117936	8.731113038318947	3553414
+3554328	Logic	verification of probabilistic systems with faulty communication	2003	1.6986619183184912	9.26098687406892	3554355
+3557053	Logic	liveness and fairness in process-algebraic verification	2001	2.2326629311683903	8.546597888658527	3557080
+3558808	Logic	efficient guided symbolic reachability using reachability expressions	2007	2.3594908137691366	8.973451495031615	3558835
+3559181	Embedded	distributed event clock automata - extended abstract	2011	1.6880107444181565	8.656674410731199	3559208
+3562414	Logic	factored planning: from automata to petri nets	2013	1.9080757927141343	8.709709631540832	3562441
+3563507	Logic	verification of hybrid systems based on counterexample-guided abstraction refinement	2003	1.5175381383676216	8.843606411731127	3563534
+3563680	Logic	combining ctl, trace theory and timing models	1989	2.083751997092865	8.944097772451107	3563707
+3564547	PL	interval analysis for concurrent trace programs using transaction sequence graphs	2010	1.792087482439549	8.535562796529073	3564574
+3565732	Logic	model checking of time petri nets using the state class timed automaton	2006	1.6107792898697684	8.90569208442528	3565759
+3566263	Logic	on decidability of a logic of gossips	2016	1.9161401807022105	8.60191096101106	3566290
+3566729	AI	model learning as a satisfiability modulo theories problem	2018	2.4105353098986333	8.526348054012765	3566756
+3569366	Theory	proving liveness for networks of communicating finite state machines	1986	1.5608781562104348	9.32576774493981	3569393
+3569775	Logic	using forward reachability analysis for verification of timed petri nets	2007	1.9257179345311857	8.730078444149216	3569802
+3570312	Logic	verification of liveness properties on closed timed-arc petri nets	2012	1.5083090745273873	8.745800563104908	3570339
+3571608	Logic	condensed state spaces for timed petri nets	2001	1.558723739611988	9.232205383806457	3571635
+3572306	SE	improving pattern-based ltl formulas for automata model checking	2008	2.4172174423126216	8.460103945208452	3572333
+3573889	Logic	model checking is refinement - from computation tree logic to failure trace testing	2010	1.991554816404815	8.589240989028307	3573916
+3573903	AI	model checking temporal knowledge and commitments in multi-agent systems using reduction	2015	2.208078757815126	8.492990540927064	3573930
+3575274	EDA	colored petri nets state-space reduction via symbolic execution	2005	2.0588001509720737	8.728342052454003	3575301
+3575697	Logic	high-density reachability analysis	1995	2.1499178223463096	9.167924593337196	3575724
+3575846	AI	sat-based explicit ltlf satisfiability checking	2018	2.260422283656123	8.49714550999905	3575873
+3578571	Theory	on one class of counter machines	2010	2.036931416498549	8.709708450547298	3578598
+3578712	Logic	under-approximation of reachability in multivalued asynchronous networks	2013	1.8548164526536641	8.772014446961665	3578739
+3579540	Logic	congruence results of scope equivalence for a graph rewriting model of concurrent programs	2008	1.972632844320896	8.796181391740465	3579567
+3579669	SE	improved verification of linear‐time properties within fairness: weakly continuation‐closed behaviour abstractions computed from trace reductions	2003	2.3352642093935048	8.735937190425098	3579696
+3581064	Logic	constructive finite trace analysis with linear temporal logic	2012	1.874591067051848	8.705474791225996	3581091
+3581914	AI	efficient abstraction and refinement for behavioral description based web service composition	2003	2.2228353885448833	8.874122119285724	3581941
+3582321	Logic	parameterised verification of randomised distributed systems using state-based models	2008	2.135941784468459	8.976379672370921	3582348
+3586831	Robotics	verifying a sliding window protocol using pvs	2001	2.2776528495243458	9.145085391191412	3586858
+3587107	PL	lower runtime bounds for integer programs	2016	2.0930508609549063	8.903351438876886	3587134
+3589744	Embedded	reachability in hierarchical machines	2014	1.9555833677939547	8.865412578539601	3589771
+3590263	Logic	automata and logics for concurrent systems: five models in five pages	2015	1.709827807914181	8.59412984806054	3590290
+3591525	Logic	verification of parameterized hierarchical state machines using action language verifier	2005	1.9428675517802307	8.53613791602746	3591552
+3591854	Logic	on the decidability of non interference over unbounded petri nets	2010	1.487030279693934	8.447139268572608	3591881
+3597206	Robotics	node replacement in hypergrahps: simulation of hyperedge replacement, and decidability of confluence	1994	1.7673789928771446	8.488631910218238	3597233
+3598226	Embedded	clock number reduction abstraction on cegar loop approach to timed automaton	2011	2.0282100593314647	8.977486942970822	3598253
+3599413	SE	lurch: a lightweight alternative to model checking.	2003	2.386074641187911	9.214841121593066	3599440
+3601698	EDA	reduction rules for yawl workflows with cancellation regions and or-joins	2009	2.131307456821041	8.725648119902107	3601725
+3602033	Logic	compositional and quantitative model checking (extended abstract)	2009	1.5332565765455974	8.491175333979207	3602060
+3602846	Logic	underapproximation for model-checking based on random cryptographic constructions	2007	2.15275987340858	8.903977757631466	3602873
+3605889	Logic	flat acceleration in symbolic model checking	2005	1.5715051118007377	8.667155002435164	3605916
+3606297	Logic	smt-based parameter synthesis for parametric timed automata	2016	1.6791857539468622	8.510141913821808	3606324
+3609348	Logic	some approximations in model checking and testing	2013	2.2642414071167707	8.867214483853349	3609375
+3611625	Logic	a new type of behaviour-preserving transition insertions in unfolding prefixes	2010	1.7710613357816598	8.442565288820234	3611652
+3612137	Logic	comparison of ltl to deterministic rabin automata translators	2013	1.5040904872898089	8.486152513329529	3612164
+3615150	EDA	evaluating symbolic traversal algorithms applied to asynchronous concurrent systems	2004	2.2437482150267187	8.917487937653453	3615177
+3615891	Embedded	a game-theoretic approach to real-time system testing	2008	1.6811016312861973	8.967486602624804	3615918
+3617047	Logic	petri nets in performance analysis : an introduction	1996	1.7793214811697575	9.351980561566553	3617074
+3617580	Logic	on stubborn sets in the verification of linear time temporal properties	2005	1.786383506243682	8.71749662421038	3617607
+3617868	Logic	quantifier-free encoding of invariants for hybrid systems	2014	1.9999636556806295	8.494011309054091	3617895
+3617919	Embedded	resource relocation in workflow nets with time, resource, and task priority constraints	2014	1.922740736551611	8.845324628337108	3617946
+3619389	Logic	the dark side of timed opacity	2009	1.7671087759881323	8.568064888707744	3619416
+3619623	Logic	compositional approach to suspension and other improvements to ltl translation	2013	1.7630107998258622	8.499539058870473	3619650
+3622853	Logic	finite reasons for safety	2013	2.1800371742273925	8.477360746142665	3622880
+3624054	Logic	formal verification of real-time software by symbolic model-checker	1998	2.1916080413191894	9.09770853492382	3624081
+3625322	Logic	parametric timing analysis for real-time systems	1996	1.9673057939744898	8.86185114833353	3625349
+3628296	Logic	symbolic model checking for factored probabilistic models	2016	1.7766337686881652	8.518857080006722	3628323
+3628454	Logic	checking mtl properties of discrete timed automata via bounded model checking	2013	2.137861577074724	8.515425249852521	3628481
+3629489	Theory	on the distribution of an assertion	1982	1.7181420456100829	8.643895974214702	3629516
+3630994	Logic	on checking whether a predicate definitely holds	2003	1.6535447309774938	8.807930928011658	3631021
+3632464	EDA	success-driven learning in atpg for preimage computation	2004	1.7980175664376867	9.06274505339924	3632491
+3632501	SE	on-the-fly tctl model checking for time petri nets using state class graphs	2006	1.7626740196085198	8.924699627373709	3632528
+3632630	Logic	symmetry reduction for probabilistic model checking	2006	1.5893267246753848	8.857551668553274	3632657
+3633074	Logic	the confluence property for petri nets and its applications	2006	1.5566462629701208	8.575547843188723	3633101
+3634994	Logic	checking multi-view consistency of discrete systems with respect to periodic sampling abstractions	2018	1.5523513517610323	8.722651158638332	3635021
+3637289	EDA	an implicit algorithm for finding steady states and its application to fsm verification	1998	2.0786991500963063	9.187478232773326	3637316
+3638926	SE	on the use of partial symmetries for lumping markov chains	2001	1.4752199226427378	9.025157900721489	3638953
+3640050	Logic	static guard analysis in timed automata verification	2003	1.49205678622895	8.824201159235876	3640077
+3642204	Logic	finite-state concurrent programs can be expressed in pairwise normal form	2016	1.9968644226237395	8.763973045496794	3642231
+3643475	ECom	equational reasoning on mobile ad hoc networks	2010	1.8914993846540755	8.79665595480874	3643502
+3644226	Logic	interaction in concurrent systems	2010	2.0244046056748752	8.653867349071017	3644253
+3645114	Logic	advanced unbounded model checking based on aigs, bdd sweeping, and quantifier scheduling	2006	2.098671403832141	8.59072863727628	3645141
+3647606	Logic	concrete model checking with abstract matching and refinement	2005	2.4121514277845932	8.540497662903197	3647633
+3647720	EDA	memory efficient state space storage in explicit software model checking	2005	2.4003416996616123	9.07371525723176	3647747
+3648153	Logic	an extension of java pathfinder for hybrid systems	2012	2.2284847586977183	8.965024941648664	3648180
+3649352	Logic	concurrent histories: a basis for observing distributed systems	1987	2.3044053303710523	8.552136830087916	3649379
+3649636	Logic	incremental re-encoding for symbolic traversal of product machines	1996	2.3359994651627893	9.16717031302194	3649663
+3652730	SE	timed aggregate graph: a finite graph preserving event- and state-based quantitative properties of time petri nets	2015	1.6421986526000492	8.94520446819886	3652757
+3653065	EDA	circuit delay computation based on ittpn	2013	1.6904324737331222	9.143765438260727	3653092
+3657020	PL	deciding bisimulation and trace equivalences for systems with many identical processes	1995	1.6498829593278348	8.733905758526529	3657047
+3657724	Logic	reachability and reward checking for stochastic timed automata	2014	1.5010083784018269	9.062762828579908	3657751
+3658550	AI	a comparative study of 2qbf algorithms	2004	1.81405797511476	8.939712415841422	3658577
+3659641	Logic	an abstract reachability approach by combining hol induction and multiway decision graphs	2009	2.148667315894258	8.473402083288521	3659668
+3661361	AI	reducing model checking commitments for agent communication to model checking arctl and gctl*	2012	2.3883864969814868	8.447241138994219	3661388
+3662066	Logic	fresh-variable automata: application to service composition	2013	2.2274290457668826	8.527589525735863	3662093
+3662868	PL	a transition function based characterization of actions with delayed and continuous effects	2002	2.315057884443422	8.473966208318187	3662895
+3663611	Logic	incremental model checking for decomposable structures (extended abstract)	1995	1.502421059353123	8.664350694700586	3663638
+3672043	Logic	prism: probabilistic model checking for performance and reliability analysis	2009	1.4898322958317776	9.332650014876972	3672070
+3673374	Logic	automata-theoretic and bounded model checking for linear temporal logic	2005	2.0446302042885725	8.675659991384293	3673401
+3674527	SE	a temporal logic for input output symbolic transition systems	2005	2.425086698375337	8.844163458761084	3674554
+3678402	Logic	model checking failure-prone open systems using probabilistic automata	2015	1.5792312311940333	8.709165652238251	3678429
+3678810	DB	active consistency enforcement for repairable database transitions.	1996	2.2880652046405587	8.699065020204227	3678837
+3679685	Logic	a practical approach to verification of mobile systems using net unfoldings	2008	1.8228332662683613	8.912401850445024	3679712
+3680325	Logic	ltl path checking is efficiently parallelizable	2009	2.2012017938358817	8.712416102515396	3680352
+3681314	AI	synthesizing agent protocols from ltl specifications against multiple partially-observable environments	2012	1.5131545168346892	8.621393836393915	3681341
+3682128	PL	complexity of pattern-based verification for multithreaded programs	2011	1.7293804995174131	8.735634826478723	3682155
+3685371	Logic	gste is partitioned model checking	2004	2.2865029708373656	8.834280072303265	3685398
+3685586	SE	towards optimal concolic testing	2018	1.721566940294648	8.83105140546405	3685613
+3686338	EDA	constraints graph based approach for the control of time critical systems	2008	2.163457075840833	9.153004785293387	3686365
+3687558	Logic	generalized fair reachability analysis for cyclic protocols with nondeterministic and internal transitions	1995	1.616175324287959	8.887191065868945	3687585
+3687860	Logic	a generic approach for the automatic verification of featured, parameterised systems	2005	2.279061199910953	8.606684476712893	3687887
+3688720	Logic	interval diagrams: increasing efficiency of symbolic real-time verification	1999	2.428741832202179	8.81920775856917	3688747
+3693591	Logic	epistemic model checking of atomic commitment protocols with byzantine failures	2017	2.0698595368968453	8.638029696671836	3693618
+3696584	AI	state-based discovery and verification of propositional planning invariants	2006	2.3153978570259204	8.592226765962549	3696611
+3697680	Logic	backward coverability with pruning for lossy channel systems	2017	2.1153537807573746	8.565431564770114	3697707
+3697688	AI	automatic verification of parameterised interleaved multi-agent systems	2013	2.186913563838836	8.599441234185445	3697715
+3697887	AI	co-evolution preserving model reduction for uncertain cyber-physical systems - towards a framework for nanoscience	2009	1.5163435766229838	8.717988524224916	3697914
+3700019	Logic	an introduction to hybrid automata	2005	1.9415488560006788	8.601151334710753	3700046
+3706080	Logic	deciding presburger arithmetic by model checking and comparisons with other methods	2002	2.34859636539009	8.711241776368798	3706107
+3707392	Logic	broadcast psi-calculi with an application to wireless protocols	2013	2.4058238464933552	8.431508000324289	3707419
+3709260	DB	monitoring dynamic integrity constraints based on temporal logic	1987	2.2301601416488217	8.657944011127693	3709287
+3713581	Logic	an invariant-based approach to the verification of asynchronous parameterized networks	2010	1.9708361735841955	8.758895631809148	3713608
+3715807	Logic	a flexible approach for checking timed automata on continuous time semantics	2018	2.3236225034292017	8.424890940907899	3715834
+3716301	Robotics	compositional design of multitolerant repetitive byzantine agreement.	1997	1.9183503380995	9.172814623250957	3716328
+3717451	Embedded	a parametric model checking approach for real-time systems design	2005	2.3955264509059924	9.104909823891301	3717478
+3720956	Logic	dynamic partitioning in linear relation analysis: application to the verification of reactive systems	2003	1.9798323523117047	9.120245090547133	3720983
+3721690	Logic	implementing real-time transactional security property using timed edit automata	2013	1.829350841400456	8.626766610025081	3721717
+3724100	Logic	a symbolic model checking approach to the analysis of string and length constraints	2018	2.2771277333131468	8.413629641616266	3724127
+3724926	DB	decidable models of recursive asynchronous concurrency	2014	1.6814845174796709	8.73063383326954	3724953
+3729241	Logic	counterexamples for timed probabilistic reachability	2005	1.6370420397510863	8.991479826738061	3729268
+3730091	SE	properties of enhanced mobile membranes via coloured petri nets	2012	2.181784673621014	8.631638202642915	3730118
+3730623	AI	decidability of fair termination of gossip protocols	2017	1.8822675835244218	8.646418318932236	3730650
+3730821	EDA	nonlinear quantification scheduling in image computation	2001	2.132604644798044	8.893913301846299	3730848
+3731482	SE	a framework for performance evaluation and functional verification in stochastic process algebras	2008	2.025940036431162	9.160119998287	3731509
+3733442	PL	learning support sets in ic3 and quip: the good, the bad, and the ugly	2017	2.016651502376836	8.602265027399307	3733469
+3734063	Logic	verification of systems containing counters	1992	2.3755612362246556	9.200072347994693	3734090
+3735102	Embedded	an abstraction-refinement theory for the analysis and design of real-time systems	2017	2.14727473187237	8.716392879469687	3735129
+3736157	Logic	verification of partial designs using incremental qbf	2015	2.153380513096091	8.646297889544309	3736184
+3737124	Logic	compositionality and locality for improving model checking in the selective mu-calculus	2005	2.2911203345078075	8.693327599823421	3737151
+3737144	Logic	on the complexity of input output conformance testing	2013	2.395954663183224	8.884704131973209	3737171
+3739946	Logic	robust analysis of timed automata via channel machines	2008	2.4364980666134195	8.603819309680603	3739973
+3740013	PL	equivalence checking of arithmetic expressions using fast evaluation	2005	2.2281166188792545	8.527053339124317	3740040
+3741418	Embedded	timed automata with asynchronous processes: schedulability and decidability	2002	1.7424260563701537	9.057918729817477	3741445
+3746243	Theory	termination of probabilistic concurrent program	1983	1.519465467406376	9.327642544502627	3746270
+3748553	Logic	parameterized tree systems	2008	1.627743561842118	8.68444367138729	3748580
+3748591	Logic	iis-guided dfs for efficient bounded reachability analysis of linear hybrid automata	2011	1.9493839568597964	8.960788983369213	3748618
+3749879	Logic	controllability in partial and uncertain environments	2014	1.8125994144159263	8.601566117083525	3749906
+3750570	SE	verifying programs with dynamic 1-selector-linked structures in regular model checking	2005	2.270914840972641	8.414188024073713	3750597
+3751464	Logic	apex: an analyzer for open probabilistic programs	2012	1.7112215455813262	8.48334474814907	3751491
+3751630	Logic	parametrized verification of distributed cyber-physical systems: an aircraft landing protocol case study	2012	1.6220253257860011	8.961079696334924	3751657
+3752934	Embedded	spatio-temporal hybrid automata for safe cyber-physical systems: a medical case study	2013	1.5631530895722971	9.1836264549365	3752961
+3754266	SE	counterexample generation in stochastic model checking based on pso algorithm with heuristic	2016	2.164480563396375	9.156343310959599	3754293
+3755178	Logic	verification of parametric concurrent systems with prioritized fifo resource management	2003	2.0396325730378853	8.86708535964841	3755205
+3757081	PL	types and recursion schemes for higher-order program verification	2009	2.065770390439047	8.444021567542856	3757108
+3758325	HCI	test coverage estimation using threshold accepting	2014	2.266702348917625	9.246393208280061	3758352
+3759976	Logic	an abstract framework for deadlock prevention in bip	2013	2.2512456735633655	8.971298553655712	3760003
+3761569	SE	experimental comparison of approaches for checking completeness of test suites from finite state machines	2017	2.2082175283192944	8.765758255829363	3761596
+3762887	Logic	dynamic logics of dynamical systems	2012	1.6110248122445818	8.725597376784455	3762914
+3763622	SE	a typical verification challenge for the grid	2008	2.17413629119273	9.184953993102079	3763649
+3767756	Logic	verifying systems with infinite but regular state spaces	1998	1.6806938692950053	8.60519070298858	3767783
+3768269	SE	a functional testing approach for hybrid safety properties with incomplete information	2013	2.1199521975507927	8.94014809901951	3768296
+3768740	Embedded	analysis of synchronous and asynchronous cellular automata using abstraction by temporal logic	2004	1.973359136577336	8.708527082659872	3768767
+3770003	Logic	improving bdd based symbolic model checking with isomorphism exploiting transition relations	2011	2.2771320831878814	9.09315009145248	3770030
+3771096	Logic	extracting exact time bounds from logical proofs	2001	1.655378553854468	8.90604691712953	3771123
+3771104	Logic	partial order reductions for timed systems	1998	2.0777050461004425	8.95073453002216	3771131
+3771904	Logic	executions: a new partial-order semantics of petri nets	1991	1.4894545189636057	8.924666244679575	3771931
+3773006	Logic	solving games without controllable predecessor	2014	1.656860518499606	8.611383823613684	3773033
+3773626	PL	multiple-dispatching based on automata	1995	2.424507236321288	9.261867952759117	3773653
+3774637	Logic	symbolic computation of differential equivalences	2016	1.6297905613772132	8.479170420428881	3774664
+3777302	Logic	model checking software	2003	2.320850117278755	9.227557879683204	3777329
+3780176	Embedded	querying parametric temporal logic properties on embedded systems	2012	1.984879861704005	9.052254179119464	3780203
+3781432	Logic	parameterized verification with automatically computed inductive assertions	2001	2.08737009337242	8.456131371700629	3781459
+3781606	AI	embedding real time in stochastic process algebras	2006	2.0774567518416758	8.591348880530564	3781633
+3782227	Logic	stabilizing unison	1990	2.3674242778870753	9.318475357332408	3782254
+3783960	Embedded	a full symbolic compositional reachability analysis of timed automata based on bdd	2015	2.1078589173836524	9.025489463743238	3783987
+3787279	Embedded	computing quantitative characteristics of finite-state real-time systems	1994	1.7780521843355994	9.225605275607627	3787306
+3788631	PL	model checking large-scale and parameterized resource allocation systems	2002	2.116129675605883	9.159183899552293	3788658
+3789867	Logic	complexity results for reachability in cooperating systems and approximated reachability by abstract over-approximations	2013	1.8545297714519424	8.598190134259875	3789894
+3789905	PL	faster algorithms for weighted recursive state machines	2017	2.167049620965103	8.779643304076304	3789932
+3790902	DB	extensions on performance evaluation techniques for concurrent systems	1988	1.5040374664454417	9.218059164088412	3790929
+3791988	Embedded	towards generation of adaptive test cases from partial models of determinized timed automata	2015	2.235398644968282	8.763103990178745	3792015
+3792089	Logic	decidability of linearizabilities for relaxed data structures	2016	2.338670772004194	8.861421800926419	3792116
+3793977	Logic	accurate widenings and boundedness properties of timed systems	2001	1.7888702056171868	8.614854084221207	3794004
+3793992	Theory	a study of schedules as models of synchronous parallel computation	1977	2.189026384888027	8.45313243192089	3794019
+3796578	Logic	computational challenges in bounded model checking	2004	1.8288692477611084	8.488171112881439	3796605
+3797343	SE	symbolic methods for the state space exploration of gspn models	2002	2.230798433472144	9.005983302242319	3797370
+3797781	DB	on the minimality of stream x-machines	2003	2.0700162787027745	8.923290591660127	3797808
+3799909	Logic	symbolic model checking for simply-timed systems	2004	2.278354002697454	8.838778056075975	3799936
+3800097	Logic	bounded synthesis of register transducers	2018	1.545718096238643	8.476418488090061	3800124
+3800235	Logic	abstractions and partial order reductions for checking branching properties of time petri nets	2001	1.7993527283418804	8.741499557868416	3800262
+3802271	Logic	methods for knowledge based controlling of distributed systems	2010	1.8925814564537433	9.040319557690657	3802298
+3802687	Logic	techniques for smaller intermediary bdds	2001	2.0746915649463835	8.976726656782494	3802714
+3805845	Logic	a randomized encoding of the pi-calculus with mixed choice	2005	1.7197599817677451	8.68109717111336	3805872
+3806222	Logic	verifying multithreaded recursive programs with integer variables	2009	2.0242122225155	8.58991995924619	3806249
+3807872	Logic	a semantic theory for heterogeneous system design	2000	2.238035517936352	8.829185722006368	3807899
+3807892	Embedded	towards sensitivity analysis of hybrid systems using simulink	2013	1.6387640042235287	9.271901254442188	3807919
+3809000	Logic	on the construction of live timed systems	2000	1.592703519180653	8.719851547141383	3809027
+3810843	EDA	rtl-datapath verification using integer linear programming	2002	2.257603619114644	8.58771604131523	3810870
+3811690	Logic	concurrency and composition in a stochastic world	2010	1.6566250638779607	8.742477446743855	3811717
+3811794	Logic	a new approach of qualitative simulation for the validation of hybrid systems	2016	2.000877025757593	9.165309098099359	3811821
+3812025	Logic	synthesis of loop-free programs	2011	2.439671453990698	8.604349533705035	3812052
+3812615	Logic	on relaxing metric information in linear temporal logic	2011	1.5702514783848311	8.749998826987934	3812642
+3816943	Logic	parameterized verification by probabilistic abstraction	2003	1.810051091047576	8.593613280005432	3816970
+3818333	Embedded	analysis of slope-parametric hybrid automata	1997	1.5926509278270198	8.959653055044049	3818360
+3818360	SE	a formal approach to property testing in causally consistent distributed traces	2005	2.4230770290199857	8.728951000771627	3818387
+3818839	Logic	canonical transition set semantics for petri nets	2010	1.8669164282838981	8.572081534864736	3818866
+3824472	ECom	firsts steps in cellular fields optimization: a fssp case study	2018	2.314052263400456	9.254675312238033	3824499
+3824599	PL	confluence reduction for probabilistic systems	2011	2.154494807902454	8.446756938225079	3824626
+3825452	EDA	partial-order reduction for general state exploring algorithms	2006	2.047070239332641	8.969569018235466	3825479
+3825882	SE	safe ccsl specifications and marked graphs	2013	1.8086541945978525	9.03107709007524	3825909
+3828369	Embedded	formal analysis of real-time equational rule-based systems	1989	2.1805216698204384	8.787599445113704	3828396
+3829202	Logic	efficient computation and representation of large reachability sets for composed automata	2002	2.034673531907492	9.118118141348015	3829229
+3830162	SE	partial-order reduction for general state exploring algorithms	2008	2.089481405150483	8.982309834545385	3830189
+3834934	Logic	probabilistic compositional reasoning for guaranteeing fault tolerance properties	2011	1.893615538583808	9.15547989721895	3834961
+3835958	AI	quantified abstract configurations of distributed systems	2014	2.160429280398029	8.875035649850131	3835985
+3836307	AI	property-dependent reductions adequate with divergence-sensitive branching bisimilarity	2014	1.7984310678900386	8.554268599105745	3836334
+3837218	Logic	proving unreachability using bounded model checking	2010	1.8863240951906384	9.093363321646306	3837245
+3839982	EDA	mining parametric temporal logic properties in model-based design for cyber-physical systems	2017	1.560197246741739	9.153156497888217	3840009
+3842811	AI	extended markovian process algebra	1996	1.6430061582052553	8.591804794538463	3842838
+3843642	Logic	abstract reachability graph for verifying web service interfaces	2008	2.3313945250893466	8.461298710652896	3843669
+3846022	Logic	the complexity of synchronous notions of information flow security	2016	2.2116656947250237	8.84326864445915	3846049
+3848987	Logic	integrating timed condition/event systems and timed automata for the verification of hybrid systems	1998	1.7955460485172032	8.715345837543916	3849014
+3850514	Logic	model checking procedural programs	2018	2.039996544380126	8.471071565210433	3850541
+3851517	Logic	effectiveness for input output conformance simulation iocos̱	2014	2.254101055169829	8.597032471192255	3851544
+3852004	Logic	blending timed formal models with clock transition systems	2014	2.1248780302675243	8.645971764743514	3852031
+3852693	Logic	improved model checking of hierarchical systems	2010	1.7509167043637086	8.690073493143043	3852720
+3854190	Logic	bounded communication reachability analysis of process rewrite systems with ordered parallelism	2009	1.6026946772355417	8.507310739596308	3854217
+3856099	EDA	formalizing timing diagram requirements in discrete duration calulus	2017	2.126747221931613	8.783770983542519	3856126
+3856627	Logic	a gpgpu-based simulator for prism: statistical verification of results of pmc (extended abstract)	2016	1.5141686217861114	9.04306289664812	3856654
+3857135	Logic	compositional invariant generation via linear recurrence analysis	2015	1.6771958999260552	8.49576355643792	3857162
+3857752	Robotics	undirected graph algebra application for formalization description of information flows	2013	1.6098711239537806	9.154762649094195	3857779
+3857772	Logic	incremental, inductive coverability	2013	2.113332797245192	8.687012380088856	3857799
+3860365	EDA	efficient parameter synthesis using optimized state exploration strategies	2017	1.933122047606676	8.938882032683303	3860392
+3860465	Embedded	discrete time stochastic petri nets for modeling and evaluation of real-time systems	2001	1.4984416356996026	9.358972044275584	3860492
+3862137	PL	confluence reduction for probabilistic systems (extended version)	2010	2.109162216624068	8.437319218440264	3862164
+3862440	Logic	correctness issues of symbolic bisimulation computation for markov chains	2010	2.226847112783777	8.89028761797214	3862467
+3864780	Logic	on generating a variety of unsafe counterexamples for linear dynamical systems	2018	2.2364716988194457	8.800461482604137	3864807
+3865674	Logic	model-checking for real-time systems	1995	2.33971068769265	8.894221931569971	3865701
+3866354	ML	kronecker based matrix representations for large markov models	2004	2.0414346712693554	8.911322477102662	3866381
+3866633	Logic	weak invariant simulation: properties and algorithms	2013	1.7444783668787458	8.74225618360405	3866660
+3868376	Logic	ic3 and beyond: incremental, inductive verification	2012	2.4397480608944044	8.41576391571748	3868403
+3869295	AI	test strategy generation using quantified csps	2008	2.234571104902167	8.619602714755537	3869322
+3870360	Logic	a bdd-based model checker for recursive programs	2001	1.839237534030666	8.541977038510119	3870387
+3871104	Theory	black box unfolding with local first search	2002	1.6394098639359722	8.660169867316874	3871131
+3873298	EDA	optimization techniques for craig interpolant compaction in unbounded model checking	2013	2.2283075196427293	8.548420870577722	3873325
+3875286	Logic	state class timed automaton of a time petri net	2003	1.5827023623125902	8.981236063397274	3875313
+3876076	Logic	weakly-synchronized ground tree rewriting - (with applications to verifying multithreaded programs)	2012	2.4071041290309316	8.776481475126712	3876103
+3877080	EDA	a liveness checking algorithm that counts	2012	2.351027455168252	9.024285546887032	3877107
+3881051	AI	theory and applications of satisfiability testing – sat 2012	2012	1.9687278488220783	8.458709781411338	3881078
+3882257	AI	on the computational complexity of gossip protocols	2017	1.9148895039739848	8.6988528218807	3882284
+3883311	SE	automatic verification of reliability requirements of spatio-temporal analysis using three-valued spatio-temporal logic	2017	2.0581272140515856	8.996411961294903	3883338
+3883362	Embedded	service availability in concurrent systems - part ii: analysis and case studies using hsip	2007	2.376762042311616	8.996043207709999	3883389
+3885330	ML	a compositional sweep-line state space exploration method	2002	1.988052891512812	9.074648571849519	3885357
+3885874	Logic	smc: a symmetry based model checker for verification of liveness properties	1997	2.3422726365087434	8.708754036418643	3885901
+3886390	SE	how to optimize the use of sat and smt solvers for test generation of boolean expressions	2015	2.2543171163763005	8.487753202891026	3886417
+3889074	Logic	on fairness notions in distributed systems: i. a characterization of implementability	2001	1.7330100069705168	8.7712160329759	3889101
+3889586	Logic	hyperpctl: a temporal logic for probabilistic hyperproperties	2018	1.4820906340887687	8.459901952491279	3889613
+3890370	Logic	when does abstraction help?	2013	1.8384731520602176	8.539021037358998	3890397
+3890918	Logic	quantum circuit oracles for abstract machine computations	2010	1.6587039674123172	9.29810020377294	3890945
+3891313	Logic	approximated parameterized verification of infinite-state processes with global conditions	2009	1.9599315467805465	8.877606483372054	3891340
+3895221	AI	on compiling dnnfs without determinism	2017	2.122658521708741	8.506914980841165	3895248
+3895781	Logic	automated analysis of asynchronously communicating systems	2016	1.7560058302050696	9.100470293354107	3895808
+3896314	Logic	relaxed visibility enhances partial order reduction	1997	2.2121011956279055	8.933019899519707	3896341
+3896737	Logic	dynamic message sequence charts	2002	1.9094057211115385	8.654226685991661	3896764
+3896783	SE	studying the separability relation between finite state machines	2007	1.7244319572331854	9.12865405705156	3896810
+3900119	Theory	a complete axiomatization of quantified differential dynamic logic for distributed hybrid systems	2010	1.7198044367934084	8.901918585893357	3900146
+3900320	Crypto	probabilistic validation of a remote procedure call protocol	1994	1.552578362884585	9.335483612687673	3900347
+3901219	Embedded	robustness analysis for scheduling problems using the inverse method	2012	1.5326454537183036	9.006332418813123	3901246
+3901449	Logic	model checking of probabalistic and nondeterministic systems	1995	2.2136827591252217	8.878535272985152	3901476
+3903385	Logic	hierarchy of asynchronous automata	1999	1.8969906722275032	8.60371957527899	3903412
+3905669	AI	a counter abstraction technique for the verification of robot swarms	2015	2.2238669261545057	9.016839556149169	3905696
+3908038	Logic	the power of hybrid acceleration	2006	1.512248145263377	8.633545276405021	3908065
+3909266	AI	certified impossibility results for byzantine-tolerant mobile robots	2013	2.373283702973625	9.262778357832456	3909293
+3912313	Embedded	testing experiments on synchronized petri nets	2014	1.8238806679637616	9.085976662630731	3912340
+3913789	Logic	on verifying fair lossy channel systems	2002	1.771168848268419	9.137746767537367	3913816
+3914100	Embedded	decidable and undecidable problems in schedulability analysis using timed automata	2004	1.554264489955276	9.218971464274363	3914127
+3914316	Logic	compact and efficiently verifiable models for concurrent systems	2018	2.2596430928248794	8.912883970144529	3914343
+3914364	Logic	partial order semantics and read arcs	1997	1.6310303838627072	8.562648912802358	3914391
+3914524	Logic	decidability of model checking for infinite-state concurrent systems	1997	1.9176159685281096	8.483194035177638	3914551
+3918387	Logic	reactive links to save automata states.	2010	1.6820707684584904	8.545406738354178	3918414
+3920565	EDA	analysis and identification of speed-independent circuits on an event model	1994	2.267613485441652	9.196856306630457	3920592
+3922768	Robotics	towards focus on time	2014	2.3645297068839657	8.98324657449035	3922795
+3925533	SE	time supervision of concurrent systems using symbolic unfoldings of time petri nets	2005	1.7066431405368068	8.830248074623668	3925560
+3926861	Logic	a new algorithm for discrete timed symbolic model checking	1997	2.3245538717665046	8.528642907533566	3926888
+3927182	EDA	parallel hierarchical reachability analysis for analog verification	2014	1.957964269329276	9.227669930316926	3927209
+3929846	Logic	on-the-fly fast mean-field model-checking: extended version	2013	1.6766535746012694	9.055884176044255	3929873
+3930772	EDA	using maxbmc for pareto-optimal circuit initialization	2014	2.243889075132776	8.789020308083444	3930799
+3930856	Logic	hybrid bdd and all-sat method for model checking	2009	2.1214236162654867	8.90618673768932	3930883
+3931986	EDA	practical applications of an efficient time separation of events algorithm	1993	2.127234900940391	9.28562306171644	3932013
+3933064	AI	implementation relations for stochastic finite state machines	2006	2.0599095352511902	8.95640190522709	3933091
+3933139	Logic	traps, invariants, and dead-ends	2016	2.126913035020511	8.77650288632161	3933166
+3934912	Logic	fully symbolic model checking of timed systems using difference decision diagrams	1999	2.3540227353599303	9.081968563246452	3934939
+3937286	SE	making cegar more efficient in software model checking	2014	2.2731413970474716	8.719199235599447	3937313
+3937527	DB	manipulation of regular expressions under length constraints using zero-suppressed-bdds	1995	2.12354467829793	8.868033330468347	3937554
+3938623	Embedded	a simple assertional proof system for real-time systems	1992	1.853765753052522	8.78972836360994	3938650
+3939695	Logic	model-checking discrete duration calculus	1994	1.728662859329018	8.517085012408844	3939722
+3941067	Logic	incremental bisimulation abstraction refinement	2013	2.155901484008504	8.440298510568056	3941094
+3942052	Logic	a proof-based approach to verifying reachability properties	2011	2.342138964280089	8.501479350786186	3942079
+3942404	Logic	safety monitoring for etcs with 4-valued ltl	2011	2.272922546015037	8.667594979878404	3942431
+3942783	Logic	reachability and reverse reachability analysis of cfsms	1996	2.3697483599141904	9.03874406265124	3942810
+3944006	EDA	on partitioning and symbolic model checking	2006	2.2121734712557797	9.33874318098604	3944033
+3945334	Logic	compositional nonblocking verification using generalized nonblocking abstractions	2013	2.3003921123673923	9.089728493466312	3945361
+3946236	Logic	charda: causal hybrid automata recovery via dynamic analysis	2017	2.364089917770937	8.916876205616033	3946263
+3947927	Logic	covering step graph preserving failure semantics	1997	2.074133816960969	8.91291107848189	3947954
+3948370	EDA	delay-dependent partial order reduction technique for time petri nets	2014	1.5883304498025412	8.979608250945518	3948397
+3951498	EDA	proving qbf-hardness in bounded model checking for incomplete designs	2013	2.06547447510055	8.886791457579363	3951525
+3952766	Embedded	checking timed büchi automata emptiness efficiently	2005	2.415019480868036	8.56446466410025	3952793
+3953109	EDA	markovian analysis of large finite state machines	1996	1.9174176556100424	9.178996925667727	3953136
+3953913	Logic	hierarchical reachability graph generation for petri nets	2002	1.97023674270418	8.928628695854387	3953940
+3957542	Logic	applying step coverability trees to communicating component-based systems	2009	1.6239201420269067	8.590098941476054	3957569
+3957543	SE	partial projection of sets represented by finite automata, with application to state-space visualization	2009	2.0282654274998624	8.69460270334638	3957570
+3958370	PL	an incremental heap canonicalization algorithm	2005	2.367020578151845	9.10112599691207	3958397
+3959038	Logic	automatic verification of hybrid systems with large discrete state space	2006	1.634935273115015	8.630033437437557	3959065
+3962120	AI	planning via petri net unfolding	2007	2.1441450873506254	8.856447724885083	3962147
+3965040	PL	verifying temporal properties without temporal logic	1989	2.371675865864177	8.43346949462627	3965067
+3965060	Logic	fast interpolating bmc	2015	2.115874887666481	8.457489753882701	3965087
+3967539	Logic	stepwise ctl model checking of state/event systems	1999	1.7348583283177492	8.689036349048308	3967566
+3968140	Logic	on equivalence-completions of fairness assumptions	1992	2.1789523874529046	8.560568077871988	3968167
+3970885	Logic	sat-based unbounded model checking of timed automata	2007	2.053338512290734	8.657239216362624	3970912
+3971186	EDA	symbolic compilation of psl	2008	2.223887681947889	8.532624440332421	3971213
+3971544	Logic	symbolic execution of reo circuits using constraint automata	2012	2.296763898948408	9.139262989593917	3971571
+3972973	SE	static analysis and dynamic steering of time-dependent systems	2001	1.728929053528676	9.290823102602596	3973000
+3973144	Logic	k-bounded petri net synthesis from modal transition systems.	2017	2.3089465787328343	8.49687622053916	3973171
+3973924	Logic	efficient algorithms for time- and cost-bounded probabilistic model checking	2016	1.8327863133331816	9.187194185847511	3973951
+3974609		formal verification of tcp and t/tcp	1997	1.831927243359208	8.578412803873746	3974636
+3975397	PL	negotiation as concurrency primitive	2013	1.7179160625638	8.463850175865726	3975424
+3975934	Logic	lazy reachability checking for timed automata with discrete variables	2018	2.3763603001140714	9.054422590374994	3975961
+3976352	Logic	on-the-fly verification of finite transition systems	1992	2.0928112170234017	9.034827366044876	3976379
+3977303	PL	negotiation programs	2015	2.2403402276946585	8.648131864017298	3977330
+3979366	Embedded	the quest for average response time	2017	1.8938083213977883	8.989754067181453	3979393
+3979806	AI	hybrid semantics of stochastic programs with dynamic reconfiguration	2009	1.4815999092450107	8.929499312176906	3979833
+3982020	AI	divide and compose: scc refinement for language emptiness	2001	2.27908619516726	8.651318166000294	3982047
+3983078	Graphics	a static analysis technique for graph transformation systems	2001	1.6536480454071307	8.505584120434174	3983105
+3984803	PL	behaviour-preserving transition insertions in unfolding prefixes	2007	2.1509694307105978	8.635208480939777	3984830
+3984813	Logic	zone-based universality analysis for single-clock timed automata	2007	1.8776134880608968	8.632081650380133	3984840
+3985432	DB	language-based performance prediction for distributed and mobile systems	2002	1.6897394559357213	8.949893891839496	3985459
+3986858	Graphics	a graphical representation of the state spaces of hierarchical level-of-detail scene descriptions	2001	1.757715964346423	8.500139945903001	3986885
+3987230	ML	on the analysis of cooperation and antagonism in networks of communicating processes	1985	1.7000144197802862	9.345956121475792	3987257
+3990588	Logic	on learning assumptions for compositional verification of probabilistic systems	2014	1.6921675196776091	8.875575346775435	3990615
+3991502	Logic	compositional abstraction of pepa models for transient analysis	2010	1.4936261344258193	9.137467715869407	3991529
+3992541	Embedded	deriving unbounded proof of linear hybrid automata from bounded verification	2014	1.99644479008424	8.808120949804739	3992568
+3992641	SE	of-penda: a software tool for fault diagnosis of discrete event systems modeled by labeled petri nets	2014	1.6585106099122944	9.268994203404725	3992668
+3992705	Logic	the ins and outs of the probabilistic model checker mrmc	2009	1.6267546437702247	9.122139016149061	3992732
+3995205	Logic	spread the work: multi-threaded safety analysis for hybrid systems	2018	2.189667285919965	8.945379105640699	3995232
+3995235	Logic	verification of bounded petri nets using integer programming	2007	2.158659672308876	8.9788345948334	3995262
+3995603	SE	a new decomposition method to relieve the state space explosion problem	1993	2.3283255562389717	9.231123619880595	3995630
+3998386	Logic	a randomized distributed encoding of the pi-calculus with mixed choice	2002	1.6290330689487564	8.436452127427144	3998413
+3998681	SE	passive testing of timed systems	2008	2.07400912595259	8.558366698951778	3998708
+3999350	Logic	efficient parallel path checking for linear-time temporal logic with past and bounds	2012	2.150783102496358	8.74303907946049	3999377
+4000574	Logic	local and global fairness in concurrent systems	2015	2.164576588469761	8.950907946804524	4000601
+4001288	Logic	statistical model checking of black-box probabilistic systems	2004	1.4785346177904848	9.087254816962991	4001315
+4002277	Logic	abstraction for model checking the probabilistic temporal logic of knowledge	2010	1.9421941375171587	8.527600899595251	4002304
+4002401	SE	a practical technique for bounding the time between events in concurrent real-time systems	1993	2.3188245541003494	9.147195892049217	4002428
+4003481	Robotics	towards the removal of synchronous behavior of events in automata	2014	2.0624711620360627	9.050558052145524	4003508
+4005467	Logic	the petri net twist in explicit model checking	2014	2.135766328742299	8.682911881054123	4005494
+4005876	Logic	advances in probabilistic model checking	2012	2.3865847536601392	9.232265655599246	4005903
+4006076	Logic	computing reachability properties hidden in finite net unfoldings	1997	1.6777965409542928	8.820754188991197	4006103
+4006625	Theory	construction of checking sequences based on characterization sets	1995	1.6855583718775946	8.76703763219339	4006652
+4006744	AI	the complexity of epistemic model checking: clock semantics and branching time	2010	1.6734529345720697	8.497735800325634	4006771
+4007312	EDA	don't care sequences and the optimization of interacting finite state machines	1994	2.1998099571955017	9.12710982746616	4007339
+4009151	Logic	relaxed visibility enhances partial order reduction	2001	2.2205215250114128	8.906014768646182	4009178
+4009628	EDA	efficient encoding schemes for symbolic analysis of petri nets	1998	2.3612831763746915	9.23125920230407	4009655
+4011399	SE	directed model checking with distance-preserving abstractions	2008	2.135508065224498	9.050944813129837	4011426
+4012850	Logic	timed automata with urgent transitions	2003	2.3101849914194013	8.921753131626756	4012877
+4013489	Logic	a branching time temporal framework for quantitative reasoning	2003	1.810944063840891	8.440676724421014	4013516
+4015063	Logic	implementation of timed automata: an issue of semantics or modeling?	2005	2.119424363723326	8.714842251435313	4015090
+4016285	Logic	equivalence notions for concurrent systems and refinement of actions (extended abstract)	1989	2.0916670065686302	8.518560313683729	4016312
+4019535	Logic	fully symbolic model checking for incomplete systems of timed automata	2012	1.8921589221742017	9.098828487783292	4019562
+4022626	Logic	performance evaluation of a real-time simulation architecture using probabilistic model checking	2005	1.5390887725816664	9.292432096016508	4022653
+4023928	PL	on the analysis of interacting pushdown systems	2007	2.4372557905192505	8.81737159195217	4023955
+4024453	Embedded	predicting logical and temporal properties of real-time systems using synchronized elementary nets	1994	2.0716479880858265	8.914388394161783	4024480
+4025177	Logic	tri-modal under-approximation of event systems for test generation	2015	1.7443457281998807	8.72633018768365	4025204
+4026702	Logic	the formal verification of a reintegration protocol	2005	2.159254563818117	9.08281910250524	4026729
+4026986	Logic	partial predicate abstraction and counter-example guided refinement	2017	1.5166382551368316	8.484913088061019	4027013
+4029131	Logic	reachability analysis of communicating pushdown systems	2009	1.4858184397309833	9.021095892786976	4029158
+4029320	Logic	a new approach to bounded model checking for branching time logics	2007	1.9791706302908696	8.68000987077286	4029347
+4029947	Logic	representing circuits more efficiently in symbolic model checking	1991	2.241199331108477	9.248084641495641	4029974
+4030598	SE	structural methods to improve the symbolic analysis of petri nets	1999	2.285783829995407	9.157123002112328	4030625
+4031249	EDA	the state reduction of nondeterministic finite-state machines	1997	1.7921502998088386	9.077837500879623	4031276
+4034934	Logic	bisimulation algorithms for stochastic process algebras and their bdd-based implementation	1999	2.3778759030684853	8.856697013155916	4034961
+4035512	Logic	models of fault-tolerant distributed computation via dynamic epistemic logic	2017	2.4313049425599926	8.648905447779585	4035539
+4035820	Embedded	on the schedulability analysis for distributed hard real-time systems	1997	1.8510064323024844	9.340585941429602	4035847
+4037573	Logic	a new approach to abstract reachability state space of time petri nets	2013	1.8952654532377784	9.005417259260954	4037600
+4039699	EDA	synthesis of timed asynchronous circuits	1993	2.1560276320634544	9.334788846972208	4039726
+4041702	AI	property directed reachability for automated planning	2014	2.285307142656672	8.44582658966724	4041729
+4044700	AI	certainly unsupervisable states	2013	2.0117335483348753	9.063453908759287	4044727
+4044977	Logic	symbolic model checking by automata based set representation	2002	2.0385517699471967	8.847462809677111	4045004
+4045502	Logic	generating bdd models for process algebra terms	1995	2.1073024459696468	8.428630883526077	4045529
+4047422	Logic	reconciling real and stochastic time: the need for probabilistic refinement	2012	1.7683669959393082	8.505265543102897	4047449
+4048450	Logic	measuring the performance of asynchronous systems with pafas	2005	2.007496118948167	9.110527934028148	4048477
+4048608	Logic	model-checking of correctness conditions for concurrent objects	2000	1.5822070501871246	8.439579488438495	4048635
+4049019	Logic	a translation of tpalp into a class of timed-probabilistic petri nets	2005	2.42365479181496	8.616505456502074	4049046
+4049127	Logic	terminal satisfiability in gste	2014	1.8346967835003365	8.963373156894058	4049154
+4050115	EDA	jbernstein: a validity checker for generalized polynomial constraints	2013	2.3227354862989484	8.562328383360638	4050142
+4050683	Logic	using branching time temporal logic to synthesize synchronization skeletons	1982	2.027299628070886	8.66153988576612	4050710
+4051485	Logic	towards the construction of an abstract state-space from a partial-order representation of the concrete one	1998	2.362737105865344	8.909482806137511	4051512
+4051825	Logic	refinements and abstractions of signal-event (timed) languages	2006	1.8866894223184043	8.599690997614887	4051852
+4051844	Logic	verifying self-stabilizing population protocols with coq	2009	2.2269540657021345	9.078194553586233	4051871
+4054312	SE	finding state solutions to temporal logic queries	2007	1.5130900017825897	8.766927101483505	4054339
+4054389	Logic	unfolding and finite prefix for nets with read arcs	1998	1.77234810986629	8.596920422723382	4054416
+4055622	Logic	monitor-based statistical model checking for weighted metric temporal logic	2012	1.6722062452432331	8.973651702679847	4055649
+4057156	Logic	bisimulation minimization in an automata-theoretic verification framework	1998	1.8319835542413323	8.742300304365433	4057183
+4058551	EDA	don't care sequences and the optimization of interacting finite state machines	1991	2.171121104973884	9.149708196117816	4058578
+4058606	PL	computing property-preserving behaviour abstractions from trace reductions: abstraction-based verification of linear-time properties under fairness	2001	2.3010645574326425	8.749948121588218	4058633
+4058793	Robotics	a formal framework for stochastic devs modeling and simulation	2008	1.6933862203193484	9.321855047521456	4058820
+4060076	EDA	querying parametric temporal logic properties in model based design	2015	1.537775948274673	9.123239617753995	4060103
+4063321	Logic	partial s-invariants for the verification of infinite systems families	2001	1.7765202931977349	8.668217495976121	4063348
+4064582	SE	state space analysis using symmetries on decision diagrams	2012	2.04541471591394	8.678413417046157	4064609
+4065373	Logic	monitoring functions on global states of distributed programs	1997	1.6475576227891942	8.542727955366221	4065400
+4065738	Logic	towards efficient partition refinement for checking reachability in timed automata	2003	2.3470458717957485	8.913154234701992	4065765
+4067922	SE	a theory of hints in model checking	2002	2.2103513029876662	8.604343970800103	4067949
+4068122	Logic	model checking procedures for infinite state systems	2006	1.8342015179349025	8.581427271995363	4068149
+4069350	AI	model-based optimization of testing through reduction of stimuli	2007	2.2786243720960955	8.416503752302628	4069377
+4069991	SE	comparing learning algorithms in automated assume-guarantee reasoning	2010	2.433265569922765	8.456712564668138	4070018
+4071317	Logic	symbolic model checking of stutter-invariant properties using generalized testing automata	2014	1.7651989924733285	8.690384247215675	4071344
+4072195	Logic	a process algebraic approach to time granularity semantics	1997	2.2991740379267207	8.494764964361039	4072222
+4072290	AI	symbolic diagnosis of partially observable concurrent systems	2004	1.6934798575120409	8.841758528644569	4072317
+4072810	Logic	probabilistic and topological semantics for timed automata	2007	1.7256137117248516	8.707218130999925	4072837
+4075112	EDA	inferring fsm models of systems without reset	2018	2.1835367224587	9.120019231105038	4075139
+4075491	SE	local testing of message sequence charts is difficult	2007	2.181073137847953	8.595771606223593	4075518
+4078556	Logic	selective monitoring	2018	1.9062332116366476	8.915202553749486	4078583
+4081180	Logic	automatic verification of real-time systems with discrete probability distributions	1999	1.6066635326081724	9.020128589083631	4081207
+4083067	Logic	zero-knowledge blackbox testing: where are the faults?	2014	2.068268997210122	9.312831408340813	4083094
+4083580	AI	k-fair = k-liveness + fair revisiting sat-based liveness algorithms	2018	1.951733874125877	8.661254106496889	4083607
+4083770	DB	state-aware performance analysis with extended stochastic probes	2008	1.485955368307249	8.998315575588087	4083797
+4083853	Logic	solving parity games on the gpu	2013	1.8436877992238467	8.473580834706159	4083880
+4085327	EDA	verification by approximate forward and backward reachability	1998	2.2611078551135333	9.327304962034766	4085354
+4086730	Logic	evaluation of cardinality constraints on smt-based debugging	2009	2.1957694412922883	8.651565535238253	4086757
+4088595	Logic	efficient scaling-invariant checking of timed bisimulation	1997	1.7404917012470569	8.750274176336214	4088622
+4088604	Logic	reconfigurable decorated pt nets with inhibitor arcs and transition priorities	2014	1.6468035244714943	8.902001519504383	4088631
+4091986	Logic	a heuristic for reachability problem in asynchronous binary automata networks	2018	1.964666695214118	8.881369330603109	4092013
+4092611	Logic	safety of parametrized asynchronous shared-memory systems is almost always decidable	2015	1.7249375086517358	8.85197183268294	4092638
+4093074	Logic	abstracting ws1s systems to verify parameterized networks	2000	1.8823896149328216	8.565510795104366	4093101
+4094648	Logic	model checking tlr* guarantee formulas on infinite systems	2014	2.1318011999428337	8.6311060260839	4094675
+4095910	Logic	static analysis of deterministic negotiations	2017	2.3798246709951245	8.542460855767004	4095937
+4097620	Logic	a refined algorithm for reachability analysis of updatable timed automata	2015	2.0510739556506232	8.72725097231926	4097647
+4099124	EDA	using integer equations to check psl properties in rt level design	2004	2.373361990371245	9.293618868113183	4099151
+4101955	Logic	towards first-order symbolic trajectory evaluation	2007	2.169920781820404	8.669660092724872	4101982
+4103126	AI	explicit state space and markov chain generation using decision diagrams	2014	1.7548982136112052	8.86496339224371	4103153

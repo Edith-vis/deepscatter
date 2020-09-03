@@ -1,0 +1,503 @@
+id	area	title	year	x	y	ix
+3252906	Robotics	co-simulation study of vehicle esp system based on adams and matlab	2011	-17.913483088468695	-7.768230939989388	3252933
+3252913	Robotics	dynamic hysteresis modeling of piezoelectric actuator in scanning tunneling microscope	2011	-18.405827354414853	-7.872994536558234	3252940
+3254351	Robotics	real-time sliding-mode observer and control of an induction motor	1999	-18.48877286169436	-6.967756873628521	3254378
+3254562	Robotics	vector control strategies for single-phase induction motor drive systems	2004	-18.62969226788238	-6.946767223266858	3254589
+3255756	EDA	a simple and accurate algorithm for speed measurement in electric drives using incremental encoder	2017	-18.378394232266604	-7.280752449038875	3255783
+3258789	Arch	vector control of current source inverter-fed axial-flux permanent magnet motors with space vector pulse width modulation	2014	-18.59592739073556	-7.337690879841925	3258816
+3261737	Robotics	design and implementation of the extended kalman filter for the speed and rotor position estimation of brushless dc motor	2001	-18.699722364722	-7.235962350260353	3261764
+3262714	Robotics	genetic algorithm based speed control of electric vehicle with electronic differential	2015	-18.6222955158171	-7.6322404449606776	3262741
+3264552	Robotics	fuzzy tracking controller for shape optimized robotic system	2014	-18.121283274380133	-7.765010583673169	3264579
+3269551	SE	comparison of the re-adhesion control strategies in high-speed train	2018	-17.956743787628668	-7.628270810749623	3269578
+3270843	Robotics	a hybrid evolutionary approach for robust active suspension design of light rail vehicles	2006	-18.352161499984923	-7.312029781971833	3270870
+3272561	Robotics	induction-motor sensorless vector control with online parameter estimation and overcurrent protection	2006	-18.741983020032073	-7.4135037965359665	3272588
+3273407	Robotics	particle-filter-based magnet flux linkage estimation for pmsm magnet condition monitoring using harmonics in machine speed	2017	-18.744949366778364	-7.176673385992782	3273434
+3274373	Robotics	advanced motion control: an industrial perspective	1998	-17.978243785139693	-7.710378477018943	3274400
+3275598	Mobile	design and full-car tests of electric power steering system	2007	-18.688243287783013	-7.51049371137529	3275625
+3276157	Robotics	sliding mode control with adaptive feedforward compensator for ultra-precision active vibration isolation	2013	-18.290186632061605	-7.395001441953332	3276184
+3281888	SE	gust load alleviation: identification, control, and wind tunnel testing of a 2-d aeroelastic airfoil	2017	-18.625444085251587	-7.567759724644008	3281915
+3292659	Mobile	analysis on robust control strategy of electric power steering system	2011	-18.248972625171877	-7.139634306221062	3292686
+3293183	Robotics	identification of initial rotor position of a micro-pmsm	2008	-18.30260077422677	-7.754155596883472	3293210
+3294023	Robotics	a roll stabilization system for a monohull ship: modeling, identification, and adaptive control	1996	-18.353727077588925	-7.021930988659372	3294050
+3295695	Robotics	design of the wheeled robot motor controller	2012	-18.255975074409736	-7.813893453095407	3295722
+3300985	Robotics	integrated design method of force and current control systems	2014	-18.377760707475073	-7.122321242836298	3301012
+3303191	Robotics	hybrid position estimator based on high-frequency signal injection and machine learning for ev fault-tolerant control	2017	-18.407983059193434	-7.041287763266815	3303218
+3303688	Robotics	towards perpetual flight of a gliding unmanned aerial vehicle in the jet stream	2010	-18.35781277523561	-7.565217068454696	3303715
+3304210	Robotics	direct torque and frequency control of double-inverter-fed slip-ring induction motor drive	2004	-18.790642341321412	-7.0688279714991795	3304237
+3304520	ML	research on acceleration and deceleration control algorithm of nc instruction interpretations with high-order smooth	2008	-17.995666765467952	-7.0637372610649845	3304547
+3306107	Robotics	suppression of saturation saliency effects for the sensorless position control of induction motor drives under loaded conditions	2000	-18.58796585954503	-7.6141275004021916	3306134
+3306744	Robotics	direct adaptive cutting force control of milling processes	1990	-18.298883066237227	-7.009575395768684	3306771
+3306806	Robotics	numerical validation of order reduction techniques for finite element modeling of a flexible rack feeder system	2015	-18.11866442541712	-7.255080601458845	3306833
+3308475	Robotics	semiactive vibration control of offshore wind turbine towers with tuned liquid column dampers using h∞ output feedback control	2010	-18.4691472396628	-7.261510608856344	3308502
+3309034	Robotics	infinite speed drives control with mtpa and mtpv for interior permanent magnet synchronous motor	2014	-18.812357718265687	-7.1746932602344335	3309061
+3311221	Visualization	on the detection of valve nonlinearities in otherwise linear closed-loop systems	2017	-18.642312253313285	-7.008522744541402	3311248
+3312403	EDA	behavioral modeling and optimal control of a vehicle mechanical drive system	2015	-18.189586930366712	-7.210572220428038	3312430
+3312903	ML	estimation and compensation of dead-zone inherent to the actuators of industrial processes	2010	-18.75165557454885	-6.998254116529592	3312930
+3313355	Robotics	model-based robust control of directional drilling systems	2016	-18.767783564698433	-7.886205790175695	3313382
+3319317	Robotics	rule-based plug-in hybrid school bus energy management control strategy simulation	2015	-18.757853101208074	-7.404024043674028	3319344
+3319343	Robotics	design and implementation of a high-performance pmlsm drives using dsp chip	2008	-18.354994346688333	-7.222440077880727	3319370
+3320488	Robotics	a reduce chattering problem using composite nonlinear feedback and proportional integral sliding mode control	2015	-18.4704481425942	-6.93079803623097	3320515
+3321577	Robotics	a second order sliding mode state and parameter estimator for induction motors	2015	-18.50192788566182	-7.038835955143021	3321604
+3323993	Robotics	a switching-type controller for wire rope tension coordination of electro-hydraulic-controlled double-rope winding hoisting systems	2016	-17.9921497289607	-7.656927408044256	3324020
+3325574	Robotics	fuzzy sliding mode control for smooth mode changes of a parallel hybrid electric vehicle	2014	-18.49428257315245	-7.123069264145893	3325601
+3331986	Robotics	a parsimonious friction model for efficient identification and compensation of hysteresis with nonlocal memory	2015	-18.210815153851254	-7.445822194579932	3332013
+3332271	Robotics	a sensorless hybrid dtc drive for high-volume low-cost applications	2004	-18.714468684744336	-6.994379098969167	3332298
+3332844	Robotics	fast and smooth clutch engagement control for a mechanical hybrid powertrain	2014	-18.241229847604057	-7.563621628986938	3332871
+3334837	Robotics	locomotive wheel slip control method based on an unscented kalman filter	2018	-18.080365810627875	-7.596900481848996	3334864
+3337244	Embedded	miniature accelerometer precision improvement using intelligent control	2011	-18.234606645040838	-7.095246543428113	3337271
+3345903	Robotics	robust initial position estimation of permanent magnet machine with low saliency ratio	2017	-18.777964644694105	-7.6600953014233	3345930
+3346581	Robotics	hierarchical plasma shape, position, and current control system for iter	2011	-18.61898582050613	-7.367054217591827	3346608
+3351896	Visualization	a new observer design method for hf signal injection sensorless control of ipmsms	2008	-18.612990887101613	-7.7743954283168355	3351923
+3353855	Robotics	sensor position influence on modeling and control of 155mm canard-guided spin-stabilized projectiles	2014	-17.917099185348246	-7.086921937743185	3353882
+3356296	Robotics	pitch angle active disturbance rejection control with model compensation for underwater glider	2017	-18.21177572462917	-7.131795545341048	3356323
+3357959	Robotics	an improved speed sensorless control strategy for linear induction machines based on extended state observer for linear metro drives	2018	-18.601827529785663	-7.170925999663965	3357986
+3358157	Robotics	additional internal speed feedback loop for servomechanism residual vibration active damping	2015	-18.47935855420813	-7.458800483575885	3358184
+3358382	Robotics	intelligent torque sensing and robust torque control of harmonic drive under free-motion	1997	-17.917280199997045	-7.641969752914152	3358409
+3361570	Visualization	multi-blade coordinate and direct techniques for asymptotic disturbance rejection in wind turbines	2012	-18.10156010677127	-7.238392869105147	3361597
+3367823	Robotics	dual drive system modeling and analysis for synchronous control of an h-type gantry	2015	-18.64086123119766	-7.770319005806559	3367850
+3368448	Robotics	locomotive wheel slip detection based on multi-rate state identification of motor load torque	2016	-18.44189492829606	-7.190986252006012	3368475
+3369313	Robotics	robust synthesis technique for single-stage servo systems in hdd	2008	-18.21284388095997	-7.1042336938906026	3369340
+3372600	Robotics	driveline torque estimations for a ground vehicle with dual-clutch transmission	2018	-18.126689083813208	-7.183776258532956	3372627
+3375382	Robotics	robust adaptive control of variable reluctance stepper motors	1999	-17.962541900144554	-7.13972767220534	3375409
+3375895	Robotics	a morphing wing used shape memory alloy actuators new control technique with bi-positional and pi laws optimum combination - part 1: design phase	2010	-18.254274890745762	-7.475728761521911	3375922
+3378639	Robotics	multivariable feedback control in stage synchronization	2015	-18.602820225688145	-6.9804732986205575	3378666
+3379147	Robotics	vibration suppression for rotor system of magnetic suspended wind turbines using cross-feedback-based sliding mode control	2015	-17.920882890437746	-7.352282810727567	3379174
+3381110	Robotics	sub-optimal control design of a semi-active vibration reduction system	2013	-18.121405585784405	-6.975173141024591	3381137
+3381700	Robotics	boundary control of a flexible marine installation system	2010	-18.388229657569802	-7.502424080276677	3381727
+3381799	Robotics	quick-response torque-controlled induction motor drives using phase-locked loop speed control with disturbance compensation	1996	-18.48180817209592	-7.0216322909736055	3381826
+3383280	Robotics	nonlinear h2 control for position tracking of permanent magnet stepper motors	2013	-17.909559872022047	-6.937264358933192	3383307
+3383561	Robotics	a salient-pole pmsm position and speed estimation at standstill and low speed by a simplified hf injection method	2017	-18.769411673419878	-7.680337003106732	3383588
+3384464	Robotics	encoderless predictive direct torque control for synchronous reluctance machines at very low and zero speed	2008	-18.763006443904647	-7.6228159711010965	3384491
+3384757	Robotics	fuzzy logic based position control of a pmsm servo drive	2007	-18.407628449418524	-6.994618584053921	3384784
+3387262	Embedded	comparison of input shaping techniques for sway suppression in a double-pendulum-type overhead crane	2009	-18.186163360990218	-7.066864740203664	3387289
+3387425	Robotics	the lqg controller design for micromachined tunneling gyroscope	2010	-18.643818882926592	-7.695618680498384	3387452
+3387921	Robotics	high-precision motion control for a linear permanent magnet iron core synchronous motor drive in position platform	2014	-18.129486021589	-6.985863411507952	3387948
+3388370	Robotics	no clutch fuzzy logic-controlled hybrid transmission	2014	-18.438906478547057	-7.730389747463199	3388397
+3388621	Robotics	vibration control of two-mass mechatronic system with low inertia ratio	2009	-18.75364120126529	-6.9968479311318585	3388648
+3389470	Robotics	optimal gear shift schedule design for automated vehicles: hybrid system based analytical approach	2018	-18.36769480079933	-6.975251151468817	3389497
+3390155	Robotics	dynamic steady-state allocation for over-actuated turbocharged diesel engines	2013	-18.677981683945237	-7.074247212765863	3390182
+3394805	Robotics	the direct method for adaptive feed-forward vibration control of magnetic bearing systems	2002	-18.449120421717232	-7.162641760558381	3394832
+3394851	Robotics	research on fast response and high accuracy control of an airborne brushless dc motor	2004	-18.50513330300552	-7.46647675767527	3394878
+3395403	Robotics	development of a real-time force-controlled compliant polishing tool system with online tuning neural proportional-integral-derivative controller	2015	-18.206216313492998	-7.5838923485559295	3395430
+3398611	Robotics	design and modeling of a test bench for dual-motor electric drive tracked vehicles based on a dynamic load emulation method	2018	-18.06750846846181	-7.353677297369303	3398638
+3399293	Robotics	dynamic modeling and controller design for a seamless two-speed transmission for electric vehicles	2014	-18.604724313429195	-7.195688582386889	3399320
+3403469	Robotics	neural network approach to hoist deceleration control	2014	-18.416890442720845	-7.654099218209448	3403496
+3404534	Mobile	lq control during clutch engagement for automatic transmissions	2018	-17.94332009947748	-7.571295368239503	3404561
+3406539	Robotics	position sensorless control for five-phase permanent-magnet synchronous motors	2014	-18.743738043584443	-7.453510198738508	3406566
+3407261	Robotics	conditioned switching between two-degree-of-freedom controllers for plants with changing dynamics	2010	-18.255744633501674	-6.963855331781392	3407288
+3409826	Robotics	linear motion control with a low-power hydraulic switching converter - part ii: flatness-based control	2015	-18.52337607110513	-7.1823267544669545	3409853
+3412462	Robotics	h∞ robustification control of existing piezoelectric-stack actuated nanomanipulators	2009	-17.945103398780464	-7.55525363096019	3412489
+3415587	Robotics	model predictive control for moored ocean current turbines	2017	-18.62559876424716	-7.116426093504144	3415614
+3415984	Embedded	internal model control of lightly damped systems subject to periodic exogenous signals	2010	-18.72111760693895	-7.061131594587736	3416011
+3416994	Robotics	rate-dependent prandtl-ishlinskii hysteresis compensation using inverse-multiplicative feedforward control in magnetostrictive terfenol-d based actuators	2016	-18.51458191827561	-7.603083503660492	3417021
+3417815	EDA	elimination of the stator resistance sensitivity and voltage sensor requirement problems for dfo control of an induction machine	2005	-18.72830428380795	-6.987383205970219	3417842
+3420024	Robotics	inverse compensation error of the prandtl-ishlinskii model	2012	-18.30282216743648	-7.190153893977589	3420051
+3422381	Robotics	adaptive suppression of frequency varying disturbances for an oscillating steel plate	2008	-18.687586078296	-7.365874131103562	3422408
+3424949	Robotics	the influence of filter on stability of electromagnetic levitation system	2004	-18.521783874027548	-7.5840040460196745	3424976
+3425824	EDA	a study on the acceleration optimization control method for the integrated helicopter/engine system based on torsional vibration suppression	2019	-18.7605083916592	-7.194289345983667	3425851
+3428224	Robotics	a fault tolerant joint drive system for the space shuttle remote manipulator system	1991	-18.299480868572353	-7.394168084504505	3428251
+3428491	Robotics	modeling of a horizontal active magnetic bearing system with uncertainties in deterministic form	2007	-18.00273726597707	-7.010189336467013	3428518
+3428748	Robotics	seismic active control under uncertain ground excitation: an efficient cognitive adaptive optimization approach	2018	-18.549380813686493	-7.4717560627530455	3428775
+3428816	Robotics	low-order feedforward control schemes for flexible motion systems with different rigid-body damping	2015	-18.25270824272099	-7.857189495556143	3428843
+3429204	Robotics	a polar coordinate-oriented method of identifying rotor flux and speed of induction motors without rotational transducers	1996	-18.672815543383948	-7.289665798258853	3429231
+3429879	Robotics	robust control design for maglev train with parametric uncertainties using µ-synthesis	2007	-17.90534533362186	-7.193078819274994	3429906
+3430767	Robotics	modeling and identification of a built-in turbocharged diesel engine using standardized on-board measurement signals	2008	-18.4019065749195	-7.494184393965275	3430794
+3431484	Robotics	measuring suspension velocity from acceleration integration	2018	-18.498442369335894	-7.182005458201769	3431511
+3433130	Robotics	adaptive pressure control experiment: controller design and implementation	2017	-18.6774821408222	-7.5565842162226735	3433157
+3434646	Robotics	sensor-less algorithm for a hysteresis current controlled vsi fed pmsm drive	2017	-18.730335723607972	-7.0893073798226105	3434673
+3434664	HCI	equalization of digital communication channen using hartley-neural technique	1996	-18.053555260046554	-7.566337982788093	3434691
+3435504	Robotics	wheel slip control of evs based on sliding mode technique with conditional integrators	2013	-18.29415050490145	-7.127652708501628	3435531
+3435825	Robotics	software design of engine characteristic simulation	2012	-18.808330255268658	-7.465850714052179	3435852
+3436636	Robotics	electric vehicle platform for drivability analysis	2010	-18.038240052664914	-7.637685128853923	3436663
+3440031	Robotics	an adaptive sliding stator flux observer for a direct-torque-controlled ipm synchronous motor drive	2007	-18.459804032851448	-7.654141874276122	3440058
+3441836	Robotics	stochastic feedback combustion control at high dilution limit	2018	-18.833113161337664	-6.993071156693522	3441863
+3442910	Robotics	contouring control of biaxial systems with optimal and adaptive cross coupling controller	2015	-17.928497163737042	-7.1476576393185365	3442937
+3443951	Robotics	broadband load torque estimation in mechatronic powertrains using nonlinear kalman filtering	2018	-18.228292435039172	-7.830244542336847	3443978
+3445915	Robotics	observer-based control of an electro-pneumatic clutch using extended linearisation techniques	2012	-18.253836129911612	-7.323702297246712	3445942
+3446042	Robotics	a cascade controller structure using an internal pid controller for a hybrid piezo-hydraulic actuator in camless internal combustion engines	2013	-18.444619606485396	-7.205574619945514	3446069
+3446648	Embedded	a new robust delay-variable repetitive controller with application to media transport in a printer	2012	-18.29681326054497	-7.231587702407141	3446675
+3449853	Robotics	speed-sensorless induction machine control for zero speed and frequency	2004	-18.635895983491878	-7.686889486446147	3449880
+3453329	Robotics	pattern matching and simulation research of extended range electric vehicle	2011	-18.271453490154407	-7.7398791947132946	3453356
+3454023	Robotics	hybrid orientation for sensorless vector control of nonsinusoidal back-emf pmsm	2014	-18.755546267691713	-7.363188150726019	3454050
+3456274	Robotics	sensor-less fusion of speed for permanent magnet synchronous motors	2004	-18.26341226907768	-7.242799847910883	3456301
+3458529	Robotics	bench tests on friction compensation enhanced h∞ control for mimo magnetic levitation system	2013	-18.071022837918925	-6.983690837031447	3458556
+3459224	Robotics	force ripple compensator for a vector controlled pm linear synchronous motor	2004	-18.32106725793126	-7.3135539519319614	3459251
+3461931	Robotics	robust speed control of interior permanent magnet synchronous machine “fractional order control”	2014	-18.627519868082874	-7.112287653489676	3461958
+3462645	Robotics	a frequency-domain approach to identification of mechanical systems with friction	2001	-18.426169342512093	-7.322938667311207	3462672
+3462905	Robotics	high precision control design for sgcmg gimbal servo system	2015	-18.039576314929647	-7.051351945124153	3462932
+3464524	Robotics	performance analysis of the sensorless induction motor drive system under faulted conditions	2011	-18.710180612590822	-6.994193728262931	3464551
+3466370	Robotics	wind turbine loads reduction using feedforward feedback collective pitch control based on the estimated effective wind speed	2016	-18.749351411379248	-7.009290024147105	3466397
+3466443	Robotics	a design method of a robust controller for hydraulic actuation with disturbance observers	2016	-17.955750590790373	-7.460501180404687	3466470
+3469333	Robotics	sensorless predictive dtc of a surface-mounted permanent-magnet synchronous machine based on its magnetic anisotropy	2013	-18.781314888392615	-7.495949978816079	3469360
+3469830	Robotics	online multiparameter estimation of nonsalient-pole pm synchronous machines with temperature variation tracking	2011	-18.821616762893093	-7.164430654398261	3469857
+3471738	Robotics	study of control system of brushless dc motor in mobile robot based on dsp	2010	-18.037773425969366	-7.474460431796856	3471765
+3473021	Embedded	using hybrid automata to model four stroke engines with variable valve timing in simulink/stateflow	2006	-18.73411738947227	-6.958662542917169	3473048
+3474626	Robotics	design of robust vehicle launch control system	1996	-18.186740552631992	-7.138427250245063	3474653
+3476013	Robotics	study on hopf bifurcation of displacement delayed feedback system for the rolling mill main drive system	2012	-18.626442292146226	-7.60905287617723	3476040
+3478583	Embedded	transient control of electro-hydraulic fully flexible engine valve actuation system	2010	-18.72828348376721	-7.4181723161267925	3478610
+3485115	ML	an adaptive controller for a general class of switched reluctance motor models	1997	-18.1767604851792	-7.1622842459844955	3485142
+3485348	EDA	the method for matching the pmsm's base parameters of the hybrid electric vehicle based on drive cycle	2011	-18.638709537511	-7.273945680317162	3485375
+3489810	Robotics	combining inform method, voltage model and mechanical observer for sensorless control of pm synchronous motors in the whole speed range including standstill	2006	-18.571956967361555	-7.531792285709053	3489837
+3490378	Robotics	stability of control for the preisach hysteresis model	1997	-18.430902270721212	-7.032460173542674	3490405
+3492796	Robotics	model-based estimation and control of in/out-flux during drilling	2012	-18.669327197121394	-7.3636727012153065	3492823
+3494637	Robotics	position control of a pneumatic levitation system	2005	-17.890739449941265	-7.6942571477005135	3494664
+3494911	EDA	extremum seeking methods for optimization of variable cam timing engine operation	2006	-18.743284177434877	-7.1739929292904945	3494938
+3497417	ML	ram velocity control in plastic injection molding machines with neural network learning control	2004	-18.36485976204196	-7.1652748373540245	3497444
+3500247	Robotics	application of the mpc to the position control of the two-mass drive system	2013	-18.04181515290871	-7.087317225544492	3500274
+3500515	Robotics	lq optimal actuator location in structures	2012	-18.616252178041872	-7.229812076357629	3500542
+3501851	Robotics	a predictive algorithm for controlling speed and rotor flux of induction motor	2008	-18.50187876763692	-7.156988241869824	3501878
+3503751	Robotics	trajectory tracking controller of high precise positioning system based on iterative learning control with wavelet filtering method	2014	-18.257178621892464	-7.274316260065356	3503778
+3505740	Robotics	on lq-control of magnetic bearing	2000	-17.939707397619618	-7.4035394455157935	3505767
+3507431	Robotics	controls of bldc motors in electric vehicle testing simulator	2016	-18.713360055313412	-7.88212016421063	3507458
+3509618	Robotics	friction compensation based on time-delay control and internal model control for a gimbal system in magnetically suspended cmg	2017	-17.999620728232017	-7.665750729882336	3509645
+3510959	Robotics	slow resonance ratio control for vibration suppression and disturbance rejection in torsional system	1999	-18.42408800512852	-7.612542324188942	3510986
+3511519	Robotics	tracking control of direct-drive servos	2011	-18.08838721381524	-7.786447953301003	3511546
+3512688	Robotics	advanced online parameter identification-based pwm predictive control for ac servo systems	2016	-18.577958482124213	-7.103297489802902	3512715
+3514035	Mobile	a current control scheme with back emf cancellation and tracking error adapted commutation shift for switched-reluctance motor drive	2016	-18.660401545118088	-7.017943664238857	3514062
+3514938	Robotics	experimental evaluation of generalized predictive control applied to a hydraulic actuator	1998	-18.13585861560245	-6.934138881384293	3514965
+3518460	Robotics	harmonic approximation of velocity oscillations in electrical drives	2016	-18.735647346024088	-7.0875579592068565	3518487
+3518727	Robotics	ram position control in plastic injection molding machines with higher-order iterative learning	2006	-18.31550256155069	-6.973666143625138	3518754
+3519241	Robotics	accounting for hysteresis in repetitive control design: nanopositioning example	2012	-18.30988640184543	-7.08522157044372	3519268
+3526558	Robotics	pulse-compression probing of small signal characteristics for nonlinear systems in dynamic operating conditions	2010	-18.66619876018368	-7.276731479832111	3526585
+3526613	Robotics	track-seeking control of four-bar structured hdd through ida-pbc based switching control	2013	-18.1258813440562	-7.218192145000863	3526640
+3526647	Robotics	control of a tip-force destabilized shear beam by observer-based boundary feedback	2008	-18.25192991248168	-7.731473138038684	3526674
+3526940	Robotics	h∞ controller design for laser cavity squeezing in optomechanical sensors	2012	-18.40864487509669	-7.645437964327053	3526967
+3532182	Robotics	optimal preview control of a dual-stage actuator system for triangular reference tracking	2014	-18.184936332501174	-7.091441930455278	3532209
+3533143	Robotics	ekf modeling of field oriented control of six-phase induction motor	2012	-18.619495450696352	-7.022969079315822	3533170
+3533397	Robotics	control of a five-phase synchronous motors with third harmonic constrained injection	2011	-18.815338376993203	-7.004050036433545	3533424
+3533657	Robotics	position control of an ultrasonic motor using generalized predictive control	2004	-18.14774537012052	-7.000484422555591	3533684
+3533854	Robotics	a spectral model for evaluating the effect of wind evolution on wind turbine preview control	2013	-18.645068689185397	-7.539565975105468	3533881
+3534331	Robotics	nonlinear total energy control for the longitudinal dynamics of an aircraft	2016	-18.641752907089817	-7.301698905023622	3534358
+3534585	Robotics	research on control strategy of automatic clutch during vehicle launching	2012	-18.326130114508146	-7.4591773453299925	3534612
+3534635	Robotics	state estimation for fast-switching solenoid valves: a study on practical nonlinear observers and new experimental results	2015	-17.891317370282714	-7.438105851509353	3534662
+3535310	Visualization	design and human-in-the-loop testing of reduced-modification input shapers	2016	-17.909345721600694	-7.534006502779928	3535337
+3538952	Robotics	acceleration amplitude-phase regulation for electro-hydraulic servo shaking table based on lms adaptive filtering algorithm	2012	-18.346838687770195	-7.150569542822487	3538979
+3543064	Robotics	precise position tracking control with an improved transient performance for a linear piezoelectric ceramic motor	2019	-17.88933791983989	-7.494120149463487	3543091
+3543160	Robotics	advanced torque control of robot manipulators driven by ac induction motors	2000	-18.544685106971816	-7.312067307140832	3543187
+3547460	Robotics	sliding mode impedance control and its application to grinding tasks	1991	-18.05471958292	-7.503238761877074	3547487
+3549297	Robotics	experimental evaluation of braided ekf for sensorless control of induction motors	2008	-18.624043244033587	-7.365885632553072	3549324
+3549769	Robotics	random vibration test control of inverter-fed electrodynamic shaker	2002	-18.425350098159157	-7.683200847758226	3549796
+3550182	Robotics	a sensorless induction motor drive using a least mean square speed estimator and the matrix converter	2011	-18.79410755945598	-6.979312751010032	3550209
+3551067	Robotics	plug-in hybrid vehicle longitudinal control during gear shifts sequences	2012	-18.194098954763696	-6.9967181477907445	3551094
+3551230	Robotics	active control of a vertical axis pendulum wave energy converter	2014	-18.627371429273673	-7.737442777367603	3551257
+3551715	Robotics	position regulator for spindle of milling machine by embedded magnetic bearings	2011	-18.194512530966467	-7.453881643622551	3551742
+3554631	Robotics	nonlinear system and control of the model-scale helicopter	2009	-17.970403027061714	-7.349506889803548	3554658
+3556171	Robotics	dimensionality effects on the markov property in shape memory alloy hysteretic environment	2009	-18.62193320893184	-7.861370778596566	3556198
+3570367	Robotics	results on h-infinity static output-feedback control of an electro-mechanical system	2008	-17.95165416060621	-7.005120976163656	3570394
+3572111	Robotics	adaptive vibration controller design for structural systems despite unknown seismic disturbance	2018	-18.226370110973452	-7.027412130215567	3572138
+3572976	EDA	suppression of mechanical resonance in digital servo system considering oscillation frequency deviation	2017	-18.74932749743313	-7.75579711763409	3573003
+3577483	Robotics	disturbance-observer-based position tracking controller in the presence of biased sinusoidal disturbance for electrohydraulic actuators	2013	-18.07207593897511	-7.233045734215679	3577510
+3577876	Robotics	zero- and low-bias control designs for active magnetic bearings	2003	-18.026692432039987	-6.992497228332351	3577903
+3578082	Robotics	study on the composite abs control of vehicles with four electric wheels	2011	-18.380959353704192	-7.557164353620965	3578109
+3579565	Embedded	an approach for dynamic triangulation using servomotors	2014	-17.942699492411908	-7.243922997728058	3579592
+3582220	Robotics	the comparative study on two controllers of torque ripples in the photoelectric tracking servo system	2017	-18.47898705045449	-7.201763059513339	3582247
+3587666	Robotics	a dry clutch engagement controller with thermal effects compensation	2018	-18.80356329029749	-7.873468240056058	3587693
+3588190	NLP	sliding-mode observer based flux estimation of induction motors	2012	-18.623189093221008	-7.140333109316202	3588217
+3588314	Robotics	a rotor position and speed observer for permanent-magnet motors with nonsinusoidal emf waveform	2005	-18.524733395015346	-7.365063963867892	3588341
+3588562	Robotics	identification of the servomechanism used for micro-displacement	2009	-17.977660589368657	-7.518367627164494	3588589
+3594191	Robotics	disturbance compensation for iterative control of suspension durability test rigs	2016	-17.88539662227675	-7.471918166077899	3594218
+3595636	Robotics	robust nonlinear dynamic inversion control for electric throttle	2011	-18.444661604387843	-7.202399267432418	3595663
+3598298	Robotics	sensorless load and position estimation in linear reluctance actuator	2014	-18.14800157637768	-7.847791580072572	3598325
+3598846	Robotics	full-state error constraints based dynamic surface control of electro-hydraulic system	2018	-18.067282846166066	-7.320890464399227	3598873
+3600626	Robotics	robust control of electromagnetic suspension based on vortex algorithms	2015	-18.152548510335468	-7.4678088210176625	3600653
+3603821	Robotics	noise resilient 2-dof washout tracking controller for nanopositioning systems subject to sensor drift	2015	-18.460875362923183	-7.445703046639098	3603848
+3605120	Robotics	ekf-based rotor and stator resistance estimation in speed sensorless control of induction motors	2012	-18.7406239933466	-7.296598416580903	3605147
+3605851	Robotics	observer-based adaptive sliding mode control for a pneumatic servo system	2012	-17.91135951012587	-7.023373906417548	3605878
+3606541	Robotics	application of echo-state networks to the position control of shape-memory alloys	2013	-18.708469830157462	-7.727014532789545	3606568
+3609138	Robotics	modeling and control of a piezoelectric actuator driven system with asymmetric hysteresis	2009	-18.303263844276792	-7.2954395358022675	3609165
+3609599	Robotics	nonlinear proportional and derivative control for high disturbance rejection and high gain force control	1993	-18.076768801703693	-7.3153662156175026	3609626
+3611632	Robotics	electric vehicle powertrain control with fuzzy indirect vector control	2012	-18.58327480702884	-7.547619372567271	3611659
+3616452	Robotics	nonsingular fast terminal sliding mode control for a bearingless induction motor	2017	-18.09046584779023	-7.0012455063417445	3616479
+3617132	Robotics	some practical issues in time domain passivity control of haptic interfaces	2001	-18.00456978452851	-7.8601681323616575	3617159
+3624072	Robotics	a robust wheel slip ratio control design combining hydraulic and regenerative braking systems for in-wheel-motors-driven electric vehicles	2015	-18.142296761327657	-7.512559873842423	3624099
+3627420	Robotics	design of an auto-tuning feedback controller based on the stiffness of nonlinear stiffness actuators	2018	-18.203364929256	-7.249169787398642	3627447
+3628476	EDA	benefits of direct phase voltage measurement in the rotor initial position detection for permanent-magnet motor drives	2015	-18.711362761038693	-7.594989449023303	3628503
+3629042	Robotics	adaptive neural preisach model and model predictive control of shape memory alloy actuators	2017	-18.37528418530732	-7.409047734121954	3629069
+3631746	Robotics	a multiobjective h∞ control strategy for energy harvesting in regenerative vehicle suspension systems	2018	-18.464210436919984	-7.666470023037929	3631773
+3634342	EDA	industrial workshop - architectural synthesis for reconfigurable computing	2008	-18.631182492600384	-7.829816021764531	3634369
+3634972	Robotics	2-dof controller design for precise positioning a spindle levitated with active magnetic bearings	2012	-17.918980808908323	-7.722356605880353	3634999
+3637074	Embedded	limit cycle elimination in inverted pendulums: furuta pendulum and pendubot	2018	-18.06529766618088	-6.998570623326964	3637101
+3638260	Robotics	a new adaptive self-tuning fourier coefficients algorithm for periodic torque ripple minimization in permanent magnet synchronous motors (pmsm)	2013	-18.763987598317595	-7.108112271307241	3638287
+3638649	Robotics	integration of disturbance observer and feedback modulator for dead zone compensation of hydraulic actuator	2014	-18.13435774779877	-7.41448163184736	3638676
+3641453	Robotics	adaptive friction compensation using neural network approximations	2000	-17.91574936731939	-7.295615709990486	3641480
+3641633	Robotics	range extension control system for electric vehicles by lti modeling with generalized frequency variable	2014	-18.412354468575803	-7.459413090389615	3641660
+3646235	Robotics	an improved speed and position estimator for salient permanent-magnet synchronous motors	2005	-18.156117727426704	-7.197891200448162	3646262
+3647538	Robotics	enhanced electric vehicle efficiency via wheel torque redistribution	2014	-18.657592302557518	-7.683248705015505	3647565
+3647735	Robotics	direct torque control for electric vehicle driver motor based on extended kalman filter	2010	-18.682454683468087	-7.070593377519567	3647762
+3647747	Robotics	comparison of sdre and smc control approaches for flutter suppression in a nonlinear wing section	2012	-17.993810600011113	-7.237151199418338	3647774
+3648021	Robotics	high-frequency-variation speed control of spindle motor for chatter vibration suppression in nc machine tools	2014	-18.450782389253696	-7.414541108047133	3648048
+3650831	Robotics	research on semi-active control of high-speed railway vehicle based on neural network-pid control	2011	-18.12303670011952	-7.080355426427465	3650858
+3651532	Robotics	the analysis and simulation of closed-loop paper tension control system based on matlab in the web offset	2012	-18.288951072737703	-7.216361534176576	3651559
+3653343	Robotics	development of a fuzzy sky-hook algorithm for a semi-active er vehicle suspension using inverse model	2006	-18.682336558696264	-7.4923261442833695	3653370
+3655344	Robotics	design of electric differential system for an electric vehicle with dual wheel motors	2008	-17.993208649017433	-7.549746612123588	3655371
+3656490	EDA	online monitoring system design for roll eccentricity in rolling mills	2016	-18.795682635711923	-7.147602054397553	3656517
+3660359	Theory	rotor speed sensor fault detection in induction motors	2012	-18.66252792652343	-7.030338240718647	3660386
+3666277	Robotics	wind turbine torque control for unsteady wind speeds using approximate-angular-acceleration feedback	2013	-18.501604200353977	-7.504115122162795	3666304
+3667369	Robotics	a novel soft-stall power control for a small wind turbine	2017	-18.67874072549801	-7.064192058766161	3667396
+3668239	Robotics	load mitigation for a floating wind turbine via generalized h∞ structural control	2016	-18.74070596528843	-7.0773998764752015	3668266
+3669440	Robotics	tracking performances of backstepping and high gain observers for sensorless induction motor control against low frequencies benchmark	2007	-18.080664177082426	-7.314521531742124	3669467
+3669689	Embedded	mitigation of torsional vibrations in drilling systems: a robust control approach	2019	-18.257421349865307	-7.266142063603965	3669716
+3671076	Robotics	velocity control and vibration attenuation for a cart-pendulum system with delayed resonators	2009	-18.25773238501418	-7.7146279395201525	3671103
+3673331	Robotics	quasi-analytical describing function for the karnopp friction model	2012	-18.4444466243248	-7.8510353642205395	3673358
+3673389	Robotics	position control of an interior permanent-magnet synchronous motor without using a shaft position sensor	2007	-18.281288722495344	-7.250094571741627	3673416
+3675353	Vision	a controller design method for constructing a robust track-following system	2008	-18.28331242268508	-7.20344636987201	3675380
+3675528	Robotics	the digital filter method designing of angular rate of the servo control system in low speed	2011	-18.325142564748187	-7.32381669883304	3675555
+3686108	Robotics	nonlinear model predictive control of ironless linear motors	2018	-18.47157726752557	-6.9925050733328415	3686135
+3687947	Robotics	implementation of a flux-based controller for active magnetic bearing system	2013	-18.61713230634281	-6.946955946772452	3687974
+3688220	Robotics	iterative learning control of antilock braking of electric and hybrid vehicles	2005	-18.015432919728013	-7.3196980074276485	3688247
+3692695	Visualization	an improved robust field-weakeaning algorithm for direct-torque-controlled synchronous-reluctance-motor drives	2015	-18.78722765086161	-7.350426714716005	3692722
+3692987	Robotics	improved torque tracking on internal combustion engine test benches equipped with euro 6-engines	2013	-18.604248957566078	-7.194592049917411	3693014
+3701266	Robotics	investigation and implementation of control strategies for flux-switching permanent magnet motor drives	2008	-18.710514681341657	-7.874730103138063	3701293
+3701699	Robotics	a sliding-mode observer for high-performance sensorless control of pmsm with initial rotor position detection	2017	-18.523216830689254	-7.310648436943536	3701726
+3703529	Robotics	fuzzy control scheme for dual-acting magnetic bearing actuator system	2004	-18.456283967609338	-7.183253489735037	3703556
+3704174	Robotics	design and control of a 48/36 switched reluctance motor for high performance direct-drive applications	2017	-18.19023948523739	-7.5462634170676495	3704201
+3706204	Robotics	h∞ gearshift control of a dual clutch based on uncertain ts models	2013	-17.989173708624534	-7.720914468177424	3706231
+3706233	Robotics	lidar-assisted preview controllers design for a mw-scale commercial wind turbine model	2013	-18.61918237642394	-7.137553293314676	3706260
+3709197	Robotics	indirect adaptive control of induction motor drive system with an elastic coupling	2009	-18.09465842478559	-7.339022024983479	3709224
+3709362	Robotics	application of genetic algorithm to external noise cancellation and compensation in automatic arc welding system	2008	-18.627317791672102	-7.024581979768183	3709389
+3709919	Robotics	precise torque control in flux-weakening operation of surface-mounted pm motor with magnetic saliencies	2008	-18.62106914642239	-7.8493315266327865	3709946
+3710557	Mobile	smooth shift control of an automatic transmission for heavy-duty vehicles	2015	-18.3182239065417	-7.239889941165107	3710584
+3714463	Robotics	feedforward mapping for engine control	2016	-18.48839054466047	-7.580181182585799	3714490
+3717086	Robotics	plasma vertical position, shape, and current control in t-15 tokamak	2013	-18.393990664101008	-6.943251525001794	3717113
+3718531	SE	a consideration on responsiveness evaluation for an excavator based on control engineering approach	2017	-18.361887360484275	-7.378691418191796	3718558
+3719792	Robotics	innovation in active vibration control strategy of intelligent structures	2014	-18.07521597126549	-7.348034728473735	3719819
+3719900	Robotics	position control of ball and plate system based on switching mechanism	2011	-17.89789184251277	-7.643964061509856	3719927
+3720031	Robotics	analysis and robust control of an precision motion platform using disturbance compensation	2018	-17.994442325485878	-7.707892026764957	3720058
+3720058	Robotics	field weakening in flatness-based torque control of saturated surface-mounted permanent magnet synchronous machines	2015	-18.499821314976387	-7.154292447902289	3720085
+3720748	Robotics	a high-performance sensorless indirect stator flux orientation control of induction motor drive	2006	-18.78919342090822	-7.074291494536607	3720775
+3721403	Vision	estimation of indicated torque for performance monitoring in a diesel engine	2013	-18.33686964155646	-7.471344378795901	3721430
+3722275	Robotics	analysis and simulation of wound-rotor doubly-fed induction machine	2012	-18.68650185817381	-7.4708542200737025	3722302
+3722611	Robotics	a third-order sliding-mode controller for a stepper motor	2009	-18.029777017942948	-7.54607123852634	3722638
+3723225	Robotics	an iterative learning algorithm for boundary control of a stretched moving string	2002	-17.98789179414735	-7.075921211760262	3723252
+3724256	Robotics	semi-active suspension control using modern methodology: comprehensive comparison study	2014	-18.305345661405603	-7.088778138930093	3724283
+3726170	Robotics	real-time sosm super-twisting combined with block control for regulating induction motor velocity	2018	-18.50331225489752	-7.199109405965428	3726197
+3726489	Robotics	comparative study of different adaptive strategies for a robot joint control	1986	-18.312966634321253	-7.320669824124331	3726516
+3727619	Robotics	inversion-free adaptive control of uncertain systems with shape-memory-alloy actuation	2013	-17.935817953339996	-7.329411670846076	3727646
+3728225	Robotics	drive torque actuation in active surge control of centrifugal compressors	2002	-18.599760948739124	-7.448896399119147	3728252
+3728343	Robotics	sensorless control of induction machines - with or without signal injection?	2006	-18.667168824843227	-7.688180429757223	3728370
+3728353	Robotics	design of the control system for hydraulic experimental bench based on labview	2011	-18.53032621783121	-7.506962983329821	3728380
+3728626	Robotics	novel encoder for switching angle control of srm	2006	-18.491726606865985	-7.642443556990032	3728653
+3730044	Robotics	indirect measurement of rotor dynamic imbalance for control moment gyroscopes via gimbal disturbance observer	2018	-17.97524085940735	-7.369725766375349	3730071
+3730984	Robotics	simple low-speed sensorless dual dtc for double fed induction machine drive	2014	-18.828786020870982	-7.049931472684176	3731011
+3731176	Robotics	identification-based closed-loop control strategies for a cylinder wake flow	2017	-18.73080681573081	-7.2510623758223085	3731203
+3732625	Robotics	fuzzy sliding mode control of maglev guiding system based on feedback linearization	2010	-18.069568779410226	-7.835076028853952	3732652
+3733147	Robotics	networked vibration control with time delays for offshore platforms under irregular wave forces	2016	-18.110538509002566	-7.217069593074203	3733174
+3735542	Vision	adaptive robust stabilization of continuous casting	2012	-18.803714166644756	-6.935196816720282	3735569
+3735934	Robotics	direct periodic adaptive control of the aerodynamic loads of a rotating wind turbine blade using microtabs	2014	-18.59771579061448	-7.7575370589962676	3735961
+3739241	Robotics	application of fuzzy control in the stacker crane of an as/rs	2008	-18.321279761695767	-6.981565860516367	3739268
+3743880	Robotics	improvement of energy efficiency of servo pneumatic cylinders by optimising velocity profiles	2006	-17.98500917639378	-7.7870367886610135	3743907
+3745837	Robotics	moment of inertia and friction torque coefficient identification in a servo drive system	2019	-18.270146982326906	-7.559916411867139	3745864
+3746856	Robotics	optimization of the resonant frequency servo loop technique in the resonator micro optic gyro	2011	-18.449375320403682	-7.864864721595381	3746883
+3748089	Robotics	full speed region sensorless drive of permanent-magnet machine combining saliency-based and back-emf-based drive	2017	-18.80228091814556	-7.823300658172778	3748116
+3749583	Robotics	minimum thrust load control for floating wind turbine	2012	-18.673204617501604	-7.5062539208582475	3749610
+3751101	Robotics	pi control, pi-based state space control, and model-based predictive control for drive systems with elastically coupled loads—a comparative study	2011	-18.155666232252763	-7.585385350614946	3751128
+3751854	Robotics	adaptive variable structure position control of servo systems with system uncertainty	2011	-17.920293882524213	-7.085258635095317	3751881
+3754955	Robotics	second-order sliding mode controllers: an experimental comparative study on a mechatronic actuator	2012	-18.084156692033666	-7.874962200904566	3754982
+3757752	Robotics	a mixed h2/h∞-based semiactive control for vibration mitigation in flexible structures	2009	-18.416003338335887	-7.25930642255582	3757779
+3758837	Robotics	a switching kalman filter for sensorless control of a hybrid hydraulic piezo actuator using mpc for camless internal combustion engines	2012	-18.48084860085416	-7.070875456119017	3758864
+3762679	Robotics	parameter estimation of permanent magnet stepper motors without position or velocity sensors	2012	-17.954752003746506	-7.608675667844191	3762706
+3767924	Robotics	application of sliding mode control into a machine for studying bifurcations and chaos	2007	-18.055153642526303	-7.446814194065052	3767951
+3768798	Robotics	coordinated performance optimization of a variable geometry compressor with model predictive control for a turbocharged diesel engine	2016	-18.636579974001016	-7.274129547323432	3768825
+3770832	EDA	cylinder pressure and combustion heat release estimation for si engine diagnostics using nonlinear sliding observers	1995	-18.812709734836226	-7.552361734360469	3770859
+3770888	Robotics	clutch slip control of automatic transmission using nonlinear method	2009	-18.291675651231998	-6.989147756226478	3770915
+3772957	SE	clutch control and vibration reduction for a hybrid electric vehicle	2012	-17.968189392065746	-7.773706664697478	3772984
+3773099	Robotics	software-based resolver-to-digital converter for dsp-based drives using an improved angle-tracking observer	2012	-18.232263931804898	-7.441554264620588	3773126
+3774069	Robotics	improved model reference adaptive control using the euler operator	1997	-18.164602946231504	-6.975039027295944	3774096
+3776506	Robotics	traction control design using model predictive control with fuel cut method for an internal combustion engine	2017	-18.59105660040265	-7.792938573875217	3776533
+3777807	Robotics	modeling and simulation of a speed sensor less vector controlled induction motor drive system	2011	-18.705099883234762	-7.253678815602182	3777834
+3782930	Robotics	a generalized asymmetric play hysteresis operator for modeling hysteresis nonlinearities of smart actuators	2008	-18.599153538131308	-7.533406282501727	3782957
+3786015	Robotics	robust backstepping tracking controller for low-speed pmsm positioning system: design, analysis, and implementation	2015	-18.133832196649195	-7.0554791511503625	3786042
+3786252	Robotics	an adaptive periodic-disturbance observer for periodic-disturbance suppression	2018	-18.14281488929284	-7.1769039291086125	3786279
+3787405	HCI	residual vibration reduction for a flexible structure using a modified input shaping technique	2002	-17.89776240085559	-7.013654308090569	3787432
+3788268	Vision	practical implementation of the nonlinear control of the liquid level in the tank of irregular shape	2013	-18.41333972073758	-7.295895291490106	3788295
+3790325	Robotics	an adaptive servo control strategy for automotive electronic throttle and experimental validation	2014	-18.086889552687868	-7.311899745771071	3790352
+3791166	Robotics	unbalance compensation by recursive seeking unbalance mass position in active magnetic bearing-rotor system	2015	-18.60034799069737	-7.635707859146207	3791193
+3792059	Robotics	induction motor sensorless observer aligned with rotor flux derivative	2014	-18.20405934499196	-6.981235830636928	3792086
+3795358	Robotics	robust nonlinear control of water hydraulic servomotor system with parameter uncertainties	2004	-17.97948552861224	-7.435213058952867	3795385
+3798453	Robotics	improved signal injection based sensorless technique for pm brushless ac drives	2007	-18.585157915683105	-7.207250314565734	3798480
+3801055	Robotics	best fit sensorless force control system considering environmental stiffness variation	2014	-17.98026240648618	-7.2546649672467876	3801082
+3809517	Robotics	dtc drives for wide speed range applications using a robust flux-weakening algorithm	2007	-18.7382548988078	-7.20465371433113	3809544
+3811384	Robotics	super-twisting sensorless control of linear induction motors	2012	-18.47036302406585	-7.131039120893169	3811411
+3811927	Robotics	modeling rate-dependent hysteresis in piezoelectric actuators	2003	-18.568986735869835	-7.584897513800813	3811954
+3821387	Robotics	robust antiwindup compensation for high-precision tracking of a piezoelectric nanostage	2016	-17.99122971599563	-7.5056050621605435	3821414
+3821461	EDA	an adaptive input shaping technique for the suppression of payload swing in three-dimensional overhead cranes with hoisting mechanism	2007	-17.92358208257335	-7.249270315097085	3821488
+3824680	Robotics	suppression control method for torque vibration of three-phase hb-type stepping motor utilizing feedforward control	2002	-18.699445431487828	-7.633620002244687	3824707
+3827441	Robotics	implementation and experimental evaluation of pis control for suppression of flow disturbance to pneumatic vibration isolators	2014	-18.619132598979608	-7.532755564188852	3827468
+3828259	Robotics	the compensation of actuator delay for hardware-in-the-loop simulation of a jet engine fuel control unit	2014	-18.683378951719693	-7.5996376500812435	3828286
+3829734	Robotics	unknown input high-gain observer for internal combustion engine test benches	2012	-18.652277594763472	-7.165012669158875	3829761
+3831457	Robotics	analytical and design aspects of magnetically suspended vehicles	1979	-18.368266495408253	-7.631635116524677	3831484
+3832116	Robotics	system identification and multivariable control design for a satellite ultraquiet isolation technology experiment (suite)	2004	-18.24498247268844	-7.811154881734312	3832143
+3832569	Robotics	rotor geometry design of interior pmsms with and without flux barriers for more accurate sensorless control	2012	-18.81727330569721	-7.632712390626211	3832596
+3832953	Robotics	digital hardware implementation of an active disturbance rejection controller for a highly dynamic parallel orientation manipulator	2014	-17.912002597942873	-7.858524163319577	3832980
+3834296	Robotics	wind speed estimation for wind turbine control	2012	-18.603176008432143	-7.365648384826557	3834323
+3836838	Robotics	design of joint servo control system based on fpga	2015	-18.218048285075874	-7.177034875760188	3836865
+3837375	Robotics	disturbance suppression control with review action of linear dc brushless motor	1995	-18.713905739217466	-7.145063033883405	3837402
+3837916	Robotics	a model-based robust icing detection and estimation scheme for wind turbines	2016	-18.056365937609872	-7.153159763290045	3837943
+3838612	Robotics	fpga implementation of pwm control technique for three phase induction motor drive	2008	-18.44697299669761	-7.484489491178535	3838639
+3838921	Robotics	a new scheme for speed-sensorless control of induction motor	2004	-18.77865294060706	-7.233888882564376	3838948
+3839052	Robotics	modeling and decoupled sliding mode control of maglev train module	2006	-18.188750366492442	-7.199748263035438	3839079
+3840608	Robotics	tmr analysis and controller design for self - servowriting in high-density hard disk drives	2006	-18.41294799963041	-7.344838700439154	3840635
+3841177	Robotics	the modelling and l2-stability of a shape memory alloy position control system	1994	-18.239141410386587	-7.043927057846741	3841204
+3842515	Robotics	maximum torque control of servo motor for wide speed range	2011	-18.78624053165396	-7.559967589188722	3842542
+3842771	Robotics	robust feedback control of flow-induced structural radiation of sound	2000	-18.366065883046588	-7.8266265446994865	3842798
+3843376	Visualization	adjustable speed drive project for teaching a servo systems course laboratory	2011	-18.66236607926039	-6.980141981779133	3843403
+3843810	Robotics	harmonic current suppression of an amb rotor system at variable rotation speed based on multiple phase-shift notch filters	2016	-18.530503808497688	-7.553791170773	3843837
+3845001	Robotics	analysis and suppression of torsional vibrations for the permanent magnet synchronous motor-load system	2009	-18.52130211958457	-7.739196542746479	3845028
+3846254	AI	controller design of eddy current braking in an air bearing system	2012	-18.26979169314207	-7.286542291069479	3846281
+3846525	Robotics	online identification of induction machine electrical parameters for vector control loop tuning	2003	-18.79624678479548	-7.041093502908906	3846552
+3847773	Robotics	feedback linearization-based position control of an electrohydraulic servo system with supply pressure uncertainty	2012	-18.188519104776415	-7.061714509509788	3847800
+3847858	Robotics	application of speed and load torque observers in high-speed train drive for diagnostic purposes	2009	-18.281761707033667	-7.781714839725172	3847885
+3848948	Robotics	sliding-mode-based robust controller design for one channel in thrust vector system with electromechanical actuators	2018	-18.000507181665338	-7.238211332868628	3848975
+3849406	Robotics	reduced-scale-power hardware-in-the-loop simulation of an innovative subway	2010	-18.558068383079068	-7.71107713097046	3849433
+3849949	Robotics	modeling, simulation and control of a seamless two-speed automated transmission for electric vehicles	2014	-18.52838944445216	-7.329843898446947	3849976
+3856284	Robotics	modeling, simulation and control for optimized operating strategies of combustion engine-based power trains	2012	-18.65469679333809	-7.0237301361205	3856311
+3856505	Robotics	model-free adaptive control for three-degree-of-freedom hybrid magnetic bearings	2017	-18.014016139631806	-7.181197786736512	3856532
+3857086	EDA	nonlinear full-order observer-based controller design for active magnetic levitation via lqr-feedback linearisation	2016	-18.736292084370692	-7.064580114340272	3857113
+3858243	Robotics	model predictive control leveraging ensemble kalman forecasting for optimal power take-off in wave energy conversion systems	2015	-18.805839497023307	-7.258730149813875	3858270
+3859535	Mobile	effects of control structure on performance for an automotive powertrain with a continuously variable transmission	2002	-18.263569160674127	-7.034936368989676	3859562
+3860753	Robotics	enabling technologies for a fault tolerant linear actuation drive	2014	-18.092843308531197	-7.065840775160463	3860780
+3861692	Robotics	resolver models for manufacturing	2011	-18.76961241088943	-7.834273620199863	3861719
+3865641	Robotics	an observer-based mode switching control scheme for improved position regulation in servomotors	2014	-18.11557167649828	-7.177330383628175	3865668
+3867050	Robotics	a novel method of phase current compensation for switched reluctance motor system based on finite element	2009	-18.674462503959006	-7.371648367913733	3867077
+3868755	Robotics	modelling and simulation of ac electric drive control system with variable moment of inertia	2011	-18.622493361275254	-7.040982031338976	3868782
+3871417	Robotics	design of control system for an electrohydraulic drive based on the valve with pmsm motor	2016	-18.653742003901886	-7.70996953999001	3871444
+3873010	Robotics	adaptive mirror control for an optical resonator cavity	2013	-18.653881778437395	-7.256160402175005	3873037
+3873133	Robotics	position extraction from a discrete sliding-mode observer for sensorless control of ipmsms	2012	-18.623901156055023	-7.309489344978883	3873160
+3873321	Robotics	nonlinear adaptive control of epb shield tunneling machine	2017	-18.00496216908984	-7.358585421201795	3873348
+3873362	Robotics	output feedback robust adaptive controller design for dynamic atomic force microscopy	2010	-18.557718412010665	-7.1119940750997355	3873389
+3873473	Robotics	unified sensorless vector control of synchronous and induction motors	2003	-18.583929853709567	-6.997716509693992	3873500
+3877862	Robotics	a novel technique for estimation and control of stator flux of a salient-pole pmsm in dtc method based on mtpf	2003	-18.82361304113756	-7.3733613572779015	3877889
+3878604	Robotics	development of fuzzy logic controller for dc motor using personal computer and inexpensive microcontroller	2014	-18.66284757903849	-7.477494635868763	3878631
+3884015	Robotics	fast self-resonant startup procedure for digital mems gyroscope system	2012	-18.799050977397453	-7.820049148715253	3884042
+3886272	Robotics	direct torque control of an induction motor using a single current sensor	2006	-18.674253030647034	-7.330507729639687	3886299
+3886385	Robotics	model sensitivity assessment for sensorless pm and reluctance motor drives	2016	-18.71588419601991	-7.255639964597188	3886412
+3889972	Robotics	artificial neural networks inverse control of 5 degrees of freedom bearingless induction motor	2012	-18.25176975563488	-7.071617469142726	3889999
+3890684	Robotics	$h_2$ control for head positioning in axial and radial dimensions for self-servo track writing	2008	-18.045319643175105	-7.025405923700581	3890711
+3890967	Robotics	motion control of a hydraulic free-piston engine	2012	-18.428389795588256	-7.3899537504263	3890994
+3891596	EDA	design of a fuzzy pre-compensator pid tension controller for fabric based on dsp	2004	-18.19984948053112	-7.2771184124144686	3891623
+3891644	Robotics	active reduction of device multi-tonal noise by controlling vibration of multiple walls of the device casing	2014	-18.425243111495444	-7.413896428775552	3891671
+3892542	Robotics	optimal regulation of electric drives with constant load torque	2006	-18.375673212417453	-7.600468703708597	3892569
+3893306	Robotics	damping control strategies for vibration isolation of disturbed structures	2008	-18.635551478314568	-7.763299641776812	3893333
+3897193	Robotics	emulating electric vehicle regenerative and friction braking effect using a hardware-in-the-loop (hil) motor/dynamometer test bench	2014	-18.266168903205067	-7.6908893253970705	3897220
+3897431	Robotics	fractional order modeling and control of a smart beam	2017	-18.344812295142084	-7.606905100099052	3897458
+3897510	Robotics	decentralised flatness-based control of a hydrostatic drive train subject to actuator uncertainty and disturbances	2013	-18.017361641163745	-7.4493618620557225	3897537
+3902952	Robotics	an adaptive variable structure control law for sensorless induction motors	2007	-18.19389399861076	-6.968976599402944	3902979
+3905596	Robotics	design of a fuzzy controller: some experience	2016	-17.94333734441386	-7.524001495584002	3905623
+3907557	Robotics	operation pattern recognition and control for an electric-hydraulic type amt	2009	-18.554212885627326	-7.76211060331052	3907584
+3908371	Robotics	partial state feedback control of induction motors with magnetic saturation: elimination of flux measurements	2002	-17.975390982224642	-7.264627172313925	3908398
+3911228	NLP	practical aspects of precision membrane antenna shape control	1998	-18.216744421330908	-7.4078911260701545	3911255
+3911341	Robotics	on the regulation of the energy of elastic joint robots: excitation and damping of oscillations	2015	-18.14516410457355	-7.461367780840559	3911368
+3911909	Robotics	fuzzy controller applied to electric vehicles with continuously variable transmission	2016	-18.43083599739261	-7.574608025308398	3911936
+3912244	Robotics	sliding mode control for active magnetic bearing system with flexible rotor	2005	-18.12540600624269	-7.644006942262401	3912271
+3914569	Robotics	performance limitations in field-oriented control for asynchronous machines with low resolution position sensing	2010	-18.27718584639286	-7.271590346536403	3914596
+3914807	Robotics	simulation model of a series dc motor for traction rail vehicles	2016	-18.767289911672197	-7.638639204119122	3914834
+3915361	Robotics	finite element modeling for heat transfer processes using the method of integro-differential relations with applications in control engineering	2014	-18.796747517080753	-7.36088284276955	3915388
+3918145	Robotics	adaptive neuro-fuzzy control for ionic polymer metal composite actuators	2013	-18.74274412748729	-7.563833937970773	3918172
+3918408	EDA	minimax optimization of fatigue loads in a wind farm and its realization via sliding mode controller of wind turbines	2018	-18.576424898676613	-7.203166861834961	3918435
+3921840	Robotics	a general framework for designing siso-based motion controller with multiple sensor feedback	2016	-17.92002703099809	-6.952538501242198	3921867
+3926229	Robotics	speed calculation methods in electrical drive with non-ideal position sensor	2014	-18.591000916435913	-7.388551828382018	3926256
+3927305	Robotics	hysteresis compensation of piezoelectric actuators under dynamic load condition	2007	-18.248147246571357	-7.321352643908543	3927332
+3927723	Robotics	embedded fuzzy-control system for machining processes: results of a case study	2003	-18.622395917236922	-7.11323357253558	3927750
+3930061	Robotics	novel hybrid positive feedback control for active vibration suppression in flexible structure	2014	-18.640422641649216	-7.620876704423265	3930088
+3931281	Robotics	a method for measuring torque of squirrel-cage induction motors without any mechanical sensor	2015	-18.45604201615804	-7.829962843377075	3931308
+3933782	Robotics	nonlinear control algorithm for improving settling time in systems with friction	2013	-18.436188980879038	-7.390879853845434	3933809
+3937736	Robotics	model predictive steering control for independent driving and steering vehicles considering coaxial steering mechanism — implementation to an embedded cpu	2015	-18.074807787083707	-7.493526595540318	3937763
+3938401	Robotics	study of waveform generation in simulation torque-loading system based on labview	2013	-18.70492986718858	-7.7621112622541775	3938428
+3939975	Embedded	proportional directional valve based automatic steering system for tractors	2016	-18.566775873801085	-7.834770287145733	3940002
+3942785	Robotics	vibration suppression control for amb-supported motor driveline system using synchronous rotating frame transformation	2015	-18.315506901126813	-7.462358371727551	3942812
+3943188	Robotics	active suspension system based on linear switched reluctance actuator and control schemes	2013	-18.05361823511118	-7.301405268537608	3943215
+3946670	Robotics	an integrodifferential approach to modeling, control, state estimation and optimization for heat transfer systems	2016	-18.828933917382923	-7.403333896243168	3946697
+3948158	Robotics	advances in the modelling and control of series hybrid electric vehicles	2012	-18.62545423422574	-7.517797747909466	3948185
+3948780	Visualization	carrier-signal selection for sensorless control of pm synchronous machines at zero and very low speeds	2008	-18.769458671982306	-7.546855784819383	3948807
+3949707	Robotics	design of excitation signals for the closed loop identification of industrial robots	2012	-18.06365384254228	-6.94974504533656	3949734
+3951839	Robotics	nonlinear robust stage control of atomic force microscope	2012	-17.918480435505067	-7.797112635155844	3951866
+3953056	Robotics	offshore crane control based on adaptive external models	2008	-18.392852294645888	-7.107112842377156	3953083
+3953287	Robotics	flatness-based tracking of an electromechanical variable valve timing actuator with disturbance observer feedforward compensation	2008	-18.239773391592358	-7.474374667127953	3953314
+3954828	Robotics	sensorless variable structure speed control of an induction motor	2000	-18.1356361498886	-7.473058531569258	3954855
+3955185	Robotics	real time acceleration tracking of electro-hydraulic shake tables combining inverse compensation technique and neural-based adaptive controller	2017	-18.077023721025398	-6.955182221261327	3955212
+3956965	Robotics	second-order sliding mode control of the engine speed for an automated manual transmission during gear shifting process	2014	-18.44103409645113	-6.940659344802067	3956992
+3957085	Vision	nutation and precession stability criterion of magnetically suspended rigid rotors with gyroscopic effects based on positive and negative frequency characteristics	2014	-17.96236732314212	-7.409302862830438	3957112
+3962519	Robotics	modeling and control of dual parallel bldc motor drive system with single inverter	2017	-18.76586612720464	-7.633976736421151	3962546
+3963008	Robotics	constrained model predictive control of the drive system with mechanical elasticity	2009	-18.022977800793623	-7.203140076173368	3963035
+3963992	Robotics	regulation of the downside angular velocity of a drilling string with a p-i controller	2018	-18.19371990780716	-7.232478596489995	3964019
+3963993	Robotics	sensorless high order sliding mode control of induction motors with core loss	2014	-18.496439589276395	-7.5084277247613045	3964020
+3965261	Robotics	modeling and identification of hysteresis with modified preisach model in piezoelectric actuator	2017	-18.67827081820645	-7.426012404209068	3965288
+3965480	Robotics	dynamic model based auto-tuning digital servo driver	1995	-18.16746515427504	-7.0033476413388245	3965507
+3968389	Robotics	artificial neural network control of a nonminimum phase, single-flexible-link	1996	-17.87364090978217	-7.632633032477522	3968416
+3971787	Robotics	novel adaptive control of mechanical systems driven by electromechanical hydraulic drives	2002	-18.416573098380827	-7.843805925028112	3971814
+3972567	Robotics	sensorless induction motor drive based on flux acceleration torque control	2007	-18.491704984516325	-7.435398235775626	3972594
+3974190	Robotics	dsp-based control of sensorless ipmsm drives for wide-speed-range operation	2013	-18.758622526402345	-7.4026280047751225	3974217
+3979578	Robotics	a new open-loop fiber optic gyro error compensation method based on angular velocity error modeling	2015	-18.28947320408847	-7.49100034827798	3979605
+3979854	Robotics	neural network inverse control for turning complex profile of piston	2007	-18.422125867940974	-7.507713757308356	3979881
+3981665	Robotics	estimation of torques transmitted by twin-clutch of dry dual-clutch transmission during vehicle's launching process	2017	-18.243893771337767	-7.241730971998519	3981692
+3982305	Robotics	discrete-time servo control of overhead cranes with robust load swing damping	2015	-17.871162899585773	-6.9834509705329015	3982332
+3983689	Robotics	a hybrid optimization method to improve driver's comfort	2017	-18.76066649025795	-7.8279089471076535	3983716
+3985189	Robotics	feedback linearization-based self-tuning fuzzy proportional integral derivative control for atmospheric pressure simulator	2014	-18.334114945390294	-7.021107376906122	3985216
+3988098	Robotics	position control of an electrohydrostatic actuator with tolerance to internal leakage	2016	-18.264526389740997	-7.5680836803441105	3988125
+3989031	Robotics	dynamic behaviour of elastic cam devices driven by servomotors with pid velocity control	2011	-18.257377147480486	-7.727044894701531	3989058
+3995442	Robotics	"""motor """"identity""""-a motor model for torque analysis and control"""	1996	-18.694152456934784	-7.142449399829907	3995469
+3997947	Robotics	traction control algorithm based on fuzzy pid and pwm modulation	2011	-18.36059486773207	-7.689067290079797	3997974
+3999190	Robotics	velocity tracking of a high-rise building elevator using pdf control	2017	-17.953088800800458	-7.165697331746028	3999217
+3999342	Robotics	ship attitude prediction based on input delay neural network and measurements of gyroscopes	2017	-18.20075464668188	-7.699446332109058	3999369
+4000691	Robotics	sensorless rotor velocity tracking control for induction motors	2001	-17.881912831966993	-7.06873692214345	4000718
+4001139	Robotics	dynamic sliding mode control of an innovative engine cooling system	2015	-18.571430700632177	-7.099164300294556	4001166
+4001214	Robotics	robust driveshaft torque observer design for stepped ratio transmission in electric vehicles	2015	-18.40560271849653	-7.1702128138963115	4001241
+4001273	Robotics	nonlinear control for an uncertain electromagnetic actuator	2018	-18.183896835982907	-7.675287467483254	4001300
+4003701	Metrics	exact controllability of a wind turbine tower model in the plane of the turbine blades	2010	-18.552144751178986	-7.821402593566562	4003728
+4004868	Robotics	demonstration of the use of hyperinference: position control using an electric disc-motor	1999	-18.117269495745944	-7.853012958004818	4004895
+4005971	Robotics	mover position detection for pmtlm based on linear hall sensors through ekf processing	2017	-18.312260338372017	-7.299587984596594	4005998
+4006635	Networks	operator-based robust control of mimo aluminium plate thermal process	2012	-18.4269221929387	-6.974141218120156	4006662
+4008489	Robotics	sensorless position control of spmlsm based on high-gain observer	2013	-18.59763655048068	-7.676981682294557	4008516
+4009565	Robotics	valve flow rate identification and robust force control for a pneumatic actuator used in a flight simulator	2012	-17.93303220847059	-7.137506404438421	4009592
+4010327	Robotics	an educational perspective to model and controller reduction of dynamical systems	2007	-18.420379906001177	-7.721595659957732	4010354
+4011335	Robotics	speed measurement error suppression for pmsm control system using self-adaption kalman observer	2015	-18.33297521069756	-6.9440692589892015	4011362
+4015152	EDA	frequency-domain decoupling-correction method for wind tunnel strain-gauge balance	2013	-18.533190549177878	-7.631025210671368	4015179
+4022464	Robotics	research on experimental control system for rich- or pure-oxygen roller kilns	2010	-18.653865148045586	-7.832645416693026	4022491
+4022598	Robotics	a new stator resistance tuning method for stator-flux-oriented vector-controlled induction motor drive	2001	-18.792886267766555	-7.227045866934046	4022625
+4023142	Robotics	individual pitch control using lidar measurements	2012	-18.699054906979754	-7.207266291844463	4023169
+4025419	Robotics	energy savings of a hybrid truck using a ravigneaux gear train	2017	-18.79655724640727	-7.508444251623503	4025446
+4027506	Robotics	filtering approaches for online identification of gms friction model	2011	-17.980727150503842	-7.197181422064007	4027533
+4029066	Robotics	sliding mode control and observer-based disturbance compensation for a permanent magnet linear motor	2018	-18.114528149285647	-7.400829893561071	4029093
+4029913	Robotics	recursive identification of micropositioning stage based on sandwich model with hysteresis	2017	-18.371316772886267	-7.395997703149326	4029940
+4031134	Robotics	an improved hybrid suppression method for extraneous force of high-frequency electro-hydraulic loading system	2015	-18.539093157382048	-7.086255833951492	4031161
+4035390	Robotics	comparison of strategies for enhancing energy capture and reducing loads using lidar and feedforward control	2013	-18.674203749962178	-7.1177088339204015	4035417
+4036857	Robotics	spacecraft attitude and reaction wheel desaturation combined control method	2017	-17.945936628914556	-7.692466792575576	4036884
+4037518	Robotics	adaptive controllers for a piezoelectric actuator without and with discontinuity	2017	-18.451617831967283	-7.4366833030417565	4037545
+4041083	Robotics	robust force controller design for an electro-hydraulic actuator based on nonlinear model	1999	-18.04661111526361	-6.972081190820223	4041110
+4043922	Robotics	observer-based backstepping control of an electro-pneumatic clutch	2012	-18.240088980547426	-7.419546268945829	4043949
+4045494	Robotics	multi-loop stabilization control of a robotic bionic eyes	2017	-18.08011236459523	-7.647147315454677	4045521
+4047511	Robotics	design of general control module to robot with multi-degree of freedom	2011	-18.100833904027425	-7.1027568226101305	4047538
+4047845	Robotics	resonance suppression strategy for blade rotor/amb unit of composite tmp	2017	-18.726539934496678	-7.658201882749346	4047872
+4048627	Robotics	integrated inversion-feedforward and pid-based-sliding-mode-control for piezoelectric actuators	2012	-18.33448404473883	-7.271289300191815	4048654
+4049442	Robotics	nonlinear model predictive control of floating wind turbines with individual pitch control	2014	-18.445266764448146	-7.312568267895185	4049469
+4050381	Robotics	control of the drive system with stiff and elastic couplings using adaptive neuro-fuzzy approach	2007	-18.218248780457717	-7.050864220634768	4050408
+4050914	Robotics	a current sensor less speed control algorithm for induction motors	2016	-18.594668609575262	-6.964487786835474	4050941
+4052295	Robotics	simulation research of active vibration control for elastic missile with swing nozzle thrust vector control	2013	-18.064049408074354	-7.3832852893779535	4052322
+4052553	Robotics	comparative evaluation of positioning performance for a direct drive system: cm nctf versus ptos	2018	-18.065258368607033	-7.600490302226275	4052580
+4054812	Robotics	robust control of synchromesh friction in an electric vehicle's clutchless automated manual transmission	2014	-18.50388617277841	-7.379646429161251	4054839
+4055187	Robotics	flux observer with online tuning of stator and rotor resistances for induction motors	2002	-18.648717838211148	-6.955443805790644	4055214
+4055513	Visualization	hydraulic clutch modeling for automotive control	2013	-18.71342328912126	-7.1311078370643495	4055540
+4055819	EDA	simulation and experimental investigation of vehicle braking system employing a fixed caliper based electronic wedge brake	2018	-18.06846678982863	-7.740502429783236	4055846
+4056908	Robotics	robust constrained trajectory tracking for magnetically controlled linear actuators with hysteresis	2013	-18.223344648578745	-7.1456332676346115	4056935
+4057297	Robotics	design of a mras-type sliding mode observer for estimation of the rotor time constant of the induction motor	2016	-18.64056845317393	-7.02639374547937	4057324
+4057738	Mobile	full digital current control of permanent magnet synchronous motors for vehicular applications	2007	-18.302882824483266	-7.457076647714633	4057765
+4062948	Robotics	stator-flux-oriented control of induction motor considering iron loss	2001	-18.708399973375037	-7.036883195221387	4062975
+4066502	Robotics	air-gap-power-vector-based sensorless method for dfig control without flux estimator	2011	-18.70355128945885	-7.54923222827525	4066529
+4066959	Robotics	learning control for induction motor servo drives with uncertain rotor resistance	2010	-18.365238354535926	-7.004456317755729	4066986
+4067797	Robotics	application of amesim & matlab simulation on vehicle chassis system dynamics	2007	-18.470030132460735	-7.580373685333134	4067824
+4077833	Robotics	identification of mechanical parameters at low velocities for a micropositioning stage using a velocity hysteresis model	2012	-18.098381697631336	-7.762347068662907	4077860
+4079987	Robotics	a real-time inverse-based hysteresis compensation with adaptation?	2015	-18.100961825809765	-6.940451561507312	4080014
+4083866	Robotics	adaptive sliding mode control with perturbation estimation and pid sliding surface for motion tracking of a piezo-driven micromanipulator	2010	-17.95205765573266	-7.664762780279482	4083893
+4087455	Robotics	sliding-mode position control of robot joint based on self-adaptive parameters adjusting	2010	-18.140641319294204	-6.955276587701986	4087482
+4088069	Robotics	advanced digital control design for ionic polymer-metal composite actuators	2018	-17.991618709512814	-7.2200898727667955	4088096
+4088439	EDA	optimization algorithm and practical implementation for 2-coil wireless power transfer systems	2014	-18.69568079975316	-7.835151240908853	4088466
+4089333	Vision	an optimal tracking controller design based on the estimation of tracking vibration quantity	2005	-18.38362812753796	-7.631313346386138	4089360
+4090702	SE	development and validation of a software tool for complex aircraft powertrains	2016	-18.381842883550267	-7.841268047815902	4090729
+4091795	Robotics	rejection of periodic wind disturbances on an experimental “smart” rotor section using lifted repetitive control	2011	-18.619043474355266	-7.523385267349626	4091822
+4095034	Robotics	a jerk-constrained asymmetric motion profile for high-speed motion stages to reduce residual vibration	2016	-18.392119666988915	-7.6788050260248	4095061
+4095124	Robotics	battery emulation for power-hil using local model networks and robust impedance control	2014	-18.643611958192057	-7.041771368875524	4095151
+4095530	Robotics	control-oriented physics-based models for floating offshore wind turbines	2015	-18.28512077569896	-7.747323792161749	4095557
+4096374	Robotics	development of a wheel slip actuator controller for electric vehicles using energy recuperation and hydraulic brake control	2011	-18.100261274694837	-7.887616405467546	4096401
+4100106	Robotics	active suspension system - energy control	2009	-18.706197502458515	-7.106743405395028	4100133
+4102251	Robotics	disturbance attenuation and load decoupling with hinfty positive joint torque feedback	1998	-17.985213769883902	-7.166658259547702	4102278
+4103224	Robotics	feedback control of the nuclear magnetization state: experimental results	1992	-18.438410568540426	-7.380365036795429	4103251

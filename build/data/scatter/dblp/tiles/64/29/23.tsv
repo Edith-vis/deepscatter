@@ -1,0 +1,560 @@
+id	area	title	year	x	y	ix
+3216258	AI	robust feature selection based on regularized brownboost loss	2013	-2.2671858867474732	-8.145783125198752	3216285
+3219794	ML	edit distance-based kernel functions for structural pattern classification	2006	-1.5054483963473817	-7.9986626692456335	3219821
+3223578	AI	an incremental learning vector quantization algorithm for pattern classification	2010	-1.5000191734311812	-8.156415291954843	3223605
+3223632	AI	ensemble one-class extreme learning machine based on overlapping data partition	2016	-1.7271403682298303	-8.359977487712747	3223659
+3224323	AI	generalizing over aspect and location for rooftop detection	1998	-1.8659666826945511	-8.012457457408217	3224350
+3225549	AI	hierarchical error-correcting output codes based on svdd	2015	-2.2625222827594573	-8.63746156063301	3225576
+3227570	ML	majority vote of diverse classifiers for late fusion	2014	-1.6963853796188568	-8.49150548106055	3227597
+3227718	AI	a fast training method for oc-svm based on the random sampling lemma	2010	-2.29671136238474	-8.276701107627526	3227745
+3231263	Vision	an unsupervised data projection that preserves the cluster structure	2012	-2.3714938124128704	-7.925730264384807	3231290
+3232007	ML	learning and evaluation in presence of non-i.i.d. label noise	2014	-1.4884707146581488	-8.831736027239081	3232034
+3232097	Vision	boosting driven by error free regions	2004	-1.7075948086261932	-8.116734239417429	3232124
+3235175	ML	k-local hyperplane and convex distance nearest neighbor algorithms	2001	-2.0183892107424777	-8.010020882248249	3235202
+3236476	ML	improving svm classification with imbalance data set	2009	-1.5462518910818792	-8.365106590545825	3236503
+3236683	ML	open category detection with pac guarantees	2018	-1.6807142572458875	-8.58234301016023	3236710
+3239243	Theory	improved nearest neighbor classifiers by weighting and selection of predictors	2016	-1.992127820279788	-7.951797024091448	3239270
+3239570	DB	using two-class classifiers for function estimation	1979	-1.9571434574612163	-7.917669795815684	3239597
+3242210	ML	simultaneous feature and expert selection within mixture of experts	2014	-2.3205373801378797	-8.655762988300516	3242237
+3245042	Robotics	sampling from databases for rule induction methods based on likelihood ratio test	2010	-1.4853469789304397	-8.057006028938867	3245069
+3246220	ML	two ellipsoid support vector machines	2014	-2.1499118380921294	-7.8952103592857465	3246247
+3246722	ML	hybrid classifiers for object classification with a rich background	2012	-1.8033289751007011	-8.208146699117535	3246749
+3246873	Vision	a discriminative view of mrf pre-processing algorithms	2017	-1.591632425754154	-8.368683457499888	3246900
+3248994	ML	optimal combination of feature weight learning and classification based on local approximation	2012	-2.3704557447546986	-8.391075585389604	3249021
+3258702	ML	twin support vector machine for multiple instance learning based on bag dissimilarities	2016	-1.454660247595135	-8.548326704537809	3258729
+3259555	DB	bridging feature selection and extraction: compound feature generation	2017	-1.9125908929111093	-8.76281680938301	3259582
+3259572	Robotics	bsmboost for imbalanced pattern classification problems	2017	-1.6677886155304815	-8.019044330918714	3259599
+3259811	ML	a new logitboost algorithm for multiclass unbalanced data classification	2011	-2.3133102002251373	-7.910367948912962	3259838
+3261920	AI	data classification with ensembles of one-class support vector machines and sparse nonnegative matrix factorization	2015	-2.0837801095362196	-8.668418142987997	3261947
+3265513	AI	optimized weighted decoding for error-correcting output codes	2012	-2.264644757318986	-8.159750890926473	3265540
+3267294	ML	physical field models for pattern classification	2003	-2.202598534759152	-8.11523702125594	3267321
+3268367	DB	a study of query-based dimensionality reduction	2011	-2.2961362211626684	-8.006205429362902	3268394
+3270878	ML	beyond banditron: a conservative and efficient reduction for online multiclass prediction with bandit setting model	2009	-1.805264518976217	-8.443871604051663	3270905
+3272546	Vision	dissimilarity-based multiple instance learning	2010	-1.7213504099107473	-7.9905790067187	3272573
+3272800	ML	multi-class learning by smoothed boosting	2007	-1.901463877532704	-8.79482851412388	3272827
+3278508	ML	on the decoding process in ternary error-correcting output codes	2010	-2.1315902217199523	-8.263258214549671	3278535
+3280956	ML	traffic flow forecasting based on multitask ensemble learning	2009	-2.0985079703140914	-8.025882137171221	3280983
+3285501	ML	semi-supervised text classification with universum learning	2016	-1.9996122381998849	-8.700257302989266	3285528
+3286481	ML	example-dependent basis vector selection for kernel-based classifiers	2010	-2.25827676613462	-8.137796175197973	3286508
+3286912	Web+IR	a feature selection method for large-scale network traffic classification based on spark	2016	-2.095257051153216	-8.10341044823911	3286939
+3293877	ML	severe class imbalance: why better algorithms aren't the answer	2005	-1.6902590955206933	-7.894700084185157	3293904
+3295673	ML	an efficient gene selection algorithm based on mutual information	2009	-1.5139652729332118	-7.896302787238826	3295700
+3296902	Crypto	a cost-sensitive paradigm for multiclass to binary decomposition schemes	2004	-2.22808807527327	-8.213655833053936	3296929
+3296981	ML	online support vector machine based on convex hull vertices selection	2013	-2.1413373509430422	-8.250970319330241	3297008
+3297420	ML	decision stream: cultivating deep decision trees	2017	-1.7786453581607813	-8.202922515310977	3297447
+3298841	ML	a sphere-description-based approach for multiple-instance learning	2016	-1.5849839982951337	-8.829726635550447	3298868
+3301749	Robotics	an online learning algorithm for biometric scores fusion	2010	-1.834309933933444	-8.395786696933369	3301776
+3301765	ML	local decision bagging of binary neural classifiers	2008	-1.5868617724332126	-8.04511008708267	3301792
+3303366	ML	probabilistic active learning with structure-sensitive kernels	2017	-1.6117058187824973	-8.80684731690219	3303393
+3303604	ML	is a data-driven approach still better than random choice with naive bayes classifiers?	2017	-1.9432865278323952	-8.119495764992887	3303631
+3305547	ML	speeding up the decision making of support vector classifiers	2004	-2.0022734733249914	-8.539703026400595	3305574
+3307211	ML	on the combination of locally optimal pairwise classifiers	2009	-2.2092854807295645	-8.152002310147765	3307238
+3308144	AI	adapt bagging to nearest neighbor classifiers	2005	-1.4648770206691708	-8.245156851840314	3308171
+3308574	Vision	a correction method of a binary classifier applied to multi-label pairwise models	2017	-1.5469457509045206	-8.591215711574483	3308601
+3308782	AI	agreement rate initialized maximum likelihood estimator for ensemble classifier aggregation and its application in brain-computer interface	2016	-2.1500115093923515	-8.578524586133607	3308809
+3313962	AI	mogt: oversampling with a parsimonious mixture of gaussian trees model for imbalanced time-series classification	2013	-1.7713485552734087	-8.409219190409402	3313989
+3314271	AI	dual autoencoders features for imbalance classification problem	2016	-1.656511835698378	-8.488312711802925	3314298
+3320237	Vision	random walks with restarts for graph-based classification: teleportation tuning and sampling design	2018	-2.3880273070580507	-8.726368094334774	3320264
+3320982	ML	time-series classification based on individualised error prediction	2010	-1.7217806277464962	-7.980606222117256	3321009
+3321696	ML	relevance and mutual information-based feature discretization	2013	-2.1769352412658307	-8.537977277148407	3321723
+3322728	Vision	linear reconstruction measure steered nearest neighbor classification framework	2014	-2.3263788732295136	-8.380779650542916	3322755
+3322832	Vision	feature weighted nearest neighbour classification for accelerometer-based gesture recognition	2012	-1.6254802177754284	-8.455470732026809	3322859
+3323922	ML	multi-class classification via subspace modeling	2011	-1.6224880884687418	-8.102330360896081	3323949
+3323997	Robotics	identification of multimodal human-robot interaction using combined kernels	2015	-2.0292493935745	-8.684807855575121	3324024
+3326683	AI	learning svm with weighted maximum margin criterion for classification of imbalanced data	2011	-1.5987305818100002	-8.086321890664674	3326710
+3327828	ML	unsupervised and semi-supervised dimensionality reduction with self-organizing incremental neural network and graph similarity constraints	2016	-2.293100376333059	-8.721267796870903	3327855
+3327883	ML	algorithms for parallel boosting	2005	-2.1568630040687866	-7.905061440398827	3327910
+3333117	ML	tree covering within a graph kernel framework for shape classification	2009	-2.129597009625068	-8.546937404699769	3333144
+3333866	ML	dd-hds: a method for visualization and exploration of high-dimensional data	2007	-2.316528781939435	-8.513389736181889	3333893
+3343485	AI	random resampling in the one-versus-all strategy for handling multi-class problems	2017	-2.0362019543704437	-8.14073524420557	3343512
+3345441	AI	sample outlier detection based on local kernel regression	2012	-1.5987551369758013	-8.129492369545664	3345468
+3346403	ML	a partially supervised learning algorithm for linearly separable systems	1992	-1.8696884191560716	-8.357158801027802	3346430
+3347197	Vision	relative forest for visual attribute prediction	2016	-1.4322468314028882	-8.741330900514898	3347224
+3348325	ML	early stabilizing feature importance for tensorflow deep neural networks	2017	-1.446766344119362	-8.467788606240862	3348352
+3350232	ML	fast effective rule induction	1995	-1.6147226893576632	-8.303557494745117	3350259
+3352245	ML	large-scale data exploration with the hierarchically growing hyperbolic som	2006	-2.0142765543308028	-8.503380677277693	3352272
+3353039	AI	feature selection for classification with class-separability strategy and data envelopment analysis	2015	-1.5989540075873605	-8.057631747670197	3353066
+3354671	ML	fast support vector machine classification for large data sets	2014	-1.646203331917325	-8.26966130239207	3354698
+3354977	ML	taming structured perceptrons on wild feature vectors	2010	-1.651309729489988	-8.675679531680268	3355004
+3356786	AI	ensemble reduction via logic minimization	2016	-2.3905483992629373	-8.25672721949741	3356813
+3356977	Vision	comparing the one-vs-one and one-vs-all methods in benthic macroinvertebrate image classification	2011	-1.7915373589480488	-8.291951619038212	3357004
+3357471	Vision	a new image classification method based on modified condensed nearest neighbor and convolutional neural networks	2017	-1.6937526623866128	-8.63881501453113	3357498
+3359133	ML	feature selection for fast image classification with support vector machines	2004	-1.9707142836576788	-8.042250070963565	3359160
+3360684	ML	fast support vector clustering	2016	-1.9453982741725209	-8.243596510783407	3360711
+3361127	ML	novelty detection: unlabeled data definitely help	2009	-2.1922921393184063	-8.036848529517826	3361154
+3367813	AI	diversity in multiple classifier ensembles based on binary feature quantisation with application to face recognition	2008	-2.0568568306352297	-7.997998170296658	3367840
+3368438	Vision	random projections fuzzy k-nearest neighbor(rpfknn) for big data classification	2016	-2.18888376472818	-8.569563934393345	3368465
+3368757	ML	the impact of linear transformation on svm margin	2006	-2.389649610306912	-7.943657858358506	3368784
+3371030	NLP	extended parametric mixture model for robust multi-labeled text categorization	2004	-2.0972302741557374	-8.59464864789695	3371057
+3371879	ML	classification using hierarchical naïve bayes models	2006	-1.5181499511141343	-8.345738211388445	3371906
+3373127	ML	an efficient three-stage classifier for handwritten digit recognition	2004	-1.5848601705488954	-7.9718830231804025	3373154
+3373889	ML	speeding up training with tree kernels for node relation labeling	2005	-2.0032106797378857	-8.439246625167677	3373916
+3373940	ML	a new learning strategy for classification problems with different training and test distributions	2007	-1.7339575870128563	-8.398992466383273	3373967
+3380674	AI	exploiting an oracle that reports auc/2afc scores in machine learning contests	2015	-1.9378271897657784	-8.315989299201663	3380701
+3383376	NLP	on a greedy learning algorithm for dplrm with applications to phonetic feature detection	2006	-2.230321706537871	-8.241808521987997	3383403
+3385439	ML	an empirical study of the convergence of regionboost	2009	-1.6576343995605165	-7.89763543134274	3385466
+3388660	ML	automated induction of heterogeneous proximity measures for supervised spectral embedding	2013	-1.881294103029104	-8.782336404806657	3388687
+3392414	AI	svdd regularized with area under the roc	2009	-2.152324640254703	-8.104682371125518	3392441
+3394327	ML	sparse weighted naive bayes classifier for efficient classification of categorical data	2018	-1.82853212927182	-8.033970257338295	3394354
+3394442	ML	dimension selective self-organizing maps with time-varying structure for subspace and projected clustering	2015	-2.2030570530308817	-8.227576370749611	3394469
+3394609	ML	the support vector tree	2010	-1.882389029739468	-8.604161305722231	3394636
+3396790	Robotics	non-uniform feature sampling for decision tree ensembles	2014	-1.5255565288995534	-8.007365292694809	3396817
+3401308	Vision	mean shift spectral clustering using kernel entropy component analysis	2014	-2.085082488256322	-8.587156854591601	3401335
+3402998	AI	improving svm classification on imbalanced datasets by introducing a new bias	2017	-1.4312310976081342	-7.942215901573437	3403025
+3404240	ML	equivalence among different variants of one-class nearest neighbours and creating their accurate ensembles	2016	-1.4762630581126217	-8.4212736736413	3404267
+3404924	AI	separability of ternary codes for sparse designs of error-correcting output codes	2009	-2.20511189828292	-8.29757927623642	3404951
+3407103	ML	selecting data for fast support vector machines training	2007	-1.9300558944868305	-8.348886781635214	3407130
+3410096	ML	label propagation through neuronal synchrony	2010	-2.172387851493633	-8.602424088292196	3410123
+3412150	Vision	clustering-based ensembles as an alternative to stacking	2014	-1.5213687872985502	-8.119448986807981	3412177
+3412751	DB	bregman bubble clustering: a robust, scalable framework for locating multiple, dense regions in data	2006	-2.3523408482640566	-8.816663404828729	3412778
+3413024	ML	an online learning network for biometric scores fusion	2013	-2.34288208195484	-8.107141862537716	3413051
+3417428	ML	gmdh-based semi-supervised feature selection for customer classification	2017	-1.4845475912906507	-8.010221662184122	3417455
+3418393	ML	an extension of the q diversity metric from single-label to multi-label and multi-ranking multiple classifier systems for pattern classification	2012	-1.5816459632995326	-7.969968408346348	3418420
+3420038	ML	sever: a robust meta-algorithm for stochastic optimization	2018	-1.8270440040991272	-8.3739787737193	3420065
+3420305	ML	"""projecting """"better than randomly"""": how to reduce the dimensionality of very large datasets in a way that outperforms random projections"""	2016	-2.2969559931906933	-8.566451879471009	3420332
+3421572	ML	land cover classification using local softened affine hull	2012	-1.7902879430057437	-8.302245157547068	3421599
+3422063	Vision	exploring feature coupling and model coupling for image source identification	2018	-1.7804115280615265	-8.429354095989625	3422090
+3422781	Robotics	outlier-aware robust clustering	2011	-1.8144272013057656	-8.300244771989576	3422808
+3428144	Robotics	semisupervised local fusion approach for mine detection in sonar data	2015	-1.8083861918524329	-8.765242549047683	3428171
+3429815	ML	an empirical study on budget-aware online kernel algorithms for streams of graphs	2016	-1.817605817403512	-8.621012527455719	3429842
+3429847	AI	bernoulli trials based feature selection for crater detection	2011	-1.5597398991888265	-7.928823058727097	3429874
+3430034	ML	classification of seismic volcanic signals using hidden-markov-model-based generative embeddings	2013	-2.3118217979597127	-8.785125367903143	3430061
+3433954	ML	large-scale classification by an approximate least squares one-class support vector machine ensemble	2015	-2.266818398361694	-8.374826806767066	3433981
+3434206	ML	combining dissimilarity-based one-class classifiers	2004	-2.157039560190496	-8.365958870429699	3434233
+3436154	ML	sparse approximations for kernel learning vector quantization	2013	-1.8361771692080535	-8.67472369673303	3436181
+3436625	ML	an adaptive class pairwise dimensionality reduction algorithm	2012	-1.6110406694558481	-8.295114422463739	3436652
+3436759	ML	online classifier adaptation for cost-sensitive learning	2015	-1.6146475909860976	-8.331857251596745	3436786
+3438787	ML	a memory efficient graph kernel	2012	-1.7203130384632654	-8.337626240143848	3438814
+3440072	AI	incremental and robust learning of subspace representations	2008	-2.052699755338617	-8.777201226311274	3440099
+3444091	ML	toward a semi-supervised approach in classification based on principal directions	2009	-2.3526666341490508	-8.087611376963531	3444118
+3444256	ML	exponential family graph matching and ranking	2009	-2.3783267018478256	-8.686726258944597	3444283
+3444347	AI	an online kernel selection wrapper via multi-armed bandit model	2018	-1.65576950683455	-8.391524874133925	3444374
+3445900	Robotics	adaptive incremental principal component analysis in nonstationary online learning environments	2009	-1.6540816878293827	-7.893843580084787	3445927
+3446470	ML	importance sampling tree for large-scale empirical expectation	2016	-1.90319588673346	-8.659458841340125	3446497
+3448493	Robotics	pairwise optimization of bayesian classifiers for multi-class cost-sensitive learning	2013	-1.4930095500497098	-7.919013332068781	3448520
+3448782	ML	bayesian approach to feature selection and parameter tuning for support vector machine classifiers	2005	-1.8221094573856047	-8.169577765845581	3448809
+3449578	ML	a boosting approach to remove class label noise	2005	-1.6646535548624442	-8.137098070784816	3449605
+3450748	Robotics	multi-label feature selection method combining unbiased hilbert-schmidt independence criterion with controlled genetic algorithm	2018	-1.473116557941624	-7.952287100637532	3450775
+3451190	ML	pooling homogeneous ensembles to build heterogeneous ensembles	2018	-1.5545749526549515	-7.946845049806898	3451217
+3451882	ML	learning wormholes for sparsely labelled clustering	2006	-1.567860594891363	-8.456886464355474	3451909
+3452409	Arch	building ultra-low false alarm rate support vector classifier ensembles using random subspaces	2009	-1.7828813965303274	-8.110542844791388	3452436
+3454145	ML	a method to boost support vector machines	2002	-1.4345998826047062	-8.466929582638674	3454172
+3454356	AI	graph laplacian for semi-supervised feature selection in regression problems	2011	-1.772425751434916	-8.819948204899912	3454383
+3457928	ML	on software defect prediction using machine learning	2014	-2.347662849259029	-8.294212675958914	3457955
+3459616	ML	implementing multi-class classifiers by one-class classification methods	2006	-2.187022990639693	-8.342181206676889	3459643
+3461998	ML	extreme learning machines for multiclass classification: refining predictions with gaussian mixture models	2015	-1.7335352586158488	-8.175262363339316	3462025
+3462037	ML	a hierarchical method for multi-class support vector machines	2004	-1.9014818509423732	-7.926671581735895	3462064
+3463509	ML	a novelty detection machine and its application to bank failure prediction	2014	-1.7741149513663523	-8.522059805678714	3463536
+3463959	ML	edited adaboost by weighted knn	2010	-1.5146056611807082	-8.782082046856477	3463986
+3470620	ML	a method to boost naïve bayesian classifiers	2002	-1.5672529579164078	-8.08719957544205	3470647
+3471622	Robotics	cost-sensitive mqdf classifier for handwritten chinese address recognition	2015	-1.8938961869625648	-8.265534077045842	3471649
+3473455	AI	projection of undirected and non-positional graphs using self organizing maps	2009	-2.2182293561719044	-8.335073903372882	3473482
+3478009	NLP	classification using hierarchical mixture of discriminative learners: how to achieve high scores with few resources?	2018	-1.8701454565449882	-8.768271640409527	3478036
+3479235	ML	two stage decision system	2012	-1.7772693465190306	-8.16065670344745	3479262
+3486372	Robotics	speech emotion recognition with skew-robust neural networks	2017	-1.7224118499976144	-8.831212877302512	3486399
+3486705	AI	a maximum k-min approach for classification	2013	-2.1526442808808124	-8.801500330555498	3486732
+3486721	ML	pursuing the best ecoc dimension for multiclass problems	2007	-2.172553519756661	-8.155209094527738	3486748
+3488632	ML	information theoretic feature selection in multi-label data through composite likelihood	2014	-1.9880243632715	-8.820987517125127	3488659
+3492033	Vision	ensembles of region based classifiers	2007	-1.5539402419106896	-7.895429832217388	3492060
+3493613	ML	logistic online learning methods and their application to incremental dependency parsing	2007	-1.8674834022444171	-8.376443876293756	3493640
+3494384	ML	o-ipcac and its application to eeg classification	2010	-1.941016709854028	-8.145665392388862	3494411
+3496046	ML	training conditional random fields by periodic step size adaptation for large-scale text mining	2007	-1.8790435324057395	-8.26774717024796	3496073
+3497178	ML	border sampling through coupling markov chain monte carlo	2008	-1.438204314985126	-8.427723676255923	3497205
+3502930	ML	progressive refinement for support vector machines	2009	-1.954020555478149	-8.053795463064933	3502957
+3503254	ML	complex decomposition of the negative distance kernel	2015	-2.267617424139988	-8.393652838014804	3503281
+3503639	AI	auc dominant unsupervised ensemble of binary classifiers	2014	-1.9193646302680984	-8.34933434944184	3503666
+3506324	ML	bayesian networks as ensemble of classifiers	2002	-1.9188692326949668	-8.828628549577951	3506351
+3506339	Vision	iterative diffusion-based anomaly detection	2017	-2.3889605093926085	-8.125687351441519	3506366
+3506565	ML	multi-class transductive classification based on local learning and adjustable class label representation	2012	-2.273900942267852	-8.661739842023946	3506592
+3506970	ML	accelerated online learning for collaborative filtering and recommender systems	2014	-1.9776363587901031	-8.72726663765934	3506997
+3509868	Vision	feature relevance for kernel logistic regression and application to action classification	2014	-1.726552993658095	-8.400600768501281	3509895
+3510652	ML	an improved multiclass support vector machine classifier using reduced hyper-plane with skewed binary tree	2018	-1.898886376050828	-8.275419752600978	3510679
+3512069	AI	ensembles of one class support vector machines	2009	-1.931544297455947	-8.121882462071097	3512096
+3512339	AI	svm-based multi-state-mapping approach for multi-class classification	2017	-2.078183582465789	-8.188573183261775	3512366
+3515448	ML	land evaluation based on semi-supervised learning algorithm	2007	-2.3246504763057443	-8.043747239670148	3515475
+3519017	Robotics	an empirical study of using rotation forest to improve regressors	2008	-1.8011552585963828	-7.928984319888373	3519044
+3519505	ML	multiclass support vector machines using balanced dichotomization	2004	-2.128783739888675	-8.106117239643682	3519532
+3521091	ML	logistic regression with an auxiliary data source	2005	-2.069615088738541	-8.69858585610933	3521118
+3522359	HCI	adaptive, hubness-aware nearest neighbour classifier with application to hyperspectral data	2018	-1.769830614569592	-8.275139379946879	3522386
+3523499	Vision	improved facial expression recognition via uni-hyperplane classification	2012	-1.983781311186615	-8.064902113466816	3523526
+3525385	ML	learning with positive and unlabeled examples using weighted logistic regression	2003	-1.6455040575959456	-8.828258309324614	3525412
+3525871	ML	support vector machine-based classification of rock texture images aided by efficient feature selection	2012	-1.6569787338534092	-7.976717164277929	3525898
+3526456	ML	comparison of adaboost and adtboost for feature subset selection	2008	-1.8244687964663044	-8.092320828078336	3526483
+3527798	ML	tratamiento del desbalance en problemas con múltiples clases con ecoc	2013	-1.4461036998991856	-7.904560887544434	3527825
+3529082	ML	feature selection by nonparametric bayes error minimization	2008	-2.053368145919745	-8.258648337179753	3529109
+3531257	HPC	cascade support vector machines with dimensionality reduction	2015	-2.315966685223529	-8.65240756533067	3531284
+3531507	ML	exploiting code redundancies in ecoc	2010	-1.4748797119409054	-8.024397800169613	3531534
+3532832	ML	multi-class boosting for imbalanced data	2015	-1.5298795972268644	-8.199464078961487	3532859
+3533043	Vision	auto-weighted 2-dimensional maximum margin criterion	2018	-1.8474165570164824	-7.941830850201996	3533070
+3533078	ML	bayesian multiple imputation approaches for one-class classification	2012	-1.5298211756526758	-8.304866971788751	3533105
+3533946	AI	multi-label classification method based on extreme learning machines	2014	-1.5699467059453722	-8.802348666105424	3533973
+3534438	ML	weighted classifier ensemble based on quadratic form	2015	-2.365276811685627	-7.894444399726577	3534465
+3536100	ML	local reject option for deterministic multi-class svm	2016	-1.7912609789675793	-8.00022512863764	3536127
+3540654	AI	boosted decision tree for q-matrix refinement	2016	-1.4404602855670716	-8.352807933133397	3540681
+3542226	Vision	on selecting effective patterns for fast support vector regression training	2018	-2.272585586742806	-8.510634756892678	3542253
+3544166	AI	dynamic integration with random forests	2006	-1.5881897035234451	-8.028676898405044	3544193
+3547191	HPC	efficient implementation of gaussian mixture models using vote count circuit	2014	-2.2210050565083064	-8.07782383106877	3547218
+3547223	AI	efficient online model adaptation by incremental simplex tableau	2017	-1.9885859385545008	-8.638461451997863	3547250
+3549580	ML	active learning for classification with maximum model change	2017	-1.5348004042861774	-8.275527621524846	3549607
+3549699	ML	support vector machine networks for multi-class classification	2005	-2.1197623167720807	-8.281589810677017	3549726
+3550202	Vision	functional learning of kernels for information fusion purposes	2008	-1.8262767021192008	-8.30487907846429	3550229
+3550995	AI	kernel-based fuzzy clustering and fuzzy clustering: a comparative experimental study	2010	-1.526736538760252	-7.966561308432404	3551022
+3551994	ML	classification of anti-learnable biological and synthetic data	2007	-1.7339137075349065	-8.172377482326677	3552021
+3554966	ML	random feature subset selection for ensemble based classification of data with missing features	2007	-1.4523680205101712	-8.278651433342487	3554993
+3555501	AI	incremental laplacian regularization extreme learning machine for online learning	2017	-2.30294680106702	-8.550487966176716	3555528
+3555502	ML	local support vector machine based on cooperative clustering for very large-scale dataset	2012	-1.6129692975348562	-8.414254379038411	3555529
+3555554	Vision	cellnet co-ev: evolving better pattern recognizers using competitive co-evolution	2004	-1.8763077544970388	-7.9895069656486415	3555581
+3556287	ML	compositional noisy-logical learning	2009	-1.8068684367489616	-8.405187466239282	3556314
+3556875	ML	unsupervised decision forest for data clustering and density estimation	2015	-1.932768166305876	-8.803023879425988	3556902
+3558140	DB	the mean and median criteria for kernel bandwidth selection for support vector data description	2017	-1.9269276712955417	-8.278423221016713	3558167
+3558706	EDA	diagonal co-clustering algorithm for document-word partitioning	2015	-1.655675507333037	-8.155944024579245	3558733
+3558975	Visualization	multi-classes imbalanced dataset classification based on sample information	2015	-1.5042243670199782	-7.951803417180258	3559002
+3559612	ML	discriminative clustering via extreme learning machine	2015	-2.1578222594544707	-8.810672161054908	3559639
+3560834	ML	robust support vector machine	2014	-2.2242679427140053	-7.928712625919593	3560861
+3562181	ML	multiclass feature selection with kernel gram-matrix-based criteria	2012	-1.6473476027445206	-7.898898126724102	3562208
+3563347	AI	relative density based support vector machine	2015	-2.1842316564195423	-8.180799711821022	3563374
+3563679	ML	a new metric for dissimilarity data classification based on support vector machines optimization	2013	-1.9464330478679412	-7.901695619077095	3563706
+3566178	ML	learning with similarity functions: a novel design for the extreme learning machine	2017	-2.085128178308362	-8.77472868006946	3566205
+3572620	ML	learning using privileged information: sv m+ and weighted svm	2014	-1.7447823077416789	-8.604131564501813	3572647
+3574032	ML	a large scale clustering scheme for kernel k-means	2002	-2.008637957478281	-8.309967672125023	3574059
+3574648	ML	classifying patterns with missing values using multi-task learning perceptrons	2013	-1.8756924058673032	-8.069192939655956	3574675
+3575897	Vision	disagreement-based co-training	2011	-1.6212039845484538	-8.575411636711173	3575924
+3576548	ML	improving classification performance with focus on the complex areas	2010	-1.951061516701159	-8.018918485406944	3576575
+3577225	AI	tau-fpl: tolerance-constrained learning in linear time	2018	-1.8995904636748115	-8.013101743377732	3577252
+3577747	ML	transductive gaussian process regression with automatic model selection	2006	-1.7260807015621755	-8.586874558306492	3577774
+3578949	Robotics	ensemble learning of regional classifiers	2008	-1.598145716008153	-8.145619603650294	3578976
+3580000	AI	progressive subspace ensemble learning	2016	-2.134447506303802	-8.622015711957122	3580027
+3581111	ML	cranking: combining rankings using conditional probability models on permutations	2002	-1.5416872807528246	-8.090666615390804	3581138
+3582417	AI	an overview of unsupervised and semi-supervised fuzzy kernel clustering	2013	-2.052538894864413	-8.282952799335499	3582444
+3582448	DB	missing data treatment methods and nbi model	2006	-1.4324069296624014	-8.059849524699551	3582475
+3584584	ML	an incremental feature learning algorithm based on least square support vector machine	2008	-1.9423971465312304	-8.280132954356338	3584611
+3589425	ML	recent trends in classification of remote sensing data: active and semisupervised machine learning paradigms	2010	-1.5046788025769606	-8.583466594270362	3589452
+3592676	ML	multichannel data aggregation by layers of formal neurons	2006	-2.1393593235088293	-8.160939919704889	3592703
+3593214	ML	model selection based product kernel learning for regression on graphs	2013	-1.6147909117857933	-8.752632343841883	3593241
+3594878	ML	an adaptive nearest neighbor classification algorithm for data streams	2005	-2.151713570345028	-8.002973067203767	3594905
+3595612	ML	a variance reduction framework for stable feature selection	2010	-1.9067652533237291	-8.155187189679065	3595639
+3597791	AI	recoding error-correcting output codes	2009	-2.1012052358419053	-8.02089160753345	3597818
+3602540	DB	fast on-line kernel learning for trees	2006	-1.8202473009221445	-8.41160433272474	3602567
+3608448	ML	comparison of optimized backpropagation algorithms	1993	-1.7132696866613584	-8.546312222592139	3608475
+3608679	AI	hyperparameter selection of one-class support vector machine by self-adaptive data shifting	2018	-1.9141064417643507	-8.164950661730451	3608706
+3608906	AI	bayesian network approach to multinomial parameter learning using data and expert judgments	2014	-1.6745996353982733	-8.460788114042165	3608933
+3608998	AI	selecting samples and features for svm based on neighborhood model	2007	-1.6897563753589702	-8.42278213483867	3609025
+3610332	ML	training invariant support vector machines	2002	-1.774743755339595	-8.11039231385085	3610359
+3610989	AI	improving matrix factorization-based recommender via ensemble methods	2011	-1.6105577146476944	-8.322384021895264	3611016
+3611915	Vision	semi-supervised deep rule-based approach for image classification	2018	-1.819041015680804	-8.42189600098366	3611942
+3612592	AI	a stratified feature ranking method for supervised feature selection	2018	-1.9388935389096493	-8.72017533933725	3612619
+3612852	AI	eigenvalue sensitive feature selection	2011	-1.6726476673207875	-8.757782107817455	3612879
+3613269	AI	exploiting label dependencies for improved sample complexity	2012	-1.7736775513703862	-8.573978601144212	3613296
+3613386	ML	gated boosting: efficient classifier boosting and combining	2012	-1.897684851558963	-8.091844826181491	3613413
+3614500	Vision	building an ensemble classifier using ensemble margin. application to image classification	2017	-1.7256761334933834	-8.394911425990559	3614527
+3615984	ML	active learning for penalized logistic regression via sequential experimental design	2017	-1.6414042048409565	-8.836306331863746	3616011
+3619370	Robotics	bagging one-class decision trees	2008	-1.5378792582194505	-8.010652508576069	3619397
+3619488	ML	gp-svm: tree structured multiclass svm with greedy partitioning	2015	-1.865421748015476	-8.227824298750987	3619515
+3621614	AI	timeliness online regularized extreme learning machine	2018	-1.6455460323375135	-8.143086371284241	3621641
+3623578	NLP	redundant feature elimination by using approximate markov blanket based on discriminative contribution	2011	-1.4649180139611209	-8.798103269035733	3623605
+3625417	Vision	novel adaptive nearest neighbor classifiers based on hit-distance	2006	-2.032627954595637	-7.912027876622084	3625444
+3626758	Web+IR	a correction method of a binary classifier applied to multi-label pairwise models	2018	-1.6530578393633992	-8.524340520490918	3626785
+3629095	Vision	imbalance and concentration in k-nn classification	2010	-1.7209852071291236	-8.193472058458662	3629122
+3630325	AI	structural extension to logistic regression: discriminative parameter learning of belief net classifiers	2002	-1.6519662198484837	-8.067055465142785	3630352
+3630893	DB	constructing high dimensional feature space for time series classification	2007	-2.211753325912455	-8.403055255709576	3630920
+3632093	Robotics	a sample selection algorithm based on maximum entropy and contribution	2010	-1.550095166682913	-7.901907719076606	3632120
+3632691	ML	sentiment classification with support vector machines and multiple kernel functions	2009	-2.2020174165965387	-8.496373762842985	3632718
+3637932	ML	a generic model of multi-class support vector machine	2012	-1.6909262701004082	-8.263776762631503	3637959
+3640976	Web+IR	fast learning of document ranking functions with the committee perceptron	2008	-1.5475771817894024	-8.283181548764658	3641003
+3641348	Vision	dynamic cascades for face detection	2007	-1.9752376822946995	-8.693568046986888	3641375
+3642676	NLP	accuracy and diversity in ensembles of text categorisers	2005	-1.8568119807282264	-8.15071897658596	3642703
+3643327	ML	embedding random projections in regularized gradient boosting machines	2011	-2.2266262762920763	-8.818160998730898	3643354
+3646750	Vision	mode-seeking by medoidshifts	2007	-1.8586400524815618	-8.445870520437143	3646777
+3648300	AI	dart: dropouts meet multiple additive regression trees	2015	-2.1649997956082183	-8.843776330734796	3648327
+3655324	Vision	making a shallow network deep: conversion of a boosting classifier into a decision tree by boolean optimisation	2011	-1.927948172852032	-8.42725848320248	3655351
+3657349	ML	class-switching neural network ensembles	2008	-1.6674384359537435	-8.047907739084613	3657376
+3658484	AI	missing value imputation with unsupervised backpropagation	2016	-1.502887504680942	-7.91595593181782	3658511
+3660281	AI	model metric co-learning for time series classification	2015	-2.2319099560487987	-8.659951874712517	3660308
+3661943	ML	f-measure as the error function to train neural networks	2013	-1.5510840910814707	-8.45346314373721	3661970
+3662771	Vision	radius-distance based semi-supervised algorithm	2009	-1.4872376905915476	-8.413286613195389	3662798
+3663430	NLP	an improved possibilistic c-means algorithm based on kernel methods	2006	-2.200048713040123	-8.06151494195464	3663457
+3664042	ML	a boosting algorithm for label covering in multilabel problems	2007	-2.1105928340715288	-7.9811327894239215	3664069
+3666212	ML	measures of distortion for machine learning	2018	-2.244277334963749	-8.283651465844734	3666239
+3668730	AI	k-farthest-neighbors-based concept boundary determination for support vector data description	2010	-1.7578199187682528	-8.258993148217371	3668757
+3669034	ML	discriminative feature selection by nonparametric bayes error minimization	2012	-1.8755280506091172	-8.270686487593428	3669061
+3671572	ML	a parallel multi-class classification support vector machine based on sequential minimal optimization	2006	-2.0748667499688453	-7.941169300519264	3671599
+3676463	Vision	thresholded two-phase test sample representation for outlier rejection in biological recognition	2013	-2.2207477472511816	-8.588005330385101	3676490
+3678682	Robotics	fast svm incremental learning based on the convex hulls algorithm	2008	-2.368184485490982	-8.348445938318052	3678709
+3679266	ML	a novel kernel clustering method for svm training sample reduction	2018	-1.9491689305465516	-8.243494806819538	3679293
+3679821	ML	properties of incremental projection learning	2001	-1.4720108811250707	-8.826637872258571	3679848
+3682857	AI	incremental construction of classifier and discriminant ensembles	2009	-1.8061080126138025	-7.97948837957965	3682884
+3684149	Vision	a majority voting classifier with probabilistic guarantees	2015	-1.8285637188465644	-7.900685359534656	3684176
+3687236	ML	a novel hybrid neural network for data clustering.	2007	-1.8579517093964308	-8.419344008739799	3687263
+3691435	ML	a fast supervised method of feature ranking and selection for pattern classification	2009	-1.5637750353284603	-8.166576135179604	3691462
+3697057	ML	a practical and robust way to the optimization of parameters in rbf kernel-based one-class classification support vector methods	2009	-2.3642962505055567	-8.009835004874674	3697084
+3698209	ML	a feature selection methodology for steganalysis	2006	-1.6633520476771568	-8.236744927328102	3698236
+3699254	AI	improvement of learning algorithm for the multi-instance multi-label rbf neural networks trained with imbalanced samples	2013	-1.7129276537394993	-8.147606832714322	3699281
+3699257	ML	deterministic annealing for multiple-instance learning	2007	-2.377503419419784	-8.039722779597701	3699284
+3704133	ML	a fast multiclass classification algorithm based on cooperative clustering	2013	-1.7950412935342883	-8.172806815720318	3704160
+3704522	ML	online hashing	2013	-2.2028437319412504	-8.501407567357537	3704549
+3704632	ML	a volume-based heat-diffusion classifier	2009	-2.205309628754577	-8.214377059122873	3704659
+3705110	ML	ofsf-bc: online feature selection framework for binary classification	2016	-1.555975686351866	-8.417603332385111	3705137
+3708664	Vision	the use of lorentzian distance metric in classification problems	2016	-2.203711086970737	-7.976891108476522	3708691
+3710525	ML	locally multidimensional scaling by creating neighborhoods in diffusion maps	2014	-2.3356785719565973	-8.540333930484014	3710552
+3711300	AI	undirected cyclic graph based multiclass pair-wise classifier: classifier number reduction maintaining accuracy	2016	-1.7103300280764018	-8.134108980988396	3711327
+3711764	AI	cost-sensitive learning of classification knowledge and its applications in robotics	1993	-1.5377546213255635	-8.732421732639015	3711791
+3713664	AI	proximal svm ensemble based on feature selection	2006	-2.0976990766531656	-8.292620590061803	3713691
+3714927	Vision	a noise-detection based adaboost algorithm for mislabeled data	2012	-1.7456109086985838	-8.251126235720813	3714954
+3715692	Vision	classification of temporal sequences via prediction using the simple recurrent neural network	2000	-1.929779162349652	-8.480246487089214	3715719
+3721214	ML	embedded supervised feature selection for multi-class data	2017	-1.5590167980022391	-8.175972013984458	3721241
+3722509	Robotics	multi-label imbalanced data enrichment process in neural net classifier training	2008	-1.5823568093978408	-8.318289837464237	3722536
+3723713	ML	efficient online feature selection based on ℓ1-regularized logistic regression	2013	-1.8218747176439616	-8.233863464093657	3723740
+3724130	ML	semisupervised multicategory classification with imperfect model	2009	-2.315803212448715	-8.74961788110838	3724157
+3724194	ML	multiple ordinal regression by maximizing the sum of margins	2016	-2.0745495134386767	-8.13045727199528	3724221
+3725020	ML	sensitivity based generalization error for supervised learning problem with applications in model selection and feature selection	2009	-1.561613798514526	-8.115245579345633	3725047
+3726139	ML	information theoretic clustering of sparse co-occurrence data	2003	-2.1924784123556336	-8.461558549725241	3726166
+3728550	ML	random subspace ensembles for fmri classification	2010	-1.4714504388875744	-7.9263478497444595	3728577
+3729774	Vision	dictionary construction for sparse representation classification: a novel cluster-based approach	2014	-2.282101329935355	-8.834420416849968	3729801
+3732920	ML	local feature weighting for data classification	2017	-1.8735717996444767	-8.501436424071183	3732947
+3734354	Vision	online learning with bayesian classification trees	2016	-1.4358358189955545	-8.150850037459463	3734381
+3734463	ML	fast training of support vector classifiers	2000	-2.3728576058843878	-7.936066321272549	3734490
+3737074	ML	recursive feature extraction for ordinal regression	2007	-1.8412505712303064	-8.82215860730566	3737101
+3738305	ML	a survey of kernels for structured data	2003	-2.2502011198003866	-8.16176024586815	3738332
+3740774	ML	graph embedding-based ensemble learning for image clustering	2018	-1.4759493990813464	-8.724760602337549	3740801
+3741370	AI	a combination method for multi-class imbalanced data classification	2013	-1.5023255491679857	-8.08511276438457	3741397
+3742887	AI	dissimilarity representations allow for building good classifiers	2002	-1.5548563120313887	-7.935689387578797	3742914
+3749519	ML	multiple instance learning for computer aided diagnosis	2006	-1.8717176736570105	-8.540223918376805	3749546
+3750029	DB	mdltext: an efficient and lightweight text classifier	2017	-1.4337801715098781	-8.333653589084813	3750056
+3754558	AI	bayesian based classifier for mining image classes	2005	-2.3791860698608613	-7.906723620970851	3754585
+3755721	Vision	an online auc formulation for binary classification	2012	-2.2344434835970985	-7.934833443353115	3755748
+3755933	Vision	roc-like optimization by sample ranking: application to ct colonography	2012	-2.009091509103833	-8.698671617880917	3755960
+3756557	ML	adaptive boosting with leader based learners for classification of large handwritten data	2004	-1.5339873723659894	-8.002798431427632	3756584
+3758793	ML	dcsvm: fast multi-class classification using support vector machines	2018	-2.272741690461254	-8.040682373635683	3758820
+3760792	ML	boosting the minimum margin: lpboost vs. adaboost	2008	-2.189008948330262	-7.97772165563463	3760819
+3763224	PL	mlc toolbox: a matlab/octave library for multi-label classification	2017	-1.7237712208369338	-8.267946056339495	3763251
+3764039	Vision	using the h-divergence to prune probabilistic automata	2011	-1.583978538799956	-8.687382029530722	3764066
+3767460	ML	expected classification error of the euclidean linear classifier under sudden concept drift	2008	-1.8837907825065696	-7.908097261387888	3767487
+3768341	ML	one-class classification for anomaly detection in wire ropes with gaussian processes in a few lines of code	2011	-2.0410655680296177	-8.41372539144135	3768368
+3768976	AI	a mixtures-of-experts framework for multi-label classification	2014	-2.0087329944506593	-8.704667398701616	3769003
+3771876	Vision	analysis of galactic spectra using active instance-based learning and domain knowledge	2004	-1.8969889683820171	-8.124062089807111	3771903
+3772215	ML	rotation-based ensembles	2003	-1.7720680041201178	-7.914051088660588	3772242
+3772638	ML	online classification via self-organizing space partitioning	2016	-1.9033302559669407	-8.159495154558346	3772665
+3774744	ML	rpc: an efficient classifier ensemble using random projections	2015	-2.16913281545164	-8.799652969357346	3774771
+3778160	ML	extreme learning machine for ranking: generalization analysis and applications	2014	-1.6813168287101452	-8.842538457394811	3778187
+3780006	ML	dip-svm : distribution preserving kernel support vector machine for big data	2017	-2.1238231810801325	-8.355022573140246	3780033
+3781671	Vision	heterogeneous ensemble of classifiers for sub-cellular image classification based on local ternary patterns	2013	-1.6055383513107404	-8.335871584686947	3781698
+3783879	ML	regularization based ordering for ensemble pruning	2011	-1.592481934449134	-7.951285331714043	3783906
+3784107	Theory	alternative approaches in multi-label neutral zone classification problems	2012	-1.8147090040468996	-7.961457880661558	3784134
+3787167	Web+IR	universal approximation functions for fast learning to rank	2018	-1.7091952756232134	-8.718087538909526	3787194
+3790037	ML	statistical discretization of continuous attributes using kolmogorov-smirnov test	2018	-1.9606649144108288	-7.899285529567702	3790064
+3792913	Vision	incremental kernel null space discriminant analysis for novelty detection	2017	-2.323360799153381	-8.71057866461308	3792940
+3793581	ML	al-elm: one uncertainty-based active learning algorithm using extreme learning machine	2015	-2.3926259353267842	-7.922040911205173	3793608
+3795048	NLP	instance selection in text classification using the silhouette coefficient measure	2011	-1.5322597272862144	-8.269956347220008	3795075
+3796941	Vision	two-stage incremental working set selection for fast support vector training on large datasets	2008	-1.929673664838016	-8.106335403328035	3796968
+3799990	Vision	tracking concept change with incremental boosting by minimization of the evolving exponential loss	2011	-1.8343113249638199	-8.488441684528594	3800017
+3804225	ML	completely lazy learning	2010	-2.275130160127604	-7.994146085330875	3804252
+3804228	ML	multicategory classification via discrete support vector machines	2009	-2.1824560834675464	-8.02267659181638	3804255
+3805060	ML	constructing support vector machine ensemble with segmentation for imbalanced datasets	2012	-1.656377511757776	-7.912463451511606	3805087
+3805735	Robotics	separability of ternary error-correcting output codes	2008	-2.2262266887616393	-8.274008060717456	3805762
+3807111	AI	kernel ridge regression for out-of-sample mapping in supervised manifold learning	2012	-2.3491577221663	-8.808606406269869	3807138
+3811851	ML	a family of large margin linear classifiers and its application in dynamic environments	2009	-1.7864757336253319	-8.540471710526852	3811878
+3811860	Robotics	a new algorithm for imbalanced datasets in presence of outliers and noise	2012	-1.7599036742742429	-8.29449801331559	3811887
+3812879	ML	multiple kernel learning on the limit order book	2010	-2.021023436023861	-7.995284285961617	3812906
+3813378	ML	feature and classifier selection in class decision trees	2008	-1.656266114907434	-7.985126871902146	3813405
+3816368	AI	combining ranking with traditional methods for ordinal class imbalance	2017	-1.715077509801992	-7.971482427220183	3816395
+3819017	ML	extreme learning machines for visualization+r: mastering visualization with target variables	2017	-2.1450277532319246	-8.578416114102483	3819044
+3819312	ML	email classification using semantic feature space	2008	-2.2047811047125228	-8.369219599582589	3819339
+3819930	NLP	bayes neutral zone classification in unsupervised and semi-supervised settings	2012	-1.5810621619031724	-7.946632956181338	3819957
+3822206	ML	hi-rf: incremental learning random forest for large-scale multi-class data classification	2016	-1.5304766926231983	-8.486323599641748	3822233
+3823238	Vision	lrid: a new metric of multi-class imbalance degree based on likelihood-ratio test	2018	-1.5780775777256462	-8.062826175241142	3823265
+3824820	Vision	fast adaboost training using weighted novelty selection	2011	-1.6129474152717531	-8.656703485062824	3824847
+3825761	Robotics	diversity-induced weighted classifier ensemble learning	2017	-1.8386316470845108	-8.166420706383274	3825788
+3826797	Theory	a classification algorithm based on geometric and statistical information	2015	-2.2136357270903746	-8.097114591578986	3826824
+3831538	ML	domain adaptation: overfitting and small sample statistics	2011	-1.8287256537154628	-8.702568085721605	3831565
+3832310	ML	cluster based training for scaling non-linear support vector machines	2007	-2.0329509561775536	-8.162591221008567	3832337
+3833783	ML	online boosting algorithms for multi-label ranking	2018	-1.8259802708661916	-8.559636311811397	3833810
+3834146	ML	empirical evaluation of a new structure for adaboost	2008	-1.6227938486478464	-8.174327967429958	3834173
+3835210	AI	similarity-based multi-label learning	2018	-1.5861948684732368	-8.7897847461173	3835237
+3836250	AI	large symmetric margin instance selection algorithm	2016	-1.7457436122471954	-7.940249299365878	3836277
+3836726	AI	evolutionary feature subspaces generation for ensemble classification	2018	-1.475622041559144	-8.618860386043327	3836753
+3837651	Mobile	improving the performance of classifiers in high-dimensional remote sensing applications: an adaptive resampling strategy for error-prone exemplars (aresepe)	2003	-2.359792167088077	-8.126905674313878	3837678
+3838155	ML	not so naive bayes: aggregating one-dependence estimators	2005	-2.2385731649970206	-7.916169485860545	3838182
+3838370	HCI	reducing variance of committee prediction with resampling techniques	1996	-1.45688393948892	-7.9227763007941165	3838397
+3838391	ML	recursive random forests enable better predictive performance and model interpretation than variable selection by lasso	2015	-1.5292365733950186	-7.928387257671263	3838418
+3838620	ML	the huller: a simple and efficient online svm	2005	-2.0071683035803725	-8.093917093776339	3838647
+3839600	AI	adaptive subgradient methods for online auc maximization	2016	-1.930844790187515	-8.669392261171378	3839627
+3840641	AI	making an accurate classifier ensemble by voting on classifications from imputed learning sets	2009	-1.5745933197602398	-8.12466840282436	3840668
+3842041	ML	a new neural dynamic classification algorithm	2017	-1.7342061699908238	-8.16837224285204	3842068
+3850038	ML	bagging and the random subspace method for redundant feature spaces	2001	-1.9022455963283085	-8.137914584461747	3850065
+3852533	Vision	spectral clustering trough topological learning for large datasets	2015	-2.1243952509606663	-8.786480126290092	3852560
+3853973	AI	regularizing multiple kernel learning using response surface methodology	2011	-1.88088193754594	-8.092985136008013	3854000
+3855178	ML	designing an ensemble classifier over subspace classifiers using iterative convergence routine	2011	-1.4927720674835068	-8.38198775449528	3855205
+3855819	AI	rotation based ensemble of one-class support vector machines	2018	-1.8487902549447224	-8.333783915177886	3855846
+3860872	ML	em-dd: an improved multiple-instance learning technique	2001	-1.841025012799738	-8.284534298040983	3860899
+3863333	ML	takagi–sugeno–kang transfer learning fuzzy logic system for the adaptive recognition of epileptic electroencephalogram signals	2016	-2.1157137889678754	-8.295468947628676	3863360
+3865535	AI	new semi-supervised classification method based on modified cluster assumption	2012	-1.921752537303012	-8.81060178463069	3865562
+3865602	ML	submodularity in data subset selection and active learning	2015	-2.262839387422333	-8.68368882140138	3865629
+3866418	ML	enhanced perceptrons using contrastive biclusters	2016	-1.4678738983942423	-8.323928659258	3866445
+3871333	ML	the use of k-means++ for approximate spectral clustering of large datasets	2014	-2.354935157260141	-8.813273343693476	3871360
+3873414	ML	a novel metric for redundant gene elimination based on discriminative contribution	2008	-1.6675901118245993	-8.799844187878238	3873441
+3874277	ML	inverse extreme learning machine for learning with label proportions	2017	-1.6488549727487618	-8.645256285561889	3874304
+3874386	Vision	an approach of multiple classifiers ensemble based on feature selection	2008	-1.4645930228047253	-7.977049170912207	3874413
+3874631	ML	auc maximizing support vector machines with feature selection	2011	-2.3323362822722724	-8.026973107750585	3874658
+3874673	ML	feature weight estimation for gene selection: a local hyperlinear learning approach	2013	-1.591500496328741	-8.71452555622816	3874700
+3875458	Vision	feature selection for face recognition based on data partitioning	2002	-1.590633177506498	-8.105955281376472	3875485
+3875704	AI	interactive knowledge-based kernel pca	2014	-2.3841164936319226	-8.618455121616876	3875731
+3876295	Logic	support vector approaches for engine knock detection	1999	-1.9174316808376284	-8.069427578725566	3876322
+3879130	ML	how to make adaboost.m1 work for weak base classifiers by changing only one line of the code	2002	-1.7036313920865969	-8.031978159119602	3879157
+3883857	ML	clustering-based extraction of border training patterns for accurate svm classification of hyperspectral images	2009	-2.2451011279115978	-8.596734025288026	3883884
+3883984	ML	multiple kernel clustering	2009	-1.8791769251851416	-8.651159633153682	3884011
+3884113	AI	multiple- instance learning with empirical estimation guided instance selection	2018	-1.5537593959617042	-8.380164963506534	3884140
+3884378	Crypto	properties of object-level cross-validation schemes for symmetric pair-input data	2014	-1.800901588525882	-8.321001800611796	3884405
+3885112	ML	the one-against-all partition based binary tree support vector machine algorithms for multi-class classification	2013	-1.985496938693736	-8.067086693272222	3885139
+3887235	AI	cost-sensitive label embedding for multi-label classification	2017	-2.0046210262575586	-8.766958815104324	3887262
+3887704	AI	dynamic integration of classifiers in the space of principal components	2003	-1.5518862704131418	-8.267488149006152	3887731
+3890574	ML	improving active learning for one-class classification using dimensionality reduction	2017	-1.9970701022932489	-8.23247377269084	3890601
+3894023	ML	a new algorithm for eeg feature selection using mutual information	2001	-2.199156505788687	-8.154558419445463	3894050
+3896893	AI	pruning of error correcting output codes by optimization of accuracy–diversity trade off	2014	-1.52731630272427	-8.635509008798143	3896920
+3898286	ML	the use of deep learning features in a hierarchical classifier learned with the minimization of a non-greedy loss function that delays gratification	2015	-1.7140950939291648	-8.617403821420838	3898313
+3898535	Vision	improving multiclass pattern recognition by the combination of two strategies	2006	-1.7531186554896943	-7.984871073103122	3898562
+3898909	ML	maximin separation probability clustering	2015	-2.207365803710335	-8.21091316545239	3898936
+3900142	ML	agglomerative information bottleneck	1999	-1.7374422155158074	-8.300052754218104	3900169
+3900531	Vision	asymmetric constraint optimization based adaptive boosting for cascade face detector	2011	-2.125383636848237	-8.740986356593304	3900558
+3903651	ML	constraint relaxation, cost-sensitive learning and bagging for imbalanced classification problems with outliers	2017	-2.2997803427394032	-8.512743111374466	3903678
+3906114	NLP	incremental threshold learning for classifier selection	2012	-2.0585724718184824	-8.334901817701542	3906141
+3906304	ML	v-shaped interval insensitive loss for ordinal classification	2015	-2.1693092140144707	-8.684312618982489	3906331
+3906641	AI	automatic scale parameters in affinity matrix construction for improved spectral clustering	2016	-1.4284951543676587	-8.050674031500293	3906668
+3907729	AI	multi-label selective ensemble	2015	-1.4411279049618124	-8.201088305223232	3907756
+3907740	ML	mbbntree classifier algorithm based on active learning from unlabeled samples	2008	-1.5638813843694743	-8.64613386068191	3907767
+3914720	ML	multi-labeler classification using kernel representations and mixture of classifiers	2016	-1.929448537562972	-8.755687316602176	3914747
+3914728	ML	online bagging and boosting for imbalanced data streams	2016	-1.8401269406551184	-8.50208132607974	3914755
+3916087	Web+IR	a maximal figure-of-merit learning approach to text categorization	2003	-1.4821052263810928	-8.177652935519742	3916114
+3918422	ML	cross-validation optimization for large scale hierarchical classification kernel methods	2006	-2.0661826702584194	-8.022198461444987	3918449
+3921375	AI	learning classifier system using both labeled and unlabeled data	2010	-1.4575092930091489	-8.478300115123885	3921402
+3921726	ML	performance evaluation of pattern classifiers for handwritten character recognition	2002	-1.9915446097084173	-8.206783131091766	3921753
+3922328	ML	channel masking for multivariate time series shapelets	2017	-1.5624156305638492	-8.282550574538625	3922355
+3923835	NLP	efficient linearization of tree kernel functions	2009	-2.203363619427607	-8.671323827103189	3923862
+3923991	ML	using error-correcting codes for text classification	2000	-1.8918312213813842	-8.260629209941579	3924018
+3926084	DB	parallelized boosting with map-reduce	2010	-1.6693246451612551	-7.941482448857122	3926111
+3928063	Vision	on using prototype reduction schemes to enhance the computation of volume-based inter-class overlap measures	2009	-1.509219980507547	-7.8975476699787475	3928090
+3930243	ML	an improved random subspace method and its application to eeg signal classification	2007	-1.4668758866299914	-8.183508776623968	3930270
+3931636	ML	multiple distribution data description learning method for novelty detection	2011	-2.3288343154342033	-7.94558888514019	3931663
+3933648	ML	multiple incremental decremental learning of support vector machines	2009	-1.9484838282490011	-8.326119974682076	3933675
+3934752	DB	a similarity-based learning algorithm using distance transformation	2015	-1.7286273157807932	-8.191823344065368	3934779
+3936074	Vision	logistic boosting regression for label distribution learning	2016	-2.2114623689342765	-8.727014078981764	3936101
+3938611	ML	svdd-based method for fast training of multi-class support vector classifier	2006	-1.967305491338191	-8.177518952032626	3938638
+3940322	ML	domain adaptation–can quantity compensate for quality?	2012	-2.0682965032348437	-8.232945183957378	3940349
+3940639	ML	linear and kernel classification: when to use which?	2016	-1.67067003962789	-8.217452227040978	3940666
+3941430	Vision	ensemble of subset of k-nearest neighbours models for class membership probability estimation	2014	-1.5506774339363143	-7.952755233880521	3941457
+3942257	AI	online ranking/collaborative filtering using the perceptron algorithm	2003	-2.2015675647175525	-8.312388859406969	3942284
+3942731	Vision	fs_sfs: a novel feature selection method for support vector machines	2006	-2.3279109228356805	-8.627369921915028	3942758
+3943522	AI	ensembles of biased classifiers	2005	-1.4687385894020406	-7.926909492174349	3943549
+3943828	ML	outlier detection with autoencoder ensembles	2017	-1.5963853858049242	-8.476184216778982	3943855
+3944876	Robotics	enhancing difficult classes in one-vs-one classifier fusion strategy using restricted equivalence functions	2014	-1.6318324953989625	-7.925655533110218	3944903
+3945223	ML	gng-svm framework - classifying large datasets with support vector machines using growing neural gas	2009	-1.9235528257484096	-7.893933569432098	3945250
+3946092	Robotics	improving boosting performance with a local combination of learners	2010	-1.6835517827044022	-8.071582406004088	3946119
+3947656	ML	future directions in learning to rank	2011	-2.234157890295376	-8.549409043917516	3947683
+3949459	ML	online auc maximization	2011	-1.7035913339515505	-8.394820538904092	3949486
+3949699	ML	in defense of one-vs-all classification	2004	-1.4682705948966794	-8.257233359680814	3949726
+3950159	ML	a mapreduce-based distributed svm for scalable data type classification	2016	-1.962286698003377	-8.117539802328155	3950186
+3950902	DB	learning in the class imbalance problem when costs are unknown for errors and rejects	2012	-1.6523993557510637	-8.053148873974601	3950929
+3953639	ML	boosting in linear discriminant analysis	2000	-1.4693694116354368	-8.033187735747836	3953666
+3953872	AI	creating diversity in ensembles using synthetic neighborhoods of training samples	2017	-1.6071422935135051	-8.069571038088256	3953899
+3954434	AI	instance based random forest with rotated feature space	2013	-1.7487156963699015	-7.952229724116977	3954461
+3954599	ML	feature selection for support vector machines	2000	-2.068707876804328	-8.190896865660752	3954626
+3954944	ML	stochastic k-neighborhood selection for supervised and unsupervised learning	2013	-2.0874833739127805	-8.708320482838888	3954971
+3955881	ML	active learning with partially labeled data via bias reduction	2005	-1.6073062092600965	-8.412540749937754	3955908
+3957738	AI	universal consistency and robustness of localized support vector machines	2018	-1.8718005021326245	-8.168375334201926	3957765
+3959511	Vision	multiple classifier systems for embedded string patterns	2006	-1.454251479595365	-8.298160917142122	3959538
+3963092	ML	efficient pairwise classification using local cross off strategy	2012	-1.9390324237073069	-8.70819161375931	3963119
+3964588	ML	an improved cluster labeling method for support vector clustering	2005	-2.0464017335505367	-8.179744058516485	3964615
+3964698	ML	experimental comparisons of online and batch versions of bagging and boosting	2001	-1.8461804379245108	-8.229369549841369	3964725
+3965021	ML	identifying and handling mislabelled instances	2004	-1.5136812415028038	-7.938426041709576	3965048
+3966361	ML	extended margin and soft balanced strategies in active learning	2018	-1.4391848970751446	-8.688232911142325	3966388
+3968537	Vision	negative samples analysis in relevance feedback	2007	-1.8542946280192396	-8.791109708356894	3968564
+3969509	DB	k-nearest neighbors algorithm based on weak bit implementation on enhanced vote count circuit	2015	-1.4661835515489758	-8.125217771983731	3969536
+3970584	ML	improving class probability estimates for imbalanced data	2013	-1.6319678913061568	-8.039189016182215	3970611
+3975440	AI	fuzzy kernel stochastic gradient descent machines	2016	-1.7929671933956477	-8.266111254171193	3975467
+3976118	ML	active learning via transductive experimental design	2006	-1.7615076516748454	-8.797403421121341	3976145
+3978182	ML	weighted conditional mutual information based boosting for classification of imbalanced datasets	2012	-1.848622781579048	-8.620316751439114	3978209
+3978930	Vision	radial basis function neural network with incremental learning for face recognition	2011	-2.08738224840134	-8.535633738582247	3978957
+3979168	AI	learning with deep cascades	2015	-2.329686280731701	-8.098940386538018	3979195
+3979930	ML	advanced active sampling for remote sensing image classification	2010	-1.9906299881439093	-8.026058806198991	3979957
+3980991	ML	improved knn rule for small training sets	2014	-1.5659518519949265	-8.060313974953502	3981018
+3984291	ML	a novel multiple instance learning method based on extreme learning machine	2015	-1.8015384761103348	-8.722395999360414	3984318
+3986092	ML	a novel prototype reduction method for the k-nearest neighbor algorithm with k >= 1	2010	-1.7522352553160758	-8.101789368998213	3986119
+3988876	ML	pattern classification using support vector machine ensemble	2002	-1.879295475063416	-7.92827101370123	3988903
+3993948	HPC	the effect of attribute scaling on the performance of support vector machines	2004	-2.020926921071839	-8.075972705339383	3993975
+3999518	AI	ensemble random-subset svm	2011	-1.9729996886054653	-8.166675420860912	3999545
+3999816	ML	combining pairwise classifiers with stacking	2003	-1.7379025952202216	-8.013023900044582	3999843
+4001687	ML	distance metric learning for kernel machines	2012	-2.3909598401187204	-8.825909425932457	4001714
+4002686	AI	self-trained rotation forest for semi-supervised learning	2017	-1.4391480676355366	-8.334989876760371	4002713
+4002863	ML	efficient large margin semisupervised learning	2007	-2.164990239452273	-8.612516170069112	4002890
+4004809	ML	investigating multiobjective methods in multitask classification	2018	-1.5259998091586195	-8.659012277554895	4004836
+4006812	AI	a novel hybrid system for large-scale chinese text classification problem	2008	-1.5561462694774015	-8.336246173530741	4006839
+4007988	AI	semi-supervised and active learning with the probabilistic rbf classifier	2008	-2.099110691372	-8.157978218186049	4008015
+4009559	ML	online feature selection of class imbalance via pa algorithm	2016	-1.7132887447514336	-8.684322772109319	4009586
+4009629	AI	multi-target regression via input space expansion: treating targets as inputs	2016	-1.5444890103419735	-8.313977682937631	4009656
+4012286	ML	an experimental evaluation of pairwise adaptive support vector machines	2012	-2.1325793298358584	-7.968368388712755	4012313
+4013764	Vision	simpler non-parametric methods provide as good or better results to multiple-instance learning	2015	-2.0509350753669384	-8.64651889182862	4013791
+4014635	Vision	automatic instance selection via locality constrained sparse representation for missing value estimation	2015	-1.8375795404844013	-8.650529795671616	4014662
+4016543	ML	a smoothed boosting algorithm using probabilistic output codes	2005	-2.0202307748456843	-8.525992296961693	4016570
+4019938	ML	minimally-sized balanced decomposition schemes for multi-class classification	2011	-2.1487022972759	-8.056196076181841	4019965
+4022432	ML	discriminatively learning selective averaged one-dependence estimators based on cross-entropy method	2006	-1.8216704424588528	-7.8940191845650975	4022459
+4023481	ML	a hierarchical multiclass support vector machine incorporated with holistic triple learning units	2011	-2.251475463966543	-8.36765570886583	4023508
+4024020	Vision	training tsvm with the proper number of positive samples	2005	-1.759615723103519	-8.49404693065684	4024047
+4026538	Robotics	sub-classifier construction for error correcting output code using minimum weight perfect matching	2014	-2.0286047371233193	-8.355527288932668	4026565
+4026937	ML	resp-knn: a probabilistic k-nearest neighbor classifier for sparsely labeled data	2016	-1.9484486483017165	-8.7340482511568	4026964
+4027244	ML	feature-discovering approximate value iteration methods	2005	-1.8749815566501689	-7.9778217194052194	4027271
+4027873	ML	emphasizing minority class in lda for feature subset selection on high-dimensional small-sized problems	2015	-1.7357673726421632	-8.517778890200391	4027900
+4028064	ML	learning with sequential minimal transductive support vector machine	2009	-1.821534734567125	-8.419327727365044	4028091
+4031512	ML	using kernel basis with relevance vector machine for feature selection	2009	-2.268834905660749	-8.07158804857439	4031539
+4031846	AI	instance categorization by support vector machines to adjust weights in adaboost for imbalanced data classification	2017	-1.5936662151902332	-8.287607369054601	4031873
+4032941	AI	feature-subspace aggregating: ensembles for stable and unstable learners	2010	-1.4759926029882948	-8.21109467397488	4032968
+4042076	Web+IR	analysis of generalization ability for different adaboost variants based on classification and regression trees	2015	-2.036001660381185	-8.433754043738595	4042103
+4042095	ML	adaptive graph construction for isomap manifold learning	2015	-2.334399121299226	-8.781336223865518	4042122
+4042415	ML	multiclass classification based on meta probability codes	2011	-2.1115704833676747	-8.487771862726618	4042442
+4043555	ML	classification with svm in lorentzian space	2017	-2.1757590297190426	-8.016822160861077	4043582
+4044435	ML	training support vector machine through redundant data reduction	2012	-1.9910017140128151	-8.263448747066795	4044462
+4044546	ML	classification of bioacoustic time series by training a decision fusion mapping.	2004	-2.345757796136725	-8.362658947970711	4044573
+4045055	ML	incremental classification with generalized eigenvalues	2007	-1.9647747747082145	-8.043350309612086	4045082
+4045212	ML	time series transductive classification on imbalanced data sets: an experimental study	2014	-2.174589928066192	-8.731920765950415	4045239
+4047052	ML	algorithm of partition based network boosting for imbalanced data classification	2010	-1.475590141916117	-8.304977644187298	4047079
+4051253	ML	combining different methods and numbers of weak decision trees	2002	-1.4766676199819142	-7.944830827476723	4051280
+4053232	AI	multi-class feature selection for texture classification	2006	-2.0219991887132807	-8.155532112325547	4053259
+4053849	Vision	an adaptive multi-level framework for forest species recognition	2015	-2.1410250921818146	-8.795511837230103	4053876
+4054938	Web+IR	improving simple collaborative filtering models using ensemble methods	2013	-1.4669375270195597	-8.534180436887032	4054965
+4057615	Vision	a robust classification procedure based on mixture classifiers and nonparametric weighted feature extraction	2002	-1.9331578049459983	-8.628570745780896	4057642
+4060164	NLP	an improved floatboost algorithm for naïve bayes text classification	2005	-1.740457657067379	-8.079848014889848	4060191
+4060390	AI	on boosting, tug of war, and lexicographic programming	2017	-1.8484843896685	-8.631432610771064	4060417
+4060839	Vision	a statistical approach for selecting discriminative features of spatial regions of interest	2007	-1.9548194449608511	-8.438875433530402	4060866
+4065506	Robotics	exploring auc boosting approach in multimodal biometrics score level fusion	2009	-2.0012883540256348	-8.595844177985006	4065533
+4066074	ML	active learning for regression with correlation matching and labeling error suppression	2016	-1.8029332219746517	-8.823984329425226	4066101
+4067107	NLP	reduced universal background model for speech recognition and identification system	2012	-2.38641259423555	-8.522040350561337	4067134
+4067521	Vision	a statistical approach for binary vectors modeling and clustering	2009	-1.6631347144503754	-8.187276586135441	4067548
+4069710	ML	learning rankings via convex hull separation	2005	-1.9238856367677364	-8.210584083706808	4069737
+4070284	Vision	segmentation of hyperspectral images via subtractive clustering and cluster validation using one-class support vector machines	2011	-2.2155939833474294	-8.645815301447348	4070311
+4070560	ML	fast classification for large data sets via random selection clustering and support vector machines	2012	-1.6044389773108874	-8.296437981760244	4070587
+4071647	Vision	image segmentation fusion using general ensemble clustering methods	2010	-1.8806457886520087	-7.979784077669993	4071674
+4072526	ML	order preserved cost-sensitive listwise approach in learning to rank	2010	-2.0084839599553788	-8.84010432526127	4072553
+4074426	Vision	addressing missing values in kernel-based multimodal biometric fusion using neutral point substitution	2010	-1.9428822316605592	-8.631311545582173	4074453
+4075341	ML	family discovery	1995	-1.8558197351056969	-8.243308059561624	4075368
+4077044	AI	decision-tree instance-space decomposition with grouped gain-ratio	2007	-1.4794919600052292	-7.892298425301268	4077071
+4077797	Vision	static field approach for pattern classification	2002	-2.0972190233919927	-8.026366681380521	4077824
+4078489	ML	support vector one-class classification for multiple-distribution data	2010	-2.1063676041889283	-8.668495664507088	4078516
+4079033	ML	improving classification by removing or relabeling mislabeled instances	2002	-1.5779305891002846	-7.9784800992590466	4079060
+4079899	ML	maximin affinity learning of image segmentation	2009	-1.5233413157964142	-8.574056748644493	4079926
+4081615	Vision	a comparison of multi-label feature selection methods using the random forest paradigm	2014	-1.4479183870661454	-8.161896451696677	4081642
+4082065	NLP	document classification using a finite mixture model	1997	-1.8467795700838765	-8.333872754851464	4082092
+4082453	Vision	a method of feature selection using contribution ratio based on boosting	2008	-1.7414855954414945	-8.766532868211671	4082480
+4084447	ML	stochastic margin-based structure learning of bayesian network classifiers	2013	-2.1910731377893358	-8.77663904682255	4084474
+4084822	AI	voting based weighted online sequential extreme learning machine for imbalance multi-class classification	2015	-1.4996444130899689	-8.298575144170417	4084849
+4085392	ML	density-based weighting multi-surface least squares classification with its applications	2012	-1.6987513305982973	-8.297766048771656	4085419
+4086928	AI	a feature set decomposition method for the construction of multi-classifier systems trained with high-dimensional data	2013	-1.5226612334391991	-8.23611857985633	4086955
+4089410	ML	multi-task neural networks for dealing with missing inputs	2007	-1.938281299589924	-8.052351801975673	4089437
+4091025	ML	decision functions from supervised machine learning algorithms as collective variables for accelerating molecular simulations	2018	-2.175518617168497	-8.61506178628885	4091052
+4091775	AI	a class-incremental learning method based on one class support vector machine	2018	-1.93166292210708	-8.153696484961143	4091802
+4097426	ML	classifier ensemble by semi-supervised learning: local aggregation methodology	2015	-1.7391708210342682	-8.772148464998018	4097453
+4097894	ML	density-induced support vector data description	2007	-1.9741121033896836	-8.017937502715919	4097921
+4098186	ML	estimating the generalization performance of an svm efficiently	2000	-2.2175922861137045	-7.956076009070642	4098213
+4100159	NLP	combining example selection with instance selection to speed up multiple-instance learning	2014	-1.4782782236372616	-8.402548284148065	4100186
+4101146	ML	selection of the suitable neighborhood size for the isomap algorithm	2007	-2.2723923775012813	-8.493720537012576	4101173
+4101288	ML	boosting the area under the roc curve	2007	-2.3464104915238084	-7.942146191190398	4101315
+4102388	Vision	generalized multiclass adaboost and its applications to multimedia classification	2006	-2.071796071573193	-8.231431697151084	4102415
+4102421	ML	locally adaptive classification piloted by uncertainty	2006	-1.8425587251455047	-8.13222001689671	4102448
+4102483	ML	support vector data description	2004	-2.3266371171353737	-7.948221841502787	4102510

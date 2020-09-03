@@ -1,0 +1,137 @@
+id	area	title	year	x	y	ix
+3923071	Theory	speeding up dynamic programming with applications to molecular biology	1989	-12.35445064222001	9.367281835284071	3923098
+3925581	Theory	the computational complexity of simultaneous diophantine approximation problems	1985	-12.238995181450546	8.823130157445638	3925608
+3928450	Theory	how good is the chord algorithm?	2010	-12.74215861424074	9.050349706485427	3928477
+3929714	Theory	three-clustering of points in the plane	1993	-12.655632105365276	8.682497589654973	3929741
+3932793	Theory	the most points connected-covering problem with two disks	2018	-12.511238474224859	9.358448422093211	3932820
+3934321	Theory	maximizing non-linear concave functions in fixed dimension	1992	-12.36485993433317	9.332987016742614	3934348
+3935578	Theory	the x-and-y-axes travelling salesman problem	2012	-12.829206116012573	8.598836820503383	3935605
+3939191	Theory	a random sampling based algorithm for learning the intersection of half-spaces	1997	-12.348231903357155	9.168179745500096	3939218
+3939414	Theory	new algorithms for k-center and extensions	2009	-12.422985792186694	8.70449980283025	3939441
+3939474	Theory	fully dynamic delauney triangulation in logarithmic expected time per operation	1991	-12.339037920405087	9.263225148915813	3939501
+3943363	ML	on quantile cuts and their closure for chance constrained optimization problems	2018	-12.116066701500142	8.604236076968995	3943390
+3944170	Theory	supermodels and closed sets	2000	-12.139232593683266	8.649260293043556	3944197
+3945755	Theory	structural properties of voronoi diagrams in facility location problems with continuous demand	2015	-12.42274884748646	9.266365930110807	3945782
+3949189	Theory	exact solutions and bounds for general art gallery problems	2012	-12.838195786682553	9.135736535364929	3949216
+3951600	Theory	the kinetic facility location problem	2008	-12.41199483491375	9.065511488095916	3951627
+3952646	Theory	interactive orthogonal graph drawing: algorithms and bounds	1997	-12.670852357352992	8.472715481317772	3952673
+3953066	ML	convex rank tests and semigraphoids	2009	-12.530691459109446	8.514007261456085	3953093
+3953846	Theory	covering a set of points in multidimensional space	1991	-13.026838106126005	9.274499372738196	3953873
+3954613	Vision	a comparison of two fully-dynamic delaunay triangulation methods	2009	-12.437699901335462	8.557437640853982	3954640
+3956597	Theory	the robot localization problem in two dimensions	1992	-12.85209466970336	8.660760872944913	3956624
+3958924	ML	subsampled power iteration: a unified algorithm for block models and planted csp's	2015	-12.090420272474963	9.186250941532355	3958951
+3959084	Theory	constructing planar cuttings in theory and practice	2000	-12.59642635703194	9.185829467643877	3959111
+3959186	Theory	an efficient algorithm for the euclidean two-center problem	1994	-12.876277033559846	8.849906876345601	3959213
+3961177	Theory	fast massively parallel algorithms for shortest path within planar figures	1996	-12.790562366286178	8.516829322079204	3961204
+3961270	Theory	algorithms for the computation of reduced convex hulls	2009	-13.016196552575668	8.509505978702395	3961297
+3961621	Theory	rectilinear line segment intersection, layered segment trees, and dynamization	1982	-12.47403222196176	9.175648420859195	3961648
+3963460	Theory	shortest paths among obstacles in the plane	1996	-12.822356074243741	8.93820802128228	3963487
+3963627	ML	information theoretical clustering is hard to approximate	2018	-12.322723684948931	9.204897574484797	3963654
+3964170	Theory	locality-sensitive hashing of curves	2017	-12.317844742037591	9.349819792552438	3964197
+3965046	Robotics	on fast planning of suboptimal paths amidst polygonal obstacles in plane	1995	-12.816320823413966	9.068394307559636	3965073
+3965223	Theory	an o (n2.5) algorithm for maximum matching in general graphs	1975	-12.399921006323455	9.208535787443392	3965250
+3965563	Theory	on inverse problems of optimum perfect matching	2003	-12.103084894779608	9.330311771974236	3965590
+3967213	Theory	on the uncapacitated plant location problem. ii: facets and lifting theorems	1983	-12.34825770282865	9.022388561020158	3967240
+3968325	AI	polyhedral combinatorics of the k-partitioning problem with representative variables	2016	-12.141138377736167	9.309254359215853	3968352
+3968717	Logic	upper bounds for heuristic approaches to the strip packing problem	2014	-12.221742259617475	9.093872039563047	3968744
+3969933	Theory	divide-and-conquer in multidimensional space	1976	-12.580802196151645	8.802761915685736	3969960
+3974074	Theory	efficient computation of query point visibility in polygons with holes	2005	-12.477814110438464	9.103339222101617	3974101
+3974868	Theory	on the fermat-weber center of a convex object	2005	-12.974040358610484	8.694426632881203	3974895
+3974943	Theory	minimum covering with travel cost	2009	-12.896376901268393	8.987284954436157	3974970
+3976773	Theory	simplifying massive planar subdivisions	2014	-12.692084182320436	8.572232825010326	3976800
+3977380	Theory	on geometric range searching, approximate counting and depth problems	2008	-12.740193953903153	9.237955110969784	3977407
+3977626	Theory	space-efficient algorithms for empty space recognition among a point set in 2d and 3d	2011	-12.420438219532555	8.50728435813789	3977653
+3979728	DB	range-aggregate proximity detection for design rule checking in vlsi layouts	2006	-12.774620155147787	9.195529267340412	3979755
+3982734	Theory	kinetic euclidean minimum spanning tree in the plane	2012	-12.962693655146726	8.818465969056106	3982761
+3983013	Theory	a linear time approximation scheme for computing geometric maximum k-star	2013	-12.789239129013044	9.166455016100716	3983040
+3984139	Theory	time-space trade-off for finding the k-visibility region of a point in a polygon	2016	-12.590499812487604	9.269908488583457	3984166
+3985413	Theory	a fast dimension-sweep algorithm for the hypervolume indicator in four dimensions	2012	-12.58532571013666	8.870329782312755	3985440
+3987254	Robotics	direct dynamic structures for some line segment problems	1983	-12.168829451447614	9.216949372798968	3987281
+3988877	ML	how tight is the corner relaxation? insights gained from the stable set problem	2012	-12.104725595700483	8.783010209182132	3988904
+3989715	Robotics	constant factor time optimal multi-robot routing on high-dimensional grids	2018	-12.402342791211543	8.791705273509207	3989742
+3989778	Theory	computational geometry column 9	1990	-12.51964483910011	9.259360946303484	3989805
+3989820	Theory	optimal parallel algorithms for polygon and point-set problems	1988	-12.4104573060365	9.132150191195619	3989847
+3989981	ML	consistent thinning of large geographical data for map visualization	2013	-12.448627462610967	8.533878287768504	3990008
+3991316	Theory	improved dynamic planar point location	2006	-12.464166722711864	8.861700663802601	3991343
+3992827	Theory	i/o-efficient flow modeling on fat terrains	2007	-12.998055918591897	8.638520779462025	3992854
+3993603	ML	new and old bounds for standard quadratic optimization: dominance, equivalence and incomparability	2008	-12.253860647372349	8.879635505040373	3993630
+3995008	Theory	gpu-based influence regions optimization	2012	-12.754058995281115	8.679845398458871	3995035
+3995567	Theory	largest bounding box, smallest diameter, and related problems on imprecise points	2007	-12.976793488820435	8.617133761793237	3995594
+3995908	Theory	faster construction of planar two-centers	1997	-12.093235373040633	9.177258628928632	3995935
+3999290	Theory	finding efficient region in the plane with line segments (finding achievable region for line segments obstacles)	2012	-13.01428018307414	8.975262798536919	3999317
+4000436	Theory	fast construction of nets in low-dimensional metrics and their applications	2006	-12.115542459045773	9.206373351331775	4000463
+4003728	ML	fitting a graph to vector data	2009	-12.307502500743508	8.533337381781383	4003755
+4004788	Theory	a continuous refinement strategy for the multilevel computation of vertex separators	2014	-12.096376787418471	8.691886232682455	4004815
+4004836	Theory	a single-exponential upper bound for finding shortest paths in three dimensions	1994	-12.96199132343183	8.995229087250832	4004863
+4006000	HCI	minimum k-adjacent rectangles of orthogonal polygons and its application	2014	-12.813546939488404	8.420422204763495	4006027
+4006280	Theory	computing roundness is easy if the set is almost round	1999	-12.324996715437456	8.906393588645797	4006307
+4007591	Theory	invited lecture: on approximate range searching - or - get in shape; round is a good choice	2006	-12.80717803888972	9.13475130343656	4007618
+4007991	Theory	edge routing with ordered bundles	2011	-12.89180868453711	8.89350178352284	4008018
+4009112	Theory	limited packing and multiple domination problems: polynomial time reductions	2014	-12.32239330085368	9.238200323616708	4009139
+4011069	Theory	optimal search in planar subdivisions	1983	-12.685252898859241	9.0576525617948	4011096
+4011652	Theory	voronoi diagrams with a transportation network on the euclidean plane	2004	-12.926217012232346	8.895557189064807	4011679
+4012148	Logic	the convex hull of a linear congruence relation in zero-one variables	1995	-12.271112951748627	8.79876123707299	4012175
+4014638	Robotics	minimum equivalent precedence relation systems	2015	-12.15252791096086	9.234739537983732	4014665
+4015210	Theory	integer feasibility of random polytopes: random integer programs	2014	-12.334067264890228	9.074932264211704	4015237
+4016800	Theory	the rectangle enclosure and point-dominance problems revisited	1997	-12.711526136961751	9.350737633685386	4016827
+4017491	ML	on a* search with stopover areas	2009	-12.730162115094915	8.887429069447169	4017518
+4018243	Theory	randomized incremental constructions of three-dimensional convex hulls and planar voronoi diagrams, and approximate range counting	2006	-12.612665205505431	9.299519390033316	4018270
+4018470	Theory	efficient simplex computation for fixture layout design	2010	-12.958592944355598	8.672764133626622	4018497
+4020743	Theory	improved fpt algorithms for rectilinear k-links spanning path	2012	-12.640308188160644	8.506027425380717	4020770
+4021329	Theory	dynamic maintenance of half-space depth for points and contours	2011	-12.768373936896115	8.734519250080654	4021356
+4023021	Theory	an o (n log n) algorithm for the voronoi diagram of a set of simple curve segments	1987	-12.949500230335	8.795689813456432	4023048
+4025578	Visualization	delaunay triangulation using a uniform grid	1993	-12.832021248923548	8.808801303653956	4025605
+4028672	NLP	new heuristics for packing unequal circles into a circular container	2006	-12.081886021801505	8.46549611263672	4028699
+4032659	Theory	path planning for moving a point object amidst unknown obstacles in a plane: the universal lower bound on the worst path lengths and a classification of algorithms	1991	-12.843903702856073	8.812606428862974	4032686
+4033471	Theory	a deterministic algorithm for partitioning arrangements of lines and its application	1989	-12.92946878565511	9.210978534365069	4033498
+4035643	Theory	a new asymptotic approximation algorithm for 3-dimensional strip packing	2014	-12.428824747789848	8.924578113307776	4035670
+4036573	Arch	an rng-based heuristic for curve reconstruction	2006	-12.902485784419055	8.468693435819572	4036600
+4036760	DB	a space efficient greedy triangulation algorithm	1989	-12.764971135569784	8.761889003833634	4036787
+4037160	Theory	the convex-hull-and-line traveling salesman problem: a solvable case	1994	-12.793928387031665	8.79830197798706	4037187
+4038239	Theory	parallel geometric algorithms on mesh-connected computers	1987	-12.770070329456141	8.608390121551146	4038266
+4039783	Theory	the cyclic multi-peg tower of hanoi	2006	-12.402421051806776	8.781816053295088	4039810
+4042216	ML	finding a minimal cover for binary images: an optimal parallel algorithm	1991	-12.861864679468304	8.421036297304232	4042243
+4042936	Theory	lp and sdp branch-and-cut algorithms for the minimum graph bisection problem: a computational comparison	2012	-12.103128576037973	9.047810454452335	4042963
+4043601	Theory	combinatorial optimization in pattern assembly	2013	-12.261563481516747	9.011858171031124	4043628
+4043703	Theory	database-friendly random projections: johnson-lindenstrauss with binary coins	2003	-12.15228248446901	8.941251126036548	4043730
+4044039	Theory	an algorithm for drawing a hierarchical graph	1996	-12.897395231280267	8.608389369405227	4044066
+4047377	Graphics	mesh graph structure for longest-edge refinement algorithms	1998	-12.627681150345447	8.685951960508659	4047404
+4047507	Theory	i/o-efficient computation of water flow across a terrain	2010	-12.78982773676359	8.809401497183712	4047534
+4048961	Theory	an algorithm for segment-dragging and its implementation	1988	-12.525915216181042	8.774196140466596	4048988
+4049118	Robotics	monotone paths with visibility properties	2017	-12.791357998798244	8.756874031440383	4049145
+4052797	Theory	delaunay triangulation	2017	-12.858320469238306	8.442741198374371	4052824
+4053922	DB	determining a set of maximum inscribed rectangles for label placement in a region	2009	-13.020838302410601	8.596285065160973	4053949
+4054065	Theory	time-space trade-off for finding the k-visibility region of a point in a polygon	2017	-12.58945173808902	9.239165774888885	4054092
+4054141	Theory	data structures for halfplane proximity queries and incremental voronoi diagrams	2017	-12.651479483746314	9.199100054962877	4054168
+4054319	Theory	an approach to optimal partitioning of hypergraphs	1974	-12.2234956134809	9.311357929956976	4054346
+4054927	DB	remembering conflicts in history yields dynamic algorithms	1993	-12.723182352909818	8.615615765157411	4054954
+4055229	DB	a new data structure for shortest path queries in a simple polygon	1991	-12.300187769674704	9.233124845063431	4055256
+4056575	Theory	the k-nearest-neighbor voronoi diagram revisited	2013	-12.437168065570376	9.225454081436023	4056602
+4058190	Robotics	a practical iterative algorithm for sensor positioning	2005	-12.666064980387143	8.626952909181487	4058217
+4059273	Theory	edge-matching problems with rotations	2011	-12.364940802217665	8.682056369405382	4059300
+4063855	Theory	comparison of algorithms in graph partitioning	2008	-12.219721664647508	8.84608139535268	4063882
+4065851	Logic	a light-based device for solving the hamiltonian path problem	2006	-12.695654191344044	8.70660462715771	4065878
+4067704	ECom	online exploration outside a convex obstacle	2018	-12.734841409604455	8.641250100783374	4067731
+4069235	Theory	clarkson's algorithm for violator spaces	2009	-12.67690104463629	8.466360608503361	4069262
+4069249	Theory	linear programming and unique sink orientations	2006	-12.746403649958918	8.819226929677649	4069276
+4070703	ML	graph drawing by weighted constraint relaxation	2017	-12.261059858719106	8.775308474576766	4070730
+4074825	Theory	two algorithms for a reachability problem in one-dimensional space	1998	-12.678384492079756	8.445272177829015	4074852
+4077883	Vision	an efficient and quasi linear worst-case time algorithm for digital plane recognition	2008	-12.8749070067413	8.61749174157381	4077910
+4078087	Theory	dynamization of the trapezoid method for planar point location (extended abstract)	1991	-12.652659045005155	9.224005748191717	4078114
+4078829	Theory	on the hardness of entropy minimization and related problems	2012	-12.088433698959554	8.766900935587081	4078856
+4080026	Theory	a dynamic data structure to efficiently find the points below a line and estimate their number	2017	-12.597349211986476	8.460170723116008	4080053
+4080652	Robotics	an improved genetic algorithm using the convex hull for traveling salesman problem	1998	-12.653501942977964	9.157477092911046	4080679
+4081591	Theory	analysis of agglomerative clustering	2012	-12.192232354956644	9.260950964632617	4081618
+4082123	Theory	on k-gons and k-holes in point sets	2011	-12.752540295309375	9.140513539026498	4082150
+4082345	Theory	maintaining the minimal distance of a point set in polylogarithmic time	1991	-12.253308415882586	9.189760619512784	4082372
+4084384	Robotics	two-dimensional range search based on the voronoi diagram	2003	-12.214875589199517	9.026217088985392	4084411
+4084990	Theory	an approximation scheme for terrain guarding	2009	-12.626613862637733	8.825224122974145	4085017
+4085660	Theory	the graphical asymmetric traveling salesman polyhedron: symmetric inequalities	1996	-12.806968241364592	8.811382897789217	4085687
+4085731	Theory	cost-optimal trees for ray shooting	2004	-12.8385087427098	8.633658780904081	4085758
+4087932	AI	graph compact orthogonal layout algorithm	2014	-12.787580983202846	8.786804883353035	4087959
+4090796	Theory	an o(e log e + i) expected time algorithm for the planar segment intersection problem	1985	-12.951665688787628	8.885797955865124	4090823
+4093531	DB	efficient rectangle indexing algorithms based on point dominance	2005	-12.706682582463095	8.949952386777841	4093558
+4094100	Crypto	dynamically maintaining the widest k -dense corridor	2000	-12.468002479243298	8.549744167306121	4094127
+4097288	Robotics	efficient update strategies for geometric computing with uncertainty	2003	-12.476260072549605	9.058045283047123	4097315
+4098863	ML	osmnx: a python package to work with graph-theoretic openstreetmap street networks	2017	-12.787949276730494	8.462833259001497	4098890
+4100825	Robotics	computing spanners of asymptotically optimal probabilistic roadmaps	2011	-12.87230139030982	9.197739979205203	4100852

@@ -1,0 +1,667 @@
+id	area	title	year	x	y	ix
+3157515	Vision	detecting humans in dense crowds using locally-consistent scale prior and global occlusion reasoning	2015	-4.38376926847897	-12.941772707164054	3157542
+3157579	Vision	video co-segmentation	2012	-4.833537596144869	-13.279638615175022	3157606
+3159007	Vision	deep network for the integrated 3d sensing of multiple people in natural images	2018	-4.8926824496264025	-12.852488362940084	3159034
+3161497	Vision	dictionary learning for robust background modeling	2011	-5.042458982910549	-13.029336805748697	3161524
+3162333	Vision	exploiting multiple detections for person re-identification	2018	-5.055598355524494	-13.182847437939575	3162360
+3165049	Vision	an evaluation of the pedestrian classification in a multi-domain multi-modality setup	2015	-4.58157194032196	-12.913488877043356	3165076
+3167432	Vision	ipst: incremental pictorial structures for model-free tracking of deformable objects	2018	-4.515366914728498	-12.888287282206663	3167459
+3167874	Vision	diversity-based classifier selection for adaptive object tracking	2009	-4.740811355108639	-12.761076450939665	3167901
+3168107	Vision	structural symmetries from motion for scene reconstruction and understanding	2015	-4.902099873380879	-12.906636835915206	3168134
+3168481	Vision	joint graph learning and video segmentation via multiple cues and topology calibration	2016	-4.363515502685131	-12.86993503644847	3168508
+3169695	Vision	online robust non-negative dictionary learning for visual tracking	2013	-4.8589483323855385	-12.764788683637533	3169722
+3173077	Vision	manifold constrained low-rank decomposition	2017	-4.742266887582836	-12.953272192757838	3173104
+3174590	Vision	modular ensemble tracking	2010	-4.4206719224795545	-12.99803869797251	3174617
+3174664	Vision	enhanced laplacian group sparse learning with lifespan outlier rejection for visual tracking	2014	-4.896237216067588	-12.719416034928198	3174691
+3175648	Vision	capturing complex 3d human motions with kernelized low-rank representation from monocular rgb camera	2017	-4.834068583911652	-12.87933769204275	3175675
+3176364	Vision	a comparative evaluation of template and histogram based 2d tracking algorithms	2005	-4.453494140179637	-13.153273986537194	3176391
+3176701	ML	new application of graph mining to video analysis	2010	-4.465948481739732	-13.181296266113078	3176728
+3177450	Vision	robust object tracking with discrete graph-based multiple experts	2017	-4.54121738138751	-12.762933501732626	3177477
+3180759	Vision	robust object tracking using a sparse coadjutant observation model	2018	-4.597302954673336	-12.914524187565048	3180786
+3180802	Vision	co-recognition of image pairs by data-driven monte carlo image exploration	2008	-4.936496753834587	-12.872048958553078	3180829
+3180910	Vision	interest point based tracking	2010	-5.065655411336049	-12.85094919175597	3180937
+3182232	Vision	online object tracking with sparse prototypes	2013	-5.210343118987568	-12.784631426294196	3182259
+3182401	Robotics	visual tracking based on compressive sensing mcmc sampling	2013	-5.053021754161314	-12.801927028296607	3182428
+3182406	Vision	multi-object tracking of pedestrian driven by context	2016	-4.677646065901679	-12.774743487495437	3182433
+3185034	Vision	combining arf and or-pca for robust background subtraction of noisy videos	2015	-5.255724615612642	-12.739226771109989	3185061
+3185452	Vision	template-based hand pose recognition using multiple cues	2006	-5.013048915080304	-13.596727229611654	3185479
+3186454	Vision	self-supervised cnn for unconstrained 3d facial performance capture from an rgb-d camera	2018	-4.456456580153629	-12.790402431044095	3186481
+3188457	Vision	visual tracking based on an improved online multiple instance learning algorithm	2016	-4.586974796337636	-12.817818627476385	3188484
+3189051	ML	human pose tracking using online latent structured support vector machine	2017	-5.012881526592347	-12.806910473098695	3189078
+3189260	Vision	visual vehicle tracking based on deep representation and semisupervised learning	2017	-4.464875314137804	-12.850570715347404	3189287
+3189482	Vision	local descriptions for human action recognition from 3d reconstruction data	2014	-5.188584120546229	-13.04854506547177	3189509
+3191656	Vision	robust tracking via spatio-temporally weighted multiple instance learning	2017	-4.7929116840452615	-12.748708480952773	3191683
+3192176	Vision	scene parsing using graph matching on street-view data	2016	-4.4402550165962635	-12.85451770440906	3192203
+3193895	Vision	object tracking based on local dynamic sparse model	2015	-5.15272103052037	-12.832666881679527	3193922
+3194424	Vision	efficient hand orientation and pose estimation for uncalibrated cameras	2017	-4.546600957881759	-12.92668739248083	3194451
+3194986	Vision	stereo object proposals	2017	-5.218251223875646	-13.427614690656053	3195013
+3195346	Vision	accurate 3d car pose estimation	2016	-4.922698964855666	-12.821650460076325	3195373
+3195680	Vision	reduce false positives for human detection by a priori probability in videos	2015	-4.58551691107934	-13.131075840930368	3195707
+3198691	Vision	car recognition using gabor filter feature extraction	2002	-4.942113493376649	-13.292525840050965	3198718
+3199446	Vision	extended compressed tracking via random projection based on msers and online ls-svm learning	2016	-5.021299241533798	-13.12777221147083	3199473
+3200493	Vision	track to the future: spatio-temporal video segmentation with long-range motion cues	2011	-5.2053685682809405	-13.328620972533571	3200520
+3201560	Vision	multi-cue based multi-target tracking with boosted mht	2013	-5.0036144470936925	-12.789001832459023	3201587
+3205710	Vision	face recognition with contiguous occlusion using linear regression and level set method	2013	-5.282002583648847	-13.549381856934	3205737
+3209402	Vision	robust visual tracking via discriminative appearance model based on sparse coding	2014	-4.555832538769703	-12.936695206200126	3209429
+3212998	Vision	pose estimation based on pose cluster and candidates recombination	2015	-5.253123677486347	-13.08109297598424	3213025
+3215440	Vision	single/cross-camera multiple-person tracking by graph matching	2014	-4.805515454726505	-13.629244439670744	3215467
+3218252	Vision	partial occlusion handling for visual tracking via robust part matching	2014	-4.709555233566356	-12.807633388779907	3218279
+3218899	Vision	towards categorization and pose estimation of sets of occluded objects in cluttered scenes from depth data and generic object models using joint parsing	2016	-4.364405376111406	-13.080903437389026	3218926
+3223568	Vision	robust contrast-invariant eigendetection	2002	-4.453432538189895	-13.439513627253012	3223595
+3230757	Vision	3d point cloud segmentation oriented to the analysis of interactions	2016	-4.5053794179842965	-12.812235992160225	3230784
+3231289	Vision	robust online object tracking with a structured sparse representation model	2016	-4.964677498679055	-12.885768818395047	3231316
+3232511	Vision	context aware detection and tracking	2014	-4.492269331470384	-12.851624449689016	3232538
+3233407	Vision	enhancement of elda tracker based on cnn features and adaptive model update	2016	-4.6004469161600055	-12.900184748011064	3233434
+3235458	Vision	facial landmark detection based on an ensemble of local weighted regressors during real driving situation	2016	-4.8044359088473945	-13.309082179326678	3235485
+3235503	Vision	3d hand pose reconstruction with isosom	2005	-5.252914268252149	-13.560091122027199	3235530
+3237355	Mobile	hierarchical fusion of convolutional neural networks and attributed scattering centers with application to robust sar atr	2018	-4.600445811462638	-13.494571287083238	3237382
+3238411	Vision	towards unsupervised whole-object segmentation: combining automated matting with boundary detection	2008	-4.492068667818352	-13.57514764356786	3238438
+3241618	Vision	appearance-based gaze estimation via uncalibrated gaze pattern recovery	2017	-5.014455019531075	-13.33219772420536	3241645
+3241951	Vision	monocular slam supported object recognition	2015	-5.162109418113621	-12.715705781524678	3241978
+3243102	Vision	visual tracking via graph regularized kernel correlation filer and multi-memory voting	2018	-4.628400733375519	-12.889771638390558	3243129
+3244271	AI	compact rgbd surface models based on sparse coding	2013	-5.155862023007112	-13.36495609342644	3244298
+3244719	Robotics	real-time scale invariant object recognition using an artificial neural network	2010	-5.218616352526794	-13.63227892668441	3244746
+3245666	Vision	multi-cue based multi-target tracking using online random forests	2011	-4.944230878195247	-12.927750804764845	3245693
+3248860	Robotics	fast geometric point labeling using conditional random fields	2009	-5.091095962965092	-12.988806213664358	3248887
+3253490	Vision	3d human motion tracking using dynamic probabilistic latent semantic analysis	2008	-4.891058961437928	-12.816947115557678	3253517
+3255616	Vision	symmetry-aware façade parsing with occlusions	2017	-4.887499196833937	-13.250756429412846	3255643
+3258147	Vision	video segmentation with just a few strokes	2015	-4.394519275505165	-12.937982111776506	3258174
+3259056	Vision	multi-object tracking under occlusion using dual-mode graph embedding	2013	-4.8900720065785865	-12.720939409628949	3259083
+3260003	Vision	visual tracking via temporally smooth sparse coding	2015	-5.070104165003041	-12.72699553409698	3260030
+3261204	Vision	simultaneous recognition and homography extraction of local patches with a simple linear classifier	2008	-5.004591183713684	-13.41839541433243	3261231
+3263359	Vision	moving vehicle tracking for the web camera	2003	-4.736878894994505	-13.209057492160888	3263386
+3265372	Vision	visual tracking via multiple representative basic appearance models based on l 1 minimization	2012	-4.965721057608413	-12.714575973591318	3265399
+3267076	Vision	a unified approach to segmentation and categorization of dynamic textures	2010	-4.733658555074705	-13.46630064023806	3267103
+3270148	Vision	visual tracking via probabilistic hypergraph ranking	2017	-4.584099550912017	-13.019759739509823	3270175
+3270498	Vision	learning informative edge maps for indoor scene layout prediction	2015	-4.663301430276497	-12.72889046524608	3270525
+3271086	ML	patch-based visual tracking with two-stage multiple kernel learning	2015	-4.580875414682559	-12.968726333322465	3271113
+3274061	Vision	primary video object segmentation via complementary cnns and neighborhood reversible flow	2017	-4.586790006731792	-13.524596474813135	3274088
+3276189	Vision	cascaded generative and discriminative learning for visual tracking	2013	-4.582954740256168	-12.881876750461654	3276216
+3278729	Vision	multiple target tracking based on undirected hierarchical relation hypergraph	2014	-4.9769126852199035	-12.888304654236894	3278756
+3280921	Vision	online weighted one-class ensemble for feature selection in background/foreground separation	2016	-4.678352689893057	-13.232699963253216	3280948
+3281265	Vision	learning collaborative model for visual tracking	2018	-4.610580956079691	-13.009039310091335	3281292
+3282452	Vision	motion segmentation by exploiting complementary geometric models	2018	-4.682357205882576	-12.7277396303226	3282479
+3284389	Vision	transflow: unsupervised motion flow by joint geometric and pixel-level estimation	2017	-4.797169188589724	-13.017759230009062	3284416
+3285026	Vision	improved kernelized correlation filter tracking by using spatial regularization	2018	-4.888498898229205	-12.696903208827074	3285053
+3285970	Vision	interclass fuzzy rule generation for road scene recognition from colour images	2001	-4.69323456310302	-13.57125643826523	3285997
+3287305	AI	riemannian set-level common-near-neighbor analysis for multiple-shot person re-identification	2013	-4.448452228445468	-12.8762754283241	3287332
+3292215	Vision	fast self-supervised on-line training for object recognition specifically for robotic applications	2014	-4.62157729553948	-12.945372392836225	3292242
+3292746	Vision	beyond the sum of parts: voting with groups of dependent entities	2015	-4.356301260327052	-13.39852424061842	3292773
+3295419	Vision	visual tracking with multiple representative models based on sparse prototypes	2014	-4.82176801621366	-12.799211407262414	3295446
+3298510	Vision	online learning of discriminative correlation filter bank for visual tracking	2018	-5.1918215678080495	-13.022924046146471	3298537
+3298885	AI	robust collaborative discriminative learning for rgb-infrared tracking	2018	-4.973898150534871	-12.807015079216265	3298912
+3299019	Vision	temporal self-similarity for appearance-based action recognition in multi-view setups	2013	-4.8213919566379735	-13.028064941324955	3299046
+3300327	Vision	unconstrained face recognition: identifying a person of interest from a media collection	2014	-4.845296212140875	-13.167941219157465	3300354
+3301731	ML	scene grammars, factor graphs, and belief propagation	2016	-4.811190738381776	-13.167919439428196	3301758
+3301897	Vision	condition and viewpoint invariant omni-directional place recognition using cnn	2017	-4.77576761763709	-12.891145739939182	3301924
+3301913	Vision	coarse-to-fine visual tracking with psr and scale driven expert-switching	2018	-4.866121430211948	-12.868018475603966	3301940
+3303383	Vision	dual-scale structural local sparse appearance model for robust object tracking	2017	-4.825680461705902	-13.165631616887481	3303410
+3303544	Vision	object tracking across non-overlapping views by learning inter-camera transfer models	2014	-5.083089542807535	-12.88486199688626	3303571
+3303606	Vision	robust target tracking by online random forests and superpixels	2018	-4.8742342997223815	-12.935081181947426	3303633
+3303787	Vision	facial landmark detection and tracking for facial behavior analysis	2016	-5.227561162772712	-13.420318831663305	3303814
+3306163	Vision	interest point detection in videos using long point trajectories	2014	-4.589123738202083	-13.328623357337921	3306190
+3308757	Robotics	performance evaluation of visual slam using several feature extractors	2009	-4.879405641791778	-13.29144526261724	3308784
+3313077	Vision	in defense of sparse tracking: circulant sparse tracker	2016	-4.912642600247877	-12.80059154883095	3313104
+3313122	Robotics	visual object tracking using gaussian process and sparse representation	2015	-5.273115632185908	-12.879832757582516	3313149
+3314968	Vision	object tracking via deep multi-view compressive model for visible and infrared sequences	2018	-5.227035711333776	-12.922685828750735	3314995
+3319503	Robotics	compressive perceptual hashing tracking with online foreground learning	2015	-5.2907776055033215	-13.13541580000867	3319530
+3320106	Vision	discriminative bag-of-words-based adaptive appearance model for robust visual tracking	2017	-4.9375730736697925	-12.852731533642574	3320133
+3320951	Vision	occlusion-aware real-time object tracking	2017	-4.7009134611593435	-12.834539411952882	3320978
+3323103	Vision	person-specific face tracking with online recognition	2013	-4.3962761938063215	-13.121886047111714	3323130
+3323504	Vision	reduce false positives for object detection by a priori probability in videos	2016	-4.530809993500539	-13.121721227592554	3323531
+3323863	Vision	tracking-by-segmentation with online gradient boosting decision tree	2015	-4.844421423935478	-13.089864293030887	3323890
+3323910	Vision	automatic multi-player detection and tracking in broadcast sports video using support vector machine and particle filter	2006	-5.098628439879934	-12.75777989328956	3323937
+3328214	Vision	robstruck: improving occlusion handling of structured tracking-by-detection using robust kalman filter	2016	-5.249856856478903	-12.847748499811516	3328241
+3330964	Vision	tric-track: tracking by regression with incrementally learned cascades	2015	-4.929550286248482	-12.950977150397124	3330991
+3332236	Vision	explicit occlusion reasoning for 3d object detection	2011	-4.618696732905726	-12.794423200550213	3332263
+3332824	Robotics	robust object tracking based on discriminative analysis and local sparse representation	2017	-5.261396004495328	-13.154581945270778	3332851
+3334355	Vision	sliding shapes for 3d object detection in depth images	2014	-4.40661842295652	-12.824647357174802	3334382
+3336458	Vision	multi-cue correlation filters for robust visual tracking	2018	-4.6247278213563465	-12.921968752108086	3336485
+3336804	Vision	object tracking based on support vector dictionary learning	2018	-4.820807837753108	-12.952686630638967	3336831
+3338089	Vision	abnormal event detection and localization in crowded scenes based on pcanet	2016	-4.345390243346116	-12.778533477526453	3338116
+3338752	Vision	ensemble classifier for combining stereo matching algorithms	2015	-4.616700582019578	-13.42606682897459	3338779
+3339636	Vision	adaptive subclass discriminant analysis color space learning for visual tracking	2008	-5.174530361246402	-13.44232528294794	3339663
+3340031	Vision	partial person re-identification with alignment and hallucination	2018	-4.513518615523601	-13.111431561864825	3340058
+3340431	Vision	regressive tree structured model for facial landmark localization	2015	-5.0654494435252735	-13.208081247797034	3340458
+3340949	ML	robust hand tracking with on-line and off-line learning	2015	-4.391892201087086	-13.008348271252153	3340976
+3342559	Vision	sequential face alignment via person-specific modeling in the wild	2016	-4.431910734954996	-12.885188389121668	3342586
+3344707	Robotics	automatic vehicle tracking and recognition from aerial image sequences	2015	-4.625448781362274	-12.701736612964645	3344734
+3344970	Vision	camera pose voting for large-scale image-based localization	2015	-5.038109482167295	-13.399504766663235	3344997
+3345121	Vision	a probabilistic cascade of detectors for individual object recognition	2008	-4.858641116648168	-13.412487241121086	3345148
+3345326	Vision	extracting relevant features from videos for a robust smoke detection	2017	-4.955715054116075	-13.349681819870213	3345353
+3347999	Vision	an adaptive neural-fuzzy approach for object detection in dynamic backgrounds for surveillance systems	2012	-5.058984123751646	-13.369902700722868	3348026
+3348099	Vision	deephand: robust hand pose estimation by completing a matrix imputed with deep features	2016	-4.465494820131892	-13.316294276213904	3348126
+3351605	Vision	patchwise tracking via spatio-temporal constraint-based sparse representation and multiple-instance learning-based svm	2015	-4.821138525719598	-12.983602822138307	3351632
+3351634	Vision	reliable human detection and tracking in top-view depth images	2013	-4.998417482155312	-12.73415848798244	3351661
+3352006	Vision	robust visual tracking via discriminative structural sparse feature	2015	-4.556321906704544	-12.921744785481396	3352033
+3352960	Vision	joint color-spatial-directional clustering and region merging (jcsd-rm) for unsupervised rgb-d image segmentation	2016	-5.032800636295809	-13.233685922216358	3352987
+3359267	Vision	silhouette-based object phenotype recognition using 3d shape priors	2011	-4.557298520732573	-13.082292906760372	3359294
+3360533	Vision	online detection of abnormal events in video streams	2013	-4.664917398554087	-12.6853299056751	3360560
+3360567	Vision	neural color transfer between images	2017	-4.903315541813867	-12.957420571959195	3360594
+3363305	Vision	a unified framework for locating and recognizing human actions	2011	-4.721407207034384	-12.891706139007606	3363332
+3365348	Vision	pedestrian detection in highly crowded scenes using “online” dictionary learning for occlusion handling	2014	-4.5851920143119065	-12.95108082428493	3365375
+3367385	Vision	effective part localization in latent-svm training	2014	-4.603814261379785	-13.030258083522275	3367412
+3367586	Vision	object tracking with part-based discriminative context models	2014	-4.728866566981644	-12.956941376156864	3367613
+3368690	Vision	cnn-detector-based multiple homogeneous objects tracking under stochastic wide-range occlusions	2017	-4.418414238261999	-12.821581866550135	3368717
+3369639	Robotics	an unsupervised anomalous event detection framework with class aware source separation	2018	-4.84162628328587	-12.68421774032631	3369666
+3370456	Vision	faceposenet: making a case for landmark-free face alignment	2017	-4.393957883448623	-13.328700360564914	3370483
+3372994	Vision	learning rigidity in dynamic scenes with a moving camera for 3d motion field estimation.	2018	-4.949312470864734	-12.867180266602054	3373021
+3373325	Vision	recurrent metric networks and batch multiple hypothesis for multi-object tracking	2019	-4.726354242670258	-12.821659115441033	3373352
+3373452	Robotics	pose estimation by local procrustes regression	2011	-4.808164044881531	-13.426009725788894	3373479
+3373656	Vision	incremental em for probabilistic latent semantic analysis on human action recognition	2009	-4.720932502868185	-12.701654047626269	3373683
+3375204	Robotics	vision-based scale-adaptive vehicle detection and tracking for intelligent traffic monitoring	2014	-5.171850554042908	-12.791882924582984	3375231
+3375692	Vision	scene interpretation: unified modeling of visual context by particle-based belief propagation in hierarchical graphical model	2006	-4.463417223611098	-12.926315249193461	3375719
+3376992	Vision	online visual tracking via coupled object-context dictionary	2015	-4.87398254071556	-13.013604173356937	3377019
+3379087	Vision	visual tracking with online multiple instance learning	2009	-4.335247169725812	-12.750644758654332	3379114
+3380950	ML	smart feature detection using an invariance network architecture	1995	-4.4196871242993145	-13.616959959961612	3380977
+3382039	Vision	multi-person pose estimation with local joint-to-person associations	2016	-4.974794400118112	-12.709569095826609	3382066
+3383242	Vision	3d face pose tracking from monocular camera via sparse representation of synthesized faces	2013	-4.9371622225145	-13.340196028397644	3383269
+3383930	ML	scale invariant kernelized correlation filter based on gaussian output	2016	-5.216755516349278	-12.8419858564409	3383957
+3385987	Vision	a novel adaptive kernel correlation filter tracker with multiple feature integration	2017	-4.646502872437073	-12.893349066765941	3386014
+3386054	Vision	multi-pedestrian detection in crowded scenes: a global view	2012	-4.361748721472885	-12.877993783567574	3386081
+3386412	Vision	integrating bottom-up and top-down processes for accurate pedestrian counting	2012	-5.093088636029639	-12.718782368022277	3386439
+3388868	Vision	abnormal crowd motion detection using double sparse representations	2015	-4.706706015866204	-13.175876021634831	3388895
+3388914	Vision	latent svms for human detection with a locally affine deformation field	2012	-5.0910517064004726	-13.547667925484376	3388941
+3390518	Vision	online object tracking with proposal selection	2015	-5.0459496169591675	-12.902679890656481	3390545
+3391142	Vision	fast compressive tracking with robust example selection based on multiple instance learning in smart and autonomous systems	2017	-5.087978197537669	-12.760854499045625	3391169
+3393861	Vision	a saliency-based cascade method for fast traffic sign detection	2015	-4.452318117611756	-12.873009142366671	3393888
+3398052	Vision	activity analysis in complicated scenes using dft coefficients of particle trajectories	2012	-5.05693841460484	-12.732392601642795	3398079
+3400591	Vision	discriminative focus of attention for real-time object detection in video	2012	-4.99945570785358	-13.143289380515835	3400618
+3403592	Robotics	vehicle detection technology based on cascading classifiers of multi-feature integration	2017	-5.038117466117821	-12.79713546349125	3403619
+3405142	Vision	facial landmark detection via pose-induced auto-encoder networks	2015	-4.720631112334754	-13.18263343107964	3405169
+3405905	Vision	cascaded online boosting	2010	-4.528056779117486	-12.690865938843045	3405932
+3409515	Vision	segmentation-aware deformable part models	2014	-4.765285777965506	-13.399925719382932	3409542
+3410101	Vision	groupwise registration of aerial images	2015	-5.023771126657286	-13.339760694113858	3410128
+3411796	Vision	appearance-based person reidentification in camera networks: problem overview and current approaches	2011	-5.065173836517898	-12.936671117950935	3411823
+3415511	Vision	viewpoint-independent object class detection using 3d feature maps	2008	-4.914479201022475	-13.474270907301765	3415538
+3416420	Vision	multi-component group sparse rpca model for motion object detection under complex dynamic background	2018	-5.125441634526138	-12.75906275958395	3416447
+3416442	Robotics	multiview social behavior analysis in work environments	2011	-4.3629995921929545	-12.941198696280795	3416469
+3418458	Vision	make3d: learning 3d scene structure from a single still image	2007	-4.65492313083153	-13.060465713413565	3418485
+3418803	Vision	discriminative bayesian active shape models	2012	-4.716567612617611	-13.11909803417088	3418830
+3421612	Vision	human body part estimation from depth images via spatially-constrained deep learning	2014	-4.411875765746342	-13.111153380299893	3421639
+3424506	Vision	count on me: learning to count on a single image	2018	-4.38455650851086	-13.50796399666141	3424533
+3424792	Robotics	part-based slam for partially changing environments	2013	-4.548878550187187	-12.782020624708302	3424819
+3425296	Vision	pyramid histogram of oriented gradient and particles swarm optimization based svm for vehicle detection	2013	-4.648323442380093	-13.448520237909785	3425323
+3427263	AI	robust patch-based visual tracking using biologically inspired model	2012	-4.435498729506612	-13.40584713032109	3427290
+3427276	Vision	visual-context boosting for eye detection	2010	-5.024314125453338	-13.555832338225946	3427303
+3427777	ML	a fine-grained filtered viewpoint informed keypoint prediction from 2d images	2017	-4.457358674200878	-13.157833539945296	3427804
+3428153	Vision	visual tracking via adaptive structural local sparse appearance model	2012	-4.8373131729418315	-13.016596672009632	3428180
+3428644	AI	video sequence learning and recognition via dynamic som	1999	-4.824189680164622	-12.996193508721385	3428671
+3428987	Vision	using motion blur to recognize hand gestures in low-light scenes	2016	-4.502573786502725	-13.592085872885365	3429014
+3429009	Vision	recognizing faces of moving people by hierarchical image-set matching	2007	-4.830231245204692	-13.553126332173251	3429036
+3433123	Vision	evaluation of shadow classification techniques for object detection and tracking	2004	-5.167018563034712	-13.379401892446673	3433150
+3437133	AI	learning robust gaussian process regression for visual tracking	2018	-4.65158132433205	-12.828898311653356	3437160
+3442103	AI	visual object tracking based on sequential learning of svm parameter	2018	-4.68392126098091	-13.422588424744813	3442130
+3443066	Vision	real-time face detection using a moving camera	2018	-5.123695089749962	-13.289431980457778	3443093
+3444743	Vision	robust object tracking with rgbd-based sparse learning	2017	-4.727494279934211	-12.823522676121234	3444770
+3450823	Vision	finding people in repeated shots of the same scene	2006	-4.632577963804733	-13.267926193393595	3450850
+3452345	Vision	3d pose-by-detection of vehicles via discriminatively reduced ensembles of correlation filters	2014	-4.336751483756529	-13.309073831581838	3452372
+3454727	Vision	learning to find eye region landmarks for remote gaze estimation in unconstrained settings	2018	-4.5724640522889235	-12.795807686932898	3454754
+3457176	Vision	robust visual tracking using &#x2113;1 minimization	2009	-5.044605717058689	-12.727027428368533	3457203
+3459130	Vision	patch-based robust l1 tracker to dynamic appearance change	2013	-4.982524868396276	-12.936951101046734	3459157
+3459389	AI	face analysis for human computer interaction applications	2007	-4.484964652006076	-13.488763453319821	3459416
+3459933	Vision	tracklet association with online target-specific metric learning	2014	-4.927154808473534	-12.746587909244669	3459960
+3462656	Vision	affine hull based target representation for visual tracking	2015	-5.0584664634613485	-12.969905565261335	3462683
+3465860	Vision	two-layer dual gait generative models for human motion estimation from a single camera	2013	-5.226880998749844	-12.711785602967945	3465887
+3468148	Vision	kill two birds with one stone: boosting both object detection accuracy and speed with adaptive patch-of-interest composition	2017	-5.294694869523002	-13.141071378012786	3468175
+3469266	Vision	robust long-term correlation tracking using convolutional features and detection proposals	2018	-5.003805565880022	-12.767512723724645	3469293
+3470510	Vision	online moving camera background subtraction	2012	-4.4533264428780015	-12.694643003890695	3470537
+3472385	Robotics	occupant classification using range images	2007	-4.611295911149488	-13.222322730405908	3472412
+3472441	Vision	robust object tracking based on collaborative model via l2-norm minimization	2016	-4.9061195129105934	-12.835489993847515	3472468
+3476352	Vision	extra facial landmark localization via global shape reconstruction	2017	-4.579542729712158	-13.5320050437096	3476379
+3477645	Robotics	narrow road extraction from remote sensing images based on super-resolution convolutional neural network	2018	-4.631557348065085	-13.49146686551183	3477672
+3478499	ML	mlp based pedestrian counting	2016	-5.085402522133587	-13.47083044158964	3478526
+3478877	ML	a subspace method for maximum likelihood target detection	1995	-5.271724120803522	-13.556798541865222	3478904
+3479131	Vision	semantic superpixel based vehicle tracking	2012	-4.653102818234643	-12.815040658257676	3479158
+3486351	Vision	action localization with tubelets from motion	2014	-5.045084428137977	-13.022693088304507	3486378
+3490267	Vision	joint object tracking and segmentation with independent convolutional neural networks	2018	-4.367024005348268	-13.223780224850614	3490294
+3491421	Vision	inter-camera association of multi-target tracks by on-line learned appearance affinity models	2010	-4.832217706461926	-12.822811181855712	3491448
+3492562	Vision	domain adaptation on correlated subspace for unseen multiview headpose classification	2014	-4.4246139868896766	-13.515067600106752	3492589
+3497346	Vision	learning an image-based motion context for multiple people tracking	2014	-4.575700960855151	-13.030448814651981	3497373
+3498597	Vision	maximal likelihood correspondence estimation for face recognition across pose	2014	-4.694798887206853	-13.557140661890859	3498624
+3500253	Vision	keeping count: leveraging temporal context to count heavily overlapping objects	2013	-4.460837753191481	-12.92395328151099	3500280
+3500552	Vision	weighted joint sparse representation based visual tracking	2015	-5.168515191454095	-12.928858930769355	3500579
+3500842	ML	video object segmentation using supervoxel-based gerrymandering	2017	-4.476172198354735	-13.623954829501526	3500869
+3503279	Vision	deep reinforcement learning with iterative shift for visual tracking	2018	-5.0413846811515945	-12.721606086390967	3503306
+3504877	Vision	visual tracking via sparse representation and online dictionary learning	2014	-4.789961558601524	-12.894156454887463	3504904
+3506159	Robotics	gmm-based saliency aggregation for calibration-free gaze estimation	2014	-5.194145578062524	-12.982662129569936	3506186
+3507982	Robotics	multimodal cue integration through hypotheses verification for rgb-d object recognition and 6dof pose estimation	2013	-4.396805117051863	-12.890078701450351	3508009
+3509913	Robotics	visual concept detection and real time object detection	2011	-4.467519547140698	-13.349137494133876	3509940
+3511070	Vision	a steiner tree approach to efficient object detection	2010	-4.769789755566885	-13.514688133348931	3511097
+3512667	Vision	3d semantic trajectory reconstruction from 3d pixel continuum	2018	-4.588475137699648	-12.858973118132555	3512694
+3513067	Vision	facial landmark localization in depth images using supervised ridge descent	2015	-4.672255927375597	-13.609782108903424	3513094
+3513091	Vision	person re-identification using spatial covariance regions of human body parts	2010	-5.102709432999017	-13.250308618104446	3513118
+3520814	Vision	multiple object tracking based on sparse generative appearance modeling	2015	-4.8063145772360585	-12.96555134267138	3520841
+3521103	Vision	learning a confidence measure for optical flow	2013	-4.3661431405611815	-13.078806059147944	3521130
+3521273	Vision	online multi-object tracking with structural invariance constraint	2018	-5.125421244566257	-12.74793820292861	3521300
+3522542	ML	multiple faces tracking based on relevance vector machine	2012	-5.233442337646304	-13.161148826421734	3522569
+3523753	Vision	fast head-shoulder proposal for deformable part model based pedestrian detection	2016	-4.425691278758954	-13.554875569002304	3523780
+3524093	Vision	online depth image-based object tracking with sparse representation and object detection	2016	-4.880212190830238	-12.759267922143946	3524120
+3527224	AI	visual object tracking via coefficients constrained exclusive group lasso	2018	-4.58195499973983	-12.851868562168095	3527251
+3527822	Vision	online multi-object tracking by detection based on generative appearance models	2016	-4.958581472561249	-13.082196534644735	3527849
+3529730	Vision	separating occluded humans by bayesian pixel classifier with re-weighted posterior probability	2011	-5.250884378525082	-13.420108964156814	3529757
+3532033	Vision	rapid discriminative detection for smart camera applications	2011	-4.6693235312378585	-13.178206305963691	3532060
+3533180	Vision	deep person re-identification for probabilistic data association in multiple pedestrian tracking	2018	-4.486141720583095	-12.884736250992706	3533207
+3536892	ML	voxel-based neighborhood for spatial shape pattern classification of lidar point clouds with supervised learning	2017	-5.1820225436698495	-13.219373141763873	3536919
+3537768	Vision	cross-modal ranking with soft consistency and noisy labels for robust rgb-t tracking	2018	-4.331947789257096	-12.830885851776653	3537795
+3537835	Vision	visual tracking with structured patch-based model	2017	-4.626865461622055	-12.886434645728428	3537862
+3541424	Vision	deep convolutional particle filter for visual tracking	2017	-4.628983287855356	-13.072143248990495	3541451
+3541549	Vision	integrated foreground segmentation and boundary matting for live videos	2015	-4.856214481828661	-13.112703354110193	3541576
+3543807	Vision	activity based surveillance video content modelling	2008	-4.443243971268214	-13.058778689621509	3543834
+3545867	Vision	background modelling based on generative unet	2017	-5.287869911664887	-12.932572352308002	3545894
+3547144	Vision	clustering based ensemble correlation tracking	2016	-4.838635184434496	-12.860840990034509	3547171
+3552352	Vision	an online learned hough forest model for multi-target tracking	2014	-4.823646900966401	-12.832490841195755	3552379
+3553077	Vision	semantic motion signature for segmentation of high speed large displacement objects	2017	-4.934005148703644	-13.039478068753256	3553104
+3554204	Vision	object detection in video with graphical models	2006	-4.385205497048956	-13.457319871669636	3554231
+3555460	Robotics	shot boundary detection using multi-instance incremental and decremental one-class support vector machine	2016	-4.7146540819175335	-12.929531873684802	3555487
+3555982	Vision	structural spatio-temporal transform for robust visual tracking	2016	-5.174293769505161	-13.044596696009373	3556009
+3559559	Vision	peet: prototype embedding and embedding transition for matching vehicles over disparate viewpoints	2007	-4.4301834482111415	-13.218834987410245	3559586
+3559684	Vision	object tracking by reconstruction with view-specific discriminative correlation filters	2018	-4.559340802801616	-12.989368237497162	3559711
+3561033	Robotics	pose estimation with mismatching region detection in robot bin picking	2017	-5.001640806865457	-13.223217675829046	3561060
+3566479	Vision	multiple human skeleton recognition in rgb and depth images with graph theory, anatomic refinement of point clouds and machine learning	2016	-4.519261337036342	-13.170800850324845	3566506
+3566804	Vision	a local basis representation for estimating human pose from cluttered images	2006	-5.1875110018363015	-13.413654086751125	3566831
+3569184	Vision	multi-object tracking using sparse representation	2013	-4.577670878972518	-13.121288691004793	3569211
+3571524	Vision	sot for mot	2017	-4.776093620581067	-12.824041361779507	3571551
+3571525	Vision	dual-force metric learning for robust distracter-resistant tracker	2012	-4.6228769775847285	-12.764284180779693	3571552
+3572000	Vision	low resolution pedestrian detection using light robust features and hierarchical system	2014	-4.852183561003783	-13.22786018009539	3572027
+3576664	Vision	learning complementary saliency priors for foreground object segmentation in complex scenes	2014	-4.69977962093104	-13.4252255030338	3576691
+3578007	NLP	robust objectness tracking with weighted multiple instance learning algorithm	2018	-4.802780098459189	-12.848597480947829	3578034
+3578291	Vision	unsupervised video analysis based on a spatiotemporal saliency detector	2015	-4.4511065602376885	-13.366820148874778	3578318
+3578632	ML	efficient unsupervised behavioral segmentation of human motion capture data.	2016	-4.663190390952796	-13.347063721662293	3578659
+3582225	Vision	cascaded pose regression revisited: face alignment in videos	2017	-4.3447681806559135	-12.961863656429706	3582252
+3582636	Vision	multi-cue illumination estimation via a tree-structured group joint sparse representation	2015	-4.6092181030185415	-13.511616818398569	3582663
+3585515	ML	object perception: generative image models and bayesian inference	2002	-4.399437973533651	-12.78499956573374	3585542
+3586617	Vision	particle phd filter based multiple human tracking using online group-structured dictionary learning	2018	-5.014972056594153	-12.768141828757262	3586644
+3590215	Vision	real-time visual tracking through fusion features	2016	-4.860355316122048	-13.095448606629304	3590242
+3590570	Vision	depth estimation by parameter transfer with a lightweight model for single still images	2017	-4.411144098772113	-13.076447022775033	3590597
+3590689	Vision	pedestrian detection in far-infrared daytime images using a hierarchical codebook of surf	2015	-5.027082059558805	-12.834077762851305	3590716
+3590713	Vision	action recognition across cameras via reconstructable paths	2013	-4.511714525587267	-13.031405137278226	3590740
+3591159	Vision	rgb-d tracking based on kernelized correlation filter with deep features	2017	-4.52948860094395	-13.065669845367074	3591186
+3592892	Vision	realtime object-of-interest tracking by learning composite patch-based templates	2012	-5.1326785583207855	-13.152964624195551	3592919
+3593014	Vision	joint tracking and gait recognition of multiple people in video	2017	-4.543598949142881	-12.895008262555725	3593041
+3593865	Vision	multi-complementary model for long-term tracking	2018	-5.2296545933806655	-13.165361932193358	3593892
+3595736	AI	automatic removal of complex shadows from indoor videos using transfer learning and dynamic thresholding	2018	-4.994127168450532	-13.412150328416065	3595763
+3596508	AI	robust vision tracking by online random ferns and template library	2014	-4.646780434898443	-13.033448569394071	3596535
+3596825	Vision	a tube-and-droplet-based approach for representing and analyzing motion trajectories	2017	-4.9949857472824135	-12.96485463790292	3596852
+3597773	Vision	object tracking based on online partial instance learning with multiple local strong classifiers	2014	-4.625716115840988	-12.876748553027197	3597800
+3598894	Vision	cascaded probabilistic tracking with supervised dictionary learning	2015	-4.521804262565018	-12.733065991275378	3598921
+3600247	Vision	robust visual tracking based on incremental discriminative projective non-negative matrix factorization	2015	-5.143578974836374	-12.935060363531678	3600274
+3600582	Vision	martial arts, dancing and sports dataset: a challenging stereo and multi-view dataset for 3d human pose estimation	2017	-4.87881175896892	-12.728482442070892	3600609
+3603355	Vision	building an effective template dictionary for robust offline video tracking	2015	-5.261277628129842	-12.875872792194382	3603382
+3605111	Vision	collaborating frames: temporally weighted sparse representation for visual tracking	2014	-5.291890230363329	-13.112397158266045	3605138
+3609589	Robotics	what makes for good multiple object trackers?	2016	-4.718461736924169	-12.896227872969474	3609616
+3609813	Vision	object pose estimation by locally linearly embedded regression	2013	-5.203377789134175	-13.053825285100011	3609840
+3610069	Vision	individualness and determinantal point processes for pedestrian detection	2016	-4.642398386566043	-12.99810933776193	3610096
+3612574	Vision	behavior recognition using multiple depth cameras based on a time-variant skeleton vector projection	2017	-4.559277921454137	-13.156845273961196	3612601
+3613020	Vision	multiple view feature descriptors from image sequences via kernel principal component analysis	2004	-5.221504084418644	-13.478898125914096	3613047
+3614299	Vision	detection of cars in high-resolution aerial images of complex urban environments	2017	-4.9012451365001	-13.371911251818569	3614326
+3615916	Vision	action recognition in cluttered dynamic scenes using pose-specific part models	2011	-4.5558337434968585	-12.96950487938426	3615943
+3616275	Robotics	robust visual tracking via part-based sparsity model	2013	-4.443904505618322	-13.119006349950375	3616302
+3616537	Vision	effective weighted compressive tracking	2013	-4.733962205233119	-12.816964628272471	3616564
+3619055	Vision	a principled approach to remove false alarms by modelling the context of a face detector	2010	-4.41369874866079	-13.324432028	3619082
+3620489	Robotics	towards shape-based visual object categorization for humanoid robots	2011	-4.9010447046736445	-13.450776281753926	3620516
+3621624	Vision	object tracking method based on hybrid particle filter and sparse representation	2015	-5.2751066522215275	-13.043471323253954	3621651
+3623151	Vision	cascaded shape space pruning for robust facial landmark detection	2013	-4.43064010213359	-13.423051906126087	3623178
+3623818	ML	region-based abnormal motion detection in video surveillance	2014	-5.1971320475758365	-13.198239273580313	3623845
+3626392	Vision	unsupervised identification of coherent motion in video	2007	-5.250035725035656	-12.738395488023784	3626419
+3632603	Vision	object tracking using discriminative sparse appearance model	2015	-4.705890641900399	-12.944527763408828	3632630
+3632927	Vision	moving object detection in time-lapse or motion trigger image sequences using low-rank and invariant sparse decomposition	2017	-4.732702911882781	-12.6948481940477	3632954
+3633060	Vision	real-time object tracking via compressive feature selection	2016	-4.554666635468959	-12.780365733162846	3633087
+3633313	Vision	robust object tracking via sparse collaborative appearance model	2014	-4.815114748625687	-12.95769139157542	3633340
+3633436	Vision	people detection using color and depth images	2011	-4.913509389937434	-12.8709556378247	3633463
+3634318	Vision	multispectral pedestrian detection: benchmark dataset and baseline	2015	-4.551889221583997	-12.976060649483323	3634345
+3636557	Robotics	learning informative point classes for the acquisition of object model maps	2008	-5.013672914684316	-13.038208433875461	3636584
+3636870	Vision	towards large-scale 3d face recognition	2016	-4.55349354322952	-13.58126134621681	3636897
+3638123	Vision	unsupervised learning of models for recognition	2000	-4.766015700918754	-13.613912236833233	3638150
+3641570	AI	collaborative correlation tracking	2015	-4.86437029475844	-12.782045499668277	3641597
+3643393	Vision	new compact 3-dimensional shape descriptor for a depth camera in indoor environments	2017	-4.681254209280983	-13.601484715122096	3643420
+3644244	Vision	multi-task correlation particle filter for robust object tracking	2017	-4.826167474122372	-12.686642385490632	3644271
+3644944	Robotics	structure discovery in multi-modal data: a region-based approach	2011	-5.011937256736821	-13.10686498786706	3644971
+3646901	Vision	infrared target tracking using naïve-bayes-nearest-neighbor	2015	-4.770596495342808	-13.326540835228078	3646928
+3647015	Vision	multi-modal user identification and object recognition surveillance system	2013	-4.6802371628517685	-12.847941220636347	3647042
+3648197	Vision	robust object tracking via large margin and scale-adaptive correlation filter	2018	-4.750074595628725	-12.838531758041949	3648224
+3649509	Vision	vehicle identification between non-overlapping cameras without direct feature matching	2005	-4.585059286574436	-13.335781209683109	3649536
+3650410	Vision	robust face tracking using multiple appearance models and graph relational learning.	2017	-4.408739187593404	-13.083296293549118	3650437
+3650928	Vision	spatiotemporal stacked sequential learning for pedestrian detection	2015	-4.6153803093841645	-12.82586653571404	3650955
+3651140	Vision	3d-assisted facial texture super-resolution	2009	-4.780292458278534	-12.955006026781376	3651167
+3652765	Vision	a nonparametric treatment for location/segmentation based visual tracking	2007	-5.005703146005339	-12.984006232825479	3652792
+3655251	Vision	multi-template supervised descent method for face alignment	2018	-4.652702160870558	-13.589872028007415	3655278
+3658291	Vision	a generative model for depth-based robust 3d facial pose tracking	2017	-4.679457397033506	-12.709030629273	3658318
+3659317	Vision	learning correspondence structures for person re-identification	2017	-4.744099720383312	-13.337883540700714	3659344
+3659390	Robotics	a variational approach for 3d object classification with retrieval of missing data	2017	-4.451509939057799	-13.17361051184268	3659417
+3661235	Robotics	novel likelihood estimation technique based on boosting detector	2005	-4.9072323245654035	-12.929853425019028	3661262
+3662083	Vision	fast human detection using node-combined part detector	2011	-4.602238429271644	-12.97155502696075	3662110
+3663021	Vision	adaptive weighted real-time compressive tracking	2014	-4.636722560768766	-12.80844244842603	3663048
+3664592	Vision	multiple person tracking based on slow feature analysis	2017	-4.796191618759795	-12.815667203090612	3664619
+3665031	Vision	learning background-aware correlation filters for visual tracking	2017	-4.637809321932644	-12.698291986420626	3665058
+3666578	Vision	online object tracking via bounded error distance	2016	-5.141720026033827	-12.81090016249307	3666605
+3667195	Vision	dynamic multi-level appearance models and adaptive clustered decision trees for single target tracking	2017	-5.091735686515985	-13.050005359505914	3667222
+3670564	Vision	visual saliency estimation through manifold learning	2012	-5.008815669059562	-13.17201651921052	3670591
+3670905	Robotics	semantically guided location recognition for outdoors scenes	2015	-4.354836675560218	-12.779067573118349	3670932
+3671060	Vision	semantic object classes in video: a high-definition ground truth database	2009	-4.466408718585716	-12.707595288122716	3671087
+3672019	Vision	description-discrimination collaborative tracking	2014	-4.915550949870862	-12.753798259042325	3672046
+3672624	Vision	pedestrian counting with back-propagated information and target drift remedy	2017	-4.493940701192511	-12.767329457849026	3672651
+3674211	Vision	correlation tracking via self-adaptive fusion of multiple features	2018	-5.250057478703627	-12.852743514639444	3674238
+3675494	AI	stereo-based pedestrian detection using two-stage classifiers	2011	-4.9822405940528895	-12.82623903400308	3675521
+3677697	Vision	multi-view feature engineering and learning	2015	-5.0339725430682405	-12.769772526473725	3677724
+3679620	Robotics	human tracking and segmentation supported by silhouette-based gait recognition	2008	-4.780929546587691	-13.408738690012438	3679647
+3679672	Robotics	learning variability of image feature appearance using statistical methods	2006	-4.53556611567913	-13.562770201755688	3679699
+3680425	Vision	conflation system mbp	2003	-4.886003503656347	-13.61129074463542	3680452
+3680567	AI	improving the accuracy and low-light performance of contrast-based autofocus using supervised machine learning	2015	-4.5017348629225165	-13.127263061646	3680594
+3681179	Vision	spatial divide and conquer with motion cues for tracking through clutter	2006	-5.266395363150053	-13.3527034414835	3681206
+3683156	Vision	quaternion discrete cosine transformation signature analysis in crowd scenes for abnormal event detection	2016	-4.780309587650263	-13.178155171459462	3683183
+3683214	Vision	bi-label propagation for generic multiple object tracking	2014	-4.8532793150557545	-12.784697758830404	3683241
+3688262	Vision	a spatio-temporal interest point detector based on vorticity for action recognition	2013	-4.795091227806387	-13.128255837916694	3688289
+3688368	Robotics	pedestrian recognition based on hierarchical codebook of surf features in visible and infrared images	2010	-4.923636214466806	-13.59412221067645	3688395
+3689424	Vision	online structure learning for robust object tracking	2013	-4.613324164389493	-12.879589949876811	3689451
+3691029	Robotics	a vision-based serial number recognition algorithm for hsr trains by nearest neighbor chains of connected components	2013	-4.589633633654524	-13.10006813372947	3691056
+3691234	Vision	enhanced mixtures of part model for human pose estimation	2015	-4.500890313873041	-12.866981168844585	3691261
+3691376	Vision	exemplar-based face parsing	2013	-4.416696327892723	-13.517359569908841	3691403
+3692883	Robotics	learning-based video fast-pan detection	2005	-4.583170540586783	-13.460533799685926	3692910
+3695171	Vision	joint and implicit registration for face recognition	2009	-5.065429201515394	-13.556905868973312	3695198
+3698035	Robotics	experimenting wnn support in object tracking systems	2016	-4.923366416923812	-12.728377930705124	3698062
+3698909	Vision	nonparametric feature matching based conditional random fields for gesture recognition from multi-modal video	2016	-4.709050577450708	-13.35936986508334	3698936
+3699435	Vision	a shape-independent method for pedestrian detection with far-infrared images	2004	-5.030946629907271	-12.71865375055389	3699462
+3700261	Vision	real-time tracking via deformable structure regression learning	2014	-4.659039161788553	-12.901965458442435	3700288
+3700772	Robotics	parametric vehicle recognition using knowledge acquisition system	2004	-5.1058941334482935	-13.408771248774405	3700799
+3701888	Vision	weighted deformable part model for robust human detection	2014	-4.7842970917893695	-13.532941714125853	3701915
+3703449	Robotics	3d object discovery and modeling using single rgb-d images containing multiple object instances	2017	-4.332045708892355	-13.095530133069513	3703476
+3705227	Vision	pattern recognition and image analysis	2015	-4.622989494242394	-12.793878017211982	3705254
+3707367	Vision	natural object detection in outdoor scenes based on probabilistic spatial context models	2003	-5.071708495322345	-13.623114263034143	3707394
+3707611	Robotics	airport detection from remote sensing images using transferable convolutional neural networks	2016	-4.403704623069079	-12.769361974498567	3707638
+3707738	Vision	boosted pedestrian detector adaptation in specific scenes	2015	-4.339245812963707	-12.805328471553304	3707765
+3709177	Vision	adaptive appearance learning for human pose estimation	2015	-4.548375282624195	-13.072647409770301	3709204
+3712585	Vision	scalable kernel correlation filter with sparse feature integration	2015	-4.523209716042898	-13.244732422600432	3712612
+3714453	AI	building location models for visual place recognition	2016	-4.541701205764109	-12.956601478572075	3714480
+3715134	Vision	video saliency map detection by dominant camera motion removal	2014	-5.251108574935741	-12.913252121601793	3715161
+3716153	Robotics	designing and optimizing the method for pedestrian detection based on adaboost algorithm	2014	-4.98220565379108	-12.72038420696149	3716180
+3716209	Vision	adaptive algorithm and platform selection for visual detection and tracking	2016	-5.01074240635866	-12.867262961795506	3716236
+3716307	Robotics	statistical background subtraction based on imbalanced learning	2014	-4.816053451176527	-13.04312442085736	3716334
+3716924	Vision	rapid deformable object detection using dual-tree branch-and-bound	2011	-4.622085828619853	-13.275638161365114	3716951
+3719025	Vision	delay: robust spatial layout estimation for cluttered indoor scenes	2016	-4.401776491551458	-12.690624566662214	3719052
+3719521	Vision	revisiting 3d geometric models for accurate object shape and pose	2011	-4.788690610553965	-13.33923930955808	3719548
+3720256	Vision	data-free prior model for upper body pose estimation and tracking	2013	-4.903835280370538	-12.835897980517515	3720283
+3720405	Vision	benchmarking 3d pose estimation for face recognition	2014	-5.07284413203585	-12.910728561275976	3720432
+3725988	Vision	an iterative regression approach for face pose estimation from rgb images	2017	-4.532798049081716	-13.116151699910462	3726015
+3727477	Vision	multiple hypothesis tracking revisited	2015	-4.89397169194184	-12.68480034860442	3727504
+3727644	Vision	motion-aware correlation filters for online visual tracking	2018	-5.080536621162752	-12.749225025787034	3727671
+3728086	Vision	unsupervised fast anomaly detection in crowds	2011	-5.0666867606701995	-13.002665099175301	3728113
+3730281	Vision	spatiotemporal low-rank modeling for complex scene background initialization	2018	-4.9037593414069205	-12.713451781540654	3730308
+3732212	Vision	structured sparse representation appearance model for robust visual tracking	2011	-4.967758779641871	-12.73492899742566	3732239
+3732825	Robotics	robust visual tracking based on gabor feature and sparse representation	2012	-4.981026383940558	-13.144218217969556	3732852
+3734095	Vision	tracking and recognizing actions of multiple hockey players using the boosted particle filter	2009	-4.976470134470007	-12.92081202197899	3734122
+3734408	Vision	face recognition with contiguous occlusion using markov random fields	2009	-4.485926290119696	-13.316220938353364	3734435
+3736010	Vision	transformed hidden markov models: estimating mixture models of images and inferring spatial transformations in video sequence	2000	-5.278907070362884	-12.876806749650154	3736037
+3737233	HCI	research on eye detection and fatigue early warning technologies	2017	-4.962242760571498	-13.554721358029516	3737260
+3738653	AI	learning rich features from objectness estimation for human lying-pose detection	2016	-4.8966200181788375	-12.75989302288311	3738680
+3741682	Vision	semantic structure from motion with points, regions, and objects	2012	-4.949434429893644	-12.803415232020063	3741709
+3742441	Vision	robust object tracking via adaptive sparse representation	2015	-5.187473568637451	-12.956394631518481	3742468
+3742796	ML	configuration estimates improve pedestrian finding	2007	-4.389960978906922	-12.791292588440585	3742823
+3745028	Vision	car detection using deformable part models with composite features	2016	-4.677248669060133	-13.461092421206233	3745055
+3746562	Vision	crowd modeling framework using fast head detection and shape-aware matching	2015	-4.611620702236409	-13.602214628564539	3746589
+3747031	ML	video object segmentation and tracking in stereo sequences using adaptable neural networks	2003	-4.3465150321214345	-13.20108349650832	3747058
+3747401	Vision	person re-identification by pose priors	2015	-4.464713536853176	-12.965478284398953	3747428
+3747794	Vision	msmct: multi-state multi-camera tracker	2018	-5.090316770430715	-12.789205994983847	3747821
+3750361	Vision	data-driven 3d voxel patterns for object category recognition	2015	-4.425911986882474	-13.105497287439814	3750388
+3751519	Vision	fast correlation tracking using low-dimensional scale filter and local search strategy	2017	-4.478403205758449	-12.983350539910306	3751546
+3755045	Vision	face tracking and recognition with visual constraints in real-world videos	2008	-4.6822813836192685	-12.883695387004385	3755072
+3759047	Vision	an object tracking method using extreme learning machine with online learning	2016	-5.079554234173903	-12.816630864722786	3759074
+3760675	Vision	visual tracking by separability-maximum boosting	2013	-4.607643928187448	-12.787434154436175	3760702
+3760857	Vision	spatio-temporal human action localisation and instance segmentation in temporally untrimmed videos	2017	-4.901891726089455	-13.24879082449821	3760884
+3762459	Vision	robust gender recognition for real-time surveillance system	2010	-4.351690651859268	-13.461850479507868	3762486
+3765531	Vision	multi-gait identification based on multilinear analysis and multi-target tracking	2015	-4.952928263905577	-13.193939918466976	3765558
+3766023	Vision	all together now: simultaneous detection and continuous pose estimation using a hough forest with probabilistic locally enhanced voting	2014	-4.544332752440911	-13.425209321217311	3766050
+3766366	Vision	simultaneous facial landmark and 3d action estimation based on probabilistic random forest	2018	-4.418912945340821	-13.327596873467519	3766393
+3767188	Vision	stare: spatio-temporal attention relocation for multiple structured activities detection	2015	-4.978028698549693	-12.70766397219869	3767215
+3768379	Vision	learning discriminative appearance models for online multi-object tracking with appearance discriminability measures	2018	-4.558746625253952	-12.87737574987229	3768406
+3773103	Vision	learning to look up: realtime monocular gaze correction using machine learning	2015	-4.4478607289572105	-12.764357060772165	3773130
+3773317	Vision	simultaneous detection and segmentation for generic objects	2011	-4.357810516685545	-13.21663944643262	3773344
+3773835	Vision	learning a tracking and estimation integrated graphical model for human pose tracking	2015	-4.984367810793041	-12.770898195335866	3773862
+3774134	Vision	efficient and robust learning for sustainable and reacquisition-enabled hand tracking	2016	-5.230329964119512	-12.956753129627845	3774161
+3776438	Vision	scale-invarinat kernelized correlation filter using convolutional feature for object tracking	2018	-4.6884213679971385	-12.864453860228776	3776465
+3777087	Robotics	gamma mixture models for outlier removal	2018	-4.3480021844684265	-12.80321552782766	3777114
+3779900	Vision	pedestrian detection under progressive occlusion	2013	-4.89335717134412	-12.68422683929566	3779927
+3783286	Vision	action-02mcf: a robust space-time correlation filter for action recognition in clutter and adverse lighting conditions	2016	-4.344931710776859	-13.516250028172967	3783313
+3784448	Vision	a generative shape regularization model for robust face alignment	2008	-5.144270714229732	-13.364607259112676	3784475
+3784494	Vision	mask assisted object coding with deep learning for object retrieval in surveillance videos	2014	-4.403538949732244	-13.035914994390357	3784521
+3785571	Vision	object tracking via dual linear structured svm and explicit feature map	2016	-4.736960274034213	-12.793438942302279	3785598
+3787867	Vision	learning similarities for rigid and non-rigid object detection	2014	-5.05132796599194	-12.942188754690134	3787894
+3787875	Vision	facial landmark localization via boosted and adaptive filters	2013	-4.974521573249737	-13.159110298480973	3787902
+3788379	Vision	toward user-specific tracking by detection of human shapes in multi-cameras	2015	-4.3961357121151785	-13.007769678653286	3788406
+3790512	Vision	detecting motion patterns in dynamic crowd scenes	2011	-4.533224480658307	-12.718716841584232	3790539
+3793455	Vision	carried object detection and tracking using geometric shape models and spatio-temporal consistency	2013	-5.250934144216912	-13.111994296695645	3793482
+3795231	Vision	symmetry aware evaluation of 3d object detection and pose estimation in scenes of many parts in bulk	2017	-4.623254913160738	-12.981458106144556	3795258
+3797164	Vision	visual tracking using global sparse coding and local convolutional features	2018	-4.875340700347643	-13.174436331788273	3797191
+3799241	ML	visual tracking by separability-maximum online boosting	2012	-4.359028156200677	-12.761154699434162	3799268
+3800674	Vision	fast robust tracking via double correlation filter formulation	2018	-4.545838606537182	-12.870507378102445	3800701
+3803091	Vision	robust hand tracking using a simple color classification technique	2008	-4.343595152819429	-13.516472463924133	3803118
+3804929	Vision	dynamic belief fusion for object detection	2016	-4.577640515089898	-13.389335136405435	3804956
+3806325	Vision	online boosted tracking with discriminative feature selection and scale adaptation	2012	-4.833167696276159	-13.042745383781938	3806352
+3806371	Vision	exploring visual and motion saliency for automatic video object extraction	2013	-4.884454110791309	-13.467501057667803	3806398
+3807847	Vision	leveraging observation uncertainty for robust visual tracking	2017	-5.281361565354441	-12.930064199496126	3807874
+3808570	Vision	sparse feature learning for visual tracking by least absolute shrinkage and selection operator	2011	-5.187628411475564	-12.81895254280488	3808597
+3810170	Vision	improved semantic region labeling based on scene context	2005	-4.956827817291034	-13.56544589350025	3810197
+3810626	Vision	spore: staged probabilistic regression for hand orientation inference	2017	-4.351132476214505	-13.07825000708076	3810653
+3810741	Vision	adapting generic trackers for tracking faces	2015	-4.716562554497816	-12.713430775750822	3810768
+3813353	Vision	an adaptive multi-scale tracking method based on kernelized correlation filter	2017	-5.184871532115632	-13.119418599370912	3813380
+3813848	Vision	adaboost learning for human detection based on histograms of oriented gradients	2007	-4.522029951969113	-13.428557352807966	3813875
+3816040	Vision	an online learning approach to occlusion boundary detection	2012	-4.965032714906746	-13.018583580122367	3816067
+3816341	Vision	discriminative correlation filter with channel and spatial reliability	2017	-4.709111224319821	-13.022929727102767	3816368
+3816723	Vision	bottom-up &amp; top-down object detection using primal sketch features and graphical models	2006	-4.485596093807395	-13.580408742976621	3816750
+3817514	Vision	the benefits of evaluating tracker performance using pixel-wise segmentations	2017	-4.482117411967064	-12.906631613330571	3817541
+3817836	Vision	fully-automated person re-identification in multi-camera surveillance system with a robust kernel descriptor and effective shadow removal method	2017	-4.4329075807469875	-13.225592594266185	3817863
+3818229	Vision	visual tracking using learned color features	2015	-5.0348591503423785	-13.43948878600606	3818256
+3818448	Logic	optimization algorithm and implementation of pedestrian detection	2013	-4.771560377781876	-13.288603203457269	3818475
+3818876	Vision	single target tracking using adaptive clustered decision trees and dynamic multi-level appearance models	2015	-5.121550233055442	-13.064363515297485	3818903
+3818961	Vision	compressive tracking via appearance modeling based on structural local patch	2014	-4.9126633895653375	-13.510485761274829	3818988
+3819148	Vision	improving real-time pedestrian detection using adaptive confidence thresholding and inter-frame correlation	2018	-5.174827920953825	-12.6989427617491	3819175
+3821853	Vision	3d scene reconstruction using a texture probabilistic grammar	2018	-4.543279642506298	-12.699929863513555	3821880
+3822158	Vision	generative 2d and 3d human pose estimation with vote distributions	2012	-4.833104904181701	-12.79855465993083	3822185
+3824831	AI	weighted interaction force estimation for abnormality detection in crowd scenes	2012	-4.354471643767181	-12.896307900951369	3824858
+3827678	Vision	estimating pose of articulated objects using low-level motion	2012	-4.734471564068682	-13.096928254095989	3827705
+3832036	Vision	real-time grayscale-thermal tracking via laplacian sparse representation	2016	-4.822581172361772	-13.117316384647507	3832063
+3833180	Vision	a novel on-line tracking method based on superpixels cliques	2015	-5.274625374027983	-12.991871302455571	3833207
+3833392	Vision	pedestrian detection in infrared images using hog, lbp, gradient magnitude and intensity feature channels	2014	-5.107084937158094	-13.504591586690845	3833419
+3835258	Vision	online tracking and reacquisition using co-trained generative and discriminative trackers	2008	-4.61772967277038	-12.845117709332756	3835285
+3835613	Vision	towards multi-view and partially-occluded face alignment	2014	-4.536092440612443	-13.34720814389313	3835640
+3835695	Vision	learning complex background by multi-scale discriminative model	2009	-4.988098570523006	-13.230712391938145	3835722
+3836551	Vision	correlation filter tracking via bootstrap learning	2016	-4.810759228756204	-12.884332316117888	3836578
+3839401	Vision	facial feature points detecting based on gaussian mixture models	2015	-5.146888178003507	-13.578447798785975	3839428
+3839513	AI	soft-assigned bag of features tracking	2013	-5.274976797229988	-13.018770230943156	3839540
+3839703	Vision	a failure-aware explicit shape regression model for facial landmark detection in video	2014	-4.6016804061335685	-13.253246238593187	3839730
+3841518	Vision	improvement of a person labelling method using extracted knowledge on costume	2005	-5.144886434795663	-12.9969993898316	3841545
+3841700	Vision	online learning for fast segmentation of moving objects	2012	-4.657642989226458	-12.915031519595198	3841727
+3843329	Vision	object recognition in multi-view dual energy x-ray images	2013	-4.495316873479533	-13.605963982446404	3843356
+3845061	Vision	using dominant sets for data association in multi-camera tracking	2015	-5.219579131817172	-12.803486857257473	3845088
+3847991	Vision	wild animal detection from highly cluttered images using deep convolutional neural network	2018	-5.019162641404309	-12.906071370905206	3848018
+3850201	Vision	joint tracking and segmentation of multiple targets	2015	-5.275965382418292	-13.097134631421847	3850228
+3853565	Vision	detection and segmentation of multiple, partially occluded objects by grouping, merging, assigning part detection responses	2008	-4.73540808384544	-13.505009320303266	3853592
+3855795	Vision	robust correlation filter tracking with shepherded instance-aware proposals	2018	-4.59230192425083	-12.792012133614511	3855822
+3856491	Vision	object tracking with multi-view support vector machines	2015	-4.746863781354633	-13.039735693039908	3856518
+3859680	Vision	motion coherent tracking using multi-label mrf optimization	2011	-5.173595684634587	-13.033168079029384	3859707
+3860054	Vision	hierarchical recognition of human activities interacting with objects	2007	-4.3410083154369214	-12.880839256608938	3860081
+3860641	Vision	3d modeling of faces from near infrared images using statistical learning	2010	-4.533022999531201	-13.442405048347364	3860668
+3860954	Vision	animal detection from highly cluttered natural scenes using spatiotemporal object region proposals and patch verification	2016	-4.441585230817345	-13.283400189805871	3860981
+3861953	Vision	visual tracking with sparse correlation filters	2016	-4.765743124074271	-12.760659381731466	3861980
+3863226	Vision	depth map generation by image classification	2004	-4.876793742390418	-13.237664354114244	3863253
+3863703	Vision	hashmod: a hashing method for scalable 3d object detection	2015	-4.334026918232096	-13.218542392425704	3863730
+3866259	Vision	free training object detection based on multi-stage fusion using belief functions	2016	-4.734188723148071	-13.278136998101852	3866286
+3867478	Vision	adaptively learning background-aware correlation filter for visual tracking.	2018	-4.698652730584126	-12.845528505812052	3867505
+3867957	Vision	a selective tracking and detection framework with target enhanced feature	2018	-5.266159508501836	-12.993147862308133	3867984
+3868544	Vision	detection of multiple dynamic textures using feature space mapping	2009	-5.165903967731824	-13.472796786149292	3868571
+3870071	Vision	real-time tracking framework with adaptive features and constrained labels	2016	-5.090986528921565	-13.515046139741836	3870098
+3871060	AI	a probabilistic framework for patch based vehicle type recognition	2011	-4.497063142559696	-13.172642628855414	3871087
+3871556	Vision	correlation tracking via joint discrimination and reliability learning	2018	-4.822871775127215	-12.698194055812195	3871583
+3872033	Vision	multi-camera saliency	2015	-5.003144575399047	-12.841612022441248	3872060
+3872058	Vision	a robust local sparse tracker with global consistency constraint	2015	-4.909549936767832	-12.829405049216886	3872085
+3872616	Vision	cross-view person identification by matching human poses estimated with confidence on each body joint	2018	-4.853298687897839	-12.829454897540042	3872643
+3874882	Vision	robust visual tracking based on scale invariance and deep learning	2016	-5.170321516571449	-12.897886778112454	3874909
+3875178	AI	mc-hog correlation tracking with saliency proposal	2016	-4.530928402299407	-12.95827464122062	3875205
+3875718	Vision	using the analytic feature framework for the detection of occluded objects	2013	-5.050007927957214	-13.245103039283455	3875745
+3877567	Vision	a real-time mrf based approach for binary segmentation	2012	-4.709081857595344	-12.898504037778233	3877594
+3881433	Vision	pose-conditioned joint angle limits for 3d human pose reconstruction	2015	-4.575030063646912	-12.801546058136509	3881460
+3882421	Vision	generalized kernel-based visual tracking	2010	-4.579958489685126	-12.828186336624636	3882448
+3883333	Vision	a unified tree-based framework for joint action localization, recognition and segmentation	2013	-4.776240619369225	-13.247108446677391	3883360
+3883787	Vision	camera compensation using a feature projection matrix for person reidentification	2014	-5.024085099498809	-13.5097178587516	3883814
+3884017	Vision	multi-view multi-object tracking based on global graph matching structure	2016	-5.0057106429439875	-12.772629438112636	3884044
+3884728	Vision	synergy between face alignment and tracking via discriminative global consensus optimization	2017	-4.739140283621691	-12.76914670152894	3884755
+3884814	Robotics	fast multi-feature pedestrian detection algorithm based on histogram of oriented gradient using discrete wavelet transform	2015	-4.888213815688325	-13.36839704711486	3884841
+3885976	Vision	fast and precise face alignment and 3d shape reconstruction from a single 2d image	2016	-4.438477552838476	-12.911564384780855	3886003
+3889253	Vision	rate-efficient visual correspondences using random projections	2008	-4.50358474580096	-13.576667904462886	3889280
+3892627	Vision	robust semi-automatic head pose labeling for real-world face video sequences	2012	-4.989674606393748	-13.060734377893294	3892654
+3893431	Vision	super-resolution for facial image using multilateral affinity function	2014	-4.333477711528551	-12.892387463255313	3893458
+3893481	Vision	generating reliable online adaptive templates for visual tracking	2018	-4.760164765114755	-12.829937487523154	3893508
+3893890	AI	non-rigid object tracking via deep multi-scale spatial-temporal discriminative saliency maps	2018	-4.608044128396911	-13.367671569417826	3893917
+3894183	Vision	fingerprint pose estimation based on faster r-cnn	2017	-4.903581266307689	-13.235479877429864	3894210
+3894300	Vision	incremental mpca for color object tracking	2010	-4.991646262790472	-12.717172285654705	3894327
+3895622	Vision	a data-driven approach for human pose tracking based on spatio-temporal pictorial structure	2016	-5.223982802848223	-12.786688133746114	3895649
+3896569	Vision	a probabilistic framework for 3d visual object representation	2009	-4.959064531295613	-12.724970649873658	3896596
+3897257	Vision	visual tracking based on correlation filter and robust coding in bilateral 2dpca subspace	2018	-5.031882599990885	-12.873119910636136	3897284
+3897564	Vision	pose-invariant 3d face alignment	2015	-4.649840542090075	-13.435743734563555	3897591
+3898857	Vision	sequential sample consensus: a robust algorithm for video-based face recognition	2015	-5.155241125305435	-12.814458204221795	3898884
+3899012	Vision	learning sampling distributions for efficient object detection	2017	-4.6453339994854375	-13.536879802636594	3899039
+3900018	Robotics	partial least squares based subwindow search for pedestrian detection	2011	-4.79538824992856	-13.43379051642802	3900045
+3900074	AI	a novel visual tracking system with adaptive incremental extreme learning machine	2017	-4.5203370650131065	-12.830562627607591	3900101
+3901286	Vision	discriminative low-rank tracking	2015	-4.6094685854689885	-12.802067527088607	3901313
+3904849	Vision	viewpoints and keypoints	2015	-4.533478936262498	-12.995100374645151	3904876
+3904923	Vision	learning to segment	2004	-4.5552663533109286	-13.592736601400551	3904950
+3905314	Robotics	a model-based 3d face pose and animation tracker with auto-registration using a binocular ekf kernel	2012	-5.270183312987253	-13.423958452270815	3905341
+3905846	Vision	content-related spatial regularization for visual object tracking	2018	-4.55488961641022	-12.716432037991787	3905873
+3906441	Robotics	temporal consistency object tracker with ranking mechanism	2015	-4.761245013530617	-12.781009416806965	3906468
+3906753	AI	prototype-based budget maintenance for tracking in depth videos	2016	-4.655703194673301	-13.037670903235554	3906780
+3907686	Vision	a co-occurrence background model with hypothesis on degradation modification for object detection in strong background changes	2018	-4.9823310257348865	-13.357365067610276	3907713
+3914423	Vision	cascaded hand pose regression	2015	-4.616221751402926	-12.812937368084741	3914450
+3914843	Vision	improved kernel based tracking for fast moving object	2010	-5.262866125995247	-13.095203840239453	3914870
+3916054	Vision	advances in multimedia information processing - pcm 2016	2016	-5.2678802674112735	-13.311877317923248	3916081
+3916222	Vision	unsupervised color classifier training for soccer player detection	2013	-5.20427614748654	-13.484241580087518	3916249
+3918665	Vision	local temporal coherence for object-aware keypoint selection in video sequences	2017	-4.91956948566592	-13.470967890539699	3918692
+3920199	Vision	cascaded collaborative regression for robust facial landmark detection trained using a mixture of synthetic and real images with dynamic weighting	2015	-4.473342838356269	-13.287599389224534	3920226
+3921262	Vision	3d visual proxemics: recognizing human interactions in 3d from a single image	2013	-4.687757598026648	-13.090620515752963	3921289
+3921747	Vision	3-d laser-based multiclass and multiview object detection in cluttered indoor scenes	2017	-4.450013448249939	-12.816630151076195	3921774
+3922010	Vision	detecting and segmenting humans in crowded scenes	2007	-5.094183935063798	-13.379827576450115	3922037
+3922192	Vision	people detection in low-resolution video with non-stationary background	2009	-5.085251269071676	-12.93945398173358	3922219
+3925698	Vision	spatial neighborhood-constrained linear coding for visual object tracking	2014	-4.5200696871265995	-13.041511649300814	3925725
+3928914	Vision	3d part-based sparse tracker with automatic synchronization and registration	2016	-5.1664374233680315	-12.68524871220114	3928941
+3929322	Vision	weakly supervised scale-invariant learning of models for visual recognition	2006	-4.712226009598101	-13.444486723619995	3929349
+3930547	Robotics	visual objects description for their re-identification in multi-camera systems	2012	-5.0998932654807145	-12.828949866726534	3930574
+3930629	Vision	robust visual tracking by hierarchical convolutional features and historical context	2017	-4.782534059465548	-12.803392338411253	3930656
+3931955	Vision	on the effect of temporal information on monocular 3d human pose estimation	2011	-5.221914531734915	-12.7158615083682	3931982
+3934412	Vision	a greedy part assignment algorithm for real-time multi-person 2d pose estimation	2018	-4.948390636667249	-12.784505240472619	3934439
+3935878	HCI	unsupervised graph based video object extraction	2015	-4.3687292450988755	-13.575861273809466	3935905
+3936107	Vision	robust visual tracking via patch based kernel correlation filters with adaptive multiple feature ensemble	2016	-4.899731969805182	-12.95218319086787	3936134
+3936371	Vision	generic vs. person specific active appearance models	2005	-4.94649123282981	-13.633867205516696	3936398
+3936715	Vision	space displacement localization neural networks to locate origin points of handwritten text lines in historical documents	2015	-5.020135203916537	-12.866734970515365	3936742
+3937705	Robotics	background scene modeling for ptz cameras using rbm	2014	-4.710131859038497	-12.941495288192446	3937732
+3940389	Vision	an improved fisher discriminant dictionary learning for video object tracking	2012	-4.760578479657527	-12.92137456796381	3940416
+3941556	Vision	feature extraction for efficient image and video segmentation	2016	-4.627103815437919	-13.535151522710096	3941583
+3944277	Vision	robust foreground segmentation based on two effective background models	2008	-5.2559855727945015	-13.099382318077524	3944304
+3944719	Robotics	occlusion handling human detection with refocused images	2018	-4.381715117449805	-13.63948307587173	3944746
+3945149	Vision	person-specific face shape estimation under varying head pose from single snapshots	2010	-5.292554732866191	-12.839988116755805	3945176
+3945877	Vision	fclt - a fully-correlational long-term tracker	2017	-5.088344070543627	-12.747741556863664	3945904
+3954981	Vision	regressing a 3d face shape from a single image	2015	-4.60834890799146	-12.900865840958135	3955008
+3955228	Vision	multi-target tracking by on-line learned discriminative appearance models	2010	-4.461186510179466	-13.054031259519851	3955255
+3955290	Vision	visual tracking via nonlocal similarity learning	2018	-4.792601228233514	-13.273972931607876	3955317
+3959708	AI	learning static object segmentation from motion segmentation	2005	-5.141044404045847	-13.37533942294642	3959735
+3961752	Robotics	3d reconstruction of freely moving persons for re-identification with a depth sensor	2014	-5.262656724515444	-13.218611580405906	3961779
+3963370	Vision	continuous symmetric stereo with adaptive outlier handling	2015	-4.997832635896034	-12.870630013240552	3963397
+3966863	Vision	visual tracking based on discriminative compressed features	2018	-5.0825550847307035	-13.412121749573705	3966890
+3966897	Vision	enhancing the mixture of gaussians background model with local matching and local adaptive learning	2012	-5.247536392877022	-12.868737631068802	3966924
+3967561	Vision	robust object tracking via diverse templates	2016	-5.228479715766363	-12.872864358401364	3967588
+3968305	Robotics	cnn feature boosted seqslam for real-time loop closure detection	2017	-5.172239339950145	-13.07623195674026	3968332
+3970855	Vision	object tracking via null-space discriminative projections and sparse representation	2017	-5.122212297351143	-12.809753627579274	3970882
+3971080	Vision	efficient convnet-based marker-less motion capture in general scenes with a low number of cameras	2015	-4.708910458073465	-12.855758495730354	3971107
+3971637	Robotics	visual object tracking based on cross-modality gaussian-bernoulli deep boltzmann machines with rgb-d sensors	2017	-4.344461244760408	-13.513396341174321	3971664
+3973428	Vision	robust pedestrian detection for semi-automatic construction of a crowded person re-identification dataset	2018	-4.3603153805227475	-12.817986226729335	3973455
+3974008	Robotics	multiband image segmentation and object recognition for understanding road scenes	2011	-4.5718077019048335	-12.959266994806907	3974035
+3974852	Vision	overcoming occlusion with inverse graphics	2016	-4.455666579170584	-13.193577802631214	3974879
+3975136	Vision	robust tracking via weighted spatio-temporal context learning	2014	-5.098168397071297	-12.973389407985703	3975163
+3975859	ML	generative modeling for continuous non-linearly embedded visual inference	2004	-4.842826036635941	-12.922157416151615	3975886
+3978548	Vision	extended kernelized correlation tracking with target enhancement and sample selection	2017	-4.708158346167231	-12.779451143227801	3978575
+3982390	Vision	optical acceleration for motion description in videos	2017	-5.206464495146714	-12.939908405283628	3982417
+3988299	Vision	beyond appearance model: learning appearance variations for object tracking	2016	-4.666261313471132	-12.963308398653126	3988326
+3992344	Vision	robust online multi-object tracking based on tracklet confidence and online discriminative appearance learning	2014	-4.560112807160955	-12.887508765505428	3992371
+3992840	Robotics	cross-season vehicle localization using bag of local 3d features	2017	-4.618939048704773	-12.749427590760883	3992867
+3992934	Vision	an advanced association of particle filtering and kernel based object tracking	2014	-5.1592545388686695	-12.804014733379178	3992961
+3999131	Vision	robust tracking using local sparse appearance model and k-selection	2011	-4.991432239602289	-12.791645414749356	3999158
+3999456	Vision	metric learning based structural appearance model for robust visual tracking	2014	-4.350656758969168	-12.839945890046561	3999483
+4002821	Vision	real-time upper-body detection and orientation estimation via depth cues for assistive technology	2013	-4.384713395445695	-13.165704529078505	4002848
+4002940	Vision	multiclient identification system using adaptive probabilistic model	2010	-5.039088108336488	-12.878966142705204	4002967
+4003027	Vision	human body orientation estimation using a committee based approach	2014	-4.662375281489571	-13.357191494399775	4003054
+4003556	Vision	counting the uncountable: deep semantic density estimation from space	2018	-4.347543088481223	-13.143700770604935	4003583
+4004225	Vision	non-negative sparse coding for motion extraction	2013	-5.2218406467532485	-13.551468402150586	4004252
+4004554	Vision	mirrored non-maximum suppression for accurate object part localization	2015	-4.3419545430224735	-13.146775855702549	4004581
+4008835	Vision	global consistency priors for joint part-based object tracking and image segmentation	2017	-4.994328569804242	-12.86052975077395	4008862
+4009769	Vision	it's moving! a probabilistic model for causal motion segmentation in moving camera videos	2016	-4.672422764577974	-12.699628507602304	4009796
+4010419	Vision	precise temporal action localization by evolving temporal proposals	2018	-4.427876880602269	-13.578014090377627	4010446
+4010909	Vision	near-online multi-target tracking with aggregated local flow descriptor	2015	-5.0879066981425884	-12.69080677177635	4010936
+4011685	Vision	improved correlation filter tracking with hard negative mining	2018	-4.792020577159581	-12.861380065066779	4011712
+4012452	Vision	confidence-based data association and discriminative deep appearance learning for robust online multi-object tracking	2018	-4.515171851681816	-12.876433924411886	4012479
+4012751	Vision	multi-task forest for human pose estimation in depth images	2013	-4.431758430458851	-12.879554343298912	4012778
+4013464	Vision	robust statistical frontalization of human and animal faces	2016	-4.537882183571822	-13.194193161031215	4013491
+4016466	Vision	exploiting hierarchical dense structures on hypergraphs for multi-object tracking	2016	-4.961248323358858	-12.931147041290908	4016493
+4019454	Vision	person re-identification employing 3d scene information	2015	-4.590763057978595	-13.203926054908369	4019481
+4020455	Robotics	a novel incremental weighted pca algorithm for visual tracking	2013	-5.096294896458281	-12.818719228815498	4020482
+4022042	Vision	wildfire smoke detection using spatiotemporal bag-of-features of smoke	2013	-5.26542435650339	-13.05419701069664	4022069
+4023445	Robotics	fast multi-object tracking using convolutional neural networks with tracklets updating	2017	-4.58099366029672	-12.89780453085426	4023472
+4025934	ML	deep learning for 3d shape classification based on volumetric density and surface approximation clues	2018	-4.629382818601163	-13.43497951350915	4025961
+4026437	Vision	structure preserving large imagery reconstruction	2014	-5.1387419219934936	-13.323795294626498	4026464
+4030427	Vision	superpixel tracking via graph-based semi-supervised svm and supervised saliency detection	2015	-4.366643523627134	-13.150800781271027	4030454
+4031244	Robotics	hybrid discriminative visual object tracking with confidence fusion for robotics applications	2011	-4.622847132218654	-13.205130882633954	4031271
+4036194	Vision	discriminative spatial attention for robust tracking	2010	-5.144217320545708	-12.949367832532012	4036221
+4036277	Robotics	a convolutional neural network based on double-tower structure for underwater terrain classification	2018	-4.708159406125535	-12.838866175692573	4036304
+4036935	Vision	multi-source approach for crowd density estimation in still images	2017	-5.017724740755568	-13.593507084550062	4036962
+4045567	Vision	a coupled hidden markov random field model for simultaneous face clustering and tracking in videos	2017	-4.895204139423967	-12.979760657491806	4045594
+4046411	Vision	analysis of skeletal shape trajectories for person re-identification	2017	-4.95996775654918	-13.187247087756717	4046438
+4049484	Vision	evaluating feature importance for object classification in visual surveillance	2006	-4.6236031422522785	-12.73545634121558	4049511
+4050333	Vision	or-pca with mrf for robust foreground detection in highly dynamic backgrounds	2014	-5.186166772758512	-12.728935562966633	4050360
+4051832	Graphics	interactive character posing by sparse coding	2012	-4.824549419612478	-13.047444715161483	4051859
+4052066	Vision	a robust framework for visual object tracking	2009	-4.8090123130569085	-12.725593482181008	4052093
+4052645	Vision	soft biometrics integrated multi-target tracking	2014	-5.184409860380258	-12.864187126184197	4052672
+4053855	Vision	online selection of tracking features using adaboost	2007	-4.718078922817695	-12.96980504456894	4053882
+4054417	Robotics	3d tracking swimming fish school using a master view tracking first strategy	2016	-5.1060603682556245	-12.913561237580206	4054444
+4055612	Vision	orinet: a fully convolutional network for 3d human pose estimation	2018	-4.53386088996666	-12.957562155238008	4055639
+4056797	Vision	hallucinating faces: global linear modal based super-resolution and position based residue compensation	2009	-4.575907554652955	-12.838559498279364	4056824
+4058585	Vision	dynamically modulated mask sparse tracking	2017	-5.2363301186735	-13.037915331952894	4058612
+4058743	Robotics	object tracking using incremental 2d-lda learning and bayes inference	2008	-5.176674603922372	-12.912422559151171	4058770
+4058843	Vision	robust visual tracking based on online learning sparse representation	2013	-4.8263306774739805	-12.97364922905884	4058870
+4060266	Vision	automated detection and tracking of slalom paddlers from broadcast image sequences using cascade classifiers and discriminative correlation filters	2017	-4.908074252509377	-12.777873830928453	4060293
+4060560	Vision	part-based multiple-person tracking with partial occlusion handling	2012	-4.981088840756657	-12.81143535637798	4060587
+4061279	Robotics	real-time human intrusion detection using audio-visual fusion	2012	-4.622277305536956	-13.119936687732036	4061306
+4064844	Vision	statistical local difference pattern for background modeling	2011	-5.195781926285592	-13.160037713325725	4064871
+4065118	Vision	efficient non-maximum suppression	2006	-5.2001108894032	-13.238843667425547	4065145
+4065163	Vision	transfer learning based compressive tracking	2013	-4.612559149314242	-12.816588050220313	4065190
+4065238	Vision	face recognition in videos using adaptive graph appearance models	2010	-5.171829917377639	-13.495646083866664	4065265
+4066310	Vision	semantic segmentation of urban scenes with enhanced spatial contexts	2016	-4.9503176307424415	-13.270635804974251	4066337
+4066446	Robotics	real time head model creation and head pose estimation on consumer depth cameras	2014	-4.6623962553938725	-13.260089162560758	4066473
+4066682	Vision	foreground segmentation for static video via multi-core and multi-modal graph cut	2009	-5.221967630854821	-13.092958748753803	4066709
+4068383	Robotics	a hybrid real-time visual tracking using compressive rgb-d features	2015	-4.64032237052004	-12.836423238701663	4068410
+4069971	Vision	adaptive object tracking by learning hybrid template online	2011	-5.033032451099128	-12.986817542602516	4069998
+4070324	Vision	collaborative tracking: dynamically fusing short-term trackers and long-term detector	2013	-5.033058831977657	-12.721730112584954	4070351
+4071605	AI	online hash tracking with spatio-temporal saliency auxiliary	2017	-4.789255058461452	-12.92943032868405	4071632
+4072521	Robotics	cbf: circular binary features for robust and real-time pupil center detection	2018	-4.7359243677075575	-13.600854957574372	4072548
+4072669	Robotics	group object detection and tracking by combining rpca and fractal analysis	2018	-5.209893319287829	-13.140616678902221	4072696
+4072935	Robotics	an improved mean-shift tracking algorithm using pso-based adaptive feature selection	2012	-5.199461381109692	-13.036612763680955	4072962
+4073955	Vision	visual tracking by dictionary learning and motion estimation	2012	-5.262295971406762	-12.78485988728405	4073982
+4074735	Vision	locator-checker-scaler object tracking using spatially ordered and weighted patch descriptor	2017	-5.131289960152079	-13.216788380424594	4074762
+4076752	Vision	real-time robust tracking for motion blur and fast motion via correlation filters	2016	-5.080448131989455	-12.810480713602338	4076779
+4076848	Vision	semantic segmentation-based stereo reconstruction with statistically improved long range accuracy	2017	-4.517435531728031	-12.739455309374753	4076875
+4077132	Vision	computer vision – eccv 2016 workshops	2016	-4.572461795591175	-12.87273810709523	4077159
+4077329	Vision	efficient extraction of human motion volumes by tracking	2010	-4.866373008340744	-12.91893245588836	4077356
+4078391	Vision	figure/ground video segmentation via low-rank sparse learning	2016	-4.866429187115928	-12.968793760343061	4078418
+4078678	Vision	a novel approach for vehicle detection using an and–or-graph-based multiscale model	2015	-4.4095519457675305	-12.982948402521153	4078705
+4079551	Vision	online multi-person tracking using integral channel features	2016	-4.603745136454221	-12.75537358776783	4079578
+4082128	Robotics	roi-based robotic grasp detection in object overlapping scenes using convolutional neural network	2018	-4.554643688476619	-13.587777208558945	4082155
+4083097	Vision	global coupled learning and local consistencies ensuring for sparse-based tracking	2015	-4.709135937541869	-12.902469510123662	4083124
+4084911	Vision	appearance based background subtraction for ptz cameras	2016	-4.638623590911156	-13.292835831572887	4084938
+4085092	Vision	temporally consistent multi-class video-object segmentation with the video graph-shifts algorithm	2011	-4.701787146491099	-13.309387697078927	4085119
+4085674	Vision	indoor scene recognition using task and saliency-driven feature pooling	2012	-4.403634173706832	-13.015014881022088	4085701
+4086179	Vision	a diffusion and clustering-based approach for finding coherent motions and understanding crowd scenes	2016	-5.054408978526451	-12.906667537742136	4086206
+4086820	Robotics	a real-time pedestrian detection system based on structure and appearance classification	2010	-4.784501454586495	-12.980028526240742	4086847
+4087501	Vision	detecting questionable observers using face track clustering	2011	-4.730222618029173	-13.281478271838925	4087528
+4092863	Vision	part-based visual tracking via structural support correlation filter	2018	-5.125842581398043	-12.882947257189755	4092890
+4094220	AI	omega model for human detection and counting for application in smart surveillance system	2013	-4.825013717592048	-13.429603135825861	4094247
+4095711	Vision	robust visual tracking via augmented kernel svm	2014	-4.728483444347148	-12.986149547535264	4095738
+4097665	Vision	small-variance nonparametric clustering on the hypersphere	2015	-5.166886523914939	-12.731058990772894	4097692
+4098008	Vision	multiple person re-identification using part based spatio-temporal color appearance model	2011	-5.115237836444615	-13.222554045120509	4098035
+4099914	Vision	gspn: generative shape proposal network for 3d instance segmentation in point cloud	2018	-5.162335589478496	-13.398645141885345	4099941
+4102533	Vision	efficient branching cascaded regression for face alignment under significant head rotation	2016	-4.378780483970797	-12.756299087462931	4102560

@@ -1,0 +1,59 @@
+{
+  "name": "deepscatter",
+  "version": "1.0.0",
+  "description": "Build zoomable scatterplots with millions of points using D3",
+  "main": "index.js",
+  "scripts": {
+    "babel": "babel --presets es2015 index.js -o build/main.bundle.js",
+    "watch": "webpack --watch",
+    "start": "webpack-dev-server --open",
+    "build": "webpack",
+    "dev": "webpack-dev-server --host 192.168.0.3 --inline --hot --open --port 8080"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CreatingData/deepscatter.git"
+  },
+  "keywords": [
+    "Data",
+    "Visualization",
+    "D3",
+    "Scatterplot"
+  ],
+  "author": "Ben Schmidt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CreatingData/deepscatter/issues"
+  },
+  "homepage": "https://github.com/CreatingData/deepscatter#readme",
+  "dependencies": {
+    "@babel/core": "^7.11.0",
+    "babel-loader": "^8.1.0",
+    "clean-webpack-plugin": "^3.0.0",
+    "d3-array": "^1.2.4",
+    "d3-bboxCollide": "^1.0.4",
+    "d3-color": "^2.0.0",
+    "d3-ease": "^1.0.5",
+    "d3-fetch": "^1.2.0",
+    "d3-force": "^2.1.0",
+    "d3-format": "^1.3.2",
+    "d3-quadtree": "github:bmschmidt/d3-quadtree",
+    "d3-scale": "^2.1.2",
+    "d3-scale-chromatic": "^1.5.0",
+    "d3-tile": "^1.0.0",
+    "d3-timer": "^1.0.10",
+    "d3-zoom": "^1.8.3"
+  },
+  "deprecated": false,
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-preset-es2015": "^6.24.1",
+    "csv-parser": "^2.3.2",
+    "csv-stringify": "^5.3.6",
+    "html-webpack-plugin": "^4.3.0",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  }
+}

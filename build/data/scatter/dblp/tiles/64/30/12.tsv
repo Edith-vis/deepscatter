@@ -1,0 +1,590 @@
+id	area	title	year	x	y	ix
+3375402	Visualization	detection of tremor bursts from the semg signal: an optimization procedure for different detection methods	2011	-0.5166911984475535	-18.88198111404134	3375429
+3376280	Vision	ecg denoising using a dynamical model and a marginalized particle filter	2011	-1.0708853335995734	-18.917975977672423	3376307
+3378124	HCI	using complexity and spectral analyses of noninvasive ldf signals in patients with metabolic syndrome	2018	-0.6915791755662277	-19.27634129772418	3378151
+3378546	ML	an automatic glucose monitoring signal denoising method with noise level estimation and responsive filter updating	2018	-0.9373650434571444	-18.755087955002946	3378573
+3378587	DB	assessment of autonomic nerve activity by circadian rhythm at different stages after acute myocardial infarction based on holter data	2015	-0.542536158102596	-19.296460748254965	3378614
+3380096	Robotics	predictability in heartbeat data	2005	-1.0110195158887654	-19.348331705510887	3380123
+3380841	Visualization	online denoising method to handle intraindividual variability of signal-to-noise ratio in continuous glucose monitoring	2011	-1.0406685950637329	-18.956065283861424	3380868
+3385366	Visualization	effect of atrioventricular conduction on heart rate variability	2011	-0.6241120187810014	-19.22314488222679	3385393
+3386119	Metrics	examination of scale-invariant characteristics of epileptic electroencephalograms using wavelet-based analysis	2014	-1.042730473069123	-19.384196234999926	3386146
+3388734	Visualization	noninvasive biomagnetic detection of isolated ischemic bowel segments	2013	-0.9896539826321691	-19.12909001585184	3388761
+3390306	HCI	ecg recording sites for improving signal-to-noise ratio during atrial depolarisation	2014	-0.7528227293339321	-18.93752299089591	3390333
+3392589	NLP	application of a cepstral distance measure in evoked potential processing	1983	-0.5987122063277515	-19.095181470913342	3392616
+3393183	Visualization	source separation from single-channel recordings by combining empirical-mode decomposition and independent component analysis	2010	-0.919333956132418	-18.993872616674228	3393210
+3393583	Comp.	extraction of fetal ecg from abdominal signal	2009	-0.5408131671838908	-18.780183714603933	3393610
+3393592	AI	in-vivo and ex-vivo hrv discrimination by complex correlation measure	2013	-0.8460938756581722	-19.18264626160502	3393619
+3394209	NLP	an adaptive enhancer with modified signal averaging scheme to detect ventricular late potentials	2003	-0.5153771466244161	-18.936713544208512	3394236
+3394855	HCI	a method for measuring parkinson's disease related temporal irregularity in spiral drawings	2016	-0.7454933193290931	-18.529744690233017	3394882
+3396702	Visualization	an algorithm for source signal extraction from the peripheral nerve	2011	-1.2793910882548996	-19.0142858760388	3396729
+3396764	Robotics	a kalman-based instantaneous frequency estimation for anesthetic depth measurement	2017	-0.7559942620383445	-19.03066846763249	3396791
+3396967	ML	comparison of baseline wander removal techniques considering the preservation of st changes in the ischemic ecg: a simulation study	2017	-0.6576014163546079	-18.90793731944495	3396994
+3397589	ML	discrete cosine transform for meg signal decoding	2013	-1.114317088679745	-19.11225464309259	3397616
+3398012	EDA	influence of delay time on regularity estimation for voice pathology detection	2012	-0.5721762495210727	-19.391971923565574	3398039
+3398658	Visualization	automated tremor amplitude and frequency determination from power spectra	2009	-0.5107263709225933	-18.962156076032212	3398685
+3399311	Visualization	automated removal of ekg artifact from eeg data using independent component analysis and continuous wavelet transformation	2014	-0.5478223879680353	-19.11779931260309	3399338
+3402202	Mobile	a phonocardiographic-based fiber-optic sensor and adaptive filtering system for noninvasive continuous fetal heart rate monitoring	2017	-0.5086621792326789	-18.43682754327952	3402229
+3402933	ML	a treatment of eeg data by underdetermined blind source separation for motor imagery classification	2012	-1.0487084738252672	-19.053886973468238	3402960
+3403420	Robotics	exploring the non-local similarity present in variational mode functions for effective ecg denoising	2018	-1.0642131058299529	-18.86637541609154	3403447
+3404099	ML	tracking tremor frequency in spike trains using the extended kalman smoother	2006	-1.1283473735087424	-18.98843210455873	3404126
+3404843	Graphics	measurement and reduction of motion and ballistocardiogram artefacts from simultaneous eeg and fmri recordings	2007	-1.2887798110318078	-18.864206297162045	3404870
+3405544	Embedded	robust, automatic real-time monitoring of the time course of the individual alpha frequency in the time and frequency domain	2012	-0.9076676710612812	-19.379474480076052	3405571
+3405576	HCI	predicting depressed patients with suicidal ideation from ecg recordings	2016	-0.4977733063310076	-19.21385252328896	3405603
+3408516	SE	block entropy analysis of heart rate variability signals	2006	-0.5485025714541959	-19.31778339451116	3408543
+3411347	Robotics	using dwt for ecg motion artifact reduction with noise-correlating signals	2011	-0.4846821315014296	-18.719644973033756	3411374
+3411474	ML	automatic removal of high-amplitude artefacts from single-channel electroencephalograms	2006	-1.1648954625137649	-19.30247361265044	3411501
+3412718	HCI	cerebrovascular pattern improved by ozone autohemotherapy: an entropy-based study on multiple sclerosis patients	2016	-0.5736069695078778	-19.265160723622905	3412745
+3413604	ML	identification and removal of physiological artifacts from electroencephalogram signals: a review	2018	-1.0982425211430091	-19.278809028134173	3413631
+3417443	Metrics	mean frequency derived via hilbert-huang transform with application to fatigue emg signal analysis	2006	-0.6234045089931575	-18.807244928972988	3417470
+3418441	Visualization	wavelet transform cardiorespiratory coherence detects patient movement during general anesthesia	2011	-0.612273919412865	-18.84866970367132	3418468
+3418855	Robotics	interstitial fluid glucose time-lag correction for real-time continuous glucose monitoring	2013	-0.8907448776303839	-18.78227588308297	3418882
+3418856	ML	oscillometric blood pressure estimation by combining nonparametric bootstrap with gaussian mixture model	2017	-0.4969407216389469	-18.74485872882145	3418883
+3420887	ML	quality estimation of subdurally recorded, event-related potentials based on signal-to-noise ratio	2002	-0.7173393781842838	-19.386324206235727	3420914
+3420970	HCI	premature ventricular contractions, a typical extra-systole arrhythmia, lowers the scaling exponent: dfa as a beneficial biomedical computation	2009	-0.7812561886685491	-19.311630120507942	3420997
+3421225	ML	investigation of neonatal eeg time series using a modified nonlinear dynamical analysis	2009	-1.3296733345859502	-19.3384960552148	3421252
+3421888	ML	multivariable fuzzy measure entropy analysis for heart rate variability and heart sound amplitude variability	2016	-0.6081872066430497	-19.181290331505412	3421915
+3422397	Robotics	process-adapted biosignal processing — an approach of wavelet transformation to intracardial leads	1998	-0.6700379990103683	-18.59813884836376	3422424
+3423300	Visualization	supervised segmentation of microelectrode recording artifacts using power spectral density	2015	-0.7277408788161626	-19.124545269748513	3423327
+3424093	Robotics	adaptive estimation of eeg-rhythms for event classification	2008	-1.0711338782146478	-18.893317659291345	3424120
+3424492	AI	electrical dyssynchrony on noninvasive electrocardiographic mapping correlates with sai qrst on surface ecg	2015	-1.1304307061427254	-19.21781854971121	3424519
+3428403	Visualization	matching pursuit-based time-variant bispectral analysis and its application to biomedical signals	2015	-0.966204931087246	-19.350256355291048	3428430
+3429095	ML	an efficient kalman noise canceller for cardiac signal analysis in modern telecardiology systems	2018	-0.6683225901700732	-18.590725219999367	3429122
+3431232	SE	linear model-based estimation of blood pressure and cardiac output for normal and paranoid cases	2014	-0.880339010526189	-18.63715735473202	3431259
+3431623	Robotics	smoothing the artificial ssvep response using double exponential smoothing method	2013	-0.9036848064685222	-18.70610160471961	3431650
+3432050	Robotics	cross-frequency information transfer from eeg to emg in grasping	2016	-1.1498682205958943	-19.15796087469038	3432077
+3432597	Visualization	unique very low-frequency heart rate variability during deep sleep in humans	2006	-0.9878992519449632	-19.387917939391386	3432624
+3436290	ML	adaptive frequency tracking of the baseline ecg identifies the site of atrial fibrillation termination by catheter ablation	2013	-0.8493744600122259	-19.345531573221432	3436317
+3440174	Vision	non-invasive prediction of catheter ablation outcome in persistent atrial fibrillation by exploiting the spatial diversity of surface ecg	2011	-0.6428776706399063	-19.353615755099142	3440201
+3440339	Robotics	algorithm for automatic detection of pentylenetetrazole-induced seizures in rats	2011	-0.5762862007574429	-19.25153476240961	3440366
+3440719	Visualization	multiscale characterization of chronobiological signals based on the discrete wavelet transform	2000	-0.5662674774502635	-18.80875908274244	3440746
+3441144	Logic	multifractal analysis of posturograms of young and elderly persons	2014	-1.0020108862156023	-18.73388492709359	3441171
+3444152	Visualization	influence of prenatal alcohol and smoke exposure on neonatal vagal tone in response to head-up tilt	2018	-0.5384410933618026	-19.204041353827776	3444179
+3444774	Robotics	a method of removing ocular artifacts from eeg using discrete wavelet transform and kalman filtering	2016	-0.9553640217139616	-19.00868125756979	3444801
+3447551	Mobile	optimal rabbit ear detection and suppression for electronic support receiver	2015	-0.9492114367961711	-18.661450523273423	3447578
+3447585	AI	t-wave alternans hysteresis on heart rate	2015	-0.7139106188415006	-18.668272416279358	3447612
+3448903	ML	adaptive eeg artifact suppression using gaussian mixture modeling	2015	-1.3144507771062828	-19.28943629793388	3448930
+3449509	Vision	understanding phase maps in mri: improved phase unwrapping	2002	-1.2595121253070949	-18.910633453815876	3449536
+3451929	ML	characterization of abdominally acquired uterine electrical signals in humans, using a non-linear analytic method	2005	-0.6765074607362263	-19.116990154210434	3451956
+3452020	AI	delayed recovery of cardiovascular autonomic function after mitral valve surgery - evidence for direct trauma?	2008	-0.6846502480761415	-19.311329924845452	3452047
+3454465	Robotics	multi-scale lempel-ziv complexity analysis of brain states	2016	-0.994533219458344	-19.318728034041353	3454492
+3455210	Robotics	a single channel phonocardiograph processing using emd, svd, and efica	2010	-0.5011513768225305	-18.789023318121675	3455237
+3455276	HCI	morphological changes of pressure pulses in oscillometric non-invasive blood pressure measurements	2014	-0.9333508646725148	-18.62098837082648	3455303
+3455282	HCI	comparison of expert and algorithm agreement in measurement of nerve conduction study parameters	2010	-1.17807099199002	-19.312061624396733	3455309
+3456178	ML	cepstrum based unsupervised spike classification	2013	-0.966162170249938	-19.107136098729168	3456205
+3456405	Metrics	nonlinear analysis of wheezes using wavelet bicoherence	2007	-0.6324311937995132	-19.154876775491214	3456432
+3456506	HCI	multiscale characteristics of human sleep eeg time series	2006	-0.8092578685083002	-19.26897699786189	3456533
+3457143	HCI	use of dominant t-wave to reduce t-wave offset location uncertainty	2013	-0.5897549117023447	-19.20531286360789	3457170
+3458998	ML	filtering by optimal projection and application to automatic artifact removal from eeg	2007	-1.0934831410174446	-19.11161201348768	3459025
+3459669	Arch	theoretical analysis of sequential adaptive processing for fetal electrocardiograms	2015	-0.7308097546952153	-18.692635912118345	3459696
+3461560	Robotics	trs-tms: an eeglab plugin for the reconstruction of onsets in eeg-tms datasets	2013	-0.9439774476888853	-19.055817633762068	3461587
+3461649	Robotics	analysis and processing of in-vivo neural signal for artifact detection and removal	2012	-1.1230750837825272	-19.17356063946321	3461676
+3462547	SE	global sensitivity analysis of a cardiovascular model for the study of the autonomic response to head-up tilt testing	2018	-1.2923024648206465	-19.284064504769685	3462574
+3463134	Web+IR	can a simulation study of t-wave alternans resolve whether twa is t-wave amplitude dependent?	2009	-0.8984728175311325	-19.104669933416115	3463161
+3463870	EDA	matched time-frequency filter for ecg signal enhancement	2003	-0.6511132750651658	-18.807558231597373	3463897
+3464605	ML	a hybrid ica-hermite transform for removal of ballistocardiogram from eeg	2012	-0.9760574083051421	-19.021665242800946	3464632
+3466415	Robotics	chaos in ear plethysmograms: tracking experiment and a model	2008	-1.3885411815002218	-18.930626166961947	3466442
+3466911	ML	instantaneous wavelet correlation of spectral integrals related to records from different eeg channels	2016	-1.3099467645519207	-19.2007931923214	3466938
+3467553	ML	influence of motor unit firing patterns on evaluation of muscle activities by karhunen-loève expansion	2003	-0.8083288552327301	-18.46316651755813	3467580
+3467667	ML	a new method for eliminating stimulus artifact in transient evoked otoacoustic emission using ica	2004	-1.2706844001321778	-19.215288431812148	3467694
+3468682	ML	motion artifact suppression in impedance pneumography signal for portable monitoring of respiration: an adaptive approach	2017	-0.6821075901696764	-18.659342699259433	3468709
+3470198	HCI	influences of digital band-pass filtering on the bcg waveform	2008	-0.8754366164334167	-18.66025544818801	3470225
+3471698	HCI	filtering mfvep signals using wiener filter.	2014	-0.6374371649795131	-18.808889512722736	3471725
+3471898	EDA	signal to noise ratio evaluation in signal averaged ecg by derivative dynamic time warping and piecewise linear approximation	2010	-0.7124943627902618	-18.759876466858927	3471925
+3473934	SE	a novel method for automated fractionation detection in ventricular tachycardia	2016	-0.8842771346788115	-19.366120499456198	3473961
+3475092	Robotics	sensor integration of multiple tripolar concentric ring electrodes improves pentylenetetrazole-induced seizure onset detection in rats	2012	-1.3071308173847829	-19.170043911405653	3475119
+3475981	ML	multiscale poincaré plot analysis of time series from laser speckle contrast imaging data	2017	-0.6955883567708588	-19.270844885796127	3476008
+3477566	ML	waveform type evaluation in congenital nystagmus	2010	-0.6287053285940687	-18.90121981379927	3477593
+3483040	ML	comparative study of approximate entropy and sample entropy robustness to spikes	2011	-0.7788286412740696	-19.207943681414207	3483067
+3483761	HCI	reduced variability in pulse wave velocity and heart rate in depressed patients with suicidal ideation	2015	-0.603595912880313	-18.851206805181306	3483788
+3483826	Mobile	reproducibility of cardiovascular and gas parameters in voluntary apnea related to apnea duration: a case study	2014	-0.6148680345607617	-19.040185350601302	3483853
+3486336	Visualization	a novel and simple technique to allow detection of the position of the r-waves from intraventricular pressure waveforms: application to the conductance catheter method	2001	-0.925609662893881	-18.756016231264496	3486363
+3486955	Visualization	measurement of cardiovascular state using attractor reconstruction analysis	2015	-0.5007603421708274	-19.11711703119137	3486982
+3490351	AI	robust and sensitive method of lyapunov exponent for heart rate variability	2015	-0.492216491809523	-19.351024696171766	3490378
+3491573	Graphics	determining fractal dimension of umbilical artery doppler signals using hurst exponent	2007	-0.5444520168646193	-19.067634432485686	3491600
+3492883	EDA	relaxofon: a neuromuscular blockade monitor for patients under general anesthesia	2012	-1.2525552306931516	-18.97611134574089	3492910
+3494837	HCI	continuous analysis of repolarization characteristics during insulin induced hypoglycemia	2011	-0.5537635239581501	-19.08658186766804	3494864
+3495023	ML	classification of individuals based on sparse representation of brain cognitive patterns: a functional mri study	2012	-0.469141438756519	-19.31174003292062	3495050
+3495726	HCI	characteristic of autonomic nerve activation during aerobic interval training in comparison with aerobic endurance training in cardiac rehabilitation	2012	-0.7956923835030331	-19.07669618682162	3495753
+3497423	ML	dynamic learning of heart sounds with changing noise: an ais-based multi-agent model using systemic computation	2014	-0.7916126761372684	-19.236703753319887	3497450
+3499610	Visualization	time-dependent behavior of microvascular blood flow and oxygenation: a predictor of functional outcomes	2018	-0.947346215118512	-19.263370971454915	3499637
+3501295	ML	onset and offset estimation of the neural inspiratory time in surface diaphragm electromyography: a pilot study in healthy subjects	2018	-0.7734011441906895	-18.58065611948269	3501322
+3501781	Vision	refined generalized multivariate multiscale fuzzy entropy: a preliminary study on multichannel physiological complexity during postural changes	2018	-1.0142903135699108	-19.34612571000144	3501808
+3502247	HCI	irregularity and variability analysis of airflow recordings to facilitate the diagnosis of paediatric sleep apnoea-hypopnoea syndrome	2017	-0.5182980724598593	-18.70359751178753	3502274
+3502711	Visualization	emg and acceleration signal analysis for quantifying the effects of medication in parkinson's disease	2011	-0.4745546581798499	-18.81773511178376	3502738
+3503131	Visualization	multiscale entropy analysis of pulse wave velocity for assessing atherosclerosis in the aged and diabetic	2011	-0.4615177395301431	-18.79487064528257	3503158
+3504296	AI	increasing stability of eeg components extraction using sparsity regularized tensor decomposition	2018	-0.8726268219413659	-19.048481722439888	3504323
+3504987	Visualization	an algorithm for the estimation of the signal-to-noise ratio in surface myoelectric signals generated during cyclic movements	2012	-1.0259135258559229	-18.670796367109176	3505014
+3507197	ML	hrv spectral estimation based on constrained gaussian modeling in the nonstationary case	2013	-1.2127206756084543	-19.05269800495043	3507224
+3507748	Robotics	transfer components between subjects for eeg-based emotion recognition	2015	-0.5225670489039814	-18.663813145451485	3507775
+3508384	Visualization	fractal pattern of heart rate variability revealing unknown very low frequency properties	2015	-0.5968079404742774	-19.29423614876801	3508411
+3508618	Robotics	single-trial event related potentials extraction by using independent component analysis	2009	-1.0712528629985387	-19.159191360595244	3508645
+3509513	HCI	semi-real-time removal of baseline fluctuations in electrocardiogram (ecg) signals by an infinite impulse response low-pass filter (iir-lpf)	2018	-0.7404129547319721	-18.657033297307155	3509540
+3510456	ML	information quantification of empirical mode decomposition and applications to field potentials	2011	-1.2374116164033249	-19.345951055642765	3510483
+3511184	Visualization	noninvasive detection of fibrillation potentials in skeletal muscle	2002	-1.18516073552132	-19.143668467704014	3511211
+3512208	DB	memd-enhanced multivariate fuzzy entropy for the evaluation of complexity in biomedical signals	2016	-0.8080277040463995	-19.369317052432358	3512235
+3512380	ML	transient model of eeg using gini index-based matching pursuit	2016	-1.3677841440205014	-19.228742344539533	3512407
+3514191	ML	selection of wavelet decomposition level for electro-oculographic saccadic de-noising	2013	-0.7614856965547133	-19.165315746971668	3514218
+3514731	Visualization	phase-rectified signal averaging for automatic detection of qrs fragmentation	2016	-0.6442966158521126	-19.100111752200526	3514758
+3514778	NLP	atrial activity extraction from atrial fibrillation episodes based on maximum likelihood source separation	2005	-0.8261550913050172	-19.026579851778624	3514805
+3514876	SE	cerebral near-infrared spectroscopy analysis in preterm infants with intraventricular hemorrhage	2011	-0.913561823132627	-19.28801207551672	3514903
+3514881	Visualization	the respiration pattern as an indicator of the anaerobic threshold	2015	-0.8857203659833727	-18.526977260667735	3514908
+3516921	EDA	transforming artifact to signal: a wavelet-based algorithm for quantifying neonatal movement	2014	-0.530131109069589	-19.021783422366397	3516948
+3517033	Visualization	phase-rectified signal averaging used to estimate the dominant frequencies in ecg signals during atrial fibrillation	2008	-0.6520884655120001	-18.925948023151086	3517060
+3517375	HCI	(multi)fractality of physiological time-series	2006	-0.7959192655676277	-19.19913728634246	3517402
+3518262	ML	time-frequency analysis for characterizing emg signals during fmri acquisitions	2004	-1.1610310505333945	-18.82842328574901	3518289
+3518345	ML	approximate entropy as an indicator of non-linearity in self paced voluntary finger movement eeg	2013	-1.0725642911591595	-19.217463222692	3518372
+3518599	HCI	time-varying assessment of heart rate variability parameters using respiratory information	2017	-0.8442459849782108	-18.904036052416323	3518626
+3520517	Robotics	automatic removal of eeg artifacts using electrode-scalp impedance	2014	-1.0132694503387434	-19.089665037474926	3520544
+3526740	HCI	parametric estimation of sample entropy in heart rate variability analysis	2014	-0.7058298527804998	-19.147594408459003	3526767
+3527811	Vision	artifact removal methods in motor imagery of eeg	2017	-0.625882610013726	-18.956420230449282	3527838
+3532036	ML	higuchi's fractal complexity of rr and qt interval series during transient myocardial ischemia	2013	-0.8327473549919203	-19.28321853374223	3532063
+3533321	EDA	empirical mode decomposition applied for non-invasive electrohysterograhic signals denoising	2015	-0.635045680153671	-18.852013249495037	3533348
+3534534	ML	adapted filter banks for feature extraction in transcranial magnetic stimulation evoked responses	2010	-0.8475733800545495	-19.16720310578642	3534561
+3536204	ML	the modeling and quantification of rhythmic to non-rhythmic phenomenon in electrocardiography during anesthesia	2015	-0.9194009861767348	-19.27802513068788	3536231
+3538635	EDA	characterizing dry electrodes impedance by parametric modeling for arm wearable long-term cardiac rhythm monitoring	2017	-1.0411226651352714	-18.683662949229067	3538662
+3539527	Robotics	order statistic correlation coefficient and its application to association measurement of biosignals	2006	-1.1608675886582154	-19.27766807405295	3539554
+3539542	Visualization	adaptive filtering for suppression of respiratory artifact in impedance cardiography	2011	-0.7717661639212451	-18.52173972697476	3539569
+3539932	Robotics	analysis of blood pressure signal in patients with different ventricular ejection fraction using linear and non-linear methods	2016	-0.4667214001442549	-19.17350346436646	3539959
+3540837	Theory	a new method for analysis of heart rate variability: counting statistics of 1/f fluctuations	1993	-0.5944615973234304	-19.062912901321734	3540864
+3543058	ML	determining the optimal number of meg trials: a machine learning and speech decoding perspective	2018	-0.5565333361555868	-18.803375216306428	3543085
+3544271	HCI	a wavelet transform based method to determine depth of anesthesia to prevent awareness during general anesthesia	2014	-0.7397808610700328	-19.2594488877789	3544298
+3544624	Vision	relationship between cardiac quiescent periods derived from seismocardiography and echocardiography	2015	-0.8905894935731725	-18.439644312491172	3544651
+3545446	ML	noise processing in exercise ecg stress test for the analysis and the clinical characterization of qrs and t wave alternans	2015	-0.5183225054429222	-19.004389030071078	3545473
+3547476	Visualization	frequency recognition methods for dual-frequency ssvep based brain-computer interface	2013	-0.5338444797209122	-18.827683218601326	3547503
+3552987	ML	comparison of different methods to suppress muscle artifacts in eeg signals	2017	-0.9387146513289556	-19.092712905880973	3553014
+3553346	HCI	the adaptive arma analysis of emg signals	2007	-0.9015100230310068	-19.044208306496728	3553373
+3553907	EDA	iterative two-dimensional signal warping - towards a generalized approach for adaption of one-dimensional signals	2018	-0.4896351993711446	-19.229816636271497	3553934
+3554550	HCI	heart rate variability and nonlinear dynamic analysis in patients with stress-induced cardiomyopathy	2012	-0.6129881334139028	-19.335241544344125	3554577
+3555281	HCI	respiration-guided analysis of pulse and heart rate variabilities for acute emotional stress assessment	2017	-0.5234098293531287	-18.860520803192912	3555308
+3556223	ML	white gaussian noise energy estimation and wavelet multi-threshold de-noising for heart sound signals	2014	-1.1356954698886874	-18.690611463545288	3556250
+3556799	Mobile	assessment of frequency specific auditory steady-state response using amplitude modulation with 2-order exponential envelope	2016	-0.6128734091314011	-19.371188109957284	3556826
+3557515	Visualization	variability of ventricular repolarization dispersion quantified by time-warping the morphology of the t-waves	2017	-1.0090223735068449	-19.05104954493305	3557542
+3561338	ML	prediction of intrauterine pressure from electrohysterography using optimal linear filtering	2006	-0.7123065209899838	-18.733510461775655	3561365
+3562611	ML	diba: a data-driven bayesian algorithm for sleep spindle detection	2012	-0.5575024205350262	-18.57058521637604	3562638
+3562782	Metrics	prediction accuracy in multivariate repeated-measures bayesian forecasting models with examples drawn from research on sleep and circadian rhythms	2016	-1.1120204565408045	-19.14534348701045	3562809
+3563425	Visualization	measuring nonlinear effects in respiratory mechanics: a proof of concept for prototype device and method	2014	-0.6338200551106327	-18.449068429126317	3563452
+3565050	ML	inverse modeling of respiratory system during noninvasive ventilation by maximum likelihood estimation	2010	-1.0444616133477331	-18.63842837590337	3565077
+3568741	Robotics	the impact of gravity during head-up tilt	2011	-1.2617280444257777	-18.610344319229924	3568768
+3570501	HCI	parameter optimization for selected correlation analysis of intracranial pathophysiology	2015	-0.5629273594080846	-19.329131676491567	3570528
+3570825	HCI	differences in qt interval determined from multi-lead ambulatory ecg during rest and physical exercise	2006	-0.4930063750249394	-18.9744390437565	3570852
+3571080	Visualization	influence of vagus nerve stimulation parameters on chronotropism and inotropism in heart failure	2014	-1.2155849087915915	-19.374996921215587	3571107
+3576044	Vision	surface emg decomposition based on k-means clustering and convolution kernel compensation	2015	-0.8488075509423483	-18.59111162603791	3576071
+3577630	ML	automatic identification of eye movements using the largest lyapunov exponent	2018	-0.813531539819899	-18.99105260687836	3577657
+3582829	Robotics	incremental activation detection for real-time fmri series using robust kalman filter	2014	-1.2108346566284756	-19.15328394507252	3582856
+3584449	ML	robust model order selection for arma models based on the bounded innovation propagation τ-estimator	2014	-0.9688569674732088	-19.013114119485472	3584476
+3585214	Vision	multiscale evolution of attractor-shape descriptors for assessing parkinson's disease severity	2017	-1.18717221356524	-18.702394568999907	3585241
+3585293	AI	instantaneous 3d eeg signal analysis based on empirical mode decomposition and the hilbert-huang transform applied to depth of anaesthesia	2015	-0.7472886832534442	-19.36803092479821	3585320
+3586123	Vision	comparison of eeg blind source separation techniques to improve the classification of p300 trials	2011	-0.5400100721341524	-18.853125563766085	3586150
+3586213	Visualization	computing complexity in cardiovascular oscillations: selected papers from the 6th conference of the esgco	2012	-1.039023990075598	-19.373573697314395	3586240
+3587660	ML	denoising of ictal eeg data using semi-blind source separation methods based on time-frequency priors	2015	-0.9791570422714324	-19.188684653811105	3587687
+3588264	ML	spatio-temporal comparison between erd/ers and mrcp-based movement prediction	2015	-0.7543418411204025	-19.36509816607844	3588291
+3588593	Visualization	motor unit number index (munix)	2004	-1.0012956301624267	-19.027072086016634	3588620
+3590912	Visualization	noninvasive estimation of motor unit conduction velocity distribution using linear electrode arrays	2000	-1.198169463628148	-18.914270422371107	3590939
+3592121	EDA	cumulant based teager energy operator for ecg signal modeling	2013	-0.8100562009966038	-18.831259291698032	3592148
+3593045	Web+IR	ar spectral analysis technique for human ppg, ecg and eeg signals	2007	-0.6537380556030059	-18.90792257676283	3593072
+3593672	HCI	modal analysis of vocal fold vibrations using laryngotopography	2010	-0.8127912899424664	-18.649870186634992	3593699
+3595148	ML	adaptive filtering in phase space for foetal electrocardiogram estimation from an abdominal electrocardiogram signal and a thoracic electrocardiogram signal	2012	-0.6877521998216133	-18.856250402887284	3595175
+3595608	HCI	eye-blinking artefacts analysis	2007	-1.0494974695885224	-18.95828204092128	3595635
+3596621	EDA	cardiac signal enhancement using normalised variable step algorithm for remote healthcare monitoring systems	2017	-0.6427274903417333	-18.62939011839764	3596648
+3597221	ML	the classification of human tremor signals using artificial neural network	2007	-0.4684174082536798	-19.100724341325954	3597248
+3603268	EDA	a novel cyclic convolution based regularization method for power-line interference removal in ecg signal	2017	-0.9351479003003972	-18.737310835462534	3603295
+3603387	Robotics	analysis of non-stationary hrv as a frequency modulated signal by double continuous wavelet transformation method	2014	-0.9159098454111096	-19.230080644787247	3603414
+3604870	Robotics	meg signal denoising based on time-shift pca	2007	-1.2695821450443239	-18.742935103367365	3604897
+3606707	AI	the optimal de-noising algorithm for ecg using stationary wavelet transform	2009	-0.7156616453776904	-18.75331535390577	3606734
+3607885	Visualization	quantitative eeg and effect of hypothermia on brain recovery after cardiac arrest	2006	-0.7781134786990083	-19.392434257967626	3607912
+3610847	Vision	cancellation of ventricular activity in the ecg: evaluation of novel and existing methods	2007	-0.8858480257374594	-19.10834017581953	3610874
+3612581	ML	new applications of sequential ica mixtures models compared with dynamic bayesian networks for eeg signal processing	2013	-1.3368607242799788	-19.358640473913734	3612608
+3614238	Robotics	estimating correlation dimensions of biological time series with a reliable method	1997	-1.274460590792652	-19.248742096836885	3614265
+3616518	ML	entropy, entropy rate, and pattern classification as tools to typify complexity in short heart period variability series	2001	-1.0686426727037277	-19.343545229214357	3616545
+3616989	HCI	preliminary study on the accuracy of respiratory input impedance measurement using the interrupter technique	2011	-1.0677137526804794	-18.52676482935152	3617016
+3617221	Robotics	denoising performance of modified dual-tree complex wavelet transform for processing quadrature embolic doppler signals	2010	-0.6916750925133148	-18.85927516051338	3617248
+3621052	Robotics	probabilistic estimation of respiratory rate using gaussian processes	2013	-0.5906863210328108	-18.88294508089252	3621079
+3624690	ML	speech reconstruction from human auditory cortex with deep neural networks	2015	-0.525100385325287	-18.731253851987912	3624717
+3625670	EDA	respiratory rate extraction from single-lead ecg using homomorphic filtering	2015	-0.5929750211772724	-18.833251287153185	3625697
+3627037	ML	point process modeling of r-r interval dynamics during atrial fibrillation	2013	-1.1075018218618664	-19.27876602218092	3627064
+3627382	HCI	is a short re-feeding program effective in reducing adverse cardiac events in eating disorder patients?	2015	-0.5454798570033992	-19.08750896464821	3627409
+3628000	ML	spatial feature extraction for classification of nonstationary myoelectric signals	2012	-0.5960339433216923	-18.734059646476574	3628027
+3628291	HCI	influence of high-frequency bandwidth on heart rate variability analysis during physical exercise	2007	-0.6432702215466073	-18.777551329631066	3628318
+3630869	Visualization	phonovibrography: the fingerprint of vocal fold vibrations	2007	-0.9655313612018844	-18.617858579392003	3630896
+3631070	ML	noise removal in electroencephalogram signals using an artificial neural network based on the simultaneous perturbation method	2015	-0.8254701627143891	-18.865527198530387	3631097
+3631783	ML	simultaneous design of fir filter banks and spatial patterns for eeg signal classification	2013	-0.615791798150957	-18.5187557398407	3631810
+3631812	Metrics	adaptive filtering for electromyographic signal processing in scoliosis indexes estimation	2018	-0.7084416652185987	-18.760868755212183	3631839
+3632077	ML	brain function evaluation using enhanced fnirs signals extraction	2014	-1.1828106959272853	-19.28474351184861	3632104
+3632085	EDA	phase correlations in human eeg signal: a case study	2004	-1.0327212284672238	-19.215752776847005	3632112
+3632293	Vision	clinically evaluated procedure for the reconstruction of vocal fold vibrations from endoscopic digital high-speed videos	2007	-0.8375371623213976	-18.69055796595599	3632320
+3633319	Theory	validity test for a set of nonlinear measures for short data length with reference to short-term heart rate variability signal	2000	-1.2098361816923724	-19.115208345062186	3633346
+3633488	ML	nonstationary brain source separation for multiclass motor imagery	2010	-0.9557421875197184	-18.60271554419493	3633515
+3634312	Visualization	robustness of the segmented-beat modulation method to noise	2015	-0.6730770242935987	-18.724483584264284	3634339
+3634471	ML	robust common spatial filters with a maxmin approach	2009	-1.0407369373778623	-18.63186781121264	3634498
+3635979	Visualization	mapping sleep using coupled biological oscillations	2011	-0.9973704843721548	-19.33306091787097	3636006
+3637169	ML	adaptive modeling and spectral estimation of nonstationary biomedical signals based on kalman filtering	2005	-1.0562750849939844	-18.89028377917233	3637196
+3637430	ML	enhanced time-frequency features for neonatal eeg seizure detection	2003	-0.5162402091664505	-19.201192569845386	3637457
+3637551	ML	detection of sleep with new preprocessing methods for eeg analyzing	1997	-1.3577923937277223	-19.179961028402477	3637578
+3638383	Security	the quantification of the qt-rr interaction in ecg signal using the detrended fluctuationanalysis and ararx modelling	2014	-0.6266583089288621	-19.322395817972176	3638410
+3640615	Robotics	real time eye blink noise removal from eeg signals using morphological component analysis	2013	-0.7907654725926279	-19.064360895594188	3640642
+3642755	ML	selection of optimal ar spectral estimation method for eeg signals using cramer-rao bound	2007	-1.1407607925481809	-19.272867410163787	3642782
+3643581	ML	independent vector analysis for ssvep signal enhancement	2015	-0.7153363866180366	-18.96836014097986	3643608
+3644077	AI	extraction of foetal contribution to ecg recordings using cyclostationarity-based source separation method	2010	-0.6426525932981791	-18.767100069785627	3644104
+3644571	DB	a new algorithm for estimating the ν-index using sinusoidal basis functions	2015	-1.0883145838923187	-18.929097619470717	3644598
+3645633	ML	removal of eog artefacts by combining wavelet neural network and independent component analysis	2015	-1.083335083860825	-19.143135992259936	3645660
+3645985	Visualization	a frequency based spatial filter to mitigate volume conduction in electroencephalogram signals	2016	-0.8798919257200377	-18.950459910095095	3646012
+3646411	Embedded	normal ventricular repolarization dispersion range with abrupt heart rate changes	2014	-0.8639292160937365	-19.2371298280528	3646438
+3646759		hemodialysis-induced st-segment deviation	2015	-1.019808702743928	-19.104823568264422	3646786
+3647903	ML	muscle fatigue detection in emg using time–frequency methods, ica and neural networks	2009	-0.6054280274954965	-19.002113342277795	3647930
+3649764	Visualization	homomorphic deconvolution for muap estimation from surface emg signals	2017	-1.0498785746195307	-18.897440177282736	3649791
+3650010	Robotics	lesion localization algorithm of high-frequency epileptic signal based on teager energy operator	2019	-0.6269785973518951	-19.14238506687213	3650037
+3650562	Visualization	analyzing multiresolution wavelet entropy of ecg with visual analytics techniques	2016	-0.7584555261180709	-19.19138375148127	3650589
+3651107	ML	nonlinear data analysis of experimental (eeg) data and comparison with theoretical (ann) data	2002	-1.419127569333002	-19.176941521577337	3651134
+3653052	HCI	relative peripheral blood volume changes induced by premature ectopic beats and their role in hemodialysis	2017	-0.7402753582351707	-19.28461727157284	3653079
+3655306	Visualization	extraction and analysis of $\hbox{t}$ waves in electrocardiograms during atrial flutter	2011	-0.9217789502607836	-19.17868507037905	3655333
+3655364	Robotics	development of one-channel fnirs system and physiological noise reduction in brain hemodynamic responses	2015	-1.2049096069123058	-19.29570667254223	3655391
+3656186	AI	an efficient ecg denoising methodology using empirical mode decomposition and adaptive switching mean filter	2018	-0.658410702713854	-18.76430087603729	3656213
+3659386	ML	entropy analysis of short-term heartbeat interval time series during regular walking	2017	-0.7441536800319017	-19.172655733013716	3659413
+3661422	Web+IR	sperm whale signal analysis: comparison using the autoregressive model and the daubechies 15 wavelets transform	2005	-0.6709278810422029	-19.13546676126584	3661449
+3662166	Robotics	effect of anesthesia on chaotic dynamics in finger plethysmograms	2009	-1.314602277812799	-19.054434859356448	3662193
+3663442	HCI	hemodynamic features extraction from a new arterial pressure waveform probe	2011	-0.7030534650781989	-18.670389339018506	3663469
+3663837	AI	novel non-invasive algorithm to identify the origins of re-entry and ectopic foci in the atria from 64-lead ecgs: a computational study	2017	-1.0445886940521356	-18.753288224412557	3663864
+3663865	ECom	relationships between isopotential areas in eeg maps before, during and after the seizure activity	2008	-0.6301664408347438	-19.184164248708672	3663892
+3666242	EDA	ecg de-noising: a comparison between eemd-blms and dwt-nn algorithms	2015	-0.6377188020052909	-18.887119848655168	3666269
+3666298	Visualization	a novel use of transfer function estimation for early assessment of brain injury outcome	2014	-0.8919596201083398	-19.28557493890604	3666325
+3666347	Robotics	instantaneous phase tracking of oscillatory signals using emd and rao-blackwellised particle filtering	2011	-1.382705057176852	-19.15922379336758	3666374
+3669161	Vision	reconstruction of precordial lead electrocardiogram from limb leads using the state-space model	2016	-0.5100860592264841	-18.492092678104754	3669188
+3669735	EDA	is breathing rate a confounding variable in brain-computer interfaces (bcis) based on eeg spectral power?	2015	-0.7514206662478742	-18.57734863036529	3669762
+3669915	Security	a review of techniques for automatic detection of neonatal seizure using eeg	1999	-0.6124506923520343	-19.158711130547896	3669942
+3670093	HCI	influence of psychological stress on systolic-diastolic interval (sdi) interaction measured from surface electrocardiogram (ecg)	2015	-1.0155737390952937	-19.127722592740593	3670120
+3671187	Robotics	compression of neonatal eeg seizure signalswith finite rate of innovation	2008	-1.343631118198365	-19.112415742071928	3671214
+3671725	EDA	artifact removal for intracranial pressure monitoring signals: a robust solution with signal decomposition	2011	-0.5304262762222284	-18.760785182375525	3671752
+3678363	ML	comparison of eigenvector methods with classical and model-based methods in analysis of internal carotid arterial doppler signals	2003	-0.8661565962344435	-18.844485744972815	3678390
+3678466	EDA	real-time empirical mode decomposition for eeg signal enhancement	2013	-1.063444082094388	-19.206550004521954	3678493
+3681879	Visualization	autonomic control mechanism of maximal lower body negative pressure application	2012	-1.3090039058557827	-19.358055352040147	3681906
+3684061	Visualization	recurrence quantification analysis of heart rate variability and respiratory flow series in patients on weaning trials	2011	-0.6795024719412492	-19.12237866483095	3684088
+3684122	EDA	nonlinear time domain relation between respiratory phase and timing of the first heart sound	2015	-0.7998331440085544	-18.567486860869828	3684149
+3684183	SE	recurrence quantification analysis of age effects on sustained sub-maximal grip contractions	2011	-0.682863695618383	-18.717836643493303	3684210
+3684346	Robotics	nonlinear active noise control for infant incubators in neo-natal intensive care units	2007	-0.5350730081992956	-18.60824529505837	3684373
+3684613	Web+IR	specificity of the moving average method for detecting alternans	2014	-0.5510203493701581	-19.1205160060134	3684640
+3685698	Visualization	variation of respiratory resistance suggests optimization of airway caliber	2012	-1.0764430248809818	-18.705085694641113	3685725
+3686583	Robotics	multifractality in arterial pulse	2008	-0.884870102127375	-19.306474802503878	3686610
+3687303	ML	simple empirical algorithm to obtain signal envelope in three steps	2017	-0.7349504552942608	-19.125977558423944	3687330
+3687974	ML	improved signal processing methods for velocity selective neural recording using multi-electrode cuffs	2014	-1.4223345989506355	-19.003457934248395	3688001
+3688006	Vision	estimation of blood pressure parameters using ex-gaussian model	2016	-0.8553081053295003	-18.851056996214602	3688033
+3688086	HCI	vibration response imaging: evaluation of rater agreement in healthy subjects and subjects with pneumonia	2010	-0.6640188491376845	-18.99346587085502	3688113
+3688759	HCI	the significance threshold for coherence when using the welch's periodogram method: effect of overlapping segments	2011	-0.9771760937020249	-19.183693057329556	3688786
+3691146	Visualization	use of seismocardiogram for the beat-to-beat assessment of the pulse transit time: a pilot study	2015	-0.8707790227960162	-18.946004993036095	3691173
+3691444	Visualization	filtered virtual reference: a new method for the reduction of power line interference with minimal distortion of monopolar surface emg	2015	-1.4143062926596808	-18.917745037567148	3691471
+3691625	ML	evaluation of muscle force classification using shape analysis of the semg probability density function: a simulation study	2014	-1.1740382268999108	-18.691687824993338	3691652
+3694002	EDA	comparative dimensional analysis of atrial fibrillation of treatment of ppf (propafenone)	2007	-0.91653960091206	-18.940406885750075	3694029
+3694422	ML	noise and speckle reduction in doppler blood flow spectrograms using an adaptive pulse-coupled neural network	2010	-0.8072000803493168	-18.948373565178517	3694449
+3694546	SE	spike detection in the preterm fetal sheep eeg using haar wavelet analysis	2011	-0.5583995972454492	-19.386895407074572	3694573
+3695975	SE	a preliminary study of respiratory variations in the photoplethysmogram during lower body negative pressure	2006	-0.7442157715328982	-18.92202451739507	3696002
+3698688	AI	extraction of atrial activity from the ecg by spectrally constrained ica based on kurtosis sign	2007	-0.7646343557667635	-18.980023453391112	3698715
+3699366	ML	robust propagation velocity estimation of gastric electrical activity by least mean p-norm blind channel identification	2007	-1.34555737031235	-19.07958514781535	3699393
+3700707	ML	phonographic signal with a fractional-order chaotic system: a novel and simple algorithm for analyzing residual arteriovenous access stenosis	2013	-1.0232287665253357	-19.20814275109971	3700734
+3702202	EDA	calculation of the pulse wave velocity from the waveform of the central aortic pressure pulse in young adults	2015	-0.6229314672056354	-18.524053378075173	3702229
+3704113	HCI	changes in instantaneous complex dynamics during exercise in chronic mountain sickness	2015	-0.8294963634224438	-19.166748682134212	3704140
+3704878	AI	modeling of human heart rate variability enhanced using stochastic sleep architecture properties	2014	-0.7931101044714638	-19.37997709126465	3704905
+3706091	Embedded	approximate entropy based pulse variability analysis	2003	-0.8148193532207951	-19.233632290915327	3706118
+3708502	SE	selection of singular spectrum analysis components via empirical mode decomposition for extracting information for noninvasive blood glucose estimation system	2016	-0.4660425880253508	-19.053428405616696	3708529
+3712503	DB	a comparison of independent component analysis algorithms and measures to discriminate between eeg and artifact components	2016	-1.093570204493434	-19.254607968711536	3712530
+3713038	ML	towards more efficient objective tests of hearing thresholds: phase based detection of cortical auditory responses	2017	-1.3718942879158644	-19.33896140289188	3713065
+3713303	HCI	is it possible to predict heart rate and range during enhanced cardiac ct scan from previous non-enhanced cardiac ct?	2010	-0.912515960763898	-18.914211023703512	3713330
+3713341	Visualization	motion p3 demonstrates neural nature of motion erps	2011	-0.9907579205454652	-18.7687336587622	3713368
+3715990	Robotics	multivariate emd based approach to eog artifacts separation from eeg	2012	-1.2208444479805631	-19.27522659973832	3716017
+3717925	AI	analysis of non-stationary neurobiological signals using empirical mode decomposition	2008	-1.2879957155634816	-19.38606021468944	3717952
+3718237	AI	ecg enhancement and qrs detection based on sparse derivatives	2013	-0.7772799901005232	-18.8475074988053	3718264
+3718828	HCI	using a short-term parameter of heart rate variability to distinguish awake from isoflurane anesthetic states	2008	-0.7852021504051221	-19.344969129888998	3718855
+3719329	SE	time-variant parametric estimation of transient quadratic phase couplings between heart rate components in healthy neonates	2006	-1.0336184238669557	-19.313901926334445	3719356
+3719459	ML	automatic detection of high-voltage spindles for parkinsonźs disease	2015	-1.093770384962098	-19.327841146025523	3719486
+3720194	EDA	elimination of power line interference from ecg signals using recurrent neural networks	2017	-0.7815766331718694	-18.64507095832948	3720221
+3721031	ML	what is the relation between slow feature analysis and independent component analysis?	2006	-1.2185904543917978	-18.686503945680442	3721058
+3721172	Visualization	analysis of sympathovagal balance in patients with major depressive disorder using wavelet packet transform	2015	-0.6479255614399051	-19.360639020242715	3721199
+3722208	HCI	impact of nonstationarities on short heart rate variability recordings during obstructive sleep apnea	2017	-0.7411901290402322	-19.34187810898253	3722235
+3723103	Visualization	robust estimation of fetal heart rate variability using doppler ultrasound	2003	-0.8410910341877909	-18.650379352152505	3723130
+3723228	Arch	evaluation criteria of biological artifacts removal rate from eeg signals	2014	-0.5619436374164269	-18.926342154937576	3723255
+3726797	ML	a class of monte-carlo-based statistical algorithms for efficient detection of repolarization alternans	2012	-1.2288979539415965	-19.06179828207196	3726824
+3726945	HCI	analysis of speed, curvature, planarity and frequency characteristics of heart vector movement to evaluate the electrophysiological substrate associated with ventricular tachycardia	2015	-1.1727005343934398	-18.981997518306414	3726972
+3727811	EDA	artifacts reduction method in eeg signals with wavelet transform and adaptive filter	2014	-0.7022011950053578	-18.78711327754395	3727838
+3728811	HCI	ventricular arrhythmias and changes in heart rate preceding ventricular tachycardia in patients with an implantable cardioverter defibrillator	2008	-0.4962497078958258	-19.194931585447414	3728838
+3728819	Visualization	analysis of heartbeat dynamics by point process adaptive filtering	2006	-1.0151047448158663	-19.12082485052617	3728846
+3728997	ML	adaptive removal of gradients-induced artefacts on ecg in mri: a performance analysis of rls filtering	2010	-0.7483120236994606	-18.619575445806287	3729024
+3731784	Visualization	the use of continuous wavelet transform based on the fast fourier transform in the analysis of multi-channel electrogastrography recordings	2015	-0.7069810355800993	-18.91168173817218	3731811
+3733752	DB	common spatial patterns for steady-state somatosensory evoked potentials	2013	-0.5874770508207161	-19.023901218405022	3733779
+3735242	EDA	real-time detection and filtering of eye movement and blink related artifacts in eeg	2015	-0.6102407398467421	-18.59687604262118	3735269
+3736064	Vision	higher order statistics analyses based on the mathematical model of surface electromyography	2013	-0.7372726859111541	-18.495380245575394	3736091
+3736242	ML	analysis of discrete signals with stochastic components using flicker noise spectroscopy	2008	-1.0033581269896652	-19.14672828149313	3736269
+3739124	Robotics	the glottaltopograph: a method of analyzing high-speed images of the vocal folds	2012	-1.251382940879083	-18.585178474911217	3739151
+3739979	ML	brain state decoding based on fmri using semisupervised sparse representation classifications	2018	-0.4763211990656328	-18.565888626413905	3740006
+3740994	Robotics	analysis of time-varying eeg based on wavelet packet entropy	2009	-0.7490018750225866	-19.21196443370801	3741021
+3744268	ML	comprehensive common spatial patterns with temporal structure information of eeg data: minimizing nontask related eeg component	2012	-1.0081842688325164	-18.588679480433427	3744295
+3744814	ML	sequential fixed-point ica based on mutual information minimization	2008	-0.9502491948796626	-18.90435361764236	3744841
+3745870	Robotics	spatial filtering for brain computer interfaces: a comparison between the common spatial pattern and its variant	2018	-0.6541128666617171	-18.66753243590572	3745897
+3747757	Visualization	comparison of frequency-based techniques for assessment of baroreceptor sensitivity and heart rate variability	2017	-0.6993261082553573	-19.141946487148086	3747784
+3752564	Vision	an adaptive kalman filter for ecg signal enhancement	2011	-1.4126892840013865	-19.280102042869	3752591
+3754504	ML	acoustical modeling of swallowing mechanism	2011	-1.2038137277679422	-18.967002532023436	3754531
+3758204	ML	improving the ability of matching pursuit algorithm in detecting spikes	2005	-1.0569975507060796	-19.38108376261212	3758231
+3758612	NLP	an ica/hht hybrid approach for automatic ocular artifact correction	2015	-0.7586710626790559	-19.023403589317567	3758639
+3758749	AI	analysis of eeg via multivariate empirical mode decomposition for depth of anesthesia based on sample entropy	2013	-0.6656474255109281	-18.93709718923788	3758776
+3761506	EDA	use of the kalman filter for aortic pressure waveform noise reduction	2017	-0.8019651065258953	-18.457883626144397	3761533
+3762845	ML	foetal heart rate estimation by empirical mode decomposition and music spectrum	2018	-0.6429555258888107	-18.726818800346752	3762872
+3763198	Robotics	monitoring of fetal heart rate using sharp transition fir filter	2018	-0.4991888023396079	-18.659096034664923	3763225
+3763453	AI	cardiac autonomic innervation following coronary artery bypass grafting evaluated by high resolution heart rate variability	2014	-0.7616923090244812	-19.070320570880575	3763480
+3765952	ML	data mining tools used in deep brain stimulation – analysis results	2011	-0.8733411548442441	-19.35832439320729	3765979
+3766309	Robotics	model-based estimation of blood pressure response to epinephrine	2012	-0.8783894502325641	-18.72882871452997	3766336
+3769867	EDA	hyperq - new horizons in myocardial ischemia detection	2006	-0.6926336948841431	-19.131967021993802	3769894
+3771406	Robotics	stroke-related difference in electromyographic signals using refined composite multiscale dispersion entropy-a case study	2018	-0.7943043891744598	-18.474151558480273	3771433
+3772496	Visualization	subject-specific estimation of central aortic blood pressure using an individualized transfer function: a preliminary feasibility study	2012	-1.2723270137664728	-18.483547498057	3772523
+3774140	ML	an eog artifacts correction method based on subspace independent component analysis	2010	-1.1006264260475782	-19.140961985251586	3774167
+3775062	Visualization	comparison of real beat-to-beat signals with commercially available 4 hz sampling on the evaluation of foetal heart rate variability	2013	-0.535665345498327	-19.012640792466346	3775089
+3775588	Logic	eigenfolds: a new approach for analysis of vibrating vocal folds	2002	-1.298278099088762	-18.506174808129945	3775615
+3776057	NLP	ecg compression by multiple peak analysis	1997	-0.5774679921267668	-19.027451735072926	3776084
+3777185	Robotics	a novel method to derive ambulatory blood pressure from the radial pressure waveform	2014	-0.5660014554399538	-18.761813630843587	3777212
+3777424	HCI	a new hos-based blind source extraction method to extract µ rhythms from eeg signals	2010	-0.9355521120431429	-18.805300671714765	3777451
+3778141	Vision	sequential characterization of atrial tachyarrhythmias based on ecg time-frequency analysis	2004	-0.4925522398248565	-19.021975839089283	3778168
+3778417	HCI	effect of cpap therapy on daytime cardiovascular regulations in patients with obstructive sleep apnea	2012	-0.7554930143229689	-19.053735447088773	3778444
+3780051	Theory	characterization and reconstruction of vog noise with power spectral density analysis	2016	-1.0807723495588133	-18.622797272211233	3780078
+3781351	Web+IR	statistical variations of heart orientation in healthy adults	2017	-0.9100397020920512	-18.559834738562593	3781378
+3781743	Visualization	interpretation of approximate entropy: analysis of intracranial pressure approximate entropy during acute intracranial hypertension	2005	-0.8984680654500036	-19.36074312673578	3781770
+3781789	Robotics	analysis of the ecg signal using svd-based parametric modelling technique	2011	-0.8114400075048904	-18.945120538711905	3781816
+3786576	ML	spectral gini index for quantifying the depth of consciousness	2016	-0.5999192202252599	-19.35074814924786	3786603
+3786629	HCI	comparison of baroreflex sensitivity gain during mild lower body negative pressure in presence and absence of long duration bed rest	2013	-0.9189578317499368	-19.18894952685009	3786656
+3787205	DB	time, frequency and information domain analysis of heart period and qt variability in asymptomatic long qt syndrome type 2 patients	2015	-0.65633659542771	-19.343342251753878	3787232
+3787468	HCI	statistical analysis of gait maturation in children using nonparametric probability density function modeling	2013	-0.8046154611304392	-18.67152316004906	3787495
+3788037	Robotics	real-time feedback based control of cardiac restitution using optical mapping	2015	-1.2929689168317848	-18.864385972149968	3788064
+3788151	ML	detection of quadratic phase coupling from human eeg signals using higher order statistics and spectra	2011	-1.2540216304146192	-19.315408029172406	3788178
+3789983	HCI	statistical evaluation of reproducibility of automated ecg measurements: an example from arrhythmogenic right ventricular dysplasia/cardiomyopathy clinic	2014	-0.9969558413350468	-18.99609601732827	3790010
+3791927	Robotics	eit voltage changes on the human scalp due to brain stimulus	2005	-0.9960219794197859	-18.465774620604726	3791954
+3794076	ML	removal of scalp reference signal and line noise for intracranial eegs	2008	-1.382875498803316	-19.38255197455877	3794103
+3795089	Robotics	characterizing nonlinear heartbeat dynamics within a point process framework	2008	-1.2754819670129458	-19.136655153384236	3795116
+3795873	ML	a simple ssa-based de-noising technique to remove ecg interference in emg signals	2016	-0.6758744393071358	-18.867878763906415	3795900
+3795985	Visualization	analysis of the respiratory flow cycle morphology in chronic heart failure patients applying principal components analysis	2011	-0.5289215865742829	-19.281242685112566	3796012
+3796686	ML	accurate detection of speech auditory brainstem responses using a spectral feature-based ann method	2018	-0.6802393510406441	-19.113960597510783	3796713
+3798725	SE	age-related motor unit remodeling in the tibialis anterior	2015	-0.8037587329851454	-18.44297003955747	3798752
+3799284	Vision	an algorithm for rotor tracking in atrial fibrillation using graph search-based periodic peak detection	2016	-1.1777046293232527	-18.985025020787248	3799311
+3800382	Vision	assessment of gait nonlinear dynamics by inhomogeneous point-process models	2014	-1.160846538949654	-19.152643700136927	3800409
+3801321	Robotics	increased arterial stiffness does not respond to renal denervation in an animal model of secondary hypertension	2017	-1.2443932307775472	-19.19707070296561	3801348
+3803933	Robotics	eeg signal enhancement using multivariate wavelet transform application to single-trial classification of event-related potentials	2015	-0.9627356702866671	-19.059878596308405	3803960
+3804536	Visualization	effect of acute myocardial ischemia on different high-frequency bandwidths and temporal regions of the qrs	2011	-0.7085639534166339	-18.916721113617985	3804563
+3804932	ML	optimised use of independent component analysis for eeg signal processing	2017	-1.2927055898922726	-19.360464925702452	3804959
+3807866	Robotics	reducing bias in fractional order impedance estimation for lung function evaluation	2018	-0.7008097368744604	-18.754056200100074	3807893
+3812222	ML	a multicentric study of long-term rhythm patterns in heart rate	2016	-0.6991635147849278	-19.393393303365613	3812249
+3812254	Arch	a 60hz interference reduction using slope trace waves	2009	-0.6835570105401442	-18.57815872805237	3812281
+3814142	Robotics	analysis of causal cardio-postural interaction under orthostatic stress using convergent cross mapping	2016	-1.3979689217966296	-18.82398899063139	3814169
+3815191	Vision	fractal dimension estimation via spectral distribution function and its application to physiological signals	2007	-0.9889424938035896	-19.206853694413308	3815218
+3815378	ML	automatic artefact removal from event-related potentials via clustering	2007	-1.266160797775791	-19.332079177712874	3815405
+3816264	HCI	association of ankle brachial pressure index with heart rate variability in a rural screening clinic	2013	-0.4948466066507902	-18.765166714892832	3816291
+3818088	HCI	baroreflex analysis in diabetes mellitus: linear and nonlinear approaches	2010	-0.816326635148658	-19.37968657565289	3818115
+3818757	DB	using empirical mode decomposition with spatio-temporal dynamics to classify single-trial motor imagery in bci	2014	-0.9763385524768772	-19.21214866132889	3818784
+3820773	ML	good practices in eeg-mri: the utility of <ce:italic>retrospective</ce:italic> synchronization and pca for the removal of mri gradient artefacts	2010	-1.30297265586869	-19.365359451421174	3820800
+3821354	HCI	assessment of the dynamic response of cardiac depolarization during stresstest recovery evaluated in patients with brugada syndrome	2016	-0.9705553145330268	-19.01622879896646	3821381
+3822506	DB	nonlinear analysis of the change points between a and b phases during the cyclic alternating pattern under normal sleep	2012	-0.4670324695805259	-19.041999641646623	3822533
+3823797	SE	analysing cardiac autonomic neuropathy in diabetes using electrocardiogram derived systolic-diastolic interval interactions	2014	-0.6158719237050921	-19.32132239448513	3823824
+3824682	HCI	haemodynamic parameters for assessment of orthostatic intolerance in older people	2013	-0.6974085553157618	-19.03666150980196	3824709
+3826264	ML	adaptive signal processing techniques for extracting abdominal fetal electrocardiogram	2016	-0.6260522859024081	-18.7006339654017	3826291
+3827407	HCI	impact of airflow rate on amplitude and regional distribution of normal lung sounds	2017	-0.7222842041181617	-18.71211754563563	3827434
+3828469	AI	pulse wave k value averaging computation and pathological diagnosis	2013	-0.5509729175181711	-18.702497497061838	3828496
+3828876	ML	linear correlation between fractal dimension of eeg signal and handgrip force	2005	-1.082913999589337	-19.29102144429011	3828903
+3834670	ML	a new algorithm for fetal qrs detection in abdominal recordings	2014	-0.5806612525214886	-18.915895804576746	3834697
+3834830	ML	numerical fourier transform spectroscopy of emg half-waves: fragmentary-decomposition-based approach to nonstationary signal analysis	1999	-1.1397066931227529	-19.265877105972248	3834857
+3836417	ML	research of the autonomic regulation in the formation of the brain microwave radiation restoration processes during rehabilitation of the stroke patients - study by means of the multifractal analysis of the radiophysical complex mrthr signals	2017	-1.011500515162204	-19.25286657138861	3836444
+3836845	ML	ecg p-wave smoothing and denoising by quadratic variation reduction	2011	-0.7499989209699347	-18.808313930084214	3836872
+3838356	Visualization	walsh-hadamard spectral analysis of signals representing bioelectrical activity of the reproductive tract in pigs	2015	-0.6017451853017386	-18.928327024555067	3838383
+3840036	Visualization	a stimulus artifact removal technique for semg signal processing during functional electrical stimulation	2015	-0.8532624591130359	-18.66813063433467	3840063
+3840423	ML	a new approach for an effective eye movement artifact elimination from eeg signal	2015	-1.1389337408034517	-19.19228173708365	3840450
+3841941	ML	using permutation entropy to measure the changes in eeg signals during absence seizures	2014	-0.5747513095140124	-19.330271725415358	3841968
+3843193	SE	response of cerebral tissue oxygenation and arterial blood pressure to postural change assessed by wavelet phase coherence analysis	2014	-0.6224717103251535	-18.69897958508117	3843220
+3843205	Crypto	estudo dos efeitos da posição prona na distribuição regional da aeração e da perfusão pulmonar através da tomografia de impedância elétrica e da tomografia computadorizada multislice	2011	-0.8210866112544721	-18.93808731049413	3843232
+3846679	Robotics	prediction of labor using non-invasive laplacian ehg recordings	2013	-0.6100561781588033	-19.174492870728685	3846706
+3846843	SE	temporal analysis of cardiac autonomic regulation during orthostatic challenge by short-term symbolic dynamics	2015	-0.7407349261675175	-19.1619187265433	3846870
+3851511	ML	is t-wave alternans t-wave amplitude dependent?	2012	-0.8107366530658914	-19.119107555791906	3851538
+3852713	EDA	enhanced fblms algorithm for ecg and noise removal from semg signals	2013	-0.8226867809545871	-18.647637483552845	3852740
+3854855	PL	is cross-sample entropy a valid measure of synchronization between sequences of rr interval and pulse transit time?	2013	-0.6591576986103602	-19.30445756281723	3854882
+3854893	Visualization	characterization of dynamic interactions between cardiovascular signals by time-frequency coherence	2012	-0.9027301820728402	-19.297893462294926	3854920
+3856514	Visualization	time-varying analysis methods and models for the respiratory and cardiac system coupling in graded exercise	2005	-1.2188419988793997	-19.238118694811327	3856541
+3858830	Visualization	poincaré analysis based on short-term heart rate variability data for stress evaluation	2018	-0.6141948947989329	-19.177236842681282	3858857
+3859404	Graphics	distribution rates analysis of symplectic geometry spectrum for surface emg signals on healthy hand muscles	2012	-0.7564697112806714	-19.024588678510952	3859431
+3859646	EDA	early syncope detection during head up tilt test by analyzing interactions between cardio-vascular signals	2016	-0.4772867628660712	-19.243382165969923	3859673
+3861373	Embedded	use of independent component analysis to reduce motion artifact in pulse transit time measurement	2008	-0.5828214972859543	-18.60318075575618	3861400
+3862991	ML	electromyography signal analysis using wavelet transform and higher order statistics to determine muscle contraction	2009	-0.6512466734544967	-18.752107045943507	3863018
+3863453	Visualization	effectiveness of interval training compared with endurance training in cardiac rehabilitation	2011	-0.769547348061485	-18.816647356595727	3863480
+3864355	ML	research on relationship between saccade-related eeg signals and selection of electrode position by independent component analysis	2010	-0.8512924974351632	-18.864616858280577	3864382
+3864443	Vision	eye blink artifact removal in eeg using tensor decomposition	2014	-1.1915574011124972	-19.223615574034373	3864470
+3866089	Vision	amplitude of dominant t-wave alternans assessment on ecgs obtained from a biophysical model	2011	-1.1313545730308032	-19.156655324386797	3866116
+3866440	Robotics	third degree volterra kernel for newborn cry estimation	2010	-1.1109690314964282	-18.96097280685606	3866467
+3867104	Visualization	monitoring ultradian changes in cardiorespiratory control in obstructive sleep apnea syndrome	2011	-0.7835004834154845	-19.28429105508547	3867131
+3870296	EDA	taylor–fourier analysis of blood pressure oscillometric waveforms	2012	-1.1152123241216636	-18.99357095550603	3870323
+3871663	EDA	an accurate method for fourier synthesis of photoplethysmographic signals	2017	-0.5765784502785628	-18.69516200497864	3871690
+3872160	ML	classification of inverse solutions to two dipoles	2013	-0.8570531581434404	-19.3103179895327	3872187
+3872291	Vision	adaptive forward-reverse filter using interpolation methods for artifact suppression in retinal prostheses	2016	-1.0015112603498209	-18.861507453441448	3872318
+3872829	Graphics	comparison of fft and adaptive arma methods in transcranial doppler signals recorded from the cerebral vessels	2002	-0.6782521886479502	-18.84604972254689	3872856
+3874953	Visualization	assessment of ica algorithms for the analysis of crackles sounds	2012	-0.9999317508261149	-19.0184813057316	3874980
+3876294	Graphics	a new approach to time dependent ar modeling of signals and its application to analysis of the fourth heart sound	1992	-0.8453786199172163	-18.933404293411755	3876321
+3879851	HCI	automated versus interactive spectral analysis of heart rate variability from 24-hour holter recordings in heart failure patients	2012	-0.4952060342765802	-18.786228107831032	3879878
+3879898	ML	on better estimating and normalizing the relationship between clinical parameters: comparing respiratory modulations in the photoplethysmogram and blood pressure signal (dpop versus ppv)	2015	-1.0625340112796078	-18.933535410178266	3879925
+3880041	Visualization	instantaneous assessment of autonomic cardiovascular control during general anesthesia	2011	-1.1788736942712024	-19.35395888272902	3880068
+3880504	Robotics	using the vectorcardiogram to remove ecg noise	2012	-0.5286184206244924	-18.798494515381247	3880531
+3880710	ML	detection of linear and nonlinear dependencies in time series using the method of surrogate data in s-plus	2000	-1.2294651701941068	-19.17964037322589	3880737
+3880849	ML	assessment of heart rate variability by application of central tendency measure	2015	-0.6010072379060974	-19.34874987244433	3880876
+3880990	Robotics	detrending knee joint vibration signals with a cascade moving average filter	2012	-0.6964048926862159	-18.51160497320595	3881017
+3881086	Visualization	"""comments on """"femoral surface strain in intact composite femurs: a custom computer analysis of the photoelastic coating technique"""" [with reply]"""	2001	-0.7487689849807392	-18.620614035514183	3881113
+3882507	HCI	cardiorespiratory dynamic response to mental stress: a multivariate time-frequency analysis	2013	-0.9872730963466916	-19.26522344646643	3882534
+3883806	ML	stochastic and deterministic stationarity analysis of eeg data	2017	-1.0842593009447072	-19.26939931856653	3883833
+3885590	Vision	changes of the beat amplitude power after partial left ventriculectomy and coronary artery bypass grafting	2003	-1.0321185863678486	-18.926861769797586	3885617
+3887192	AI	non uniform embedding based on relevance analysis with reduced computational complexity: application to the detection of pathologies from biosignal recordings	2014	-0.6259900593938508	-19.334370482002054	3887219
+3890163	Visualization	early detection of hemorrhage via central pulse pressure derived from a non-invasive peripheral arterial blood pressure waveform	2012	-0.5694871579985289	-18.603115238130428	3890190
+3890550	Visualization	heart sound cancellation based on multiscale products and linear prediction	2004	-0.7864857187021818	-18.836367468570963	3890577
+3890675	ML	application of artificial neural networks (anns) to complex oscillations in the human pupil light reflex	1992	-1.2270979960932833	-18.99754339795887	3890702
+3891314	Visualization	transfer function between intracranial pressure and aortic blood pressure and carotid blood flow	2018	-1.0602324918110926	-19.227921570823586	3891341
+3893421	ML	time series mining approach for noninvasive intracranial pressure assessment: an investigation of different regularization techniques	2009	-1.1413165080322567	-19.084255860125705	3893448
+3894059	Vision	changes in the complexity of heart rate variability with exercise training measured by multiscale entropy-based measurements	2018	-0.8718328729186366	-19.361225761904908	3894086
+3895048	Visualization	improved pulse wave velocity estimation using an arterial tube-load model	2014	-0.9984590573394748	-18.48368067978341	3895075
+3897559	ML	spectral moments of mechanomyographic signals recorded with accelerometer and microphone during sustained fatiguing contractions	2006	-0.7308206422235998	-18.9035706752245	3897586
+3900415	ML	automatic removal of sparse artifacts in electroencephalogram	2011	-1.040317323069922	-19.076770449718197	3900442
+3901727	Embedded	electromyogram-triggered inspiratory event detection algorithm	2012	-1.388722498972393	-18.78784364112785	3901754
+3901924	ML	fast removal of ocular artifacts from electroencephalogram signals using spatial constraint independent component analysis based recursive least squares in brain-computer interface	2015	-0.6712666516280041	-18.962044798857924	3901951
+3902648	AI	denoising of weak ecg signals by using wavelet analysis and fuzzy thresholding	2012	-0.6055955912179276	-18.81950650408321	3902675
+3904496	HCI	estimation of the respiratory system parameters	2011	-0.8631455727978958	-18.68571537741242	3904523
+3905312	Vision	a tongue-machine interface: detection of tongue positions by glossokinetic potentials	2010	-1.0590307848786715	-18.701912270072654	3905339
+3907695	AI	ssvep recognition by modeling brain activity using system identification based on box-jenkins model	2018	-0.4679799566926662	-18.734079952395426	3907722
+3908807	Robotics	analysis of eeg signals during micro-sleeps	2004	-0.7637167002359018	-18.957614886477934	3908834
+3910088	ML	automatic identification of artifact-related independent components for artifact removal in eeg recordings	2016	-1.1405295944919875	-19.307157248098463	3910115
+3910476	HCI	left–right asymmetry in spectral characteristics of lung sounds detected using a dual-channel auscultation system in healthy young adults	2017	-0.8557384116175779	-18.98150325516084	3910503
+3911510	EDA	full frequency de-noising method based on wavelet decomposition and noise-type detection	2016	-0.7264270310593104	-19.06123000237613	3911537
+3912698	ML	identification of dynamic patterns of body sway during quiet standing: is it a nonlinear process?	2010	-1.2840555430952756	-19.065670125983967	3912725
+3913117	SE	very low frequency modulation in qrs slopes and its relation with respiration and heart rate variability during hemodialysis	2013	-0.8189366954355524	-19.17356961087474	3913144
+3914267	ML	sequential beat-to-beat p and t wave delineation and waveform estimation in ecg signals: block gibbs sampler and marginalized particle filter	2014	-0.9861149327971366	-18.829407239373715	3914294
+3916429	Visualization	denoising and segmentation of the second heart sound using matching pursuit	2012	-0.5159164358232127	-18.918421923310248	3916456
+3916649	Vision	reducing the computational complexity of eeg source localization with cortical patch decomposition and optimal electrode selection	2018	-1.2314781032829747	-19.13780141786665	3916676
+3916830	SE	fuzzy logic sbp and rr modelling evaluated under parasympathetic blockade	2016	-0.8625156151815171	-19.31611860226366	3916857
+3923068	ML	higher order complexity of time series	2004	-1.2408384158384032	-19.31817207092961	3923095
+3923150	HCI	wavelet analysis of generalized tonic-clonic epileptic seizures	2003	-0.8354523938177635	-19.386189665541337	3923177
+3923201	Visualization	toward an acoustic noninvasive diagnosis of urinary bladder outlet obstruction	2008	-1.018514090118686	-19.142935833442024	3923228
+3923554	EDA	a review on the current state of artifact removal methods for electroencephalogram signals	2015	-0.7967479131737423	-18.997637328147302	3923581
+3924280	Visualization	fast technique for noninvasive fetal ecg extraction	2011	-0.98637723293792	-18.897986063809572	3924307
+3924558	ML	intrinsic mode entropy for nonlinear discriminant analysis	2007	-0.7823423886655821	-19.212722106795926	3924585
+3925270	Vision	neural spike sorting using mathematical morphology, multiwavelets transform and hierarchical clustering	2010	-0.9245814802883672	-19.098112844983703	3925297
+3925775	ML	unsupervised feature selection by kernel density estimation in wavelet-based spike sorting	2012	-0.7369300928974444	-19.02247897756491	3925802
+3926207	HCI	non-linear dynamic analysis of rr signals in patients with and without excessive daytime sleepiness	2013	-0.7082758822643747	-19.32312976731838	3926234
+3926292	ML	common spatio-time-frequency patterns for motor imagery-based brain machine interfaces	2013	-1.301536246638563	-19.15147288018836	3926319
+3926837	HCI	variability of the maximal amplitudes of impedance cardiogram and of its first derivative during supine, standing, paced breathing, and exercise maneuvers	2014	-0.9462238852073724	-18.93415635197004	3926864
+3927316	ML	a wavelet based method for detecting and localizing epileptic neural spikes in eeg	2009	-0.4828412589539058	-19.36016890437556	3927343
+3930537	SE	comparison of the amica and the infomax algorithm for the reduction of electromyogenic artifacts in eeg data	2013	-0.4952255178639784	-18.86145689934243	3930564
+3931839	HCI	wheeze detection in the respiratory sounds using hilbert-huang transform	2014	-0.4743973769086044	-19.13334413601601	3931866
+3932466	Visualization	local holder exponent analysis of heart rate variability in preterm infants	2006	-0.7602140231779947	-19.373384062562057	3932493
+3939179	Robotics	application of neural networks to the electroencephalogram analysis for epilepsy detection	2007	-0.9446892245815258	-19.042226282126588	3939206
+3940697	DB	changes in dynamical characteristics of epileptic eeg in rats using recurrence quantification analysis	2011	-0.6079927576064198	-19.381817195556696	3940724
+3942672	Visualization	assessment of the autonomic control of heart rate variability in healthy and spinal-cord injured subjects: contribution of different complexity-based estimators	2006	-0.746732589253978	-19.360172634302504	3942699
+3945964	Vision	algorithm for the detection of changes in the dynamics of a multivariate time series via sliced cross-bispectrum	2018	-0.9944062554364052	-19.237035796858038	3945991
+3946277	HCI	analysis of a-phase transitions during the cyclic alternating pattern under normal sleep	2015	-0.601951819560271	-19.391788192935426	3946304
+3947161	Robotics	stress classification by separation of respiratory modulations in heart rate variability using orthogonal subspace projection	2013	-0.5081349450961773	-19.08615326651625	3947188
+3947858	Visualization	chaotic phase space differential algorithm for real-time detection of ventricular arrhythmias: application in animal model	2013	-0.5145683149032061	-19.364171893943485	3947885
+3948624	Robotics	a lasso based ensemble empirical mode decomposition approach to designing adaptive clutter suppression filters	2012	-0.8322162813696297	-18.788771709392506	3948651
+3949971	EDA	estimation of pulse transit time using time delay estimation techniques	2011	-0.623731254195034	-18.896981157294427	3949998
+3952925	HCI	longitudinal multifrequency rhythm structure of self-measured blood pressure gauges aging over two decades	1989	-0.49321414296448	-18.738291618298756	3952952
+3953071	HPC	the inverse problem of bioelectricity: an evaluation	2012	-0.9601153974906702	-18.513040523712775	3953098
+3954205	Robotics	framework of applying independent component analysis after compressed sensing for electroencephalogram signals	2018	-1.2373419076160108	-19.224669496101367	3954232
+3955721	Web+IR	an algorithm for studying mental tasks' power spectra along the time	2008	-0.4985158098790244	-19.243609006632095	3955748
+3956139	ML	modeling of cardiac component of subarachnoid space changes in apnoea resulting as a function of blood pressure and blood flow parameters - two mechanizm of regulation	2017	-1.3219483256019784	-19.149990640382622	3956166
+3956339	ML	an adaptive integrated algorithm for noninvasive fetal ecg separation and noise reduction based on ica-eemd-ws	2015	-0.7827880154447167	-18.85421464882589	3956366
+3957376	AI	electrocardiogram signal denoising using extreme-point symmetric mode decomposition and nonlocal means	2016	-0.7918834414300508	-18.771964254011728	3957403
+3957636	Logic	source analysis and selection using block term decomposition in atrial fibrillation	2018	-0.728075406183755	-19.14478360378295	3957663
+3958274	Logic	the dependence of the stemi classification on the position of st-deviation measurement instant relative to the j point	2015	-0.5569771420462147	-19.00157160419516	3958301
+3958611	AI	hurst exponent for the analysis of atrial fibrillation recurrence after ablation procedures	2013	-0.8753532282068222	-19.28047979427749	3958638
+3959102	ML	mental fatigue analysis by measuring synchronization of brain rhythms incorporating enhanced empirical mode decomposition	2010	-1.1131233610259321	-19.24511798107015	3959129
+3960904	Robotics	postural time-series analysis using empirical mode decomposition and second-order difference plots	2009	-0.8952490240774368	-18.963195765014525	3960931
+3961515	ML	cosine similarity entropy: self-correlation-based complexity analysis of dynamical systems	2017	-1.0236377187766812	-19.36703589381596	3961542
+3963518	Vision	t-wave alternans detection using a bayesian approach and a gibbs sampler	2011	-0.8549476302059354	-18.966678796651113	3963545
+3963519	ML	selection of the optimal microelectrode during dbs surgery in parkinson's patients	2011	-0.6357922300754352	-19.17856529389881	3963546
+3963677	Visualization	beat-to-beat analysis of p waves in patient with atrial fibrillation history	2016	-0.6815193450624863	-19.246338740617183	3963704
+3964277	ML	online recursive independent component analysis for real-time source separation of high-density eeg	2014	-0.6059805998925981	-18.47155486666423	3964304
+3967172	EDA	ecg signal enhancement using s-transform	2013	-0.7636461507602739	-18.824564619080085	3967199
+3969603	Visualization	analysis of sequential visibility motifs in isometric surface electromyography signals in fatiguing condition	2018	-0.7129061090444208	-18.685181373834926	3969630
+3972929	AI	qrs complex detection in ecg signals using locally adaptive weighted total variation denoising	2017	-0.5854580398189784	-18.77782306797056	3972956
+3974305	Visualization	voice low tone to high tone ratio: a potential quantitative index for vowel [a:] and its nasalization	2006	-0.565627063874164	-19.05835771854149	3974332
+3976765	NLP	non-invasive organization variation assessment in the onset and termination of paroxysmal atrial fibrillation	2009	-0.4775857362920907	-19.246442234265345	3976792
+3977088	ML	clinical evaluation of the performance of a blind source separation algorithm combining beamforming and independent component analysis in hearing aid use	2013	-0.8762567618597947	-18.85347718184547	3977115
+3978527	ML	surrogate data test for nonlinearity of eeg signals: a newborn eeg burst suppression case study	2017	-1.2264967755217957	-19.3785207778217	3978554
+3982145	HPC	circadian pattern and sex differences of qt/rr and t-peak-to-end/rr curvatures and slopes in chronic heart failure patients	2014	-0.590181610036878	-19.296710241414907	3982172
+3982699	Visualization	comparative analysis of wavelet based approaches for reliable removal of ocular artifacts from single channel eeg	2015	-0.5285212398668708	-18.948616029372896	3982726
+3984055	EDA	mutual information estimates of ctg synchronization	2015	-1.043851473291837	-19.235357959652625	3984082
+3987812	Visualization	complexity analysis of arterial pressure during periods of abrupt hemodynamic changes	2008	-1.0009356683360522	-19.15225437706586	3987839
+3988706	ML	iterative subspace decomposition for ocular artifact removal from eeg recordings	2009	-1.1385004053950878	-19.148104829341353	3988733
+3990283	Vision	robust 3-way tensor decomposition and extended state kalman filtering to extract fetal ecg	2013	-0.9867350679248302	-18.836474810202173	3990310
+3990411	EDA	nonlinear noise reduction of auscultation signal analysis in traditional chinese medicine	2010	-0.7839585923081199	-18.87312914611648	3990438
+3992044	HCI	analysis of the heart rate variability before and after asphyxia	2009	-0.5878768631286001	-19.201765456959514	3992071
+3993026	ML	arima-garch modeling for epileptic seizure prediction	2017	-0.762581785628381	-19.228296501577738	3993053
+3994633	EDA	a comparison of ocular artifact removal methods for block design based electroencephalography experiments	2017	-0.676266365818765	-18.572556611703213	3994660
+3996250	EDA	evaluation of the low-frequency components in surface electromyography	2016	-0.790208089287666	-18.8501469176254	3996277
+3998484	ML	feasibility of labor induction success prediction based on uterine myoelectric activity spectral analysis	2018	-0.5075485692908437	-19.223502736455874	3998511
+3999978	Robotics	blind recovery of cardiac and respiratory sounds using non-negative matrix factorization & time-frequency masking	2013	-0.926318551083376	-18.99144512138068	4000005
+4000705	ML	eeg activity during movement planning encodes upcoming peak speed and acceleration and improves the accuracy in predicting hand kinematics	2015	-0.6065721790693522	-19.307420096886865	4000732
+4001391	EDA	automatic examination for vestibulo-ocular reflex function test	1993	-1.1466825842870898	-18.618661730138907	4001418
+4003543	Vision	a linear transformation approach for estimating pulse arrival time	2012	-0.5857521062281785	-18.631303658817906	4003570
+4003939	Visualization	reduction of electromyographic noise in the signal-averaged electrocardiogram by spectral decomposition	2003	-0.6675618762782151	-18.749817487267524	4003966
+4006565	HCI	the study of effects of acupuncture at sj9 (sidu) point on heart rate variability	2010	-0.6788381868225386	-19.196837922691483	4006592
+4008343	ML	a novel objective function minimization for sparse spatial filters	2014	-1.2061244751775957	-18.484158622341205	4008370
+4011402	Visualization	sample entropy analysis of hemodynamic parameters in elderly with orthostatic intolerance	2016	-0.6198046006804787	-19.002187325286673	4011429
+4014154	HCI	improvement in neural respiratory drive estimation from diaphragm electromyographic signals using fixed sample entropy	2016	-0.7370499796878983	-18.48094811487692	4014181
+4015033	Robotics	extracting the fetal heart rate variability using a frequency tracking algorithm	2002	-0.4933654552249088	-18.884999560181736	4015060
+4016666	ML	harmonic analysis of pulse morphology variability for pulse smoothness assessment	2018	-0.5646087853508981	-19.078515398830174	4016693
+4016708	Vision	analysis of dynamic characteristics of spontaneous facial expressions	2015	-1.4054687465775504	-19.342816034090358	4016735
+4017819	Vision	atrial signal extraction in atrial fibrillation electrocardiograms using a tensor decomposition approach	2015	-0.6597325820584048	-18.95277190751002	4017846
+4018821	Robotics	transthoracic cardiac stimulation thresholds for short pulses	2014	-0.8642033688323308	-19.146282103000765	4018848
+4024938	DB	proposed corrections for the quantification of coupling patterns by recurrence plots	2004	-1.0812184619964431	-19.26983855300997	4024965
+4025131	Robotics	motion artifact suppression in the ecg signal by successive modifications in frequency and time	2013	-0.7491787831688403	-18.71191927177844	4025158
+4025404	ML	cyclostationary analysis of electromyographic signals	2013	-1.0816843297806729	-19.171216325012683	4025431
+4026300	EDA	theoretical basis for identification of different anesthetic states based on routinely recorded eeg during operation	2009	-0.5971294449782552	-19.082240055127727	4026327
+4027545	Visualization	adaptive complex wavelet-based filtering of eeg for extraction of evoked potential responses	2005	-0.9277540135828628	-19.0203904781211	4027572
+4029982	Visualization	studies of detrusor-sphincter synergia and dyssynergia during micturition in rats via fractional brownian motion	2000	-0.9800406843265036	-19.37721240675993	4030009
+4030991	HCI	multiscale entropy and detrended fluctuation analysis of qt interval and heart rate variability during normal pregnancy	2012	-0.6761774104417727	-19.37362357776338	4031018
+4031325	EDA	attenuation of the influence of cardiolocomotor coupling in heart rate variability interpretation during exercise test	2015	-0.8257230532377114	-18.65795922424632	4031352
+4031933	DB	imputing missing values in eeg with multivariate autoregressive models	2018	-1.2493263357251467	-19.15637276609489	4031960
+4032580	ML	forced oscillation, integer and fractional-order modeling in asthma	2016	-0.9044818656919807	-18.698296332100266	4032607
+4034105	ML	a multivariate multiscale fuzzy entropy algorithm with application to uterine emg complexity analysis	2017	-0.6934476672696568	-19.195433686764165	4034132
+4036766	ML	multiscale entropy analysis of surface electromyographic signals from the urethral sphincter as a prognostic indicator for surgical candidates with primary bladder neck obstruction	2015	-0.8455406464800477	-19.21909232088501	4036793
+4037725	ML	fetal electrocardiogram extraction and performance analysis	2012	-0.7914525395102527	-18.851996713452174	4037752
+4037851	Robotics	a model for generating surface emg signal of m. tibialis anterior	2014	-1.3140196253547929	-18.506296112669435	4037878
+4038004	ML	noise cancelation of epileptic interictal eeg data based on generalized eigenvalue decomposition	2012	-1.258511521732947	-19.240600000235016	4038031
+4038244	Robotics	estimation of muscle fiber conduction velocity from two-dimensional surface emg recordings in dynamic tasks	2008	-1.2688518551829968	-18.752069181140932	4038271
+4038429	Visualization	a model of emg generation	2000	-1.3843098222769952	-18.87563838179004	4038456
+4040038	ML	an echo state neural network for qrst cancellation during atrial fibrillation	2012	-0.6768883603722882	-18.79738112831993	4040065
+4042908	Visualization	measuring coupling of rhythmical time series using cross sample entropy and cross recurrence quantification analysis	2017	-0.7391700981608157	-19.119862423114075	4042935
+4044053	Vision	do existing measures of poincare plot geometry reflect nonlinear features of heart rate variability?	2001	-0.6827865229106121	-19.155675701170427	4044080
+4044417	Robotics	bispectral analysis of heart rate variability signal	2002	-0.8896415985348175	-19.2258225902992	4044444
+4046812	Visualization	a knowledge-driven framework for ecg representation and interpretation for wearable applications	2017	-0.5375830350969167	-18.79840052553356	4046839
+4047129	HCI	information theory based evaluation of interactions between rr and qt intervals in the normal and people with high risk for cardiac arrhythmias	2017	-0.8771142107334581	-19.342317343243586	4047156
+4050589	Robotics	twave alternans detection in ecg using extended kalman filter and dualrate ekf	2014	-0.7274074105058594	-18.845875453999028	4050616
+4052138	Robotics	comparison between cardiac baroreflex sensitivity estimates derived from sequence and phase rectified signal averaging techniques during head-up tilt	2017	-0.91684297682319	-19.158706477116226	4052165
+4053336	ML	comparing model-free and model-based transfer entropy estimators in cardiovascular variability	2013	-1.332107305568212	-19.285933631855922	4053363
+4054383	Visualization	investigation of a new weighted averaging method to improve snr of electrocochleography recordings	2016	-1.2364773459106924	-19.3355080449897	4054410
+4054396	Visualization	smooth bandpass empirical mode decomposition with rolling ball sifting for extracting carotid bruits and heart sounds	2017	-0.9771843775690376	-18.81934678397902	4054423
+4055434	Vision	wavelet-based semblance for p300 single-trial detection	2013	-0.9264805089953916	-19.12130559204139	4055461
+4056776	ML	real-time change detection of steady-state evoked potentials	2012	-1.18574228928327	-19.302532219582886	4056803
+4056968	ML	robust and highly adaptable brain-computer interface with convolutional net architecture based on a generative model of neuromagnetic measurements	2018	-1.0610224911000503	-18.8002795099274	4056995
+4058938	Vision	detection of human reflex response in emg signals: a time-frequency approach	1997	-1.0367831759533086	-18.717402615146337	4058965
+4060990	Vision	using recursive parameter estimation for sleep disorder discrimination	1995	-0.9555021237449453	-18.848371602374943	4061017
+4061167	Visualization	disentanglement of sympathetic and parasympathetic activity by instantaneous analysis of human heartbeat dynamics	2016	-1.110919319273865	-19.381400306013514	4061194
+4065010	Visualization	model-based fiducial points extraction for baseline wandered electrocardiograms	2008	-0.6711281780121883	-18.65726905274613	4065037
+4066148	Metrics	spontaneous contractions of isolated rat portal vein under temperature perturbations	2010	-1.3382110431858605	-19.392102365732747	4066175
+4067126	DB	nonlinear features of neonatal heart rate dynamics	2014	-0.7764520625623546	-19.293254260262774	4067153
+4068111	Metrics	a new tool for the action potential repolarization dynamic analysis: application to the discrimination of diabetic and control cells	2016	-0.7877599959942774	-19.1893170292525	4068138
+4069040	Theory	detailed study of temporal variations of eeg by improved mem spectral analysis with high resolution power	2001	-1.234771853427629	-19.212610611929463	4069067
+4070040	ML	ecg denoising by modeling wavelet sub-band coefficients using kernel density estimation	2012	-0.6779502750743475	-18.857432983379663	4070067
+4070910	ML	single-trial evoked potential estimation using wavelets	2007	-1.2556732739400245	-19.079282910416048	4070937
+4071575	Vision	model-based detection of heart rate turbulence using mean shape information	2010	-0.8423161624962006	-18.854067332245762	4071602
+4071642	ML	fast and accurate methods of independent component analysis: a survey	2011	-1.0359452637750493	-19.09149029102181	4071669
+4072338	Robotics	eliminating cardiac electrical artifacts from cardiac autonomic nervous signals using a combination of empirical mode decomposition and independent component analysis.	2013	-0.5875162404343974	-18.80792863443451	4072365
+4073989	DB	a data mining framework for time series estimation	2010	-0.4785265818972125	-18.96921850557232	4074016
+4074013	Robotics	analysis of eeg signals during relaxation and mental stress condition using ar modeling techniques	2011	-0.498944998679884	-18.77318407259795	4074040
+4074026	ML	self-similarity in physiological time series: new perspectives from the temporal spectrum of scale exponents	2011	-0.9954924197179892	-19.381038199910567	4074053
+4077294	HCI	heart rate variability associated with different modes of lower abdominal muscle tension during zen meditation	2014	-0.8870763989950371	-18.715943613334318	4077321
+4077987	Robotics	decoding force from deep brain electrodes in parkinsonian patients	2016	-0.6318311392805932	-18.67041816080268	4078014
+4079223	ML	reduction of interference in knee sound signals by adaptive filtering	1990	-0.6365414962997137	-18.70825770233705	4079250
+4083808	EDA	ecg de-noising based on empirical mode decomposition	2008	-0.4939215316185968	-18.851256721015748	4083835
+4084150	ML	correlation assisted strong uncorrelating transform complex common spatial patterns for spatially distant channel data	2018	-0.5170484007321475	-18.666830002628352	4084177
+4086618	Visualization	individual time-dependent spectral boundaries for improved accuracy in time-frequency analysis of heart rate variability	2006	-0.9425557324285236	-19.201895341222805	4086645
+4087352	HCI	determinants of vascular and cardiac baroreflex sensitivity values in a random population sample	2013	-0.8985681193244764	-19.020204290366326	4087379
+4093301	Theory	application of time-frequency distributions to the independent component analysis of ecg signals	2001	-0.5690676370449862	-18.917814223524253	4093328
+4093868	EDA	empirical mode decomposition template matched filter for detection and estimation of t-wave alternans	2016	-0.8053030281646616	-19.02109167724197	4093895
+4093932	Vision	random segmentation based principal component analysis to remove residual mr gradient artifact in the simultaneous eeg/fmri: a preliminary study	2013	-1.2864291917350037	-19.284694425581538	4093959
+4094616	SE	different approaches of symbolic dynamics to quantify heart rate complexity	2013	-0.9866331387270252	-19.09279953702522	4094643
+4099435	HCI	bioimpedance vector analysis in diagnosing severe and non-severe dengue patients	2016	-0.4757872173910193	-18.492545873185986	4099462
+4101310	PL	an algorithm for the recovery of fetal heart rate series from ctg data	2007	-0.4614492075961985	-18.966124092526282	4101337

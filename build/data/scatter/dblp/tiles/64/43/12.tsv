@@ -1,0 +1,660 @@
+id	area	title	year	x	y	ix
+3260802	NLP	exploration of chinese-uyghur neural machine translation	2017	11.318832543590455	-19.000674912803078	3260829
+3260909	NLP	corpus-based pinyin name resolution	2002	11.74025232188965	-18.906511454114447	3260936
+3262653	NLP	sentence compression in spanish driven by discourse segmentation and language models	2012	11.494295963211416	-19.241082561633906	3262680
+3263806	NLP	bilingual dictionary induction for bantu languages	2018	11.88038338066466	-19.347645955132254	3263833
+3264406	NLP	automatic evaluation of output quality for machine translation systems	1993	11.43276441155678	-18.756374406371123	3264433
+3265640	NLP	building a supertagger for spanish hpsg	2019	12.05549552728805	-19.060090936409328	3265667
+3266381	DB	towards the automatically semantic scoring in language proficiency evaluation	2008	11.29547080124583	-19.246765388700254	3266408
+3267579	NLP	design of chinese hpsg framework for data-driven parsing	2009	12.03685588284971	-19.248639333385434	3267606
+3269390	NLP	applying the cognitive machine translation evaluation approach to arabic	2016	11.546855712519578	-19.07639156610978	3269417
+3269726	NLP	unsupervised trained functional discourse parser for e-learning materials scaffolding	2016	11.51767184842406	-18.60305465444189	3269753
+3272482	NLP	developing universal dependencies for mandarin chinese	2016	11.939036305463016	-19.24843287719992	3272509
+3272964	NLP	bilingual chunk alignment based on interactional matching and probabilistic latent semantic indexing	2004	11.978061317376024	-18.96713634646984	3272991
+3273026	NLP	a method of automatic recognition of attributive clauses in chinese language	2016	12.080927568956685	-19.26373179900496	3273053
+3273284	NLP	determining the position of adverbial phrases in english	2009	11.411032240501564	-19.390733574177442	3273311
+3273619	NLP	named entity transliteration for cross-language information retrieval using compressed word format mapping algorithm	2008	11.769684746595935	-18.627637729743928	3273646
+3274130	NLP	a dictionary-based approach for evaluating orthographic methods in cognates identification	2013	12.04545314186558	-18.84201306425338	3274157
+3276833	NLP	forest driven dependency analysis enhanced by japanese clause structure estimation	2006	11.954486367600715	-19.31439006351233	3276860
+3277644	NLP	chinese sentence segmentation as comma classification	2011	11.338198490851498	-18.81301422590568	3277671
+3278053	NLP	preco: a large-scale dataset in preschool vocabulary for coreference resolution	2018	11.21793390488332	-18.543676181247843	3278080
+3278914	NLP	reductionistic, tree and rule based tagger for polish	2006	11.372915728476427	-19.013370515693804	3278941
+3279409	AI	forest-based semantic role labeling	2010	11.202131649597924	-19.107037308881058	3279436
+3280564	NLP	benchmarking lexical simplification systems	2016	11.342682702855864	-18.759987536476626	3280591
+3280973	NLP	the incremental use of morphological information and lexicalization in data-driven dependency parsing	2006	11.618217444236288	-19.09837428756398	3281000
+3281405	NLP	a graphical interface for mt evaluation and error analysis	2012	11.419348899546394	-19.356385537169768	3281432
+3282629	NLP	accent detection in handwriting based on writing styles	2012	11.459669886800663	-18.587584429665924	3282656
+3282771	NLP	a refined end-to-end discourse parser	2015	11.298259037197507	-18.47143054571645	3282798
+3282894	NLP	corpus-based diacritic restoration for south slavic languages	2016	12.039253371196358	-18.809079970024694	3282921
+3283419	NLP	efficient dependency analysis for korean sentences based on lexical association and multi-layered chunking	2001	11.482781053212626	-19.133659906485807	3283446
+3284087	NLP	a new approach to tagging in indian languages	2013	11.967865050789811	-18.946331323012817	3284114
+3284963	NLP	a java implementation of an extended word alignment algorithm based on the ibm models	2007	11.241502377666817	-18.85411322409239	3284990
+3287536	NLP	top a splitter: using distributional semantics for improving compound splitting	2016	11.74749788206331	-18.487503195475746	3287563
+3288010	NLP	a rule-based acquisition model adapted for morphological analysis	2009	11.165890548525596	-19.03295419999132	3288037
+3288532	SE	proper nouns in english-arabic cross language information retrieval	2008	11.48140010361779	-19.255284063861307	3288559
+3288997	NLP	tbl-improved non-deterministic segmentation and pos tagging for a chinese parser	2009	11.327602943634172	-19.382652126419448	3289024
+3289070	NLP	improving pronoun translation by modeling coreference uncertainty	2016	11.207882020736186	-19.201642024566627	3289097
+3290150	NLP	an example-based approach to japanese-to-english translation of tense aspect, and modality	1999	12.080518975081914	-19.023844010252194	3290177
+3291425	NLP	integrating knowledge encoded by linguistic phenomena of indian languages with neural machine translation	2017	11.22676041465462	-19.27576065884503	3291452
+3297997	NLP	a cdt-styled end-to-end chinese discourse parser	2017	11.235875545641642	-19.356784486659716	3298024
+3298147	NLP	a multi-representational and multi-layered treebank for hindi/urdu	2009	11.675305924818524	-19.06934271861654	3298174
+3298737	NLP	data-driven amharic-english bilingual lexicon acquisition	2006	11.55400521747884	-19.16930758635988	3298764
+3301043	NLP	handling organization name unknown word in chinese-vietnamese machine translation	2013	11.224389234047916	-19.094051752172426	3301070
+3301584	NLP	fine-grained arabic dialect identification	2018	11.260439818130493	-18.858936357498358	3301611
+3303368	NLP	paradigm: paraphrase diagnostics through grammar matching	2014	12.057846725456427	-18.435201691227334	3303395
+3304137	NLP	part of speech (pos) tagger for kokborok	2012	11.313858755237234	-18.725722043525494	3304164
+3304943	NLP	vectorweavers at semeval-2016 task 10: from incremental meaning to semantic unit (phrase by phrase)	2016	11.550581548299556	-19.222107195311306	3304970
+3305008	NLP	automatic extraction of super-function from bilingual corpus	2009	11.537340238182974	-19.03073192891456	3305035
+3305216	NLP	an unsupervised method for word sense tagging using parallel corpora	2002	11.379514507566222	-19.069325500091608	3305243
+3306067	NLP	an alignment method for noisy parallel corpora based on image processing techniques	1997	12.101304704010019	-19.269076899175687	3306094
+3307945	NLP	a segmentation matrix method for chinese segmentation ambiguity analysis	2016	11.166372957679904	-19.390146792039346	3307972
+3311256	NLP	using foreign inclusion detection to improve parsing performance	2007	11.324768886851865	-19.237412571726374	3311283
+3311416	NLP	semantic role labelling without deep syntactic parsing	2012	11.157748092110458	-18.684917516342207	3311443
+3311774	NLP	parsing noun phrase structure with ccg	2008	11.691703398861716	-19.383171810265086	3311801
+3311918	NLP	some technical aspects about aligning near languages	2000	11.78547530818137	-19.141888249326815	3311945
+3314820	NLP	morphosyntactic tagging of slovene using progol	1999	11.679170028365474	-19.051578510625404	3314847
+3315308	NLP	universal word segmentation: implementation and interpretation	2018	11.481690598769509	-19.341111284781515	3315335
+3316364	NLP	automatic framenet-based annotation of conversational speech	2008	11.183028876436133	-19.25652722255355	3316391
+3316444	NLP	morpheme segmentation in the metu-sabancı turkish treebank	2012	11.776702143564785	-19.349523276943664	3316471
+3316879	NLP	hybrid approach for aligning parallel sentences for languages without a written form using standard malay and malay dialects	2014	11.991317260254492	-19.119817599391308	3316906
+3318757	NLP	ancora-upf: a multi-level annotation of spanish	2013	11.850390131528409	-18.88160952512625	3318784
+3319906	NLP	assessing the effectiveness of corpus-based methods in solving sat sentence completion questions	2016	11.156261572429178	-18.83202495350681	3319933
+3320799	NLP	when harry met harri: cross-lingual name spelling normalization	2008	11.416664750788515	-19.220757309170924	3320826
+3321219	NLP	a tiered approach to the recognition of metaphor	2014	11.930386663943573	-18.454793177305188	3321246
+3321421	NLP	comparison of methods to annotate named entity corpora	2018	11.215770470790074	-18.520276513287595	3321448
+3321676	NLP	combining sentence length with location information to align monolingual parallel texts	2004	11.80561626389246	-18.947862039806854	3321703
+3322388	Robotics	a novel scheme for watermarking natural language text	2007	11.784397679740296	-18.523791808602965	3322415
+3322852	NLP	unsupervised induction of arabic root and pattern lexicons using machine learning	2013	11.369352354735653	-19.36507690119205	3322879
+3326140	NLP	building an indonesian rule-based part-of-speech tagger	2014	11.84138877914264	-19.069427255115713	3326167
+3328366	NLP	automatic morphology (summary)	2000	11.70162006707374	-19.338233856244372	3328393
+3328943	NLP	a dataset for the evaluation of lexical simplification	2012	11.803365804686607	-18.6648390998172	3328970
+3330255	NLP	a chinese word segmentation algorithm based on maximum entropy	2010	11.163674895429388	-18.95806204291335	3330282
+3334000	NLP	exploring the potential of schemes in building nlp tools for arabic language	2015	11.471723052509606	-19.27849034754912	3334027
+3335493	AI	aligning bilingual corpora using sentences location information	2004	11.598560433070107	-18.973434637130886	3335520
+3335698	NLP	pos tagging without a tagger: using aligned corpora for transferring knowledge to under-resourced languages	2016	11.719355035587233	-18.853603245782168	3335725
+3336422	NLP	lexicon-assisted tagging and lemmatization in latin: a comparison of six taggers and two lemmatization models	2015	11.6893945833906	-19.04326332647335	3336449
+3336806	NLP	a maximum entropy approach for vietnamese word segmentation	2006	11.195976227206238	-19.32507523462328	3336833
+3342814	NLP	prenominal modifier ordering via multiple sequence alignment	2010	11.431800560451661	-19.202923578596767	3342841
+3346759	NLP	evaluating machine translation systems with second language proficiency tests	2015	11.185234374317007	-18.73708236542372	3346786
+3348497	NLP	aligning large skos-like vocabularies: two case studies	2010	11.262974896176667	-18.475862903558816	3348524
+3351620	NLP	syntactic constraints on paraphrases extracted from parallel corpora	2008	11.471368665618273	-18.674667977935773	3351647
+3355369	NLP	light verb constructions in the szegedparalellfx english-hungarian parallel corpus	2012	12.085522243779007	-18.98187159434464	3355396
+3355370	NLP	comparing fifty natural languages and twelve genetic languages using word embedding language divergence (weld) as a quantitative measure of language distance	2016	11.901492359146404	-19.216468411268163	3355397
+3355728	NLP	cuni multilingual matrix in the wmt 2013 shared task	2013	11.332528060645654	-18.87436141590934	3355755
+3357429	NLP	semantic structures of chinese disyllable new words	2015	11.978810092339135	-18.831229690806254	3357456
+3358521	NLP	phrase alignment based on combination of multiple strategies	2012	11.473406532747907	-19.180879433236026	3358548
+3358655	NLP	a chinese dependency syntax for treebanking	2006	12.057620654538352	-19.168977852823502	3358682
+3359363	AI	enhancing performance of protein name recognizers using collocation	2003	11.173539713858178	-18.520725254894625	3359390
+3360022	NLP	verta: facing a multilingual experience of a linguistically-based mt evaluation	2014	11.532209907383251	-18.4833713460306	3360049
+3360974	NLP	parsing and mwe detection: fips at the parseme shared task	2017	11.772765525721846	-18.72501901894416	3361001
+3362243	NLP	3-step parallel corpus cleaning using monolingual crowd workers	2015	11.764109679127305	-18.53844122902714	3362270
+3362570	NLP	cross-lingual terminology extraction for translation quality estimation	2018	11.580344731948015	-19.00484458591568	3362597
+3365115	NLP	parser evaluation using elementary dependency matching	2011	11.965208303091506	-18.507931698149985	3365142
+3366170	AI	definition modeling: learning to define word embeddings in natural language	2017	11.45934560426294	-18.546041533508287	3366197
+3367363	NLP	bilingual lexicon extraction from comparable corpora as metasearch	2011	11.43478283470794	-18.436711127546147	3367390
+3367906	NLP	semi-automatic approach to building dictionary between slavonic languages	2008	11.416909204026046	-19.081200291354786	3367933
+3369658	NLP	using support vector machines and state-of-the-art algorithms for phonetic alignment to identify cognates in multi-lingual wordlists	2017	12.065609577820265	-18.762353646393873	3369685
+3370674	NLP	simple or complex? assessing the readability of basque texts	2014	11.854610512954716	-18.452101344497134	3370701
+3370754	NLP	towards a unified approach to memory- and statistical-based machine translation	2001	11.598279636416787	-18.450625619673268	3370781
+3370875	NLP	evaluating the translation accuracy of a novel language-independent mt methodology	2012	11.628188252759445	-18.90357540164226	3370902
+3372784	NLP	annotation and extraction of multiword expressions in turkish treebanks	2015	11.51596853472934	-18.942980583277965	3372811
+3374565	NLP	a noun-predicate bigram-based similarity measure for lexical relations	2008	12.091079559631831	-18.704077883762714	3374592
+3375213	AI	a hybrid strategy method for patent machine translation	2016	11.31977397792692	-18.66092094504989	3375240
+3376415	NLP	the kit translation system for iwslt 2010	2010	11.197468306626261	-19.23365519277567	3376442
+3377458	NLP	comparing and extracting paraphrasing words with 2-way bilingual dictionaries.	2002	11.7374246660434	-19.24160879859453	3377485
+3379008	NLP	evaluation of linguistic features for word sense disambiguation with self-organized document maps	2004	11.286867867348914	-18.7102838789728	3379035
+3380890	NLP	frustratingly easy cross-lingual transfer for transition-based dependency parsing	2016	11.302900906683913	-19.26570700125057	3380917
+3382033	NLP	semantic classification of automatically acquired nouns using lexico-syntactic clues	2010	11.624921661233964	-18.99792820456045	3382060
+3382099	NLP	limsi $@$ wmt'14 medical translation task	2014	11.154664869614864	-19.153112400035628	3382126
+3382434	NLP	a study to improve the efficiency of a discourse parsing system	2003	11.679509822498341	-18.911631308048747	3382461
+3384693	AI	description of kyoto ebmt system in patentmt at ntcir-10	2013	11.930058176178134	-18.502848712724916	3384720
+3384900	NLP	syntactic and semantic disambiguation of numeral strings using an n-gram method	2005	11.60361089846937	-19.31427763178386	3384927
+3385225	NLP	"""is """"universal syntax"""" universally useful for learning distributed word representations?"""	2016	11.224860905497438	-18.557685120653378	3385252
+3385384	NLP	iitb system for conll 2013 shared task: a hybrid approach to grammatical error correction	2013	11.193923881998312	-19.19202498455904	3385411
+3386868	NLP	numerically grounded language models for semantic error correction	2016	11.345434069848432	-19.375515779338397	3386895
+3388345	NLP	estimating code-switching on twitter with a novel generalized word-level language detection technique	2017	11.527525514102244	-18.545743685777246	3388372
+3388712	NLP	multimodal lexical translation	2018	11.742425220815996	-18.496108379593	3388739
+3389056	NLP	improving nominal srl in chinese language with verbal srl information and automatic predicate recognition	2009	11.552777304862087	-18.79277501744782	3389083
+3390064	AI	using 'low-cost' learning features for pronoun resolution	2008	11.360468116464592	-18.733810346061738	3390091
+3390898	NLP	unknown chinese word extraction based on variety of overlapping strings	2013	11.317797057255024	-19.2217950322	3390925
+3390944	NLP	transforming penn treebank phrase trees into (praguian) tectogrammatical dependency trees	2002	11.623021264628349	-18.973498634566546	3390971
+3392464	NLP	stem translation with affix-based rule selection for agglutinative languages	2013	11.891012576339307	-19.34029332305905	3392491
+3392774	NLP	should syntactic n-grams contain names of syntactic relations?	2014	11.865415039623675	-18.758848551076134	3392801
+3393138	NLP	semantic mapping using automatic word alignment and semantic role labeling	2011	11.23485575803363	-19.145101774396654	3393165
+3393858	NLP	a semantic evaluation of machine translation lexical choice	2013	11.380939561583386	-18.60210289873185	3393885
+3396221	NLP	reliable measures for aligning japanese-english news articles and sentences	2003	11.63065472551744	-18.664137751021084	3396248
+3398365	NLP	fuh (fernuniversität in hagen): metonymy recognition using different kinds of context for a memory-based learner	2007	11.294620239050394	-18.539255321852156	3398392
+3400140	NLP	unsupervised translation induction for chinese abbreviations using monolingual corpora	2008	11.21688521496181	-18.834160506134406	3400167
+3401705	Vision	variations on quantitative comparability measures and their evaluations on synthetic french-english comparable corpora	2014	11.564519084506989	-18.503046380923525	3401732
+3402077	NLP	improving part-of-speech tagging of historical text by first translating to modern text	2016	11.844089224533189	-19.17392603398069	3402104
+3402235	NLP	detecting dependency parse errors with minimal resources	2011	11.200134621711356	-19.377152741647137	3402262
+3403540	NLP	automatic detection of anglicisms for the pronunciation dictionary generation: a case study on our german it corpus	2014	11.757793986563527	-19.373813853067904	3403567
+3404069	NLP	deep models for converting sarcastic utterances into their non sarcastic interpretation	2019	11.507262039202708	-18.539322199527984	3404096
+3409366	NLP	generrate: generating errors for use in grammatical error detection	2009	11.670886368665776	-18.888622908587447	3409393
+3413340	NLP	a field theoretical approach to medical natural language processing	2007	11.388886746807364	-18.720218069649828	3413367
+3414706	NLP	building sentiment lexicons for all major languages	2014	12.063518903039393	-18.56134260614122	3414733
+3414991	NLP	some improvements over the bleu metric for measuring translation quality for hindi	2007	11.337369618884	-18.76298405237683	3415018
+3415101	NLP	corpus-oriented development of japanese hpsg parsers	2005	11.602923386446399	-19.326893953471718	3415128
+3415663	NLP	measuring language complexity using word embeddings	2018	12.012199834914187	-18.506418032766906	3415690
+3416155	NLP	using compositional semantics and discourse consistency to improve chinese trigger identification	2014	12.047172494025572	-18.592828908418266	3416182
+3417609	NLP	a simple hybrid aligner for generating lexical correspondences in parallel texts	1998	11.145963390467351	-19.044289664054933	3417636
+3418959	NLP	extracting an arabic lexicon from arabic newspaper text	2002	11.80708013938285	-19.23040929722595	3418986
+3419227	NLP	combining n-grams and stemming for arabic word-based inexact matching and term conflation	2005	11.199829650930408	-18.907012094743113	3419254
+3419426	NLP	what a transfer-based system brings to the combination with pbmt	2015	11.21571589174355	-19.296114970293196	3419453
+3421113	NLP	the case of czech possessive adjectives and their head nouns: some distributional properties	2002	11.838259791256569	-18.639573330726954	3421140
+3421505	Comp.	identifying gene and protein mentions in text using conditional random fields	2005	11.482441561112068	-18.486041858874213	3421532
+3422313	NLP	dsolve - morphological segmentation for german using conditional random fields	2015	11.237131464359141	-19.32470133997917	3422340
+3422465	NLP	a multilingual approach to disambiguate prepositions and case suffixes	2002	11.698600845434255	-19.226461439722407	3422492
+3423574	NLP	1990 us census form recognition using ctc network, wfst language model, and surname correction	2017	11.995340767402546	-19.19400943198477	3423601
+3424667	NLP	coreference resolution for morphologically rich languages. adaptation of the stanford system to basque	2015	11.318626342253713	-19.143346553786	3424694
+3425997	NLP	open information extraction for sov language based on entity-predicate pair detection	2012	11.85585395895602	-19.09998337918419	3426024
+3427469	NLP	learning finite state transducers using bilingual phrases	2008	11.39161065327486	-18.99434688439818	3427496
+3428633	NLP	automatic detection of machine translated text and translation quality estimation	2014	11.43226535123065	-19.08238302629332	3428660
+3431285	AI	improving the automatic segmentation of subtitles through conditional random field	2017	11.395567369124564	-18.482300196890453	3431312
+3431443	NLP	context based statistical morphological analyzer and its effect on hindi dependency parsing	2013	11.309666551535285	-19.376735932280113	3431470
+3433483	NLP	a model for fine-grained alignment of multilingual texts	2004	11.996012145407539	-19.309778013482273	3433510
+3433863	NLP	predicting mt quality as a function of the source language	2006	11.97531761335281	-18.750020140115087	3433890
+3434518	NLP	automatic error detection in the japanese learners' english spoken data	2003	12.105881024602532	-18.645551883929752	3434545
+3435929	NLP	multilingual open relation extraction using cross-lingual projection	2015	11.238721473480348	-18.798677249765547	3435956
+3439250	NLP	dtagger: a pos tagger	2006	11.577057421687286	-18.586879556882163	3439277
+3439795	NLP	expanding n-grams for code-switch language models	2018	11.672392379585235	-19.078401237515333	3439822
+3445769	NLP	automatic methods to supplement broad-coverage subcategorization lexicons	2004	11.828177996398852	-18.905094789753694	3445796
+3447599	NLP	best analysis selection in inflectional languages	2002	11.997348829666764	-18.594268633471906	3447626
+3448766	Robotics	non-negative matrix factorisation-based verb semantics for 3rd person pronoun resolution	2012	12.096348061312682	-18.71547573945916	3448793
+3450464	NLP	on detection of synonyms between simplified chinese of mainland china and traditional chinese of taiwan: a semantic similarity method	2015	11.322927842747747	-18.81836155586648	3450491
+3450811	NLP	extracting idiomatic hungarian verb frames	2006	11.655182099894557	-19.28380092746313	3450838
+3451075	NLP	linguistic steganography using automatically generated paraphrases	2010	11.701821570007613	-18.80819983971561	3451102
+3454264	NLP	syntactic features for high precision word sense disambiguation	2002	11.26989971049594	-18.602741388139805	3454291
+3459369	NLP	bengali verb subcategorization frame acquisition - a baseline model	2009	11.866707998523054	-19.222182329737574	3459396
+3459942	NLP	harnessing the crf complexity with domain-specific constraints. the case of morphosyntactic tagging of a highly inflected language	2012	11.275683986680749	-19.17554915130853	3459969
+3464995	NLP	lexico-syntactic text simplification and compression with typed dependencies	2014	11.220389113134381	-18.890259081264904	3465022
+3466952	NLP	automatic selection of hpsg-parsed sentences for treebank construction	2014	11.664388137193756	-18.93315064960806	3466979
+3469219	NLP	transforming standard arabic to colloquial arabic	2012	11.266640771975135	-19.151496101509245	3469246
+3470419	NLP	fast and robust pos tagger for arabic tweets using agreement-based bootstrapping	2016	11.407517212795744	-19.269705302675973	3470446
+3473429	NLP	learning using 1-local membership queries	2015	11.27257996191388	-19.363828932620105	3473456
+3473491	NLP	named entity recognition for hungarian using various machine learning algorithms	2006	11.30551022188524	-18.5647282191232	3473518
+3475889	NLP	automatic generation of bilingual dictionaries using intermediary languages and comparable corpora	2010	11.650448025153803	-18.537989444151695	3475916
+3477105	NLP	error analysis for the improvement of subject ellipsis detection	2011	11.359206260584855	-18.735673496199986	3477132
+3478163	NLP	translate chinese organization names using examples and web	2009	11.766196848732129	-18.83322027090511	3478190
+3478200	Vision	identifying the correct root of an ambiguous hebrew word	2014	11.718575037660461	-18.612730976509887	3478227
+3479578	HCI	trdlo, an open source tool for building transducing dictionary	2009	11.946206798990445	-18.65990435662277	3479605
+3480300	NLP	multilingual aliasing for auto-generating proposition banks	2016	12.017174549975696	-19.173809916344613	3480327
+3480645	NLP	something borrowed, something blue: rule-based combination of pos taggers	2000	11.804142368028767	-18.69850055386387	3480672
+3483188	NLP	phrase pair mappings for hindi-english statistical machine translation	2017	11.871056915374858	-18.889402117388986	3483215
+3484526	Robotics	error analysis in croatian morphosyntactic tagging	2009	12.001066118626945	-19.07521864243662	3484553
+3487591	NLP	foreign words and the automatic processing of arabic social media text written in roman script	2014	11.475478533289149	-19.082557473151716	3487618
+3489299	NLP	tabtalk: reusability in data-oriented grapheme-to-phoneme conversion	1993	11.206242375981367	-19.177117750630323	3489326
+3489786	NLP	linguistic evaluation of support verb constructions by openlogos and google translate	2014	11.429887153054604	-19.17935443133169	3489813
+3489790	NLP	performance of a lexical and pos tagger for sanskrit	2010	11.791590586554346	-19.187667180222963	3489817
+3492872	NLP	automatic detection of orthographics cues for cognate recognition	2006	12.086568733347486	-19.17802672708649	3492899
+3493321	NLP	a lemma-based approach to a maximum entropy word sense disambiguation system for dutch	2004	11.384769042162429	-19.06941190901189	3493348
+3495810	NLP	the amara corpus: building parallel language resources for the educational domain	2014	11.930996777786813	-18.555685462361513	3495837
+3498235	NLP	leveraging multiple views of text for automatic question generation	2015	11.467916165961356	-18.565413733002625	3498262
+3499137	NLP	data issues of the multilingual translation matrix	2012	11.566370158216545	-18.97713715268316	3499164
+3499418	SE	verifying pronunciation dictionaries using conflict analysis	2010	11.429655899470589	-18.877154620031828	3499445
+3502664	NLP	towards semi-automatic generation of proposition banks for low-resource languages	2016	11.749138839067388	-18.47610374941122	3502691
+3504730	NLP	integer linear programming for dutch sentence compression	2010	11.580784479783304	-19.142975714440645	3504757
+3506956	NLP	comparing italian parsers on a common treebank: the evalita experience	2008	11.498222316331745	-18.935415820309405	3506983
+3507724	NLP	verifiably effective arabic dialect identification	2014	11.599133961944109	-19.032801132969414	3507751
+3508257	NLP	why catalan-spanish neural machine translation? analysis, comparison and combination with standard rule and phrase-based technologies	2017	11.405177420003671	-19.30536170624579	3508284
+3508810	NLP	an unsupervised approach to hindi word sense disambiguation	2009	11.284733935262306	-18.54530575866296	3508837
+3508889	NLP	extracting syntactic features from a korean treebank	2006	11.795083134279134	-19.258327862016362	3508916
+3510121	NLP	prenominal modifier ordering in bengali text generation	2011	11.182631857777023	-19.2894192604142	3510148
+3515919	NLP	visualization, search and analysis of hierarchical translation equivalence in machine translation data	2014	12.098111621181774	-19.19071454877761	3515946
+3516769	NLP	dcu@morpheme extraction task of fire-2012: rule-based stemmers for bengali and hindi	2013	11.413711759181956	-18.506143728253832	3516796
+3517231	NLP	automatic discovery of named entity variants: grammar-driven approaches to non-alphabetical transliterations	2007	11.337264367782913	-18.918195846545558	3517258
+3518734	NLP	a connectionist approach to propositional phrase attachment for real world texts	1998	11.635182128141905	-19.089674410180727	3518761
+3520642	NLP	english to indian languages machine transliteration system at news 2010	2010	11.157578892376204	-18.941903637288878	3520669
+3521192	NLP	a simple automatic mt evaluation metric	2009	11.483685838477856	-19.353001363245824	3521219
+3521844	SE	a monte carlo method for metamorphic testing of machine translation services	2018	11.462272948650007	-18.960055182024348	3521871
+3522806	NLP	creating a medical dictionary using word alignment: the influence of sources and resources	2007	12.077082851186454	-18.911085053018674	3522833
+3522913	NLP	a framework for spelling correction in persian language using noisy channel model	2012	11.637636735903106	-19.14678551275738	3522940
+3525279	NLP	recognizing names in islam-related russian twitter	2017	11.695701293559198	-19.373475406745374	3525306
+3525669	NLP	automatic mt error analysis: hjerson helping addicter	2012	11.67944780834873	-18.63814173280837	3525696
+3526816	NLP	two-phase learning for identifying modern greek clauses*	2007	11.943986766458206	-19.2979546618315	3526843
+3526949	NLP	comparison of three english-to-dutch machine translations of snomed ct procedures	2017	12.00186325372818	-18.713821339887183	3526976
+3527553	NLP	aleph: an ebmt system based on the preservation of proportional analogies between sentences across languages	2005	11.942954043837776	-19.34644575047903	3527580
+3528058	NLP	local syntactic tagging of large corpora using weighted finite state transducers	2008	11.171386545376047	-18.53584070550686	3528085
+3529825	NLP	identifying translationese at the word and sub-word level	2016	11.715797150874277	-19.043333033012683	3529852
+3532652	NLP	complete syntactic n-grams as style markers for authorship attribution	2014	11.626397973368027	-18.724722336930427	3532679
+3533313	NLP	corpus-oriented acquisition of chinese grammar	2005	11.731512193383761	-19.387912971910502	3533340
+3534788	NLP	a system for large-scale acquisition of verbal, nominal and adjectival subcategorization frames from corpora	2007	11.515790479179644	-18.59446507346464	3534815
+3535539	NLP	temporal prosodic features in pronominal anaphora resolution in spanish	2011	11.922086283730808	-19.018929836398915	3535566
+3535717	NLP	error driven paraphrase annotation using mechanical turk	2010	11.22365539944406	-18.832928884973683	3535744
+3537277	NLP	the second qalb shared task on automatic text correction for arabic	2015	11.602394979461865	-18.631905487014766	3537304
+3540045	NLP	universal dependencies for uyghur	2016	12.01447157058701	-19.173871483884387	3540072
+3540600	DB	rich-cpl: fact extraction from wikipedia-sized corpora for morphologically rich languages	2018	11.248997372659769	-19.246003655512048	3540627
+3541116	NLP	fish transporters and miracle homes: how compositional distributional semantics can help np parsing	2013	11.574854654572857	-18.493128846316075	3541143
+3542949	NLP	an evaluation of parser robustness for ungrammatical sentences	2016	11.487222824230995	-18.82936230063652	3542976
+3542998	Arch	the first international chinese word segmentation bakeoff	2003	11.19589478496707	-18.704528874676356	3543025
+3543551	AI	granska-an efficient hybrid system for swedish grammar checking	1999	12.042052703126064	-19.353079078647625	3543578
+3545656	NLP	nlptea 2017 shared task - chinese spelling check.	2017	11.789810114099353	-18.746505681008294	3545683
+3547697	NLP	how to pick out token instances of english verb-particle constructions	2010	11.263437068242927	-18.61835288826252	3547724
+3547780	NLP	use of domain-specific language resources in machine translation	2016	11.478434196912437	-18.947708392068535	3547807
+3548316	NLP	sentential paraphrase generation for agglutinative languages using svm with a string kernel	2014	11.160590541163193	-18.690975015136207	3548343
+3549909	NLP	ju-sknsb: extended wordnet based wsd on the english all-words task at semeval-1	2007	11.685597632360947	-18.761618179816875	3549936
+3550297	NLP	a method to construct chinese-japanese named entity translation equivalents using monolingual corpora	2013	11.174958269686869	-19.254594508074714	3550324
+3551250	NLP	data-driven correction of functionwords in non-native english	2011	11.299290133952365	-19.279015448175002	3551277
+3555634	NLP	a multi-phase semi-supersense tagging of korean unknown nouns	2012	11.30898595192886	-18.54772082182204	3555661
+3555949	NLP	word order typology through multilingual word alignment	2015	11.46042873716791	-18.946316117564987	3555976
+3557682	NLP	corpus-based learning of lexical resources for german named entity recognition	2004	11.204282662903834	-18.504681605780828	3557709
+3558778	NLP	automatic n-gram language model creation from web resources	2001	12.009780400530515	-19.043931180939868	3558805
+3559924	NLP	the unknown word problem: a morphological analysis of japanese using maximum entropy aided by a dictionary	2001	11.525400361161315	-19.283083573919868	3559951
+3560766	Web+IR	preparatory kws experiments for large-scale indexing of a vast medieval manuscript collection in the himanis project	2017	11.778873934530425	-18.94880534495644	3560793
+3561135	NLP	identification of arabic word from bilingual text using character features	2010	11.80829458527734	-19.026398666014767	3561162
+3562079	NLP	building a reference lexicon for countability in english	2014	11.989602819791337	-18.610220677052	3562106
+3563203	NLP	a japanese particle corpus built by example-based annotation	2010	12.001262373950407	-18.47348831709756	3563230
+3563741	NLP	corpus-based anaphora resolution towards antecedent preference	1999	11.435257649998189	-19.27016397789312	3563768
+3564282	NLP	integrating semantic frames from multiple sources	2006	11.842612534972575	-18.878754162598934	3564309
+3565015	NLP	sentence compression for automatic subtitling	2015	11.284061388282234	-18.555492407341433	3565042
+3565183	SE	a rule-based model for normalization of sms text	2012	11.444575769084706	-19.32904867619096	3565210
+3565236	NLP	practical linguistic steganography using contextual synonym substitution and vertex colour coding	2010	11.664923760852215	-18.589180914479297	3565263
+3566793	HPC	natural language processing : ijcnlp 2005 : second international joint conference, jeju island, korea, october 11-13, 2005 : proceedings	2005	11.486950261381107	-18.865475512812623	3566820
+3567044	NLP	using bilingual parallel corpora for cross-lingual textual entailment	2011	11.572408740670507	-18.786781754421774	3567071
+3567601	NLP	hoo 2012: a report on the preposition and determiner error correction shared task	2012	11.350596417607171	-19.10280786177843	3567628
+3572109	NLP	context vector classification - term classification with context evaluation.	2010	11.707177981940141	-18.606776724390983	3572136
+3575578	NLP	fbk @ iwslt 2010	2010	11.365901190197313	-18.91878205152153	3575605
+3575778	NLP	automatic construction of an english-chinese bilingual framenet	2004	11.657317679781231	-18.813582426809887	3575805
+3576452	ML	a rote extractor with edit distance-based generalisation and multi-corpora precision calculation	2006	11.399483842265735	-18.53761132970305	3576479
+3576797	NLP	automatic acquisition of a high-precision translation lexicon from parallel chinese-english corpora	1998	11.241526667863749	-19.30127017454289	3576824
+3581091	NLP	the automatic acquisition of knowledge about discourse connectives	2005	11.905250223968652	-18.878781554504908	3581118
+3584202	NLP	a statistical, grammar-based approach to microplanning	2017	11.479841832906947	-18.972245863895086	3584229
+3584996	AI	semi-automatic construction of word-formation networks (for polish and spanish)	2018	11.887522298329394	-19.194340531225464	3585023
+3585397	NLP	a probabilistic disambiguation method based on psycholinguistic principles	1996	11.75027155320554	-18.70923569080201	3585424
+3587182	NLP	exploring phrasal context and error correction heuristics in bootstrapping for geographic named entity annotation	2007	11.663937420032036	-18.886697644619428	3587209
+3589466	PL	multiword expressions (mwe) for mizo language: literature survey	2016	11.921889412406976	-19.361804164934608	3589493
+3590079	NLP	mining parenthetical translations from the web by word alignment	2008	11.529981147069096	-18.531772100026025	3590106
+3591569	NLP	automatic construction of nominal case frames and its application to indirect anaphora resolution	2004	11.961991224726846	-18.50186333259161	3591596
+3592054	NLP	multilingual wsd-like constraints for paraphrase extraction	2013	11.540713352975285	-19.28253273956361	3592081
+3592715	AI	on the explicit use of example weights in the construction of classifiers	1994	11.439430168653136	-18.895544785020554	3592742
+3592766	NLP	automatic classification of bengali sentences based on sense definitions present in bengali wordnet	2015	11.897470785883133	-18.479219372483445	3592793
+3593380	NLP	evaluation of machine translation metrics for czech as the target language	2009	11.413993884714973	-18.517039734227904	3593407
+3599268	NLP	combining machine translation systems with quality estimation	2017	11.831452507392841	-18.543801975333015	3599295
+3599334	AI	structure learning in weighted languages	2013	11.934735581420322	-19.21576871499633	3599361
+3600495	NLP	false paraphrase pairs in spanish for verbs and verb+noun collocations	2011	12.056204115218875	-19.02289745483704	3600522
+3601825	NLP	encouraging consistent translation choices	2012	11.593420256566715	-18.958947436189817	3601852
+3601842	NLP	adding nominal spice to salsa - frame-semantic annotation of german nouns and verbs	2012	11.635379521487705	-18.74898968585873	3601869
+3602291	NLP	unsupervised comparable corpora preparation and exploration for bi-lingual translation equivalents	2015	11.555599910511743	-18.64567921072681	3602318
+3602653	NLP	intra-sentential zero anaphora resolution using subject sharing recognition	2015	11.164582721350815	-19.364743431688822	3602680
+3604130	NLP	yandex school of data analysis machine translation systems for wmt13	2013	11.58238849107383	-18.751292244654838	3604157
+3604422	NLP	anaphora annotation in hindi dependency treebank	2012	12.090141019650135	-18.91515409925326	3604449
+3606223	NLP	revisiting the dependence language model for information retrieval	2007	11.181959628957785	-18.747026254777943	3606250
+3609161	NLP	phonetic models for generating spelling variants	2007	11.308899003405553	-19.239358753391762	3609188
+3611092	NLP	coreference resolution for swedish and german using distant supervision	2017	11.442383096266244	-18.793135118769136	3611119
+3612000	NLP	construction of semantic collocation bank based on semantic dependency parsing	2015	12.100817078107458	-18.692866137033967	3612027
+3612086	SE	design and analysis of a hyphenation procedure	1979	12.025238376408286	-19.262534975793567	3612113
+3612183	NLP	integration of a noun compound translator tool with moses for english-hindi machine translation and evaluation	2012	11.878523275915988	-19.38775841776017	3612210
+3614026	NLP	language identification and disambiguation in indian mixed-script	2016	11.615644052480693	-19.106977901367213	3614053
+3614484	NLP	a baseline temporal tagger for all languages	2015	11.274422669748473	-19.08092574648505	3614511
+3614522	NLP	growing trees from morphs: towards data-driven morphological parsing	2015	11.545728816612835	-19.135251618764947	3614549
+3615319	NLP	an analysis of the relationship between cohesion and clause combination in english discourse employing nlp and data mining approaches	2015	12.09707277365255	-18.680411137669452	3615346
+3616943	NLP	from bag of languages to family trees from noisy corpus	2009	11.780137590371487	-19.244276781325482	3616970
+3617249	NLP	semantic categorization of contextual features based on wordnet for g-to-p conversion of arabic numerals combined with homographic classifiers	2005	11.389294679550753	-19.210569148869453	3617276
+3620888	NLP	xrce-m: a hybrid system for named entity metonymy resolution	2007	11.735296155640606	-18.45922324219488	3620915
+3620910	NLP	grammatical error detection using tagger disagreement	2014	11.417032087422367	-19.023093204127747	3620937
+3621044	NLP	cross-lingual abstract meaning representation parsing	2018	11.381309801390193	-19.173464147234164	3621071
+3621262	NLP	smt systems in the university of tokyo for ntcir-9 patentmt	2011	11.259294078153912	-19.2015287701983	3621289
+3622991	NLP	hard time parsing questions: building a questionbank for french	2016	11.301304986744842	-18.767147080398708	3623018
+3623220	NLP	kunlp grammatical error correction system for conll-2013 shared task	2013	11.298251426188829	-19.220978457483355	3623247
+3625225	NLP	clas at the mediaeval 2015 c@merata task	2015	11.942631433415107	-18.582029941407047	3625252
+3629976	NLP	sentence boundary disambiguation for indonesian language	2017	11.180083059474962	-19.03610363788184	3630003
+3631022	NLP	word sense disambiguation	2010	12.029926161312115	-18.519260387584342	3631049
+3635225	NLP	empirical evaluation of tree distances for parser evaluation	2014	11.17285255915992	-18.892132584097254	3635252
+3637300	NLP	initial experiments on russian to kazakh smt	2016	11.240468895056834	-19.214645179349453	3637327
+3637453	NLP	word sense disambiguation based on example sentences in dictionary and automatically acquired from parallel corpus	2012	11.337210526654985	-18.80399284586904	3637480
+3639368	AI	exploration for polish-* bi-lingual translation equivalents from comparable and quasi-comparable corpora	2016	11.769510790399115	-19.126748119528003	3639395
+3639745	NLP	really, is medical sublanguage that different? experimental counter-evidence from tagging medical and newspaper corpora	2004	11.513474841142216	-19.000801312537238	3639772
+3640012	NLP	cseg&tagl.0: a practical word segmenter and pos tagger for chinese texts	1997	11.40269607213344	-19.293510276475924	3640039
+3640218	NLP	efficiently generating correction suggestions for garbled tokens of historical language	2011	11.878314366112273	-18.960695949398357	3640245
+3642511	NLP	development and evaluation of word embeddings for morphologically rich languages	2018	11.974598764630034	-18.84856981391413	3642538
+3642559	NLP	an expectation maximization algorithm for textual unit alignment	2011	11.220562752790565	-18.851577871187068	3642586
+3643313	NLP	kazakh noun phrase extraction based on n-gram and rules	2010	11.393751594427778	-19.36342501595632	3643340
+3643336	NLP	a tag-derived database for treebank search and parser analysis	2010	11.795478790330256	-19.158046311419827	3643363
+3643878	NLP	wags: a beautiful english-italian benchmark supporting word alignment evaluation on rare words	2016	11.61701413766696	-18.657634023131518	3643905
+3646652	NLP	tagset conversion with decision trees	2012	12.058919882544894	-18.89236891723394	3646679
+3653401	NLP	using automatically acquired predominant senses for word sense disambiguation	2004	11.980656637327973	-18.693153141176968	3653428
+3653428	NLP	the university of edinburgh system description for iwslt 2007	2007	11.160694659771119	-18.940420194730283	3653455
+3655591	NLP	parallel corpora and wordspace models: using a third language as an interlingua to enrich multilingual resources	2011	11.82745414404596	-18.64609334628001	3655618
+3656439	NLP	evaluation of simple distributional compositional operations on longer texts	2014	11.580188774075596	-19.022168773136528	3656466
+3657638	NLP	wrap-up: a trainable discourse module for information extraction	1994	11.61701156859185	-18.795479521433485	3657665
+3657852	NLP	linguistic phylogenetic inference by pam-like matrices	2012	11.879602891550222	-18.87413389434091	3657879
+3659081	NLP	big data language model of contemporary polish	2017	11.181570723796618	-19.125263167509143	3659108
+3662971	NLP	finite-state transducer cascade to extract proper names in texts	2001	11.629157426798796	-19.04868805004182	3662998
+3663133	SE	hybrid approach for conceptual segmentation of spontaneous arabic oral utterances	2017	11.712011503713567	-18.760372393201536	3663160
+3663630	NLP	the devil is in the details: parsing unknown german words	2017	11.319325000719562	-18.86216231997571	3663657
+3664025	NLP	determining the multiword expression inventory of a surprise language	2016	11.992294907257087	-19.303516883124953	3664052
+3665493	NLP	sentiwordnet for new language: automatic translation approach	2016	11.29790182105288	-18.95364217212141	3665520
+3665901	NLP	preprocessing and normalization for automatic evaluation of machine translation	2005	11.27661096676561	-18.697807653265386	3665928
+3669053	NLP	the development of dutch and afrikaans language resources for compound boundary analysis	2014	11.665092515094914	-19.386119344879727	3669080
+3669170	NLP	rediscovering annotation projection for cross-lingual parser induction	2014	11.205206326543038	-19.340257831091808	3669197
+3671735	NLP	experiments with linguistic categories for language model optimization	2003	11.25357443764115	-18.77906631604384	3671762
+3673509	NLP	bilingual dictionary induction as an optimization problem	2014	11.369361939096036	-18.85156407921431	3673536
+3674663	NLP	a new approach to animacy detection	2018	11.251515906084975	-18.45887124254515	3674690
+3675058	NLP	utilizing constituent structure for compound analysis	2014	11.35591800894116	-19.223017089455237	3675085
+3677349	Robotics	tokenizer for the malay language using pattern matching	2014	11.649726541049757	-18.78166780101272	3677376
+3677463	NLP	constructing corpora for the development and evaluation of paraphrase systems	2008	11.780737388733828	-18.448161132215983	3677490
+3677848	NLP	research on chinese sentence compression for the title generation	2012	11.461380854827091	-19.190396468288007	3677875
+3678552	NLP	spade: evaluation dataset for monolingual phrase alignment	2018	11.9848534155967	-18.833444479696773	3678579
+3679336	NLP	a 3-steps algorithm for morphological disambiguation using untagged corpora	2003	11.600884079650044	-19.000386770321384	3679363
+3679482	NLP	subject and object identification in malayalam text	2012	11.732774336448374	-19.278474481675254	3679509
+3683037	DB	arabic verb pattern extraction	2010	11.916614631428757	-19.066515793306845	3683064
+3683134	ML	machine learning of probabilistic phonological pronunciation rules from the italian clips corpus	2013	11.776973094065326	-19.02272621108773	3683161
+3684094	NLP	statistical machine translation with automatic identification of translationese	2015	11.614191632681475	-18.601960539763837	3684121
+3685165	NLP	combining linguistic features for the detection of croatian multiword expressions	2017	11.200422666604881	-18.49694352533507	3685192
+3685593	NLP	rule-based dependency parse collapsing and propagation for german and english	2015	11.928996471297346	-18.98817741220927	3685620
+3689229	NLP	arabizi detection and conversion to arabic	2014	11.195537913856104	-19.123419569046032	3689256
+3690050	NLP	predicting inflectional paradigms and lemmata of unknown words for semi-automatic expansion of morphological lexicons	2015	11.373574705048568	-18.766619058795534	3690077
+3692215	NLP	studying the impact of various features on the performance of conditional random field-based arabic named entity recognition	2013	11.350206856910471	-18.499278599360878	3692242
+3694177	NLP	romanian to english automatic mt experiments at iwslt12 (system description paper)	2012	11.463992156615177	-18.789883507005943	3694204
+3694287	NLP	leveraging compounds to improve noun phrase translation from chinese and german	2015	11.618827083585636	-19.09285045370338	3694314
+3694443	NLP	estonian-english statistical machine translation: the first results	2007	12.005860893354384	-18.80321992991944	3694470
+3694652	NLP	a two-step zero pronoun resolution by reducing candidate cardinality	2012	11.514882211407778	-18.73295837396152	3694679
+3694858	NLP	classical chinese sentence segmentation	2010	11.721018428549542	-19.38345502211726	3694885
+3695680	NLP	meant 2.0: accurate semantic mt evaluation for any output language	2017	11.203584797796841	-18.98841073871441	3695707
+3696420	NLP	exploiting synergies between open resources for german dependency parsing, pos-tagging, and morphological analysis	2013	11.398731351528824	-18.912739860339645	3696447
+3696522	NLP	acquiring synonyms from monolingual comparable texts	2005	11.567361715870733	-18.466977341426283	3696549
+3700374	NLP	handwritten isolated word recognition: an approach based on mutual information for feature set validation	2001	11.537018665292358	-19.319701374454954	3700401
+3701405	NLP	experiments on the automatic induction of german semantic verb classes	2003	11.833939092138356	-18.63308127595151	3701432
+3702977	NLP	rule based case transfer in tamil-malayalam machine translation	2014	11.670475862070706	-19.269863824545926	3703004
+3703585	Vision	a hybrid approach of noun phrase translation in cross-language information retrieval	2007	11.709486733135376	-18.80716853389623	3703612
+3703825	NLP	investigation and use of methods for defining the extends of similarity of kazakh language sentences	2016	12.035493767455312	-19.219712130715074	3703852
+3704802	NLP	rev at semeval-2016 task 2: aligning chunks by lexical, part of speech and semantic equivalence	2016	11.470827012916537	-18.438969445665293	3704829
+3705339	NLP	automatic morphological tagging of contemporary uighur corpus	2006	11.854705409409366	-18.964226638753427	3705366
+3705580	NLP	lexical word similarity for re-ranking in vietnamese-english named entity back transliteration	2011	11.31496504727967	-18.82015926060205	3705607
+3705819	NLP	toward hybrid method for parsing modern standard arabic	2016	11.579576949508755	-18.77652765369247	3705846
+3706312	NLP	building corpora for the development of a dependency parser for spanish using maltparser	2007	11.911317232855177	-19.155483298254143	3706339
+3706856	NLP	cross-language dependency parsing using part-of-speech patterns	2016	11.285295642338687	-18.972302483781995	3706883
+3707237	NLP	annotated corpora for word alignment between japanese and english and its evaluation with map-based word aligner	2012	11.535671209143453	-18.97437659616794	3707264
+3708209	NLP	non-probabilistic alignment of rare german and english nominal expressions	2006	11.373847192721849	-19.366585904485657	3708236
+3710480	NLP	automatic identification of closely-related indian languages: resources and experiments	2018	12.052300355910145	-18.98610264509073	3710507
+3714221	NLP	simple arabic stemmer	2014	12.041525142841873	-18.785425385150628	3714248
+3714571	NLP	the automatic generation of nonwords for lexical recognition tests	2015	11.951711241678336	-18.86797586102344	3714598
+3715102	NLP	tagging and labelling portuguese modal verbs	2014	11.914003264055875	-18.67451805196644	3715129
+3718894	NLP	bilingual lexicon extraction from comparable corpora for closely related languages	2011	11.302604934630892	-18.600466467496407	3718921
+3719175	NLP	error correction	2008	12.005809290451277	-19.26502600703757	3719202
+3722892	NLP	finding romanized arabic dialect in code-mixed tweets	2014	11.633396619952427	-18.6809889725995	3722919
+3723047	NLP	cross-lingual dependency parsing for closely related languages - helsinki's submission to vardial 2017	2017	11.573135514688506	-19.13203560770221	3723074
+3727422	AI	english generation from interlingua by example-based method	1994	11.622748902719614	-18.915304283695207	3727449
+3727668	NLP	niuparser: a chinese syntactic and semantic parsing toolkit	2015	11.484454913340945	-18.779464794091183	3727695
+3728526	NLP	a gui to detect and correct errors in hindi dependency treebank	2012	11.305017203006544	-19.284387162525046	3728553
+3731947	NLP	chinese temporal relation resolution based on chinese-english parallel corpus	2014	11.82362026362284	-18.905526945891964	3731974
+3733635	NLP	tagarab: a fast, accurate arabic name recognizer using high-precision morphological analysis	1998	11.551850502496395	-19.178936221151076	3733662
+3733961	NLP	practical linguistic steganography using contextual synonym substitution and a novel vertex coding method	2014	11.621945054954304	-18.613146256535487	3733988
+3735396	NLP	using few clues can compensate the small amount of resources available for word sense disambiguation	2000	11.538272650923163	-18.684077269086536	3735423
+3739871	NLP	can lstm learn to capture agreement? the case of basque.	2018	11.190120553017369	-18.88492456052344	3739898
+3739918	NLP	large-scale induction and evaluation of lexical resources from the penn-ii and penn-iii treebanks	2005	11.769856497085224	-19.179848112814426	3739945
+3741156	NLP	morpho challenge evaluation using a linguistic gold standard	2007	11.240900740824634	-18.78482657084363	3741183
+3741245	NLP	the use of hidden markov model in natural arabic language processing: a survey	2017	11.506064498649163	-18.549897781269898	3741272
+3742260	NLP	neutralizing the effect of translation shifts on automatic machine translation evaluation	2015	11.713726605779163	-18.78343426532723	3742287
+3744414	NLP	emma: a novel evaluation metric for morphological analysis	2010	11.258761136460974	-18.440468118788058	3744441
+3745696	NLP	english-lithuanian word alignment with bilingwis: evaluation of the alignment	2014	11.514656723468782	-18.533575651385785	3745723
+3747434	NLP	what is the minimal set of fragments that achieves maximal parse accuracy?	2001	11.8210912613041	-19.381361825660452	3747461
+3748743	NLP	example-based paraphrasing for improved phrase-based statistical machine translation	2010	11.164550431856586	-18.809085452668786	3748770
+3753134	NLP	on using context for automatic correction of non-word misspellings in student essays	2012	11.651220864771581	-19.043153789682172	3753161
+3753156	NLP	extracting chinese-english phrase translation pairs based on tree-tree alignment	2011	11.431450295579117	-19.196364327215615	3753183
+3754098	NLP	statistical machine translation between related and unrelated languages	2009	11.81984934371773	-18.96811053131623	3754125
+3754351	NLP	universal joint morph-syntactic processing: the open university of israel's submission to the conll 2017 shared task	2017	11.270998746730232	-18.962133229198642	3754378
+3754492	NLP	cross-language phonemisation in german text-to-speech synthesis	2007	11.268372802465858	-19.38522136524942	3754519
+3754631	NLP	impact of mwe resources on multiword recognition	2016	11.496087540768913	-18.76863912134352	3754658
+3756330	NLP	investigating the possibilities of using smt for text annotation	2012	11.14468931026113	-18.950398936072823	3756357
+3756456	NLP	chinese named entity recognition using role model	2003	11.267104050679755	-19.107583799389733	3756483
+3758856	AI	learning how to conjugate the romanian verb. rules for regular and partially irregular verbs	2012	11.86321806386131	-18.94836101972703	3758883
+3760278	NLP	acquisition system for arabic noun morphology	2002	11.736989532905545	-18.730680453726762	3760305
+3763215	NLP	markov models for language-independent named entity recognition	2002	11.642702995426195	-18.891458852455546	3763242
+3763913	NLP	a syntactic textual entailment system based on dependency parser	2010	11.460928198750675	-18.57902179723357	3763940
+3765571	NLP	learning to parse from a treebank: combining tbl and ilp	2001	11.637821874203171	-19.302407724716364	3765598
+3767034	NLP	automated procedures for the improvement of a machine translation system by feedback from postediting	1990	11.939200410314506	-19.173575870352487	3767061
+3773792	NLP	automatic sense disambiguation for target word selection	1995	11.526041659624267	-19.1068577674312	3773819
+3774126	ML	a nearest-neighbor approach to the automatic analysis of ancient greek morphology	2008	11.285576890534525	-18.71935241059856	3774153
+3775163	NLP	bbn's systems for the chinese-english sub-task of the ntcir-9 patentmt evaluation	2011	11.402617759125981	-18.69464410494993	3775190
+3776226	NLP	toshiba rule-based machine translation system at ntcir-7 pat mt	2008	11.713236997535011	-18.806024954294106	3776253
+3778317	NLP	language-independent bilingual terminology extraction from a multilingual parallel corpus	2009	11.664255694297395	-19.10269527571964	3778344
+3780259	SE	identification of v+n compound nouns in chinese-english machine translation based on rules in patent texts	2012	12.020693576893427	-19.022647023892766	3780286
+3780281	NLP	enhancing pivot translation using grammatical and morphological information	2017	11.931503211835356	-19.37365764971624	3780308
+3780679	NLP	lingua-align: an experimental toolbox for automatic tree-to-tree alignment	2010	11.655429075017654	-19.360788305046615	3780706
+3782819	NLP	automatic transliteration for japanese-to-english text retrieval	2003	11.274328878439707	-19.138886110328336	3782846
+3785024	NLP	lx-dsemvectors: distributional semantics models for portuguese	2016	11.511796855640144	-18.701576189081425	3785051
+3786730	NLP	szegedkoref: a hungarian coreference corpus	2018	11.998025481865694	-18.907745304368717	3786757
+3789399	NLP	the impact of part-of-speech filtering on generation of a swedish-japanese dictionary using english as pivot language	2011	11.46775620364461	-18.947492856064887	3789426
+3790257	NLP	finding translations in scanned book collections	2012	11.703953019469544	-19.222178125805822	3790284
+3790360	NLP	using semantics in matching cursive chinese handwritten annotations	1998	11.165153052753737	-18.74122993820905	3790387
+3790692	AI	automatically extracting and comparing lexicalized grammars for different languages	2001	12.030803810197618	-19.08763153662919	3790719
+3792676	SE	semantic feature-based korean classifier module for mt systems	2007	11.235222733172558	-18.54132003372139	3792703
+3793782	NLP	learning hebrew roots: machine learning with linguistic constraints	2004	11.25092888802024	-19.374827837058657	3793809
+3794189	NLP	from chunks to function-argument structure: a similarity-based approach	2001	12.098710389008394	-19.15791040008685	3794216
+3798470	NLP	valeval: testing vallex consistency and experimenting with word-frame disambiguation.	2005	11.690031705525394	-18.896737719599773	3798497
+3798855	NLP	character contiguity in n-gram-based word matching: the case for arabic text searching	2005	11.478951948475821	-18.468964080948695	3798882
+3799164	NLP	two-fold filtering for chinese subcategorization acquisition with diathesis alternations used as heuristic information	2006	11.442695740577614	-19.257986964240533	3799191
+3799893	NLP	using statistical translation models for bilingual ir	2001	11.179584445972543	-18.99403170363891	3799920
+3800501	NLP	cross-language parser adaptation between related languages	2008	11.850554786906795	-19.123680734870455	3800528
+3801915	AI	plan optimization for creating bilingual dictionaries of low-resource languages	2017	11.85589331740386	-18.625335396127554	3801942
+3803831	NLP	automatic annotation and evaluation of error types for grammatical error correction	2017	11.54866460458403	-18.96188574168228	3803858
+3804515	SE	improving the template generation for chinese character error detection with confusion sets	2010	12.018339019561402	-19.368292244904453	3804542
+3806348	NLP	chinese treebanks and grammar extraction	2004	12.091660134991145	-18.485167535414	3806375
+3806862	SE	automatic acronym dictionary construction based on acronym generation types	2008	11.287206750968338	-18.44546677278445	3806889
+3807108	NLP	automatic language identification for romance languages using stop words and diacritics	2015	11.549599038460176	-19.153544106561288	3807135
+3807162	NLP	cross-linguistic projection of role-semantic information	2005	11.181451814395668	-18.451738729804358	3807189
+3809994	NLP	improving morphosyntactic tagging of slovene language through meta-tagging	2008	11.147915480159792	-19.1932623359354	3810021
+3811232	NLP	segment representations in named entity recognition	2015	11.640408399863045	-18.741432187880914	3811259
+3811488	NLP	using hfst—helsinki finite-state technology for recognizing semantic frames	2015	11.972891606191585	-19.088877020790697	3811515
+3812009	NLP	recovering dropped pronouns from chinese text messages	2015	11.284925202488635	-18.57288386394772	3812036
+3812905	NLP	measuring 'registerness' in human and machine translation: a text classification approach	2015	11.760735679808093	-18.61145781547362	3812932
+3813077	NLP	identifying semantic relations in japanese compound nouns for patent documents analysis	2008	12.095550034774408	-18.51269617125896	3813104
+3814074	NLP	a system for recognition of named entities in greek	2000	12.074515966341867	-18.57596204595521	3814101
+3815880	NLP	natural language processing for the long tail	2017	12.0309626456684	-18.9537824935358	3815907
+3817397	NLP	ict: a system combination for chinese semantic dependency parsing	2012	11.304722179886527	-19.141987960566002	3817424
+3817946	NLP	evaluating centering for information ordering using corpora	2009	11.259282710199027	-18.516948107942806	3817973
+3818598	NLP	towards cross-language word sense disambiguation for quechua	2011	11.653541616043954	-18.626966060211565	3818625
+3819125	NLP	graph-based language model of long-distance dependency	2011	11.556090057282074	-19.311201292981007	3819152
+3819208	NLP	handling ambiguities of bilingual predicate-argument structures for statistical machine translation	2013	11.675445548404767	-18.51877510627713	3819235
+3819998	NLP	vncorenlp: a vietnamese natural language processing toolkit	2018	11.557760423326087	-18.56926138422113	3820025
+3821320	NLP	cims - the cis and ims joint submission to wmt 2014 translating from english into german	2014	11.490021354330564	-18.947605641485087	3821347
+3822793	NLP	natural language processing complexity and parallelism	2002	11.658373110266647	-18.947590732889136	3822820
+3823436	NLP	gold standard annotations for preposition and verb sense with semantic role labels in adult-child interactions	2018	11.443185576757513	-18.616885081088764	3823463
+3823615	ML	learning hierarchies from ambiguous natural language data	1995	11.774057672819335	-18.447056464154283	3823642
+3823710	NLP	classifying syntactic regularities for hundreds of languages	2016	11.154132383295034	-19.0523768060888	3823737
+3826687	NLP	cmmc-bdrc solution to the nlp-tea-2018 chinese grammatical error diagnosis task	2018	11.171735296681023	-19.215942126758737	3826714
+3826916	NLP	improving japanese zero pronoun resolution by global word sense disambiguation	2004	11.693064309797592	-18.46543056777765	3826943
+3829563	NLP	automatic discourse parsing of arabic text: building discourse structure of text	2018	11.911102791682525	-18.667518999008642	3829590
+3831304	NLP	efficiently computed lexical chains as an intermediate representation for automatic text summarization	2002	11.180204707572994	-18.79221494254204	3831331
+3832013	NLP	from grammar rule extraction to treebanking: a bootstrapping approach	2012	11.223925953320546	-18.811318381397644	3832040
+3833341	NLP	guiding a well-founded parser with corpus statistics.	1999	11.805682441097767	-19.303038156133862	3833368
+3837356	NLP	integrating specialized bilingual lexicons of multiword expressions for domain adaptation in statistical machine translation	2017	11.768032069104107	-18.486965814623357	3837383
+3837780	NLP	study and comparison of rule-based and statistical catalan-spanish machine translation systems	2012	11.988468871143578	-18.486149172046137	3837807
+3838376	NLP	arabic tokenization system	2007	11.647362560770402	-19.19770980754551	3838403
+3839780	NLP	parallel corpus alignment at the document, sentence and vocabulary levels	2011	11.62318119289266	-19.24286877525462	3839807
+3840238	NLP	an empirical examination of challenges in chinese parsing	2013	11.963371126026175	-18.53520456226352	3840265
+3840750	NLP	template based affix stemmer for a morphologically rich language	2015	11.912786140073232	-19.19565926869802	3840777
+3842120	NLP	improving parsing accuracy by combining diverse dependency parsers	2005	11.659912078149073	-19.272011735934942	3842147
+3842360	NLP	using english baits to catch serbian multi-word terminology	2018	11.558355130367689	-18.903372358973762	3842387
+3843015	ECom	a comparison study of some arabic root finding algorithms	2010	11.151653695007322	-18.900583000058717	3843042
+3843238	NLP	english-hindi automatic word alignment with scarce resources	2010	11.786061048839894	-18.571858633099176	3843265
+3844575	NLP	frequency consolidation among word n-grams - a practical procedure	2017	12.066742737010212	-19.28897525439857	3844602
+3845649	NLP	detection is the central problem in real-word spelling correction	2014	11.773511049264755	-19.380057797039864	3845676
+3847729	NLP	combining linguistic resources to create a machine-tractable japanese-malay dictionary	2008	11.306837460369435	-18.740081306668923	3847756
+3851580	NLP	universal dependencies for finnish	2015	11.965607811879725	-19.114454302647935	3851607
+3851776	NLP	bilingual dictionary based sentence alignment for chinese english bitext	2000	11.15226433629974	-19.33745829373697	3851803
+3852484	NLP	gold-standard datasets for annotation of slovene computer-mediated communication	2016	11.860361597658073	-19.064506604437028	3852511
+3852671	NLP	rich morphology generation using statistical machine translation	2012	11.421404670551667	-19.284274607459317	3852698
+3852884	NLP	experiments with an annotation scheme for a knowledge-rich noun phrase interpretation system	2007	11.186026403175804	-18.58177901119806	3852911
+3856207	NLP	an annotation scheme for automated bias detection in wikipedia	2011	11.666814836923725	-18.754697611857274	3856234
+3857169	NLP	using moses to integrate multiple rule-based machine translation engines into a hybrid system	2008	11.585469048854804	-18.828651486888468	3857196
+3857546	NLP	word similarity datasets for indian languages: annotation and baseline systems.	2017	11.337106056082229	-18.5266265077516	3857573
+3857747	NLP	an annotated corpus for the analysis of vp ellipsis	2011	11.689348106552186	-19.20068330174397	3857774
+3858052	NLP	enlisting the ghost: modeling empty categories for machine translation	2013	11.554952812466555	-18.815046216641708	3858079
+3859762	NLP	a rule-based unsupervised morphology learning framework	2009	11.16757051242386	-19.03108633090965	3859789
+3859898	NLP	sentence alignment for spanish-basque bitexts: word correspondences vs. markup similarity	2004	11.760059554066375	-19.18995525648007	3859925
+3864675	NLP	layered: metric for machine translation evaluation	2014	11.54321610921384	-18.540110676405046	3864702
+3865841	NLP	a rule-augmented statistical phrase-based translation system	2014	11.824524308501148	-19.01043105247538	3865868
+3866057	NLP	evaluating sequence alignment for learning inflectional morphology	2016	11.407958098485999	-19.117151461262818	3866084
+3866146	NLP	chinese-uyghur sentence alignment: an approach based on anchor sentences	2009	11.303161685020266	-19.29413314390221	3866173
+3867099	NLP	contemporaneous text as side-information in statistical language modeling	2004	11.441824908096812	-19.352731711583978	3867126
+3870720	NLP	a google-based statistical acquisition model of chinese lexical concepts	2007	12.00559194696049	-19.198476314855448	3870747
+3871456	NLP	combining ontologies and neural networks for analyzing historical language varieties. a case study in middle low german	2016	12.000503094938185	-19.119414786668237	3871483
+3872096	NLP	marker-based chunking in eleven european languages for analogy-based translation	2011	12.042690322866047	-19.392216013562464	3872123
+3873966	NLP	a suffix based part-of-speech tagger for turkish	2008	11.716501479630264	-19.300494755373126	3873993
+3875275	NLP	tokenization and proper noun recognition for information retrieval	2002	11.66536508092934	-18.77908314171265	3875302
+3877948	NLP	word order in a grammarless language: a 'small-data' information-theoretic approach	2015	11.88828483218532	-19.35255965136804	3877975
+3879405	DB	effective phrase prediction	2007	11.317613599786242	-19.114065079894587	3879432
+3882034	NLP	collection and analysis of code-switch egyptian arabic-english speech corpus	2018	11.916092146596151	-19.31248484860513	3882061
+3883743	NLP	enforcing consistent translation of german compound coreferences	2014	12.005137371332747	-19.126820698788432	3883770
+3884180	NLP	japanese sentence compression using simple english wikipedia	2015	11.659752455654075	-18.70266029736507	3884207
+3884541	NLP	rule based chunker for croatian	2008	11.851263755227981	-18.929827956815352	3884568
+3885918	NLP	a dependency-based analysis of treebank annotation errors	2011	11.795989357861568	-19.143049752223988	3885945
+3887058	NLP	word sense disambiguation for untagged corpus: application to romanian language	2003	11.164814907165887	-18.579788619656355	3887085
+3887103	NLP	using similarity scoring to improve the bilingual dictionary for sub-sentential alignment	2002	11.24051173792632	-18.53035309302883	3887130
+3887587	NLP	enrichment of bilingual dictionary through news stream data	2014	11.516129607234168	-18.597821887307	3887614
+3889349	NLP	capturing lexical variation in mt evaluation using automatically built sense-cluster inventories	2009	11.583288544856876	-18.43734401449914	3889376
+3890231	NLP	an assessment of experimental protocols for tracing changes in word semantics relative to accuracy and reliability	2016	11.835126121788294	-18.717402378778036	3890258
+3890533	NLP	all words unsupervised semantic category labeling for hindi	2009	12.062374594632196	-18.92431052238061	3890560
+3893614	NLP	unsupervised concept discovery in hebrew using simple unsupervised word prefix segmentation for hebrew and arabic	2009	11.3248278085728	-19.368644495256518	3893641
+3893924	NLP	dependency parsing of modern standard arabic with lexical and inflectional features	2013	11.61617332460979	-18.97994854932796	3893951
+3894298	NLP	bilexical dependencies as an intermedium for data-driven and hpsg-based parsing	2015	11.420006224399724	-18.887913380292847	3894325
+3895267	NLP	learning word segmentation rules for tag prediction	1999	11.18816210079973	-19.242340836991755	3895294
+3897425	NLP	first experiments with neural translation of informal to formal mathematics	2018	11.75434895989678	-18.684035697010653	3897452
+3898960	NLP	arabic retrieval revisited: morphological hole filling	2012	11.913570552591569	-19.007304676527212	3898987
+3900555	NLP	cyrillic mongolian named entity recognition with rich features	2016	11.169660156809856	-19.27336544810695	3900582
+3900751	NLP	findings of the vardial evaluation campaign 2017	2017	11.76609906181294	-18.847764195594014	3900778
+3901250	NLP	parameter estimation of japanese predicate argument structure analysis model using eye gaze information	2016	11.90891711345721	-18.78049925215537	3901277
+3905141	NLP	rule-based approach for arabic root extraction: new rules to directly extract roots of arabic words	2014	12.1008438058427	-19.273765410342623	3905168
+3905998	NLP	adapting a constituency parser to user-generated content in polish opinion mining	2016	11.703930967221401	-18.619072202815648	3906025
+3906611	NLP	labeling of query words using conditional random field	2015	11.257454114792106	-18.526648521629067	3906638
+3906742	NLP	towards a syntactically motivated analysis of modifiers in german	2014	12.01110137306773	-18.967122742744547	3906769
+3906973	NLP	a hybrid approach for discourse segment detection in the automatic subtitle generation of computer science lecture videos	2014	11.865694615205415	-19.072360467134732	3907000
+3909231	NLP	a comparison of collation algorithm for myanmar language	2008	12.020274167472653	-19.393512240899557	3909258
+3909664	NLP	incorporating contextual information for language-independent, dynamic disambiguation tasks	2018	11.902510797556374	-18.666512072803048	3909691
+3916232	NLP	identification of maximal-length noun phrases based on maximal-length preposition phrases in chinese	2010	11.266162383414075	-18.937823723885426	3916259
+3916549	NLP	cross-lingual annotation projection for semantic roles	2009	11.26186567252216	-18.507822025517694	3916576
+3918733	NLP	using parallel propbanks to enhance word-alignments	2009	11.395209520841284	-19.06448830469959	3918760
+3918924	NLP	a maximum entropy model for prepositional phrase attachment	1994	11.253141359382482	-18.716455565226145	3918951
+3919793	NLP	statistical nlg for generating the content and form of referring expressions	2018	11.214079415057038	-19.048072232246238	3919820
+3920343	NLP	elimination method study of ambiguous words in chinese automatic indexing	2013	11.976983699453065	-19.298569751991675	3920370
+3926550	NLP	an awkward disparity between bleu / ribes scores and human judgements in machine translation	2015	11.391302791506838	-18.495788999536924	3926577
+3929249	NLP	unsupervised learning of morphology for building lexicon for a highly inflectional language	2002	11.950509570179706	-19.13980963462337	3929276
+3930646	NLP	rule-based machine translation from english to finnish	2017	11.971703194088535	-18.58825181115441	3930673
+3933034	NLP	assessment and development of pos tag set for telugu	2008	12.036844726699211	-19.102021751687946	3933061
+3934740	NLP	discourse connective argument identification with connective specific rankers	2008	11.72588281286158	-18.892896867234395	3934767
+3935725	NLP	choosing the right translation: a syntactically informed classification approach	2008	11.551029537207922	-19.10972174596489	3935752
+3937092	NLP	lexical association measures and collocation extraction	2010	11.230998527282619	-18.43601157972114	3937119
+3943947	NLP	bktreebank: building a vietnamese dependency treebank	2018	11.406438544225912	-19.115156442814747	3943974
+3944505	NLP	a support vector machine approach to dutch part-of-speech tagging	2007	11.307534282340374	-19.02107456069648	3944532
+3947100	NLP	chinese word segmentation using various dictionaries	2006	11.280517760125056	-18.501298644457414	3947127
+3947856	NLP	enhancing root extractors using light stemmers	2015	11.52051038923315	-18.889119716925755	3947883
+3953498	NLP	adapting an english information extraction system to swedish	1999	11.243355077485246	-18.919129587248626	3953525
+3954262	NLP	overview of nlp-tea 2016 shared task for chinese grammatical error diagnosis.	2016	11.649949888151124	-18.582387945823946	3954289
+3954487	NLP	little by little: semi supervised stemming through stem set minimization	2013	11.844693243641009	-18.931627919553872	3954514
+3957051	NLP	using generation for grammar analysis and error detection	2009	12.10629695397358	-19.379633607352954	3957078
+3957221	NLP	phrase structure annotation and parsing for learner english	2016	12.089239117569685	-18.527611332038397	3957248
+3957850	NLP	large-coverage root lexicon extraction for hindi	2009	11.563154577341813	-18.72288398163581	3957877
+3958781	NLP	creating large-scale multilingual cognate tables	2018	11.892771454841574	-19.28498828852016	3958808
+3959050	NLP	cross-lingual transfer of correlations between parts of speech and gaze features	2016	11.742228360181587	-18.453292124633688	3959077
+3960574	NLP	creating a bilingual psychology lexicon for cross lingual question answering - a pilot study	2007	11.984538559174053	-18.827244951149908	3960601
+3962187	NLP	named entity recognition for south asian languages	2008	11.544844017662795	-19.063571761858338	3962214
+3964942	NLP	verb semantics for english-chinese translation	1995	12.104187220478769	-19.052776318524312	3964969
+3966550	NLP	an algorithm for anaphora resolution in spanish texts	2001	12.006574598551392	-19.193564726922173	3966577
+3970594	NLP	increasing return on annotation investment: the automatic construction of a universal dependency treebank for dutch	2017	11.885731626433131	-19.332217702212805	3970621
+3972715	NLP	crosslingual annotation and analysis of implicit discourse connectives for machine translation	2015	12.072517134259341	-19.351163141157752	3972742
+3972760	NLP	machine translation for entity recognition across languages in biomedical documents	2013	11.50411816436812	-19.14579702552752	3972787
+3974103	NLP	aligning sentences from standard wikipedia to simple wikipedia	2015	11.248964068456669	-18.441750636312076	3974130
+3974981	NLP	creating a large-scale arabic to french statistical machinetranslation system.	2006	11.291837446676046	-18.788430481573926	3975008
+3975070	NLP	using bilingual word-embeddings for multilingual collocation extraction	2017	11.45419855025532	-18.533833965375546	3975097
+3975359	NLP	a neural architecture for dialectal arabic segmentation	2017	11.153884481968355	-18.906185198220747	3975386
+3979732	NLP	corpus-based disambiguation for machine translation	2011	12.081306256897578	-18.85909837721105	3979759
+3981485	NLP	monoise: modeling noise using a modular normalization system	2017	11.260050793399149	-18.67944606700883	3981512
+3981879	Web+IR	an experiment in detection and correction of malapropisms through the web	2005	11.859564306755669	-18.481095466980047	3981906
+3982441	NLP	using comparable corpora to adapt a translation model to domains	2010	11.641237876916248	-19.260109440044207	3982468
+3984648	NLP	evaluating the impact of morphosyntactic ambiguity in grammatical error detection	2009	11.96158247782899	-19.194806875931075	3984675
+3984808	NLP	formal methods of tokenization for part-of-speech tagging	2002	11.641626752895606	-19.128487455569967	3984835
+3984917	NLP	can the internet help improve machine translation?	2006	11.678318069458644	-19.092762958368453	3984944
+3987773	NLP	analyzing error types in english-czech machine translation	2011	11.945001014369524	-18.712408078626552	3987800
+3988009	NLP	improving calculation of contextual similarity for constructing a bilingual dictionary via a third language	2013	11.237590149817784	-18.53881779765188	3988036
+3988117	NLP	performance evaluation of english to sanskrit machine translation system	2012	11.216058841692425	-18.815602451583587	3988144
+3988289	NLP	noun phrase reference in japanese-to-english machine translation	1996	11.979253293230176	-19.133531487602262	3988316
+3988359	Robotics	automatic new word extraction method	2002	11.59052718793274	-19.063705174395906	3988386
+3989231	Robotics	exploiting explicit annotations and semantic types for implicit argument resolution	2012	11.207728765019462	-18.76813511123217	3989258
+3989580	NLP	adding noun phrase structure to the penn treebank	2007	11.894353815686808	-18.988643867679308	3989607
+3989816	NLP	improved induction tree training for automatic lexical categorization	2008	11.449456253482225	-18.539414678783828	3989843
+3989975	NLP	specification marks for word sense disambiguation: new development	2001	12.0350891372301	-18.498952793135388	3990002
+3990018	NLP	a dataset for joint noun-noun compound bracketing and interpretation	2016	11.816603809664528	-18.59133636830669	3990045
+3990666	NLP	chinese frame identification using t-crf model	2010	11.18447389124788	-18.907357033359705	3990693
+3990813	NLP	diacritization of a highly cited text: a classical arabic book as a case	2018	11.543581703784833	-19.390072530810173	3990840
+3990909	NLP	towards word sense disambiguation of polish	2008	11.74552690511696	-18.60267713805861	3990936
+3991754	NLP	joint segmentation and pos tagging for arabic using a crf-based classifier	2012	11.237405897553376	-19.335160587528176	3991781
+3992462	NLP	the syntax augmented mt (samt) system at the shared task for the 2007 acl workshop on statistical machine translation	2007	11.375966524193645	-18.95974221522561	3992489
+3992939	NLP	one decade of statistical machine translation: 1996-2005	2005	11.153613689650056	-18.673976075068612	3992966
+3993598	NLP	whitepaper of news 2010 shared task on transliteration mining	2010	11.264223557392613	-18.80437132909897	3993625
+4000826	NLP	phrase-based smt with shallow tree-phrases	2006	11.946880862874556	-19.1823055878914	4000853
+4002063	NLP	dynamic terminology integration methods in statistical machine translation	2015	11.976764748126257	-18.496632876419845	4002090
+4005137	NLP	identifying word translations from comparable documents without a seed lexicon	2012	11.841887355824252	-18.815165468957666	4005164
+4007748	NLP	a readable read: automatic assessment of language learning materials based on linguistic complexity	2016	12.001341948409321	-18.532778067906502	4007775
+4008541	NLP	assessing the accuracy of discourse connective translations: validation of an automatic metric	2013	11.75385326154921	-18.841502720759703	4008568
+4009199	NLP	extracting equivalents from aligned parallel texts: comparison of measures of similarity	2000	11.705940924531367	-19.337390708753396	4009226
+4011329	NLP	clarify: human-powered training of smt models	2009	11.700660280950748	-18.62793135811214	4011356
+4013484	NLP	improving corpus annotation productivity: a method and experiment with interactive tagging	2012	11.443751385207165	-19.006389227132228	4013511
+4014019	NLP	techlimed system description for the shared task on automatic arabic error correction	2014	11.718295822535172	-18.54704562818605	4014046
+4014704	NLP	translating cross-lingual spelling variants using transformation rules	2005	11.558320240103006	-19.336338564431415	4014731
+4014902	NLP	trtok: a fast and trainable tokenizer for natural languages	2012	11.534233965675556	-19.064023256106218	4014929
+4014988	NLP	a sematic role labeling approach in myanmar text	2015	11.430658436919375	-18.785907262191827	4015015
+4016435	NLP	crosslingual countability classification with eurowordnet	2003	12.018571371862972	-18.942396957607894	4016462
+4019119	SE	mt quality estimation for computer-assisted translation: does it really help?	2015	11.8151645876212	-18.543522100886623	4019146
+4019567	NLP	automatic wordnet development for low-resource languages using cross-lingual wsd	2016	11.26535781071685	-18.56438795498207	4019594
+4020649	NLP	evaluating inflectional complexity crosslinguistically: a processing perspective	2018	11.999525102315971	-19.197411963845305	4020676
+4021861	AI	generating chinese classical poems with statistical machine translation models	2012	11.23783029763855	-19.167652210757502	4021888
+4028213	NLP	two-stage bootstrapping for anaphora resolution	2012	11.827224715391802	-18.563810557635108	4028240
+4028419	NLP	is machine translation ripe for cross-lingual sentiment classification?	2011	11.524355232623146	-18.528933236010683	4028446
+4028793	NLP	word sense disambiguation in nepali language	2014	11.725499783422313	-18.529154074008087	4028820
+4029251	NLP	amharic anaphora resolution using knowledge-poor approach	2014	11.551457121469396	-18.66138670652187	4029278
+4031899	NLP	comprehensive supersense disambiguation of english prepositions and possessives	2018	11.982250079413333	-18.620043979005548	4031926
+4032298	NLP	developing methods and resources for automated processing of the african language igbo	2017	11.735755956684251	-19.08289102554699	4032325
+4033834	NLP	automated parser construction from a treebank by means of tbl and ilp.	2001	11.55365077152475	-19.143175420363324	4033861
+4035833	NLP	scoring coreference partitions of predicted mentions: a reference implementation	2014	11.684547451374106	-18.452384115902092	4035860
+4036572	NLP	incremental n-gram approach for language identification in code-switched text	2014	11.63895094754122	-18.73841788035422	4036599
+4036594	NLP	research of english-chinese alignment at word granularity on parallel corpora	2008	11.392367664836335	-19.355896783578146	4036621
+4036666	HCI	assessing the post-editing effort for automatic and semi-automatic translations of dvd subtitles	2011	12.00348684230918	-18.5938124561622	4036693
+4037128	NLP	chinese whispers: cooperative paraphrase acquisition	2012	11.444539663760693	-19.08869137400062	4037155
+4037229	AI	morphological analyzer for malayalam using machine learning	2010	11.307171893305249	-19.182376334207238	4037256
+4037245	NLP	a framework for language resource construction and syntactic analysis: case of arabic	2016	11.867166767351327	-18.915187895192577	4037272
+4037520	NLP	theoretically motivated treebank coverage	2007	11.766371703921482	-18.85377856344509	4037547
+4038761	NLP	discarding noise in an automatically acquired lexicon of support verb constructions	2004	11.690007709669795	-19.176735222774962	4038788
+4039148	NLP	a rule based approach for automatic clause boundary detection and classification in hindi	2014	11.793242559029519	-19.082191981717134	4039175
+4040042	NLP	translation of to infinitives in anusaaraka platform: an english hindi mt system	2014	11.976788353159082	-19.03587613796197	4040069
+4040520	NLP	polish-english word alignment: preliminary study	2011	11.625100717511494	-18.701522747706736	4040547
+4041904	NLP	finding statistically motivated features influencing subtree alignment performance	2011	11.560302719526216	-18.455854510224434	4041931
+4043724	NLP	assessment criteria for benchmarking arabic morphological analyzers and generators	2014	11.745053016291926	-18.43897075844276	4043751
+4044665	NLP	deriving morphological analyzers from example inflections	2016	11.678645897612093	-19.21467847563926	4044692
+4045235	NLP	the goldilocks principle: reading children's books with explicit memory representations	2015	11.330602333422238	-19.158992158971685	4045262
+4047108	NLP	a distributional semantics approach to implicit language learning	2015	11.636958259854186	-18.920300096178888	4047135
+4047381	NLP	a hybrid approach to treebank construction	2012	11.28338434463816	-19.164176139903983	4047408
+4048080	NLP	integration of data sources in an automatic corrector of arabic texts	2016	11.488164025072756	-19.376567080680964	4048107
+4049025	NLP	unsupervised ranked cross-lingual lexical substitution for low-resource languages	2016	11.219789977429988	-18.83054426495712	4049052
+4052530	NLP	on wordnet semantic classes and dependency parsing	2014	11.682038123617813	-19.03124457444679	4052557
+4053787	NLP	parsing with dynamic rule selection	1997	11.471264408626778	-18.732048251564212	4053814
+4057899	NLP	vaasaanubaada - automatic machine translation of bilingual bengali-assamese news texts	2002	11.763763254621804	-19.1893544727905	4057926
+4058540	NLP	lemmagen: multilingual lemmatisation with induced ripple-down rules	2010	11.301428107717106	-18.544921940399707	4058567
+4060025	NLP	learning clusters of bilingual suffixes using bilingual translation lexicon	2015	11.660419477674493	-18.992451753189712	4060052
+4060604	NLP	parsing croatian and serbian by using croatian dependency treebanks	2013	11.651382318723831	-19.29916895569409	4060631
+4060879	NLP	accounting for contiguous multiword expressions in shallow parsing	2013	11.409543402190547	-19.187167665071442	4060906
+4066001	NLP	pp-attachment disambiguation using large context	2005	11.947795772198164	-19.0127373942864	4066028
+4066788	NLP	generalizing semantic role annotations across syntactically similar verbs	2007	11.841621005638272	-18.62408791059816	4066815
+4072598	NLP	using transliteration of proper names from arabic to latin script to improve english-arabic word alignment	2013	11.70895256674464	-19.105214645355726	4072625
+4075532	SE	uw-stanford system description for aesw 2016 shared task on grammatical error detection	2016	11.321986832317693	-18.891855254735727	4075559
+4076827	NLP	description of hlju chinese spelling checker for sighan bakeoff 2013	2013	11.345533895469258	-18.610663963910085	4076854
+4079408	NLP	the 2018 shared task on extrinsic parser evaluation: on the downstream utility of english universal dependency parsers	2018	11.268189625046187	-19.00666071176354	4079435
+4080611	HCI	large tagsets and high accuracy in statistical morpho-syntactic disambiguation of written texts	2000	11.735230662612198	-18.51210112552462	4080638
+4080631	NLP	improving egyptian-to-english smt by mapping egyptian into msa	2014	11.568045517930814	-19.350239751329067	4080658
+4082502	NLP	phrasal verb disambiguation grammars: cutting out noise automatically	2016	11.83818778806768	-19.35573379566264	4082529
+4084172	NLP	representing text chunks	1999	11.980401102420721	-19.18174882362889	4084199
+4084435	NLP	models of translational equivalence among words	2000	11.30162788809134	-18.869635536771646	4084462
+4085163	AI	automatic semantic role labeling for chinese verbs	2005	11.552205232899025	-19.14140624630979	4085190
+4086470	NLP	a hybrid approach for building arabic diacritizer	2009	11.582708467566114	-19.151747460140875	4086497
+4087326	NLP	multiword expression identification with recurring tree fragments and association measures	2015	11.515957404371806	-19.075693030721034	4087353
+4087941	AI	the parameter-optimized atec metric for mt evaluation	2010	11.323124394354062	-18.533772915450808	4087968
+4089215	NLP	dealing with function words in unsupervised dependency parsing	2014	11.224205557605913	-19.335670044120548	4089242
+4089627	NLP	bootstrapping a database of german multi-word expressions	2004	11.81875475752171	-19.347509360527784	4089654
+4090917	NLP	kyoto-u: syntactical ebmt system for ntcir-7 patent translation task	2008	11.811216505726945	-19.291723847700123	4090944
+4091114	NLP	cvte at ijcnlp-2017 task 1: character checking system for chinese grammatical error diagnosis task	2017	11.146024847064416	-19.377278162664805	4091141
+4093558	NLP	the ui system in the hoo 2012 shared task on error correction	2012	11.236859964664907	-19.040956271159796	4093585
+4095802	NLP	automatic morphological enrichment of a morphologically underspecified treebank	2013	12.016458557686574	-18.90540302562601	4095829
+4099718	NLP	parsing clinical text: how good are the state-of-the-art parsers?	2015	11.258709335751043	-18.595163009212424	4099745
+4100080	NLP	domain phrase identification using atomic word formation in chinese text	2011	11.488213286122384	-18.75150713606784	4100107
+4103508	SE	a bi-directional translation approach for building thai wordnet	2009	11.465433387234295	-18.578183251705326	4103535

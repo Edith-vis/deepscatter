@@ -1,0 +1,502 @@
+id	area	title	year	x	y	ix
+3366211	Graphics	level of detail and multi-resolution modeling for virtual prototyping	2001	-11.225245469186303	-8.937778346978886	3366238
+3366636	Vision	denoising manifold and non-manifold point clouds	2007	-11.897469686238574	-9.193636538563787	3366663
+3366720	Graphics	improving interaction with radiosity-based lighting simulation programs	1990	-11.205614449543784	-9.687296432300922	3366747
+3366753	ML	learning light transport the reinforced way	2017	-11.187741516240543	-9.610713557994334	3366780
+3367328	Vision	accelerating subsurface scattering using cholesky factorization	2006	-11.784975747373323	-9.666295496011807	3367355
+3370345	Graphics	a framework for interactive hypertexture modelling	2009	-11.590765329213937	-9.2918921349254	3370372
+3370981	Graphics	modeling and rendering of heterogeneous translucent materials using the diffusion equation	2008	-11.661514004761255	-9.806239615949336	3371008
+3371935	Visualization	interactive illustrative line styles and line style transfer functions for flow visualization	2015	-11.835764158141028	-9.107373457523355	3371962
+3379156	Visualization	bas-relief generation using adaptive histogram equalization	2009	-11.583566002886052	-9.011541275501605	3379183
+3380408	Graphics	smooth penumbra transitions with shadow maps	2006	-11.132018708383157	-9.134861243743329	3380435
+3381460	Graphics	basic processes of chinese character based on cubic b-spline wavelet transform	2001	-11.377360775293925	-9.747141427327046	3381487
+3382935	Graphics	fast dynamic fracture of brittle objects	2005	-11.85823765299748	-9.633270883347544	3382962
+3385482	Graphics	multiplexed metropolis light transport	2014	-11.232146570687714	-9.593878052478203	3385509
+3385576	Graphics	styling and real-time simulation of human hair	2005	-11.564486804585098	-9.44632621461538	3385603
+3385703	Visualization	visual reconstructability as a quality metric for flow visualization	2011	-11.418401301050947	-9.245208340829445	3385730
+3386543	Graphics	real-time rendering of heterogeneous translucent materials with dynamic programming	2016	-11.636690060488215	-9.669563854467654	3386570
+3387989	Visualization	a general illumination model for molecular visualization	2018	-11.602483741139967	-9.718412719029782	3388016
+3388636	Graphics	beyond stippling - methods for distributing objects on the plane	2003	-11.231341951306977	-9.58797609672098	3388663
+3388945	Graphics	enhancing sketching and sculpting for shape modeling	2018	-11.833615405084359	-9.168606004803642	3388972
+3390716	NLP	fur shading and modification based on cone step mapping	2012	-11.436319552152426	-9.630931353427467	3390743
+3392346	Vision	optimizing a triangular mesh for shape reconstruction from images	2005	-11.61098483994093	-9.039990372963405	3392373
+3392892	Graphics	frequency-based operators for freeform feature shape reuse	2004	-11.972047795736177	-9.092235064552506	3392919
+3394775	Graphics	on the modification of phonon tracing	2007	-11.95988970386831	-8.93015310831194	3394802
+3397341	Graphics	real-time simulation and visualisation of cloth using edge-based adaptive meshes	2012	-11.79470128412786	-9.234405427766957	3397368
+3401976	Graphics	multiple strategy stochastic iteration for architectural walkthroughs	2003	-11.24174415394902	-9.482719214398845	3402003
+3402446	Visualization	fast blending scheme for molecular surface representation	2013	-11.391891254736901	-8.94154162772934	3402473
+3404622	Vision	realistic image synthesis of complex objects using a simplified model	1991	-11.532357492278695	-9.780184701517529	3404649
+3406286	EDA	the universal projection for computing data carried on the hemisphere	2011	-11.440489629065445	-9.508825943492107	3406313
+3407244	Visualization	introducing topological attributes for objective-based visualization of simulated datasets	2005	-11.51110006481178	-9.07952718912799	3407271
+3407473	Visualization	anti-aliased volume extraction	2003	-11.257394839486409	-9.730529463823572	3407500
+3408420	Visualization	laser intensity data visualization for laser physics	2017	-11.823302141114006	-9.192238271509584	3408447
+3409466	Visualization	gpu-based acoustical occlusion modeling for virtual environments and games	2013	-11.442270281765163	-9.734044107570886	3409493
+3413057	Visualization	restoring continuity: exploration of techniques for reconstructing the spatial distribution underlying polygonized data	1997	-11.256894463474278	-8.922109188664178	3413084
+3413642	Vision	geometrically guided exemplar-based inpainting	2011	-11.825632774253492	-9.757613829686743	3413669
+3414277	Visualization	volume rendering with multidimensional peak finding	2012	-11.41300405472585	-9.064010850405518	3414304
+3414920	Graphics	large-scale water simulation based on spherical projected grid (spg)	2014	-12.053091135363506	-9.802351783308527	3414947
+3416354	Visualization	view-dependent peel-away visualization for volumetric data	2009	-11.268283780672869	-8.933861775964052	3416381
+3416494	Graphics	computer rendering of stochastic models	1982	-11.538087601433954	-9.583770210778027	3416521
+3418842	Graphics	inspired quadrangulation	2011	-12.03039344997998	-8.883804975762953	3418869
+3426572	Graphics	a new method for modeling clouds combining procedural and implicit models	2017	-11.939308898027534	-9.787038599518086	3426599
+3428782	Visualization	local control for temporal evolution of textured images	2006	-11.700426898714873	-9.486314471943254	3428809
+3430576	Visualization	3d distance transform adaptive filtering for smoothing and denoising triangle meshes	2006	-11.966930918419395	-9.004088458779462	3430603
+3431972	Vision	3d model editing from contour drawings on orthographic projection views	2014	-11.77413864183782	-9.284957524707904	3431999
+3432051	Vision	cached multi-bounce solution and reconstruction for voxel-based global illumination	2009	-11.113739748770003	-9.290075836130242	3432078
+3434448	Visualization	volumetric normal mapping in rendering of multivariate volume data	2007	-11.2245511608466	-9.091229996159514	3434475
+3436420	HCI	dual space directional occlusion	2013	-11.54025641005659	-9.245499606127412	3436447
+3436845	Visualization	multi-scale iso-surface extraction for volume visualization	2004	-11.549363684741927	-8.936887061022926	3436872
+3437254	Visualization	effective clipart image vectorization through direct optimization of bezigons	2016	-11.187064225545926	-9.395059217243787	3437281
+3439665	Graphics	adaptively sampled distance fields: a general representation of shape for computer graphics	2000	-11.427420200226324	-9.081430647456457	3439692
+3440620	Vision	an edge-based approach to adaptively refining a mesh for cloth deformation	2009	-12.047879030358608	-9.083741610106976	3440647
+3441940	Vision	volumetric ambient occlusion for volumetric models	2010	-11.212836877849004	-9.725940616089678	3441967
+3444286	HCI	a straightforward and intuitive approach on generation and display of crack-like patterns on 3d objects	2006	-11.595384883932557	-9.65463289944142	3444313
+3444646	Graphics	user-controlled creation of multiresolution meshes	2003	-11.689507465308955	-9.274448229839605	3444673
+3447616	Visualization	new rendering approach for composable volumetric lenses	2008	-11.154112443684324	-8.91816942745399	3447643
+3449032	Graphics	pointshop 3d: an interactive system for point-based surface editing	2002	-11.371043031951963	-9.343746559936816	3449059
+3449457	Graphics	mesh editing with poisson-based gradient field manipulation	2004	-11.909579620908751	-9.307692167651904	3449484
+3449524	HCI	interactive volume illustration using intensity filtering	2010	-11.259781905003825	-9.665758125566736	3449551
+3450759	Graphics	real-time rendering of light shafts on gpu	2006	-11.868610220076953	-9.76652670016773	3450786
+3453263	Graphics	a hierarchical factorization method for efficient radiosity calculations	2016	-11.299083155028589	-9.153700448475107	3453290
+3453286	Visualization	a multiple scattering in participating media for real time rendering	2012	-11.585373084052256	-9.667371178500838	3453313
+3456650	Graphics	view-dependent particles for interactive non-photorealistic rendering	2001	-11.394438740961649	-9.449787021517274	3456677
+3457780	Graphics	stroke extraction and classification for mesh inflation	2010	-11.35723931793406	-9.739591395433687	3457807
+3460176	Graphics	imaging vector fields using line integral convolution	1993	-11.57726053836068	-9.00075536772419	3460203
+3461382	Vision	3d freeform design: interactive shape deformations by the use of cyberglove	2004	-11.74695523188476	-9.60959034009665	3461409
+3461520	Graphics	continuous model synthesis	2008	-11.398338214621553	-8.930744344597517	3461547
+3461625	Visualization	an approach for 3d water surface simulation	2008	-11.778175554590115	-9.554248163954528	3461652
+3462566	Visualization	interactive retro-deformation of terrain for reconstructing 3d fault displacements	2012	-11.794818758889107	-9.50265567865278	3462593
+3465654	HCI	example-based interactive illustration of multi-field datasets	2010	-11.494474211035753	-9.302391648812252	3465681
+3465999	Graphics	isrvt: an interactive spectral rendering visualization tool	2004	-11.661062674573802	-9.600047820755275	3466026
+3468449	HCI	fuzzy displays of a surface deformation for virtual world	2002	-12.001100363399846	-9.173129776183794	3468476
+3468901	Vision	an interactive system for low-poly illustration generation from images using adaptive thinning	2017	-11.714699294339333	-9.182502234220463	3468928
+3470102	Graphics	structure preserving manipulation and interpolation for multi-element 2d shapes	2012	-11.914232284598947	-9.076035166475029	3470129
+3471685	Visualization	region-of-interest visualization by cave vr system with automatic control of level-of-detail	2010	-11.361885135093686	-8.881200825725541	3471712
+3475062	Visualization	silhouette smoothing for real-time rendering of mesh surfaces	2008	-11.471495935594444	-8.87076808885545	3475089
+3475614	Graphics	a sketching interface for 3d modeling of polyhedrons	2006	-12.002228928268645	-9.0465047089906	3475641
+3477893	Vision	fractured object reassembly via robust surface registration	2015	-11.73321327666448	-8.890425702183713	3477920
+3478040	Comp.	on the extraction of various regions in vector maps	1994	-11.33652433066149	-9.276187771748983	3478067
+3479903	Robotics	using an intermediate skeleton and inverse kinematics for motion retargeting	2000	-11.55055599278759	-8.92501663763218	3479930
+3480042	Graphics	gpu-based acoustical occlusion modeling with acoustical texture maps	2011	-11.220126595098117	-9.643373859661633	3480069
+3480390	Graphics	sketching subdivision surfaces	2009	-11.835849471064213	-9.161409020966904	3480417
+3480750	Vision	shape morphing and reconstruction using a self-organizing feature map	2006	-12.019417440271425	-8.867912770508424	3480777
+3480931	Visualization	gpu-based real-time simulation and rendering of unbounded ocean surface	2005	-11.750998022221856	-9.262949603746558	3480958
+3483133	Graphics	fast 4d sheared filtering for interactive rendering of distribution effects	2015	-11.24438024625052	-9.639391663836694	3483160
+3485025	Graphics	modeling dense inflorescences	2016	-11.785351797342145	-9.460035403778807	3485052
+3486921	Visualization	adaptive importance sampling for multi-ray gathering	2011	-11.281993822935851	-9.749507353435893	3486948
+3487036	Visualization	efficient fluids simulation and rendering on gpu	2013	-12.062900500251056	-9.184188401655922	3487063
+3487922	Graphics	relighting forest ecosystems	2009	-11.239794137707076	-9.560070588939126	3487949
+3488163	Graphics	by example synthesis of three-dimensional porous materials	2017	-11.727083700016573	-9.653270068986078	3488190
+3488240	Graphics	conservative radiance interpolants for ray tracing	1996	-11.299157497791407	-9.474903586879497	3488267
+3489848	Graphics	by-example synthesis of curvilinear structured patterns	2013	-11.83517524268304	-8.874460933447779	3489875
+3490701	Vision	single-patch nurbs face	2007	-11.985621172315328	-8.849060017519182	3490728
+3491895	Visualization	a 2d flow visualization user study using explicit flow synthesis and implicit task design	2012	-11.782076333842024	-9.12722693413976	3491922
+3496627	Graphics	stylizing silhouettes at interactive rates: from silhouette edges to silhouette strokes	2002	-11.163022695236727	-9.661912756105522	3496654
+3496687	Visualization	efficient visibility encoding for dynamic illumination in direct volume rendering	2012	-11.288362655635146	-9.360206814911818	3496714
+3496693	HPC	a seamless representation of multi-scale clouds	2009	-11.862151909622725	-9.784038998060039	3496720
+3497498	Graphics	an accurate model of wave refraction over shallow water	2002	-12.016755562558107	-9.792587457543178	3497525
+3499542	Vision	sequence matching genetic algorithm for square jigsaw puzzles	2014	-11.437284653199669	-9.674537202597392	3499569
+3501022	Robotics	plumetrack: flux calculation software for uv cameras	2018	-11.82482059332397	-9.720015012665275	3501049
+3501158	Visualization	a stochastic approach for rendering multiple irregular volumes	2014	-11.779017795074365	-9.006981353849561	3501185
+3502474	Vision	light-driven global illumination with a wavelet representation of light transport	1996	-11.434154618864667	-9.166650123388068	3502501
+3504449	Vision	thor: sketch-based 3d modeling by skeletons	2008	-11.97745653141791	-9.089748873802495	3504476
+3504703	Graphics	pattern-aware shape deformation using sliding dockers	2011	-11.720881984765205	-9.188230449158318	3504730
+3505189	HPC	in-situ feature tracking and visualization of a temporal mixing layer	2012	-11.918917122379597	-9.357744675292318	3505216
+3509494	Graphics	comprehensible rendering of 3-d shapes	1990	-11.230784488205533	-9.15527433071757	3509521
+3510242	Graphics	geometric details on skeleton-based implicit surfaces	2012	-11.785622959698422	-9.214407572851636	3510269
+3511466	Graphics	shape modeling by sketching using convolution surfaces	2007	-11.964048394694546	-9.051096451148949	3511493
+3511931	Visualization	heterogeneous volume deformation and animation authoring with density-aware moving least squares	2018	-11.949952898548592	-9.078558532749216	3511958
+3513458	Graphics	three dimensional reconstruction of botanical trees with simulatable geometry	2018	-11.103139179527009	-9.338201124093574	3513485
+3513763	Graphics	painting and rendering textures on unparameterized models	2002	-11.545296069214945	-9.29045248391067	3513790
+3515801	NLP	a systematic approach to unstructured mesh generation for ocean modelling using gmt and terreno	2008	-12.056254217127307	-9.151430331567518	3515828
+3517014	Graphics	procedural modeling of buildings	2006	-11.319255217147866	-9.238508225964672	3517041
+3517181	Visualization	hsv representation of non-newtonian lattice-boltzmann flows	2002	-11.850038734198616	-9.31929101338032	3517208
+3518486	Graphics	csculpt: a system for collaborative sculpting	2016	-11.153189852708518	-9.639407188539026	3518513
+3518612	AI	progressive photon mapping with sample elimination	2016	-11.391049631938605	-9.620137354799297	3518639
+3520717	Graphics	planet map generation by tetrahedral subdivision	2009	-11.506434898717382	-8.89800609039049	3520744
+3520773	Graphics	haptic rendering of solid object submerged in flowing fluid with environment dependent texture	2018	-12.058388877014663	-9.665747306708898	3520800
+3522551	Visualization	enhancing salient features in volumetric data using illumination and transfer functions	2016	-11.29390933713124	-9.650009555413007	3522578
+3524998	Graphics	a new radiosity approach by procedural refinements for realistic image sythesis	1988	-11.56310642958207	-9.781357233872797	3525025
+3527511	Graphics	capturing and animating the morphogenesis of polygonal tree models	2012	-11.603169475066608	-9.524678592247636	3527538
+3528425	Graphics	real-time and interactive rendering for translucent materials such as human skin	2011	-11.420598047622333	-9.805800245160855	3528452
+3529321	Vision	real-time variable rigidity texture mapping	2015	-11.498915207580122	-9.641393808881007	3529348
+3530527	Graphics	real time spline curves from interactively sketched data	1990	-11.678898385574158	-8.84822923544835	3530554
+3533954	Graphics	a mesh-based automatic in-betweening algorithm in computer-assisted animation	2007	-11.470909554240256	-8.945570622209038	3533981
+3535699	Graphics	topological reconstruction of complex 3d buildings and automatic extraction of levels of detail	2014	-11.222095700551947	-8.966970992181993	3535726
+3539351	Graphics	three-dimensional volume datafield reconstruction from physical model	1997	-11.839745919873135	-8.923929687744202	3539378
+3540931	Graphics	global illumination using photon maps	1996	-11.115619521961243	-9.542030833464118	3540958
+3544524	Vision	image-dependent three-dimensional gamut mapping using gamut boundary descriptor	2004	-11.810068417313651	-9.712752164431349	3544551
+3545112	Graphics	space-time sculpting of liquid animation	2016	-11.766657692825898	-9.458848105231006	3545139
+3545487	Graphics	feature aware multiresolution animation models generation	2010	-11.290415797108452	-8.873293210084341	3545514
+3545532	HCI	balloonprobe: reducing occlusion in 3d using interactive space distortion	2005	-11.761780978801387	-9.481015108889926	3545559
+3548139	Graphics	multi-class anisotropic blue noise sampling for discrete element pattern generation	2016	-11.407991193168302	-8.867752765419066	3548166
+3548339	Graphics	a new progressive radiosity algorithm through the use of accurate form-factors	1992	-11.32001002614976	-9.366597678431546	3548366
+3548791	NLP	a geometrical based method for highly complex structured textures generation	1995	-12.023923116497492	-9.689613162212538	3548818
+3553443	Graphics	second-order approximation for variance reduction in multiple importance sampling	2013	-11.262103444601586	-9.723634731214407	3553470
+3554738	Visualization	visualization of particle-based data with transparency and ambient occlusion	2015	-11.637432552072596	-9.50260359897851	3554765
+3555752	Graphics	matisse: painting 2d regions for modeling free-form shapes	2008	-11.596011318942145	-9.415276987250518	3555779
+3556444	Visualization	texture-based feature tracking for effective time-varying data visualization	2007	-11.746456498745784	-9.228087363318169	3556471
+3557295	Visualization	volume sculpting based on geometric tools	2009	-11.373578524226652	-9.131827974609607	3557322
+3558087	Graphics	gpu-accelerated transparent point-based rendering	2006	-11.337448858150713	-9.2494237255059	3558114
+3558319	Vision	probabilistic visibility evaluation using geometry proxies	2014	-11.271720678298918	-8.873645825914064	3558346
+3560292	Graphics	theory and application of specular path perturbation	2000	-11.912432532388811	-9.016341761612546	3560319
+3561014	Comp.	open-source platforms for fast room acoustic simulations in complex structures.	2018	-11.490736717204713	-9.382592256441283	3561041
+3563845	Vision	coarse irradiance estimation using curvilinear skeleton	2012	-11.319693261241847	-9.606892199647488	3563872
+3564745	Graphics	realistic rendering and animation of knitwear	2003	-11.93308700459102	-9.731831683888029	3564772
+3565509	Visualization	pre-processing unsteady flows for clutter reduction in vortex visualization	2016	-12.002116028011756	-9.384977574489033	3565536
+3566702	Vision	feature-constrained texturing system for 3d models	2005	-11.112236989056518	-9.53460313995664	3566729
+3567034	OS	an efficient feathering system with collision control	2015	-11.765187148877358	-9.567691762678583	3567061
+3569367	HPC	a multiresolution grid structure applied to seafloor shape modeling	2018	-11.889869151205597	-9.285816670848144	3569394
+3569385	Vision	design of accurate and smooth filters for function and derivative reconstruction	1998	-11.343971292393016	-9.141009035306595	3569412
+3575192	Visualization	on perception of semi-transparent streamlines for three-dimensional flow visualization	2014	-11.179127651177847	-9.679764957923538	3575219
+3575328	ML	sequences with low-discrepancy blue-noise 2-d projections	2018	-11.38354059253976	-9.724222045754779	3575355
+3575521	Graphics	selective guided sampling with complete light transport paths	2018	-11.448682294352365	-9.786016913647382	3575548
+3575896	Graphics	reconstructing animated meshes from time-varying point clouds	2008	-11.423845502875633	-8.963537137804604	3575923
+3578648	Graphics	volume, space and colour	1983	-11.55543485662058	-9.071339422949514	3578675
+3579810	Robotics	an error driven 3d face modeling scheme based on partial differential equations	2010	-11.9346970807793	-8.936483600866444	3579837
+3581296	Graphics	compact and efficient generation of radiance transfer for dynamically articulated characters	2007	-11.611051955691293	-9.572160460883412	3581323
+3584355	Visualization	virtual retractor: an interactive data exploration system using physically based deformation	2017	-11.587870492455556	-9.18420147785316	3584382
+3584993	Visualization	illustrative rendering of vortex cores	2013	-12.058640075279033	-9.001733771620163	3585020
+3585485	Graphics	a theoretical framework for physically based rendering	1994	-11.450221292643954	-9.638653300946537	3585512
+3587157	Robotics	texture synthesis by l-systems	1997	-11.28703688844928	-9.353174367685073	3587184
+3588940	Visualization	an accelerated rendering algorithm for stereoscopic display	1996	-11.162390814502283	-9.121466579377838	3588967
+3597436	EDA	simultaneous bidirectional geometric model synchronization between cad and vr applications	2013	-12.06259868350487	-8.965075812526797	3597463
+3598722	HCI	high-quality compatible triangulations and their application in interactive animation	2018	-11.948470990241342	-8.865924089223334	3598749
+3599623	Visualization	research of rendering anisotropic volume data directly based on the shear-warp algorithm	2009	-11.203720414225094	-9.104352071672793	3599650
+3601010	Graphics	robust and efficient adaptive direct lighting estimation	2013	-11.324674004096416	-9.799183912461226	3601037
+3608007	Visualization	interactive particle visualization with advanced shading models using lazy evaluation	2007	-11.18402592135824	-9.034258646091336	3608034
+3608324	Visualization	object-oriented motion abstraction	1995	-11.640726118756607	-8.964797814347271	3608351
+3610263	ML	environment rendering optimization for pixar's the good dinosaur	2015	-11.311848186775693	-9.439255001719738	3610290
+3615663	Graphics	rapter: rebuilding man-made scenes with regular arrangements of planes	2015	-11.422603434480806	-8.885601540266931	3615690
+3615742	Vision	a ray tracing solution for diffuse interreflection	1988	-11.336313723615135	-9.765922376721262	3615769
+3616061	Graphics	high-order diffraction and diffuse reflections for interactive sound propagation in large environments	2014	-11.29363471585593	-9.543718588276873	3616088
+3616636	Vision	a neuro-evolutionary unbiased global illumination algorithm	1997	-11.269134191252382	-9.39780831565752	3616663
+3616650	Graphics	optimizing control variate estimators for rendering	2006	-11.273943245018193	-9.694116222585011	3616677
+3619945	EDA	interactive plant modeling based on fractal	2008	-11.531656803343607	-9.246731376107789	3619972
+3621769	Vision	making radiance and irradiance caching practical: adaptive caching and neighbor clamping	2006	-11.239186553762849	-9.714850736752776	3621796
+3621875	Visualization	a fast parametric deformation mechanism for virtual reality applications	2009	-11.874432587950425	-9.597154522854273	3621902
+3624789	Vision	point-based light transport for participating media with refractive boundaries	2016	-11.451724419554735	-9.700587654797404	3624816
+3628245	Graphics	development of a pit filling algorithm for lidar canopy height models	2009	-11.426676565565428	-9.595804811266897	3628272
+3629136	Vision	hardware-accelerated stippling of surfaces derived from medical volume data	2007	-11.273238545522974	-9.524388868054107	3629163
+3631691	Graphics	spectral processing of point-sampled geometry	2001	-11.774775590441934	-9.436949489867086	3631718
+3634730	Graphics	volume-based indirect lighting with irradiance decomposition	2013	-11.123461872062215	-9.495086927230409	3634757
+3637208	Visualization	fast and stable color balancing for images and augmented reality	2012	-11.215134160098486	-9.663449948926115	3637235
+3639906	Visualization	3d ibfv: hardware-accelerated 3d flow visualization	2003	-11.706105043759141	-9.317418098061014	3639933
+3643002	Visualization	screen space foam rendering	2013	-11.74236190735285	-9.606519065446706	3643029
+3644117	Vision	space classification from point clouds of indoor environments based on reconstructed topology	2018	-11.123099880030244	-9.085811063248824	3644144
+3644638	Graphics	phong tessellation	2008	-11.39281820038432	-9.377230397535122	3644665
+3644649	Robotics	context-aware geometric object reconstruction for mobile education	2016	-11.600126856459847	-9.289055095521347	3644676
+3646523	Robotics	orientation field guided line abstraction for 3d printing	2018	-11.50461545140025	-9.771290681179373	3646550
+3648460	Visualization	brush2model: convolution surface-based brushes for 3d modelling in head-mounted display-based virtual environments	2017	-11.147842145475266	-9.172041145621037	3648487
+3652332	Visualization	visualizing gpr data using spatial-subband configuration	2018	-11.958774313002571	-9.636909166049275	3652359
+3655796	Graphics	constrained up-scaling for direct and global image components	2013	-11.320640159866018	-9.617398742342235	3655823
+3657623	Vision	visualization of slice image with opacity based on particle-based renderer	2012	-11.285660285017329	-9.102691884496554	3657650
+3658898	Graphics	image morphing: a survey	1998	-11.271812975604668	-9.416335204813336	3658925
+3659259	Robotics	procedural modeling of leather texture with structural elements	2009	-11.862701509639015	-9.720500069459877	3659286
+3660896	Robotics	towards a singularity-based shape language: ridges, ravines, and skeletons for polygonal surfaces	2002	-11.768239382409703	-9.279470553715507	3660923
+3664698	Graphics	modelling spiral phyllotaxis	1989	-11.865125740815024	-9.488061045984061	3664725
+3665050	AI	lightweight web3d modeling by finding and reusing repeated components	2011	-11.133447815340775	-8.869301349350119	3665077
+3665440	Graphics	analytic drawing of 3d scaffolds	2009	-11.947604531970498	-9.157308119521359	3665467
+3668543	Graphics	differentiable monte carlo ray tracing through edge sampling	2018	-11.23681587175405	-9.460606381380655	3668570
+3670449	Visualization	stream arrows: enhancing the use of stream surfaces for the visualization of dynamical systems	1997	-11.660293913393456	-9.53872427361165	3670476
+3670729	Vision	analysis of the interpolation error between multiresolution images	1998	-11.629854143625865	-9.251103166432078	3670756
+3672835	Graphics	inferring 3d models from freehand sketches and constraints	1997	-11.992408401149467	-9.135794416729311	3672862
+3673517	Graphics	efficient synthesis of gradient solid textures	2013	-11.507870889084186	-9.356182892696113	3673544
+3674485	Visualization	efficient light transport using precomputed visibility	2003	-11.300669318549929	-8.869843455706013	3674512
+3677732	Graphics	anisotropic solid texture synthesis using orthogonal 2d views	1998	-11.600995154387029	-9.57872594506283	3677759
+3680280	Graphics	lapped textures	2000	-11.944157037125196	-8.875268622503341	3680307
+3682591	Visualization	vots: volume dots as a point-based representation of volumetric data	2004	-11.407027648524506	-8.920053882485538	3682618
+3682752	Graphics	shape context based mesh saliency detection and its applications: a survey	2016	-11.477043021603418	-8.959030853335797	3682779
+3685181	Graphics	hardware-assisted self-collision for deformable surfaces	2002	-11.91360329399851	-9.368278339150956	3685208
+3686167	Visualization	fast global illumination for interactive volume visualization	2013	-11.699090224090185	-9.589397900042501	3686194
+3687118	Robotics	a local √3-subdivision algorithm preserving sharp features	2006	-11.536825598214305	-8.852506783906751	3687145
+3687615	Graphics	non-realistic 3d object stylization	2014	-11.258759759767	-9.694035323965695	3687642
+3687972	Graphics	a sketching interface for feature curve recovery of free-form surfaces	2011	-12.008584526757549	-9.192416914514439	3687999
+3688533	Graphics	adaptive surface texture synthesis using round-shaped neighbourhoods	2008	-11.185205396640141	-8.982914747414963	3688560
+3688748	Vision	robust mesh deformation with salient features preservation	2015	-11.792382701122069	-9.622034908491706	3688775
+3689702	Vision	representing images using curvilinear feature driven subdivision surfaces	2014	-11.433237694035578	-9.301406299810042	3689729
+3692082	Vision	surface sculpting with stochastic deformable 3d surfaces	2004	-11.736629292161211	-9.123211354103828	3692109
+3693795	Visualization	opacity optimization for surfaces	2014	-11.573071855646226	-8.961383930236508	3693822
+3695215	Robotics	stochastic simulation of channelized sedimentary bodies using a constrained l-system	2017	-11.983083133743927	-9.365177600603012	3695242
+3696841	Visualization	interactive volume rendering with dynamic ambient occlusion and color bleeding	2008	-11.1982655104708	-9.217043697355471	3696868
+3697488	Visualization	interactive volume visualization techniques for subsurface data	2005	-11.217635488231585	-9.52746260296588	3697515
+3697495	Robotics	real time l-system generated trees based on modern graphics hardware	2005	-11.376795401831565	-9.322234089197181	3697522
+3698700	Graphics	overcoat: an implicit canvas for 3d painting	2011	-11.617233383682553	-9.461142766254962	3698727
+3698761	Graphics	view-dependent dynamics of articulated bodies	2008	-11.235658339631774	-9.227947063276584	3698788
+3699395	Graphics	perturbation methods for interactive specular reflections	2000	-11.704071061985767	-9.062282643632528	3699422
+3703587	Graphics	continuous line drawings and designs	2014	-11.507082476944838	-9.111998765160482	3703614
+3704251	DB	infolod and landmark: spatial presentation of attribute information and computing representative objects for spatial data	2000	-11.320326462142004	-9.095400274769313	3704278
+3704584	Graphics	global illumination using local linear density estimation	1997	-11.197797466343927	-9.563096720397644	3704611
+3708544	HCI	a framework for interactive realtime image editing	2016	-11.117078711893111	-9.199113782471814	3708571
+3710023	Graphics	robust sketched symbol fragmentation using templates	2004	-11.69485939484002	-9.080191064947384	3710050
+3710504	Visualization	fast visualization of volume emissions using conservative subdivision	2004	-11.784197296911076	-9.468146326869752	3710531
+3710595	Graphics	fractal palettes for texturing	2001	-11.256935953964353	-8.985578282771966	3710622
+3711197	Visualization	volumes of expression: artistic modelling and rendering of volume datasets	2001	-11.374456071634944	-9.358345168367519	3711224
+3712583	Visualization	video composition by optimized 3d mean-value coordinates	2012	-11.272819019441506	-9.131404692326392	3712610
+3713464	Graphics	the use of positional information in the modeling of plants	2001	-11.664611028750192	-9.790780359629606	3713491
+3713630	Graphics	fast fluid simulation in computer graphics using fourier theory	2011	-11.413089802225914	-8.976712602386966	3713657
+3714163	ML	sequential monte carlo adaptation in low-anisotropy participating media	2008	-11.340273752286608	-9.781368094151784	3714190
+3715079	Visualization	acclmesh: curvature-based navigation mesh generation	2016	-11.868410156141367	-8.868402777697927	3715106
+3715500	Graphics	path differentials and applications	2001	-11.352588704162306	-9.57327487340927	3715527
+3729598	Graphics	simplifying character skins with analytic error metrics	2010	-11.767400292905053	-8.858507873124355	3729625
+3730963	Vision	a study on subpixel smoothing for binary images	1996	-11.757594581401365	-9.243957776591195	3730990
+3731151	Graphics	crowd art: density and flow based crowd motion design	2015	-11.517058962371848	-9.757463506581589	3731178
+3733191	Graphics	texture brush: an interactive surface texturing interface	2013	-11.547823502498765	-9.556100770589456	3733218
+3733516	Visualization	virtual tubelets - efficiently visualizing large amounts of particle trajectories	2005	-11.483363378436474	-9.442933349020427	3733543
+3734346	Visualization	in-situ visual exploration of multivariate volume data based on particle based volume rendering	2016	-11.863709597219136	-9.058993524465956	3734373
+3734786	ML	expressive brush strokes	1991	-11.736368337584565	-9.45972602237945	3734813
+3735252	Visualization	employing graphics hardware for an interactive exploration of the airflow in the human nasal cavity	2007	-11.760974265155625	-9.131433888216614	3735279
+3740169	Visualization	screen-space silhouettes for visualizing ensembles of 3d isosurfaces	2016	-11.735075841618546	-8.896481275684915	3740196
+3742423	Graphics	non-photorealistic tour into panorama	2005	-11.188467485481413	-9.703079086126404	3742450
+3742538	Visualization	analysis of hdaf for interpolation and noise suppression in volume rendering	2003	-11.774706187936905	-9.691169531718435	3742565
+3744540	Graphics	a gradient mesh tool for non-rectangular gradient meshes	2017	-11.471766139976095	-9.511242719267413	3744567
+3747349	Robotics	fractal - based analysis of 3d natural shapes and its application to terrain modeling	1988	-12.035285394490009	-9.624911950348665	3747376
+3748207	Graphics	global illumination of glossy environments using wavelets and importance	1996	-11.717696648087134	-9.780858036964787	3748234
+3748519	Visualization	enhanced unsteady flow visualization	2007	-11.544477351193473	-9.331980137033394	3748546
+3750422	Graphics	a procedural thread texture model	2003	-11.81542306702115	-9.703047346212246	3750449
+3751259	Vision	the 3d reconstruction of greenhouse tomato plant based on real organ samples and parametric l-system	2014	-11.781116996152383	-9.749887449538448	3751286
+3754008	Graphics	practical product importance sampling for direct illumination	2008	-11.231084417691743	-9.449349601583524	3754035
+3755472	Visualization	volume illustration: non-photorealistic rendering of volume models	2000	-11.286981400672731	-9.753865396430404	3755499
+3763526	NLP	modeling murex cabritii sea shell with a structured implicit surface modeler	2000	-12.005994743293426	-9.456672037926264	3763553
+3763538	Graphics	interactive procedural street modeling	2007	-11.697052273945873	-9.265118121094766	3763565
+3763551	Vision	artworks using metaball representation with stepwise approach	2005	-11.40683622804898	-9.750705547193757	3763578
+3764018	Robotics	pixel based stroke generation for painterly effect using maximum homogeneity neighbor filter	2013	-11.448411268942886	-9.722563661788104	3764045
+3764615	Graphics	geometric simplification of foliage	2002	-11.474936134367134	-9.52397103560676	3764642
+3765717	Graphics	rendering anti-aliased line segments	2005	-11.196366128825547	-8.941588744050975	3765744
+3768174	Vision	local and nonlocal guidance coupled surface deformation	2014	-11.964248759176948	-9.529797888953778	3768201
+3768529	Vision	statistically optimal interslice value interpolation in 3d medical imaging: theory and implementation	1992	-11.944417450321415	-9.493068186469953	3768556
+3773843	Graphics	precomputing sound scattering for structured surfaces	2014	-11.464184804613188	-9.561161037471887	3773870
+3774647	Graphics	high-performance rendering of realistic cumulus clouds using pre-computed lighting	2014	-11.228142667886322	-9.514088628641618	3774674
+3774913	Graphics	drawing and animation using skeletal strokes	1994	-11.786139904009394	-9.452308376974964	3774940
+3776202	Visualization	procedural visualization of knitwear and woven cloth	2007	-11.348438803314743	-9.47156344252319	3776229
+3778374	Robotics	synthesis of 3d models by petri net	2013	-11.818687228227546	-9.219775594206373	3778401
+3778775	Vision	hi-speed, hi-fi, hi-lights: a fast algorithm for the specular term in the phong illumination model	1996	-11.192868295324516	-9.510616854266999	3778802
+3779961	Graphics	hybrid visibility compositing and masking for illustrative rendering☆	2010	-11.138982806837422	-9.648312245601463	3779988
+3780027	Graphics	expressive curve editing with the sigma lognormal model	2018	-11.464612625388527	-9.60568729857331	3780054
+3784965	Visualization	visualization with stylized line primitives	2005	-11.345778937442653	-9.039002771638453	3784992
+3785942	Graphics	detail-replicating shape stretching	2011	-11.995850698334674	-9.186026465631526	3785969
+3789463	Vision	replica exchange light transport	2009	-11.463860485910134	-9.690128158302883	3789490
+3790730	Graphics	cloth simulation on the gpu	2005	-11.95123989641785	-9.438884424741248	3790757
+3790833	Graphics	photon maps in bidirectional monte carlo ray tracing of complex objects	1995	-11.150604606117044	-9.57835112296464	3790860
+3795086	Graphics	efficient rendering of local subsurface scattering	2005	-11.364064547912962	-9.491023794735355	3795113
+3797042	Visualization	dynamic line integral convolution for visualizing streamline evolution	2003	-12.000148714829304	-9.223877766380141	3797069
+3801788	Graphics	acceleration of monte carlo path tracing in general environments	2000	-11.630898967314868	-9.703462558371877	3801815
+3804708	HPC	an analytical framework for particle and volume data of large-scale combustion simulations	2013	-11.91613489048068	-8.929328546082811	3804735
+3808413	OS	surface reconstruction from unstructured 3d data	1996	-11.372308333968538	-9.00672346421922	3808440
+3808708	DB	automated tools within workflows for 3d structural construction from surface and subsurface data	2009	-11.743382345424648	-9.367237018406046	3808735
+3808902	Graphics	fast and accurate hierarchical radiosity using global visibility	1999	-11.154677702696922	-9.102119984393436	3808929
+3809007	Visualization	illustration motifs for effective medical volume illustration	2005	-11.297816244557678	-9.336996452759267	3809034
+3812112	Visualization	fast multiple scattering in participating media with beamlet decomposition	2012	-11.601258064743545	-9.707889240675144	3812139
+3813573	Visualization	color tunneling: interactive exploration and selection in volumetric datasets	2014	-11.25472918841178	-9.048963717977248	3813600
+3816732	Vision	feature enhancing aerial lidar point cloud refinement	2014	-11.141972274158752	-9.543046471623256	3816759
+3820012	Visualization	image-based collision detection for deformable cloth models	2004	-11.929573157965903	-9.331468132384241	3820039
+3820113	Vision	interactive volumetric segmentation through least-squares optimization of local hessian-constrained implicits	2015	-11.356958303370444	-8.891466283885514	3820140
+3821670	Graphics	direct texture synthesis of feather pigmentation patterns	2007	-11.436752030785986	-9.720436945242703	3821697
+3824964	Robotics	real-time rendering of rut based on material point method	2017	-11.520434648216328	-9.637901438481341	3824991
+3825061	Graphics	autonomous lighting agents in global illumination	2009	-11.16717114631769	-9.177854704348169	3825088
+3825857	Crypto	hierarchical reconstruction of brdfs using locally supported functions	2000	-11.60355615141312	-8.933116587336505	3825884
+3828421	Graphics	pixel cache light tracing	2017	-11.130736751729607	-9.534718440360995	3828448
+3828918	Graphics	real-time particle isosurface extraction	2008	-11.570617472327855	-9.109218596969693	3828945
+3829947	Visualization	color display and interactive interpretation of three-dimensional data	1983	-11.230488577192688	-8.958761250530749	3829974
+3831909	Visualization	3d shock wave visualization on unstructured grids	1996	-11.682321595365964	-9.248289811246464	3831936
+3832735	Graphics	interactive direct volume rendering with many-light methods and transmittance caching	2013	-11.288113114635351	-9.575743646165117	3832762
+3833503	Visualization	theoretical foundations of 3d scalar field visualization	2007	-11.380812468272074	-8.847933015530684	3833530
+3834522	Graphics	an image-space refinement criterion for linear hierarchical radiosity	1997	-11.356120082850776	-8.861276416176512	3834549
+3834827	Graphics	real-time hair simulation with segment-based head collision	2010	-11.164174762809859	-9.44520472464033	3834854
+3836274	Visualization	display of vector fields using a reaction-diffusion model	2004	-11.657431878411472	-9.276826815262087	3836301
+3836355	Graphics	efficient texture synthesis of aggregate solid material	2014	-11.168665335681007	-9.469758097466869	3836382
+3836513	Visualization	deformable polygonal agents in crowd simulation	2014	-11.63828335242254	-8.954452038770944	3836540
+3842040	Visualization	interactive exploration and visualization using metatracts extracted from carbon fiber reinforced composites	2017	-11.94071825139686	-9.396286206187579	3842067
+3842126	Graphics	tracking surfaces with evolving topology	2012	-11.669098272143495	-9.32148696629056	3842153
+3843383	Graphics	dynamic on-mesh procedural generation	2015	-11.34731208476117	-9.036402254741844	3843410
+3845334	Visualization	interactive cloud rendering using temporally-coherent photon mapping	2012	-11.145311363684758	-9.65025880101095	3845361
+3846056	Graphics	recovering 3d architectural information from dense digital models of buildings	2006	-11.603059301174133	-9.667451242406424	3846083
+3846745	Graphics	real-time rendering of dynamic scenes under all-frequency lighting using integral spherical gaussian	2012	-11.31470867912081	-9.647681904872695	3846772
+3847256	Graphics	scan2mesh: from unstructured range scans to 3d meshes	2018	-11.606066654106995	-9.023933487875802	3847283
+3848368	Graphics	modular flux transfer: efficient rendering of high-resolution volumes with repeated structures	2013	-11.634098616050673	-9.56718233466155	3848395
+3849621	Graphics	object-space multiphase implicit functions	2012	-11.331888503040714	-8.918422321577621	3849648
+3850411	Visualization	a touch-enabled system for multi-resolution modeling and 3d painting	2001	-11.427230587625182	-9.34829810504907	3850438
+3855349	Graphics	optimizing photon mapping using multiple photon maps for irradiance estimates	2003	-11.136498785999802	-9.779923952498994	3855376
+3857378	Graphics	importance caching for complex illumination	2012	-11.17345737409502	-9.707150827492773	3857405
+3858721	Graphics	fast shape-simplifying image abstraction using graphics hardware	2009	-11.333024553386196	-8.875650494404285	3858748
+3858995	Robotics	terrain synthesis by-example	2006	-11.210473200549853	-9.2242852789937	3859022
+3860546	Graphics	accurate shadows by depth complexity sampling	2008	-11.100952612734492	-9.619784453902591	3860573
+3861365	Graphics	three-dimensional human display model	1975	-11.95037374395766	-9.255021526792893	3861392
+3861678	Graphics	surface relief analysis for illustrative shading	2012	-11.453899921342991	-9.43825900344689	3861705
+3861997	Graphics	rendering animated hair under dynamic environmental lighting	2012	-11.3951984159156	-9.787934406851859	3862024
+3863487	Visualization	uncluttering graph layouts using anisotropic diffusion and mass transport	2009	-11.292198234447133	-8.884362353227283	3863514
+3863667	Graphics	automatic rigging for animation characters with 3d silhouette	2009	-11.98859273377065	-9.127660717329293	3863694
+3864149	Robotics	hardware-assisted rendering of cylindrical panoramas	2002	-11.142913894564094	-9.068947525893778	3864176
+3864871	Graphics	texturing internal surfaces from a few cross sections	2007	-11.261185024765119	-9.716309598198453	3864898
+3864873	Graphics	stereo animation for very large data bases: case study- meteorology	1987	-11.213706043335128	-9.132699016494184	3864900
+3868828	Graphics	interactive sound propagation with bidirectional path tracing	2016	-11.184305877584787	-9.589421978010732	3868855
+3869166	HCI	a visualization tool used to develop new photon mapping techniques	2015	-11.337912488750426	-9.406906887166278	3869193
+3869613	ML	3d plant modeling based on bp neural network	2016	-11.495898966305768	-9.674794415764689	3869640
+3869688	HCI	a feasibility study of levels-of-detail in point-based haptic rendering	2012	-11.487326897239821	-8.94634421383817	3869715
+3869728	Graphics	reflection and refraction on implicit surfaces	2006	-11.109666715221405	-9.238870289003627	3869755
+3871000	Graphics	sample-based manifold filtering for interactive global illumination and depth of field	2015	-11.220354292805355	-9.763258848879916	3871027
+3874008	Vision	importance sampling for volumetric illumination of flames	2011	-11.419668638588226	-9.711339334581439	3874035
+3876075	Graphics	automated 3d mesh segmentation using 2d footprints	2010	-11.611485738624232	-8.998039725272994	3876102
+3876587	Visualization	beyond triangles: gigavoxels effects in video games	2009	-11.1368599345172	-9.050579504164244	3876614
+3880396	Visualization	adaptive composite map projections	2012	-11.12102504025733	-9.32043562654006	3880423
+3880887	Vision	a stochastic and scalable approach for real-time global illumination	2016	-11.126160529009507	-9.625880050993668	3880914
+3881602	Graphics	hierarchical retargetting of 2d motion fields to the animation of 3d plant models	2006	-11.268888353141664	-9.65936876239243	3881629
+3882247	Visualization	generating organic textures with controlled anisotropy and directionality	2003	-12.049231431444936	-9.5246852768387	3882274
+3883098	Visualization	real-time volume rendering in dynamic lighting environments using precomputed photon mapping	2013	-11.280706000498133	-9.31807228838369	3883125
+3886705	HPC	progressive reduction of meshes with arbitrary selected points	2015	-11.290847328523345	-8.891879206107705	3886732
+3888377	Robotics	extraction and lod control of colored interval volumes	2005	-11.398014743382658	-8.922757492669367	3888404
+3888546	Graphics	sparse localized deformation components	2013	-11.484795154767768	-9.307066282160767	3888573
+3889282	Vision	recent advances in image morphing	1996	-11.320230774614856	-9.402990201917532	3889309
+3889637	Graphics	geometric shape abstraction and simplification	2018	-11.837033181691675	-9.459031770644096	3889664
+3890334	Visualization	distance-field-based skeletons for virtual navigation	2001	-11.508441617106266	-9.298921038047624	3890361
+3894556	Graphics	flow aligned surfacing of curve networks	2015	-11.923560594180822	-9.365696765399406	3894583
+3903105	Visualization	an appearance-driven method for converting polygon soup building models for 3d geospatial applications	2018	-11.236390038853534	-8.851679594700274	3903132
+3903226	Graphics	illustrative membrane clipping	2012	-11.887239514639296	-9.216667852650767	3903253
+3903899	Robotics	interactive fur modeling based on hierarchical texture layers	2006	-11.576175078657556	-9.265114765932355	3903926
+3906953	Vision	isophote estimation by cubic-spline interpolation	2002	-11.693484355722404	-9.806012816911252	3906980
+3909424	Graphics	a vectorial solver for free-form vector gradients	2012	-11.983132862539316	-8.870837250596939	3909451
+3912578	Graphics	efficient refinement of dynamic point data	2007	-11.847655485868922	-9.103461328728756	3912605
+3914937	Graphics	a collision-based model of spiral phyllotaxis	1992	-11.950621937590075	-9.427467278849292	3914964
+3915785	NLP	improved irradance computation by importance sampling	1997	-11.348050717213395	-9.802373572055792	3915812
+3917774	Graphics	light propagation for mixed polygonal and volumetric data	2005	-11.362101589313314	-9.533317984501892	3917801
+3917937	Vision	on illuminations of c2-surfaces in vector graphic description	1988	-11.49891667185287	-9.326315296055084	3917964
+3919024	Vision	optimal 3d surface reconstruction from multiview photographic images	2009	-11.544214701290851	-9.343490656000473	3919051
+3920833	Vision	retargeting 3d objects and scenes with a general framework	2016	-11.242858362214227	-9.703179655483355	3920860
+3925327	Graphics	monte-carlo ray-tracing for realistic interactive ultrasound simulation	2016	-11.444449979228182	-9.7924816756989	3925354
+3925665	Visualization	hatch textures for virtual endoscopy	2008	-11.117352598775003	-9.792775227215426	3925692
+3928889	Graphics	real-time rendering in curved spaces	2002	-11.183170880274025	-9.051374726893776	3928916
+3930082	Vision	variance reduction using interframe coherence for animated scenes	2015	-11.174741393912344	-9.80055832842372	3930109
+3931232	Graphics	model-based analysis and evaluation of point sets from optical 3d laser scanners	2007	-11.544594726569192	-9.261841981214657	3931259
+3931761	Graphics	interactive rendering of translucent objects	2003	-11.144956200941076	-9.692977500756324	3931788
+3933685	Visualization	rendering the first star in the universe - a case study	2002	-11.956367464472375	-9.710582023730638	3933712
+3934630	Logic	an example-based approach to synthesize artistic strokes using graphs	2010	-11.240718784725024	-9.613261079539932	3934657
+3935696	Graphics	approximate and probabilistic algorithms for shading and rendering structured particle systems	1985	-11.850677096834936	-9.802177302904187	3935723
+3936638	Visualization	particle and texture based spatiotemporal visualization of time-dependent vector fields	2005	-11.818298905289524	-9.255857938876233	3936665
+3938997	Graphics	interactive sound propagation and rendering for large multi-source scenes	2016	-11.2255114033521	-9.442719209626132	3939024
+3939734	Vision	parallel iso/aniso-scale surface texturing guided in gabor space	2013	-11.692078108850064	-9.35912314325274	3939761
+3939990	Graphics	rendering fur with three dimensional textures	1989	-11.3740024883351	-9.495151487782373	3940017
+3940760	Robotics	global illumination as a combination of continuous random walk and finite-element based iteration	2001	-11.744310343452915	-9.30724857935196	3940787
+3944590	Visualization	interactive visualization of flow fields	1992	-11.947073814073516	-9.30291161765918	3944617
+3944977	Visualization	high-quality polygon edging	1995	-11.361529728636414	-8.978990106302714	3945004
+3948729	Robotics	3d sketching in autosketch	2011	-11.986953639907876	-9.026861497697963	3948756
+3948809	Vision	image reconstruction with a source space tree algorithm for compton ct	2003	-11.192091167879006	-8.969646417505139	3948836
+3949034	Visualization	neurotessmesh: a tool for the generation and visualization of neuron meshes and adaptive on-the-fly refinement	2017	-11.577556976367767	-9.065728650995217	3949061
+3949823	Graphics	unbiased, adaptive stochastic sampling for rendering inhomogeneous participating media	2010	-11.528080410617445	-9.602202925728092	3949850
+3950225	HCI	interactive volume segmentation with threshold field painting	2016	-11.200499735276344	-9.54529875072756	3950252
+3953469	Visualization	gpu-based point radiation for interactive volume sculpting and segmentation	2008	-11.314282440713056	-9.387719710056457	3953496
+3954806	Vision	completing digital cultural heritage objects by sketching subdivision surfaces toward restoration planning	2012	-11.561765578785984	-9.314235508858587	3954833
+3954955	Visualization	visualizing time-varying features with tac-based distance fields	2009	-11.422424588667898	-9.444243862954034	3954982
+3956715	Graphics	real-time homogenous translucent material editing	2007	-11.413845791150846	-9.336777944949018	3956742
+3958504	Graphics	accelerated radiosity method for complex environments	1990	-11.27793708742467	-9.337081209883051	3958531
+3959757	Graphics	noiseless gpu rendering of isotropic brdf surfaces	2011	-11.307099147163566	-9.55477278075572	3959784
+3959926	Graphics	raycast based auto-rigging method for humanoid meshes	2013	-11.643131559890252	-9.411703095298577	3959953
+3961341	Vision	approximating the location of integrand discontinuities for penumbral illumination with area light sources	1999	-11.590636351034648	-9.495747176483741	3961368
+3961771	Graphics	gpu-assisted raycasting for cosmological adaptive mesh refinement simulations	2006	-11.523724966532024	-9.181454055074148	3961798
+3962928	Graphics	efficient palette-based decomposition and recoloring of images via rgbxy-space geometry	2018	-11.143754069313056	-9.512951322541166	3962955
+3963583	Graphics	line drawings from volume data	2005	-11.24056868549041	-9.071624169772004	3963610
+3965589	Vision	nonuniform bilateral filtering for point sets and surface attributes	2007	-11.537129230707269	-9.216388128887207	3965616
+3968417	Visualization	illustrative display of hidden iso-surface structures	2005	-11.171268405525787	-9.037467707510434	3968444
+3970621	Visualization	tensor field visualisation using adaptive filtering of noise fields combined with glyph rendering	2002	-11.548284942701757	-9.122517554270381	3970648
+3973536	Graphics	a data-driven approach to realistic shape morphing	2013	-11.977295954294211	-8.895465368182421	3973563
+3974315	Visualization	interactive visualization of gaps and overlaps for large and dynamic sphere packings	2017	-11.41580162575509	-9.094314491492813	3974342
+3979126	Visualization	fast and accurate texture placement	1997	-11.46947619775662	-9.089189901339186	3979153
+3980656	Graphics	generating vast varieties of realistic leaves with parametric 2gmap l-systems	2008	-11.559377037418846	-9.595531387277582	3980683
+3981238	Graphics	metropolis instant radiosity	2007	-11.260048682824404	-9.735844373124813	3981265
+3981410	Graphics	sampling and anti-aliasing of discrete 3-d volume density textures	1992	-11.13500156810341	-9.343738363156156	3981437
+3986975	ML	line-based sunken relief generation from a 3d mesh	2013	-11.515172025379465	-9.791053896519566	3987002
+3987180	Vision	visualization of unbuilt buildings in their landscape	1999	-11.205352393437543	-9.361711683158212	3987207
+3987969	Graphics	free-form tetrahedron deformation	2015	-12.051729715901143	-9.651630494220797	3987996
+3989122	Graphics	adaptive mesh generation for global diffuse illumination	1990	-11.240391623813585	-9.242367413670351	3989149
+3989179	Graphics	hardware accelerated mesh colors	2016	-11.136530513994927	-9.098545735968516	3989206
+3989301	Graphics	spatial adjacency maps for translucency simulation under general illumination	2017	-11.503496519394881	-9.42035939022796	3989328
+3989432	Graphics	skinning arbitrary deformations	2007	-11.32987704676752	-9.441079059885926	3989459
+3991430	Graphics	a rapid hierarchical rendering technique for translucent materials	2005	-11.332688382294624	-9.566111012114717	3991457
+3992445	Graphics	all-frequency interactive relighting of translucent objects with single and multiple scattering	2005	-11.498948658031518	-9.766748835304648	3992472
+3993709	Visualization	research and implement of multi-dimensional transfer function based on boundaries	2009	-11.44968230246742	-9.094222688578428	3993736
+3993751	Graphics	practical filtering for efficient ray-traced directional occlusion	2011	-11.14577456748674	-9.730010414602207	3993778
+3993847	Graphics	synthetic topiary	1994	-11.261770262068561	-9.252049321845973	3993874
+3995710	Graphics	real-time rendering of melting objects in video games	2013	-11.887064274942436	-9.542279806498877	3995737
+3996762	Visualization	contiguous animated edge-based cartograms for traffic visualization	2015	-11.478907239259861	-8.959262951390388	3996789
+3998256	Graphics	single image tree modeling	2008	-11.253251346575198	-9.76928700711481	3998283
+3999851	Graphics	precomputed radiance transfer field for rendering interreflections in dynamic scenes	2007	-11.138123811759813	-9.64054473955908	3999878
+4000704	Graphics	realistic computer graphics and free form surfaces	1988	-11.323592295239509	-9.072988135440552	4000731
+4005188	Visualization	point-based stream surfaces and path surfaces	2007	-11.866032722630894	-9.062448779392678	4005215
+4006283	Graphics	level-of-detail modal analysis for real-time sound synthesis	2015	-12.049495017328962	-9.454215315471568	4006310
+4008214	Vision	terrain modeling: a constrained fractal model	2007	-11.889790694384153	-9.492578623686104	4008241
+4008845	Vision	multiresolution volume data structure for shape modeling	1998	-11.721281840285428	-8.946183179267829	4008872
+4010202	Visualization	auralization i: vortex sound synthesis	2004	-11.795803511819965	-9.644604265468088	4010229
+4011696	Graphics	an efficient texture generation technique for human head cloning and morphing	2006	-11.500710995426287	-9.698386390458193	4011723
+4012016	Graphics	all-frequency precomputed radiance transfer for glossy objects	2004	-11.232221823713262	-9.485395738579076	4012043
+4012289	Graphics	smi 2011: full paper: interactive modeling of implicit surfaces using a direct visualization approach with signed distance functions	2011	-11.705665828802047	-9.1457411593829	4012316
+4013007	ML	recognition of target graphs from images using a genetic algorithm with hill climbing searching	2003	-11.188469766158056	-9.405379935813077	4013034
+4013901	EDA	design and implement of a cuda based sph particle system editor	2012	-11.649054900721351	-9.180951276685724	4013928
+4015349	Graphics	computer processing of line-drawing images	1974	-11.214371417311225	-9.12396956997051	4015376
+4016945	Graphics	data structure forsoft objects	1986	-11.641323216334426	-9.483445070668113	4016972
+4017376	HCI	procedural feature generation for volumetric terrains	2017	-11.7018652735344	-9.548971865761095	4017403
+4020646	Graphics	interactive procedural street modeling	2008	-11.259087973994406	-9.430866988295168	4020673
+4021227	Visualization	study of a ray casting technique for the visualization of deformable volumes	2014	-11.340190630177071	-9.01369746210381	4021254
+4021911	Visualization	case study: visualizing ocean currents with color and dithering	2001	-11.309400735506365	-9.552485041156725	4021938
+4024884	Graphics	simple data-driven modeling of brushes	2010	-11.394991242218115	-9.348368870136923	4024911
+4025924	Graphics	interactive rendering of multiple scattering in participating media using separable phase function	2007	-11.386005899720564	-9.394465150410783	4025951
+4026080	Graphics	real-time multiresolution rendering for dynamic terrain	2014	-11.218037345685966	-8.990194031157449	4026107
+4026831	Robotics	real time stable haptic rendering of 3d deformable streaming surface	2017	-11.812044598870887	-9.477797128311467	4026858
+4027321	Graphics	projection mapping on arbitrary cubic cell complexes	2014	-11.523145524773856	-9.040037693047346	4027348
+4027599	Visualization	extreme compression of weather radar data	2007	-11.502527593925162	-9.549145148099676	4027626
+4027616	Visualization	a novel approach to visualizing dark matter simulations	2012	-11.621932636195323	-8.881540372553475	4027643
+4028297	Graphics	stroke-guided image synthesis for skeletal structure editing	2013	-11.173610977831485	-9.746273447718659	4028324
+4029669	Graphics	motion blur for textures by means of anisotropic filtering	2005	-11.284283171993485	-9.222190154031543	4029696
+4030071	Visualization	cst: constructive solid trimming for rendering breps and csg	2007	-11.612022905133234	-8.927341957155273	4030098
+4033176	Visualization	texture-based visualization of unsteady 3d flow by real-time advection and volumetric illumination	2007	-11.115153046893143	-8.923041756566676	4033203
+4034716	Visualization	contour-based 3d point data simplification for freeform surface reconstruction	2009	-11.737051002369206	-8.876827632641335	4034743
+4034909	Graphics	real-time fur over arbitrary surfaces	2001	-11.495160130069705	-9.679028272749674	4034936
+4035077	Graphics	progressive photon mapping	2008	-11.138303281268783	-9.547854267293454	4035104
+4040041	HCI	haptic sculpting of multi-resolution b-spline surfaces with shaped tools	2006	-12.036691347957245	-9.508294621062973	4040068
+4042851	Vision	shape-aware skeletal deformation for 2d characters	2013	-11.963144131290695	-9.159596607624104	4042878
+4043497	HPC	adaptive grid refinement using view-dependent octree for grid-based smoke simulation	2011	-11.484777839201493	-9.267780247617937	4043524
+4045365	Visualization	control of object visibility in volume rendering - a distance-based approach	2005	-11.234066098397081	-9.414347679693227	4045392
+4045919	Graphics	resound: interactive sound rendering for dynamic virtual environments	2009	-11.33621597936627	-9.572987626854909	4045946
+4048527	Graphics	local resampling for patch-based texture synthesis in vector fields	2010	-11.584191252190912	-9.522242624396704	4048554
+4051414	Graphics	refraction of water surface intersecting objects in interactive environments	2007	-11.377304800400331	-9.577598988626788	4051441
+4052481	Graphics	efficient simulation of light transport in scences with participating media using photon maps	1998	-11.1745558166689	-9.361837543049297	4052508
+4053539	Graphics	a method for fast rendering of caustics from refraction by transparent objects	2005	-11.226829047540608	-9.661034878491966	4053566
+4054687	Visualization	lagrangian texture advection: preserving both spectrum and velocity field	2011	-11.824586184493054	-9.591566669074687	4054714
+4056157	Visualization	coherent stylized lines for mesh surfaces by contour triangles	2013	-11.235034338030731	-9.722852191936896	4056184
+4057395	Visualization	impostor-based animation of deformable virtual characters with dynamic shadow	2004	-11.221478404474874	-9.329324400817999	4057422
+4060285	Visualization	transparent fused visualization of surface and volume based on iso-surface highlighting	2018	-11.762780921758651	-9.173511118064114	4060312
+4061497	Graphics	autocuts: simultaneous distortion and cut optimization for uv mapping	2017	-11.388423529183234	-9.028340874588007	4061524
+4063820	Graphics	real-time controlled metamorphosis of animated meshes using polygonal-functional hybrids	2010	-11.923982582962392	-9.1906498425863	4063847
+4063823	Graphics	continuity and interpolation techniques for computer graphics	2016	-11.10426959285415	-9.30268847018299	4063850
+4064498	Visualization	towards animating ray‐traced volume visualization	1990	-11.160388950336715	-8.955465216703189	4064525
+4066536	Graphics	haptic and graphic rendering of deformable objects based on gpus	2004	-11.307294690212574	-8.918007662919686	4066563
+4067086	Graphics	rendering parametric surfaces in pen and ink	1996	-11.61692831789176	-9.484793640441627	4067113
+4069414	Graphics	real-time rendering of deformable heterogeneous translucent objects using multiresolution splatting	2012	-11.289832240857963	-9.557969761337523	4069441
+4070942	Graphics	dynamic discontinuity meshing	1998	-11.57165689934284	-9.205100039456381	4070969
+4070966	NLP	picture editing by simultaneously smoothing figure protrusions and dents	1988	-11.311283105415681	-8.981888273960946	4070993
+4071327	Graphics	real time rendering of realistic surface diffraction with low rank factorisation	2017	-11.269959034826627	-9.7183972765869	4071354
+4073531	Graphics	relief analysis and extraction	2009	-12.047775222479201	-9.313100228100472	4073558
+4075627	Graphics	hardware-based collision and self-collision for rigid and deformable surfaces	2004	-11.458903709938841	-8.878800993192707	4075654
+4076784	Graphics	texture synthesis of contrasting natural patterns	2012	-11.60089866050867	-9.654072977464153	4076811
+4077682	Visualization	multi-frequency noise for lic	1996	-11.880660306036287	-9.7724663827637	4077709
+4078780	Visualization	interactively controlling the smoothing and postaliasing effects in volume visualization	2009	-11.297489071874773	-9.3060518702044	4078807
+4079740	Visualization	enhancing transparent skin surfaces with ridge and valley lines	1995	-11.465683952119953	-9.760159417365001	4079767
+4079800	Graphics	detail-preserving mesh unfolding for nonrigid shape retrieval	2016	-12.062493190192336	-8.852481878542413	4079827
+4080758	Visualization	visualization of gridded scalar data with uncertainty in geosciences	2010	-11.236208382062335	-9.114273154489652	4080785
+4080891	SE	framework and algorithms for illustrative visualizations of time-varying flows on unstructured meshes	2016	-11.459950805259922	-9.159676375156733	4080918
+4081606	Graphics	the 3d kaleidoscope	1988	-11.817522916432312	-8.961233195162498	4081633
+4084515	Graphics	joint importance sampling of low-order volumetric scattering	2013	-11.42787194786838	-9.689242418843499	4084542
+4084985	Graphics	interactive vector fields for painterly rendering	2005	-11.16899891339814	-9.754931295948722	4085012
+4086887	Graphics	real-time shading with filtered importance sampling	2007	-11.17893715901788	-9.77677614218633	4086914
+4088058	Graphics	real-time accumulation of occlusion-based snow	2014	-11.23635092576772	-9.489552703745412	4088085
+4088251	Graphics	handling dynamic changes in hierarchical radiosity through interaction meshes	2000	-11.3795897246523	-9.573799887230775	4088278
+4089083	AI	recognition of essential folding operations: a step for interpreting illustrated books of origami	1997	-11.909824838228634	-8.962560970727143	4089110
+4089253	Graphics	real-time computation of area shadows - a geometrical algorithm.	2006	-11.126798370119566	-9.277060603140775	4089280
+4090781	Graphics	stratified sampling for stochastic transparency	2011	-11.224132286566274	-9.79306649052775	4090808
+4091380	Graphics	a simple physically-based 3d liquids surface tracking algorithm	2011	-11.85572808403134	-9.726759601983057	4091407
+4092904	Visualization	a survey of visualization methods for special relativity	2010	-12.002795876747065	-9.008630344665756	4092931
+4093345	Graphics	du rendu de haute qualité à l'interactivité. (from high-quality rendering to interactivity)	1999	-11.590569999785462	-8.991382665797351	4093372
+4097741	Visualization	direct haptic rendering for large data sets with high gradients	2008	-11.712145331435847	-9.052648672748816	4097768
+4099709	Vision	real-time predefined shape cutaway with parametric boundaries	2005	-11.564919308739656	-9.730468204300962	4099736
+4099971	Robotics	an adaptive slicing thickness adjustment method based on cloud point in 3d printing	2016	-12.05497925901525	-9.031702308800213	4099998
+4101115	Visualization	reconstruction of multi-material interfaces from moment data	2008	-11.475034036953135	-9.177139295553104	4101142
+4102100	Graphics	interactive skeleton extraction for 3d animation using geodesic distances	2006	-11.265214458113626	-9.50508448573509	4102127
+4103413	Visualization	automatic counting of illuminated spheres in a random boolean model	2002	-11.453679761294902	-9.714237772060812	4103440

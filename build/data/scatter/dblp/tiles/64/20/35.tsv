@@ -1,0 +1,252 @@
+id	area	title	year	x	y	ix
+3758892	HPC	study of a parallel algorithm on pipelined computation of the finite difference schemes on fpga	2017	-10.181057647223696	3.0662899409534012	3758919
+3758959	ML	a parallel stochastic method for solving linearly constrained concave global minimization problems	1992	-10.948494766439138	2.722353790627753	3758986
+3760223	Graphics	linear algebra operators for gpu implementation of numerical algorithms	2003	-10.183671688959675	3.1308847834691176	3760250
+3761000	HPC	batched generation of incomplete sparse approximate inverses on gpus	2016	-10.784862793947754	3.0655755941407428	3761027
+3761742	HPC	parallel iterative solvers with selective blocking preconditioning for simulations of fault-zone contact	2004	-10.383573599808882	3.101895179879357	3761769
+3764949	HPC	a low-communication, parallel algorithm for solving pdes based on range decomposition	2017	-10.280082565132908	3.124297255069141	3764976
+3766949	HPC	parallel performance comparison of three direct separable elliptic solvers	2003	-10.59125808902084	3.076782223474734	3766976
+3768400	EDA	a domain decomposition method for the parallelization of a three-dimensional maxwell solver based on a constrained formulation	2011	-10.245051278882304	2.961605521714405	3768427
+3769010	HPC	parallel algorithms for the iterative solution to linear systems	1982	-10.658998718677497	3.1307819299654662	3769037
+3769113	EDA	the modified speculative method for the transient states analysis	2004	-10.196637147647168	3.033171186761164	3769140
+3769157	HPC	parallel fast isogeometric solvers for explicit dynamics	2017	-10.314900840203043	3.0439474341987003	3769184
+3770214	Logic	a parallel multigrid algorithm for solving the navier-stokes equations	1993	-10.632019251886096	2.9909744548809747	3770241
+3770753	HPC	numerical experiments with an overlapping additive schwarz solver for 3-d parallel reservoir simulation	1995	-10.478204375535645	3.0777802105770897	3770780
+3771619	HPC	solution of discrete-time optimal control problems on parallel computers	1990	-10.615618562393294	3.065202897504001	3771646
+3772046	HPC	the parallel solution of sparse linear equations	1986	-10.588623902022617	3.2406734618828006	3772073
+3774851	AI	a shared- and distributed-memory parallel general sparse direct solver	2007	-10.80173235760663	3.139503232930664	3774878
+3778752	Theory	a new wz factorization for parallel solution of tridiagonal systems	2003	-11.010764207273887	3.0727336716450733	3778779
+3779777	HPC	on-the-fly adaptive smoothed aggregation multigrid for markov chains	2011	-10.458333533560436	2.8868505831094278	3779804
+3781967	ML	ace: a fast multiscale eigenvectors computation for drawing huge graphs	2002	-10.973868470270258	3.2728770129454494	3781994
+3783062	HPC	parallelization of a 3d seismic migration code with petsc	1999	-10.174076358149467	2.9820583930888644	3783089
+3784401	HPC	performance comparison of parallel eigensolvers based on a contour integral method and a lanczos method	2013	-10.427981857436178	3.0591589754456634	3784428
+3787199	Vision	parallel spectral division using the matrix sign function for the generalized eigenproblem	2000	-10.709190419792318	3.1732150178388268	3787226
+3790855	HPC	solving the symmetric tridiagonal eigenvalue problem on the hypercube	1990	-10.608059348393429	3.2184154154911613	3790882
+3790881	HPC	hybrid parallel implementation of inverse matrix computation by smw formula for interactive simulation	2012	-10.979175612326038	3.3211295494738358	3790908
+3791133	HPC	distributed jacobi joint diagonalization on clusters of personal computers	2006	-10.700310778910211	3.2204096245379525	3791160
+3792921	Robotics	parallel implementation of the feti ddm constraint matrix on top of petsc for the permonfllop package	2015	-10.416314750735033	2.9895132795009878	3792948
+3794014	HPC	on the efficient implementation of preconditioned s-step conjugate gradient methods on multiprocessors with memory hierarchy	1989	-10.405079111372043	3.2371172529151417	3794041
+3794199	Vision	3d multigrid correction methods for transputer networks	1990	-10.42015314371912	3.034501412316178	3794226
+3794724	HPC	a parallel broyden approach to the toeplitz inverse eigenproblem	2004	-10.703847584797142	3.1368338294192104	3794751
+3795586	HPC	a distributed memory unstructured gauss-seidel algorithm for multigrid smoothers	2001	-10.668293279303755	3.0939401762183114	3795613
+3796338	EDA	parallel algorithms for an implicit cfd solver on tree-based grids	2017	-10.135162605474756	2.7979540258564435	3796365
+3800765	HPC	merging jacobi and gauss-seidel methods for solving markov chains on computer clusters	2008	-10.856643113056702	3.164193196839987	3800792
+3801445	HPC	coarse-grid selection for parallel algebraic multigrid	1998	-10.748963961739156	3.1571136903649912	3801472
+3805764	HPC	parallel two-level overlapping schwarz methods in fluid-structure interaction	2015	-10.258561425098534	3.003965969848841	3805791
+3805979	HPC	comparative analysis of high performance solvers for 3d elasticity problems	2008	-10.612677492092793	3.010019260309985	3806006
+3808538	Theory	block lu preconditioners for symmetric and nonsymmetric saddle point problems	2003	-10.967442906193853	2.9837564727815513	3808565
+3808789	HPC	a parallel implementation of the block preconditioned gcr method	1999	-10.667075720562426	3.091822786646153	3808816
+3808838	HPC	the improved conjugate gradient squared (icgs) method on parallel distributed memory architectures	2001	-10.771578315120657	3.191754984101047	3808865
+3816178	HPC	a new domain decomposition approach suited for grid computing	2006	-10.53671783630868	3.060692533336786	3816205
+3817741	Theory	parallel one-sided householder transformations for eigenvalues computation	1993	-11.035918728022645	3.1628079452361924	3817768
+3820854	HPC	stratified regression monte-carlo scheme for semilinear pdes and bsdes with large scale parallelization on gpus	2016	-10.133177190631498	3.094312990940036	3820881
+3822082	Theory	an implementation of a parallel primal-dual interior point method for block-structured linear programs	1992	-10.79796127470396	3.1472661020856063	3822109
+3822369	HPC	a parallel numerical algorithm for boundary-value fides on a pc cluster	2002	-10.38052669096875	3.1324773862340685	3822396
+3826700	AI	a matrix method for partitioning the atoms of a molecule into equivalence classes	1987	-10.605428366548043	3.3064141164485807	3826727
+3827498	HPC	solving dense symmetric indefinite systems using gpus	2017	-10.684488719190105	3.137417678328851	3827525
+3830428	HPC	multiple explicitly restarted arnoldi method for solving large eigenproblems	2005	-10.699500160669958	3.1180007948950728	3830455
+3831327	HPC	preconditioned krylov solvers on gpus	2017	-10.40437917938066	3.123691160401398	3831354
+3832731	HPC	a scalable hierarchical semi-separable library for heterogeneous clusters	2017	-10.508693746877352	3.1167071463627054	3832758
+3833033	ML	new subclasses of block h-matrices with applications to parallel decomposition-type relaxation methods	2006	-11.098313173806288	3.1212867059909155	3833060
+3833606	HPC	quark propagator on the connection machine	1992	-10.164272699179037	3.2121742411723893	3833633
+3834380	HPC	robust and parallel scalable iterative solutions for large-scale finite cell analyses	2018	-10.310174909097915	2.826644237027366	3834407
+3839273	Theory	parallel algorithms for global optimization problems	1996	-10.59080567565718	3.156629041503512	3839300
+3839354	Theory	parallel o(log n) algorithms for the computation of manipulator forward dynamics	1994	-11.001328043258429	3.0918625399783286	3839381
+3840642	HPC	an object-oriented design for the parallel solution of systems of nonlinear, time-dependent partial differential equations	1999	-11.093835513068397	2.8879134489119305	3840669
+3841227	HPC	application and accuracy of the parallel diagonal dominant algorithm	1995	-10.607809656957848	3.1990122878898934	3841254
+3842886	HPC	an iteration-based hybrid parallel algorithm for tridiagonal systems of equations on multi-core architectures	2015	-10.725176994501805	3.2010474931937365	3842913
+3845170	HPC	application of parallel sparse direct methods in semiconductor device and process simulation	1999	-10.41416699458556	3.1161840725727235	3845197
+3845779	HPC	three-dimensional simulation of semiconductor devices on supercomputers	1991	-10.40236782353932	3.0680158924859615	3845806
+3850756	HPC	performance of a massively parallel 3d non-hydrostatic atmospheric fluid model	1997	-10.306391125627655	2.89626117037765	3850783
+3851208	EDA	a parallel robust multigrid algorithm based on semi-coarsening	1999	-10.331889642700704	2.9697462709020988	3851235
+3851216	Arch	the conjugate gradient method on the parsytec gcel-3/512	1995	-10.481865056723498	3.0421421649530944	3851243
+3852633	HPC	solving navier-stokes equations on the cedar multi-cluster system	1989	-10.33736189833408	3.0522011514258702	3852660
+3853080	HPC	an augmented incomplete factorization approach for computing the schur complement in stochastic optimization	2014	-10.57819556344587	3.100958614605195	3853107
+3855237	HPC	connection machine calculation of sparse approximate inverses	1989	-11.026098434976383	3.3780304618942125	3855264
+3856053	EDA	a parallel iterative solver based on the schur complement system	2001	-10.392407840292124	3.067712672349809	3856080
+3857196	HPC	parallel algorithms for the solution of elliptic and parabolic problems on transputer networks	1991	-10.591212777151467	3.0911999942784516	3857223
+3860730	HPC	parallelization of direct algorithms using multisplitting methods in grid environments	2005	-10.646434822577293	3.085178887087062	3860757
+3862071	HPC	a class of communication-avoiding algorithms for solving general dense linear systems on cpu/gpu parallel machines	2012	-10.634397267960606	3.225725123857488	3862098
+3862141	Theory	numerical solution of odes with distributed maple	2000	-10.294360461742109	3.047399862825276	3862168
+3862940	HPC	parallel algorithms and architectures for multisplitting iterative methods	1989	-10.723368820211405	3.0938816408422785	3862967
+3865355	HPC	a massively parallel algorithm for three-dimensional device simulation	1991	-10.310524241345258	3.094257301684838	3865382
+3867007	HPC	parallel decoupled terminal-edge bisection method for 3d mesh generation	2006	-11.064100266237528	2.8478593713230342	3867034
+3868680	HPC	a massively parallel solver for discrete poisson-like problems	2015	-10.256284696783258	3.082092974080456	3868707
+3868946	HPC	parallel preconditioned solvers for large sparse hermitian eigenproblems	1998	-10.804243018761865	3.099567228486155	3868973
+3869354	HPC	combining performance aspects of irregular gauss-seidel via sparse tiling	2002	-10.4074593882197	3.2757171559167237	3869381
+3869884	HPC	solving a large scale radiosity problem on gpu-based parallel computers	2014	-10.157396969681626	3.221955451599578	3869911
+3870767	Theory	parallel algorithms for solving linear systems with block-tridiagonal matrices on multi-core cpu with gpu	2012	-10.274233367566435	3.1362258652519985	3870794
+3871109	Theory	large-scale, nonlinearly constrained optimization on a 1024-processor ncube	1994	-10.913634022318163	3.1148002671284827	3871136
+3871283	HPC	parallel versions of stone's strongly implicit algorithm	2001	-10.182802872177367	3.0831330321829986	3871310
+3871316	Vision	monte carlo solution of partial differential equations by special purpose digital computer	1974	-10.269733057541766	2.8390341566117967	3871343
+3873038	SE	large-scale fe modelling in geomechanics: a case study in parallelization	1999	-10.154371589376707	2.938034919349689	3873065
+3874374	HPC	optimisation of the parallel performance of a 3d device simulator for hemts	2006	-10.156874346401056	2.9778258388222687	3874401
+3878720	HPC	a parallel auxiliary grid algebraic multigrid method for graphic processing units	2013	-10.188817734294087	3.0679498726116647	3878747
+3879658	NLP	reversed absorbing markov chain: a simple path approach	1994	-11.048684911610422	3.5844588403700315	3879685
+3880866	HPC	schur complement preconditioned conjugate gradient methods for spline collocation equations	1990	-10.66273049361456	2.99644531882406	3880893
+3883381	HPC	using the ga and tao toolkits for solving large-scale optimization problems on parallel computers	2007	-10.163316311886435	3.008019662593758	3883408
+3883972	EDA	three-dimensional capacitance evaluation on a connection machine	1988	-10.21633882978434	2.9845703307159184	3883999
+3884347	HPC	a bsp recursive divide and conquer algorithm to compute the inverse of a tridiagonal matrix	1999	-10.720853841646061	3.222995012082138	3884374
+3884589	HPC	directed transmission method, a fully asynchronous approach to solve sparse linear systems in parallel	2008	-10.611827643051534	3.0825698534373105	3884616
+3884813	Arch	numerical simulation of thermal convection on simd computers	1990	-10.180912331266127	2.9892974378648125	3884840
+3886063	Crypto	modified block bicgstab for lattice qcd	2012	-10.808048984867657	3.1540172004874303	3886090
+3886444	Theory	two-level space-time domain decomposition methods for flow control problems	2017	-10.36760487038688	2.9740732449764606	3886471
+3888973	EDA	a parallel newton-gmres algorithm for solving large scale nonlinear systems	2002	-10.767161361782096	3.095217495045281	3889000
+3892268	HPC	a unified computational model for the parallel solution of general sparse nonsymmetric linear systems on shared-memory multiprocessors	1991	-10.85442040129892	3.3263369369972486	3892295
+3893338	HPC	parallel implementation of the lanczos method for sparse matrices: analysis of data distributions	1996	-11.021604323690697	3.0786481910146195	3893365
+3893826	HPC	analysis of parallel preconditioned conjugate gradient algorithms	2005	-10.412623346379867	3.1336878239914645	3893853
+3895317	Robotics	gpu implementation of jacobi method and gauss-seidel method for data arrays that exceed gpu-dedicated memory size	2015	-10.757054681133509	3.061568260894897	3895344
+3896596	HPC	parallelization of the euler equations on unstructured grids	1996	-10.36592403511121	3.1799135429172405	3896623
+3897355	HPC	impact of accuracy optimization on the convergence of numerical iterative methods	2015	-10.524202713913347	2.93513455841336	3897382
+3897490	Crypto	algorithms for almost block diagonal linear systems	2004	-10.788808753648329	2.950065326555249	3897517
+3897643	HPC	on the performance of a new parallel algorithm for large-scale simulations of nonlinear partial differential equations	2009	-10.265817245945508	3.116909878556685	3897670
+3899418	HPC	parallel solution of unstructured, sparse systems of linear equations	1993	-10.916208970015953	3.1661750287765433	3899445
+3902996	HPC	iterative displacement decomposition solvers for hpc in geomechanics.	1999	-11.088513068935642	2.7964667645240744	3903023
+3904018	ML	an identity parareal method for temporal parallel computations	2013	-10.37728671008604	3.0263475132991937	3904045
+3904220	HPC	parallel algorithms to compute the eigenvalues and eigenvectors ofsymmetric toeplitz matrices	1998	-10.73102237444524	3.1882661610368825	3904247
+3906741	HPC	reduction of the effects of the communication delays in scientific algorithms on message passing mimd architectures	1985	-10.523154161970849	3.153052543133273	3906768
+3908763	AI	adaptive integration for 3-loop feynman diagrams with massless propagators	2015	-10.378875960457604	2.967001083679285	3908790
+3909629	ML	smt: a matlab toolbox for structured matrices	2011	-10.502880073564056	2.993855804433517	3909656
+3909752	Theory	a parallel characterization of h-matrices	2009	-10.691640252941509	3.2088664289092024	3909779
+3910487	HPC	parallel rayleigh quotient optimization with fsai-based preconditioning	2012	-10.494253700791482	3.122395880306483	3910514
+3910864	HPC	a restricted additive schwarz preconditioner for general sparse linear systems	1999	-10.887945102371406	3.0423973944209064	3910891
+3911568	NLP	locality improvement of data-parallel adams-bashforth methods through block-based pipelining of time steps	2012	-10.155865813134687	3.1990182665109117	3911595
+3911808	HPC	fault-tolerant scheme on partial differential equations with nearest-neighbor mesh-connected machines	1988	-10.563687035578988	3.1725937658186023	3911835
+3913566	HPC	numerical experiments with a parallel fast direct elliptic solver on cray t3e	1997	-10.76166871158343	3.1829222335088287	3913593
+3916139	HPC	simulations of explotions and implosions with a parallel, 3d, unstructured-grid, radiation-hydrodynamics code	1999	-10.855166320265754	2.7179491794854704	3916166
+3916231	HPC	faster pde-based simulations using robust composite linear solvers	2004	-10.406070717326443	2.9259354770360027	3916258
+3916501	HPC	high-performance general solver for extremely large-scale semidefinite programming problems	2012	-10.559880394924807	3.2456722352229717	3916528
+3918881	HPC	a fast algorithm of nonlinear volterra filtering	1991	-10.91993254099813	3.0421674358276656	3918908
+3921297	HPC	the highly parallel incomplete gram-schmidt preconditioner	1997	-10.811664520629197	3.1252831455319323	3921324
+3922293	HPC	row projection methods for large nonsymmetric linear systems	1992	-11.082386127212363	3.0646543848126284	3922320
+3923349	Logic	a petsc parallel-in-time solver based on mgrit algorithm	2018	-10.904733323274279	3.126035120701965	3923376
+3924526	HPC	on parallelization of interval newton method on distributed-memory multiprocessors	1993	-10.49401911102629	3.198578311973206	3924553
+3926473	HPC	a scalable sparse direct solver using static pivoting	1999	-10.651681383072901	3.111408611411203	3926500
+3926833	ML	parallel computations of eigenvalues based on a monte carlo approach	1998	-10.998323900636024	3.5085701548143438	3926860
+3928959	HPC	efficient expression templates for operator overloading-based automatic differentiation	2012	-10.43840941314759	3.0602395458593183	3928986
+3929201	HPC	global multidimensional optimization on parallel computer	1992	-10.803213135845448	2.952731300230899	3929228
+3929615	Metrics	impact of random and burst packet losses on h.264 scalable video coding	2013	-10.254204481409376	3.228372951531268	3929642
+3930639	EDA	a parallel implementation of the general lanczos method on the cray t3d	1996	-10.70853409618859	3.1664647217108053	3930666
+3930902	HPC	a multi-color inverse iteration for a high performance real symmetric eigensolver (research note)	2000	-10.542473034654336	3.198458566762778	3930929
+3932262	HPC	a domain-decomposing parallel sparse linear system solver	2011	-10.282964516279078	3.1093272546546644	3932289
+3935535	DB	performance improvement of asynchronous iterations by non-uniform load distribution	1995	-10.575263656146868	3.1006470481400465	3935562
+3936084	HPC	increasing the locality of iterative methods and its application to the simulation of semiconductor devices	2010	-10.441346658376998	3.261633642344305	3936111
+3936085	HPC	parallelizing the qr algorithm for the unsymmetric algebraic eigenvalue problem: myths and reality	1996	-10.702625571951167	3.162605937638697	3936112
+3937479	ML	feast as a subspace iteration eigensolver accelerated by approximate spectral projection	2014	-10.884194230750472	3.0499862989771582	3937506
+3937877	HPC	a parallel scaled conjugate-gradient algorithm for the solution phase of gathering radiosity on hypercubes	1997	-10.66758851307472	2.999726729932949	3937904
+3938147	HPC	parallel implementations of iterated runge-kutta methods	1996	-10.482012723091962	3.1048124683650156	3938174
+3938770	HPC	a parallel aitken-additive schwarz waveform relaxation suitable for the grid	2009	-10.3732467875686	3.012610084090397	3938797
+3939000	HPC	poster: asynchronous computing for partial differential equations at extreme scales	2012	-10.251089814296817	3.1133484749274194	3939027
+3939876	DB	application of general-purpose computing on graphics processing units for acceleration of basic linear algebra operations and principal components analysis method	2013	-10.472401750301712	2.7983353018505546	3939903
+3942342	HPC	overlapping schwarz methods for a singularly perturbed semilinear elliptic problem and their parallel implementation	1999	-10.445401940602514	3.0182993393952025	3942369
+3943149	HPC	a survey of sparse matrix-vector multiplication performance on large matrices	2016	-10.233015967272108	2.9999633800998162	3943176
+3943286	HPC	solving large nonsymmetric sparse linear systems using mcsparse	1996	-10.473478231662817	3.221140791472352	3943313
+3945030	HPC	parallel minimum norm solution of sparse block diagonal column overlapped underdetermined systems	2017	-10.880881913537683	3.0926057810170837	3945057
+3947250	HPC	lanczos methods for the smallest eigenvalues of large matrices on distributed memory supercomputers	1993	-10.588405540559004	3.1618020273687715	3947277
+3950654	HPC	parallel sparse matrix computations using the pineapl library: a performance study	1998	-10.325816022133342	3.2479267642260514	3950681
+3950837	EDA	block preconditioned conjugate gradient method for extraction of natural vibration frequencies in structural analysis	2015	-10.235508047469393	3.061367668251477	3950864
+3951960	HPC	forestclaw: a parallel algorithm for patch-based adaptive mesh refinement on a forest of quadtrees	2017	-10.172209539476446	2.7758854042131698	3951987
+3952723	HPC	parallel implementation of the p-version of the finite element method for elliptic equations on a shared-memory architecture	1998	-10.398342044014015	3.0498757305170097	3952750
+3952953	HPC	on long-range interpolation operators for aggressive coarsening	2010	-10.263333246825768	3.132608524457208	3952980
+3956332	HPC	a sparse matrix-vector multiplication based algorithm for accurate density matrix computations on systems of millions of atoms	2018	-10.61260436533322	3.278632785542863	3956359
+3957031	HPC	writing a multigrid solver using co-array fortran	1998	-10.179645739912834	3.1319308416609237	3957058
+3957424	EDA	constructing flexible, yet run time efficient pde solvers	2004	-10.289347520221664	2.8875485398875758	3957451
+3961836	HPC	the ccm based implementation of the parallel variant of bicg algorithm suitable for massively parallel computing	2006	-10.327890684855717	3.0066603432507835	3961863
+3962031	HPC	a relaxation-based network decomposition algorithm for parallel transient stability simulation with improved convergence	2018	-10.927941176097633	2.918718379021811	3962058
+3963540	SE	total feti domain decomposition method and its massively parallel implementation	2013	-10.368155787028806	2.9674411422690445	3963567
+3964290	Theory	computing the bidiagonal svd using multiple relatively robust representations	2006	-10.895172590624425	3.279566098267793	3964317
+3966398	HPC	efficient mesh partitioning for parallel p.d.e. solvers on distributed memory machines	1993	-10.326454388544656	3.0171239816163915	3966425
+3968265	Theory	a parallel algorithm for an inverse problem associated with a hyperbolic system of partial differential equations	1994	-10.585324506878793	3.071127406326013	3968292
+3970001	HPC	a scalable multisplitting algorithm to solve large sparse linear systems	2014	-10.87478214142592	3.131868623407043	3970028
+3972467	Graphics	a cut-cell geometric multigrid poisson solver for fluid simulation	2015	-10.304074773612724	2.9721423139392185	3972494
+3972559	EDA	accelerating harmonic balance simulation using efficient parallelizable hierarchical preconditioning	2007	-10.542382598566482	3.179668489883332	3972586
+3972590	Robotics	numerical solution of generalized lyapunov equations	1998	-10.987462801268137	3.0477648688803485	3972617
+3972701	Theory	using piecewise polynomials for faster potential function evaluation	2010	-10.327894006000427	3.074827202210187	3972728
+3974486	Vision	scalability and locality of extrapolation methods for distributed-memory architectures	2010	-10.211929158859336	3.0935420607941	3974513
+3975181	HPC	parallel coupling numerics for partitioned fluid-structure interaction simulations	2016	-10.287221788074918	3.089529637065537	3975208
+3975733	HPC	a parallel algorithm for algebraic multigrid	2004	-10.161136967994798	3.000225488825848	3975760
+3976575	HPC	on variable blocking factor in a parallel dynamic block--jacobi svd algorithm	2003	-10.864625704834456	3.2399588083548663	3976602
+3977566	HPC	a fast parallel algorithm for solving block-tridiagonal systems of linear equations including the domain decomposition method	2013	-10.677310717214796	3.1341965326261936	3977593
+3978142	EDA	a parallel implementation of the restarted gmres iterative algorithm for nonsymmetric systems of linear equations	1994	-10.399426218818768	3.065456172246194	3978169
+3978401	Graphics	a schur complement preconditioner for scalable parallel fluid simulation	2017	-10.132927711381686	3.0111787189288672	3978428
+3978580	HPC	design of a parallel hybrid direct/iterative solver for cfd problems	2011	-10.420484930267689	2.9853377999121973	3978607
+3980477	Vision	parallel solution of riccati matrix equations with the matrix sign function	1998	-10.772763916388024	3.1159233309019703	3980504
+3981329	HPC	mixed-parallel implementations of extrapolation methods with reduced synchronization overhead for large shared-memory computers	2010	-10.135593434470062	3.2524038632526207	3981356
+3982090	HPC	a scalable parallel algorithm for sparse cholesky factorization	1994	-10.590847560348891	3.173310746427373	3982117
+3983100	HPC	efficient parallelization of preconditioned conjugate gradient scheme for matrices arising from discretizations of diffusion equations	1999	-11.085480829221082	3.0855825921130444	3983127
+3983267	Theory	solving a kind of bvp for second-order odes using novel data formats for dense matrices	2008	-10.636352165823137	3.092918119024157	3983294
+3983996	HPC	gpu implementation of a helmholtz krylov solver preconditioned by a shifted laplace multigrid method	2011	-10.381351156729917	3.107339276399532	3984023
+3984555	HPC	an efficient parallel implementation of explicit multirate runge-kutta schemes for discontinuous galerkin computations	2014	-10.256448664240027	3.069639554670775	3984582
+3984971	HPC	a parallel two-level hybrid method for diagonal dominant tridiagonal systems	2002	-10.820546383727407	3.130214814924085	3984998
+3987048	Vision	a scalable dual-primal domain decomposition method	2000	-10.26047467395107	2.937519567347997	3987075
+3988565	Crypto	parallel realization of difference schemes of filtration problem in a multilayer system	2002	-10.499155062589699	3.1020834432030373	3988592
+3996450	HPC	nonlinear uncertainty propagation in astrodynamics using differential algebra and graphics processing units	2017	-10.190550329565307	2.8774951886287163	3996477
+3996463	Theory	quasi-disjoint pentadiagonal matrix systems for the parallelization of compact finite-difference schemes and filters	2013	-10.557430848796825	3.109378233156188	3996490
+3997799	ML	diagonalization in parallel space.	2006	-10.792882927418564	3.1277699163911747	3997826
+3999559	HPC	solving large scale linear programming problems using an interior point method on a massively parallel simd computer	1994	-10.86103692839127	3.2551707638070533	3999586
+3999646	AI	a numerical differentiation library exploiting parallel architectures	2009	-10.417582956589367	3.0968217228188446	3999673
+4000521	HPC	a parallel multigrid-based preconditioner for the 3d heterogeneous high-frequency helmholtz equation	2007	-10.321437516637491	3.0039440894973524	4000548
+4000539	HPC	anatomy of a parallel out-of-core dense linear solver.	1995	-10.289114821740998	2.944332804301037	4000566
+4005450	HPC	pastix: a high-performance parallel direct solver for sparse symmetric positive definite systems	2002	-10.474088750175977	3.2007842152208745	4005477
+4011833	HPC	parallel lu factorization of band matrices on smp systems	2006	-10.85592161271318	3.0770514124355337	4011860
+4011895	HPC	data structures and algorithms for high-dimensional structured adaptive mesh refinement	2015	-10.428718444702573	2.7824894433481084	4011922
+4011970	HPC	compressed threshold pivoting for sparse symmetric indefinite systems	2014	-10.82798384751804	3.256507597249477	4011997
+4014169	HPC	estimation of potential and real parallelism for ode solvers	1995	-10.720683477350393	3.2025523718877187	4014196
+4016784	HPC	parallel finite element simulations of incompressible viscous fluid flow by domain decomposition with lagrange multipliers	2010	-10.303887670841423	2.9920059209386607	4016811
+4017490	HPC	multi-gpu scalable implementation of a contour-integral-based eigensolver for real symmetric dense generalized eigenvalue problems	2013	-10.472925922548033	3.1684872008084044	4017517
+4018615	HPC	iterative parallel methods for boundary value problems	1993	-10.75809286508816	2.9865293760017995	4018642
+4024487	Logic	the parasol project and the multifrontal parallel solver for sparse systems	1999	-10.924868769127297	3.3964536020035467	4024514
+4024691	EDA	parallel model reduction of large linear descriptor systems via balanced truncation	2004	-10.704215985351793	3.1182918231943426	4024718
+4025693	HPC	scadopt: an open-source hpc framework for solving pde constrained optimization problems using ad	2014	-10.174037977645256	3.0377884608705084	4025720
+4026144	ML	optimization of transmission conditions in waveform relaxation techniques for rc circuits	2014	-10.277260733533868	3.2144831911668867	4026171
+4026916	PL	on the scalability of data-parallel decomposition algorithms for stochastic programs	1994	-10.69275847520342	3.2164982078430717	4026943
+4028060	HPC	a fft-based finite-difference solver for massively-parallel direct numerical simulations of turbulent flows	2018	-10.167214513544552	2.8176742611608807	4028087
+4028353	SE	parallelisation of nonlinear structural analysis using dual partition super elements	2013	-10.345130452893967	2.8448582039615666	4028380
+4029943	HPC	a parallel multi-threaded solver for symmetric positive definite bordered-band linear systems	2015	-10.577315619598552	3.1912293518272894	4029970
+4032980	EDA	block red-black ordering method for parallel processing of iccg solver	2002	-10.716990433959786	3.2198178740091383	4033007
+4034704	HPC	parallel implementation of a sparse approximate inverse preconditioner	1996	-10.56932833134889	3.1014474893756683	4034731
+4035655	Embedded	designing lu-qr hybrid solvers for performance and stability	2014	-10.872388765707354	3.0698679986365374	4035682
+4042481	HPC	a dynamic diffusion optimization method for irregular finite element graph partitioning	2000	-10.266617040375095	3.085865395180494	4042508
+4043355	NLP	a parallel non-square tiled algorithm for solving a kind of bvp for second-order odes	2009	-10.756948736119346	3.0694637084033687	4043382
+4044159	HPC	gremlins: a large sparse linear solver for grid environment	2008	-10.450486532609473	3.133359811842515	4044186
+4044657	HPC	a massively parallel combination technique for the solution of high-dimensional pdes	2018	-10.653577782969196	3.1482386849517114	4044684
+4045838	Robotics	parallel iterative solvers with localized ilu preconditioning	1997	-10.663888456246022	3.0853522715759585	4045865
+4045840	HPC	a parallel implementation of ale moving mesh technique for fsi problems using openmp	2011	-10.262021720547043	2.9895346216962158	4045867
+4049717	HPC	parallel algorithms for balanced truncation model reduction of sparse systems	2004	-10.625157342746276	3.1068466489761533	4049744
+4052853	Vision	loop-corrected belief propagation for lattice spin models	2015	-10.879533229719687	2.8315033560060825	4052880
+4053000	EDA	parallel execution of embedded and iterated runge-kutta methods	1999	-10.558628197171092	3.024344996018899	4053027
+4053589	Theory	an efficient parallel algorithm for the solution of a tridiagonal linear system of equations	1973	-10.976565422505283	3.260036324277221	4053616
+4054204	HPC	parallel iteration space alternate tiling gauss-seidel solver	2007	-10.442665945798165	3.254699078934688	4054231
+4054469	HPC	parallel dynamics simulation using a krylov-schwarz linear solution scheme	2017	-10.50335499796079	2.969344330860065	4054496
+4058200	Vision	the extrapolated interval global optimization algorithm	2011	-10.550361140345572	3.023056323500881	4058227
+4062618	Theory	block preconditioners for coupled physics problems	2013	-10.355388020441012	2.993134028802284	4062645
+4067361	Comp.	a parallel implementation of overlapping schwarz method for the dual reciprocity method	2010	-10.567911330690944	3.0193611934502673	4067388
+4067906	HPC	a parallel cholesky algorithm for the solution of symmetric linear systems	2004	-10.933390202426311	3.219563015380829	4067933
+4068636	HPC	parallelization of robust multigrid methods: ilu factorization and frequency decomposition method	1991	-10.58010160644318	3.05729883499838	4068663
+4070369	HPC	on the parallelization of self-adaptive hp-finite element methods part ii. partitioning communication agglomeration mapping (pcam) analysis	2009	-10.198304198973473	2.7228489203630337	4070396
+4072220	HPC	parallel finite element computation based on coarse-fine mesh formulation	2008	-10.521732296425796	2.943193174851188	4072247
+4073713	HPC	a computational fluid dynamics algorithm on a massively parallel computer	1989	-10.326141709734369	3.085364505522367	4073740
+4074274	PL	multigrid reduction in time for nonlinear parabolic problems: a case study	2017	-10.506600482970487	3.0065089260181965	4074301
+4074978	HPC	a robust technique to make a 2d advection solver tolerant to soft faults	2016	-10.167104439564582	2.9651684730920644	4075005
+4075651	HPC	recursive least squares on a hypercube multiprocessor using the covariance factorization	1991	-10.986451265026783	3.147799183760895	4075678
+4076880	HPC	mixing lu and qr factorization algorithms to design high-performance dense linear algebra solvers	2015	-10.745929655449446	3.321159250912694	4076907
+4077254	HPC	parallelism in ilu-preconditioned gmres	1998	-10.64069574523078	3.0891410448464334	4077281
+4077702	HPC	finite elements using long vectors of the dap	1988	-10.480629191135906	3.0366739826161253	4077729
+4079400	HPC	parallel heuristics for bandwidth reduction of sparse matrices with ibm sp2 and cray t3d	1996	-10.221445141928832	3.1383760395690823	4079427
+4079742	HPC	direct solution of large, sparse systems of equations on a distributed memory computer	2000	-10.910248362489819	3.323487084736525	4079769
+4080753	DB	port-based modeling of engineering systems in terms of bond graphs	2007	-10.662945174575636	3.4900686404677264	4080780
+4080999	Networks	impact of random and burst packet losses on h.264 scalable video coding	2014	-10.234189784310802	3.2624456180855126	4081026
+4084399	PL	parallel sensitivity analysis for daes with many parameters	1999	-10.23875485803775	2.9920791006260856	4084426
+4087061	HPC	divide and conquer low-rank preconditioners for symmetric matrices	2013	-10.981938736109116	3.0337008910387064	4087088
+4090347	HPC	a parallel fast direct solver for block tridiagonal systems with separable matrices of arbitrary dimension	1999	-10.952227550549665	3.0790715624848155	4090374
+4094514	Robotics	the parallel computation of partial eigensolutions using a modified lanczos method	1997	-10.667961975980255	3.2044634316747316	4094541
+4096218	HPC	multilevel extended algorithms in structural dynamics on parallel computers	2003	-10.401830694342006	3.039208932407557	4096245
+4096311	HPC	preconditioned solvers for large eigenvalue problems on massively parallel computers and workstation clusters	1997	-10.540025247016604	3.1401210892370925	4096338
+4096919	HPC	on the performance of parallel normalized explicit preconditioned conjugate gradient type methods	2006	-10.559511165369623	3.086087612835437	4096946
+4097372	HPC	a parallel linear solver for multilevel toeplitz systems with possibly several right-hand sides	2014	-10.81116566940364	3.1129442909690233	4097399
+4098285	HPC	parallel globally adaptive quadrature on the ksr-1	1994	-10.99056707008376	3.1102573003018	4098312
+4100635	HPC	d-iteration: evaluation of the asynchronous distributed computation	2012	-10.424858429515206	3.1246511134029387	4100662
+4100944	HPC	applying reduced generator models in the coarse solver of parareal in time parallel power system simulation	2016	-10.199688241453037	3.1001199312840013	4100971
+4101064	Robotics	application of a preconditioned chebyshev basis communication-avoiding conjugate gradient method to a multiphase thermal-hydraulic cfd code	2018	-10.31807160669203	2.9351278869293798	4101091
+4102357	Graphics	algorithm 881: a set of flexible gmres routines for real and complex arithmetics on high-performance computers	2008	-10.642345309512102	3.2150621394827	4102384
+4103469	HPC	ipdps 2014 selected papers on numerical and combinatorial algorithms	2015	-10.682740741599574	3.3497438997228253	4103496

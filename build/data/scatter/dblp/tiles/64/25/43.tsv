@@ -1,0 +1,336 @@
+id	area	title	year	x	y	ix
+3784205	EDA	entropy-driven parity-tree selection for low-overhead concurrent error detection in finite state machines	2006	-5.841957823369071	11.19525772206391	3784232
+3785252	SE	defect coverage-driven window-based test compression	2010	-5.491681617898811	11.060794759300064	3785279
+3785501	EDA	theory and applications of cellular automata for synthesis of easily testable combinational logic	1995	-5.881731606542509	10.726835281474225	3785528
+3785836	EDA	compact test set generation for test compression-based designs	2015	-5.6374379849550085	10.90354751676284	3785863
+3786511	EDA	at-speed scan test with low switching activity	2010	-5.578986287104613	11.116609412879438	3786538
+3786707	EDA	rule-based optimization of reversible circuits	2010	-6.256310363279952	10.506477248802526	3786734
+3787989	EDA	bist-based low power test vector generator and minimizing bulkiness of vlsi architecture	2018	-6.042501955892528	11.153130865285046	3788016
+3790072	EDA	an efficient algorithm to verify generalized false paths	2010	-5.51940079102541	11.058594476700302	3790099
+3792766	EDA	comprehensive non-functional analysis of combinational circuits vulnerability to single event transients	2016	-5.566732306984194	11.141542234402616	3792793
+3793627	EDA	analysis of interconnect crosstalk defect coverage of test sets	2000	-5.328550963226003	11.228153473267266	3793654
+3793972	EDA	on statistical estimation of fault efficiency for path delay faults based on untestable path analysis	2005	-5.6179132726180185	10.736007196931354	3793999
+3794010	EDA	ita: an algorithm for iddq testability analysis	1996	-5.722169455906905	10.481104018995568	3794037
+3794521	SE	efficient test compression technique for soc based on block merging and eight coding	2013	-5.931711291125753	11.217960819591518	3794548
+3794618	EDA	alaptf: a new transition fault model and the atpg algorithm	2004	-5.541794238062053	11.108841754278425	3794645
+3794726	EDA	static test compaction for scan-based designs to reduce test application time	1998	-5.7794031733965685	10.719058248890574	3794753
+3796049	Visualization	on the generation of sic pairs in optimal time	2015	-6.066769681841196	10.583863756213423	3796076
+3796759	EDA	multicycle tests with constant primary input vectors for increased fault coverage	2012	-5.5999208665636155	10.939635365983577	3796786
+3799831	EDA	generation of high quality tests for functional sensitizable paths	1995	-5.406515918013115	10.680924931913344	3799858
+3800647	EDA	selecting high-quality delay tests for manufacturing test and debug	2006	-5.587586794903575	11.11681690042265	3800674
+3801822	EDA	conditionally robust two-pattern tests and cmos design for testability	1988	-5.620774086562316	10.421587834168898	3801849
+3802641	EDA	data compression for multiple scan chains using dictionaries with corrections	2004	-5.851191508914689	11.185073751555375	3802668
+3807800	EDA	memory reduction of i/sub ddq/ test compaction for internal and external bridging faults	2000	-5.670216780415295	10.957623282906166	3807827
+3808134	EDA	on cancelling the effects of logic sharing for improved path delay fault testability	1996	-6.084378710982042	11.281959150489614	3808161
+3810483	EDA	increasing manufacturing yield using partially programmable circuits with clb implementation of incompletely specified boolean function of the corresponding sub-circuit	2015	-5.741462400991892	11.075352742154319	3810510
+3811496	EDA	automatic placement for matched devices of analog circuits	2013	-6.053038329022588	11.043888786327985	3811523
+3812271	EDA	atpg-xp: test generation for maximal crosstalk-induced faults	2009	-5.802182835276763	11.105813684718887	3812298
+3812377	Embedded	generic fault characterizations for table look-up coverage bounding	1980	-5.8638576828815445	10.540847840080431	3812404
+3812518	EDA	design for consecutive transparency method of rtl circuits	2006	-5.5015786092846595	11.175488448416898	3812545
+3813129	SE	revisiting shift register realization for ease of test generation and testing	1993	-5.8908846989487635	10.922843509500135	3813156
+3813391	EDA	enhancing test effectiveness for analog circuits using synthesized measurements	1998	-5.402993158070097	10.953372896833631	3813418
+3814444	Visualization	redundancy testing in combinational networks	1974	-5.858047009644167	10.640564377035506	3814471
+3815504	EDA	on reducing aliasing effects and improving diagnosis of logic bist failures	2003	-5.4719063692334435	10.857186902435501	3815531
+3816712	EDA	selection of crosstalk-induced faults in enhanced delay test	2005	-5.7314751257427226	11.17033528994782	3816739
+3818987	HCI	reconfigurable broadcast scan compression using relaxation-based test vector decomposition	2009	-5.740511865168759	11.243001293162894	3819014
+3819726	EDA	space compaction of test responses for ip cores using orthogonal transmission functions	2000	-5.7637272891559865	10.586773917286406	3819753
+3819928	EDA	undetectable fault removal of sequential circuits based on unreachable states	1998	-5.455160385463149	10.667894756090535	3819955
+3820058	EDA	an effective atpg flow for gate delay faults	2015	-5.479246894765963	10.672689883594408	3820085
+3821546	EDA	test generation to minimize error masking	1993	-5.926990785252238	10.850885711167095	3821573
+3822046	EDA	generalized net models of basic sequential logic circuits	2016	-5.999749609851969	10.353045937744456	3822073
+3822155	EDA	an investigation of non-linear machines as prpgs in bist.	2004	-5.460669503099698	10.589080198605943	3822182
+3822849	ML	an histogram based procedure for current testing of active defects	1999	-5.448445990809783	11.259640229030357	3822876
+3822959	EDA	an easily testable design of programmable logic arrays for multiple faults	1983	-5.576877256687799	10.734330037024664	3822986
+3824751	EDA	a novel test application scheme for high transition fault coverage and low test cost	2010	-5.671652160040593	10.942995680978882	3824778
+3825389	EDA	output space compaction for testing and concurrent checking	2000	-5.5632660439675305	11.045498840402567	3825416
+3826729	EDA	an efficient test relaxation technique for combinational & full-scan sequential circuits	2002	-5.667667963416628	10.632169371656898	3826756
+3827329	EDA	built-in generation of functional broadside tests using a fixed hardware structure	2013	-5.3616404565826805	11.173882342985227	3827356
+3828703	EDA	effective path selection for delay fault testing of sequential circuits	1997	-5.515959480391043	10.866170265404982	3828730
+3828757	Logic	design verification by test vectors and arithmetic transform universal test set	2004	-6.061691413707356	10.375553192254584	3828784
+3829771	EDA	a testability metric for path delay faults and its application	2000	-5.616215034220087	10.749320683915363	3829798
+3830208	EDA	delay fault coverage enhancement using variable observation times	1997	-5.6827012227515405	11.154832072351633	3830235
+3830631	EDA	on modifying logic networks to improve their diagnosability	1974	-5.496648725229921	10.596025308771702	3830658
+3831177	EDA	computation and application of absolute dominators in industrial designs	2007	-5.666798329957018	10.59693226034672	3831204
+3833564	EDA	the probability of a correct output from a combinational circuit	1975	-5.581435889954862	10.358569969992159	3833591
+3834363	EDA	diagnostic test of robust circuits	2011	-5.469183306618763	10.98785276671469	3834390
+3835352	EDA	frugal linear network-based test decompression for drastic test cost reductions	2004	-5.786834059589782	11.113795925384784	3835379
+3837206	EDA	test set compaction for combinational circuits	1995	-5.702000150278502	10.734042696534466	3837233
+3837584	EDA	hybrid bist optimization using reseeding and test set compaction	2007	-5.7010658722669465	10.792481788288764	3837611
+3838201	Logic	probabilistic fault grading based on activation checking and observability analysis	1990	-5.40708621733296	10.770552849392834	3838228
+3838834	EDA	a small test generator for large designs	1992	-5.410943114487512	10.5765944911464	3838861
+3839205	EDA	a note on strongly fault-secure sequential circuits	1987	-6.116546610469481	10.40526597732176	3839232
+3840064	EDA	an effective fault ordering heuristic for sat-based dynamic test compaction techniques	2014	-5.364544705885108	11.134486675100113	3840091
+3842001	EDA	upper and lower bounds on fsm switching activity	2003	-6.174133852108112	10.552482927688445	3842028
+3842241	SE	a functional approach to test cascaded bcd counters	2002	-5.7597177476798045	11.129205535146255	3842268
+3842385	EDA	on the three-valued simulation of digital systems	1976	-5.325423718796422	10.354974837220338	3842412
+3842589	EDA	realization of fully path-delay-fault testable non-scan sequential circuits	1994	-5.586348514184283	10.343927090076065	3842616
+3842862	EDA	combined probabilistic testability calculation and compact test generation for plas	1991	-5.798712250473066	10.732585737388725	3842889
+3845173	Theory	parallel algorithms for the circuit value update problem	1995	-6.2009748272915886	10.409738203248018	3845200
+3845516	EDA	adaptive diagnostic pattern generation for scan chains	2008	-5.328421905773932	11.077004057992118	3845543
+3846636	NLP	a machine learning based framework for sub-resolution assist feature generation	2016	-5.8524890706931485	11.27730446169852	3846663
+3847454	EDA	process variation dimension reduction based on svd	2003	-6.1064872917986595	10.596217861172153	3847481
+3847563	AI	automatic classification of node types in switch-level descriptions	1990	-5.510476406825833	10.935540631773508	3847590
+3847718	EDA	a coordinated circuit partitioning and test generation method for pseudo-exhaustive testing of vlsi circuits	1995	-6.0038705589865655	10.6478341532641	3847745
+3848040	EDA	on improving transition test set quality to detect cmos transistor stuck-open faults	2015	-5.498008212261749	11.243497161145477	3848067
+3849660	EDA	utilizing ate vector repeat with linear decompressor for test vector compression	2014	-5.949887201005494	11.054817991245086	3849687
+3849846	EDA	exact path sensitization in timing analysis	1994	-5.898813951128149	10.915381824396533	3849873
+3851092	EDA	an addition to the methods of test determination for fault detection in combinational circuits	2004	-5.414267382176481	10.67225585042002	3851119
+3851224	EDA	analysis and proposal of signature circuits for lsi testing	1988	-6.193166620590688	10.89899027723664	3851251
+3855694	Logic	threshold gate realizations of logical functions with don't cares	1963	-6.078916209079452	10.36923394767344	3855721
+3858631	EDA	space compaction for multiple-output circuits	1988	-5.877010834101151	10.654143004958296	3858658
+3859412	EDA	on path delay fault testing of multiplexer - based shifters	1999	-5.805857069820468	10.790533091874128	3859439
+3859832	EDA	the effects of races, delays, and delay faults on test generation	1974	-5.592421466059251	11.207715841021821	3859859
+3860675	EDA	test-pattern generation based on reed-muller coefficients	1993	-5.904360146464613	10.688218797157909	3860702
+3860791	EDA	on removing multiple redundancies in combinational circuits	1998	-6.014390744284147	10.549602336434953	3860818
+3861490	EDA	accurate multi-cycle atpg in presence of x-values	2013	-5.324045638720545	10.615930395903273	3861517
+3862494	EDA	test and diagnosis pattern generation for dynamic bridging faults and transition delay faults	2016	-5.5240269996029046	10.753145761690147	3862521
+3863724	EDA	concurrent error detection in nonlinear digital circuits with applications to adaptive filters	1993	-5.30633378456954	11.170942052705154	3863751
+3864652	EDA	variation-aware deterministic atpg	2014	-5.686377095323158	10.858869254685215	3864679
+3867486	Logic	static logic implication with application to redundancy identification	1997	-5.481793410660586	10.345946891621988	3867513
+3868205	Embedded	lfsr reseeding with irreducible polynomials	2007	-6.108460661191487	10.789661192938118	3868232
+3868819	EDA	analysis of set reconvergence and hardening in the combinational circuit using a sat-based method	2018	-5.545303851404143	11.191388800820766	3868846
+3868889	EDA	efficient modeling of switch-level networks containing undetermined logic node states	1993	-5.377272276585477	10.727250307109193	3868916
+3869517	EDA	implicit identification of non-robustly unsensitizable paths using bounded delay model	2008	-5.6115860289378094	10.588335220960037	3869544
+3870077	EDA	redundancy and test-pattern generation for asynchronous quasi-delay-insensitive combinational circuits	2007	-5.514037144399508	11.019259911702592	3870104
+3872054	SE	efficient multiphase test set embedding for scan-based testing	2006	-5.760308927430363	10.671364126682711	3872081
+3873570	Vision	programmable bist space compactors	1996	-5.628911082079957	10.953053650842293	3873597
+3873896	EDA	errortracer: design error diagnosis based on fault simulation techniques	1999	-5.496014016722446	10.857963358357555	3873923
+3874541	EDA	efficient sat-based combinational atpg using multi-level don't-cares	2005	-5.5512279978353725	10.413413430629555	3874568
+3874681	AI	improved fault diagnosis in scan-based bist via superposition	2000	-5.393578537388289	10.752898122821062	3874708
+3875405	EDA	achieving complete delay fault testability by extra inputs	1991	-5.750746100909507	10.424568869073235	3875432
+3875760	Embedded	zero-aliasing space compression using a single periodic output and its application to testing of embedded cores	2000	-5.7530573513889305	10.808650179814578	3875787
+3877370	EDA	"""testing fpga delay faults in the system environment is very different from """"ordinary"""" delay fault testing"""	2001	-5.332319026363812	11.029696833443632	3877397
+3879778	EDA	a highly regular multi-phase reseeding technique for scan-based bist	2003	-5.789602668392067	11.229694403710058	3879805
+3880456	EDA	an accurate probabilistic model for error detection	2005	-5.787650449045628	11.0620246181145	3880483
+3884694	EDA	logic design validation via simulation and automatic test pattern generation	2000	-5.351477888985958	10.902306441469037	3884721
+3884960	EDA	an algorithm to reduce test application time in full scan designs	1992	-5.596980444280249	11.111283065769184	3884987
+3886548	EDA	unified 2-d x-alignment for improving the observability of response compactors	2011	-5.7117526978710975	11.114255308801154	3886575
+3887966	EDA	sampling techniques of non-equally probable faults in vlsi systems	1998	-5.362758717575361	10.841468788549344	3887993
+3888482	EDA	a new architecture of test response analyzer based on the berlekamp–massey algorithm for bist	2010	-5.828225602584952	10.600825497155467	3888509
+3890596	EDA	a critical path selection method for delay testing	2004	-5.385423219487382	10.616441817352653	3890623
+3891404	EDA	system level performance and yield optimisation for analogue integrated circuits	2009	-6.057137605738335	11.152934578486262	3891431
+3891974	EDA	exact aliasing computation for ram bist	1995	-5.835861108483902	11.0096548046256	3892001
+3892036	EDA	timing verification with crosstalk for transparently latched circuits	2003	-5.42353588658124	11.22670975691776	3892063
+3892485	EDA	estimating worst-case power consumption of cmos circuits modeled as symbolic neural networks	1995	-5.970872842493793	11.284082998113297	3892512
+3897028	EDA	synthesis of sequential circuits for easy testability through performance-oriented parallel partial scan	1993	-5.585120702007459	10.48206007291842	3897055
+3897104	EDA	redo - probabilistic excitation and deterministic observation - first commercial experimen	1999	-5.313103995445876	11.178804754488826	3897131
+3897630	EDA	two-stage stuck-at fault test data compression using scan flip-flops with delay fault testability	2008	-5.806837570060242	11.256612408894878	3897657
+3897996	EDA	selecting partial scan flip-flops for circuit partitioning	1994	-5.895251272587436	10.762930229470095	3898023
+3901271	EDA	an efficient logic extraction algorithm using partitioning and circuit encoding	2004	-6.135012236805077	10.515515886837354	3901298
+3901372	EDA	compaction of a transparent-scan sequence to reduce the fail data volume for scan chain faults	2017	-5.518371413481148	10.866349793095804	3901399
+3901475	EDA	generating tests for delay faults in nonscan circuits	1993	-5.524212097806715	10.943176244806061	3901502
+3902207	EDA	waiting false path analysis of sequential logic circuits for performance optimization	1998	-6.142315820627054	11.185681195084264	3902234
+3903104	Embedded	analysis of stratified testing for multichip module systems	2002	-5.526645193186713	11.279540688893585	3903131
+3905331	EDA	cmos analog programmable logic array	2004	-5.698230436222245	10.94846575396501	3905358
+3907539	EDA	a new approach to multiple soft fault diagnosis of analog bjt and cmos circuits	2015	-5.515386009353799	10.769101870236163	3907566
+3908915	Arch	transient failures in triple modular redundancy systems with sequential modules	1975	-5.326965257225226	11.142991929468193	3908942
+3910186	EDA	delay fault testing: choosing between random sic and random mic test sequences	2001	-5.480698618010105	11.267759894213441	3910213
+3910424	EDA	logic synthesis and verification on fixed topology	2014	-5.4688492486676665	10.601838151294327	3910451
+3912531	EDA	predictive lbist model and partial atpg for seed extraction	2015	-5.646936208084514	11.08900166784485	3912558
+3912575	EDA	dynamic test compression using statistical coding	2001	-5.90310616596299	10.967437378094647	3912602
+3913350	EDA	synthesis of sequential circuits by redundancy removal and retiming	1997	-5.682039156076535	10.66997903079301	3913377
+3914045	EDA	x marks the spot: scan-flip-flop clustering for faster-than-at-speed test	2016	-5.7051633503035495	10.819398590885156	3914072
+3916213	EDA	passat 2.0: a multi-functional sat-based testing framework	2013	-5.380810303464832	10.949917022154644	3916240
+3916296	EDA	a method for the fast diagnosis of multiple defects using an efficient candidate selection algorithm	2012	-5.303537002126519	11.169206317389495	3916323
+3916491	EDA	on optimizing fault coverage, pattern count, and atpg run time using a hybrid single-capture scheme for testing scan designs	2008	-5.865127919884363	10.940420378737985	3916518
+3918254	EDA	combining dictionary coding and lfsr reseeding for test data compression	2004	-6.026786481654352	11.112789956396089	3918281
+3918641	Logic	aggresive scan chain masking for improved diagnosis of multiple scan chain failures	2013	-5.421527857719458	10.995916484190866	3918668
+3919707	EDA	on minimizing the number of test points needed to achieve complete robust path delay fault testability	1996	-5.592555396339331	10.676210064296145	3919734
+3919747	EDA	partitioning and reordering techniques for static test sequence compaction of sequential circuits	1998	-5.6551111627892805	10.515609741808099	3919774
+3922465	EDA	fault simulation and test pattern generation at the multiple-valued switch level	1988	-5.512949619375052	10.386500591117839	3922492
+3923981	EDA	on testability of checkable digital circuits under pseudorandom signals	1995	-5.873238386872704	10.4494175272217	3924008
+3924104	EDA	diagnosing multiple byzantine open-segment defects using integer linear programming	2011	-5.4724646549667995	10.715454602066718	3924131
+3924770	EDA	functional test generation for non-scan sequential circuits	1995	-5.310833566565845	10.447692370727124	3924797
+3925065	EDA	total stuck-at-fault testing by circuit transformation	1983	-5.3506650279645855	11.076068556916455	3925092
+3928263	EDA	arbitrary error detection in combinational circuits by using partitioning	2008	-5.482415311036217	10.591815931193436	3928290
+3928349	EDA	testability preserving boolean transforms for logic synthesis	1993	-5.319737241638987	10.627162259076046	3928376
+3928946	EDA	an algorithmic approach to optimizing fault coverage for bist logic synthesis	1998	-5.820826440732291	10.704942473290352	3928973
+3930494	EDA	diagnosis of multiple faults with highly compacted test responses	2014	-5.381162527978782	10.929367280605481	3930521
+3931843	Theory	a march-based fault location algorithm for static random access memories	2002	-5.841581347609919	10.62012275180893	3931870
+3932745	EDA	diagnosis of single-gate failures in combinational circuits	1969	-5.442702092673541	10.59523524484286	3932772
+3933070	ECom	an analog checker with input-relative tolerance for duplicate signals	2003	-5.495809350712872	11.200551314435408	3933097
+3933296	EDA	a novel behavioral testability measure	1993	-5.408602426007047	10.486201999655217	3933323
+3933752	EDA	merging nodes under sequential observability	2008	-5.543030507553554	10.49558911081987	3933779
+3933808	AI	a generic dual core architecture with error containment	2004	-5.437087736594523	10.654141653626096	3933835
+3934620	EDA	fault detection by output response comparison of identical circuits using half-frequency compatible sequences	2006	-5.626629078520017	10.742695470141541	3934647
+3934669	EDA	generator for test set construction of smgf in reversible circuit by boolean difference method	2014	-5.686437832444283	10.788443615556373	3934696
+3934708	SE	detection of faults in programmable logic arrays	1979	-5.5240676560364665	10.64928311502391	3934735
+3936225	EDA	test pattern generation for circuits with asynchronous signals based on scan	1996	-5.532545453634489	10.865813811779883	3936252
+3937044	EDA	timing-safe false path removal for combinational modules	1999	-5.539668242548681	10.55391527396598	3937071
+3937497	EDA	structural reduction techniques for logic-chain bridging fault diagnosis	2012	-5.408540517943012	10.771588128491917	3937524
+3939619	Arch	on detecting multiple faults in baseline interconnection networks	1998	-5.846882950529787	10.428257900007337	3939646
+3939869	EDA	an input test pattern for characterization of a full-adder and n-bit ripple carry adder	2016	-6.012279402499376	11.187489717177103	3939896
+3942307	ML	a new heuristic algorithm for estimating signal and detection probabilities	1997	-5.895099698361904	10.670844247382801	3942334
+3942391	EDA	design-for-testability for path delay faults in large combinational circuits using test points	1998	-5.713120014553826	10.721007213691713	3942418
+3942581	EDA	scirtss: a search system for sequential circuit test sequences	1977	-5.297591509446521	10.415453601535761	3942608
+3946167	EDA	feasibility and effectiveness of the algorithm for overhead reduction in analog checkers	1995	-5.511136904040499	11.236693020112584	3946194
+3946642	EDA	enhancement of test data compression with multistage encoding	2014	-6.00261404431239	11.166352765047808	3946669
+3947607	EDA	a novel test generation methodology for adaptive diagnosis	2008	-5.350197942208356	10.710581541074317	3947634
+3947953	EDA	design of robustly testable static cmos parity trees derived from binary decision diagrams	1990	-5.7792247237222885	10.598116626437633	3947980
+3948079	EDA	simulation results of an efficient defect-analysis procedure	1994	-5.4167820218800165	10.735022390659267	3948106
+3951120	EDA	test application time and volume compression through seed overlapping	2003	-5.743041216987464	11.191122345678933	3951147
+3952137	EDA	on double transition faults as a delay fault model	1996	-5.656285672816528	10.686705731412562	3952164
+3953355	Arch	an improved method for identifying linear dependencies in path delay faults	2006	-5.68445391015292	10.52763764513802	3953382
+3953719	EDA	yield optimization for radio frequency receiver at system level	2012	-6.191013669146148	10.423480427252953	3953746
+3953752	Arch	using bist control for pattern generation	1997	-5.568660856561005	11.24911019635906	3953779
+3953867	EDA	polymorphic gates in design and test of digital circuits	2008	-5.4514897941616365	11.15718559101416	3953894
+3956531	EDA	techniques for minimizing power dissipation in scan and combinational circuits during test application	1998	-6.201228733560506	11.186924431314054	3956558
+3956767	EDA	semi-concurrent on-line testing of transition faults through output response comparison of identical circuits	2007	-5.532164530935385	10.88860687729218	3956794
+3957794	EDA	multiple-vector column-matching bist design method	2006	-6.034058478833871	11.18997353254738	3957821
+3958393	EDA	an automated algorithm for partitioning sequential vlsi circuits.	2004	-5.86906350229532	10.779434763963497	3958420
+3959447	EDA	robustly testable array multipliers under realistic sequential cell fault model	1998	-5.870285333942841	10.589511931718848	3959474
+3960277	EDA	cachecompress: a novel approach for test data compression with cache for ip embedded cores	2007	-6.226200924119853	11.130231914019816	3960304
+3960279	EDA	partial reset methodologies for improving random-pattern testability and bist of sequential circuits	1998	-5.566695206845638	10.941289115297504	3960306
+3960291	Logic	aliasing-free error detection (alfred)	1993	-5.981117249760885	10.635190217299419	3960318
+3960434	EDA	aliasing computation using fault simulation with fault dropping	1993	-5.4777298130506304	10.836498531906969	3960461
+3962453	SE	properties of maximally dominating faults	2004	-5.610190263673519	10.428717655442659	3962480
+3964669	EDA	test application time reduction for sequential circuits with scan	1995	-5.700431024033746	10.736227662440577	3964696
+3965241	EDA	design of testable vlsi circuits with minumum area overhead	1989	-6.239072642317068	11.267889280737153	3965268
+3965411	EDA	generation of multi-cycle broadside tests	2011	-5.573700725480844	11.037269570861962	3965438
+3966210	EDA	a new test point selection method for analog continuous parameter fault	2017	-5.349951458838568	10.42885413557223	3966237
+3967239	EDA	coded time-symbolic simulation using shared binary decision diagram	1990	-5.465292701931085	10.87663549899797	3967266
+3967815	EDA	synchronization of large sequential circuits by partial reset	1996	-5.492315037325431	10.787220715503297	3967842
+3968222	Logic	on invariant implication relations for removing partial circuits	1997	-5.5171705875086605	10.372014617296507	3968249
+3969890	EDA	vector-restoration-based static compaction using random initial omission	2004	-5.676397301263306	10.596834580131732	3969917
+3970413	EDA	test pattern selection and compaction for sequential circuits in an hdl environment	2010	-5.547761715816579	10.658315711791527	3970440
+3970480	ML	efficient random testing with global weights	1996	-5.852452885978	10.568245453855859	3970507
+3972628	EDA	a multiple phase partial scan design method	2001	-5.566246094992413	10.661616459801843	3972655
+3973150	EDA	hybrid test application in partial skewed-load scan design	2011	-5.670792855579772	10.95969239680282	3973177
+3973762	EDA	a partial scan design method based on n-fold line-up structures	1997	-6.086241610883754	10.734173639797863	3973789
+3974085	Embedded	diagnosis of scan clock failures	2008	-5.298172310108948	11.113077430220518	3974112
+3975488	EDA	cost optimal design of nonlinear ca based prpg for test applications	2005	-6.186308430953039	10.68910776766357	3975515
+3976481	Arch	detecting processor hardware faults by means of automatically generated virtual duplex systems	2002	-5.384158397261822	10.5679581667918	3976508
+3978406	ML	a unified test compression technique for scan stimulus and unknown masking data with no test loss	2008	-5.671913521512287	11.188257856033669	3978433
+3979663	EDA	efficient path selection for delay testing based on path clustering	1999	-5.687703174025973	10.823264311099134	3979690
+3979789	EDA	rewiring using irredundancy removal and addition	2009	-5.767054828688427	10.742114550025251	3979816
+3980026	EDA	novel voltage choice and min-cut based assignment for dual-vdd system	2012	-6.248412861031627	11.194395028389033	3980053
+3980799	EDA	high-quality transition fault atpg for small delay defects	2007	-5.387884224052044	10.416557659512844	3980826
+3981068	EDA	self-checking alternating logic: sequential circuit design	1978	-5.522197392398566	11.020603376395853	3981095
+3981927	EDA	fault ordering for automatic test pattern generation of reversible circuits	2013	-5.395589663587179	10.918478832151456	3981954
+3984490	SE	ordering of analog specification tests based on parametric defect level estimation	2010	-5.77622107626353	10.542793923977865	3984517
+3985972	SE	a design for testability of undetectable crosspoint faults in programmable logic arrays	1983	-5.729182163852537	10.568315490218989	3985999
+3986542	EDA	test patterns for fault-tolerant logic circuits using block design concepts	1992	-5.676511759801789	10.800092044643334	3986569
+3987245	EDA	"""fast measurement of the """"non-deterministic zone"""" in microprocessor debug using maximum likelihood estimation"""	2008	-5.442606192228018	11.208447923822627	3987272
+3992183	EDA	signature testing of sequential machines	1983	-5.732808125478338	10.603237904508301	3992210
+3992221	EDA	a lfsr reseeding scheme based on division by 2 to the power of integer	2010	-6.10501502861033	11.189254463231853	3992248
+3993543	EDA	a new design-for-testability method based on thru-testability	2011	-5.717852432042768	10.929503319287347	3993570
+3993645	EDA	new advances in path delay fault testing of combinational circuits	1994	-5.652192767360543	10.56114081070182	3993672
+3994835	EDA	simulation based test generation for scan designs	2000	-5.479370836314516	10.485451769060823	3994862
+3996883	EDA	on structural analysis and efficiency for graph-based rewiring techniques	2011	-5.947175979999412	10.426692671748876	3996910
+3996952	Arch	constructing a reliable test&set bit	1999	-5.4206533688490115	10.52777289229135	3996979
+3997546	EDA	emulation of scan paths in sequential circuit synthesis	1991	-5.625323484032565	10.426754604539989	3997573
+3997847	EDA	don't-care identification on specific bits of test patterns	2002	-5.806785636464483	10.977034832586227	3997874
+3998053	EDA	evolutionary design of polymorphic gates using ambipolar transistors	2016	-6.002038476202799	11.174565450484504	3998080
+3998142	EDA	an effective design for hierarchical test generation based on strong testability	2005	-5.842260727726425	10.774855137114955	3998169
+3999229	EDA	design-for-testability for functional broadside tests under primary input constraints	2016	-5.3857632464524725	11.276078271910414	3999256
+3999736	EDA	delay fault coverage increasing in digital circuits	2013	-5.651098095177001	11.227955654930263	3999763
+4000046	EDA	multi-pattern $n$-detection stuck-at test sets for delay defect coverage	2012	-5.574387954866705	10.727756801492703	4000073
+4000191	Theory	reduced-size signature-based diagnostic dictionary for interconnection testing	2010	-5.604239907916756	10.8296083538257	4000218
+4004228	EDA	the split boundary scan register technique for testing board interconnects	1992	-5.613779542019242	11.086273469784956	4004255
+4006527	EDA	generation of test patterns without prohibited pattern set	2004	-5.783602183554202	10.883557105605226	4006554
+4007039	Logic	efficient circuit specific pseudoexhaustive testing with cellular automata	2002	-5.76527845844122	10.639648121995043	4007066
+4007358	EDA	improving compressed test pattern generation for multiple scan chain failure diagnosis	2009	-5.368190632236827	11.095719774606819	4007385
+4008906	NLP	reencoding for cycle-time minimization under fixed encoding length	1998	-5.941579129565076	10.552244367299165	4008933
+4010127	EDA	on the fault coverage of delay fault detecting tests	1990	-5.575473714014113	11.165266955400613	4010154
+4010257	EDA	deterministic diagnostic pattern generation (ddpg) for compound defects	2008	-5.533894795866685	10.801410770783797	4010284
+4011801	EDA	logic synthesis for a regular layout	1999	-6.172619266307932	10.72739030598076	4011828
+4013023	EDA	as-robust-as-possible test generation in the presence of small delay defects using pseudo-boolean optimization	2011	-5.512546597084316	11.078486643136381	4013050
+4013555	EDA	functional tests for scan chain latches	1995	-5.307248005833191	11.229527350038856	4013582
+4013731	EDA	a global algorithm for the partial scan design problem using circuit state information	1996	-5.6851454691480745	10.399581360701237	4013758
+4013857	EDA	aliasing-free compaction in testing cores-based system-on-chip (soc) using compatibility of response data outputs	2004	-5.410623729566213	10.487152983590574	4013884
+4014604	Visualization	an algorithm for testing random access memories	1977	-6.159508445185004	11.098138979242933	4014631
+4015020	EDA	dc nonlinear circuit fault simulation with large change sensitivity	1998	-5.524279536463856	10.370089039933664	4015047
+4015779	EDA	path-delay-fault testability properties of multiplexor-based networks	1993	-5.789018644946054	10.468739797685027	4015806
+4017146	EDA	partially parallel scan chain for test length reduction by using retiming technique	1996	-5.757254349502541	11.020870255847337	4017173
+4018328	EDA	false path exclusion in delay analysis of rtl-based datapath-controller designs	1996	-5.581406269076006	10.859244436765687	4018355
+4018464	EDA	invalid state identification for sequential circuit test generation	1996	-5.492279526327011	10.416608588233123	4018491
+4019173	EDA	transition delay fault simulation with parallel critical path back-tracing and 7-valued algebra	2015	-5.4909609425161365	10.518177401958633	4019200
+4019909	EDA	reducing test-data volume using p-testable scan chains in circuits with multiple scan chains	2004	-5.495052530234594	11.22809909490688	4019936
+4020390	EDA	logical modeling of physical failures and their inherent syndrome testability in mos lsi/vlsi networks	1984	-5.716238723832723	10.83610866465752	4020417
+4020540	EDA	parity bit signature in response data compaction and built-in self-testing of vlsi circuits with nonexhaustive test sets	2003	-5.723722938784919	10.454253407461048	4020567
+4022767	EDA	nonscan design-for-testability techniques using rt-level design information	1997	-5.672059176857957	10.531466166951775	4022794
+4023604	Logic	static race verification for networks with reconvergent clocks	1998	-5.627994779407325	10.914293822972386	4023631
+4023776	SE	diagnosis by signature analysis of test responses	1994	-5.840498512128608	10.887525248603817	4023803
+4024358	EDA	x-alignment techniques for improving the observability of response compactors	2009	-5.6697090601538775	11.219070310186913	4024385
+4024598	EDA	multiple faults: modeling, simulation and test	2002	-5.414353324735166	10.712674950364494	4024625
+4025342	Embedded	propagation of transients along sensitizable paths	2008	-5.561345092530731	11.19040807313658	4025369
+4026448	EDA	built-in checking of the correct self-test signature	1986	-5.5727054371327975	11.003304278346938	4026475
+4027290	EDA	on the modeling of gate delay faults by means of transition delay faults	2011	-5.65987824226586	11.211019992924022	4027317
+4027418	EDA	improving diagnosis resolution of a fault detection test set	2015	-5.326492628697781	11.103085312383941	4027445
+4028183	EDA	an efficient test relaxation technique for synchronous sequential circuits	2003	-5.6136804580020145	10.827762776443269	4028210
+4028762	EDA	utilizing synthesis to verify boolean function models	2008	-5.8315700916686115	10.867999551337054	4028789
+4029822	EDA	combined optimization of area and testability during state assignment of pla-based fsm's	1995	-5.5662804836420685	11.172960732942748	4029849
+4030098	Arch	efficient msi partitioning for a digital computer	1970	-6.179880598670003	11.246379360096116	4030125
+4030307	EDA	low-cost ip core test using tri-template-based codes	2007	-5.568799085563303	11.251316905099838	4030334
+4030726	Mobile	sequential multi-valued network simplification using redundancy removal	1999	-6.259764910911873	10.414353304553382	4030753
+4030915	EDA	a same/different fault dictionary: an extended pass/fail fault dictionary with improved diagnostic resolution	2008	-5.571004336827703	10.62933720659132	4030942
+4031084	EDA	pbo-based test compression	2014	-5.621913812400863	10.843778517178388	4031111
+4031440	EDA	high-level partitioning of digital systems based on dynamically reconfigurable devices	2002	-5.3356029072018885	10.476740333600967	4031467
+4031456	EDA	fault simulation and test generation by fault sampling techniques	1992	-5.7042981930538765	10.706910637668443	4031483
+4036958	EDA	test pattern generator for delay faults	2007	-5.572184385282439	10.838668823160086	4036985
+4037598	EDA	selective low-care coding: a means for test data compression in circuits with multiple scan chains	2006	-5.8399870683749695	11.218502161151	4037625
+4041174	EDA	pdfs testing of combinational circuits based on covering robdds	2010	-5.654165848428191	10.714389276036304	4041201
+4041312	EDA	test pattern ordering and selection for high quality test set under constraints	2012	-5.471238440049486	11.002618534799089	4041339
+4041428	EDA	efficient techniques for fault detection and correction of reversible circuits	2017	-5.796737596696535	10.488673774264347	4041455
+4041883	EDA	using the nonlinear property of fsr and dictionary coding for reduction of test volume	2005	-5.895908435564048	10.913981594960775	4041910
+4041895	Arch	study on expansion of convolutional compactors over galois field	2008	-6.1747398768297295	10.884522299853998	4041922
+4042595	EDA	sizing analog circuits using an sqp and branch and bound based approach	2010	-6.196745493288642	10.524002181442356	4042622
+4042633	EDA	multiple errors detection technique for ram	2007	-5.8952537021458165	11.126051457658873	4042660
+4042776	EDA	exploration of optimal multi-cycle transient fault secured datapath during high level synthesis based on user area-delay budget	2015	-6.159164416401353	11.053982060499791	4042803
+4043301	EDA	on computing the sizes of detected delay faults	1990	-5.382642090673379	10.756219123426854	4043328
+4044351	Logic	partial-order correctness-preserving properties of delay-insensitive circuits	2001	-5.407332176583867	10.726141312113423	4044378
+4045674	EDA	multiple fault diagnosis in logic circuits using eb tester and multiple/single fault simulators	1999	-5.3591334739778755	10.850746229888609	4045701
+4047193	EDA	state assignment for initializable synthesis (gate level analysis)	1989	-5.526647367784941	10.457396189444742	4047220
+4049329	EDA	the atpg conflict-driven scheme for high transition fault coverage and low test cost	2009	-5.684592506032338	10.978181513049073	4049356
+4050027	EDA	revisiting response compaction in space for full-scan circuits with nonexhaustive test sets using concept of sequence characterization	2005	-5.648530251976013	10.46562601879865	4050054
+4050402	EDA	bounding signal probabilities in combinational circuits	1987	-5.5791685998931095	10.592746528700168	4050429
+4053093	EDA	circuit-level dictionaries of cmos bridging faults	1994	-5.406457964332462	11.01336740176652	4053120
+4053659	EDA	"""comments on """"fault diagnosis of mos combinational networks"""""""	1984	-5.376466545202472	10.435612152904769	4053686
+4053929	EDA	highly testable and compact 1-out-of-n code checker with single output	1998	-5.30543508914837	11.246081194904818	4053956
+4054161	EDA	performance macromodelling and optimization of regular vlsi structures	1991	-5.96000712256833	11.273425720389328	4054188
+4054181	EDA	a novel heuristic method for application-dependent testing of a sram-based fpga interconnect	2013	-6.148164383873283	11.044689769398975	4054208
+4054510	EDA	a symbolic inject-and-evaluate paradigm for byzantine fault diagnosis	2003	-5.378351639312027	10.331919380029262	4054537
+4054961	EDA	test set compaction algorithms for combinational circuits	1998	-5.763982906394983	10.55791618114641	4054988
+4055310	EDA	embedding test vectors in accumulator - based tpg using progressive search	2013	-6.2444784783506035	11.27632725894952	4055337
+4057740	EDA	fast evaluation of analog circuits using linear programming	2010	-5.804828877753482	10.511141009867163	4057767
+4059403	EDA	an efficient test relaxation technique for synchronous sequential circuits	2004	-5.628546739104132	10.82667693742418	4059430
+4060163	EDA	minimizing fpga reconfiguration data at logic level	2006	-5.758298167880973	11.099219219351822	4060190
+4061800	Arch	the design of two easily-testable vlsi array multipliers	1983	-6.124992897542838	10.809786811080981	4061827
+4062407	EDA	the extension of linear coding method for automated analog circuit design	2013	-6.108983267435358	10.437835364853296	4062434
+4062520	EDA	an efficient scan tree design for compact test pattern set	2006	-5.833198976281237	10.968879675781018	4062547
+4066357	EDA	an initialization process to support online testing based on output comparison for identical finite-state machines	2018	-5.45925246190551	10.625055840418511	4066384
+4066934	SE	realizing a high measure of confidence for defect level analysis of random testing [vlsi]	1995	-5.34871418815008	11.075736291411667	4066961
+4069143	SE	compact test generation for bridging faults under i/sub ddq/ testing	1995	-5.798509774773513	10.658699361855934	4069170
+4069702	EDA	tov: sequential test generation by ordering of test vectors	2010	-5.810861194834423	10.485274251581416	4069729
+4071046	EDA	a new approach to solving false path problem in timing analysis	1991	-5.478561507425356	10.488144803687968	4071073
+4071153	EDA	design of aliasing free space compressor in bist with maximal compaction ratio using concepts of strong and weak compatibilities of response data outputs and generalized sequence mergeability	2002	-6.038553899343523	10.688294310298302	4071180
+4072789	Arch	ternary logic in digital computers	1965	-5.655876360096665	11.11113908194225	4072816
+4073631	EDA	robdd based path delay fault testable combinational circuit synthesis	2016	-5.574491229276391	10.983713216886748	4073658
+4074209	EDA	a new framework for static timing analysis, incremental timing refinement, and timing simulation	2000	-5.551692488370112	10.435437114686497	4074236
+4077137	EDA	diagnosis for bridging faults on clock lines	2012	-5.46841314234929	10.752685600334749	4077164
+4077846	EDA	exact delay fault coverage in sequential logic under any delay fault model	2006	-5.617547905623591	11.194563160687444	4077873
+4078711	EDA	a postprocessing procedure to reduce the number of different test lengths in a test set for scan circuits	2001	-5.752509350285216	10.752444621085685	4078738
+4079073	EDA	redundant via insertion based on sca	2016	-5.764626153168933	10.908156894064113	4079100
+4082098	Logic	test generation for stuck-on faults in bdd-based pass-transistor logic spl	1997	-5.576571481984801	10.608373589014938	4082125
+4082329	EDA	analog layout constraints resolution and shape function generation using satisfiability modulo theories	2015	-5.663903434825152	10.789057388741828	4082356
+4082926	EDA	derivation of automatic test set for detection of missing gate faults in reversible circuits	2011	-5.4338645857014	10.70176174957546	4082953
+4083063	EDA	methodologies for testing embedded content addressable memories	1988	-5.749494621791617	10.925953831543538	4083090
+4086092	EDA	reverse-order-restoration-based static test compaction for synchronous sequential circuits	2003	-5.7051511506829655	10.494475033699656	4086119
+4086193	EDA	methods to reduce test application time for accumulator-based self-test	1997	-5.678362836383156	11.164760930354962	4086220
+4088038	EDA	the optimistic update theorem for path delay testing in sequential circuits	1993	-5.5373264204341615	10.689690376975637	4088065
+4088562	Robotics	behavioral-test generation using mixed-integer non-linear programming	1994	-5.436384507186063	10.61600492124731	4088589
+4089051	EDA	diagnosis of analog circuits by using multiple transistors and data sampling	2008	-5.37884718111814	11.196816776852673	4089078
+4089141	Theory	fault masking probabilities with single and multiple signature analysis	1989	-5.825245968926947	10.584433004827966	4089168
+4089298	EDA	a new model for computation of probabilistic testability in combinational circuits	1989	-5.8833264974210655	10.333759863412878	4089325
+4089461	EDA	study on test data reduction combining illinois scan and bit flipping	2008	-5.952506019767005	11.101239270907511	4089488
+4089767	EDA	a family of logical fault models for reversible circuits	2005	-5.919225490030168	10.739410210803799	4089794
+4090783	EDA	analysis of iddq detectable bridges in combinational cmos circuits	1994	-5.4816055310761485	10.873015400037488	4090810
+4092714	NLP	a new weight set generation algorithm for weighted random pattern generation	1999	-5.846392179157598	10.698526043007844	4092741
+4092966	EDA	locstep: a logic-simulation-based test generation procedure	1997	-5.687396585300503	10.552596474563137	4092993
+4094586	EDA	a path delay fault simulator for sequential circuits	1993	-5.601463500897572	10.852264310710328	4094613
+4095561	EDA	on redundancy and fault detection in sequential circuits	1979	-5.506078400220126	10.597067711489354	4095588
+4096122	EDA	a method of fault analysis for test generation and fault diagnosis	1988	-5.5582374521704185	10.471771782321197	4096149
+4096654	EDA	hierarchical delay test generation	1997	-5.2998757667892304	10.655824136129107	4096681
+4098515	EDA	testing configurable lut-based fpgas	2000	-5.623665500445909	11.15022376397618	4098542
+4101004	SE	when optimized n-detect test sets are biased: an investigation of cell-aware-type faults and n-detect stuck-at atpg	2014	-5.3565997215803245	10.888124515838859	4101031
+4101092	EDA	diagnosis of a soft short and local variations of parameters occurring simultaneously in analog cmos circuits	2017	-5.373179942376027	10.532184011229328	4101119

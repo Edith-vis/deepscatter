@@ -1,0 +1,816 @@
+id	area	title	year	x	y	ix
+3169638	SE	structure and chance: melding logic and probability for software debugging	1995	10.625919576263843	6.046909257390696	3169665
+3169724	SE	macro-level software evolution: a case study of a large software compilation	2008	10.892399656345491	5.778947087964243	3169751
+3169985	SE	populating a release history database from version control and bug tracking systems	2003	11.070842036974918	5.554732537130069	3170012
+3175100	SE	methods for selecting and improving software clustering algorithms	2014	10.317694491089794	6.195839480303704	3175127
+3175321	SE	efficiency of software testing techniques: a controlled experiment replication and network meta-analysis	2017	11.114428501795027	5.861666191040222	3175348
+3177598	Crypto	taxonomy of source code security defects based on three-dimension-tree	2013	10.491698827501802	6.2811428695325375	3177625
+3178564	SE	towards the characterization of monitor smells in adaptive systems	2016	11.067659140117154	6.0812544548264125	3178591
+3179898	SE	bug classification using program slicing metrics	2006	10.305179282250515	5.5390309168650695	3179925
+3180113	SE	"""ir-based traceability recovery processes: an empirical comparison of """"one-shot"""" and incremental processes"""	2008	10.510128125602748	5.997794812984898	3180140
+3180460	SE	mining source codes to guide software development	2010	10.230376902240767	5.966688098047268	3180487
+3181735	SE	extraction and analysis of crucial fraction in software networks	2014	10.834427686564029	6.039206302291	3181762
+3183457	SE	rule-based assessment of test quality	2007	10.987370426649491	6.439510108495302	3183484
+3184801	SE	search-based approaches for software module clustering based on multiple relationship factors	2017	10.59748052192964	6.366020723935809	3184828
+3185121	SE	toward automatically quantifying the impact of a change in systems	2016	10.864973112112267	6.438161609944115	3185148
+3186054	SE	ecity: a tool to track software structural changes using an evolving city	2013	10.32966666385528	5.790436286080192	3186081
+3187704	SE	using association rules to study the co-evolution of production & test code	2009	10.82793278594074	6.479220414871381	3187731
+3188564	SE	investigating the relation between lexical smells and change- and fault-proneness: an empirical study	2016	10.706214269738922	5.742969522005786	3188591
+3188606	SE	seanets: software evolution analysis with networks	2012	10.701975732507984	5.932068154511299	3188633
+3189234	SE	an empirical validation of the benefits of adhering to the law of demeter	2011	10.919137746650698	5.703367415304348	3189261
+3192395	SE	towards triaging code-smell candidates via runtime scenarios and method-call dependencies	2017	10.494406307898736	6.283159904559821	3192422
+3195054	SE	discovering comprehension pitfalls in class hierarchies	2009	10.311174669616307	6.243563676327248	3195081
+3196320	SE	smurf: a svm-based incremental anti-pattern detection approach	2012	10.310690882080412	6.00292148751965	3196347
+3198728	Theory	complexity of algorithms and software metrics.	2003	10.746800673586023	5.857856896939981	3198755
+3198935	NLP	validity and reliability of web accessibility guidelines	2009	10.320703526302607	6.15207569359016	3198962
+3200103	NLP	empirical investigation of sea-based dependence cluster properties	2013	10.463909396881617	5.841211710587995	3200130
+3201132	Robotics	log file analyzing in intelligent transportation systems development	2016	11.010270419286664	6.218055099570066	3201159
+3202426	SE	clone removal: fact or fiction?	2010	10.55529613676144	5.7699177344257375	3202453
+3203921	Logic	an empirical study of goto in c code	2015	10.428011918651118	5.6520766584071644	3203948
+3204394	SE	criticality of defects in cyclic dependent components	2013	11.100364939144699	6.0560565690231725	3204421
+3205521	SE	detecting groups of co-changing files in cvs repositories	2005	10.267598796857827	6.115456861668358	3205548
+3207331	Robotics	experimenting the influence of numerical thresholds on model-based detection and refactoring of performance antipatterns	2013	10.904605029537606	6.350888102600048	3207358
+3207856	SE	finding the right needles in hay helping program comprehension of large software systems	2015	10.360914659066935	5.808813580707438	3207883
+3208162	SE	the inconsistent measurement of message chains	2013	10.847558810547735	5.829462370323544	3208189
+3208180	SE	measuring size, complexity, and coupling of hypergraph abstractions of software: an information-theory approach	2006	10.755871440196335	6.061951031026702	3208207
+3208636	SE	navigating through the archipelago of refactorings	2015	10.683205501189901	6.1863329873383135	3208663
+3211144	SE	a unifying object-oriented analysis and modeling approach and its tool support	1992	10.528637872278047	6.207366712131704	3211171
+3212086	SE	development nature matters: an empirical study of code clones in javascript applications	2015	10.247521164941345	5.742205687968707	3212113
+3214797	SE	reinforcement learning for automatic test case prioritization and selection in continuous integration	2017	10.328911391266496	6.47716109923238	3214824
+3215175	SE	a systematic mapping of literature on software refactoring tools	2018	10.380185260483634	6.058663217534815	3215202
+3216445	SE	explaining software defects using topic models	2012	10.803049139076476	5.9067278434478725	3216472
+3216451	SE	insights into system-wide code duplication	2004	10.731633491513472	6.096313708158282	3216478
+3216521	SE	a tracelab-based solution for creating, conducting, and sharing feature location experiments	2012	10.515736402939547	5.997374312904396	3216548
+3216796	SE	software engineering: redundancy is key	2015	11.068964434058476	5.864321359764242	3216823
+3218046	SE	an automatic approach to identify class evolution discontinuities	2004	10.203187878350093	6.011180972776077	3218073
+3218748	SE	a comparative analysis of maintainability approaches for web applications	2006	10.917765867531926	6.070368271265775	3218775
+3220842	SE	refining code ownership with synchronous changes	2010	10.336683958330527	5.890950181126829	3220869
+3221392	SE	discovering and representing systematic code changes	2009	10.993747297616252	5.712875358729872	3221419
+3221598	SE	requirements analysis tool: a tool for automatically analyzing software requirements documents	2008	10.834991464396362	6.110099416603037	3221625
+3223417	SE	interrelating use cases and associated requirements by links: an eye tracking study on the impact of different linking variants on the reading behavior	2018	10.826518856230958	5.5998570329784405	3223444
+3225227	SE	effect of clone information on the performance of developers fixing cloned bugs	2014	10.502255184291355	5.722300023872676	3225254
+3225304	SE	an analysis of bug distribution in object oriented systems	2009	10.589883250821998	6.004650748630774	3225331
+3225318	SE	continuous system and user documentation integration	2014	10.935370253112364	6.2786678106359375	3225345
+3227735	SE	revisiting exception handling practices with exception flow analysis	2017	10.445898067931294	5.946995428034514	3227762
+3230849	SE	revealing missing bug-fixes in code clones in large-scale code bases	2013	10.20688954980832	6.007784989910486	3230876
+3234657	SE	improving predictive models of software quality using an evolutionary computational approach	2007	10.734527227185637	5.708555166802676	3234684
+3235067	SE	extracting change-patterns from cvs repositories	2006	10.320305239221254	5.533153277017555	3235094
+3235422	SE	exploring the effects of history length and age on mining software change impact	2016	11.081528628154194	5.691181022647982	3235449
+3236760	SE	understanding class-level testability through dynamic analysis	2014	11.105681715493493	6.196099702045156	3236787
+3236918	SE	an exploratory study of the state of practice of performance testing in java-based open source projects	2017	10.909151802463457	5.992897368045447	3236945
+3237183	SE	user-driven adaptation of model differencing results	2014	10.715211342637105	6.3677665750785435	3237210
+3237623	SE	driving software quality: how test-driven development impacts software quality	2006	10.558432458237302	6.364694947879468	3237650
+3238887	SE	estimation of degree of connectivity to predict quality of software design	2016	11.095782241730838	6.407049059063525	3238914
+3242920	SE	metrics for measuring the quality of object-oriented software	2013	11.08282255398732	6.370839915748343	3242947
+3243052	SE	study and metric on macro-topology characteristic values of software networks	2011	11.050015448493008	5.900291725315928	3243079
+3243783	SE	a network perspective on software modularity	2012	10.875458408880286	6.093830710699023	3243810
+3244443	SE	evaluating clone detection techniques from a refactoring perspective	2004	10.423053946822018	6.037984290317633	3244470
+3244491	SE	impact of refactoring on quality code evaluation	2011	10.711955129632923	6.198206388882527	3244518
+3246519	SE	identifying stagnation periods in software evolution by replaying editing operations	2009	10.722879822857289	5.9534170816405405	3246546
+3248461	SE	how the use of design patterns affects the quality of software systems: a preliminary investigation	2017	10.809149484159207	6.142654325440311	3248488
+3249351	SE	are fit tables really talking?	2008	10.970637924190488	6.468362900186758	3249378
+3250465	SE	network-based analysis of the structure and evolution of an open source software product	2012	10.938453830127866	5.969019108039148	3250492
+3251339	SE	how slim will my system be?: estimating refactored code size by merging clones	2018	10.566857033855133	5.723726736588733	3251366
+3254996	SE	identifying duplicate functionality in textual use cases by aligning semantic actions (sosym abstract)	2015	10.719019464114806	6.4706164610192	3255023
+3258157	SE	use of a genetic algorithm to identify source code metrics which improves cognitive complexity predictive models	2007	10.759688424772436	5.582386830406478	3258184
+3260091	SE	closed source versus open source in a model of software bug dynamics	2003	10.896163304271283	5.692518298706406	3260118
+3260550	SE	root cause analysis using sequence alignment and latent semantic indexing	2008	10.733368029012377	6.206138255321621	3260577
+3262968	SE	prioritization of classes for refactoring: a step towards improvement in software quality	2015	10.814839792576663	6.074976833238139	3262995
+3263259	Theory	principles for testing polynomial zerofinding programs	1975	10.180719908377764	6.4655374986518375	3263286
+3264854	HCI	pragmatic formal design: a case study in integrating formal methods into the hci development cycle	1998	10.749691007733762	5.859676900155603	3264881
+3265104	ML	measuring and improving the completeness of natural language requirements	2014	10.846638041365788	6.450521118478208	3265131
+3265961	SE	extracting code clones for refactoring using combinations of clone metrics	2011	10.250490639054394	5.7516995841087715	3265988
+3268023	SE	a theoretical and empirical analysis of three slice-based metrics for cohesion	2010	11.121781829391718	5.8826546440551475	3268050
+3269868	SE	aggregating association rules to improve change recommendation	2017	11.045166036953592	5.550782348291841	3269895
+3270551	SE	detecting defects with an interactive code review tool based on visualisation and machine learning	2009	10.205867748158173	5.77256564666476	3270578
+3272095	SE	use case to source code traceability: the developer navigation view point	2009	11.01057281580865	6.069140562904312	3272122
+3272351	SE	advances in gui testing	2003	10.479008136507547	6.0549070206070335	3272378
+3274157	SE	revisiting class cohesion: an empirical investigation on several systems	2008	10.912611775028353	6.0570467448945	3274184
+3275110	SE	uml models change impact analysis using a text similarity technique	2017	10.36770701322335	5.592808005075423	3275137
+3278067	Vision	application of data-centered approach to year 2000 problem	1997	10.524626590038087	6.273029441927644	3278094
+3278347	SE	supporting developers in porting software via combined textual and structural analysis of software artifacts	2015	10.454790694964801	5.754041518214509	3278374
+3278615	SE	identifying refactoring sequences for improving software maintainability	2012	10.280827650214388	6.185268327251613	3278642
+3278845	Security	the rising threat of vulnerabilities due to integer errors	2003	10.446307220576845	5.914182261291562	3278872
+3279114	SE	exploring software evolution using spectrographs	2004	10.588403838021497	5.954116244993457	3279141
+3281423	SE	when qualityassistant meets pharo: enforced code critiques motivate more valuable rules	2016	10.609794429163076	6.221800493348648	3281450
+3282653	SE	experimental evaluation of software design principles: an investigation into the effect of module coupling on system modifiability	1984	10.82518551069602	6.29069919426731	3282680
+3283000	SE	smartunit: empirical evaluations for automated unit testing of embedded software in industry	2017	10.222161060374443	6.240421605509544	3283027
+3283544	SE	using lattice of class and method dependence for change impact analysis of object oriented programs	2011	10.561658368587267	6.165491162226324	3283571
+3283598	SE	towards a prioritization of code debt: a code smell intensity index	2015	10.833170940294409	5.6411040534663925	3283625
+3284058	Logic	relationship between cohesion and coupling metrics for object-oriented systems	2018	10.845665365759947	6.1494107655322985	3284085
+3284328	SE	network motifs in object-oriented software systems	2007	10.894881000856866	6.0706840644571285	3284355
+3284754	SE	a bug rule based technique with feedback for classifying bug reports	2011	10.471867566826344	5.721802017880553	3284781
+3285592	SE	a study of the characteristics of behaviour driven development	2011	10.514392446263217	6.292664374808773	3285619
+3286061	SE	assessing semistructured merge in version control systems: a replicated experiment	2015	10.256661827943596	5.536955648231863	3286088
+3286968	SE	an empirical assessment of the use of execution traces in software maintenance	2011	10.979940766229703	5.614747932063368	3286995
+3287304	SE	mining the categorized software repositories to improve the analysis of security vulnerabilities	2014	10.459502050042893	5.656502199083088	3287331
+3288599	SE	prometeu - a tool to support documents generation and traceability in the test process	2008	11.077080430625491	6.190496684873548	3288626
+3290006	SE	clustering software metric values extracted from c# code for maintainability assessment	2016	10.930354477962949	6.003255987962544	3290033
+3290702	SE	how developers use exception handling in java?	2016	10.614000175826485	5.758259516293233	3290729
+3291913	HCI	using a metasystem approach to support and study the design process	1993	10.470205430448203	5.93316805447407	3291940
+3294436	SE	the uniqueness of changes: characteristics and applications	2015	10.674255015539382	5.737202555084921	3294463
+3296409	SE	the evolution of data races	2012	10.243663941501822	6.064560414392396	3296436
+3298143	SE	software reliability modeling with test coverage: experimentation and measurement with a fault-tolerant software project	2007	10.825726803582556	6.204388220351367	3298170
+3298349	SE	predicting consistent clone change	2016	10.617907159898984	5.846497732277559	3298376
+3300267	SE	devan: a tool for detailed video analysis of user test data	2002	10.270039373250949	6.254669731103916	3300294
+3301029	PL	predicting fault-prone classes with design measures in object-oriented systems	1998	10.698700764044137	6.089225994215241	3301056
+3301282	SE	tracking defect warnings across versions	2006	10.291911572850982	6.003258484704647	3301309
+3302082	SE	model-based exploratory testing: a controlled experiment	2014	10.811401377343676	5.881139209040973	3302109
+3302843	SE	an empirical study of supplementary patches in open source projects	2016	10.262791531884721	5.6031539215579125	3302870
+3304892	SE	testing scientific programs	2012	11.032111981148008	6.016994514444564	3304919
+3305959	SE	useful, but usable? factors affecting the usability of apis	2011	11.10954434047262	5.6085126400639576	3305986
+3306100	SE	measuring class cohesion based on dependence analysis	2004	10.51498927200198	6.206106679612919	3306127
+3306730	SE	empirical studies on software evolution: should we (try to) claim causation?	2010	11.055289587064841	5.663303362969155	3306757
+3306965	SE	identification of non-functional requirements in textual specifications: a semi-supervised learning approach	2010	11.022065279290494	5.9732550408184855	3306992
+3308876	DB	a taxonomy of oo classes to support the mapping of testing techniques to a class	2005	10.477636587190425	5.936056430612664	3308903
+3309633	SE	applying assemble clustering algorithm and fault prediction to test case prioritization	2016	10.468625287915508	5.662345808955719	3309660
+3312210	SE	reproducing software failures by exploiting the action history of undo features	2014	10.5519502500151	5.8570748443798015	3312237
+3312620	OS	nchecker: saving mobile app developers from network disruptions	2016	10.502975717907287	5.638388375014322	3312647
+3313913	SE	program execution-based module cohesion measurement	2001	10.338876628474344	6.285417975111987	3313940
+3316533	SE	on the existence of high-impact refactoring opportunities in programs	2012	10.3496366029793	6.38516154434791	3316560
+3319261	SE	maximising the information gained from a study of static analysis technologies for concurrent software	2007	10.991100679734993	6.086741760661532	3319288
+3325500	SE	evaluating the efficiency of continuous testing during test-driven development	2018	10.294584231370546	5.944951043381928	3325527
+3325723	SE	the role of refactorings in api evolution	2005	10.320962112252932	5.9616473640567405	3325750
+3326200	SE	guilty or not guilty: using clone metrics to determine open source licensing violations	2011	10.311451556606528	5.775598101212976	3326227
+3326294	SE	adaptive model-driven user interface development systems	2014	11.067506560835538	5.826276557199714	3326321
+3331183	SE	the palladio-bench for modeling and simulating software architectures	2018	10.586451624754522	6.46382549110101	3331210
+3331327	SE	predicting change consistency in a clone group	2017	10.607731661429149	5.911579492869676	3331354
+3332829	SE	quality improvements for trace links between source code and requirements	2016	10.817048924752948	5.5446533038186105	3332856
+3333357	Web+IR	an improved approach to the recovery of traceability links between requirement documents and source codes based on latent semantic indexing	2013	10.278262579893383	5.725621399932232	3333384
+3333809	SE	predicting the probability of change in object-oriented systems	2005	10.911703233910279	6.0235656110758855	3333836
+3334228	SE	there and back again: can you compile that snapshot?	2017	10.368031102058675	5.769613396307247	3334255
+3334689	Arch	probabilistic evaluation of object-oriented systems	2004	10.775992287741628	6.291817746772032	3334716
+3335636	SE	automatically adding missing libraries to java projects to foster better results from static analysis	2017	10.312033600903124	6.4796213938664105	3335663
+3335896	SE	on the relationship between comment update practices and software bugs	2012	10.656561990523812	5.601273662328539	3335923
+3337844	SE	software clustering: unifying syntactic and semantic features	2012	10.260788039773335	6.188424071688701	3337871
+3338023	SE	discovering maintainability changes in large software systems	2017	10.47354184935399	5.799058097126484	3338050
+3338788	SE	prevalence and maintenance of automated functional tests for web applications	2014	10.260254508965584	6.162299401239233	3338815
+3339120	Visualization	statement-level cohesion metrics and their visualization	2007	10.270976820762405	6.166025694196043	3339147
+3342278	SE	an insight into the dispersion of changes in cloned and non-cloned code: a genealogy based empirical study	2014	10.6892769096079	5.786426828619286	3342305
+3343378	SE	towards a benchmark for traceability	2011	11.031937444178114	6.228563649523323	3343405
+3344446	SE	stability of cobol clones	2011	10.649756493042199	5.876104352597745	3344473
+3345007	SE	detection of rest patterns and antipatterns: a heuristics-based approach	2014	10.502950150009283	5.580143430228355	3345034
+3346339	SE	a quantitative and qualitative investigation of performance-related commits in android apps	2016	10.813896727596784	5.547669965315665	3346366
+3347508	SE	assessing the relationship between software assertions and faults: an empirical investigation	2006	11.005589281329572	5.8029192411533215	3347535
+3348836	SE	[research paper] towards anticipation of architectural smells using link prediction techniques	2018	10.598333001031154	6.084597771963633	3348863
+3348908	SE	a novel approach to super quality software development using workflows	2016	10.577309007968989	6.200095390780327	3348935
+3350985	HCI	communication as a means to differentiate objects, components and agents	1999	10.23059780705559	5.657582983876232	3351012
+3351266	SE	test prioritization in continuous integration environments	2018	10.394727289367394	5.8564892318474255	3351293
+3352496	SE	do background colors improve program comprehension in the #ifdef hell?	2012	10.373652385986162	5.9818401363368725	3352523
+3353554	SE	linux kernels as complex networks: a novel method to study evolution	2009	10.702015367364908	5.819180629639479	3353581
+3356595	SE	empirical evaluation of software maintainability based on a manually validated refactoring dataset	2018	11.01385662856239	5.684768661009982	3356622
+3357765	SE	a probabilistic neural network-based approach for related software changes detection	2014	10.516286568162068	5.68451890040447	3357792
+3358682	SE	evaluating the extended refactoring guidelines	2012	10.533075825190746	6.127447765159322	3358709
+3358838	SE	estimation of software reusability: an engineering approach	2010	10.763469118448906	6.303235212115114	3358865
+3358980	SE	what is wrong with the transmission? a comprehensive study on message passing related bugs	2015	10.449773814731518	5.891344446076461	3359007
+3360844	SE	the effect of import change in software change history	2014	10.355538881655985	5.796889922604611	3360871
+3361231	SE	do android developers neglect error handling? a maintenance-centric study on the relationship between android abstractions and uncaught exceptions	2018	10.38773236159485	5.9367415755301245	3361258
+3361269	SE	clustering software developer repository accesses with the cophenetic distance	2016	10.252773921633	6.048045022407303	3361296
+3361648	SE	ticket coverage: putting test coverage into context	2017	11.107918391224251	6.0624810222423395	3361675
+3361661	SE	evaluation techniques for improving the quality of very large software systems in a cost-effective way	1999	11.088611906652302	6.4181452593792105	3361688
+3363115	SE	a simple predictive method for discriminating costly classes using class size metric	2005	10.445132696324483	6.054458876904253	3363142
+3365077	SE	linking design model with code	2016	10.208334858505749	5.611832302389605	3365104
+3365669	PL	on the benefits of quantification in aspectj systems	2010	10.395598579531924	6.378016924441601	3365696
+3367297	SE	extracting facts from open source software	2004	10.786978704882104	6.025145254376631	3367324
+3368091	SE	understanding and addressing exhibitionism in java empirical research about method accessibility	2015	10.575878474812447	5.710103352521696	3368118
+3369306	SE	what works better? a study of classifying requirements	2017	10.928164980136843	5.8066182263263535	3369333
+3370096	SE	evaluation and comparison of cognitive complexity measure	2007	10.90348160226598	5.8082828971102956	3370123
+3372529	SE	scaling continuous integration	2004	11.070218070641243	6.3369695244987865	3372556
+3373588	Security	evaluating fuzz testing	2018	10.369391715448222	5.895450101155846	3373615
+3374031	OS	is cloned code older than non-cloned code?	2011	10.749684219404127	5.590928966205625	3374058
+3375548	SE	jfat: an automation framework for web application testing	2018	10.614181085104887	6.274833409047719	3375575
+3376699	SE	blending conceptual and evolutionary couplings to support change impact analysis in source code	2010	10.589036400885893	5.957708931565057	3376726
+3377331	OS	complexity measurement of electronic switching system (ess) software	1982	10.941215280352287	6.003423999191319	3377358
+3379776	SE	mutant quality indicators	2018	10.904819180809287	5.8573363377548295	3379803
+3380381	SE	a machine learning approach for determining the validity of traceability links	2017	10.371404206056235	5.614356828145949	3380408
+3383391	Embedded	holistic concept for embedded multifunction display sw specification from the maintenance point of view	2013	10.37720858052348	6.285084760637324	3383418
+3385641	SE	defining and validating a client-based cohesion metric for object-oriented classes	2017	10.810655862888794	6.420700965374572	3385668
+3386511	SE	a comprehensive empirical validation of design measures for object-oriented systems	1998	10.723725279467246	6.145398143305356	3386538
+3390353	SE	early size prediction for c and pascal programs	1996	10.686345151052326	5.844116383338231	3390380
+3390452	Embedded	kieler: building on automatic layout for pragmatics-aware modeling	2013	10.275619500292873	5.560764888075956	3390479
+3390724	HPC	optimization of the issues in the migration from android native to hybrid application: case study of student's portal application	2014	10.951969789127642	5.878640821852615	3390751
+3391661	SE	an empirical study on the characteristics of python fine-grained source code change types	2016	10.726708417487904	5.872583007833812	3391688
+3391741	SE	the effect of method origin on method invocation fault frequency	2014	10.428445390245717	5.801239908671821	3391768
+3393205	SE	software engineering for adaptive hypermedia systems: reference model, modeling techniques and development process	2001	10.453603413015994	5.699953335494312	3393232
+3393556	SE	why power laws? an explanation from fine-grained code changes	2015	10.92106535913908	5.918611674190028	3393583
+3395384	Arch	correlations between internal software metrics and software dependability in a large population of small c/c++ programs	2007	10.945032870034387	5.6746818750476695	3395411
+3397702	HCI	breaking the barriers to successful refactoring: observations and tools for extract method	2008	10.62381630970118	5.624838487385807	3397729
+3397749	SE	analyzing software evolution and quality by extracting asynchrony change patterns	2017	10.846238668540359	5.774099620419161	3397776
+3398371	SE	polymetric views - a lightweight visual approach to reverse engineering	2003	10.375881545399928	6.3972683339530985	3398398
+3398679	SE	empirical studies on the functional complexity of software in large-scale software systems	2011	11.140498224325924	5.898424740954332	3398706
+3399130	SE	does an 80:20 rule apply to java coupling?	2009	10.962211415362868	5.773127820843874	3399157
+3399134	SE	investigation into the exploitation of object-oriented features	2004	10.858312572017944	6.000171151409017	3399161
+3400973	SE	empirical metadata maintenance in source code development process	2015	10.9495388694609	6.030130770237191	3401000
+3402503	SE	how to aggregate software metrics?	2012	10.920501936011936	5.653106334129548	3402530
+3403986	SE	exploring the composition of unit test suites	2008	10.660228703290906	6.470097483180483	3404013
+3405323	SE	a context-driven development methodology for context-aware systems	2011	10.859177690278113	5.739244627433598	3405350
+3408074	SE	an understandability metrics for object oriented programs	2000	11.125779807217436	6.054101127890519	3408101
+3408222	SE	evaluating checklist-based and use-case-driven reading techniques as applied to software analysis and design uml artifacts	2003	10.867969828188636	5.812805325529128	3408249
+3408429	SE	change bursts as defect predictors	2010	11.138348515224273	5.550784729181059	3408456
+3411467	Logic	some architectural features of ada systems affecting defects	2003	10.847201062133868	6.160011164667416	3411494
+3415552	SE	evaluation of the effect of functional similarities on development effort	2008	10.78583282368879	5.869216397498225	3415579
+3418531	SE	time-leverage point detection for time sensitive software maintenance	2012	10.306005158324425	6.1953546413787315	3418558
+3419956	SE	measuring levels of abstraction in software development	2011	10.943439913717684	5.599948730900747	3419983
+3422665	SE	analyzing measurements of the r statistical open source software	2012	11.081629280051805	5.7432770355038265	3422692
+3424025	SE	automated clustering to support the reflexion method	2007	10.380143188727533	6.232990041663246	3424052
+3428359	SE	an entropy-based approach to assessing object-oriented software maintainability and degradation - a method and case study	2006	11.101512932253312	5.618077259506407	3428386
+3428471	SE	software verification and validation in practice and theory (position statement)	1978	11.128266483867142	5.918279042954202	3428498
+3429678	HCI	using information in task models to support design of interactive safety-critical applications	2000	10.570257480793213	6.208116803098803	3429705
+3431979	SE	sensitivity of reliability-growth models to operational profile errors vs. testing accuracy [software testing]	1996	10.610561768686074	5.9730121821109465	3432006
+3432714	SE	a formal evaluation of depdegree based on weyuker's properties	2014	11.11393425529752	6.328534175594183	3432741
+3433088	SE	tagging requirements for web application	2012	11.07610685100556	6.198389926642684	3433115
+3433821	SE	structure and interpretation of computer programs	2008	10.348783170371279	6.198217473433582	3433848
+3434494	SE	complex network model for software system and complexity measurement	2009	10.796908510619557	6.070993686972518	3434521
+3436357	PL	a comparison of five programming languages in a graph clustering scenario	2013	10.228123282837851	6.113339660044166	3436384
+3438550	Robotics	experience using an expert system to assist an architect in designing for modifiability	2004	10.372735618315051	5.839613278161231	3438577
+3438788	SE	an empirical study into the relationship between class features and test smells	2016	11.005668852527185	5.632810125391273	3438815
+3440119	SE	complexity measures for software engineering	2005	10.720247796165994	5.840351826266432	3440146
+3443380	SE	are the clients of flawed classes (also) defect prone?	2011	10.963977585982883	5.742820484090526	3443407
+3443578	SE	a cohesion measure for classes in object-oriented systemsyong rae kwon	1998	10.50924933557302	6.413608446909285	3443605
+3444185	SE	devis: a tool for visualizing software document evolution	2013	10.668932642273763	5.959188984918209	3444212
+3445106	SE	software engineering	1975	10.384882256975482	6.3010508492113475	3445133
+3445815	HCI	a generic tool-supported framework for coupling task models and interactive applications	2015	10.597978309846164	5.749352598449284	3445842
+3446816	SE	a systematic framework for evaluating hyperlink validity in web environments	2003	10.308239791305011	6.2392962845694315	3446843
+3448209	SE	empirically detecting false test alarms using association rules	2015	10.669395596264227	5.906680845368682	3448236
+3449813	SE	relation between source code metrics and structure analysis metrics	1991	10.198067313898829	5.691608400351052	3449840
+3450376	SE	sol mantra: visualizing update opportunities based on library coexistence	2017	10.357827419376404	5.916789231613411	3450403
+3451845	SE	effects of class imbalance in test suites: an empirical study of spectrum-based fault localization	2012	10.6850759909824	5.581367421259161	3451872
+3457767	DB	a modified yule process to model the evolution of some object-oriented system properties	2011	10.75372439857879	6.041831691834796	3457794
+3459051	SE	automatic identification of component roles in software design networks	2018	10.797729153975613	6.0318074397931145	3459078
+3460377	Robotics	specifying internal, external, and predictive software metrics	1991	11.083013443691001	6.445711298739004	3460404
+3464096	SE	reducing program comprehension effort in evolving software by recognizing feature implementation convergence	2007	10.211875566419373	5.817841010961472	3464123
+3465190	SE	a metrics suite for static structure of large-scale software based on complex networks	2008	10.895177587789268	6.123552038171525	3465217
+3465288	SE	a framework for reverse engineering large c++ code bases	2009	10.316586305338287	6.096613479776441	3465315
+3468701	SE	topology analysis of software dependencies	2007	10.203331344993133	6.020308373405162	3468728
+3471179	SE	an empirical investigation into code smell elimination sequences for energy efficient software	2016	10.521255689067353	6.295839580244631	3471206
+3472062	SE	on the analysis of co-occurrence of anti-patterns and clones	2017	10.955231491516068	5.688297844188298	3472089
+3473079	SE	automated test input generation for android: are we there yet? (e)	2015	10.237374952197657	6.103783563973491	3473106
+3473116	SE	a second replicated quantitative analysis of fault distributions in complex software systems	2013	11.024544347687756	5.733684218144103	3473143
+3475154	SE	automated documentation inference to explain failed tests	2011	10.872916072149412	5.67249296064854	3475181
+3475420	SE	adoption of software testing in open source projects--a preliminary study on 50,000 projects	2013	10.794998756560238	5.927973559676536	3475447
+3477624	SE	adaptive random testing for image comparison in regression web testing	2014	10.610218415182448	6.123873455075676	3477651
+3478279	PL	does size matter?: a preliminary investigation of the consequences of powerlaws in software	2010	10.899867847050745	5.893665325480598	3478306
+3478749	SE	comente+: a tool for improving source code documentation using information retrieval	2014	10.198514176301694	5.642257584049966	3478776
+3479152	SE	recommending automated extract method refactorings	2014	10.62945693966351	5.6215617982663515	3479179
+3486221	SE	on experimenting refactoring tools to remove code smells	2015	10.8212969872069	6.263582536646664	3486248
+3486234	SE	exploring the relationship between cumulative change and complexity in an open source system	2005	10.938599030450067	5.619791532024405	3486261
+3487232	SE	understanding the exception handling strategies of java libraries: an empirical study	2016	10.425234086933676	5.809665361628789	3487259
+3487887	SE	the distribution of program sizes and its implications: an eclipse case study	2009	11.071304768746902	5.719266598863615	3487914
+3489556	SE	late propagation in near-miss clones: an empirical study	2014	10.313582559984972	5.891888752925	3489583
+3491455	SE	web site complexity metrics for measuring navigability	2004	10.804207432718565	5.590645663886887	3491482
+3492031	SE	a method for predicting the impact of user interface design on software design	1993	10.98757168848334	5.710775672434076	3492058
+3492491	PL	applying inspection to object-oriented code	1996	10.8521167159844	6.399510387402657	3492518
+3493158	SE	when and how using structural information to improve ir-based traceability recovery	2013	10.314909067010152	5.7484610683738255	3493185
+3497581	SE	an information-theoretical framework for modeling component-based systems	2004	11.083607158365565	6.3990737209107555	3497608
+3498252	SE	applying complexity measures to rule-based prolog programs	1998	10.536222174745598	5.675692600014784	3498279
+3498821	SE	establishing the relevancy of the bookkeeping libraries to the functional testing of computer implementations	1997	11.028661611960882	5.94930696374036	3498848
+3501249	SE	evaluation of semantic interference detection in parallel changes: an exploratory experiment	2007	10.500328054878175	6.227952713607979	3501276
+3502365	SE	search-based duplicate defect detection: an industrial experience	2013	10.465175284741935	5.5719092834611486	3502392
+3503788	SE	software fault localization based on centrality measures	2011	10.790170374252265	5.972701039734631	3503815
+3504472	SE	slice based metrics for estimating cohesion	1993	10.396515167752987	6.1270625417061995	3504499
+3504683	DB	an automated entity-relationship clustering algorithm for conceptual database design	2007	10.353036364819516	6.206943332396263	3504710
+3509599	Vision	comparing different modularization criteria using relational metric	2013	10.416097521070627	6.091328762134596	3509626
+3510761	SE	a framework to support research in and encourage industrial adoption of regression testing techniques	2012	10.680062609980325	6.283223681603014	3510788
+3512131	SE	an empirical study of aspect-oriented metrics	2012	11.090304245460588	6.203629068997212	3512158
+3512878	SE	a qualitative method for measuring the structural complexity of software systems based on complex networks	2005	10.937849132165212	6.110743256198822	3512905
+3514770	SE	understanding the effects of code clones on modularity in software systems	2012	10.615147250560195	6.213008923511659	3514797
+3515697	SE	an exploratory study of factors influencing change entropy	2010	11.097522418471124	5.678814189656519	3515724
+3516199	SE	are we testing for true reliability?	1992	11.094358229637058	6.078692552843981	3516226
+3516331	HCI	graph theoretical indicators and refactoring	2003	10.533778041652337	5.7472390059621405	3516358
+3516712	SE	visual support of software engineers during development and maintenance	2007	10.579342150401624	5.869573166991071	3516739
+3517290	SE	recode: software package refactoring via community detection in bipartite software networks	2014	10.65460077612397	6.046265283705728	3517317
+3517378	DB	predicting upgrade failures using dependency analysis	2011	10.684371817327607	6.124620923132888	3517405
+3518395	SE	deriving fault architectures from defect history	2000	10.685462850593439	6.280930997742032	3518422
+3519372	SE	bug prediction based on fine-grained module histories	2012	10.65990007482487	5.624353928105904	3519399
+3519708	SE	practical technical debt discovery by matching patterns in assessment graph	2016	10.38828302784932	5.661387212984407	3519735
+3520835	SE	programming process coordination in little-jil	1998	10.80752176155354	5.947660582206413	3520862
+3520984	SE	investigating code review practices in defective files: an empirical study of the qt system	2015	11.037099528338047	5.810214346373629	3521011
+3523010	Visualization	automated testing of virtual reality application interfaces	2003	10.742926443366489	6.117023616306585	3523037
+3526782	SE	effects of cloned code on software maintainability: a replicated developer study	2013	10.755910326037151	5.704338409429719	3526809
+3528974	SE	software feature location based on topic models	2012	10.374310139724413	5.791780457301849	3529001
+3530425	SE	using historical data from source code revision histories to detect source code properties	2006	10.318565518917652	5.543141918221284	3530452
+3530976	SE	enhancements to an oo metric: cb measure	2018	10.862120757916193	6.054270408794423	3531003
+3531051	SE	reconstructing and evolving software architectures using a coordinated clustering framework	2017	10.190894781625408	6.271445494950468	3531078
+3533173	SE	over-exposed classes in java: an empirical study	2016	10.285572482469863	5.8205623421613435	3533200
+3534312	SE	how changes affect software entropy: an empirical study	2012	11.08175568081135	5.661870413518633	3534339
+3535736	SE	studying the relation between anti-patterns in design models and in source code	2016	10.788023499404853	5.882826226838062	3535763
+3536098	SE	do #ifdefs influence the occurrence of vulnerabilities? an empirical study of the linux kernel	2016	10.765139703543458	5.978443838993223	3536125
+3536929	SE	traceability in the wild: automatically augmenting incomplete trace links	2018	10.320800607095943	5.718898056954501	3536956
+3539340	SE	correlation between bug notifications, messages and participants in debian's bug tracking system	2007	10.501192498444496	5.638983584184821	3539367
+3540240	SE	exploring the impact of code smells on fine-grained structural change-proneness	2018	10.949144962225104	5.633604092240588	3540267
+3541772	SE	trust-based requirements traceability	2011	10.369819688671171	5.601089397140749	3541799
+3541859	SE	can clone detection support quality assessments of requirements specifications?	2010	10.901500983344269	6.24754528825217	3541886
+3542700	SE	towards performance measurement and metrics based analysis of pla applications	2010	11.080280120516527	6.193045337997023	3542727
+3549574	SE	an empirical study of the impact of two antipatterns, blob and spaghetti code, on program comprehension	2011	10.994477300315529	5.6069634876362295	3549601
+3549643	SE	a collaborative filtering recommender system for test case prioritization in web applications	2018	10.898718350106817	5.718745846691491	3549670
+3549973	SE	client based object-oriented cohesion metrics	2007	10.728660138844583	6.04347828485312	3550000
+3550020	PL	chianti: a tool for change impact analysis of java programs	2004	10.291421676458887	6.168585318568593	3550047
+3550402	DB	empirical evaluation of strategies to detect logical change dependencies	2010	10.359978095689963	6.1940444891982995	3550429
+3551097	SE	early field experience with the software reconnaissance technique for program comprehension	1996	11.087010142371273	6.1401871746075765	3551124
+3552106	SE	persistent software errors	1981	10.80147651199812	5.536447113839516	3552133
+3553256	SE	refactoring effect estimation based on complexity metrics	2008	11.006477006602774	6.4081579125696315	3553283
+3553708	SE	studying the evolution of software systems using evolutionary code extractors	2004	10.93178499834706	6.441340912422532	3553735
+3554315	SE	information retrieval models for recovering traceability links between code and documentation	2000	10.309014403802776	5.5776106982873825	3554342
+3557326	SE	crash graphs: an aggregated view of multiple crashes to improve crash triage	2011	10.53830594583094	5.7190135622090486	3557353
+3557424	SE	clustering for monitoring software systems maintainability evolution	2009	10.772211643869534	6.191544926319282	3557451
+3558416	SE	ontology modularization for knowledge selection: experiments and evaluations	2007	10.785320619475918	6.411496988144507	3558443
+3558609	SE	automatic classification of requirements based on convolutional neural networks	2016	10.970195495390826	6.303365811098898	3558636
+3559251	SE	design recovery for maintenance and reuse	1989	10.602576158527073	6.400633154542395	3559278
+3560418	SE	code clone graph metrics for detecting diffused code clones	2009	10.324320233383867	5.967954935804262	3560445
+3560928	SE	automated requirements traceability: the study of human analysts	2010	10.392966928792227	6.258970765392598	3560955
+3561863	SE	suggesting extract class refactoring opportunities by measuring strength of method interactions	2013	10.761109649918422	6.486051296969916	3561890
+3561903	SE	assessing cognitive complexity in java-based object-oriented systems: metrics and tool support	2016	10.653727331913476	6.392855614932571	3561930
+3563267	SE	comparing accessibility evaluation tools: a method for tool effectiveness	2004	11.03523712299495	5.922154806318398	3563294
+3563472	SE	using fold-in and fold-out in the architecture recovery of software systems	2011	10.27443998212711	6.097967287240103	3563499
+3563628	SE	an exploratory study of the impact of code smells on software change-proneness	2009	10.98836493413108	5.78044432599365	3563655
+3563911	Logic	a formal program complexity model and its application	1992	10.62988999745862	5.907864824494992	3563938
+3563946	SE	how do developers select and prioritize code smells? a preliminary study	2017	11.110021034002424	5.6741710317065195	3563973
+3565683	SE	a replicated empirical study to evaluate software testing methods	2017	10.975939646543434	5.921190817786925	3565710
+3566119	Robotics	an approach to predict software maintenance cost based on ripple complexity	1994	11.030791295963983	6.076750653347328	3566146
+3566401	SE	tool support for model splitting using information retrieval and model crawling techniques	2014	10.902688870816887	5.940894137846218	3566428
+3566728	SE	a software metric for coherence of class roles in java programs	2007	10.591874997460154	6.20485998429462	3566755
+3568161	Arch	design reliability - estimation through statistical analysis of bug discovery data	1998	10.648403748461464	6.431023646072058	3568188
+3568982	SE	open source software maintenance process framework	2005	11.06409820693892	6.397638941643999	3569009
+3570271	SE	programmers' build errors: a case study (at google)	2014	10.724571095957893	5.738274769587702	3570298
+3570329	SE	estimation of the total number of software failures from test data and code coverage: a bayesian approach	2017	10.860026340762708	5.6778979332387065	3570356
+3570781	SE	a comprehensive characterization of nlp techniques for identifying equivalent requirements	2010	11.03677143577577	6.3089546324620684	3570808
+3570892	SE	evaluate how cyclomatic complexity changes in the context of software evolution	2018	10.820257532011562	5.929896693226339	3570919
+3574070	SE	assessing software structure by entropy and information density	2004	10.924588476403976	6.0045611758205295	3574097
+3574799	SE	an empirical study to improve software security through the application of code refactoring	2018	10.898141160210498	5.899435160183597	3574826
+3576236	SE	security of open source web applications	2009	10.423524762062405	5.666648302481755	3576263
+3576833	SE	an exploratory study of the evolution of communicated information about the execution of large software systems	2011	10.387575600291855	6.225164179201705	3576860
+3577074	SE	a clustering-based approach for discovering flaws in requirements specifications	2012	10.605077675844516	5.781645037273858	3577101
+3577257	SE	class point: an approach for the size estimation of object-oriented systems	2005	11.05524521336286	6.13527230896539	3577284
+3582494	Web+IR	a user-oriented reliability modelling approach for web systems	2007	10.363088285528397	5.64415074793489	3582521
+3582589	SE	toward precise measurements using software normalization	1999	10.829542021815548	5.720592114527889	3582616
+3584715	SE	recovering traceability links between code and documentation for enterprise project artifacts	2012	10.265852810103835	5.75937577727732	3584742
+3586556	SE	knowledge-based system requirements	1993	10.375081305990566	6.125727516031424	3586583
+3590054	SE	improving traceability link recovery methods through software artifact summarization	2011	10.762532337299302	5.922790192576143	3590081
+3590409	Visualization	classifying software visualization tools using the bloom's taxonomy of cognitive domain	2009	10.902300946911767	5.6115804657470285	3590436
+3591845	SE	coupling and cohesion measures for evaluation of component reusability	2006	10.809548074564335	6.199208677685803	3591872
+3592799	DB	analysis of static and dynamic test-to-code traceability information	2018	10.511689219878132	6.171730465319412	3592826
+3593921	SE	entropy-based measures of heterogeneity of software structural profile	2010	10.865524890192257	6.00027642702047	3593948
+3594711	SE	on the diffuseness and the impact on maintainability of code smells: a large scale empirical investigation	2018	11.041730812324298	5.6453901007483624	3594738
+3595242	SE	towards definitions for release engineering and devops	2015	11.074857496962109	5.857705838449517	3595269
+3596999	SE	apply pagerank algorithm to measuring relationship's complexity	2008	10.862016138303106	6.157682911353253	3597026
+3599708	SE	analysis on key nodes behavior for complex software network	2012	10.754372522511737	6.034003127857437	3599735
+3600609	SE	analyzing software engineering processes on source code level	2007	10.30772108954822	6.326866058538352	3600636
+3600973	SE	an augmented vector space information retrieval for recovering requirements traceability	2011	10.261313532297011	5.605795121558462	3601000
+3607641	SE	architectural-based speculative analysis to predict bugs in a software system	2016	10.493517386515537	6.101163252649356	3607668
+3607749	SE	extraction and visualization of traceability relationships between documents and source code	2010	10.61990329278984	6.361048406907884	3607776
+3609862	SE	studying software evolution using topic models	2014	10.646770869321756	5.546896229546199	3609889
+3610918	SE	leveraging program comprehension with concern-oriented source code projections	2014	10.589382962067393	5.5415434412215925	3610945
+3612649	SE	detecting cross-browser issues in web applications	2011	10.186709436414606	5.636745172892247	3612676
+3612699	SE	a quantitative evaluation of software quality enhancement by refactoring using dependency oriented complexity metrics	2009	11.116634165525854	6.449778580882956	3612726
+3613094	SE	metrics for evaluation of metaprogram complexity	2010	10.852549204816976	6.40062368227111	3613121
+3619958	DB	coherent dependence cluster	2014	10.337317195628357	6.293644181799638	3619985
+3619994	SE	a quantitative framework for software restructuring	1999	11.084666545032228	6.187711711097099	3620021
+3621030	SE	software change dynamics: evidence from 35 java projects	2009	10.856168925532751	5.751438535099643	3621057
+3623894	HCI	designing uml diagrams for technical documentation	2003	10.444101827345243	6.266510805277427	3623921
+3624991	SE	does principal component analysis improve cluster-based analysis?	2013	10.213198486840579	5.656439442767309	3625018
+3625364	SE	studying the evolution of php web applications	2016	11.126534192727592	5.583113540685559	3625391
+3625376	Logic	an empirical study of clone detection in matlab/simulink models	2018	10.395387755128713	6.40369985712146	3625403
+3625647	SE	an empirical study of code smells in javascript projects	2017	10.57763587784228	5.686914396132897	3625674
+3628561	SE	detecting and preventing the architectural roots of bugs	2014	10.288448413317244	6.1326641917182885	3628588
+3628575	SE	customization change impact analysis for erp professionals via program slicing	2008	11.066187419135515	6.132878639259748	3628602
+3628972	SE	tracing requirements in software design	2017	10.825740214982355	6.237133589387722	3628999
+3632582	SE	meeting quality standards for mobile application development in businesses: a framework for cross-platform testing	2016	10.554708692786336	5.823906571872762	3632609
+3632771	SE	categorization of common coupling and its application to the maintainability of the linux kernel	2004	10.759371689885583	6.12059704683304	3632798
+3633579	SE	the method for measuring large-scale object-oriented software system	2009	10.829837163677619	6.099518686931218	3633606
+3634563	SE	squavisit: a flexible tool for visual software analytics	2009	10.700914294386832	6.278023357479096	3634590
+3635182	SE	extracting communication structure of a development organization from a software repository	2013	10.924399318148927	5.884945417096586	3635209
+3636846	SE	using relational topic models to capture coupling among classes in object-oriented software systems	2010	10.592565460826517	6.072360081082957	3636873
+3638911	SE	automatic software refactoring via weighted clustering in method-level networks	2018	10.186025217607016	6.312665931745099	3638938
+3640883	SE	understanding usability defect reporting in software defect repositories	2015	11.09722950879788	5.668340903135585	3640910
+3641061	SE	squad: software quality understanding through the analysis of design	2009	11.088499356097042	6.131351116310166	3641088
+3643697	SE	learning to classify bug reports into components	2012	10.317589392138286	5.535318893010068	3643724
+3643927	Logic	an object-oriented systems modelling method based on the jackson approach	1994	10.82960122726157	6.372306072426312	3643954
+3645220	SE	a framework for detecting and diagnosing configuration faults in web applications	2007	10.394964945514712	6.004666879371786	3645247
+3646213	SE	can knowledge of technical debt help identify software vulnerabilities?	2016	11.043458118520443	5.909132669992608	3646240
+3646636	SE	an automated approach for scheduling bug fix tasks	2016	10.345901499620423	6.318445747135384	3646663
+3646889	SE	automatically analyzing groups of crashes for finding correlations	2017	10.540617509291	5.875139172687002	3646916
+3650979	HCI	pattern-based reverse-engineering of design components	1999	10.331589450504376	5.845340291186168	3651006
+3651878	SE	an industrial evaluation of unit test generation: finding real faults in a financial application	2017	10.906240616014284	6.130153854645988	3651905
+3652704	HCI	a case study on structural characteristics of object-oriented design and its stability	2005	10.841274528623636	6.200424254207957	3652731
+3655644	SE	big code: new opportunities for improving software construction	2016	10.245427955385905	5.806641049852352	3655671
+3657520	EDA	a suite of cognitive complexity metrics	2012	10.934395230025967	6.026184811770276	3657547
+3658018	SE	casi: preventing indirect conflicts through a live visualization	2010	10.65880455877335	5.689229317042145	3658045
+3658517	SE	bug localisation through diverse sources of information	2013	10.87924750556108	5.561714626085789	3658544
+3659123	SE	modularity-oriented refactoring	2008	11.11344147078801	6.305267579808582	3659150
+3660138	PL	an empirical study of the design and implementation of object equality in java	2008	10.514387781357652	6.027991145370126	3660165
+3661046	Arch	identifying key classes in object-oriented software using generalized k-core decomposition	2018	10.672130940441537	5.976463566498658	3661073
+3661096	SE	change impact using dynamic history analysis: (abstract only)	2018	10.264958860844894	6.090785222119188	3661123
+3661111	HPC	automatic detection of memory anti-patterns	2008	10.747856987598311	5.635817387482174	3661138
+3662179	SE	evaluating the harmfulness of cloning: a change based experiment	2007	10.564461117320523	5.748617256992662	3662206
+3665525	SE	comparing software bugs in clone and non-clone code: an empirical study	2017	10.851988600021244	5.557463905162892	3665552
+3665736	Web+IR	a survey on css preprocessors	2017	10.87413159054375	5.896047325817126	3665763
+3667083	SE	improving regression testing transparency and efficiency with history-based prioritization -- an industrial case study	2011	10.552284541028964	6.344569518650276	3667110
+3667154	SE	isolating and relating concerns in requirements using latent semantic analysis	2006	10.670213765088622	6.456735393112576	3667181
+3669937	SE	leafactor: improving energy efficiency of android apps via automatic refactoring	2017	10.35444626812001	5.62430536350502	3669964
+3670110	SE	pattern-based trace correlation technique to compare software versions	2012	10.498449563833642	6.430503745899748	3670137
+3670797	Robotics	a new complexity metric based on cognitive informatics	2008	10.879286175664149	5.8574042113797935	3670824
+3672389	SE	an empirical study on reducing omission errors in practice	2014	10.523535600318665	5.674790084911548	3672416
+3673682	SE	an architectural smells detection tool for c and c++ projects	2018	10.641714008122607	6.299399061916352	3673709
+3674604	SE	a study of the applicability of complexity measures	1988	10.934328707478102	5.553348692287956	3674631
+3675434	PL	some complexity metrics for object-oriented programs based on information flow: a study of c++ programs	1994	10.37491416155532	6.381301378208032	3675461
+3677350	SE	test inspected unit or inspect unit tested code?	2007	10.49428440339068	6.035359110931556	3677377
+3679105	ML	wilddash - creating hazard-aware benchmarks	2018	10.655150797223907	6.1868018829993785	3679132
+3679242	SE	empirical evaluation of reuse sensitiveness of complexity metrics	1999	10.926438793285923	6.360656481311294	3679269
+3680262	SE	function point measurement from web application source code based on screen transitions and database accesses	2011	10.856729321046373	5.728722523461872	3680289
+3681034	Security	an in-depth analysis of disassembly on full-scale x86/x64 binaries	2016	10.415748900140043	5.891220521057613	3681061
+3681125	SE	towards collaborative testing of workflows in wmvc-based web applications	2013	10.341722644739269	6.173855528700674	3681152
+3684963	SE	e-quality: a graph based object oriented software quality visualization tool	2011	10.260441094723454	5.841243648839697	3684990
+3686160	Security	leveraging flawed tutorials for seeding large-scale web vulnerability discovery	2017	10.424172750507397	5.737835043352638	3686187
+3686321	HPC	modern scientific software management using easybuild and lmod	2014	11.085178385829527	6.323735764659988	3686348
+3688341	SE	a program slicing-based bayesian network model for change impact analysis	2018	10.420337278596381	5.950187371603473	3688368
+3688619	SE	adaptive random testing in detecting layout faults of web applications	2018	10.439820135398124	6.296521193218212	3688646
+3689658	SE	leveraging traceability to reveal the tapestry of quality concerns in source code	2015	10.459029602789386	5.989633781913043	3689685
+3690534	Logic	which code construct metrics are symptoms of post release failures?	2011	10.998810096658987	5.65114446337497	3690561
+3692478	SE	a fine-grained analysis on the evolutionary coupling of cloned code	2014	10.383090045050672	5.8538805876413935	3692505
+3693207	SE	comparing software architecture recovery techniques using accurate dependencies	2015	10.435152384415442	6.033927256494389	3693234
+3693215	SE	feature modelling and traceability for concern-driven software development with touchcore	2015	10.196483441256186	5.873073673343675	3693242
+3693376	SE	the relationship between design patterns and code smells: an exploratory study	2016	10.946374147287738	5.7177991873580405	3693403
+3694028	SE	identifying outdated requirements based on source code changes	2012	10.497621215962553	6.149123656947014	3694055
+3694856	SE	software architecture decomposition using clustering techniques	2013	10.496399511525428	6.394899903105896	3694883
+3696154	SE	dynamical evolution analysis of the object-oriented software systems	2008	10.893100052101005	6.181579387126919	3696181
+3697869	EDA	uma metodologia para identificação de módulos de circuitos integrados propensos a erros	2011	10.288209683315447	6.089651441929356	3697896
+3698153	SE	a coupling-guided cluster analysis approach to reengineer the modularity of object-oriented systems	2000	10.917799031918301	6.113857874968965	3698180
+3699979	Robotics	robocomp: a tool-based robotics framework	2010	10.673491173048973	5.9131445996571275	3700006
+3700027	NLP	bug forecast: a method for automatic bug prediction	2010	10.6956737319867	5.854409254132702	3700054
+3700122	SE	capturing use cases with doors	2001	10.483981706713665	5.862102171919097	3700149
+3703194	SE	a class cohesion metric for object-oriented designs	1999	10.963746867496289	6.245393087839849	3703221
+3703334	SE	an experiment in software engineering: the architecture research facility as a case study	1979	11.100738753560373	5.868822922240442	3703361
+3704254	SE	does refactoring of test smells induce fixing flaky tests?	2017	10.615540879644284	6.035389480536409	3704281
+3706322	SE	collecting and categorizing software error data in an industrial environment	1984	10.618141424182172	5.992759882702857	3706349
+3707095	SE	the design of sree - a prototype potential ambiguity finder for requirements specifications and lessons learned	2013	10.720941041657694	5.639392427755227	3707122
+3707467	SE	comparing the decompositions produced by software clustering algorithms using similarity measurements	2001	10.38113159613273	6.042650258345028	3707494
+3708395	SE	a task-oriented navigation approach to enhance architectural description comprehension	2010	11.046556798286616	5.617646569176466	3708422
+3709479	SE	modeling app behavior from multiple artifacts	2016	10.230834445106764	5.588244007974259	3709506
+3711037	SE	antipatterns: a compendium of bad practices in software development processes	2011	10.540018230927704	5.751825558984102	3711064
+3712643	SE	a review-based comparative study of bad smell detection tools	2016	11.054952808979616	5.585916852352409	3712670
+3713595	SE	topic-based software defect explanation	2017	10.778270694726812	5.844411804979777	3713622
+3714757	SE	energy consumption fuzzy estimation for object-oriented code	2018	10.320471124362378	6.357892621617713	3714784
+3716061	SE	shinobi: a tool for automatic code clone detection in the ide	2009	10.267288605608972	5.8377817283990066	3716088
+3716121	SE	an empirical study of class sizes for large java systems	2007	11.07819987567472	5.669876449794862	3716148
+3719486	Logic	design patterns selection: an automatic two-phase method	2012	10.522981012527652	6.454781239127897	3719513
+3723165	SE	a semiautomated method for classifying program analysis rules into a quality model	2014	10.791310801808702	6.477172419169418	3723192
+3723726	SE	analysis of signature change patterns	2005	10.195795885791867	5.978693054438933	3723753
+3723847	AI	towards definitive benchmarking of algorithm performance	2003	10.214068336979103	5.719486085747955	3723874
+3725012	OS	an empirical study on patterns of failure causes in a mass-market operating system	2017	11.076039638318932	5.601703936845491	3725039
+3725506	Robotics	modified set of weyuker's properties	2006	10.782788261420247	5.8187941125411164	3725533
+3725933	SE	accumulative versioning file system moraine and its application to metrics environment mame	2000	10.479317762492961	5.542061311990199	3725960
+3727576	PL	what merge tool should i use?	2017	10.251644343701509	5.6725718231271465	3727603
+3727991	SE	an empirical investigation of the relationship between spectra differences and regression faults	2000	11.117719095110074	5.611571029340996	3728018
+3729468	PL	influence of high-level program structures on branch prediction accuracy	2000	10.591511895885526	5.904676301089685	3729495
+3730900	SE	improved binary similarity measures for software modularization	2017	10.336585438354813	6.131947968754558	3730927
+3732589	SE	estimate test execution effort at an early stage: an empirical study	2008	11.105021804215365	6.309946026566871	3732616
+3733830	Theory	the influences of edge instability on change propagation and connectivity in call graphs	2016	10.773383965507216	5.9037142368529825	3733857
+3734977	SE	monitor-based instant software refactoring	2013	10.844504993611443	5.569246125170636	3735004
+3737027	SE	test-driving static analysis tools in search of c code vulnerabilities	2011	10.701761365267043	6.413085870380455	3737054
+3737682	SE	studying the effects of code inspection and structural testing on software quality	1998	10.915611761983119	5.895475556805468	3737709
+3738013	SE	making refactoring decisions in large-scale java systems: an empirical stance	2003	10.83059779818838	5.918729490056966	3738040
+3739037	SE	fsquadra: fast detection of repackaged applications	2014	10.206002869638914	5.567113839724327	3739064
+3739854	SE	trace-by-classification: a machine learning approach to generate trace links for frequently occurring software artifacts	2013	10.641167906618664	5.719514677653048	3739881
+3743006	SE	the performance of the n-fold requirement inspection method	1997	10.693335176683712	5.931438957773343	3743033
+3743511	SE	use of web application frameworks in the development of small applications	2011	10.225574438706825	6.281585120461407	3743538
+3744019	SE	a case study of the effects of architecture debt on software evolution effort	2018	10.996959345821494	6.095010234225804	3744046
+3744461	SE	an industrial study using uml design metrics for web applications	2008	10.89668273206022	6.133521639623821	3744488
+3744491	SE	safe-commit analysis to facilitate team software development	2009	10.234541983052338	6.042699598957893	3744518
+3744620	SE	interactive scalable abstraction of reverse engineered uml class diagrams	2014	10.424360553095138	5.58185798979845	3744647
+3745659	SE	improved metrics for encapsulation based on information hiding	2008	10.647083357334076	6.242580602449503	3745686
+3745675	SE	interactive complexity: software metrics from an ecosystem perspective	2017	10.92914700783092	6.292374180421327	3745702
+3747935	SE	measuring similarity of large software systems based on source code correspondence	2005	10.296489362974734	5.752532773986325	3747962
+3747949	SE	identifying software decompositions by applying transaction clustering on source code	2007	10.294102466244656	5.9625747789947665	3747976
+3750207	SE	a straightforward approach to effort estimation for updating programs in object-oriented prototyping development	1999	10.576077133873996	6.136679478628877	3750234
+3752541	DB	software counting rules: will history repeat itself?	1982	10.789878489439854	5.686724658563883	3752568
+3753658	Robotics	evolution and stability of linux kernels based on complex networks	2011	10.644921383495568	5.734351463292844	3753685
+3757254	SE	extracting error handling to aspects: a cookbook	2007	10.796424245039706	6.217526138291822	3757281
+3757424	SE	are vulnerabilities discovered and resolved like other defects?	2017	11.058528212357835	5.551221441768077	3757451
+3758868	SE	improving manual change impact analysis with tool support: a study in an industrial project	2015	10.400235423404556	6.133703974391596	3758895
+3760025	SE	measuring structural complexity for class diagrams: an information theory approach	2005	10.752785986261127	6.456553443833271	3760052
+3760099	SE	detection of seed methods for quantification of feature confinement	2012	10.223287384894704	6.292539751189264	3760126
+3760976	SE	10 years of research on debugging concurrent and multicore software: a systematic mapping study	2015	10.966212438896015	6.31038915886112	3761003
+3762147	SE	toward efficient aspect mining for linux	2007	10.292744332984553	6.281733970927973	3762174
+3763286	SE	clustering of defects in java software systems	2014	10.830517050558093	5.927745791064331	3763313
+3766141	SE	codetopics: which topic am i coding now?	2011	10.37773210081361	5.656544643708036	3766168
+3769515	SE	analysis of software cohesion attribute and test case development complexity	2011	11.0894250316314	6.113597152445309	3769542
+3769516	SE	an empirical study of fine-grained software modifications	2004	10.266321968423231	6.257811412713141	3769543
+3773651	SE	cloned and non-cloned java methods: a comparative study	2017	10.890331129211551	5.760080350739279	3773678
+3773711	SE	extracting domain models from natural-language requirements: approach and industrial evaluation	2016	10.837690503959877	6.4307790280695905	3773738
+3773911	SE	automated test case generation for spreadsheets	2002	11.016078021547706	5.973849462207777	3773938
+3774765	SE	defining maintainable components in the design phase	2005	11.074049637406326	6.249637111793248	3774792
+3776409	SE	tracking null checks in open-source java systems	2016	10.256969441470515	5.783656836762898	3776436
+3776410	SE	are code smell detection tools suitable for detecting architecture degradation?	2017	10.553653838851073	5.8868496980663885	3776437
+3778896	PL	the measurement and evaluation for large-scale object-oriented software system	2009	10.860690446436157	6.0808029597271345	3778923
+3780320	SE	investigating the energy impact of android smells	2017	10.408227316534415	5.717645998588168	3780347
+3781724	SE	network versus code metrics to predict defects: a replication study	2011	11.1315996975524	5.553327877202336	3781751
+3781966	SE	pattern-based auto-completion of uml modeling activities	2014	10.368113189816533	5.789835530780571	3781993
+3783335	SE	auto-pilot: a platform for system software benchmarking	2005	10.6562352727554	5.992826378883568	3783362
+3784194	SE	change impact analysis and changeability assessment for a change proposal: an empirical study ☆☆	2014	10.96207829165856	6.310558578461977	3784221
+3785203	SE	late propagation in software clones	2011	10.415794287405292	5.90846290729796	3785230
+3785580	SE	an automated approach for noise identification to assist software architecture recovery techniques	2015	10.358923111007014	6.39748983192963	3785607
+3788509	SE	resolving unwanted couplings through interactive exploration of co-evolving software entities - an experience report	2012	10.774334883294172	5.836666784425932	3788536
+3788684	SE	a machine learning approach for tracing regulatory codes to product specific requirements	2010	11.049028684614072	6.0658243354185775	3788711
+3789543	SE	code smells and their collocations: a large-scale experiment on open-source systems	2018	10.923038571231887	5.576809888924282	3789570
+3790849	SE	comparative stability of cloned and non-cloned code: an empirical study	2012	11.093433870800444	5.8077605758624244	3790876
+3791557	SE	method-level bug prediction	2012	10.655734452690961	5.560073731031425	3791584
+3792394	SE	statistical properties analysis of file modification in open-source software repositories	2018	10.84339075357228	5.589443779720146	3792421
+3792851	SE	run-time cohesion metrics: an empirical investigation	2004	10.862121412544381	6.151703228468167	3792878
+3792902	SE	towards feature envy design flaw detection at block level	2018	10.416469919300047	6.2631455119561465	3792929
+3793167	SE	code clustering workbench	2013	10.17931219192278	6.196043072512027	3793194
+3793258	SE	an empirical analysis of a testability model for object-oriented programs	2011	10.757610602275221	6.274240514625969	3793285
+3793295	SE	object oriented software clustering based on community structure	2011	10.479077455422079	6.3011181225190125	3793322
+3795952	SE	software cognitive information measure based on relation between structures	2013	11.049333984265184	5.661975663967308	3795979
+3797260	Web+IR	anatomy of a crash repository.	2016	10.260759050865193	5.554360920280146	3797287
+3798687	SE	automatically detecting developer activities and problems in software development work	2012	11.049498155877117	5.568988711380611	3798714
+3799826	SE	how clones are maintained: an empirical study	2007	10.596219787919184	5.817835535774492	3799853
+3801649	Logic	"""an empirical study of """"removed"""" classes in java open-source systems"""	2008	10.779631589669002	5.76017148252782	3801676
+3801651	SE	cvsgrab: mining the history of large software projects	2006	10.534659142609474	5.654767461858244	3801678
+3803072	SE	the linux kernel: a case study of build system variability	2014	10.177078229620667	6.1318208218233	3803099
+3803406	SE	classification of bug injected and fixed changes using a text discriminator	2015	10.253578747568449	5.534739834773644	3803433
+3804491	SE	automated api documentation with tutorials generated from stack overflow	2016	10.85980174140307	5.73438555718168	3804518
+3804873	SE	a comparative study on the bug-proneness of different types of code clones	2015	10.56266919603817	5.755811205872548	3804900
+3804975	SE	test case prioritization: an empirical study	1999	10.895431652921364	5.668644788353858	3805002
+3805313	SE	locating distinguishing features using diff sets	2012	10.181795133976012	6.27363102961694	3805340
+3806187	SE	analysis of the runtime linux operating system as a complex weighted network	2016	10.92677327411766	5.944532808772879	3806214
+3806271	SE	recommending source code locations for system specific transformations	2017	10.203528011920595	5.955816162317202	3806298
+3808133	SE	security versus performance bugs: a case study on firefox	2011	10.984679179554513	5.715215655230034	3808160
+3812959	SE	recovering test-to-code traceability using slicing and textual analysis	2014	10.338477712449878	5.943585723420099	3812986
+3815074	SE	the quest for open source projects that use uml: mining github	2016	10.785300492152793	5.5900436030991765	3815101
+3815567	SE	predicting change propagation in software systems	2004	10.419502990802362	6.3640558921296115	3815594
+3815616	SE	reverse engineering of web applications to abstract user-centered conceptual models	2008	10.606266113928557	6.0727342754418485	3815643
+3815830	SE	an approach for reverse engineering of design patterns	2004	10.495393645361103	6.207424433256509	3815857
+3816399	SE	an empirical study on interaction factors influencing bug reopenings	2014	10.99520164165886	5.6110426300466525	3816426
+3816741	SE	is cloned code more stable than non-cloned code?	2008	10.515972949868058	5.640508984022992	3816768
+3817173	SE	supporting extract class refactoring in eclipse: the aries project	2012	10.430121342698328	6.202395966057883	3817200
+3817509	SE	a natural language approach for requirements engineering	1992	10.593168562841898	6.476849703428083	3817536
+3818008	SE	effect of test completeness and redundancy measurement on post release failures — an industrial experience report	2010	11.070302986329192	5.952784377229032	3818035
+3818617	SE	applying a code clone detection method to domain analysis of device drivers	2007	10.218022577673857	6.3184220835257925	3818644
+3819684	SE	bug replication in code clones: an empirical study	2016	10.617163126098148	5.75005949153794	3819711
+3819933	HCI	design pattern recognition	2004	10.392039567504613	6.169612654170253	3819960
+3823379	SE	helping program comprehension of large software systems by identifying their most important classes	2015	10.470640614816222	5.740348770995506	3823406
+3823506	SE	an empirical study of bugs in test code	2015	10.522873152297873	5.655924450422501	3823533
+3825690	SE	discovering patterns of change types	2008	10.22651891242406	6.0049967376595195	3825717
+3826243	AI	an integrating view on the viewing abstraction: contexts and perspectives in software development, ai, and databases	1995	10.711312069205011	6.480644678339663	3826270
+3826735	SE	software systems as complex networks	2007	10.88745521864973	6.04587185165229	3826762
+3826856	SE	recommending features and feature relationships from requirements documents for software product lines	2015	10.98613859828879	6.367887292835455	3826883
+3827594	Logic	on the effectiveness of bug predictors with procedural systems: a quantitative study	2017	10.621469690936683	6.296889424771654	3827621
+3829455	SE	test instrumentation and pattern matching for automatic failure identification	2008	10.508061182635428	6.264762006175947	3829482
+3829557	SE	predicting move method refactoring opportunities in object-oriented code	2017	10.629525593206962	6.031997179222594	3829584
+3830061	SE	assessing the quality factors found in in-line documentation written in natural language: the javadocminer	2011	10.926256643461228	5.935241006373455	3830088
+3830159	SE	classifying obstructive and nonobstructive code clones of type i using simplified classification scheme: a case study	2015	10.573918576421127	6.093389049004345	3830186
+3830188	SE	supporting automatic code review via design	2013	10.59897492349196	6.138683430400352	3830215
+3830817	SE	an empirical study of build maintenance effort	2011	10.77026860778772	5.856463457484317	3830844
+3831059	SE	a study of consistent and inconsistent changes to code clones	2007	10.708511567801798	5.787702414903988	3831086
+3831495	SE	platform independent software development monitoring: design of an architecture	2014	10.503855283211529	6.081173984631983	3831522
+3831601	SE	a binary classifier for test case feasibility applied to automatically generated tests of event-driven software	2016	10.231836867078997	5.732538209180094	3831628
+3831972	PL	evaluating and improving semistructured merge	2017	10.1978139026672	5.5810065161542735	3831999
+3832153	SE	static members and cycles in java software	2007	10.374182486745957	5.74421524707641	3832180
+3834299		dealing with goal models complexity using topological metrics and algorithms	2017	10.483400723367328	6.126529358255088	3834326
+3836676	Logic	external views on class cohesion	2007	10.484977137262792	6.108434643320519	3836703
+3837000	SE	detecting, classifying, and tracing non-functional software requirements	2016	10.359879455917742	6.155260661666128	3837027
+3837554	SE	on selecting software visualization tools for program understanding in an industrial context	2002	10.580369135084403	5.569473855311755	3837581
+3837602	Arch	analysis of failures in the tandem nonstop-ux operating system	1995	10.507410086913909	6.230769729283667	3837629
+3842244	SE	tool support for change-based regression testing: an industry experience report	2017	10.63001583155203	6.352272969760412	3842271
+3842890	SE	a study on the changes of dynamic feature code when fixing bugs: towards the benefits and costs of python dynamic features	2017	10.477147810951658	5.871520419363935	3842917
+3842895	SE	improving the testability of object-oriented software during testing and debugging processes	2011	10.482664550828634	6.262772641333452	3842922
+3844067	SE	identifying knowledge divergence by vocabulary monitoring in software projects	2012	10.552900016591108	5.644235804565071	3844094
+3844116	SE	the cognitive assignment eclipse plug-in	2006	10.803775172202707	6.189274693268756	3844143
+3844247	SE	on the gain of measuring test case prioritization	2013	10.796453343269755	6.118794216303687	3844274
+3845759	SE	an ast-based approach to classifying defects	2015	10.226158721092316	5.658719368651407	3845786
+3845782	SE	verxcombo: an interactive data visualization of popular library version combinations	2015	10.321313053910558	5.538251500004979	3845809
+3845977	SE	putting your best tests forward	2003	10.948423644092165	6.00009153515971	3846004
+3847175	Theory	a proposal for measuring the structural complexity of programs	1990	10.515448935481933	6.165346281328312	3847202
+3847439	SE	can i clone this piece of code here?	2012	10.278744227202102	5.967288614041264	3847466
+3847537	PL	automated usability evaluation of parallel programming constructs	2011	10.747497382320919	6.321904029811903	3847564
+3848685	SE	combining dynamic analysis and visualization to explore the distribution of unit test suites	2015	10.92400320662534	6.017303788031807	3848712
+3852921	SE	introduction to the applications of complex networks in software engineering	2010	10.967707888430416	6.107371314557157	3852948
+3854446	OS	our troubles with linux and why you should care	2011	10.52888376501961	5.845610271161318	3854473
+3855682	SE	using traceability links to recommend adaptive changes for documentation evolution	2014	10.637073976509976	5.83257507596722	3855709
+3856602	OS	better bug reporting with better privacy	2008	10.951726735731556	5.6090086638209975	3856629
+3857203	SE	using a profiler efficiently	2008	10.507483937838435	6.438075180228249	3857230
+3857729	SE	quantifying and assessing the merge of cloned web-based system: an exploratory study	2016	10.24754880894047	6.012330046375323	3857756
+3859745	SE	discovering new change patterns in object-oriented systems	2008	10.63789817416924	5.888032907528509	3859772
+3860747	SE	the use of c++ exception handling constructs: a comprehensive study	2015	10.374279307059425	6.269249396553133	3860774
+3860761	SE	measuring disruption from software evolution activities using graph-based metrics	2011	10.60606502358475	5.888343549451911	3860788
+3861211	SE	co-evolution of source code and the build system	2009	10.737658127636642	6.218764729022781	3861238
+3862416	Arch	an experimental evaluation on reliability features of n-version programming	2005	10.910661659214696	6.349434320659722	3862443
+3862621	SE	dynamic profiling-based approach to identifying cost-effective refactorings	2013	10.61253176457502	6.029601547270545	3862648
+3864982	SE	extraction test cases by using data mining; reducing the cost of testing	2010	10.834058345125337	6.4597108787575115	3865009
+3865101	SE	qualitative analysis for the impact of accounting for special methods in object-oriented class cohesion measurement	2013	10.84425513641574	5.9990414857356225	3865128
+3865411	SE	using software distributions to understand the relationship among free and open source software projects	2007	10.552023823684676	5.725947400306077	3865438
+3865505	SE	how do design decisions affect the distribution of software metrics?	2018	10.780771936070726	6.133033582733668	3865532
+3866591	Security	analyzing a decade of linux system calls	2017	10.60978224323432	5.7057400695300675	3866618
+3866722	SE	size and cohesion metrics as indicators of the long method bad smell: an empirical study	2015	11.008530230478673	5.695808549748397	3866749
+3867675	SE	a systematic literature review: code bad smells in java source code	2017	11.078231445440716	5.609473798321034	3867702
+3869512	SE	on the design of a maintainable software development kit to implement integration solutions	2016	10.549295930824394	6.0459143934681805	3869539
+3869731	SE	an investigation of the fault-proneness of clone evolutionary patterns	2017	10.63185900313463	5.821062805393572	3869758
+3871873	SE	perfranker: prioritization of performance regression tests for collection-intensive software	2017	10.194074369865536	6.2570848272650315	3871900
+3872802	DB	objective vs. subjective measures of error-proneness for rule-based programs	1998	10.722362510930052	5.533664365386469	3872829
+3873643	OS	software evolution: code delta and code churn	2000	10.500544075638851	6.123043167747438	3873670
+3873692	SE	do developers focus on severe code smells?	2016	11.091809255074935	5.670879514695923	3873719
+3873835	SE	software defect prediction using exception handling call graphs: a case study	2016	10.991938887088564	5.665464803782022	3873862
+3874869	HCI	ui x-ray: interactive mobile ui testing based on computer vision	2017	10.188833030728363	5.565156033162936	3874896
+3875439	SE	learning contextual-variability models	2017	10.336909851043297	6.414627326465533	3875466
+3878347	SE	fpa-fl: incorporating static fault-proneness analysis into statistical fault localization	2018	10.51182946002243	5.893824382437433	3878374
+3879263	SE	new complexity model for classes in object oriented system	2010	10.583180465444226	6.350208410449151	3879290
+3879698	SE	detecting and refactoring code smells in spreadsheet formulas	2013	10.81999170121995	6.106711548990776	3879725
+3881126	SE	on the impact of software evolution on software clustering	2012	10.483257014402641	6.196845223320267	3881153
+3881912	SE	mining library migration graphs	2012	10.719373783414412	6.017657938250354	3881939
+3882420	SE	effects of the number of developers on code quality in open source software: a case study	2010	10.915578755849587	5.681820939044808	3882447
+3882577	SE	identification of architectural technical debt: an analysis based on naming patterns	2016	10.625516788425257	5.692031218922441	3882604
+3883739	SE	guiding identification of missing scenarios for dynamic feature location	2016	10.826292446748646	5.676192363450912	3883766
+3884308	SE	equipping the reflexion method with automated clustering	2005	10.308803033773668	6.267320734979736	3884335
+3887384	SE	automatic software validation process	2006	10.219821667204814	6.22266503420713	3887411
+3888149	SE	architectural level hypothesis testing through reverse engineering of object-oriented software	2000	10.741388009464838	5.939328010060398	3888176
+3888243	SE	measuring cohesion of software systems using weighted directed complex networks	2018	10.838568657507873	6.067655157049322	3888270
+3888738	SE	automated identification of parameter mismatches in web applications	2008	10.184910760892869	5.838534608908748	3888765
+3890141	SE	exploring the semantic gap in compiling embedded dsls	2018	10.541158547674122	6.1489715892315004	3890168
+3890307	Web+IR	evaluation methods for web application clustering	2003	10.319232351415387	5.567210059374016	3890334
+3890421	SE	measuring distance between program features	2002	10.753778209004066	6.137891844643643	3890448
+3891051	SE	assessing the evolution of quality in java libraries	2015	11.13005736346406	6.224258304723773	3891078
+3891662	SE	assessing technical debt in automated tests with codescene	2018	10.660669288654304	5.946125893434262	3891689
+3892085	SE	facilitating software refactoring with appropriate resolution order of bad smells	2009	10.881109308035926	6.139826536231522	3892112
+3892685	SE	visualizing clone detection results	2007	10.209405226046204	5.691788740776401	3892712
+3893287	SE	empirical validation of a web fault taxonomy and its usage for fault seeding	2007	10.657581513918263	5.935075820615594	3893314
+3894373	SE	the relationship between software bug type and number of factors involved in failures	2016	10.54489385390518	6.2296064430246565	3894400
+3896254	SE	software evolution	2008	10.521308060587486	5.857986699909016	3896281
+3896920	PL	visualizing the refactoring of classes via clustering	2011	10.275768787885491	6.040649302808274	3896947
+3897756	Robotics	use case and user interface patterns for data oriented applications	2014	10.295154348714556	5.782646101811023	3897783
+3898013	Web+IR	web testing for reliability improvement	2006	10.383950914404114	6.1863692722527395	3898040
+3898669	SE	"""use case-driven performance engineering without """"concurrent users"""""""	2013	10.903159420218588	5.950177525766285	3898696
+3899344	SE	a study of concurrency bugs in an open source software	2016	10.83098517607575	5.848858399350027	3899371
+3900513	SE	dynamic and automatic feedback-based threshold adaptation for code smell detection	2016	10.889735548257782	5.8259465149624745	3900540
+3900670	SE	an empirical study on the effects of code visibility on program testability	2016	10.872451936751439	5.973440447459117	3900697
+3903024	SE	an empirical investigation into the impact of refactoring on regression testing	2012	10.294165721549016	6.179954142479234	3903051
+3905457	SE	dismal code: studying the evolution of security bugs	2013	10.611937224977169	5.550210264295825	3905484
+3905748	SE	comparison of clustering algorithms in the context of software evolution	2005	10.18143316106472	6.0226797764247575	3905775
+3906115	SE	clone detector use questions: a list of desirable empirical studies	2006	10.67014274876475	5.701128548772786	3906142
+3906854	SE	junit: unit testing and coding in tandem	2005	10.584626226810636	6.026881567801701	3906881
+3911560	SE	a hierarchical clustering based approach in aspect mining	2010	10.301015301495738	6.216860602564651	3911587
+3912631	SE	using fuzzy rules for identifying key classes in software systems	2016	10.642758100393564	6.00826813620226	3912658
+3914533	SE	the emergent structure of development tasks	2005	10.439441940801897	6.401627839340793	3914560
+3915966	SE	parameter-based refactoring and the relationship with fan-in/fan-out coupling	2011	11.127766168357818	5.823642233279872	3915993
+3916993	SE	detecting communities of methods using dynamic analysis data	2015	10.727238858556037	6.0281308548477535	3917020
+3917023	SE	anti-pattern mutations and fault-proneness	2014	10.7846831187325	5.813723271668785	3917050
+3917161	SE	evaluation of code and data spatial complexity measures	2009	10.444246448451748	5.603319553056848	3917188
+3917922	SE	api evolution and compatibility: a data corpus and tool evaluation	2017	10.288732231595873	5.957851699030874	3917949
+3918288	SE	temporal software change prediction using neural networks	2007	11.12828705106193	5.639286911250298	3918315
+3918289	SE	causes of architecture changes: an empirical study through the communication in oss mailing lists	2015	10.88465629985397	6.186736804192857	3918316
+3918744	SE	understanding the database manipulation behavior of programs	2014	10.63390018223044	6.168528733131777	3918771
+3920068	SE	fine-grained inspection for higher-assurance software security in open source	2010	10.564707214503432	6.18553311025473	3920095
+3920349	SE	towards seamless analysis of software interoperability: automatic identification of conceptual constraints in api documentation	2016	11.129863032654095	5.796768038466892	3920376
+3921203	SE	a study and toolkit for asynchronous programming in c#	2014	10.262208633281269	5.694507116556383	3921230
+3921765	SE	processes: working group report	2006	10.682943573762415	6.091005633779793	3921792
+3922851	ML	semi-automatic annotation of natural language vulnerability reports	2013	10.704517752366034	6.297137497576289	3922878
+3922865	SE	history of a large test automation project using selenium	2009	10.562828901095683	5.938557915192418	3922892
+3923586	SE	jdf: detecting duplicate bug reports in jazz	2010	10.473986630783893	5.585386161128732	3923613
+3923902	OS	vanessa: visualisation abstraction network for software systems analysis	2005	10.56159483604076	5.9378053655890115	3923929
+3924585	SE	tdtool: threshold derivation tool	2016	11.038663768144998	6.011635574020373	3924612
+3925824	Web+IR	an empirical validation of a web fault taxonomy and its usage for web testing	2009	10.683539415418007	6.012271497305546	3925851
+3925837	SE	model-based testing: next generation functional software testing	2010	10.963785017226664	6.201775969968446	3925864
+3926083	HCI	users need your models!: exploiting design models for explanations	2012	10.789788309118688	5.849650742205566	3926110
+3928857	SE	exception handling bug hazards in android	2016	10.316636782900586	6.01584172211536	3928884
+3929453	SE	improved usage model for web application reliability testing	2011	10.296165828543344	6.172465920322945	3929480
+3930455	SE	on the measures for ranking software components	2017	10.502319474471998	6.138340358665003	3930482
+3930463	SE	clustering for fault prediction with cluffp	2014	10.57084984037467	6.033452111563146	3930490
+3931452	SE	a suite of object oriented cognitive complexity metrics	2018	11.03139314479683	6.045443688950713	3931479
+3933091	SE	automatic test smell detection using information retrieval techniques	2018	10.272905917715189	5.7395492560149775	3933118
+3933831	SE	a method for proactive moderation of code clones in ides	2012	10.717170453745828	5.7296515746088	3933858
+3934951	AI	more comments on 'a cohesion measure for object-oriented classes' by heung-seok chae, yong-rae kwon and doo-hwan bae	2003	10.77315883384857	6.2017194219272245	3934978
+3937919	SE	adapting linux for mobile platforms: an empirical study of android	2012	10.504322215126876	5.629743409377892	3937946
+3944570	Logic	restructuring oodesigner: a case tool for omt	1998	11.011945964701589	6.320298012658691	3944597
+3945304	SE	an empirical comparison of model-based and capture and replay approaches for performance testing	2014	10.678432027487988	6.445157523505725	3945331
+3945349	SE	maintaining evolving domain models	2016	11.084583780219061	5.946543900311962	3945376
+3946392	SE	smplearner: learning to predict software maintainability	2014	10.874864877872486	5.537291340953606	3946419
+3947155	SE	comparative study of clustering techniques for the organization of software repositories	2007	10.822515883914628	6.1849220677025	3947182
+3948091	SE	application of a usage profile in software quality models	1999	11.044736483827856	6.276903950350968	3948118
+3949864	SE	"""an analysis of the """"inconclusive' change report category in oss assisted by a program slicing metric"""	2010	10.909389883446476	5.655534440176842	3949891
+3951662	SE	anti-patterns in infrastructure as code	2018	11.102158034776688	5.766707703456562	3951689
+3953204	SE	evolution and growth in large libre software projects	2005	11.075998086645656	5.548680687981571	3953231
+3953302	SE	an investigation of bad smells in object-oriented design	2006	11.11907519625396	5.756324211273787	3953329
+3954041	SE	hiyerarşik kümeleme ile yazılım mimarisi geri kazanımı	2015	11.009596335676711	6.374903836773129	3954068
+3955069	SE	patterns for continuous integration builds in cross-platform agile software development	2015	10.893766788640141	6.071724528117079	3955096
+3956398	SE	empirical validation of the rcdc and rcde semantic complexity metrics for object-oriented software	2007	10.80428569448766	5.968445718720449	3956425
+3957157	SE	towards open source software system architecture recovery using design metrics	2011	10.593791592304177	6.397112909334488	3957184
+3958030	SE	looking for patterns in code bad smells relations	2011	10.523027670511024	6.011250096768639	3958057
+3958353	SE	the curse of copy&paste — cloning in requirements specifications	2009	10.613238857171662	5.798272565291794	3958380
+3959313	SE	dependable multi-touch interactions in safety critical industrial contexts: application to aeronautics	2015	10.750760266511119	5.545990044271302	3959340
+3961148	SE	an exploratory study of the design impact of language features for aspect-oriented interfaces	2012	10.38836469463563	6.469443890702872	3961175
+3962007	SE	prediction and ranking of co-change candidates for clones	2014	10.352882779060089	5.8429829465220955	3962034
+3964758	SE	analysis of exception handling patterns in java projects: an empirical study	2016	10.21577375256302	6.206173665161996	3964785
+3967326	SE	program comprehension for domain-specific languages	2008	10.502457516860288	5.744766850632277	3967353
+3968427	SE	instruction entropy, a possible measure of program/architecture compatibility	1984	10.771520985917599	5.768029989003421	3968454
+3969032	SE	human recoverability index: a tracelab experiment	2013	11.038245908552987	5.948959003254689	3969059
+3970625	PL	software fault prevention by language choice: why c is not my favorite language	2002	10.233797914915266	5.927356335489942	3970652
+3972033	SE	leaving behind the software history when transitioning to open source: reasons and implications	2018	10.949370660369699	5.718699687483096	3972060
+3972097	SE	identifying crosscutting concerns using historical code changes	2010	10.643734509231095	5.753353214363919	3972124
+3973313	SE	an empirical investigation into a large-scale java open source code repository	2010	10.641641739559008	5.6813095888352905	3973340
+3976443	SE	multi-level random walk for software test suite reduction	2017	10.354137313664065	5.889766605736855	3976470
+3976933	SE	how much integrated development environments (ides) improve productivity?	2013	10.38767612481958	6.247527727021331	3976960
+3977493	SE	improving evolvability through refactoring	2005	10.939631151236458	5.911472507415022	3977520
+3977854	SE	identifying refactoring opportunities in process model repositories	2011	10.515939264525354	6.043656402485085	3977881
+3979017	SE	fragility and evolution of android test suites	2017	10.897829425549517	5.8833895369011975	3979044
+3979380	SE	non-atomic refactoring and software sustainability	2018	11.110015654431972	5.6678548878704635	3979407
+3979582	SE	defining and detecting bad smells of aspect-oriented software	2007	10.467976970596244	6.396016069150767	3979609
+3979753	SE	rapid application of lightweight formal methods for consistency analysis	1998	10.434942132837195	5.900084037143415	3979780
+3980559	SE	the impact of imperfect change rules on framework api evolution identification: an empirical study	2014	10.661778174773717	5.731209137082981	3980586
+3981530	HCI	the future of design specification and verification of safety critical interactive systems.: can our systems be sure (safe, usable, reliable and evolvable)?	2009	10.8449731471857	6.1936985888695935	3981557
+3982654	SE	the use of software probes in testing fortran programs	1974	10.765873248701586	6.1570747837661335	3982681
+3984404	SE	optimized assignment of developers for fixing bugs an initial evaluation for eclipse projects	2009	10.621175499809274	6.073313659220633	3984431
+3985047	SE	object-oriented repository services	2001	10.993114708355536	6.481261923526804	3985074
+3985994	SE	using application states in software testing (poster session)	2000	10.537451850174936	6.4121399265673915	3986021
+3986398	SE	rapid quality assurance with requirements smells	2017	10.901355196401225	5.864006782587353	3986425
+3986422	SE	techniques and processes for improving the quality and performance of open-source software	2006	11.050527720782359	6.267122798723188	3986449
+3988185	SE	an investigation into the impact of software licenses on copy-and-paste reuse among oss projects	2011	11.04218078619033	5.617401449525159	3988212
+3989872	EDA	the clustering algorithm of design pattern using object-oriented relationship	2007	10.181333040320249	6.011166265416508	3989899
+3993076	NLP	a method to identify potential ambiguous malay words through ambiguity attributes mapping: an exploratory study	2014	10.420540477250476	6.2352753823282026	3993103
+3994276	SE	an empirical investigation into the dimensions of run-time coupling in java programs	2004	10.96528214122936	6.08077581099236	3994303
+3994758	SE	towards visual reflexion models	2015	10.343478688227558	5.991215197008965	3994785
+3994774	SE	documenting maintenance tasks using maintenance patterns	2004	10.797292648798829	6.020577094783088	3994801
+3995231	SE	supporting requirements traceability through refactoring	2013	10.287749203260619	5.677493759180153	3995258
+4002209	SE	is software aging related to software metrics?	2010	11.083066561769462	5.830703425785703	4002236
+4003885	SE	validating the use of topic models for software evolution	2010	10.623781870257195	5.667936775523334	4003912
+4005637	SE	approaches to program comprehension	1991	10.823776055684645	6.114004194347287	4005664
+4005888	SE	a hybrid set of complexity metrics for large-scale object-oriented software systems	2010	10.86851378825789	6.03561542660309	4005915
+4006378	SE	semi-automatic rule-based domain terminology and software feature-relevant information extraction from natural language user manuals	2018	10.706229608713382	6.2144543972485256	4006405
+4006863	SE	an exploratory study of exception handling behavior in evolving android and java applications	2016	10.7423852646061	5.781570504723063	4006890
+4009175	SE	a knowledge-based environment for the development of software parts composition systems	1989	10.475005248066797	6.372841910985849	4009202
+4010290	SE	utilizing feature location techniques for feature addition and feature enhancement	2014	10.540448026759158	6.052967425327132	4010317
+4011153	SE	an effective testing method for end-user programmers	2005	10.684819954015447	6.079575975456097	4011180
+4012378	SE	coevolution of variability models and related artifacts: a case study from the linux kernel	2013	10.74472101846037	5.98090214448808	4012405
+4016099	SE	quantitatively exploring non-code software artifacts	2014	10.701722995368126	6.253830004943468	4016126
+4016629	SE	using cluster analysis for characteristics detection in software defect reports	2017	11.040716926264407	5.595836766448167	4016656
+4017289	SE	what can commit metadata tell us about design degradation?	2013	10.472932297377945	5.883663576665213	4017316
+4017482	SE	how do testers do it? an exploratory study on manual testing practices	2009	11.010327257820398	6.259083138797097	4017509
+4017808	SE	database cost analysis: a top-down approach	1977	10.644100224597883	5.676732707327515	4017835
+4020576	SE	an empirical study on the fault-proneness of clone migration in clone genealogies	2014	10.644548658487713	5.818120630988319	4020603
+4022776	Visualization	detecting bad smells in software systems with linked multivariate visualizations	2018	10.475880349044976	5.570586226936387	4022803
+4022809	SE	complex dependencies in large software systems	2009	10.89875752243319	5.925296470288866	4022836
+4022883	SE	recovering traceability links between requirements and source code in the same series of software products	2013	10.604478485988343	6.3479409287763335	4022910
+4023214	Logic	software complexity analysis for multitasking systems implemented in the programming language c	2005	10.685645622637747	5.869250252009965	4023241
+4023315	SE	spreadsheet guardian: an approach to protecting semantic correctness throughout the evolution of spreadsheets	2018	10.713460864261249	6.020184177361973	4023342
+4023518	SE	a lightweight and flexible process for designing intuitive error handling and effective error messages	2009	10.543369634201882	6.050971665577703	4023545
+4024939	SE	how do automatically generated unit tests influence software maintenance?	2018	10.2105063907435	5.968328687627733	4024966
+4026414	SE	towards the formalization of software measurement by involving network theory	2015	10.838441283684418	6.079837030911789	4026441
+4028193	SE	monitoring software quality by means of simulation methods	2016	10.665452090624765	6.260395221082562	4028220
+4028219	SE	improving the applicability of object-oriented class cohesion metrics	2011	10.817982982278517	5.984317532826883	4028246
+4028772	SE	unifying configuration management with merge conflict detection and awareness systems	2013	10.79884122479894	5.909060476360557	4028799
+4029159	SE	the role of analogy in software reuse	1993	10.578143309473512	5.718017363864028	4029186
+4029604	SE	an investigation of object-oriented and code-size metrics as dead code predictors	2014	10.457408427197477	5.947724415678677	4029631
+4029963	ML	learning to rank extract method refactoring suggestions for long methods	2017	10.267617682812537	5.70370623278061	4029990
+4030282	PL	investigating correlation between the object-oriented design maintainability and two sub-characteristics: understandability and modifiability.	2004	10.457941298045435	6.246285825372911	4030309
+4032061	SE	bug characteristics in blockchain systems: a large-scale empirical study	2017	10.74689211139668	5.721461444226844	4032088
+4032384	SE	is cloned code really stable?	2017	11.083522894283474	5.778346712824176	4032411
+4032491	SE	improving software maintenance for pattern-based software development: a comment refactoring approach	2014	10.531392187972415	5.9929366456504	4032518
+4032522	OS	our troubles with linux kernel upgrades and why you should care	2013	10.529279152062731	5.8274902734482295	4032549
+4033483	SE	using developers' feedback to improve code smell detection	2015	10.761136524820488	5.8687502404719005	4033510
+4033524	SE	metric attitude	2013	10.199887170112607	6.333727773405527	4033551
+4033710	SE	mining evolution data of a product family	2005	11.128222823403123	5.882990798506805	4033737
+4034690	SE	total recall, language processing, and software engineering	2018	10.77392550261328	5.872952247234199	4034717
+4036226	SE	software visualization for reverse engineering	2001	10.4058140322632	5.929395526015003	4036253
+4036405	SE	an empirical analysis of the co-evolution of schema and code in database applications	2013	10.317681434317391	6.174959494997338	4036432
+4036424	SE	spotting design problems with smell agglomerations	2016	10.790359302441594	5.902884784322553	4036451
+4042446	SE	identification of methods with low fault risk	2018	10.449691749296768	5.974089040206804	4042473
+4044187	SE	architecture recovery using latent semantic indexing and k-means: an empirical evaluation	2010	10.219799570715995	6.116676201541469	4044214
+4046265	SE	usefulness evaluation of simulation in server system testing	2012	10.290408293446516	5.782503729575679	4046292
+4046910	SE	an investigation of design level class cohesion metrics	2012	10.74156816939155	5.747360549798608	4046937
+4047097	SE	on the relation of test smells to software code quality	2018	10.814711526620119	5.619679142450167	4047124
+4051252	SE	impact of using a static-type system in computer programming	2017	11.10574137100451	5.708533974129861	4051279
+4052395	Arch	virus removal cost (vrc) metric	2006	10.183627122698443	5.728731255671827	4052422
+4052438	SE	lightweight, semi-automated enactment of pragmatic-reuse plans	2008	10.801667826300864	6.4054250487136475	4052465
+4053361	SE	automatically classifying functional and non-functional requirements using supervised machine learning	2017	10.857727856009458	5.671804386521975	4053388
+4055056	Web+IR	usage-pattern based statistical web testing and reliability measurement	2013	10.562228595520132	6.0287693982797945	4055083
+4055067	SE	impact of selected java idioms on source code maintainability - empirical study	2014	10.570209105188662	6.089281214917175	4055094
+4055713	SE	an empirical study of identical function clones in cran	2015	10.555557272549256	5.837445807072258	4055740
+4057906	SE	is duplicate code more frequently modified than non-duplicate code in software evolution?: an empirical study on open source software	2010	10.693952483397288	5.8914543878935435	4057933
+4058272	SE	feature interaction networks	2010	10.662366468664386	5.9340634953794575	4058299
+4062496	SE	class movement and re-location: an empirical study of java inheritance evolution	2010	10.348396405526424	5.997004163124894	4062523
+4064131	Logic	hope: extensible system for automatic & periodic diagnosis of offshore software project	2007	10.398477306406562	5.564100383716707	4064158
+4064225	SE	estimation of test code changes using historical release data	2008	10.98649359628046	5.804141787577512	4064252
+4065490	SE	a study of monitoring crosscutting concerns implementation	2018	10.933379647731991	6.450584414074737	4065517
+4065701	SE	studying software evolution using artefacts' shared information content	2011	10.792826852885009	6.1009322525800815	4065728
+4069026	SE	an empirical study of the impact of bad designs on defect proneness	2017	11.00742560515368	5.5597064763741155	4069053
+4071292	SE	security code smells in android icc	2018	10.531408398592731	5.77125299018505	4071319
+4073153	SE	network analysis of evolving software-systems	2017	10.872575050298517	6.04112633624301	4073180
+4073336	SE	a controlled experiment template for evaluating the understandability of model transformation languages	2016	11.070430533574674	5.751235729484731	4073363
+4073359	SE	visualizing user story requirements at multiple granularity levels via semantic relatedness	2016	11.051362273696013	6.4499933451839775	4073386
+4073961	SE	refactoring tools and complementary techniques	2006	10.45049031890098	6.30318530648233	4073988
+4078096	SE	summarization of complex software artifacts	2014	10.318553928434884	6.080782707404258	4078123
+4078207	SE	generating precise dependencies for large software	2012	10.498750099868401	6.420729377315388	4078234
+4079470	Web+IR	designing quality web applications using patterns	2004	10.874028170475334	5.8577640655349485	4079497
+4080522	Robotics	dimensional inconsistencies in code and ros messages: a study of 5.9m lines of code	2017	10.37528104771731	5.993416727801449	4080549
+4080873	SE	empirical effectiveness evaluation of spectra-based fault localization on automated program repair	2013	10.721317791324873	6.200989075138415	4080900
+4082202	SE	software refactoring at the function level using new adaptive k-nearest neighbor algorithm	2010	10.605898927712264	6.198451687301582	4082229
+4084762	SE	visual assessment of software evolution	2007	10.286728276128848	5.726171593462372	4084789
+4090383	SE	clustering classes in packages for program comprehension	2017	10.382769699223145	5.601846012318113	4090410
+4092779	OS	automatic on-line failure diagnosis at the end-user site	2006	10.202429745223881	6.001060373804259	4092806
+4092884	SE	are the classes that use exceptions defect prone?	2011	10.859193671944345	5.911610582620468	4092911
+4093188	SE	apievolutionminer: keeping api evolution under control	2014	10.189229404580916	6.051169913485133	4093215
+4095485	SE	visualizing co-change information with the evolution radar	2009	10.189442978516322	6.417085064298343	4095512
+4097053	SE	an empirical study of social networks metrics in object-oriented software	2010	10.935874098456138	5.860456403839418	4097080
+4098418	SE	identifying extract class refactoring opportunities using structural and semantic cohesion measures	2011	10.410051508557007	6.118083794165182	4098445
+4098435	SE	a detailed examination of the correlation between imports and failure-proneness of software components	2009	11.053590467540502	5.8341330558061575	4098462
+4099150	OS	orca: differential bug localization in large-scale services	2018	10.357440664121402	6.140834710193691	4099177
+4099800	SE	3ci: a tool for crosscutting concern identification	2008	10.652498712837303	6.315259942101545	4099827
+4101046	SE	can network analysis techniques help to predict design dependencies? an initial study	2018	10.457648264678193	6.1168861351382064	4101073

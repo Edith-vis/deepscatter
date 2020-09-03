@@ -1,0 +1,419 @@
+id	area	title	year	x	y	ix
+3378054	Vision	a robust face detector under partial occlusion	2004	-4.232320392355579	-14.541544267771142	3378081
+3378172	Vision	on the impact of illumination-invariant image pre-transformation for contemporary automotive semantic scene understanding	2018	-4.315758083487708	-13.746580796388974	3378199
+3378968	Vision	scene classification by feature co-occurrence matrix	2014	-3.3636395890285478	-14.083340706675944	3378995
+3382771	Robotics	tuning asymboost cascades improves face detection	2007	-3.987955533274576	-14.275684620345073	3382798
+3383757	Vision	shape-appearance-correlated active appearance model	2016	-3.9115108939825696	-14.187233424853375	3383784
+3384570	Vision	recognition and detection of occluded faces by a neural network classifier with recursive data reconstruction	2003	-4.293520348532976	-14.429380244544134	3384597
+3386882	AI	improving identification performance by integrating evidence from sequences	1999	-4.031041359634556	-14.227068688926732	3386909
+3388151	Vision	a fast method for training support vector machines with a very large set of linear features	2002	-3.6662963402396076	-14.175807446836345	3388178
+3388499	Vision	composed complex-cue histograms: an investigation of the information content in receptive field based image descriptors for object recognition	2012	-3.68682972835712	-14.20919680375444	3388526
+3390369	Vision	capturing image structure with probabilistic index maps	2004	-4.04395335840004	-13.800310960617914	3390396
+3391533	Vision	boosted complex moments for discriminant rotation invariant object recognition	2008	-3.961574019404543	-14.302321222334756	3391560
+3392431	Vision	a feature fusion strategy for person re-identification	2016	-3.6174313643700433	-13.828204988830091	3392458
+3393401	Vision	square localization for efficient and accurate object detection	2015	-4.066900244063532	-13.802099474525912	3393428
+3393713	Vision	discriminative multimanifold analysis for face recognition from a single training sample per person	2011	-3.4005737240231486	-13.912982869486608	3393740
+3395146	HCI	extension of gbvs to 3d media	2014	-4.0178494615510365	-14.563806569160807	3395173
+3397917	Vision	constructing facial identity surfaces for recognition	2003	-3.5512011200995928	-14.565352403142555	3397944
+3404016	Vision	inferring hand pose: a comparative study of visual shape features	2013	-3.895774113390596	-13.801515535711776	3404043
+3405810	Vision	advancement in the head pose estimation via depth-based face spotting	2016	-4.272767474978609	-14.115389128281526	3405837
+3407604	Vision	learning hierarchical feature representation in depth image	2014	-3.825580171851442	-13.945769527277525	3407631
+3409754	ML	object classification using simple, colour based visual attention and a hierarchical neural network for neuro-symbolic integration	1999	-3.754474364688288	-13.981514945915515	3409781
+3414210	Vision	from one to many: pose-aware metric learning for single-sample face recognition	2018	-4.176797021778064	-13.830694600681108	3414237
+3415393	Vision	sunset scene classification using simulated image recomposition	2003	-4.106121788089786	-14.15108935927743	3415420
+3415711	Vision	automatic target recognition in infrared imagery using dense hog features and relevance grouping of vocabulary	2014	-3.4240921958096946	-14.254144187670505	3415738
+3416181	Vision	adaptive skew-sensitive fusion of ensembles and their application to face re-identification	2015	-3.375108645008255	-13.865188111233715	3416208
+3419033	Vision	cnns with cross-correlation matching for face recognition in video surveillance using a single training sample per person	2017	-3.3738003877154705	-13.781038287406785	3419060
+3420278	Vision	orientation contrast model for boundary detection	2014	-4.021378591816696	-14.472734513354885	3420305
+3425072	Vision	video-based face recognition on real-world data	2007	-3.5855346209520502	-14.434899793952574	3425099
+3428185	Vision	cue integration by similarity rank list coding - application to invariant object recognition	2017	-4.294105202708457	-14.239131376565284	3428212
+3428387	Vision	a segmentation-free method for image classification based on pixel-wise matching	2013	-4.273982190653761	-14.242031426488275	3428414
+3430018	Vision	efficient human action recognition using histograms of motion gradients and vlad with descriptor shape information	2017	-3.5023934600811506	-13.854019880139987	3430045
+3431746	Vision	on aggregated 2d gabor features for appearance-based face recognition	2005	-3.5766678913318595	-14.520191888144245	3431773
+3434221	Vision	in the pursuit of effective affective computing: the relationship between features and registration	2012	-3.9790960766426613	-13.781735006837803	3434248
+3435904	Vision	license plate detection and recognition in unconstrained scenarios	2018	-3.546244916362501	-13.993665456889412	3435931
+3437749	Vision	automatic classification of digital photographs based on decision forests	2004	-3.694380120941718	-14.473029625482464	3437776
+3438877	Vision	violence detection in video by large scale multi-scale local binary pattern dynamics	2012	-3.99398764568589	-14.25716749767501	3438904
+3439273	ML	the roc-boost design algorithm for asymmetric classification	2011	-4.062484635140104	-13.967146009214929	3439300
+3440305	NLP	feature aggregation in iconic model evaluation	1988	-4.189586082741413	-13.938371314351555	3440332
+3442357	Vision	multi-level feature descriptor for robust texture classification via locality-constrained collaborative strategy	2012	-4.045481187159663	-14.567623306796484	3442384
+3442490	Vision	a random decision forests approach to face detection	2014	-4.159741587803056	-14.237418169560142	3442517
+3442493	Robotics	unsupervised scene classification based on context of features for a mobile robot	2011	-3.5786243333275363	-13.78234198290472	3442520
+3444228	Vision	is rotation a nuisance in shape recognition?	2014	-4.256998281142031	-14.013340303995529	3444255
+3445458	Vision	face recognition based person specific identification for video surveillance applications	2015	-3.5396774417570533	-14.188195375012109	3445485
+3446878	Vision	dynamic scene recognition based on improved visual vocabulary model	2014	-3.562141905609413	-13.899521218209147	3446905
+3447152	Vision	multi-view texture classification using hierarchical synthetic images	2016	-3.892510134981939	-14.213806303135767	3447179
+3448185	Vision	dynamic background subtraction via sparse representation of dynamic textures in a low-dimensional subspace	2016	-4.162624788779174	-13.669555921021486	3448212
+3450925	Vision	local graph matching for object category recognition	2007	-4.012218790484456	-13.705100941506805	3450952
+3451455	Vision	re-identification of visual targets in camera networks: a comparison of techniques	2011	-3.3864064587234504	-14.32977621195581	3451482
+3454301	Vision	define a fingerprint orientation field pattern	2016	-4.103866081132187	-14.194504584278006	3454328
+3455436	ML	neural network trigger algorithms for heavy quark event selection in a fixed target high energy physics experiment	1992	-4.12152200134531	-14.228112199541087	3455463
+3456469	Vision	multilevel image coding with hyperfeatures	2007	-3.9881222100245592	-14.043767514662305	3456496
+3458459	Vision	discriminating projections for estimating face age in wild images	2014	-3.4200825784380573	-14.2310124896891	3458486
+3460290	Vision	recognizing facial expressions at low resolution	2005	-3.6269485223941516	-14.151789809961818	3460317
+3461880	Vision	dynamic ensembles of exemplar-svms for still-to-video face recognition	2017	-3.6436332997844585	-13.85834942331398	3461907
+3463855	Vision	inpainting of sparse occlusion in face recognition	2012	-4.1814255630693165	-13.981466990807755	3463882
+3467001	Vision	spatio-temporal pyramid cuboid matching for action recognition using depth maps	2015	-3.3667186408718943	-14.00312175459134	3467028
+3467818	Vision	facial expressive image analysis by using nonlinear factorization model	2004	-3.3797013785278582	-14.401128743713686	3467845
+3469992	Vision	local texture patterns for traffic sign recognition using higher order spectra	2017	-4.052230921296289	-14.309521878615564	3470019
+3471771	Robotics	fusion of 2d and 3d data in three-dimensional face recognition	2004	-3.772058198326376	-14.223354049606339	3471798
+3472952	Vision	feature optimality-based semi-supervised face recognition approach	2016	-3.647598245227921	-14.07470281379766	3472979
+3472996	Vision	dynamic feature learning for partial face recognition	2018	-4.036117316715352	-13.825702560953404	3473023
+3473470	AI	isaboost: a weak classifier inner structure adjusting based adaboost algorithm - isaboost based application in scene categorization	2013	-4.077648527898807	-13.69516496744632	3473497
+3473796	Vision	example-based object detection in images by components	2001	-4.237820656197114	-14.457945957119293	3473823
+3477012	Vision	an effective head pose estimation approach using lie algebrized gaussians based face representation	2013	-3.951492884986848	-14.047045221312494	3477039
+3477865	AI	face classification via sparse approximation	2011	-3.840126497166509	-14.145726096906	3477892
+3482597	Vision	combining multiple features for cross-domain face sketch recognition	2016	-3.7111815609436634	-14.553426040062073	3482624
+3484417	Vision	face recognition and alignment using support vector machines	2008	-3.894640781648824	-14.584580351746034	3484444
+3486816	Robotics	human detection using local shape and non-redundant binary patterns	2010	-3.7064125196045934	-14.58759871416107	3486843
+3490149	Vision	unsupervised learning from local features for video-based face recognition	2008	-3.40375472954174	-13.747553336948162	3490176
+3491488	Vision	recognizing shapes in video sequences using multi-class boosting	2008	-4.092091992238358	-14.117413682774375	3491515
+3493320	Vision	environment recognition based on images using bag-of-words	2017	-3.4520150326248387	-14.372705032383301	3493347
+3493507	Vision	disentangling chromosome overlaps by combining trainable shape models with classification evidence	2002	-3.7647090960446716	-13.97116456779408	3493534
+3494140	Vision	efficient image appearance description using dense sampling based local binary patterns	2012	-4.082626283229505	-14.515559620255347	3494167
+3495898	Vision	compensating for pose and illumination in unconstrained periocular biometrics	2013	-4.291494642138844	-14.541220752473766	3495925
+3496650	Vision	fast cortical keypoints for real-time object recognition	2013	-3.5242899347129737	-14.515486242476351	3496677
+3498739	Vision	in defense of sparsity based face recognition	2013	-3.790576784365728	-14.243620183327007	3498766
+3500309	Vision	an improved image classification method considering rotation based on convolutional neural network	2016	-3.7812256443529937	-13.853622630334284	3500336
+3500407	Vision	robust hand detection	2004	-3.5766291784392017	-14.436789974542213	3500434
+3506985	Robotics	hog feature human detection system	2016	-4.133426714180604	-14.369095861824881	3507012
+3508125	Vision	on partial least squares in head pose estimation: how to simultaneously deal with misalignment	2012	-4.121891744165162	-13.841908530734043	3508152
+3508612	Vision	learning compact discriminant local face descriptor with vlad	2015	-3.4251152181100863	-13.790657809457395	3508639
+3509920	Vision	keypoint signatures for fast learning and recognition	2008	-4.197765771597947	-13.91578417405616	3509947
+3514214	Vision	a new dataset and evaluation for infrared action recognition	2015	-3.5406957590184414	-14.078136237826774	3514241
+3516498	Vision	orientational pyramid matching for recognizing indoor scenes	2014	-4.0648339516922105	-13.769804236646259	3516525
+3516634	Vision	classifiers for motion	2006	-3.805101662179784	-14.124479739085324	3516661
+3516670	Vision	a multi-scale and multi-pose face detection system	2005	-4.176621599123552	-14.16526190997491	3516697
+3519061	ML	feature reduction using similarity measure in object detector learning with haar-like features	2015	-3.740570029214056	-14.572309720582512	3519088
+3521580	Vision	context modeling for facial landmark detection based on non-adjacent rectangle (nar) haar-like feature	2012	-3.8402068718401385	-13.818986005284744	3521607
+3522249	Vision	image classification without segmentation using a hybrid pyramid kernel	2013	-3.4383522036142486	-13.773117389092045	3522276
+3524923	Vision	human action recognition using key points displacement	2010	-3.48391440496736	-14.075265797582789	3524950
+3527266	Vision	jet-based local image descriptors	2012	-3.9814213379247874	-13.792853128034835	3527293
+3527602	ML	hyperplane arrangements for the fast matching and classification of visual landmarks	2014	-4.321748412812391	-13.726105670075727	3527629
+3531175	Vision	vehicle recognition for surveillance video using sparse coding	2014	-4.260266072859321	-13.808432835321147	3531202
+3531558	EDA	adaptive representation-based face sketch-photo synthesis	2017	-3.362622987319282	-14.115087403140047	3531585
+3535280	Vision	ifr: interactively pose corrected face recognition	2016	-4.298606687733718	-14.566059114197335	3535307
+3537078	Vision	enhanced face detection using body part detections for wearable cameras	2016	-3.738030388600657	-13.976832906778176	3537105
+3538684	AI	an human perceptive model for person re-identification	2015	-4.16791162116587	-14.342676193049734	3538711
+3540102	Vision	robust kernel representation with statistical local features for face recognition	2013	-3.880216461287557	-14.476678760169479	3540129
+3540686	Vision	facial expression recognition based on multi-scale cnns	2016	-3.363582785138761	-14.479764039807014	3540713
+3542101	Vision	depth-based frontal view generation for pose invariant face recognition with consumer rgb-d sensors	2016	-3.373036760431375	-14.22094483995015	3542128
+3544073	Vision	person re-identification by video ranking	2014	-3.4838610569019366	-13.67235520214049	3544100
+3548001	Vision	efficient object pixel-level categorization using bag of features	2009	-3.586512712808833	-14.285409864056385	3548028
+3548147	Visualization	perceptual 3d pose distance estimation by boosting relational geometric features	2009	-4.319386169290189	-14.007713036685978	3548174
+3548349	AI	sar target configuration recognition based on the biologically inspired model	2017	-3.777268284053521	-13.644048071910493	3548376
+3551916	Vision	fusing segmentation and classification from multiple features	2004	-4.126388245004215	-13.647346163044048	3551943
+3552293	Vision	modeling and recognizing action contexts in persons using sparse representation	2015	-4.029729511032548	-14.444490529458148	3552320
+3552528	Vision	multiview gait recognition based on silhouettes generated after shadow detection and removal using photometric properties method	2011	-3.9149416207007612	-14.19599440863017	3552555
+3553000	Vision	beyond principal components: deep boltzmann machines for face modeling	2015	-4.08059776159972	-13.931246159027234	3553027
+3555646	Vision	relevance segmentation of laparoscopic videos	2013	-3.7342857275359314	-14.180566950976036	3555673
+3557514	Vision	face recognition using balanced pairwise classifier training	2009	-3.437242590615471	-14.246759126614661	3557541
+3557763	Vision	learning shape classes	1994	-3.9367341162627865	-13.883823548530865	3557790
+3560090	Vision	roi-hog and lbp based human detection via shape part-templates matching	2012	-4.297229177250829	-14.25770163988389	3560117
+3561776	Vision	irs: a hierarchical knowledge based system for aerial image interpretation	1990	-3.5818233480801687	-13.895059052264914	3561803
+3563820	Vision	improved gait recognition using gradient histogram energy image	2012	-3.8150916749280066	-14.549530495679836	3563847
+3563930	AI	opponent colors for human detection	2011	-4.095350147792845	-14.58837898264554	3563957
+3564913	Vision	traffic sign recognition using complementary features	2013	-3.9525108358821748	-14.345499667519189	3564940
+3565526	AI	a classification-selection approach for self updating of face verification systems under stringent storage and computational requirements	2015	-3.426633563575092	-14.560953488792887	3565553
+3565668	Vision	a statistical model based on spatio-temporal features for action recognition	2011	-4.105887296589478	-14.155411320935974	3565695
+3566458	Vision	maximizing intra-individual correlations for illumination-insensitive face recognition	2010	-4.009766074773953	-14.443711318369653	3566485
+3572349	Vision	towards large-scale face recognition based on videos	2015	-3.490832675257572	-14.49339299544013	3572376
+3573106	Vision	early terminating algorithms for adaboost based detectors	2009	-4.070335508519156	-13.657380514982128	3573133
+3576268	Vision	on using hough forests for robust face detection	2014	-3.976059205209309	-14.06901859139323	3576295
+3581811	Vision	robust face detection using local cnn and svm based on kernel combination	2016	-3.540518391562013	-13.977572423352651	3581838
+3583544	Vision	a translational invariant sar-atr method based on convolutional neural networks	2018	-4.072603440686931	-14.240151987363213	3583571
+3583719	Vision	fast feature value searching for face detection	2008	-3.9595076809010177	-13.896294071953118	3583746
+3584374	Vision	how to learn an illumination robust image feature for place recognition	2013	-4.141504787196316	-13.681153218254812	3584401
+3586553	Vision	deep networks for saliency detection via local estimation and global search	2015	-4.2906218338608655	-13.651723967387605	3586580
+3591124	Vision	robust head-shoulder detection by pca-based multilevel hog-lbp detector for people counting	2010	-4.318800228536322	-13.86018426918702	3591151
+3591322	Robotics	discovering class-specific informative patches and its application in landmark charaterization	2010	-3.9739391255762855	-13.867511121834884	3591349
+3592563	Vision	fusing visual and range imaging for object class recognition	2011	-3.980881025749072	-14.152316718873859	3592590
+3593668	Vision	3d object recognition with a specialized mixtures of experts architecture	1999	-4.301813179612893	-13.719387328729244	3593695
+3594256	Vision	script identification in natural scene images: a dataset and texture-feature based performance evaluation	2016	-3.7337544685177098	-14.154584478035614	3594283
+3594710	Vision	unsupervised moving object detection with on-line generalized hough transform	2010	-3.630135555630852	-13.77374659715541	3594737
+3596225	Vision	set distance functions for 3d object recognition	2013	-4.199646665573011	-13.794668867231914	3596252
+3597899	Vision	capturing subtle facial motions in 3d face tracking	2003	-3.8661745630762607	-14.223264410177915	3597926
+3599239	Vision	matching local self-similarities across images and videos	2007	-3.808827852737937	-13.977231430703158	3599266
+3599307	Vision	driver head pose estimation using efficient descriptor fusion	2016	-4.246624658133928	-14.352251005546998	3599334
+3599992	ML	combined neural network and rule-based framework for probabilistic pattern recognition and discovery	1991	-4.1093470163132695	-13.83711636093258	3600019
+3600816	Vision	vehicle image matching using siamese neural networks with multi-directional image projections	2018	-4.092837529839287	-14.140915251903513	3600843
+3601498	Vision	recognition of object categories using affine kernels	2010	-3.7291698852293997	-13.945734296373479	3601525
+3601691	Vision	face sketch synthesis from a single photo–sketch pair	2017	-3.745476815322119	-13.721080970569274	3601718
+3602277	Vision	robust face representation using hybrid spatial feature interdependence matrix	2013	-3.865687402594455	-14.370453619811986	3602304
+3607913	Vision	a dynamic curvature based approach for facial activity analysis in 3d space	2012	-3.5586232300254523	-14.529127349702694	3607940
+3609734	Vision	multi-view gender classification using symmetry of facial images	2011	-3.586783206207824	-14.542769525686472	3609761
+3612245	Robotics	a unified architecture for the detection and classification of license plates	2008	-3.9736569022241746	-14.007025783538456	3612272
+3618536	Vision	comparing salient object detection results without ground truth	2014	-4.040469772236871	-13.649312951905642	3618563
+3623380	Vision	a new approach for traffic-sign recognition using sparse representation over dictionary of local descriptors	2017	-4.099661578937998	-14.102614738660595	3623407
+3625763	Vision	cascade of complementary features for fast and accurate pedestrian detection	2010	-3.7067336753010847	-14.066200437609579	3625790
+3625774	Vision	scene text recognition using co-occurrence of histogram of oriented gradients	2013	-3.8187255016158135	-13.828769277938148	3625801
+3626859	Vision	parts-based 3d object classification	2004	-4.2980350436495005	-13.779868953266414	3626886
+3628357	Vision	robust face recognition using 2d and 3d data: pose and illumination compensation	2005	-4.199453398957818	-14.178399150037075	3628384
+3630982	Vision	beyond bags of features: spatial pyramid matching for recognizing natural scene categories	2006	-3.855806940758043	-14.139461612031916	3631009
+3631373	Vision	local features and kernels for classification of texture and object categories: a comprehensive study	2006	-3.587183875337772	-14.03028416205104	3631400
+3631423	Vision	robust face recognition via accurate face alignment and sparse representation	2010	-3.9664530992635236	-14.08661425926974	3631450
+3637219	AI	learning statistical structure for object detection	2003	-4.070737641194151	-13.909354003325145	3637246
+3640054	Robotics	on integration of features and classifiers for robust vehicle detection	2008	-4.12975509981697	-13.854072158726218	3640081
+3641512	Vision	gaussian weak classifiers based on co-occurring haar-like features for face detection	2012	-3.6375478072510776	-13.676191320423731	3641539
+3643737	Vision	bmax: a bag of features based method for image classification	2015	-3.5144848847092165	-14.373906366191454	3643764
+3643958	Vision	a multimodal constellation model for object image classification	2010	-3.8652008010051087	-14.264357712949641	3643985
+3644499	Vision	multi-oriented text detection with fully convolutional networks	2016	-3.7950228323150976	-13.92613685724009	3644526
+3650935	Visualization	detection of lane-change events in naturalistic driving videos	2018	-4.005560299893662	-14.33662500311356	3650962
+3651402	Vision	boosting local feature based classifiers for face recognition	2004	-3.8165760333647936	-14.299765199975704	3651429
+3651976	Vision	facial pose estimation via dense and sparse representation	2014	-4.040023605016419	-13.767581537375293	3652003
+3652426	Mobile	realsense = real heart rate: illumination invariant heart rate estimation from videos	2016	-3.6541874103675727	-14.065011584494819	3652453
+3654233	Vision	sparse support faces	2015	-3.5400975874903513	-14.176668848479359	3654260
+3657440	Vision	optimized sift feature matching for image retrieval	2012	-3.983349139691147	-14.231730047433407	3657467
+3660320	AI	driver state analysis based on imperfect multi-view evidence support	2017	-3.6708571740521365	-13.78652426319275	3660347
+3660387	Vision	optimal combination of low-level features for surveillance object retrieval	2011	-3.694867813060887	-14.19988341442915	3660414
+3662079	Vision	occlusion pattern-based dictionary for robust face recognition	2016	-4.316836052287888	-14.315852711122735	3662106
+3662415	Vision	a method for converting a smiling face to a neutral face with applications to face recognition	2005	-3.8961553237867887	-14.56352983762662	3662442
+3663888	Vision	complex cell descriptor learning for robust object recognition	2011	-3.682905160278275	-14.594695263602365	3663915
+3669233	Vision	fast fingerprint classification with deep neural networks	2017	-3.415602307395551	-14.3017963978234	3669260
+3674135	Vision	an ensemble of invariant features for person re-identification	2015	-3.6965299434121364	-13.69489744712725	3674162
+3676141	Vision	salient features for visual word based image copy detection	2014	-4.116409165393788	-14.411699241675544	3676168
+3680153	Vision	a pyramid nearest neighbor search kernel for object categorization	2012	-3.4528687967615195	-13.76791737255484	3680180
+3685363	Vision	robust partial face recognition using instance-to-class distance	2013	-3.813465927853823	-13.961593191917007	3685390
+3685529	Vision	biased manifold embedding: a framework for person-independent head pose estimation	2007	-3.8286519352530015	-14.046513026944954	3685556
+3686576	Vision	learning co-occurrence of local spatial strokes for robust character recognition	2014	-3.638792390801578	-14.083117623710521	3686603
+3688035	Vision	an hog-ct human detector with histogram-based search	2011	-4.084679552390973	-14.554733336892927	3688062
+3689208	Vision	discriminative learning of contour fragments for object detection	2011	-4.141406972182407	-13.755261298635778	3689235
+3690110	Vision	a framework for joint facial expression recognition and point localization	2016	-3.6655067374977084	-13.806898486521455	3690137
+3690282	Vision	near-duplicate keyframe identification with interest point matching and pattern learning	2007	-3.883863695836829	-13.791970298884976	3690309
+3693670	Vision	3d facial landmark detection: how to deal with head rotations?	2015	-3.748208143328137	-14.20772614053844	3693697
+3696113	Robotics	what parts of a shape are discriminative?	2013	-4.153932453188976	-14.28471313523937	3696140
+3697453	Vision	from local descriptors to holistic models: a general framework embedding video processing and object representation	2014	-4.1821067112734776	-14.204180359873446	3697480
+3697809	Robotics	comparison of similarity measures for trajectory clustering in outdoor surveillance scenes	2006	-3.931286739258317	-13.89773962409634	3697836
+3700437	Vision	pose-robust face signature for multi-view face recognition	2015	-4.259576441785997	-13.978276306688814	3700464
+3702525	Vision	translation-symmetry-based perceptual grouping with applications to urban scenes	2010	-3.699276382991537	-13.853431295404267	3702552
+3707374	Vision	feature set reduction for image matching in large scale environments	2012	-3.631194996385628	-14.106043844077536	3707401
+3708304	Robotics	saliency ranking for benthic survey using underwater images	2010	-4.080314436936041	-14.312305706515154	3708331
+3712811	Vision	video-based face recognition based on view synthesis from 3d face model reconstructed from a single image	2008	-4.164870274440298	-14.170591006190731	3712838
+3714011	Vision	exemplar-based color constancy and multiple illumination	2014	-4.2083173076975084	-14.052792877560579	3714038
+3718991	Vision	informed haar-like features improve pedestrian detection	2014	-3.813382249370884	-13.663941986637251	3719018
+3720028	Vision	optimal performance-efficiency trade-off for bag of words classification of road signs	2014	-3.7117957478568453	-14.378558704354587	3720055
+3720601	Vision	color constancy by category correlation	2012	-3.7194976659483654	-14.259054264554296	3720628
+3722949	Vision	learning a classification model for segmentation	2003	-3.8052898304000133	-14.082632749701755	3722976
+3724157	Vision	noise-resistant deep learning for object classification in three-dimensional point clouds using a point pair descriptor	2018	-3.904256835167751	-13.897437667826187	3724184
+3724689	Vision	robust face recognition with deeply normalized depth images	2018	-3.796616157119472	-14.436033541672664	3724716
+3726526	Vision	weight, sex, and facial expressions: on the manipulation of attributes in generative 3d face models	2009	-3.6148186927240533	-13.885408932860804	3726553
+3727403	Vision	interleaved object categorization and segmentation	2003	-3.741285096762365	-13.8727692119141	3727430
+3728830	Vision	a unified framework for thermal face recognition	2014	-3.830676436001529	-14.526167172229874	3728857
+3730320	Graphics	painting style transfer for head portraits using convolutional neural networks	2016	-3.88276507059821	-13.97836576793642	3730347
+3730714	Vision	a comparison of data representation types, feature types and fusion techniques for 3d face biometry	2006	-4.310954689675572	-14.319505562827768	3730741
+3732600	Vision	video saliency detection based on spatiotemporal feature learning	2014	-3.4193613604188555	-13.940924657787384	3732627
+3736133	Vision	robust spatio-temporal features for human action recognition	2011	-3.9601799334155863	-14.339612055474436	3736160
+3737952	Vision	learning optimised representations for view-invariant gait recognition	2017	-3.4723627582477974	-14.217403891165885	3737979
+3740388	Vision	characterizing humans on riemannian manifolds	2013	-3.93389780870232	-13.882524923718051	3740415
+3741829	Vision	generic visual categorization using weak geometry	2006	-3.8230065314847548	-14.078414317370884	3741856
+3745525	Vision	adaptive facial feature extraction	2014	-4.2968660402150745	-14.493536855956721	3745552
+3747196	Vision	optical flow based face anonymization in video sequences	2017	-3.9053538198905975	-14.183857575434766	3747223
+3748850	Robotics	an optical flow feature and mcfis based approach for 3-dimensional human action recognition	2014	-3.454883411056679	-14.541204696345186	3748877
+3749000	Vision	on space-time filtering framework for matching human actions across different viewpoints	2018	-3.5599713666351414	-14.28992955531683	3749027
+3750565	Vision	3d interest point detection via discriminative learning	2014	-3.9499704418846036	-13.688772452706447	3750592
+3751597	Vision	feature-centric evaluation for efficient cascaded object detection	2004	-3.709700597230132	-14.318613740578675	3751624
+3752314	EDA	real-time vision based driver drowsiness detection using partial least squares analysis	2016	-4.132792448100387	-14.103971703569494	3752341
+3753386	Vision	face recognition using training data with artificial occlusions	2016	-3.80750822776873	-14.091801135422052	3753413
+3754258	Vision	3d spatial pyramid: descriptors generation from point clouds for indoor scene classification	2015	-4.122381958619262	-13.840892515841247	3754285
+3757437	Vision	a robust classifier combined with an auto-associative network for completing partly occluded images	2005	-4.297031549154779	-14.312435017862825	3757464
+3758406	Robotics	a novel feature extraction method using histogram-based sparsity	2016	-4.1655859879398145	-14.444321334815855	3758433
+3758831	AI	viewpoint insensitive posture representation for action recognition	2006	-4.143102605856249	-14.193968455127461	3758858
+3762333	Vision	gaze-aided eye detection via appearance learning	2018	-3.378002773480791	-14.004197695684693	3762360
+3765286	Vision	image set-based face recognition: a local multi-keypoint descriptor-based approach	2013	-3.944264469035189	-14.109815451931127	3765313
+3766402	Vision	frame synchronization and multi-level subspace analysis for video based face recognition	2004	-4.152909400056632	-14.434733396008776	3766429
+3767247	Vision	on spatio-temporal saliency detection in videos using multilinear pca	2016	-3.713756779221001	-14.094202546771063	3767274
+3767562	ML	efficient boosted weak classifiers for object detection	2013	-3.641709677654157	-13.650909706807633	3767589
+3771469	Vision	data-driven geometric face image smilization featuring moving least square based deformation	2017	-4.156719389283731	-14.37352798180557	3771496
+3774997	Vision	adaboost modular tensor locality preservative projection: face detection in video using adaboost modular-based tensor locality preservative projections	2016	-3.4622211720912164	-13.86757000708051	3775024
+3775284	AI	learning landmark salience models from users' route instructions	2016	-4.311682739293347	-13.69349021230044	3775311
+3775598	Vision	salience based hierarchical fuzzy representation for object recognition	2015	-4.159233927320752	-14.42339647396082	3775625
+3776955	AI	keypoint descriptor fusion with dempster-shafer theory	2015	-4.1604023904775795	-14.439203460030518	3776982
+3778231	DB	clustering techniques for personal photo album management	2009	-3.4665883515871	-14.26770817258569	3778258
+3779013	Vision	effective and fast face recognition system using complementary oc-lbp and hog feature descriptors with svm classifier	2018	-3.820832508805171	-14.593675838656711	3779040
+3779908	Vision	taming the hog: the influence of classifier choice on histogram of oriented gradients person detector performance	2017	-3.852118741757692	-14.236879393586955	3779935
+3783307	Vision	video-based facial expression recognition using hough forest	2016	-3.6160726229659135	-14.235361953875769	3783334
+3784838	Robotics	human-autonomy sensor fusion for rapid object detection	2015	-3.3831364436958364	-13.981169532508474	3784865
+3786355	Vision	3d-object recognition based on llc using depth spatial pyramid	2014	-4.001019315376372	-14.13047079271102	3786382
+3789283	Vision	rotative maximal pattern: a local coloring descriptor for object classification and recognition	2017	-3.892495449960829	-13.839615754174902	3789310
+3791705	Vision	dynamic texture recognition using multiscale pca-learned filters	2017	-3.480980293383596	-14.414062535293267	3791732
+3794779	Vision	unconstrained face detection from a mobile source using convolutional neural networks	2016	-3.661591052714569	-13.870890994163089	3794806
+3798730	Vision	saliency prediction with scene structural guidance	2017	-3.5996848534392	-13.720189398590266	3798757
+3801419	ML	viewpoints combined classification method in image-based plant identification task	2014	-4.233700526980523	-14.506514337227065	3801446
+3804072	Vision	learning a sparse representation from multiple still images for on-line face recognition in an unconstrained environment	2006	-3.8172916398765424	-14.290817567484016	3804099
+3805193	Vision	on exploration of classifier ensemble synergism in pedestrian detection	2010	-4.098238430128628	-13.713856808605664	3805220
+3806259	AI	finger-vein quality assessment by representation learning from binary images	2015	-3.5364829097457413	-14.18222415866675	3806286
+3809857	Vision	face image illumination processing based on gan with dual triplet loss	2018	-4.0997668677212635	-13.87686030714808	3809884
+3809900	Vision	3d face alignment in the wild: a landmark-free, nose-based approach	2016	-4.21864132998966	-14.579093440466199	3809927
+3812692	Vision	histogram of 3d facets: a characteristic descriptor for hand gesture recognition	2013	-4.066734529039498	-14.330570796319671	3812719
+3814951	Vision	performance evaluation of selected thermal imaging-based human face detectors	2017	-3.4210689596909885	-13.9173204774983	3814978
+3816398	ML	face detection using coarse-to-fine support vector classifiers	2002	-4.179227860689384	-14.076276661635287	3816425
+3820105	Vision	human attribute analysis using a top-view camera based on multi-stage classification	2011	-3.5883009199674087	-14.495531580719788	3820132
+3820945	Vision	a comparison of feature detectors and descriptors for object class matching	2016	-3.660247705638792	-13.74826986838897	3820972
+3821665	Vision	facial model fitting based on perturbation learning and it's evaluation on challenging real-world diversities images	2012	-4.116037415047449	-14.15835903413124	3821692
+3823549	Vision	illumination and person-insensitive head pose estimation using distance metric learning	2008	-3.8169872851683486	-13.896038838636516	3823576
+3823969	Vision	deep feature fusion for iris and periocular biometrics on mobile devices	2018	-3.501028922266768	-14.368670402165616	3823996
+3824157	Vision	sparse representations for facial expressions recognition via l1 optimization	2010	-3.436260078289334	-14.480769313904126	3824184
+3824436	AI	compressive sensing based face detection without explicit image reconstruction using support vector machines	2013	-4.015359147287478	-14.325423639140187	3824463
+3827621	Vision	fast deformable model for pedestrian detection with haar-like features	2017	-3.753044140098322	-13.996582717955024	3827648
+3829553	Vision	supervised texture segmentation using 2d lstm networks	2014	-3.935467516910472	-14.090283079294094	3829580
+3829878	Vision	interactive 3d caricature generation based on double sampling	2009	-3.416208404985384	-13.995652320594006	3829905
+3830149	Vision	3d visual phrases for landmark recognition	2012	-3.408688774057496	-13.790443781821386	3830176
+3835005	Vision	object recognition by using multi-level feature point extraction	2017	-4.192104017687277	-13.811877516831442	3835032
+3837524	Vision	learning a compositional hierarchy of disparity descriptors for 3d orientation estimation in an active fixation setting	2017	-4.040216352200112	-14.05556662568554	3837551
+3837671	Vision	arbitext: arbitrary-oriented text detection in unconstrained scene	2017	-3.911989601834867	-13.857177218763235	3837698
+3837894	ML	saliency aggregation: does unity make strength?	2014	-3.8393256804518874	-13.866275001489539	3837921
+3839743	Vision	robust watch-list screening using dynamic ensembles of svms based on multiple face representations	2016	-3.637784501696888	-13.96370966972222	3839770
+3845537	ML	metric tensor and christoffel symbols based 3d object categorization	2014	-4.146371336277253	-14.107734152094116	3845564
+3845763	Vision	fixation bank: learning to reweight fixation candidates	2015	-3.8708467062907363	-14.266546510047275	3845790
+3846067	Vision	3d model-assisted face recognition in video	2005	-3.5737927832835807	-14.219158547498644	3846094
+3847277	Vision	predicting performance of a face recognition system based on image quality	2015	-4.1066889215314255	-14.122324774499099	3847304
+3848264	Vision	dynamic texture recognition using multiscale binarized statistical image features	2014	-3.6518645466478095	-14.570596111612055	3848291
+3849157	Vision	the rgf pandemonium: a low-level representational model for images	1998	-4.1928804594693565	-14.255376837298211	3849184
+3850623	Vision	analysis and synthesis of facial expressions using decomposable nonlinear generative models	2011	-3.447326543820046	-13.894678746399308	3850650
+3852512	Vision	combining local and global image features for object class recognition	2005	-4.153503067804073	-14.227366322035424	3852539
+3853450	ML	a structured neural network invariant to cyclic shifts and rotations	1997	-3.9628655795265018	-14.363133019955935	3853477
+3854828	Vision	photometric normalisation for component-based face verification	2006	-4.0937667448531645	-14.390498317377661	3854855
+3859536	Vision	noise-resistant deep learning for object classification in 3d point clouds using a point pair descriptor	2018	-4.087593992163333	-13.990979302555274	3859563
+3862916	Vision	dynamic texture analysis with diffusion in networks	2018	-3.7346580986590134	-14.582305912779953	3862943
+3863289	Vision	confidence-assisted classification result refinement for object recognition featuring topn-exemplar-svm	2012	-3.8297608667869594	-13.999775470859444	3863316
+3863381	ML	building road-sign classifiers using a trainable similarity measure	2006	-4.246658521013726	-14.222024283901586	3863408
+3865189	Vision	kernel local descriptors with implicit rotation matching	2015	-3.8149377695072033	-13.888304483851009	3865216
+3865466	Vision	effective head pose estimation using lie algebrized gaussians	2013	-3.9353319722070936	-13.965460510488374	3865493
+3865844	Vision	comparison and analysis of segmentation techniques in pattern analysis and machine intelligence	2010	-3.8811953949643083	-13.662417776689107	3865871
+3865877	Vision	modified adaboost method for efficient face detection	2012	-4.042960777043418	-14.244336203633768	3865904
+3865907	Vision	recognizing occluded faces by exploiting psychophysically inspired similarity maps	2013	-4.234298288723308	-14.277909627466451	3865934
+3866645	ML	region-based face alignment with convolution neural network cascade	2017	-3.8457503705098586	-13.841926251366706	3866672
+3867219	Vision	learning-based symmetry detection in natural images	2012	-4.302700826787959	-13.974439389102516	3867246
+3867550	Robotics	a feature selection algorithm based on boosting for road detection	2008	-3.677804580991813	-13.972777006290398	3867577
+3867795	Vision	global and efficient self-similarity for object classification and detection	2010	-4.274638862117681	-14.43909624852857	3867822
+3869825	Robotics	a software framework for pca-based face recognition	2016	-3.4432608527740003	-14.474565979913232	3869852
+3872691	Robotics	smile detection in unconstrained scenarios using self-similarity of gradients features	2014	-3.9833974147799767	-14.501326977396653	3872718
+3872980	Robotics	hierarchical graph-based discovery of non-primitive-shaped objects in unstructured environments	2016	-3.9250842495663263	-13.997714183117461	3873007
+3875878	Vision	from meaningful contours to discriminative object shape	2012	-4.071707329614695	-13.82205473127703	3875905
+3876604	Vision	hierarchical covariance description for 3d face matching and recognition under expression variation	2016	-4.233492775461486	-13.901885366271275	3876631
+3878668	Vision	dense interest features for video processing	2014	-4.2078990248625585	-13.693740611282859	3878695
+3880679	Vision	pixelwise local binary pattern models of faces using kernel density estimation	2009	-4.2553541534764365	-14.481886483556886	3880706
+3883235	Vision	gait recognition using normalized shadows	2017	-4.178152309013344	-14.451074470663896	3883262
+3884255	Vision	exploiting dissimilarity representations for person re-identification	2011	-3.4747621650241234	-13.867482142445153	3884282
+3891723	Vision	sparse multiscale local binary patterns	2006	-3.4256413731000155	-13.665904592936995	3891750
+3893033	Robotics	real time hand pose estimation using depth sensors	2011	-3.59841472437211	-14.073445092051154	3893060
+3893600	Robotics	a fast method of lighting estimate using multi-linear algebra	2004	-4.077089207623171	-14.270258397308133	3893627
+3894208	Vision	a hybrid bags-of-feature model for sports scene classification	2015	-3.9296162331345155	-14.454987763870912	3894235
+3894426	Vision	head pose estimation based on image abstraction for multiclass classification	2013	-3.8748128081662743	-14.498273730374313	3894453
+3894576	Robotics	neural hopfield-ensemble for multi-class head pose detection	2013	-3.660265257139502	-13.787972626518808	3894603
+3894668	Robotics	face detection using generalised integral image features	2009	-4.061358377291918	-14.396450916772153	3894695
+3894872	Vision	boosting-based on-road obstacle sensing using discriminative weak classifiers	2011	-4.142491893101521	-13.732798235691453	3894899
+3897616	Vision	fast and robust object segmentation with the integral linear classifier	2010	-3.695716832796805	-13.686412532052634	3897643
+3900214	Vision	modest face recognition	2015	-3.752166954299587	-14.336443309998534	3900241
+3902147	Vision	pose-invariant face recognition using curvelet neural network	2014	-3.8601538895940317	-14.506992018793168	3902174
+3902650	Vision	a poselet based key frame searching approach in sports training videos	2012	-3.960548558487735	-13.91457776280527	3902677
+3906061	Vision	local linear embedding with morphable model for face recognition	2005	-3.9477233372088696	-13.91807831170064	3906088
+3909125	Vision	shape augmented regression method for face alignment	2015	-3.4302154029972205	-13.85143588068632	3909152
+3910290	Vision	multi-step linear representation-based classification for face recognition	2016	-4.304675582737457	-14.495014937772064	3910317
+3911614	Vision	dense sampling of features for image retrieval	2014	-4.018601861209585	-14.150086532373484	3911641
+3912473	Vision	novelty detection in wildlife scenes through semantic context modelling	2012	-3.7721598312078064	-14.014793564030642	3912500
+3913897	Vision	rapid mobile object recognition using fisher vector	2013	-3.5501593462684924	-14.134014017790625	3913924
+3913950	Vision	human action recognition using multi-velocity stips and motion energy orientation histogram	2014	-4.27694657821075	-14.043392518801987	3913977
+3921450	Vision	face detection using one-class-based support vectors	2004	-3.636552453991654	-14.519840351518722	3921477
+3923262	Vision	fast concurrent object localization and recognition	2009	-4.079617871845357	-13.797603279776704	3923289
+3923962	Vision	recognition from a single sample per person with multiple som fusion	2006	-3.3807741532527227	-14.399371240802553	3923989
+3925694	Vision	bayesian decision fusion for dynamic multi-cue object detection	2002	-4.276217113337801	-13.754777075637591	3925721
+3927481	Vision	spatial pooling for transformation invariant image representation	2011	-4.004969791652693	-14.115667855974555	3927508
+3929370	Vision	probabilistic matching of image sets for video-based face recognition	2012	-3.510486007025265	-14.05095178953557	3929397
+3932196	Vision	general image classification based on sparse representation	2010	-3.89779616639389	-14.485687517402685	3932223
+3935412	Vision	pose invariant face recognition using biological inspired features based on ensemble of classifiers	2013	-3.4688299654880312	-14.175145510968266	3935439
+3937501	Robotics	generic object recognition based on feature fusion in robot perception	2016	-3.81421151033308	-14.25878612736243	3937528
+3938131	Vision	visual saliency based blind image quality assessment via convolutional neural network	2017	-4.1496424467136315	-13.754980062979882	3938158
+3938335	Vision	visual category recognition for the improved storage and retrieval performance of the cctv camera system	2012	-3.685484090605724	-14.287112161356573	3938362
+3938771	Vision	histogram of the node strength and histogram of the edge weight: two new features for rgb-d person re-identification	2016	-4.223453122976903	-14.149252111217635	3938798
+3941250	Vision	region and constellations based categorization of images with unsupervised graph learning	2009	-4.1239066068733505	-13.839723431052887	3941277
+3941780	Vision	human detection using sparse representation	2012	-4.285842337029453	-14.079384253773016	3941807
+3941908	ML	a dynamic classifier selection and combination approach to image region labelling	2005	-3.6399752699866377	-14.103953677261364	3941935
+3942984	Vision	improving object color categorization with shapes	2010	-3.950772496634509	-13.791004376897625	3943011
+3943155	Vision	people detection and re-identification for multi surveillance cameras	2012	-4.172006460911276	-13.77221532566036	3943182
+3943622	Vision	a deep structure of person re-identification using multi-level gaussian models	2018	-4.027739232316977	-14.067901770890312	3943649
+3943883	Vision	visual tracking via boolean map representations	2018	-4.253165447174677	-13.901681770225494	3943910
+3945680	Vision	a two-layer framework for piecewise linear manifold-based head pose estimation	2012	-3.949919908537047	-13.769453584696949	3945707
+3945827	Vision	natural scenes categorization by hierarchical extraction of typicality patterns	2007	-4.041278697674604	-14.521730955609474	3945854
+3945889	Robotics	scene recognition based on multi-feature fusion for indoor robot	2017	-3.918646155818061	-14.131041353622232	3945916
+3947229	Vision	two-dimensional canonical correlation analysis of the logically concatenated cross binary pattern for cross pose face recognition	2018	-3.49090667356973	-14.546889841603685	3947256
+3948068	Vision	face detection using local hybrid patterns	2015	-3.8506975356982287	-13.911221539062257	3948095
+3948323	Vision	relational approaches for joint object classification and scene similarity measurement in indoor environments	2014	-4.2854021629163	-13.836325965790394	3948350
+3949421	Vision	depth-based detection with region comparison features	2016	-4.221436806148131	-13.963249508976196	3949448
+3955836	Vision	feature subset selection applied to model-free gait recognition	2013	-4.095704871121416	-13.723967306364832	3955863
+3960842	ML	appearance-based human detection	2014	-3.962781538880152	-14.054188886777515	3960869
+3965676	Vision	a feature covariance matrix with serial particle filter for isolated sign language recognition	2016	-3.6138256343472457	-14.304048819641052	3965703
+3966917	Vision	local discriminant regions using support vector machines for object recognition	2000	-3.743835348417453	-14.204384601888297	3966944
+3968588	Vision	two hand tracking using colour statistical model with the k-means embedded particle filter for hand gesture recognition	2008	-3.858861038295208	-14.53723764440875	3968615
+3970431	Vision	evaluation of color spaces for person re-identification	2012	-3.7782317662095206	-14.19644667390654	3970458
+3970641	Vision	deep manifold embedding active shape model for pose invarient face tracking	2018	-4.146961315277092	-13.849044867649855	3970668
+3972898	Vision	good appearance and shape descriptors for object category recognition	2013	-3.630950817941743	-14.02538661199241	3972925
+3976127	Vision	linear subspaces for facial expression recognition	2014	-3.5893210800363966	-14.559990290371905	3976154
+3977070	Vision	salient object based action recognition using histogram of changing edge orientation (hceo)	2017	-3.381364818230433	-14.1345410858287	3977097
+3977219	Vision	using adaptive trackers for video face recognition from a single sample per person	2018	-3.8953074338513454	-13.784444620699302	3977246
+3978287	Vision	dog breed classification via landmarks	2014	-3.4739723861624605	-14.532484247503412	3978314
+3979744	Vision	a rapidly trainable and global illumination invariant object detection system	2009	-4.098786598566743	-14.4527184575719	3979771
+3986362	ML	linear support tensor machine: pedestrian detection in thermal infrared images	2016	-4.2410814854202235	-13.884329601620516	3986389
+3986740	Vision	open set source camera attribution	2012	-3.904631647014582	-14.539897741181516	3986767
+3987563	Vision	ear recognition using improved non-negative matrix factorization	2006	-3.894526868046833	-13.806692079888613	3987590
+3987570	AI	video-based salient object detection via spatio-temporal difference and coherence	2017	-4.302320003482701	-13.793694269947204	3987597
+3991104	Robotics	negative space template: a novel feature to describe activities in video	2012	-4.118655075449662	-14.489907086082173	3991131
+3995244	Vision	pedestrian detection via mixture of cnn experts and thresholded aggregated channel features	2015	-3.936710370514181	-13.74763967256909	3995271
+3999307	Vision	multi-class object detection with hough forests using local histograms of visual words	2011	-3.977636987580076	-13.889143802896118	3999334
+3999636	Vision	traffic sign recognition based on linear discriminant analysis	2013	-4.2249030585057	-13.835392183815445	3999663
+4000158	Vision	periocular region-based person identification in the visible, infrared and hyperspectral imagery	2015	-3.9236629320902536	-14.44861532412802	4000185
+4000204	Vision	car make and model recognition using sparse coding and bag of features	2017	-3.3954236160831677	-13.783386269545767	4000231
+4002909	Robotics	on cross spectral periocular recognition	2014	-3.3708707220253946	-14.241771665509354	4002936
+4006315	Vision	moment-based symmetry detection for scene modeling and recognition using rgb-d images	2016	-3.574919417233977	-13.82790178030272	4006342
+4010384	Vision	object recognition via local patch labelling	2004	-4.233715832627153	-13.979185831133686	4010411
+4012832	Vision	multiple scaled person re-identification framework for hd video surveillance application	2015	-3.692250026262136	-13.746398232670385	4012859
+4013252	Vision	scene classification with random forests and object and color distributions	2013	-4.181059138258126	-13.851918530347573	4013279
+4014911	AI	histograms of salience for pedestrian detection	2014	-3.871249553653072	-14.266194001812847	4014938
+4015864	Vision	rapid human action recognition in h.264/avc compressed domain for video surveillance	2013	-4.087881819908992	-13.735317702549054	4015891
+4017148	Vision	realistic smile expression recognition using biologically inspired features	2011	-3.3697547625381743	-14.477285182578607	4017175
+4018668	Vision	overview of the multiple biometrics grand challenge	2009	-4.251202802579437	-14.223128662850595	4018695
+4019374	Vision	landmark image classification using 3d point clouds	2010	-4.159405500907913	-13.892246562293415	4019401
+4019670	Vision	fusion of interest point/image based descriptors for efficient person re-identification	2018	-3.451333512088275	-13.879387323894038	4019697
+4022750	Vision	texture and geometry scattering representation-based facial expression recognition in 2d+3d videos	2018	-3.565903783056933	-14.571399807289062	4022777
+4029113	Vision	hybrid-boost learning for multi-pose face detection and facial expression recognition	2007	-3.7559506673827485	-14.410328384729755	4029140
+4029622	Vision	fusion of multiple channel features for person re-identification	2016	-3.689407439814551	-13.906904015134664	4029649
+4029674	Vision	pose-invariant 3d face reconstruction from a single image	2010	-4.135240141650787	-14.39692385634766	4029701
+4029677	Vision	support vector data description based on pca features for face detection	2005	-3.8410776309082886	-14.443030891596866	4029704
+4036384	Vision	viewpoint-aware representation for sketch-based 3d model retrieval	2014	-3.547463789069312	-13.914478616842956	4036411
+4036751	Vision	robust visual tracking using an effective appearance model based on sparse coding	2012	-4.111282755259253	-14.393697061495896	4036778
+4038288	Vision	face recognition using svm combined with cnn for face detection	2004	-3.828941053205492	-14.59850959024898	4038315
+4038901	Vision	head pose estimation in face recognition across pose scenarios	2008	-4.241186060424747	-14.322943153116775	4038928
+4038994	Vision	topological weighted fisher vectors for person re-identification	2016	-3.6513009994735564	-13.757640386930175	4039021
+4048466	Vision	confidence rated boosting algorithm for generic object detection	2008	-3.8743965270781966	-13.889293904033066	4048493
+4048857	Vision	discriminant interest points are stable	2007	-4.212484784852979	-14.245437940518439	4048884
+4049466	Vision	on transforming statistical models for non-frontal face verification	2006	-3.8586959723354917	-14.543887310925212	4049493
+4050187	Vision	a discriminative framework for texture and object recognition using local image features	2006	-4.038930352937531	-13.73085643129745	4050214
+4051501	Vision	texton theory revisited: a bag-of-words approach to combine textons	2012	-3.7861706248996914	-14.501427745864106	4051528
+4052004	Vision	feature detector and descriptor evaluation in human action recognition	2010	-3.642294597155328	-14.562357097164142	4052031
+4053972	Vision	compact signatures for high-speed interest point description and matching	2009	-3.853875881587165	-14.379271530251774	4053999
+4056653	Vision	on the bin number choice of joint histogram estimation applied to mutual information based face recognition	2014	-3.9761101654375786	-14.346125672062724	4056680
+4056950	ML	face detection based on cost-sensitive support vector machines	2002	-3.8626626544904332	-13.886907690513885	4056977
+4057605	ML	a neural 3-d object recognition architecture using optimized gabor filters	1996	-3.921157406345528	-14.578030085410404	4057632
+4058479	Vision	robust part-based face matching with multiple templates	2013	-4.20039913826313	-14.01431283228164	4058506
+4060877	AI	laplacian affine sparse coding with tilt and orientation consistency for image classification	2013	-4.175440491959171	-14.1717151976484	4060904
+4064221	Vision	reducing jointboost-based multiclass classification to proximity search	2009	-3.447332711108688	-14.34183492985174	4064248
+4066295	Vision	graph matching vs mutual information maximization for object detection	2001	-3.554015611334804	-14.141153295576872	4066322
+4071043	Vision	local visual primitives (lvp) for face modelling and recognition	2006	-3.9617493296146975	-14.525186048915858	4071070
+4071945	Vision	compensating inaccurate annotations to train 3d facial landmark localization models	2013	-4.323701314401391	-13.942617808781884	4071972
+4073395	Robotics	visual loop closure detection with a compact image descriptor	2012	-3.3853845875766004	-13.895572570271952	4073422
+4075615	Vision	training high dimension ternary features with ga in boosting cascade detector for object detection	2008	-3.8750219811609714	-13.897969504748795	4075642
+4077152	Vision	face recognition across pose for ptz camera video surveillance applications	2017	-4.046902776815287	-13.912903687041291	4077179
+4078925	Vision	automatic face recognition for home safety using video-based side-view face images	2018	-4.0599486950028085	-14.390540855475269	4078952
+4080299	Vision	effective representation using ica for face recognition robust to local distortion and partial occlusion	2005	-4.278153249157222	-13.984502958156703	4080326
+4082997	Vision	learning-based saliency detection of face images	2017	-3.5312619389473268	-14.12328738102784	4083024
+4084369	Vision	fast, accurate detection of 100,000 object classes on a single machine	2013	-3.9334874164282203	-13.87287426063233	4084396
+4085225	Vision	heterogeneous face recognition using kernel prototype similarities	2013	-3.9808763346203824	-14.389961995516279	4085252
+4085397	Vision	subspace morphing theory for appearance based object identification	2002	-4.31534735038605	-14.467234370577636	4085424
+4092850	Vision	example-specific density based matching kernels for scene classification using support vector machines	2015	-4.157628897867284	-14.476578262110984	4092877
+4092932	Vision	machine recognition of objects	2014	-3.9463329273859302	-13.890418686505015	4092959
+4093304	Vision	annotated facial landmarks in the wild: a large-scale, real-world database for facial landmark localization	2011	-3.4233042826468236	-14.081062824539552	4093331
+4094418	Vision	fast and accurate object detection based on binary co-occurrence features	2015	-4.251037093878484	-14.031887545617108	4094445
+4094983	Vision	embedding metric learning into set-based face recognition for video surveillance	2015	-3.629691292372892	-13.723884821329927	4095010
+4097012	Robotics	training with corrupted labels to reinforce a probably correct teamsport player detector	2013	-3.6525097938737017	-14.287285668382854	4097039
+4099553	Vision	on solving the face recognition problem with one training sample per subject	2006	-3.4669493591398286	-14.164963179006946	4099580
+4103028	Vision	exploring complementary features for iris recognition on mobile devices	2016	-3.891826887723653	-14.416200740420791	4103055

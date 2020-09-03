@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"></meta>
+<title>Creating Data: Deep scatterplots</title>
+
+<script src="/js/commonjs/d3-selection.v1.min.js"></script>
+<script>
+  var select = d3.select;
+</script>
+
+<link rel="stylesheet" href="/mapNarrative.css">
+
+<body>
+  <nav class="navbar navbar-expand-md navbar-light bg-light fixed-top">
+
+    <a class="navbar-brand" href="/">Creating Data</a>
+    <a class="d-none d-xl-block">The Invention of Information in the American State, 1850-1950</a>
+    <a class="nav-link" href="http://benschmidt.org">By Ben Schmidt</a>
+    
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown1" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Sections</a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown1">
+            <a class="nav-link" href="#">No content here yet.</a>
+            <a class="nav-link" href="#">Oceans</>
+            <a class="nav-link" href="#">Population</a>
+            <a class="nav-link" href="#">Knowledge</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Datasets</a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <a class="dropdown-item" href="/datasets/US-cities/">City Populations</a>
+            <a class="dropdown-item" href="#">Land plots</a>
+            <div class="dropdown-divider"></div>
+            <a class="dropdown-item" href="/datasets/hathi-vectors/">Hathi Library Vectors</a>
+          </div>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/acknowledgements">Acknowledgements</a>
+        </li>
+      </ul>
+    </form>
+</div>
+<div class="btn-group" role="group" aria-label="Basic example">
+  <button class="btn btn-outline-primary mode-setter my-2 my-sm-0" type="submit" mode="narrative"
+          id="narrative-label">
+    <span>📖</span>
+    <span class="d-none d-md-inline">Read</span>
+  </button>
+  <button class="btn btn-outline-success mode-setter my-2 my-sm-0" mode="interactive" type="submit"
+          id="interactive-label">
+    <span>✎</span>
+    <span class="d-none d-md-inline">Interact</span>
+  </button>
+</div>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+</nav>
+
+<div id="prologue">
+  <h1>Deep scatterplots</h1>
+</div>
+
+<div id="body">
+  <p>I’ve been posting lately a number of zoomable interactive point clouds lately; the biggest is of <a href="http://creatingdata.us/datasets/hathi-features/">14 million books in the Hathi Trust</a>. I find these really useful ways of visualizing cultural datasets where it’s necessary see both overall structure and individual items; I’ve written a bit more about this in a tour of <a href="http://creatingdata.us/techne/bibliographies/">150,000 works of fiction.</a></p>
+  <p>So long as the number of items stays in the thousands or tensof thousands, it’s easy to visualize them in a web browser–as with the beautiful <a href="https://artsexperiments.withgoogle.com/tsnemap/#-3436.80,176.70,1459.29,-3053.07,0.00,1357.09">Google’s Arts Experiments</a> browser of paintings, based on a T-SNE layout. But as the number of points grows, you start to hit a new set of challenges around navigability.</p>
+  <p>Recently, new alternatives to T-SNE have made it possible to create extremely large two-dimensional embeddings. Algorithms based on nearest-neighbor networks including UMAP and LargeVis able to interestingly arrange millions of items, from <a href="https://github.com/lmcinnes/umap_paper_notebooks/blob/master/UMAP%20Fashion%20MNIST.ipynb">clothing</a> to <a href="https://twitter.com/leland_mcinnes/status/963230617600184320">word embeddings</a> <a href="https://twitter.com/jhnhw/status/1031829726757900288?lang=en">prime numbers</a>.<span class="citation" data-cites="mcinnes_umap:_2018 tang_visualizing_2016"><a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a></span> And the widespread use of embedding strategies inspired by neural networks mean more data exists in geometric high-dimensional spaces that before.</p>
+  <p>So–how I’ve put the code for doing this <a href="https://github.com/CreatingData/deepscatter">on github</a>. Here I’m explaining how it works and some of the design decisions behind it.</p>
+  <div class="scrollership" data-scroller-type="scatterplot">
+  <div class="chunk">
+  <h2 id="example">Example</h2>
+  <p>Here’s a basic example of the chart: it shows 13.7 million books from the Hathi Trust.</p>
+  <p>Currently they are colorized by language; the features use an approximation of word counts using a method based on random projection I recently described. If you want to know more about this particular set, you should read <a href="http://creatingdata.us/datasets/hathi-features/">the page that discusses the data.</a></p>
+  <pre class="api"><code>{
+  &quot;base_dir&quot;: &quot;/data/scatter/hathi&quot;,
+  &quot;colors&quot;: {&quot;language&quot;:&quot;&quot;,&quot;Classification&quot;:&quot;&quot;,&quot;Subclassification&quot;:&quot;&quot;,&quot;date&quot;:&quot;&quot;,&quot;Principal Author&quot;:&quot;&quot;},
+  &quot;lab&quot;: [&quot;Classification&quot;, &quot;Subclassification&quot;,&quot;id&quot;,&quot;title&quot;,&quot;date&quot;,&quot;Principal Author&quot;],
+  &quot;point_size&quot;: 2,
+  &quot;point_threshold&quot;: 10,
+  &quot;label_threshold&quot;: 0,
+  &quot;variable_point_size&quot;: false,
+  &quot;filters&quot;: null,
+  &quot;zoom&quot;: [1, 0, 0, 1000],
+  &quot;colorize_by&quot;: &quot;language&quot;,
+  &quot;label_field&quot;: &quot;title&quot;,
+  &quot;scheme&quot;: &quot;dark&quot;,
+  &quot;keys&quot;: {&quot;Subclassification&quot;: &quot;LCC.txt&quot;, &quot;Classification&quot;: &quot;LCC.txt&quot;}
+  }</code></pre>
+  </div>
+  <div class="chunk">
+  <p>Interactivity brings three fundamental things to a dataset like this.</p>
+  <p>The first is the ability to zoom in on segments of interest. Here, for instance, is the section of the chart where most works of literature are clustered.</p>
+  <p>As you zoom in, more points are loaded dynamically–more on that <a href="#tiling">below</a>.</p>
+  <pre class="api"><code>{
+  &quot;zoom&quot;:[8.28,23.117,12.69]
+  }</code></pre>
+  </div>
+  <div class="chunk">
+  <p>The second is the ability to get arbitrary information about the points. If you’re on a computer, you should be able to directly mouse over the left side of the screen to see information. If you’re on a tablet or phone, you may need to click the ‘interact’ button on the top bar, and then on any points once. That will bring up the full metadata profile for any point; you can then click on the point to see it in the Hathi trust.</p>
+  </div>
+  <div class="chunk">
+  <p>The third is the ability to change the representation based on metadata. Here, I change the chart so that colors represent not <em>language</em> but year.</p>
+  <p>I’ve hard-coded in some values to represent the years I’m likely to plot; for categorical variables, like author, classification, and library,</p>
+  <p>Note the gear icon below, here; it opens up the underlying API to the chart. I have not gotten around to fully documenting that yet; but in many cases, you can probably tell what the values do. If you want to muck around, try changing ‘date’ to ‘library’ below.</p>
+  <pre class="api"><code>{
+  &quot;zoom&quot;:[9,23.117,12.69],
+  &quot;colorize_by&quot;:&quot;date&quot;,
+  &quot;debug&quot;: false
+  }</code></pre>
+  </div>
+  <div class="chunk">
+  <h2 id="rendering">Rendering</h2>
+  <p>To draw, I use an HTML canvas element, which can comfortable support betwen 1,000 and 20,000 points. (“Comfortably” means, technically, that it can draw them within about 35 milliseconds, allowing basically seamless panning and zooming. I’ve erred too much, probably, in trying to include data at the expense of performance; in some places, especially on phones, you’ll see skips between frames.)</p>
+  <p>It would be possible to cram perhaps ten times as many points on the screen using WebGL to render instead. Canvas is somewhat easier to use (though not nearly as easy as svg, at least with D3.) Things would probably be prettier with more points. But since zooming allows ultimate access to any of the points, it’s not completely necessary. And even advanced technologies couldn’t display literally everything; past a million points or so, the key bottleneck become data, not rendering.</p>
+  </div>
+  <div class="chunk">
+  <h2 id="tiling">Tiling</h2>
+  <p>So–how do you serve 14 million data points on demand?</p>
+  <p>The core principal here is <em>tiling.</em> Just as with online maps, I partition the space into equally sized quadrants and load data for each quadrant only when the window is zoomed far in on a point.</p>
+  <p>The idea for map tiling is to display points at any given resolution.</p>
+  <p>Here you can see what a basic tiling arrangement looks like. The principal I use is that each tile should have 1,000 points in it. So at the base zoom level, there are 1,000 points on screen; if you fully load a second set of tiles, there should be 4,000 points on screen; and so forth.</p>
+  <p>The code to build the tiles is part of the repo: <code>scatterTiler.py</code>. It only runs under python2 right now. To run it, you need an input file and and output directory to which tiles will be writter.</p>
+  <pre class="api"><code>{
+  &quot;debug&quot;: &quot;theoretical&quot;,
+  &quot;point_size&quot;: 0.8,
+  &quot;point_threshold&quot;: 3,
+  &quot;zoom&quot;: [0.8, 0, 0, 0]
+  }</code></pre>
+  </div>
+  <div class="chunk">
+  <p>I actually implemented this naive version of tiling, and it works fairly well; but there’s a problem. If you want to zoom into the chart at any depth, you start needing to load an extraordinary number of files; and many of them are in areas where there are very few points. If we want to display 35,000 points on the screen, for example, I can set the zoom level to 35 (which is animated here). But that requires loading 341 tiles, many of which (like in the upper left) have basically no items in them. You can see them here, numbered by the conventional ‘x, y, z’ map tiling numbers.</p>
+  <p><smaller>(There’s another problem, too: it doesn’t correctly account for duplicates well. In ordinary map rendering, you don’t show high-resolution and low resolution tiles at the same time; but with points like this, we want to display the root information as well. I said that zoom level ‘2’ should have 4,000 points in it; but if you allow 1,000 points per tile, it will actually have 5,000; one for each of the four level-2 quadrants, and one for the root tile.) </smaller></p>
+  <pre class="api"><code>{
+  &quot;debug&quot;: &quot;theoretical&quot;,
+  &quot;point_size&quot;: 1,
+  &quot;point_threshold&quot;: 3,
+  &quot;zoom&quot;: [0.5, 0, 0, 0],
+  &quot;slowly&quot;:[{&quot;field&quot;:&quot;point_threshold&quot;, &quot;value&quot;: 35,&quot;duration&quot;: 7000}]
+  }</code></pre>
+  </div>
+  <div class="chunk">
+  <p>The solution is: use the conventional tile structuring for storing on the network, but make sure that each tile has exactly 1,000 points in it. This gives us a set of manageable CSV files for serving over the web, which go much further than the z index we store them with.</p>
+  <p>Here I show the tiles that actually need to be loaded. You can see in the upper right that what used to be a z-index of 4 is now over 11,000; that means we’ll have to zoom in several orders of magnification before it will have to load a new tile.</p>
+  <p>Then, at the time of rendering, the program can simply traverse the quadtree from the top:<a href="#fn2" class="footnote-ref" id="fnref2"><sup>2</sup></a> as soon as it hits a point in a tile that’s lower than the current level of magnification, it knows to stop.</p>
+  <pre class="api"><code>{ &quot;debug&quot;: &quot;actual&quot;, &quot;point_size&quot;: 1,
+  &quot;point_threshold&quot;: 3,
+  &quot;slowly&quot;:[{&quot;field&quot;:&quot;point_threshold&quot;, &quot;value&quot;: 35,&quot;duration&quot;: 7000}] }</code></pre>
+  </div>
+  <div class="chunk">
+  <p>As you zoom in, more and more tiles will be loaded; the more points there are in a region, the greater density of tiles will be pulled from the server.</p>
+  <pre class="api"><code>{
+  &quot;point_threshold&quot;: 22,
+  &quot;zoom&quot;: [3.3496259500337113, 20.275442124173697, 13.369927671071395],
+  &quot;debug&quot;: &quot;actual&quot;,
+  &quot;label_threshold&quot;: 0,
+  &quot;filters&quot;: {}
+  }</code></pre>
+  </div>
+  <div class="chunk">
+  <h2 id="mouse-interactions">Mouse interactions</h2>
+  <p>These tiles also serve as the basis of mouse interactions. Each tile keeps track of its own d3.quadtree object; when you hover over the canvas, the quadtrees for every visible tile are scanned to find the nearest point. Now that the quadtree numbers have been limited, this rarely requires searching more than five quadtrees, which is perfectly fast.</p>
+  <p>The other problem with using quadtree for an interactive graphic is that a single static quadtree instance can’t find missing items. <a href="https://github.com/d3/d3-quadtree/issues/19">I’ve made a patch to D3-quadtree</a> that allows a filter on search.</p>
+  </div>
+  <div class="chunk">
+  <h2 id="filters">Filters</h2>
+  <p>To make exploring these easier, I made the JSON based API support filtering based on arbitrary functions.</p>
+  <p>Here’s an API call, for instance, that only shows works with single-word titles less than 8 letters. Regular expressions are useful enough that there’s a special syntax for them that can be entered by the user in ‘interactive mode’ above; more complicated queries have to be written by hand. This can be accessed through the filter panel.</p>
+  <pre><code>{
+  &quot;filters&quot;: {&quot;title&quot;: &quot;d.title.search(/^[^ ]{0,8}$/) == 0&quot;}
+  }</code></pre>
+  <pre class="api"><code>
+  {
+    &quot;label_field&quot;:&quot;title&quot;,
+    &quot;label_threshold&quot;: 1,&quot;debug&quot;:&quot;false&quot;,
+    &quot;filters&quot;: {&quot;title&quot;: &quot;d.title.search(/^[^ ]{0,8}$/) == 0&quot;}
+  }
+  </code></pre>
+  </div>
+  <div class="chunk">
+  <p>Controlling the main plot through a narrative is done through the general purpose code I’ve written for this project. The nice thing about having a JSON API to control is that it’s easy to dispatch new events to update the state of the plot. This is how I’m writing all visualizations nowadays.</p>
+  <pre class="api"><code>{
+  &quot;zoom&quot;:[272.1,22.051,13.427]
+  }</code></pre>
+  </div>
+  <div class="chunk">
+  <h2 id="transitions">Transitions</h2>
+  <p>Some phenomena can be changed slowly.</p>
+  <p>One of the beauties of defining functions as text as then using D3’s interpolate function is that numeric values in functions can be automatically interpolated.</p>
+  <p>Here’s an example from the Hathi visualization, with the JSON schema code below. Initially, this says, start with only books published before 1800; and then, over the course of 10 seconds, change to a filter of only books published before 2020, while over <em>5</em> seconds making the points half as large.</p>
+  <p>D3’s interpolate function neatly redraws as quickly as possible with every intermediate possibility of years.</p>
+  <div class="sourceCode" id="cb11"><pre class="sourceCode json"><code class="sourceCode json"><a class="sourceLine" id="cb11-1" data-line-number="1"><span class="fu">{</span></a>
+  <a class="sourceLine" id="cb11-2" data-line-number="2"><span class="dt">&quot;point_size&quot;</span><span class="fu">:</span> <span class="dv">5</span><span class="fu">,</span></a>
+  <a class="sourceLine" id="cb11-3" data-line-number="3"><span class="dt">&quot;label_threshold&quot;</span><span class="fu">:</span> <span class="dv">0</span><span class="fu">,</span></a>
+  <a class="sourceLine" id="cb11-4" data-line-number="4"><span class="dt">&quot;filters&quot;</span><span class="fu">:</span> <span class="fu">{</span></a>
+  <a class="sourceLine" id="cb11-5" data-line-number="5">    <span class="dt">&quot;year&quot;</span><span class="fu">:</span> <span class="st">&quot;d.date &lt;= 1800&quot;</span></a>
+  <a class="sourceLine" id="cb11-6" data-line-number="6"><span class="fu">},</span></a>
+  <a class="sourceLine" id="cb11-7" data-line-number="7"><span class="dt">&quot;slowly&quot;</span><span class="fu">:</span> <span class="ot">[</span></a>
+  <a class="sourceLine" id="cb11-8" data-line-number="8">   <span class="fu">{</span><span class="dt">&quot;field&quot;</span><span class="fu">:</span> <span class="st">&quot;point_size&quot;</span><span class="fu">,</span></a>
+  <a class="sourceLine" id="cb11-9" data-line-number="9">    <span class="dt">&quot;value&quot;</span><span class="fu">:</span><span class="fl">2.5</span><span class="fu">,</span></a>
+  <a class="sourceLine" id="cb11-10" data-line-number="10">    <span class="dt">&quot;duration&quot;</span><span class="fu">:</span> <span class="dv">5e03</span><span class="fu">}</span><span class="ot">,</span> </a>
+  <a class="sourceLine" id="cb11-11" data-line-number="11">   <span class="fu">{</span><span class="dt">&quot;field&quot;</span><span class="fu">:</span> <span class="st">&quot;filters&quot;</span><span class="fu">,</span></a>
+  <a class="sourceLine" id="cb11-12" data-line-number="12">    <span class="dt">&quot;value&quot;</span><span class="fu">:</span> <span class="fu">{</span><span class="dt">&quot;year&quot;</span><span class="fu">:</span> <span class="st">&quot;d.date &lt;= 2020&quot;</span><span class="fu">},</span></a>
+  <a class="sourceLine" id="cb11-13" data-line-number="13">    <span class="dt">&quot;duration&quot;</span><span class="fu">:</span> <span class="dv">10e03</span><span class="fu">}</span><span class="ot">]</span></a>
+  <a class="sourceLine" id="cb11-14" data-line-number="14"><span class="fu">}</span></a></code></pre></div>
+  <p>The next portion of the narrative will run the code.</p>
+  <pre class="api"><code>{
+  &quot;debug&quot;: false,
+  &quot;point_threshold&quot;: 25,
+  &quot;label_threshold&quot;: 0,
+  &quot;filters&quot;: {},
+  &quot;zoom&quot;: [1, 0, 0],
+  &quot;colorize_by&quot;:&quot;date&quot;
+  }</code></pre>
+  </div>
+  <div class="chunk">
+  <p>Here’s what that looks like. In the case of library books, it highlights something quite interesting. Different genres begin out around the margins of the plot; more recent ones fill in the middle, as if all genres are converging together. This replicates one of the interesting things I found in the paper, which is that it’s <em>harder</em> to classify library books today than in the past.</p>
+  <pre class="api"><code>{
+  &quot;point_size&quot;: 5,
+  &quot;filters&quot;: {
+    &quot;year&quot;: &quot;d.date &lt;= 1800&quot;
+   },
+  &quot;slowly&quot;: [
+   {&quot;field&quot;: &quot;point_size&quot;, &quot;value&quot;:2.5, &quot;duration&quot;: 5e03}, 
+   {&quot;field&quot;: &quot;filters&quot;,
+   &quot;value&quot;: {&quot;year&quot;: &quot;d.date &lt;= 2020&quot;},
+   &quot;duration&quot;: 10e03}
+  ]
+  }</code></pre>
+  </div>
+  <div class="chunk">
+  <p>But you can do arbitrarily complex functions into the transition, which can yield visually cool results. I only really know enough trigonometry to make a spinning wheel: but if you’re better at it than I, you might able to create something cool by editing the api below to include a variety of spirals.</p>
+  <pre class="api"><code>{
+    &quot;point_size&quot;: 5,
+    &quot;filters&quot;: {
+      &quot;year&quot;: &quot;Math.atan2(d.x, d.y) &lt;= -3.14&quot;
+     },
+    &quot;slowly&quot;: [
+     {&quot;field&quot;: &quot;point_size&quot;, &quot;value&quot;:1, &quot;duration&quot;: 10e03}, 
+     {&quot;field&quot;: &quot;filters&quot;,
+     &quot;value&quot;: {    &quot;year&quot;: &quot;Math.atan2(d.x, d.y) &lt;= 3.24&quot;
+  },
+     &quot;duration&quot;: 10e03}
+    ]
+    }</code></pre>
+  </div>
+  <div class="chunk">
+  <h3 id="fast-canvas-tricks.">Fast canvas tricks.</h3>
+  <p>Initially, I wanted to use circles for points, because circles are prettier. But I believe that in csertain browser settings, circles can be a bit more time-consuming to render on a canvas element. So I use rectangles instead, shaped (approximately) like books.</p>
+  <p>This isn’t a general feature–in fact, we’re talking about putting up an abstracted version of this on one of the walls in Snell Library at Northeastern as part of our campus renovations. For that one, we’ll use SVG circles instead of canvas rectangles.</p>
+  <pre class="api"><code>{
+    &quot;filters&quot;: {}
+  }</code></pre>
+  </div>
+  </div>
+  <h2 id="labelling-algorithms">Labelling algorithms</h2>
+  <p>Let me switch to a different visualization to discuss two issues around labels.</p>
+  <p>This is a visualization of American street names, treated as text and clustered using UMAP, described further <a href="http://creatingdata.us/etc/streets/">here</a>). (I should also mention that the reason I use LargeVis for the big chart is simply that it’s hard to run on 13 million books, and I didn’t want to do it again after LargeVis was released. Some preliminary tests I did showed it had a nice structure–especially not separating Fraktur-German from regular German–on the Hathi data, but not so much better than LargeVis that I should clearly be using it instead.</p>
+  <p>I’m using it instead for two reasons:</p>
+  <ol type="1">
+  <li><p>Because it introduces the concept of <strong>size</strong> in one of these plots. For Hathi, I shuffle the books in random order and make them all the same size. But with street names, there is a logical ordering; frequency. (This strategy will work on any word embedding–that’s a domain where this strategy is especially useful).</p></li>
+  <li><p>Because for aesthetic reasons I made the bounding boxes visible on streets.</p></li>
+  </ol>
+  <div class="scrollership" data-scroller-type="scatterplot">
+  <div class="chunk">
+  <h3 id="avoiding-bounding-box-collisions.">Avoiding bounding box collisions.</h3>
+  <p>When you try to naively plot text, you end up with a mess of colliding bounding boxes. Here I’ve created a call to the API that plots (using the ‘label_threshold’ parameter) only the top 1% of street names. But most of these are near each other!</p>
+  <pre class="api"><code>{
+    &quot;base_dir&quot;: &quot;/data/scatter/streets&quot;,
+    &quot;colors&quot;: {&quot;name&quot;:&quot;&quot;},
+    &quot;lab&quot;: [&quot;name&quot;],
+    &quot;point_opacity&quot;: 1,
+    &quot;collisionDetection&quot;: false,
+    &quot;ffont&quot;: &quot;SantaBarbaraStreetsMedium&quot;,
+    &quot;label_field&quot;:&quot;name&quot;,
+    &quot;point_size&quot;: 1.2,
+    &quot;font&quot;: &quot;Overpass&quot;,
+    &quot;point_threshold&quot;: 8,
+    &quot;guides&quot;: [&quot;legend&quot;, &quot;label_legend&quot;, &quot;filter_legend&quot;],  
+    &quot;label_threshold&quot;: 0.01,
+    &quot;variable_point_size&quot;: true,
+    &quot;variable_text_size&quot;: true,  
+    &quot;zoom&quot;: [1, 4.06330232428664, 0.050736521860849315],
+    &quot;label_field&quot;: &quot;name&quot;,
+    &quot;scheme&quot;: &quot;streets&quot;
+    }</code></pre>
+  </div>
+  <div class="chunk">
+  <p>Rather than do a full-on jittered layout using force direction (which might be hard to recalculate 30 times a second to maintain smooth animation), I just try and plot each word at its correct position, but then reserve the position in a quadtree. Then before inserting any new words, I check nearby points in the quadtree to see if they conflict. If they do, the word is plotted as a point, not given text; and I put semi-opaque backdrops behind the words so that you can still see some points behind.</p>
+  <p>Calculating a bounding box for every word itself can be expensive. But luckily we only have to do it once. For any word, the bounding box size is defined by the font size and the particular width of its letters. (E.g., ‘www’ takes up more horizontal width in most fonts than ‘iii’). We can cache that and use it before all future frame animations.</p>
+  <pre class="api"><code>{
+  &quot;collisionDetection&quot;: true
+  }</code></pre>
+  </div>
+  <div class="chunk">
+  <p>This means that we can plot far more words; here I slowly turn up the label_threshold to allow fully 10% of all words to be plotted <em>if</em> they don’t overlap.</p>
+  <pre class="api"><code>{
+  &quot;slowly&quot;:[{&quot;field&quot;:&quot;label_threshold&quot;, &quot;value&quot;: 0.10, &quot;duration&quot;: 10e03}]
+  }</code></pre>
+  </div>
+  <div class="chunk">
+  <p>Different fonts require recalculation, as well. I’m going to change to Courier–your browser will probably stutter as all the bounding boxes are recalculated.</p>
+  <pre class="api"><code>{
+  &quot;font&quot;: &quot;Courier&quot;
+  }</code></pre>
+  </div>
+  </div>
+  <p>OK that’s all. If you want to try this on another set–or to do something new, like make it plot images instead of points and text boxes, which should not be too difficult–please let me know</p>
+  <div id="refs" class="references">
+  <div id="ref-mcinnes_umap:_2018">
+  <p>McInnes, Leland, and John Healy. “UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction.” <em>arXiv:1802.03426 [Cs, Stat]</em>, February 9, 2018. <a href="http://arxiv.org/abs/1802.03426" class="uri">http://arxiv.org/abs/1802.03426</a>.</p>
+  </div>
+  <div id="ref-tang_visualizing_2016">
+  <p>Tang, Jian, Jingzhou Liu, Ming Zhang, and Qiaozhu Mei. “Visualizing Large-Scale and High-Dimensional Data.” <em>arXiv:1602.00370 [Cs]</em>, 2016, 287–97. <a href="https://doi.org/10.1145/2872427.2883041" class="uri">https://doi.org/10.1145/2872427.2883041</a>.</p>
+  </div>
+  </div>
+  <section class="footnotes">
+  <hr />
+  <ol>
+  <li id="fn1"><p>Leland McInnes and John Healy, “UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction,” <em>arXiv:1802.03426 [Cs, Stat]</em>, February 9, 2018, <a href="http://arxiv.org/abs/1802.03426" class="uri">http://arxiv.org/abs/1802.03426</a>; Jian Tang et al., “Visualizing Large-Scale and High-Dimensional Data,” <em>arXiv:1602.00370 [Cs]</em>, 2016, 287–97, <a href="https://doi.org/10.1145/2872427.2883041" class="uri">https://doi.org/10.1145/2872427.2883041</a>.<a href="#fnref1" class="footnote-back">↩</a></p></li>
+  <li id="fn2"><p>Actually, I do a funny little shuffle rather than starting from the top; I start with all the nominally visible tiles, and use D3 promises to recursively check parent tiles.<a href="#fnref2" class="footnote-back">↩</a></p></li>
+  </ol>
+  </section>
+</div>
+
+<script src="/js/commonjs/polyfill-intersection.js"></script>
+<script src="/js/mapNarrative.min.js"></script>
+
+</body>

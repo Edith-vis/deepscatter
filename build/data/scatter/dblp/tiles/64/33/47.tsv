@@ -1,0 +1,412 @@
+id	area	title	year	x	y	ix
+3173539	DB	hierarchical backoff locks for nonuniform communication architectures	2003	1.5405284904409595	14.26151191295372	3173566
+3173899	Arch	broadcast directory: a scalable cache coherent architecture for mesh-connected multiprocessors	2000	2.1377816091725013	14.271125172402945	3173926
+3175165	Arch	simulation studies on the performance of an organizational model for graph reduction	1990	1.8348737976502356	14.323123077908855	3175192
+3176187	Metrics	load miss performance analysis methodology using the powerpc(tm) 604 performance monitor for oltp workloads	1996	1.5647671610692695	14.279610290902848	3176214
+3178033	HPC	a switch-tagged routing methodology for pc clusters with vlan ethernet	2011	2.0668296877884598	14.802586244029456	3178060
+3184535	Embedded	co-scheduling algorithms for cache-partitioned systems	2017	1.600701994623327	15.015008754928465	3184562
+3186643	Embedded	a flattened hierarchical scheduler for real-time virtualization	2016	1.9276887137330745	14.885304700573045	3186670
+3187376	Theory	study on confirming increasable bottleneck device in complex product dynamic scheduling	2009	1.6232159582413508	14.644325496404743	3187403
+3190369	OS	dynamic storage partitioning	1973	2.4225103475070298	14.656963594913044	3190396
+3191270	Theory	an analytic model for parallel computation	1977	1.7329851615277252	14.79894045318326	3191297
+3191977	HPC	interference between i/o and mpi traffic on fat-tree networks	2018	1.9417120003564208	14.747431298082324	3192004
+3193554	Embedded	approximate performance models of real-time software systems	1995	2.019839612178755	14.240668090927914	3193581
+3209311	Arch	mitigating processor variation through dynamic load balancing	2016	1.7836760953893729	14.182737026241233	3209338
+3210604	HPC	a dynamic scheduler for balancing hpc applications	2008	1.6324990604273626	14.591065366631911	3210631
+3217760	Crypto	program modelling via inter-reference gaps and applications	1995	1.9686398211021507	14.229930228748007	3217787
+3218182	Arch	fast cache access with full-map block directory	1997	2.4006763242945297	14.639312193788802	3218209
+3221606	HPC	efficient dynamic pinning of parallelized applications by reinforcement learning with applications	2017	2.2193811228357	14.32663989208096	3221633
+3221904	HPC	improving application performance and predictability using multiple virtual lanes in modern multi-core infiniband clusters	2010	1.8229799747310151	14.32133526785488	3221931
+3225260	HPC	toward millions of file system iops on low-cost, commodity hardware	2013	2.206509921095411	14.589265296515114	3225287
+3226975	HPC	heuristics for scheduling file-sharing tasks on heterogeneous systems with distributed repositories	2007	2.199780453411892	14.883691782353635	3227002
+3227575	Embedded	an experimental evaluation of the scalability of real-time scheduling algorithms on large-scale multicore platforms	2012	1.594595334995696	14.58144600607542	3227602
+3232289	OS	optimization of reading data via classified block access patterns in file systems	2016	2.3021671997209405	14.532824267048525	3232316
+3232651	Arch	increasing the effectiveness of directory caches by avoiding the tracking of noncoherent memory blocks	2013	1.9490364168200995	14.220335320179894	3232678
+3234560	HPC	the application of skewed-associative memories to cache only memory architectures	1995	1.6648374365519725	14.362346280763438	3234587
+3237036	EDA	resizable translation storage buffers	2006	2.3422747957680485	14.69918060374551	3237063
+3239711	Robotics	performability modeling based on real data: a case study	1988	2.432032147233476	14.605115074782043	3239738
+3240927	Embedded	real-time parallel architecture for sensor funsion	1992	1.5658927757430925	14.413293682597535	3240954
+3244937	HPC	a scalable hash scheduler for decoding of multiple h.264/avc streams on multi-core architecture	2014	1.4769859206314124	14.605003977362905	3244964
+3254118	HPC	slurm simulator: improving slurm scheduler performance on large hpc systems by utilization of multiple controllers and node sharing	2018	2.282244912274667	14.255511042872405	3254145
+3257596	EDA	fair memory access scheduling algorithms for multicore processors	2015	1.59710048780092	14.777812301018074	3257623
+3264619	Embedded	a hybrid real-time scheduling approach for large-scale multicore platforms	2007	1.6998705646884786	14.791140224048144	3264646
+3264983	Arch	reducing data transfer time in user-level network protocols	2006	2.039895570576112	14.382201756141106	3265010
+3265420	Arch	coint: proactive coordinator for avoiding interruptability holder preemption problem in vsmp environment	2018	2.3077544044927145	15.017543102446833	3265447
+3269701	DB	the convergence span of greedy load balancing	1994	2.126017794104301	14.580418772274585	3269728
+3273536	HPC	static load distribution for communication intensive parallel computing in multiclusters	2008	2.0863501698213853	14.977087310030345	3273563
+3275786	HPC	an incremental parallel scheduling approach to solving dynamic and irregular problems	1995	2.048893319190152	14.615709192595933	3275813
+3276616	Arch	enhancing boosting with semantic register in a superscalar processor	1992	1.8011215993006964	14.239059738211877	3276643
+3279109	Networks	g-net: effective gpu sharing in nfv systems	2018	2.2507608832885397	15.0499522118945	3279136
+3284475	Arch	cache miss heuristics and preloading techniques for general-purpose programs	1995	2.114724387506857	14.277083417967726	3284502
+3284822	HPC	affinity driven distributed scheduling algorithm for parallel computations	2011	1.902081975208685	14.862839739675836	3284849
+3285100	OS	revisiting virtual memory for high performance computing on manycore architectures: a hybrid segmentation kernel approach	2014	1.9277983712530185	14.464884316446195	3285127
+3285250	Arch	an analysis of degenerate sharing and false coherence	1996	2.0158815489403468	14.203322199589822	3285277
+3285274	HPC	communication-aware and energy-efficient scheduling for parallel applications in virtualized data centers	2013	1.7710370910336908	14.980270682253972	3285301
+3287780	Arch	history-based arbitration for fairness in processor-interconnect of numa servers	2017	2.4243365525874485	14.96335275602116	3287807
+3293559	Embedded	a fully preemptive multiprocessor semaphore protocol for latency-sensitive real-time applications	2013	2.2583259646874927	14.993239160302315	3293586
+3294291	Metrics	an introduction to disk drive modeling	1994	2.38038059262262	14.398122856508989	3294318
+3296056	HPC	adaptive dynamic process scheduling on distributed memory parallel computers	1994	2.2280813892130453	14.766613403244436	3296083
+3300389	EDA	cache injection: a novel technique for tolerating memory latency in bus-based smps	2000	1.574357774921237	14.28940456429751	3300416
+3302207	HPC	heuristic algorithms for task assignment and scheduling in a processor network	1994	1.6884547756021506	14.959722440691598	3302234
+3303445	Arch	contents management in first-level multibanked data caches	2004	1.6021799149142608	14.29633224898762	3303472
+3304738	Arch	database servers on chip multiprocessors: limitations and opportunities	2007	2.408399470118998	14.725701773637214	3304765
+3306664	Theory	computer scheduling algorithms: past, present, and future	1991	2.271507951732986	14.628069877517015	3306691
+3307333	OS	cost-aware function migration in heterogeneous systems	2011	1.8244929348492076	14.166763520031777	3307360
+3307690	Metrics	optimal partitioning of cache memory	1992	1.8628696877276	15.043265722288465	3307717
+3308004	HPC	pfc: transparent optimization of existing prefetching strategies for multi-level storage systems	2008	2.403985338037279	15.110726750655957	3308031
+3311514	HPC	hierarchical loop scheduling for clustered numa machines	2000	2.1502291166905776	14.374057820246875	3311541
+3314606	Embedded	on guaranteeing hard real-time tasks	1993	1.6402768563267824	14.973353071676677	3314633
+3321537	HPC	optimal scheduling policies for mixed scalar-vector multiprocessor supercomputers	1988	2.0198561957623737	14.421386740138269	3321564
+3321736	Arch	dasc cache	1995	2.0739930212048563	14.184423075660364	3321763
+3321886	HPC	performance evaluation of a parallel i/o architecture	1995	2.0859784381096027	14.658778007956608	3321913
+3331958	Networks	experimental evaluation of sunos ipc and tcp/ip protocol implementation	1993	2.3559801768254767	14.726820027852224	3331985
+3336857	Arch	performance evaluation of computing systems with memory hierarchies	1967	1.5949549271075998	14.420515233742115	3336884
+3342575	HPC	scalable hierarchical scheduling for multiprocessor systems using adaptive feedback-driven policies	2010	2.0040627296704563	15.117047806544395	3342602
+3346261	Robotics	real-time task scheduling on heterogeneous two-processor systems	2010	2.0373319271981103	14.902632919177286	3346288
+3346497	Embedded	wap: unreasonable distributions of execution time under reasonable conditions	2015	2.0511875242124424	14.74701966257077	3346524
+3347728	HPC	power, reliability, and performance: one system to rule them all	2016	1.6024816998675722	14.91756590117715	3347755
+3348082	OS	towards efficient work-stealing in virtualized environments	2015	1.924688414790092	14.665709652731689	3348109
+3348120	Networks	editorial: next generation content networks	2009	2.084988012701094	14.438965322461677	3348147
+3351168	HPC	computing with heterogeneous parallel machines: advantages and challenges	1996	1.9911527946789915	14.844134728822755	3351195
+3354345	HPC	fault tolerance protocols for parallel programs based on tasks replication	2000	2.2340453779360865	14.648221556398498	3354372
+3359033	Arch	cooperative path-oram for effective memory bandwidth sharing in server settings	2017	2.1147508479745083	15.076939438541519	3359060
+3360362	Metrics	the impact of i/o on program behavior and parallel scheduling	1998	2.1544194985123206	14.435466191895785	3360389
+3362146	DB	hardware support: a cache lock mechanism without retry	2005	1.8029015434836757	14.370322280233507	3362173
+3365494	HPC	locality-aware policies to improve job scheduling on 3d tori	2014	2.0896757534122403	14.811713712254466	3365521
+3367365	Arch	candy: enabling coherent dram caches for multi-node systems	2016	1.4772739967247623	14.342963752526805	3367392
+3369280	HPC	a new mathematical model for optimizing the performance of parallel and discrete event simulation systems	2008	2.308808399965896	14.526463661578056	3369307
+3372480	Metrics	performance analysis of time warp with multiple homogeneous processors	1991	2.0354424426099023	14.664849749827098	3372507
+3374044	Embedded	soft real-time scheduling on performance asymmetric multicore platforms	2007	1.9651271666441417	14.846473874954984	3374071
+3374524	HPC	asymmetric communication models for resource-constrained hierarchical ethernet networks	2015	2.2175281587396047	14.192744348871846	3374551
+3377276	OS	an analytic framework for performance modeling of software transactional memory	2009	2.3412751413760744	14.672367453667285	3377303
+3377457	HPC	pacmap: topology mapping of unstructured communication patterns onto non-contiguous allocations	2015	1.8420831356598864	14.198391099800375	3377484
+3379588	HPC	a performance analysis of 4x infiniband data transfer operations	2003	2.4079787010405918	14.802531099199653	3379615
+3380878	HPC	fault-tolerant parallel scheduling of tasks on a heterogeneous high-performance workstation cluster	2001	2.4090671140156186	14.52368913404626	3380905
+3381020	HPC	distributed computations in real time based on a rough grammar principle	1999	1.8645049433184688	15.030010475568938	3381047
+3381595	Embedded	a constant-time dynamic storage allocator for real-time systems	2008	1.8210719804214577	14.380610600949488	3381622
+3385224	HPC	scheduling in multiprogrammed parallel systems	1988	2.091657485989581	14.341141131225472	3385251
+3387515	HPC	interrupt processing with queued content-addressable memories	1970	2.044384444225606	14.433860505752044	3387542
+3387845	Embedded	on validation of simulation models in timing analysis of complex real-time embedded systems	2010	1.7515698200568626	14.891175900322043	3387872
+3392304	Arch	characterisation of programs for scheduling in multiprogrammed parallel systems	1991	2.137537190865997	14.402022126913247	3392331
+3393663	HPC	mpi tools and performance studies - quantifying the potential benefit of overlapping communication and computation in large-scale scientific applications	2006	1.8877536115114903	14.579270334343288	3393690
+3394359	OS	performance implications of extended page tables on virtualized x86 processors	2017	2.2316492583968293	14.622093091086269	3394386
+3395110	HPC	data movement optimizations for independent mpi i/o on the blue gene/q	2017	1.5911270558805437	14.236799402812247	3395137
+3396783	Theory	analysis of the optimal, look-ahead demand paging algorithms	1976	1.824494356225468	14.61578281405366	3396810
+3397905	HPC	exploiting fine-grained idle periods in networks of workstations	2000	2.3342799835025447	14.653247882401644	3397932
+3398588	HPC	a multicore periodical preemption virtual machine scheduling scheme to improve the performance of computational tasks	2013	2.0595237615856634	15.042529593407108	3398615
+3402999	HPC	implementation, analysis and performance evaluation of the irp replacement policy	2005	1.6426267321922379	14.511100633878614	3403026
+3405735	Embedded	saving energy by means of dynamic load management in embedded multicore systems	2014	2.3245706867118234	14.530785928916554	3405762
+3407159	Arch	thread prioritization: a thread scheduling mechanism for multiple-context parallel processors	1995	1.6153633362776592	14.489807307623195	3407186
+3408919	Visualization	achieving one-hop dht lookup and strong stabilization by passing tokens	2004	2.3420099083545427	14.565275737181775	3408946
+3414100	Embedded	real-time on-line network simulation	2001	1.8089137294457072	14.350480544017394	3414127
+3420359	Metrics	investigation of the mechanisms for interprocess communication	1973	1.9067479862605303	14.55465099621228	3420386
+3423246	HPC	taming non-local stragglers using efficient prefetching in mapreduce	2015	2.4076323260235584	14.91119530878029	3423273
+3429439	HPC	determining an optimal secondary storage service rate for the pasm control system	1986	2.3151236987698955	14.75422482839916	3429466
+3430133	Arch	a survey of techniques for architecting dram caches	2016	2.3367164079191403	14.797071662328793	3430160
+3431460	Metrics	cold-start vs. warm-start miss ratios	1978	2.2963211435518964	15.001130615017296	3431487
+3433772	HPC	hierarchical scheduling of dynamic parallel computaion on hypercube multicomputers	1994	1.9715122256550937	14.717428615087814	3433799
+3435599	Logic	a new method for computing page-fault rates	1993	2.107925937870568	14.474778124536286	3435626
+3441932	EDA	high-speed access to stored data using switched memory decoding	1987	2.2146725136446808	14.210948176798869	3441959
+3449048	HPC	adaptive matrix multiplication in heterogeneous environments	2002	1.7503156533476352	14.496400966564787	3449075
+3455677	OS	improving the program performance through prioritized memory management and disk operation	2015	2.3329854303294995	14.559421628296775	3455704
+3458869	HPC	performance and energy evaluation of memory organizations in noc-based mpsocs under latency and task migration	2009	1.5079735280077184	14.186821255957822	3458896
+3460798	OS	processor allocation using user directives in mesh-connected multicomputer systems	1998	1.8869050551614603	14.858478987988304	3460825
+3463898	HPC	discretionary caching for i/o on clusters	2006	2.170194387019284	14.28557674385233	3463925
+3464584	HPC	data-intensive workflow optimization based on application task graph partitioning in heterogeneous computing systems	2014	1.5457825714092832	14.816879796759826	3464611
+3464672	HPC	a dynamic scheduling strategy for the chare-kernel system	1989	2.3328110785561758	14.702091343934633	3464699
+3466416	HPC	analysis of macro-dataflow dynamic scheduling on nonuniform memory access architectures	1993	1.9472673818533708	14.778115402671098	3466443
+3466836	DB	a study of partitioned dimm tree management for multimedia server systems	2016	1.5744261073358907	14.370562354092515	3466863
+3468134	OS	vscale: automatic and efficient processor scaling for smp virtual machines	2016	1.8255686985886408	14.970943781523097	3468161
+3470190	Arch	remote memory references at block granularity	2017	2.0336420882204886	14.603872070132455	3470217
+3474941	Embedded	exploiting lookahead in parallel simulation	1990	2.08006132633307	14.361924514731946	3474968
+3475716	HPC	performance evaluation of load distribution strategies in parallel branch and bound computations	1995	2.050267880769282	14.596756662095087	3475743
+3477754	HPC	improving parallel program execution time with message consolidation	1994	1.8062106039339063	14.324146239935498	3477781
+3478312	Robotics	a message segmentation technique to minimize task completion time	1991	1.5770726674289002	14.586469690940044	3478339
+3479295	HPC	high performance and reliable nic-based multicast over myrinet/gm-2	2003	2.3219753199881934	14.21131562547191	3479322
+3480816	Metrics	a multiprocessor bus design model validated by system measurement	1992	1.7208449318102246	14.391511774077447	3480843
+3482742	HPC	ccndns: a strategy for spreading content and decoupling ndn caches	2015	1.7628938276189074	14.945910411671088	3482769
+3482798	SE	rough grammar for efficient and fault-tolerant computing on a distributed system	1991	1.9590062359827989	14.352022928136149	3482825
+3486310	DB	an analytical study of strategy-oriented restructuring algorithms	1984	2.0958499413905667	14.426224948983702	3486337
+3488125	Robotics	critical resources identification in constant resource constrained projects	2006	1.7408458393780455	15.034564269908893	3488152
+3495488	HPC	an empirical evaluation of two memory-efficient directory methods	1990	2.159273956859346	14.307928947423795	3495515
+3505230	HPC	partitioning pcs for parallel simulation	1997	1.5285137074132178	14.291927949847064	3505257
+3507331	HPC	dynamic partitioning in a class of parallel systems	1988	1.9103955345928805	14.594644790940418	3507358
+3508309	Arch	code-based cache partitioning for improving hardware cache performance	2012	2.0492443554728217	14.431114664499598	3508336
+3512309	Arch	processor scheduling in shared memory multiprocessors	1990	2.0892114599012435	14.857189823050074	3512336
+3516391	DB	multi-core column-store parallelization under concurrent workload	2016	2.377138106470562	14.529150854540587	3516418
+3519672	HPC	neural network for saturation prediction of solid state drives	2017	2.392441946935393	14.870249928612974	3519699
+3527008	Arch	a high speed main memory file system for shared memory multi-processor systems.	1990	2.3073334274858297	14.180385490480024	3527035
+3527559	HPC	performance of adaptive space-sharing policies in dedicated heterogeneous cluster systems	2004	2.3563905768923457	15.082927565487054	3527586
+3529105	Metrics	instruction cache replacement policies and organizations	1985	1.7355710130235165	14.393781557372384	3529132
+3537139	HPC	effective quality-of-service policy for capacity high-performance computing systems	2012	2.00863523194692	15.083551926213255	3537166
+3537626	HPC	a compound scheduling strategy for irregular array redistribution in cluster based parallel system	2010	2.029471912244786	14.989405198387368	3537653
+3540392	OS	a study of response times under various deadlock algorithms and job schedulers	1974	2.1933112047866983	14.931906342369164	3540419
+3546514	HPC	a performance evaluation methodology for parallel simulation protocols	1996	1.8705038313120204	14.484687967155113	3546541
+3548285	NLP	multiprogramming and memory contention	1980	1.5128995383556334	14.338168449224007	3548312
+3548599	Networks	speculation-aware cluster scheduling	2015	2.192082884710948	14.734471698385546	3548626
+3549738	Arch	working set based scheduling in time warp simulations	2007	2.26013073277316	14.39255702779695	3549765
+3549884	Theory	on-line scheduling of parallelizable jobs	1998	2.2522682170436803	15.095361757309206	3549911
+3552620	HPC	determination of parallel software organizations for performance-constrained and connectivity-constrained distributed systems	1989	1.5670432325417687	14.91310264694678	3552647
+3552700	OS	hzmem: new huge page allocator with main memory compression	2017	1.7365015808545026	14.389010597470438	3552727
+3555835	Robotics	dynamic partitioning of the main memory using the working set concept	1975	2.251654891302892	14.560515791299489	3555862
+3557140	HPC	csalt: context switch aware large tlb	2017	1.5013571653474616	14.553499923587758	3557167
+3562891	OS	schedule processes, not vcpus	2013	2.2228141353397444	14.83118562529732	3562918
+3562963	Embedded	leakage-proof program partitioning	2002	1.6780012697304023	14.559730653923463	3562990
+3563165	HPC	a task allocation model for distributed computing systems	1982	2.032493078737314	15.095275786875009	3563192
+3563263	HPC	the effects of granularity and adaptivity on private/shared classification for coherence	2014	2.411763410159203	14.367505330537096	3563290
+3565533	HPC	a scalable time-sharing scheduling for partitionable distributed memory parallel machines	1995	2.207786476758256	14.855368854624349	3565560
+3568496	Arch	osprey: implementation of memory consistency models for cache coherence protocols involving invalidation-free data access	2015	1.743208240039539	14.253498318039005	3568523
+3569820	HPC	mapping of parallel tasks to multiprocessors with duplication	1998	1.661560901911014	14.9164047151084	3569847
+3576006	HPC	a lower bound for dynamic scheduling of data parallel programs	1998	2.0327857243132383	14.92927467738116	3576033
+3580905	HPC	the performance impact of scheduling for cache affinity in parallel network processing	1995	2.1586962793371822	14.689092650175269	3580932
+3582377	Arch	interference-aware incoming message detection for mpi threaded progression	2013	1.8805402724722384	14.235391503142955	3582404
+3583218	HPC	a study of application-level recovery methods for transient network faults	2013	2.3304377611552014	14.37499114895556	3583245
+3586272	Embedded	divisible loads scheduling in hierarchical memory systems with time and energy constraints	2015	2.052784934453158	14.323275727845347	3586299
+3589519	HPC	design and implementation of multicast operations for atm-based high performance computing	1994	2.397334651156016	14.498035299745679	3589546
+3590238	HPC	performance modeling of subnet management on fat tree infiniband networks using opensm	2003	2.0189406631612683	14.623681573041225	3590265
+3591609	OS	preventing versus curing: avoiding conflicts in transactional memories	2009	1.6417183303920813	14.558080598126251	3591636
+3593331	HPC	performance improvement of allocation schemes for mesh-connected computers	1998	1.9630541663761083	15.111655505884926	3593358
+3593831	PL	garbage-first garbage collection	2004	1.8874199956460525	14.857678041574976	3593858
+3597443	Embedded	interrupt triggered software prefetching for embedded cpu instruction cache	2006	1.6336319558991323	14.36210987092617	3597470
+3599403	Embedded	the impact of blocking factor on real-time applications feasibility	2016	1.6692368821193269	14.990286008781256	3599430
+3607704	Metrics	performance evaluation of multiprogrammed time-shared computer systems	1973	1.8934373891380591	14.278139300444096	3607731
+3609083	Metrics	parallel discrete-event simulation of fcfs stochastic queuing networks	1988	1.9078520367800091	15.024150448903168	3609110
+3609353	Arch	q-dram: quick-access dram with decoupled restoring from row-activation	2016	1.495635044714714	14.604459051515743	3609380
+3609648	EDA	genetic algorithms on lan-message passing architectures using pvm: application to the routing problem	1994	2.3855817781955966	14.595248284343741	3609675
+3613249	Embedded	tractable real-time air traffic control automation.	2002	1.6293109502932812	15.108345524822855	3613276
+3613496	Metrics	least recently plus five least frequently replacement policy (lr+5lf)	2012	1.502401820355953	14.645723596750074	3613523
+3614189	HPC	divide-and-conquer: a bubble replacement for low level caches	2009	1.68141212892528	14.985008928429108	3614216
+3617585	Arch	improving performance isolation on chip multiprocessors via an operating system scheduler	2007	1.5508797500794018	14.71601565619613	3617612
+3617958	OS	dynamic memory balancing for virtualization	2016	1.5026236395147383	14.843146023054624	3617985
+3619284	Metrics	a comparative study of parallel and sequential priority queue algorithms	1997	2.3774167422590833	14.852528766068769	3619311
+3621351	HPC	dmr api: improving cluster productivity by turning applications into malleable	2018	2.353087933185706	14.584597241265815	3621378
+3622140	Arch	eager data transfer mechanism for reducing communication latency in user-level network protocols	2008	2.3658297989020967	14.223439217737091	3622167
+3622694	HPC	a user-level multicast performance comparison of scalable coherent interface and myrinet interconnects	2003	2.4031259217485905	14.503673955323851	3622721
+3626422	HPC	supporting global resource sharing in run-scheduled multiprocessor systems	2014	1.9832021108343	14.165587807697994	3626449
+3627777	HPC	a programmable network interface for a message-based multicomputer	1994	1.7708619366507237	14.412086857100494	3627804
+3631512	DB	some empirical observations on program behavior with applications to program restructuring	1985	1.8678847405360368	14.268737640391755	3631539
+3634422	Arch	analyzing and scaling parallelism for network routing protocols	2010	2.2481211946585686	14.373299895325324	3634449
+3640124	Arch	spire: improving dynamic binary translation through spc-indexed indirect branch redirecting	2013	2.4190730720251006	14.606178222719064	3640151
+3642831	HPC	hybrid co-scheduling optimizations for concurrent applications in virtualized environments	2011	1.651625518528157	14.637646596175903	3642858
+3643023	HPC	modeling and measuring multiprogramming and system overheads on a shared-memory multiprocessor: case study	1991	1.9685245591121785	14.352738206966832	3643050
+3645480	Arch	analytical modeling of multithreaded architectures	2000	1.695553562296586	15.046685583045836	3645507
+3649928	Embedded	multiprocessor real-time scheduling with arbitrary processor affinities: from practice to theory	2014	1.7654719230196467	14.793592763099243	3649955
+3657491	Metrics	a model to estimate average response time of parallel programs	1989	1.9820955708786552	14.67344569536489	3657518
+3663199	HPC	energy consumption of synchronization algorithms in distributed simulations	2017	2.2655590627916933	14.195598272141249	3663226
+3668545	HPC	locality conscious processor allocation and scheduling for mixed parallel applications	2006	1.6302437907729748	14.483570599333989	3668572
+3672073	Arch	scattered superpage: a case for bridging the gap between superpage and page coloring	2013	1.7270530826941286	14.721634881763807	3672100
+3672140	HPC	proposal of an analytical solution for the load imbalance problem in parallel systems	2003	2.0123796533028453	14.38015205890419	3672167
+3673292	HPC	alternative formulations of the paging problem for cache with read through	1979	1.689413499530887	14.225713691030714	3673319
+3673937	Arch	yaarc: yet another approach to further reducing the rate of conflict misses	2007	2.035986994087688	14.972373815834628	3673964
+3680699	Metrics	reuse-based online models for caches	2013	2.069213750761667	14.822058517076002	3680726
+3680881	Metrics	simulation of a model of paging system performance	1971	2.0573575745054624	14.60278111910766	3680908
+3682582	NLP	"""reprint of """"robust partial-load experiments with showstopper"""""""	2017	1.7158078269129382	14.74399268651927	3682609
+3684657	HPC	plda+: parallel latent dirichlet allocation with data placement and pipeline processing	2011	2.033458509590604	14.526719658147366	3684684
+3685226	HPC	enhancing inter-node process migration for load balancing on linux-based numa multicore systems	2018	2.3036133303116366	14.350497315300677	3685253
+3687318	Embedded	measurement and analysis of workload effects on fault latency in real-time systems	1990	2.1466246177020616	14.883805281165671	3687345
+3688826	Metrics	robust partitioning policies of multiprocessor systems	1994	2.0926917339123405	14.795399176555154	3688853
+3690848	OS	srm-buffer: an os buffer management technique to prevent last level cache from thrashing in multicores	2011	1.976464363869162	14.831379383136895	3690875
+3690914	HPC	linked list cache coherence for scalable shared memory multiprocessors	1993	2.1483290535281694	14.205614508578632	3690941
+3691098	Arch	an experimental study of memory fault latency	1989	2.144701609207781	14.81017331716074	3691125
+3695634	HPC	assessing contention effects on mpi_alltoall communications	2007	1.7810522677197675	14.297567250869514	3695661
+3698850	HPC	dynamic load balancing for parallel program execution on a message-passing multicomputer	1990	2.3451388160066275	14.585121113601112	3698877
+3699479	Metrics	incorporating system overhead in queuing network models	1980	2.3891291741788825	14.678191476492596	3699506
+3699590	HPC	a quantitative evaluation of cache types for high-performance computer systems	1993	2.1466384778706464	14.55425428324981	3699617
+3700152	Arch	footprints in the cache	1986	2.379682103997372	14.707875643089421	3700179
+3701520	DB	parallel execution models for constraint propagation	1998	1.8838982623830387	14.613887562276995	3701547
+3701620	Metrics	a generalized theory of collaborative caching	2012	1.9400441948405835	14.362995741375133	3701647
+3704613	HPC	improving speedup and response times by replicating parallel programs on a snow	2004	2.3187260889516725	14.508429329642453	3704640
+3709189	HPC	performance analysis of scheduling-based load balancing for distributed and parallel systems using visualsim	2007	2.306701037207559	14.398005792620475	3709216
+3709307	Arch	αωhighway interconnection network architecture for high performance computing	2012	1.8835118184842363	14.341090589817266	3709334
+3711112	Arch	dynamically reconfigurable cache architecture using adaptive block allocation policy	2006	2.204676971454128	14.749494942612875	3711139
+3716748	Theory	probability models for multiprogramming computer systems	1967	2.3622260618179047	14.360208954949671	3716775
+3718351	Theory	two methods for load balanced distributed adaptive integration	1996	1.971872400982392	14.452710745234905	3718378
+3722505	HPC	wisethrottling: a new asynchronous task scheduler for mitigating i/o bottleneck in large-scale datacenter servers	2015	1.6912493094154832	14.412090928317935	3722532
+3723224	Metrics	scheduling with implicit information in distributed systems	1998	2.4344656432148173	14.163880626456235	3723251
+3727061	HPC	research on dynamic load balancing algorithms for parallel transportation simulations	2007	2.2641620019859823	14.663605815532666	3727088
+3728831	OS	an analysis of the effects of spatial locality on the cache performance of binary search trees	2006	1.8510087490416955	14.501812157650075	3728858
+3729569	Mobile	control of event handling timeliness in rtems	2005	2.378548783714977	14.586741350018857	3729596
+3731671	HPC	area-maximizing schedules for series-parallel dags	2010	1.7145383922417423	14.88484548361897	3731698
+3733478	Theory	the renewal model for program behavior	1975	2.2961683496261216	14.248975337450835	3733505
+3734694	Robotics	performance effects of information sharing in a distributed multiprocessor real-time scheduler	1992	2.0275363218496416	15.09813283590025	3734721
+3734777	HPC	a novel scheme to balance the cache sharing in high performance computing system	2008	2.27630315581052	14.39632281377774	3734804
+3741306	HPC	distributing hot-spot addressing in large-scale multiprocessors	1986	1.574967652935468	14.608099925897605	3741333
+3742534	Metrics	analysis of demand paging policies with swapped working sets	1977	2.29158489789163	14.539040800778412	3742561
+3742940	Arch	low-cost high-bandwidth tree network for pc clusters based on tagged-vlan technology	2005	2.2790698373307845	14.83559288525051	3742967
+3747545	Arch	a parallel page cache: iops and caching for multicore systems	2012	1.9303567702272943	14.353466562668679	3747572
+3752776	Theory	integrated prefetching and caching with read and write requests	2003	2.0670124472247733	14.701283517563196	3752803
+3753466	Theory	including queueing effects in amdahl's law	1996	1.9470069343281664	14.482634048237355	3753493
+3753468	OS	herniated hash tables: exploiting multi-level phase change memory for in-place data expansion	2015	1.8909385389850304	15.066434978851804	3753495
+3754997	Embedded	evaluation of a local adaptive protocol for distributed discrete event simulation	1994	2.3401806295172904	14.675536080847811	3755024
+3756952	Arch	the yin and yang of power and performance for asymmetric hardware and managed software	2012	2.147532205345329	14.490804763106361	3756979
+3757289	Arch	evaluating the impacts of hugepage on virtual machines	2015	2.0795560515561973	14.518646840711668	3757316
+3757756	HPC	a quadratic self-scheduling algorithm for heterogeneous distributed computing systems	2006	2.4119201710711544	14.702150238684212	3757783
+3758734	HPC	a study of instruction cache organizations and replacement policies	1983	1.737277422254882	14.312844627770195	3758761
+3761269	Embedded	offline equivalence: a non-preemptive scheduling technique for resource-constrained embedded real-time systems (outstanding paper)	2017	1.8458738679899531	14.371906730842907	3761296
+3762980	Embedded	blocking analysis for spin locks in real-time parallel tasks	2018	1.8809977378361031	15.074716193275744	3763007
+3765463	Metrics	processor allocation in multiprogrammed distributed-memory parallel computer systems	1997	2.4224913564070816	15.026038919749887	3765490
+3765564	Embedded	a modified interactive oriented scheduler for gui-based embedded systems	2008	2.2444432118355118	14.810160377432863	3765591
+3769701	OS	adaptive cache aware bitier work-stealing in multisocket multicore architectures	2013	1.5558982209833891	14.30379886629632	3769728
+3772025	Metrics	blocking: exploiting spatial locality for trace compaction	1990	1.866698930447776	14.537868198910955	3772052
+3773663	Arch	revisiting virtual l1 caches: a practical design using dynamic synonym remapping	2016	2.0384769893282453	14.614466533785832	3773690
+3775024	Embedded	performance tuning towards a kvm-based embedded real-time virtualization system	2013	2.0555733928656483	14.794230822775132	3775051
+3777831	Embedded	partition oriented frame based fair scheduler	2010	1.807141926980365	15.022831953034425	3777858
+3778991	HPC	compiler-controlled parallelism-independent scheduling for parallel and distributed systems	2002	1.7993458388519392	14.606297337558106	3779018
+3779666	Arch	multi-grain coherence directories	2013	1.8932095040690136	14.419725307269175	3779693
+3780540	Arch	on modeling local area networks	1988	1.6850233398883847	14.830340857006133	3780567
+3781427	Theory	bounding cache miss costs of multithreaded computations under general schedulers: extended abstract	2017	1.5967713696062722	14.441170148448222	3781454
+3782406	Metrics	modeling user runtime estimates	2005	2.1855218547096142	14.5889519542035	3782433
+3785711	Embedded	parallel and sequential reclaiming in multicore real-time global scheduling	2015	1.6563468120935243	15.002427168994794	3785738
+3791938	HPC	a study of network quality of service in many-core mpi applications	2018	1.6096780418938874	14.859388974216461	3791965
+3798966	Arch	fast two-level address translation for virtualized systems	2015	1.7268797775963194	14.26270424216831	3798993
+3799622	Embedded	scheduling parallel real-time tasks on multi-core processors	2010	1.4791336139718292	14.666030594402025	3799649
+3804123	HCI	extension of the working set for modeling spatial locality in program behavior	1998	1.9607645668786864	14.31242702930563	3804150
+3804247	HPC	a graph theoretical model for scheduling simultaneous i/o operations on parallel and distributed environments	2002	2.375815757838996	14.320583899351108	3804274
+3804544	HPC	turbostream: towards low-latency data stream processing	2018	1.6467270070330766	14.18404752804085	3804571
+3806574	HPC	exploiting programmable network interfaces for parallel query execution in workstation clusters	2006	2.1362020172599245	14.278266263193915	3806601
+3810803	DB	page: a partition aware engine for parallel graph computation	2015	2.3253040992922944	14.572754509434793	3810830
+3812041	Arch	brief announcement: few buffers, many hot spots, and no tree saturation (with high probability)	2014	1.7968253506504877	14.813518940530546	3812068
+3812651	Theory	the set-associative cache performance of search trees	2003	2.1223437484952057	14.23508564878546	3812678
+3822790	Metrics	the eelru adaptive replacement algorithm	2003	2.129665680261825	14.603666999610805	3822817
+3825130	ECom	delivering business value with modeling and service orientation: the lean, green business	2009	1.5788087822360346	14.6332279023377	3825157
+3825157	EDA	modeling power management for hard disks	1994	1.8138168185947263	14.771560658864198	3825184
+3825385	HPC	on the design of a new dynamic credit-based end-to-end flow control mechanism for hpc clusters	2015	2.166683407049469	14.177591145213881	3825412
+3825820	Theory	markov analysis of multiple-disk prefetching strategies for external merging	1994	1.995609634810333	14.167413482881017	3825847
+3827217	Arch	experiments on high-priority cold requests in the presence of tree saturation	1994	1.5057834657253302	14.721312356842832	3827244
+3827883	HPC	exploring the relation between two levels of scheduling using a novel simulation approach	2017	2.3363125928282757	14.95360383303642	3827910
+3828697	OS	waste not, want not: resource-based garbage collection in a shared environment	2011	2.2082395088859115	14.173023681316804	3828724
+3831253	Arch	characterizations of parallelism in applications and their use in scheduling	1989	1.7134600129990354	14.214308306958857	3831280
+3831733	Arch	a framework for providing quality of service in chip multi-processors	2007	1.473429096952038	14.989365064787133	3831760
+3832146	HPC	what is missing in current checkpoint interval models?	2011	2.4276529107464726	14.243585846710493	3832173
+3832730	Metrics	a highly parameterized tool for studying performance of computer systems	1981	2.3570834317235705	14.344957191442926	3832757
+3833560	Arch	dynamic vs. static quantum-based parallel processor allocation	1996	2.3834159882768966	14.729719301731631	3833587
+3834770	Arch	optimal scheduling of compute-intensive tasks on a network of workstations	1995	1.8516493397695897	14.746020522666685	3834797
+3836052	OS	performance modeling of windows 2000 priority-driven preemptive thread scheduling	2002	2.2128958896408264	14.532618011142855	3836079
+3837155	Embedded	the processor working set and its use in scheduling multiprocessor systems	1991	2.119745372169441	15.078326151799676	3837182
+3837914	HPC	dynamic load balancing scheduling model based on multi-core processor	2010	1.8911607950569425	14.619192444570867	3837941
+3838415	Arch	taming the instruction bandwidth of quantum computers via hardware-managed error correction	2017	2.195929838385541	14.827926980611432	3838442
+3838555	Arch	heterogeneous noc design for efficient broadcast-based coherence protocol support	2012	1.6664815742194037	14.318135503697887	3838582
+3839398	Arch	achieving reliable system performance by fast recovery of branch miss prediction	2012	2.1756319814122262	15.0740494377947	3839425
+3840420	HPC	a novel memory management technique for cloud client devices	2015	1.5300256486311308	15.026190186918885	3840447
+3844379	Arch	using simple page placement policies to reduce the cost of cache fills in coherent shared-memory systems	1995	2.029397384193465	14.338884756521766	3844406
+3846534	OS	ssmalloc: a low-latency, locality-conscious memory allocator with stable performance scalability	2012	1.5349828128553464	14.311974205156135	3846561
+3847754	HPC	task allocation using processor load prediction on multiprocessors cluster	2001	2.196026360163008	15.052979287629752	3847781
+3849591	HPC	a fast and efficient processor management scheme for k-ary n-cubes	1998	2.0351457685651173	14.961026499734318	3849618
+3850384	Metrics	performance bounds for distributed memory multithreaded architectures	1998	1.9834625667369417	14.912869879435275	3850411
+3857255	HPC	stable adaptive work-stealing for concurrent multi-core runtime systems	2011	2.2569331086366478	14.26704345500816	3857282
+3859583	Arch	"""comment on """"a novel data distribution technique for host-client type parallel applications'"""	2004	2.206438938285568	14.870475591793038	3859610
+3860774	OS	shared address translation revisited	2016	1.966983173656742	14.245695752880687	3860801
+3862499	HPC	throughput analysis for a high-performance fpga-accelerated real-time search application	2012	1.6027673172357673	14.53131886783468	3862526
+3864778	HPC	limited combining strategies for large-scale shared-memory multiprocessors	1998	2.021965322171932	14.657250150457466	3864805
+3865322	Metrics	cycles, cells and platters: an empirical analysisof hardware failures on a million consumer pcs	2011	2.1868738478912317	14.544825067899653	3865349
+3866913	SE	combining queueing network and generalized stochastic petri net models for the analysis of some software blocking phenomena	1985	2.1431921309286164	14.44019625902376	3866940
+3868966	NLP	failure analysis and modeling of a vaxcluster system	1990	2.3628373889016316	15.020567463523328	3868993
+3869848	HPC	an analysis of central processor-input-output processor contention	1979	1.8947595562163229	14.575140548606427	3869875
+3872349	HPC	an efficient, self-contained, on-chip directory: dir1-sisd	2015	1.9454036971113151	14.32089059938481	3872376
+3874195	Metrics	anomalies and adaptation in the analysis and development of prepaging policies	1994	2.047924771371656	14.597168851833922	3874222
+3875635	HPC	semi-dynamic scheduling of parallel tasks for heterogeneous clusters	2011	1.7827294206517768	14.507992858905231	3875662
+3876544	Embedded	an experimental investigation of the potential of blf-driven scheduling of real-time threads	1996	2.05326699988854	15.044768849811785	3876571
+3877376	HPC	collaborative caching for unknown cache sizes	2011	1.8548486800203476	14.641663041686835	3877403
+3883967	HPC	think global, act local: a buffer cache design for global ordering and parallel processing in the wafl file system	2016	1.887974300737794	14.352011973460007	3883994
+3884906	HPC	scheduling and grain size control	1994	2.1562056802727616	14.321418322427855	3884933
+3887544	Arch	mystic: predictive scheduling for gpu based cloud servers using machine learning	2016	1.8545368474835624	14.952770513671405	3887571
+3888629	HPC	page placement policies for numa multiprocessors	1991	1.8803333703656924	14.31245237938266	3888656
+3889017		improved interlock correction when solving layered queueing networks using decomposition	2015	2.1585464317567657	14.286505035378418	3889044
+3889039	HPC	context-aware address translation for high performance smp cluster system	2008	2.4095077376367393	14.187660399851653	3889066
+3889045	Networks	u-net: a user-level network interface for parallel and distributed computing	1995	2.4112522334600257	14.278864071168735	3889072
+3891165	Arch	decoupled zero-compressed memory	2011	2.3573103661320007	15.015007703179867	3891192
+3891356	Metrics	"""on the usage of simulators to detect inefficiency of parallel programs caused by """"bad"""" schedulings: the simparc approach"""	1996	2.0501770785765108	14.74881673553772	3891383
+3898566	Embedded	sirap: a synchronization protocol for hierarchical resource sharingin real-time open systems	2007	2.0782743772631953	15.10749969881892	3898593
+3898783	AI	parallel tertiary structure search on the cenju-3 parallel machine	1996	2.264051543165126	14.610170907001116	3898810
+3901160	Embedded	evaluation of real-time fiber communications for prallel collective operations	1999	2.157900071517085	14.33101882881874	3901187
+3902301	HPC	random graph generation for scheduling simulations	2010	1.6918170950406723	14.920521099914682	3902328
+3902313	HPC	a taxonomy of application scheduling tools for high performance cluster computing	2006	1.759794307371029	14.40766028591974	3902340
+3903699	HPC	on the nature of cache miss behavior: is it √2?	2008	1.5067747913632166	14.425530397175901	3903726
+3907322	Robotics	a model of univac 1100/42 swapping	1981	2.2258650265564395	14.486526454871322	3907349
+3909440	HPC	efficient execution of multiple cuda applications using transparent suspend, resume and migration	2015	1.916677350667948	14.260573466405413	3909467
+3910445	EDA	communication-aware scheduling algorithm based on heterogeneous computing systems	2007	2.1109329567807613	14.59770469295665	3910472
+3911749	Metrics	modeling bus contention and memory interference in a multiprocessor system	1983	1.8237996614858347	14.39562013839219	3911776
+3911878	HPC	performance improvement of mapreduce process by promoting deep data locality	2016	1.496044349378283	14.319255825704648	3911905
+3916406	Arch	the modeling power of cinsim: performance evaluation of interconnection networks	2009	2.0308663105182765	14.16152754327215	3916433
+3917630	Embedded	a scheduling algorithm for parallelizable dependent tasks	1991	1.5807971048212557	14.968941231126518	3917657
+3918830	HPC	performance-centric scheduling with task migration for a heterogeneous compute node in the data center	2016	1.8831809258619665	14.588124612191004	3918857
+3919390	Embedded	resource reservation for real-time self-suspending tasks: theory and practice	2015	1.6287810950194803	15.052467402250418	3919417
+3921180	HPC	machine learning-based prefetch optimization for data center applications	2009	1.780607159551586	14.532534415054554	3921207
+3927106	Metrics	optimization of static loading and sizing of multilevel memory systems	1973	2.375899383307539	14.706638062936664	3927133
+3927717	Arch	register sharing for equality prediction	2016	1.5325918557602691	14.393157048751828	3927744
+3928083	HPC	pam: a novel performance/power aware meta-scheduler for multi-core systems	2008	1.6360705728838196	14.563964875150411	3928110
+3928299	Metrics	a method for an integrated simulation linked with scheduling policies on a program-driven simulator	2000	2.344305268434494	14.165755756874724	3928326
+3928608	Metrics	analysis of multiprocessor control organizations with partial program memory replication	1974	1.967756049184848	15.001023900427567	3928635
+3943509	Embedded	reducing scalability collapse via requester-based locking on multicore systems	2012	1.523296445222297	14.580118044706936	3943536
+3946346	EDA	make a strategic decision using markov for dynamic checkpoint interval	2009	2.437942821923892	15.07199464418232	3946373
+3949019	Theory	improving extremal optimization in load balancing by local search	2014	2.158884630576244	14.375720993533733	3949046
+3949061	Arch	an asynchronous checkpoint-based redundant multithreading architecture	2010	1.9071156644364744	14.24120712296495	3949088
+3949737	Embedded	scheduling divisible workloads using the adaptive time factoring algorithm	2005	1.951193087328021	14.728065688538749	3949764
+3951939	Arch	evaluating the memory overhead required for coma architectures	1994	1.7221206696926623	14.66898759893702	3951966
+3954807	DB	sequentiality and prefetching in database systems	1978	2.302745652492816	14.950310274947045	3954834
+3955073	DB	scheduling for distributed computing	1997	2.1927095504758904	14.561293135962893	3955100
+3960360	Metrics	difflqn: differential equation analysis of layered queuing networks	2016	2.1017042144351907	14.176349353021786	3960387
+3961557	DB	fast lists intersection with bloom filter using graphics processing units	2011	1.7497100514963584	14.336594144621733	3961584
+3962156	HPC	cache affinity and resequencing in a shared-memory multiprocessing system	2000	2.092021121697464	14.518952327204973	3962183
+3964115	Metrics	performance comparison of thrashing control policies for concurrent mergesorts with parallel prefetching	1993	2.224162079614417	14.490724083267656	3964142
+3966691	HPC	estimating the cost of throttled execution in time warp	1996	1.8879054779518103	14.575705704297006	3966718
+3967370	DB	a solution to the data re-ordering problem for multi-pipeline streaming applications on clustered mpsoc	2012	1.5182272614699586	14.411830262787053	3967397
+3967837	HPC	measuring mpi send and receive overhead and application availability in high performance network interfaces	2006	2.435787599365713	14.291557709947893	3967864
+3969388	HPC	on learning algorithms and balancing loads in time warp	1999	2.1168491473308517	14.647354253199918	3969415
+3971091	HPC	adaptive parallel interval branch and bound algorithms based on their performance for multicore architectures	2011	1.7592711399681773	14.826244905195804	3971118
+3972280	HPC	improve llc bypassing performance by memory controller improvements in heterogeneous multicore system	2014	2.096025887615874	15.069527424358974	3972307
+3972325	HPC	a model of massively parallel call and service processing in telecommunications	1997	2.1716325523781967	14.915275038292293	3972352
+3978472	OS	performance issues in parallelized network protocols	1994	2.1259207707754206	14.485166584762553	3978499
+3984435	DB	multi-level memory policies: what you add is more important than what you take out	2016	1.8517973746746488	14.33360741126339	3984462
+3988531	Arch	design and evaluation of a switch cache architecture for cc-numa multiprocessors	2000	1.9131842748443704	14.523237988508024	3988558
+3989940	HPC	distribit: a distributed dynamic binary translator system for thin client computing	2010	1.5769478624436224	14.614963256914926	3989967
+3990915	Arch	an architecture for exploiting multi-core processors to parallelize network intrusion prevention	2007	1.9556338549411931	14.262506163334226	3990942
+3992592	HPC	evaluation of sdn-based conflict avoidance between data staging and inter-process communication	2017	1.8951133261588595	14.76360577096257	3992619
+3994509	Embedded	accelerator-aware task synchronization for real-time systems	2014	1.805968161110096	14.285301879416355	3994536
+3996464	HPC	optimal partitioning of nodes to space-sharing parallel tasks	2006	1.5075830004952735	14.724851851082326	3996491
+3998041	Arch	victim management in a cache hierarchy	2006	1.5551046369087822	14.573246554368426	3998068
+4001530	HPC	dynamic time-variant connection management for pgas models on infiniband	2011	2.4095641517936404	14.2449601383779	4001557
+4002060	HPC	memory resource considerations in the load balancing of software dsm systems	2003	1.521945752219562	14.426313313054283	4002087
+4002379	Embedded	dynamic global scheduling of parallel real-time tasks	2012	1.9786602311265389	14.378895887890053	4002406
+4009232	Metrics	conservative vs. optimistic parallelization of stateful network intrusion detection	2008	1.8655339643879139	14.699095390851646	4009259
+4010382	HPC	prediction of communication latency over complex network behaviors on smp clusters	2005	2.168892292574565	14.362078749720542	4010409
+4013717	PL	performance issues in the implementation of the m-via communication software	2003	2.034606048518313	14.365176128309665	4013744
+4013746	Theory	interleaved prefetching	1999	1.7163847792177411	14.432971031385545	4013773
+4014669	HPC	network performance model for tcp/ip based cluster computing	2007	1.8973582185280775	14.424271346579868	4014696
+4014760	DB	recovery scopes, recovery groups, and fine-grained recovery in enterprise storage controllers with multi-core processors	2009	2.0992397487795436	14.372709431006275	4014787
+4019911	Arch	cmpsched$im: evaluating os/cmp interaction on shared cache management	2009	1.4889096972900686	14.22665946883176	4019938
+4026169	HPC	protocol offload evaluation using simics	2006	2.1807724605135648	14.447719626645405	4026196
+4028532	HPC	a self-adjusting code cache manager to balance start-up time and memory usage	2010	1.9185746249446407	14.391377573440868	4028559
+4028710	Visualization	the performance of multimicrocomputer networks supporting dynamic workloads	1984	2.124327852189108	14.717552440379587	4028737
+4029410	Embedded	sitsa-rt: an information theory inspired real-time multiprocessor scheduler	2018	1.5520397502357963	15.047738610303318	4029437
+4032461	Arch	rwapi over infiniband: design and performance	2006	2.337248969098524	14.464186810500108	4032488
+4033111	Metrics	a page fault equation for modeling the effect of memory size	2006	2.2416379837464784	14.399038506554634	4033138
+4035319	HPC	distributed processing of divisible jobs with communication startup costs	1997	1.7356881946244551	14.877853934427213	4035346
+4038112	HPC	hybrid preemptive scheduling of message passing interface applications on grids	2006	2.2728602213585685	14.692512716873573	4038139
+4038969	Arch	sequential prefetch cache sizing for maximal hit rate	2010	1.4893927826059732	14.68112067981449	4038996
+4039495	Embedded	response time analysis of hard real-time tasks sharing software transactional memory data under fully partitioned scheduling	2016	1.7940777825475762	15.112559641788936	4039522
+4043549	Arch	simple penalty-sensitive replacement policies for caches	2006	2.2870588168879245	14.912817686943937	4043576
+4046027	DB	scaling up concurrent main-memory column-store scans: towards adaptive numa-aware data and task placement	2015	1.7924593261418116	14.50615493495892	4046054
+4051206	DB	compression and de-calcification for memcached	2016	2.2159731005327368	14.56744497661724	4051233
+4053298	Embedded	a hybrid real-time scheduling approach on multi-core architectures	2010	1.6756176574788937	15.06930902934431	4053325
+4054189	Embedded	a real time scheduler/dispatcher	1988	1.7500783567990503	15.087940848994794	4054216
+4056247	HPC	can user-level protocols take advantage of multi-cpu nics?	2002	2.3935590592573406	14.474590224402686	4056274
+4056515	OS	a compacting real-time memory management system	2008	2.1153043114719634	14.20169505031778	4056542
+4061667	Embedded	rt-plru: a new paging scheme for real--time execution of program codes on nand flash memory for portable media players	2011	2.1250113271043958	15.049814767875727	4061694
+4067234	Arch	eager writeback - a technique for improving bandwidth utilization	2000	2.1851141463388006	14.765762345504196	4067261
+4069664	Arch	hardware support for fast capability-based addressing	1994	1.4952156832363024	14.264890290467534	4069691
+4074530	HPC	design and implementation of a locking-aware scheduler for multiprocessor environments	2011	1.8516354652004228	14.529083125639167	4074557
+4077449	HPC	optimal combinatorial functions comparing multiprocess allocation performance in multiprocessor systems	2000	1.7517566566026208	14.805075175028742	4077476
+4078884	Arch	hybrid memory cube performance characterization on data-centric workloads	2015	2.184005482263521	14.75364382445068	4078911
+4079836	Arch	a hardware mechanism for dynamic extraction and relayout of program hot spots	2000	2.10893577191592	14.195687340962154	4079863
+4081909	Arch	effects of waiting overheads on conservative parallel simulation	1992	2.0604733074344552	14.67256783570649	4081936
+4088981	Arch	an evaluation of server consolidation workloads for multi-core designs	2007	1.6563467110206616	14.258328717037037	4089008
+4091012	Arch	enabling high-performance memory migration for multithreaded applications on linux	2009	1.864963186390339	14.207935177641113	4091039
+4092029	Arch	a pipeline bubbles reduction technique for the monsoon dataflow architecture	1994	2.1149998624415915	14.24315156390672	4092056
+4092473	Arch	the design and performance evaluation of the di-multicomputer	1996	1.6615873304979867	14.407363164696967	4092500
+4093439	Arch	improving the throughput of a pipeline by insertion of delays	1976	2.4139338936250825	14.347076047617126	4093466
+4098772	Security	a bandwidth computation model for covert storage channels and its applications	1988	2.366900014465659	14.934727570853505	4098799
+4100458	HPC	preemptive reducetask scheduling for fair and fast job completion	2013	2.0286817191815416	15.117374597803543	4100485
+4101525	HPC	performance-based path determination for interprocessor communication in distributed computing systems	1999	2.1431529484030207	14.576473447723009	4101552
+4101562	Arch	reducing oltp instruction misses with thread migration	2012	1.9052322289266217	14.349841691095257	4101589
+4103653	HPC	downloading node programs/data into hypercubes	1991	1.7635090000012443	14.796360796915092	4103680

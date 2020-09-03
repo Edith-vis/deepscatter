@@ -1,0 +1,1065 @@
+id	area	title	year	x	y	ix
+3012871	Vision	spatial error concealment for h.264 using sequential directional interpolation	2008	-10.652344107818788	-3.650311400570392	3012898
+3014041	Vision	dct information recovery of erroneous image blocks by a neural predictor	2000	-10.55939802395609	-3.446800169864104	3014068
+3018342	Vision	a unified approach to restoration, deinterlacing and superresolution of mpeg-2 decoded video	2000	-10.9051775235786	-3.7767291128006777	3018369
+3018766	Vision	video coding using the most common frame in scene	2010	-10.976850755757553	-3.1913983971105586	3018793
+3019424	Vision	motion compensation and scalability in lifting-based video coding	2004	-10.948884000231711	-3.627532491288808	3019451
+3022767	Vision	video error concealment using sparse recovery and local dictionaries	2011	-10.814183194771607	-3.960496443531644	3022794
+3023001	Vision	embedding sign language interpretation of a video in the wavelet transform domain	2004	-10.217418658917355	-3.8417518087137705	3023028
+3024822	Graphics	layered compression for high-precision depth data	2015	-10.597018469781997	-3.766592388888911	3024849
+3026187	Mobile	a zerotree wavelet video coder	1997	-10.910291500732507	-3.4213270399923505	3026214
+3028649	Vision	scalable coding of high dynamic range video	2007	-10.519907887508667	-3.7383844331219103	3028676
+3029220	Crypto	directional spatial interpolation for dct-based low bit rate coding	1996	-10.617598557585552	-3.5599124671248217	3029247
+3030666	Graphics	comparison of depth image-based rendering and image domain warping in 3d video coding	2014	-10.461845650954334	-3.899009883878136	3030693
+3032531	Vision	video coding using motion classification	2008	-10.676447295192244	-4.039233016836351	3032558
+3033039	Vision	error concealment for image transmission by multiscale markov random field modeling	2000	-11.032746925820547	-3.8090881001382564	3033066
+3034439	Robotics	very lowbit rate ideo codec based on diffrentialwavelet filters	2007	-10.966909384524634	-3.900838723486188	3034466
+3035136	Robotics	a new algorithm for compressing massive region-of-interest location information in videos	2013	-10.490368259580963	-3.5764717644419517	3035163
+3035506	Vision	enhanced motion compensation using elastic image registration	2006	-11.038901875035641	-3.697056834460968	3035533
+3035828	Vision	joint coding of multiple h.264 video programs	2008	-10.218407138952829	-3.5639224372599427	3035855
+3035947	EDA	wyner–ziv video coding with classified correlation noise estimation and key frame coding mode selection	2011	-10.907041897267682	-3.2574572576680136	3035974
+3036393	Vision	a highly effective error concealment method for whole frame loss	2013	-10.43282442385398	-3.2803225394788145	3036420
+3037426	Vision	efficient coding of depth map by exploiting temporal correlation	2014	-10.652346906543084	-3.876010217515285	3037453
+3039478	Vision	video de-interlacing method based-on optical flow	2012	-10.544861082552536	-4.0014760616514575	3039505
+3040790	Vision	confidence-based adaptive frame rate up-conversion	2013	-10.777535147597236	-3.8667273333518177	3040817
+3041075	Vision	fast motion vector and bitrate re-estimation for arbitrary downsizing video transcoding	2003	-10.734783199109694	-3.2606172548493935	3041102
+3041356	Vision	compressive video recovery using block match multi-frame motion estimation based on single pixel cameras	2016	-10.84670924483561	-3.8022291815240745	3041383
+3045602	Robotics	a simple zerotree encoder architecture based on mpeg-4 texture coding	2003	-10.646677272611724	-3.9407886595658654	3045629
+3046536	Vision	next-generation 3d formats with depth map support	2014	-10.187422480697505	-3.762730878223181	3046563
+3047384	Vision	data adapting motion estimation and subsampling	2000	-11.010323954169383	-3.47634498090636	3047411
+3047442	EDA	less buffer sized efficienct compression algorithm based on column dcts, row dwts, and predictive coding	2013	-10.949812226352902	-3.2476481711914382	3047469
+3048027	Vision	a novel pattern identification scheme using distributed video coding concepts	2009	-10.950703280256603	-3.1256447210857017	3048054
+3049008	Vision	view upsampling optimization for mixed resolution 3d video coding	2016	-10.604589022516958	-3.730809402288101	3049035
+3051703	Vision	motion blur compensation in scalable hevc hybrid video coding	2013	-10.718811743393374	-3.4918722580433723	3051730
+3053030	Vision	depth map coding optimization using rendered view distortion for 3d video coding	2015	-10.821963459304127	-3.7902324587854155	3053057
+3055596	Robotics	intra-frame dyadic spatial scalable coding based on a subband/wavelet framework for mpeg-4 avc/h.264 scalable video coding	2007	-11.078568700948827	-3.501722396656471	3055623
+3056766	Vision	bit stream extraction based on video content method in the scalable extension of h.264/avc	2011	-10.66892477184648	-3.2215989010756827	3056793
+3057845	Graphics	motion-adaptive sub-nyquist sampling technique for multi-frame super-resolution	2012	-11.09264662679918	-3.8663695959470266	3057872
+3058783	Vision	measuring of flickering artifacts in predictive coded video sequences	2008	-10.36848375831271	-3.9167029368303865	3058810
+3061028	Robotics	a fast algorithm for mpeg video segmentation based on macroblock	2007	-10.495249574600873	-3.8179384313336175	3061055
+3061984	Vision	novel quantized dct for video encoder optimization	2006	-11.050291485654958	-3.176560717601952	3062011
+3063305	Vision	dash sub-representation with temporal qoe driven layering	2016	-10.242560463187091	-3.127973035328653	3063332
+3065099	Vision	coherent video reconstruction with motion estimation at the decoder	2010	-10.96440293929554	-3.3187337056325164	3065126
+3065537	Robotics	a robust motion estimation method using warping for video frame enlargement	2008	-10.792861629613759	-3.8937916886056656	3065564
+3065604	Vision	low complexity content-aware video retargeting for mobile devices	2010	-10.653541002358525	-3.540851703472259	3065631
+3066202	NLP	improving intra block copy with low-rank based rectification for urban building scenes	2018	-10.716626943596683	-3.5599394997655534	3066229
+3067011	HPC	m-ltw: a fast and efficient intra video codec	2008	-10.541935615762831	-3.7699914421588	3067038
+3069214	Vision	an approach for imprecise transmission of tiff image files through congested real-time atm networks	1997	-10.289915347835374	-3.383027598095791	3069241
+3070033	Vision	multi-hypothesis distributed stereo video coding	2013	-10.776283913043764	-3.5868415697149145	3070060
+3071537	Visualization	guided chroma reconstruction for screen content coding	2016	-10.144100101924233	-3.755283759990738	3071564
+3071995	Vision	1-d dictionary mode for screen content coding	2014	-10.883062206810177	-3.4376874340379913	3072022
+3073326	Robotics	reduced resolution update video coding with interblock filtering of prediction error residuals	2005	-11.071453379930437	-3.496481841136502	3073353
+3075398	ML	cellular neural networks for video compression: an object-oriented approach	2007	-10.404605353511789	-3.6499451444270488	3075425
+3075633	Vision	efficient synthesis-based depth map coding in avc-compatible 3d video coding	2016	-10.66370680990247	-4.00982041467873	3075660
+3077637	Graphics	single-pass constant- and variable-bit-rate mpeg-2 video compression	1999	-10.339412880621301	-3.4766765358854683	3077664
+3078170	Vision	a low-complexity, motion-robust, spatio-temporally adaptive video de-noiser with in-loop noise estimation	2008	-11.04533462282439	-3.851514797856852	3078197
+3078613	EDA	unequal error protection of h.264/avc video bitstreams based on the motion energy estimation for group of pictures	2013	-10.614540413871678	-3.1125968171718363	3078640
+3078622	Vision	an adaptive mode-driven spatiotemporal motion vector prediction for wavelet video coding	2010	-10.92194473635078	-3.1759589835180098	3078649
+3078689	Robotics	error concealment for motion jpeg2000	2005	-10.33278844595914	-3.575417782963851	3078716
+3078714	Vision	using structure and texture filling-in of missing h.264 image blocks in fading channel transmission	2006	-10.574114603561103	-3.552615795264165	3078741
+3079592	Vision	a novel motion compensated frame interpolation based on block-merging and residual energy	2006	-10.749023718169267	-3.8545112082567616	3079619
+3079614	SE	an adaptive model generation technique for model-based video coding	1999	-10.254557770792914	-3.649100335318097	3079641
+3080422	Theory	sub-picture: roi coding and unequal error protection	2002	-10.447212693097066	-3.3365995699166007	3080449
+3081476	Robotics	error resilient transmission for compressed sensing of color images with multiple description coding	2015	-10.202735828858419	-3.322423216670248	3081503
+3082599	HPC	optimization of sample adaptive band offset in hevc	2017	-10.291483600077944	-3.9150470384435576	3082626
+3084126	Vision	a new color transform for rgb coding	2004	-10.781457673311888	-3.629980812550186	3084153
+3084209	Robotics	a novel mpeg-4 rate control method with spatial resolution conversion for low bit-rate coding	2005	-10.635785221396636	-3.447976978184706	3084236
+3084577	Vision	region-based motion compensated 3d-wavelet transform coding of video	1997	-10.861236217619266	-3.8015822971585536	3084604
+3085506	Vision	2d/3d hybrid video coding based on motion compensation	1999	-11.038421402216681	-3.8186844682727545	3085533
+3085765	Vision	adaptive wavelet-packet decomposition for rate control of object oriented coding of video sequences	1999	-11.014583523091906	-3.817893432481457	3085792
+3087282	Vision	automatic pixel-shift detection and restoration in videos	2008	-10.356467477830364	-3.695232574513303	3087309
+3089668	Graphics	realtime wavelet video encoding with generic graphics processing unit	2007	-10.51632118901668	-3.7961531908061366	3089695
+3090450	Vision	video deinterlacing with dynamic motion analysis and scene cut detection	2012	-10.874670492871829	-3.755987209094365	3090477
+3090740	Vision	adaptive patch-based sparsity estimation for image via moea/d	2016	-10.624659545124393	-4.01872262795632	3090767
+3090757	Visualization	an effective de-interlacing technique using two types of motion information	2003	-10.946543975767037	-3.9763455815469153	3090784
+3091305	Mobile	strata: layered coding for scalable visual communication	2014	-10.80490543700142	-3.1231972793294376	3091332
+3093052	Graphics	motion field interpolation for frame rate conversion	2003	-10.866128256203561	-3.802476947002284	3093079
+3093302	Vision	error concealment for mpeg-4 video communication in an error prone environment	2000	-10.794755359252546	-3.9265532772074088	3093329
+3093308	Vision	detection of video double encoding with gop size estimation	2012	-10.324206823601019	-3.724684949389027	3093335
+3094227	Vision	efficient depth error concealment for 3d video over error-prone channels	2013	-10.595705432137711	-4.026840947138314	3094254
+3095982	Robotics	bidirectional scalable motion for scalable video coding	2009	-10.775082947473388	-3.193253073177652	3096009
+3097064	Vision	spatio-temporal prediction in video coding by spatially refined motion compensation	2008	-10.816675177164688	-3.2249978656830085	3097091
+3097412	Robotics	whole frame loss recovery algorithm for h.264 decoders	2009	-10.703014435655232	-3.4565269919909998	3097439
+3097511	Robotics	quality enhancement in standard compliant frame rate up conversion by motion smoothing	2005	-10.721848342876893	-3.7034871002291068	3097538
+3097943	Vision	a novel macroblock-level rate-distortion optimization scheme for h.264/avc	2008	-10.520682080385184	-3.9491479350872005	3097970
+3098233	Vision	h.264-based multiple description coding using motion compensated temporal interpolation	2010	-10.8610078889216	-3.3475675378381715	3098260
+3099935	Robotics	hevc still image coding and high efficiency image file format	2016	-10.460604640536992	-3.8738183321387165	3099962
+3104377	Robotics	offset based leaky prediction for error resilient roi coding	2009	-10.341359119126665	-3.356039911875756	3104404
+3104805	Vision	a bit allocation optimization method for roi based image compression with stable image quality	2014	-10.72415678142848	-3.4764127552922113	3104832
+3104907	Vision	motion characteristic differentiated error concealment	2011	-10.568434382877038	-3.473611900103416	3104934
+3105497	EDA	true motion estimation based on reliable motion decision	2013	-10.84356508873917	-3.195700440602105	3105524
+3106459	ML	evolving roi coding in h.264 svc	2008	-10.60328697826368	-3.1328930002272557	3106486
+3106722	Visualization	rate-distortion performance of h.264/avc compared to state-of-the-art video codecs	2006	-10.199697829753855	-3.650292014475767	3106749
+3107813	Vision	motion-based parsing of compressed video	1998	-10.462538733007305	-3.7224105894758233	3107840
+3107932	Robotics	video quality monitoring of streamed videos	2009	-10.289162775577552	-3.5751469751134857	3107959
+3108420	Vision	adaptive reference filtering for bidirectional disparity compensation with focus mismatches	2008	-10.940718759200985	-3.114714346994558	3108447
+3109107	Robotics	scalable extension of hevc using enhanced inter-layer prediction	2014	-10.826962099927169	-3.420876005268124	3109134
+3109523	Vision	frame concealment algorithm for stereoscopic video using motion vector sharing	2008	-10.310125068344488	-3.993662872907248	3109550
+3110647	Robotics	model of object-based coding for surveillance video	2005	-10.497443628239703	-3.951267821676113	3110674
+3110715	Vision	hybrid block-based/segment-based video compression at very low bitrate	1996	-10.90506988475662	-4.027083021457846	3110742
+3113905	Vision	combinedwavelet domain and motion compensated filtering compliant with video codecs	2007	-11.083689464897823	-3.5412142514282	3113932
+3114422	EDA	a novel watermarking method for wyner-ziv video coding	2008	-10.244967748877574	-3.218730155849723	3114449
+3115260	Vision	two adaptive methods based on edge analysis for improved concealing damaged coded images in critical error situations	2012	-10.294561230443893	-3.3359531322764786	3115287
+3115888	Robotics	a loop filter with segmentation mode in video coding	2010	-10.87428517662744	-3.9225129099993024	3115915
+3121348	Robotics	texture based sub-pu motion inheritance for depth coding	2015	-10.61733103424414	-3.8191467120690783	3121375
+3123167	Visualization	depth image-based temporal error concealment for 3-d video transmission	2010	-10.61496933028778	-3.618137564411176	3123194
+3123969	Robotics	bit stream rewriting for svc-to-avc conversion	2008	-10.551751135546617	-3.1312919528181182	3123996
+3126354	Robotics	spatial scalable region of interest transcoding of jpeg2000 for video surveillance	2008	-10.394456294222854	-3.6532421452973374	3126381
+3126373	Embedded	a new motion-compensated error concealment scheme for mpeg-4 video transmission	2006	-10.522055392499391	-3.2250725844573163	3126400
+3129715	Graphics	mpeg-4 natural video coding - an overview	2000	-10.665444905865405	-3.3977590211302733	3129742
+3131578	Vision	compound block algorithm of moving object and background in h.264	2009	-10.890086206330658	-3.196031335706819	3131605
+3131724	Vision	a study on multiresolution lossless video coding using inter/intra frame adaptive prediction	2003	-10.881478124297269	-3.92250883848414	3131751
+3134808	Vision	analysis of packet-loss-induced distortion in view synthesis prediction-based 3d video coding	2017	-10.456990026024183	-3.151600112253938	3134835
+3136132	Visualization	depth map coding based on virtual view quality	2016	-10.58968059797258	-3.8221630646854816	3136159
+3136630	Robotics	lf-cae: context-adaptive encoding for lenslet light fields using hevc	2018	-10.644314089717174	-3.6132516062702362	3136657
+3138041	Robotics	symmetric disparity estimation in distributed coding of stereo images	2006	-10.94627511266644	-3.7934903217883416	3138068
+3138497	Vision	bio-inspired perceptual video encoding based on h.264/avc	2009	-10.627339814672833	-3.5868044284085916	3138524
+3138697	ML	scalable video coding with interlayer signal decorrelation techniques	2007	-10.979052763396117	-3.480181731556997	3138724
+3139402	Mobile	investigating the possibility of applying eeg lossy compression to eeg-based user authentication	2017	-10.155961005351283	-3.8737643499329817	3139429
+3140974	Vision	encoder-independent decoder-dependent depth-assisted error concealment algorithm for wireless 3d video communication	2017	-10.574810940216038	-3.169016368189168	3141001
+3141703	Vision	fast object tracking using adaptive block matching	2005	-10.700033435058156	-3.9260702989864096	3141730
+3142643	Vision	joint decoding of stereo jpeg image pairs	2010	-10.704500082843694	-4.019657193294593	3142670
+3144796	Vision	on the combination of a polynomial motion estimation with a hierarchical segmentation based video coding scheme	1996	-10.630113063817547	-3.694897001264115	3144823
+3145030	Networks	coding of digital imagery for transmission over multiple noisy channels	2001	-10.376604086343985	-3.2639233412487387	3145057
+3145170	Vision	video forensics for detecting shot manipulation using the information of deblocking filtering	2018	-10.280699828755482	-3.763270109421379	3145197
+3147426	Vision	texture refreshment need metric for resilient object-based video coding	2002	-10.4933982317231	-3.21147862424892	3147453
+3151089	Vision	device selective quantization for reversible wavelets	1996	-10.834782959744922	-3.971787656687288	3151116
+3151171	Vision	an efficient and robust adaptive deinterlacing technique	2006	-10.792378882796678	-3.7363037889485633	3151198
+3151919	Vision	comparison of texture coding algorithm in a unified motion prediction/compensation video compression algorithm	2003	-10.891694816885641	-3.952988288607324	3151946
+3155940	Vision	super-resolution of video using key frames and motion estimation	2008	-10.85622019295026	-3.8892486937887663	3155967
+3156200	Robotics	real-time region-of-interest video coding using content-adaptive background skipping with dynamic bit reallocation	2006	-10.556078858581188	-3.2741087492784144	3156227
+3156379	Robotics	distributed compression of the plenoptic function	2004	-10.867732832560957	-3.6940623241689408	3156406
+3157712	Vision	an improved adaptive deblocking filter for mpeg video decoder	2005	-10.75131438435678	-3.1680718485232866	3157739
+3157771	AI	a perceptual macroblock layer power control for energy scalable video encoder based on just noticeable distortion principle	2011	-10.505632704590447	-3.581680203281554	3157798
+3158401	Networks	prediction of bit rate sequences of encoded video signals	1991	-10.69223294595182	-3.5884311788613603	3158428
+3159067	Vision	low bit rate wavelet video codec using edge based motion estimation and context-based coding	2004	-11.066952368895226	-3.907866631427784	3159094
+3159835	Vision	foveation image coding with fuzzy-based joint parameter selection	2008	-11.041142323037366	-3.3869183686183084	3159862
+3160887	Metrics	offset trace-based video quality evaluation after network transport	2006	-10.407566696431726	-3.4132237057342314	3160914
+3162643	ML	decision trees for error concealment in video decoding	1999	-10.824501145908348	-3.51553659309781	3162670
+3166688	Vision	background modeling for video coding: from sprites to global motion temporal filtering	2010	-10.674308264564774	-3.832264611908733	3166715
+3167998	Vision	digital video watermarking in p-frames	2007	-10.173058217715807	-3.5048069790552163	3168025
+3168038	Graphics	the jpeg still picture compression standard	1991	-10.570526641491668	-3.878612904428541	3168065
+3168258	AI	two-stage picture padding for high efficiency video coding	2016	-10.759598438505588	-3.105430856778192	3168285
+3169389	Security	on unequal error protection for lzss compressed data	2010	-10.642062205602507	-3.3336029172432844	3169416
+3169802	HPC	complexity scalability in motion-compensated wavelet-based video coding	2006	-11.027126051767624	-3.2129311187766394	3169829
+3171178	HCI	a novel rate-distortion method in 3d video capturing in the context of high efficiency video coding (hevc) in intelligent communications	2013	-10.637981191226766	-3.576349677029847	3171205
+3174330	Vision	qos based video delivery with foveation and bandwidth monitoring	2003	-10.391869099459717	-3.910142655729568	3174357
+3174577	Vision	integration of image stabilizer with video codec for digital video cameras	2005	-10.29494420246449	-3.463514752619188	3174604
+3176559	EDA	an efficient motion-adaption de-interlacing technique on vliw dsp architecture	2005	-10.959227676002333	-3.35175513166068	3176586
+3176726	Vision	analysis of multihypothesis motion compensated prediction (mhmcp) for robust visual communication	2006	-10.989512695731571	-3.1390257480388923	3176753
+3179098	Graphics	improved context-based adaptive binary arithmetic coding over h.264/avc for lossless depth map coding	2010	-10.708059540604301	-3.6164503454913066	3179125
+3179139	Vision	an adaptive unequal error protection based on motion energy of h.264/avc video frames	2013	-10.711810227519782	-3.203679650091142	3179166
+3179925	Robotics	optimization of spatial, temporal and amplitude resolution for rate-constrained video coding and scalable video adaptation	2012	-10.737854824609188	-3.2672393843109275	3179952
+3180182	Vision	adaptive global motion temporal prediction for video coding	2010	-10.697471554401497	-3.6546654636471496	3180209
+3180571	Mobile	encoding of predictive error frames in rate scalable video codecs using wavelet shrinkage	1999	-10.656859342248325	-3.372254590096572	3180598
+3181198	Mobile	a new multiple frames decoding and frame wise measurement for compressed video sensing	2016	-10.790524909171133	-3.641736855169481	3181225
+3181811	Vision	cross-view down/up-sampling method for multiview depth video coding	2012	-10.760383894222754	-3.6522058801724864	3181838
+3182071	Vision	on spatial adaptation of motion-field smoothness in video coding	2000	-11.053552451280025	-3.9405580895501298	3182098
+3183062	Web+IR	extended cross-component prediction in hevc	2015	-10.853840411819224	-3.152632694887675	3183089
+3183603	EDA	joint optimization of rate, distortion, and maximum absolute error for compression of medical volumes using hevc intra	2018	-10.779510645769626	-3.4688680469937214	3183630
+3186307	Visualization	new standardized extensions of mpeg4-avc/h.264 for professional-quality video applications	2007	-10.251641709867078	-3.2680137351368885	3186334
+3187303	Vision	joint denoising/compression of image contours via shape prior and context tree	2018	-10.997454687715354	-3.9234532214792446	3187330
+3187717	ML	lossy audio compression identification	2018	-10.141209108401572	-3.3817728258312743	3187744
+3193580	Vision	fade and dissolve detection in uncompressed and compressed video sequences	1999	-10.287820516834973	-3.8843558666104543	3193607
+3195568	Mobile	coding method for embedding audio in video stream	2011	-10.708293880884089	-3.152119634165997	3195595
+3196164	Robotics	adaptive guided image filtering for screen content coding	2014	-10.441216980204901	-3.880666028522668	3196191
+3199149	Vision	restoration technique of video motion image estimation based on wavelet	2014	-10.940954039315452	-3.962854288890565	3199176
+3199275	Vision	macropixel based fast motion estimation for plenoptic video compression	2018	-10.892544665349352	-3.7430308545066295	3199302
+3203106	Vision	spatial temporal concealment of lost blocks in coded video	1998	-10.409779295763958	-3.5958500727771336	3203133
+3205484	Vision	nonlinear depth map resampling for depth-enhanced 3-d video coding	2013	-10.86859401687483	-3.191146812529623	3205511
+3206273	EDA	down-sampling based embedded compression in video systems	2015	-10.866819003934026	-3.5028070145668537	3206300
+3207069	Robotics	modified sample adaptive offset filtering as an inter-layer processing for scalable hevc	2014	-10.89915227370822	-3.1022682418807928	3207096
+3209942	Robotics	distributed video coding based on compressive sensing and intra-predictive coding	2017	-10.92813688936474	-3.6271336839679784	3209969
+3210984	Vision	inter view motion vector prediction in multiview hevc	2014	-10.616719267464058	-3.4784063502783376	3211011
+3213995	Vision	an adaptively refined block matching algorithm for motion compensated video coding	1995	-10.995257113558074	-3.1338605761942304	3214022
+3215444	Robotics	a novel paradigm for optimized scalable video transmission based on jpeg2000 with motion	2007	-10.34249088781444	-3.436450280473033	3215471
+3215779	Vision	a new scene change feature for video transcoding	2005	-10.244875757576901	-4.052772792852276	3215806
+3217523	Metrics	video compression for movie transmission: a comparative analysis	2010	-10.454620693059796	-3.1999646561829262	3217550
+3220549	Vision	ray-space interpolation for free viewpoint generation	2005	-10.53158180083073	-3.9315948954729816	3220576
+3220746	Robotics	error-propagation analysis and concealment strategy for mpeg-4 video bitstream with data partitioning	2001	-10.554259608671234	-3.3906590620217316	3220773
+3221341	Graphics	view synthesis distortion elimination filter for depth video coding in 3d video broadcasting	2014	-10.615587259107526	-3.7777328659792526	3221368
+3221611	Vision	compression performance of extended jpeg xt under various tmos	2017	-10.59790301878483	-3.98444564752868	3221638
+3221943	Vision	region-based predictive decoding of video	2010	-10.454876790132984	-3.258151372554093	3221970
+3223180	Vision	spatial scalable jpeg2000 transcoding and tracking of regions of interest for video surveillance	2008	-10.43574184498262	-3.730464874288159	3223207
+3223232	Vision	optimized rate control in embedded wavelet coding	2002	-11.077191169277748	-3.7589399138365938	3223259
+3224283	EDA	quality variation control for three-dimensional wavelet-based video coders	2007	-10.98523967443408	-3.756403906244025	3224310
+3225425	Robotics	joint encoding of the depth image based representation using shape-adaptive wavelets	2008	-11.092772666680933	-3.9096834696245537	3225452
+3225675	Vision	two-layer mpeg video coding algorithm for atm networks	1995	-10.972909902896706	-3.2833563488122937	3225702
+3226062	EDA	spatial error concealment based on directional decision and intra prediction	2005	-10.927227212924349	-3.4100712044239563	3226089
+3226976	Robotics	jpeg-based perceptual image coding with block-based image quality metric	2012	-10.883186605977551	-3.7929714817618327	3227003
+3230307	Robotics	framework of surveillance video analysis and transmission system using background modeling and mimo-ofdm	2015	-10.330754774813236	-3.4128352564270377	3230334
+3230361	Robotics	vector-quantization-based video codec for software-only playback on personal computers	1994	-10.853115462987065	-3.93335836928078	3230388
+3231486	Theory	context-adaptive arithmetic coding scheme for lossless bit rate reduction of mpeg surround in usac	2012	-10.415512963368077	-3.8554076932740142	3231513
+3231939	Vision	morphological motion field representation for region-based image sequence coding	1996	-10.987383476261792	-4.009933368431671	3231966
+3232331	Visualization	a low complexity video watermarking in h.264 compressed domain	2010	-10.209410698808416	-3.3112765741063943	3232358
+3233258	Vision	a more efficient and video friendly spatial resizing algorithm	2006	-10.727015053581603	-3.7030876133195942	3233285
+3233441	Vision	an mpeg-4-compatible stereoscopic/multiview video coding scheme	2006	-10.59562822798775	-3.7104396980738334	3233468
+3237765	Vision	a new boundary matching algorithm based on edge detection	2002	-10.594782020756554	-3.7331439920057847	3237792
+3242421	Vision	coding efficiency of video sensor networks	2005	-10.669429519034477	-3.499691066011763	3242448
+3242916	Metrics	a motion picture coding algorithm using adaptive dct encoding based on coefficient power distribution classification	1987	-11.097044776579805	-3.5530842517704886	3242943
+3243693	Robotics	image compression scheme based on zig-zag 3d-dct and ldpc coding	2014	-11.061907197612564	-3.989967699426846	3243720
+3243765	Vision	viterbi-like joint optimization of stereo extraction for on-line rate adaptation in scalable multiview video coding	2010	-10.44305294090132	-3.117704619929795	3243792
+3244066	Robotics	quadtree-based temporal trajectory filtering	2012	-10.896850094599378	-3.1208260216547585	3244093
+3244554	Vision	fast compressed domain motion detection in h.264 video streams for video surveillance applications	2009	-10.196660528939727	-3.8482879081245263	3244581
+3244811	Robotics	frame rate up conversion of 3d video by motion and depth fusion	2013	-10.71971873235074	-3.9899775873808534	3244838
+3245134	Visualization	error concealment techniques for encoded video streams	1995	-10.459667139719985	-3.3893017560021885	3245161
+3245369	Vision	improved depth-based motion vector prediction in 3d video coding	2013	-10.701136529440392	-3.458545781051165	3245396
+3245550	Vision	improved error concealment using scene information	2003	-10.57245657045293	-3.241124469411857	3245577
+3247470	Vision	video coding with dynamic background	2013	-10.993626384242717	-3.2185455634636373	3247497
+3249377	Robotics	unified real time software decoder for hevc extensions	2014	-10.136325961456297	-3.360572309937748	3249404
+3251014	Robotics	hdr image compression with optimized jpeg coding	2017	-10.976649905747816	-3.1723970978158964	3251041
+3251178	Vision	robust region-based motion estimation for video compression	2000	-11.01276017391042	-3.846801676131512	3251205
+3251179	Robotics	down-scaling interlace video from h.264/avc intra-coded bit stream	2011	-10.670664499548957	-3.7130365701306554	3251206
+3252720	Vision	video coding based on true motion estimation	2003	-10.966491293283438	-3.6122089329322518	3252747
+3252944	Mobile	dct-based embedded coding for packet video	1991	-10.869125423154204	-3.3466732420009397	3252971
+3253200	Vision	optimization method to reduce blocking artifacts in jpeg images	2014	-10.98776292461192	-3.712992410388915	3253227
+3253414	Crypto	a new side information generation scheme for distributed video coding	2008	-10.831569664663256	-3.2619386524647522	3253441
+3253977	Visualization	mpeg-2 streaming of full interactive content	2006	-10.284127897041893	-3.1603983603740837	3254004
+3254091	Robotics	four field variable block size motion compensated adaptive de-interlacing	2005	-10.947336352464976	-3.5112204205515245	3254118
+3256212	Graphics	distance scaling of higher order motion parameters in an extension of hevc	2016	-11.089146113580496	-3.3342835522468164	3256239
+3257686	Vision	tracking of extended size targets in h.264 compressed video using the probabilistic data association filter	2004	-10.224395674036838	-3.673399552328028	3257713
+3258865	AI	spatial-aided low-delay wyner-ziv video coding	2009	-10.953089992543426	-3.158209362603368	3258892
+3258879	Vision	poliphase subsampling multiple description coding using robust edge-preserving interpolation	2010	-10.940406836904788	-3.5155181237463577	3258906
+3259538	Embedded	shot change detection on h.264/avc compressed video	2005	-10.489340832215461	-3.786044458499656	3259565
+3261425	Vision	intra prediction mode selection for flicker reduction in h.264/avc	2006	-10.689532297252086	-3.4836203499061718	3261452
+3263309	Visualization	compressed domain video editing	2006	-10.600374057361387	-4.032920152132567	3263336
+3263950	Vision	efficient optimal rate-distortion coding of video sequences under multiple rate constraints	1997	-10.961051187626419	-3.2340573576668983	3263977
+3266993	Graphics	hybrid object-based/block-based coding in video compression at very low bit-rate	1997	-10.872745750407057	-3.9229494523659674	3267020
+3267664	Web+IR	robust image transmission based on wavelet tree coding and erec	2001	-10.540104908483356	-3.354996413871508	3267691
+3267721	Vision	statistical model based video segmentation and its application to very low bit rate video coding	1998	-10.766768241277077	-3.5609301185138924	3267748
+3269007	EDA	comparison of frequency selective extrapolation and patch matching algorithm for error concealment in spatial domain	2016	-10.438100939055943	-3.6388749781919594	3269034
+3270127	Vision	macroblock-level reduced resolution video coding allowing adaptive dct coefficients selection	2007	-10.94161599867374	-3.1166049489462693	3270154
+3270242	Robotics	adding rate control to jpeg-ls	2001	-10.82042285984765	-3.4799753078688025	3270269
+3272631	Vision	performance compression of mpeg1 and mpeg2 video compression standards	1996	-10.498741463691086	-3.9446393534614463	3272658
+3272855	Arch	content-aware layered compound video compression	2012	-10.463482960401992	-3.5972257298070005	3272882
+3273573	Robotics	motion hints mode for macroblock coding in bi-predictive slices	2015	-10.869937548214411	-3.148163880752284	3273600
+3276574	Graphics	transmission errors recovery using fuzzy block similarity measures	1997	-10.244115153235013	-3.4225661331856094	3276601
+3276832	Vision	transmission distortion modeling for view synthesis prediction based 3-d video streaming	2015	-10.498786384279633	-3.130439911192356	3276859
+3277400	Robotics	fast identification of jpeg 2000 images for digital cinema profiles	2011	-10.325852438192102	-3.897386201995936	3277427
+3279550	ML	motion decision feedback deinterlacing algorithms	2002	-10.577937970707383	-3.7798364327702463	3279577
+3283658	Vision	block-based global and multiple-reference scheme for surveillance video coding	2015	-10.52404149036713	-3.260080537804088	3283685
+3285186	AI	a framework of 3d video coding using view synthesis prediction	2012	-10.501337605695598	-3.9361249073165054	3285213
+3286986	Visualization	novel error concealment method with adaptive prediction to the abrupt and gradual scene changes	2002	-10.5572319206524	-3.3698667198973973	3287013
+3287017	Vision	wireless image softcast using compressive gradient	2017	-11.053094055941973	-3.4990468514613364	3287044
+3287591	Vision	adaptive temporal decimation algorithm with dynamic time window	1998	-10.90470990229693	-3.6389879452859217	3287618
+3287592	Vision	reduction of dot crawl and rainbow artifacts in the ntsc video	2007	-10.85551596423877	-3.962977043726288	3287619
+3289256	Vision	a motion vector prediction scheme for mpeg-2 to h.264 transcoding based on smoothness of motion vector field	2007	-11.005021714821458	-3.1431968192611137	3289283
+3293293	Vision	ssim-based joint bit-allocation using frame model parameters for 3d video coding	2017	-10.755406954682147	-3.6214941611405265	3293320
+3293999	AI	a background model based method for transcoding surveillance videos captured by stationary camera	2010	-10.259170268435303	-3.700449584997578	3294026
+3295156	Theory	non-integer expansion embedding for prediction-based reversible watermarking	2012	-10.965582169306268	-3.358883112084214	3295183
+3296444	Vision	perceptual video coding based on ssim-inspired divisive normalization	2013	-10.727868172486213	-3.9696340162992136	3296471
+3298018	Robotics	a perceptual bit allocation scheme for h.264	2005	-10.758886346698072	-3.3086407214713978	3298045
+3298475	EDA	towards high quality region-of-interest medical video over wireless networks using motion compensated temporal filtering	2005	-11.07977233081358	-3.852926079541888	3298502
+3298587	Robotics	video de-interlacing algorithm based on motion adaptive spatial-temporal technique	2013	-10.767495506579372	-3.9659852233547817	3298614
+3299571	Vision	predictive motion estimation for reduced-resolution video from high-resolution compressed video	1998	-10.856232689814556	-3.2413076416547906	3299598
+3300893	Robotics	encoder-assisted adaptive video frame interpolation	2005	-10.769097599893145	-3.5699577975833163	3300920
+3301352	Visualization	error-resilient region-of-interest video coding	2005	-10.52200894148811	-3.568918916471921	3301379
+3301987	Robotics	error concealment for whole-frame losses based on motion stability estimation	2008	-10.511393906456744	-3.136585429318244	3302014
+3303038	PL	improving the error tolerance of mpeg video by varying slice size	1995	-10.69396404695664	-3.1900686330602763	3303065
+3304077	Vision	free viewpoint video coding with rate-distortion analysis	2012	-10.543646436955395	-3.7059780045475055	3304104
+3304706	Robotics	codec independent lossy audio compression detection	2017	-10.280160283749721	-3.4509623060432615	3304733
+3305516	Vision	bit-rate control algorithm for roi enabled video coding	2005	-10.619211359901893	-3.6476645590535672	3305543
+3307497	Vision	on prediction techniques for palette coding	2014	-10.326779565516443	-3.6959805012269067	3307524
+3308181	Vision	improving video coding at scene cuts using attention based adaptive bit allocation	2007	-10.578691380216588	-3.3706823281727205	3308208
+3308476	Visualization	novel error concealment method with adaptive prediction to the abrupt and gradual scene changes	2004	-10.581363950759613	-3.4301135271142695	3308503
+3308558	Vision	reconstruction of lost image blocks in wireless transmission & compression using structure and texture filling-in	2011	-10.430979958822538	-3.637771864028641	3308585
+3309682	EDA	method of lossless and near-lossless color image compression	2011	-10.748703026278262	-3.4315753206626334	3309709
+3310153	Vision	vector rational interpolation schemes for erroneous motion field estimation applied to mpeg-2 error concealment	2004	-10.577500784748146	-3.1891104165748096	3310180
+3310813	Vision	improved depth maps coding efficiency of 3d videos	2012	-10.575394868207203	-3.957412384986036	3310840
+3310936	Vision	iterative least squares and compression based estimations for a four-parameter linear global motion model and global motion compensation	1999	-11.096629122782	-3.1523789014526025	3310963
+3311114	AI	drift-free multiple description coding of video	2001	-10.508796591315468	-3.5570071943152466	3311141
+3314054	Vision	region-of-interest based conversational hevc coding with hierarchical perception model of face	2014	-10.392782219298805	-4.009308612453073	3314081
+3314135	Vision	detailed rate-distortion analysis of h.264 video coding standard and comparison to mpeg2/4	2003	-10.726824071502532	-3.5132636694781487	3314162
+3314285	Vision	multiview plus depth video using high efficiency video coding method	2013	-10.58582452988924	-3.742038414543988	3314312
+3314549	Vision	modeling motion for spatial scalability	2006	-10.866257927687498	-3.6073150927024895	3314576
+3314949	Visualization	a jpeg 2000 error resilience method using uneven block-sized information included markers	2005	-11.064359691002851	-3.743984985269025	3314976
+3319464	AI	a backward segmented-block matching algorithm for video compression	1998	-10.90117038098608	-3.866313681272101	3319491
+3319468	Vision	stereo matching with bit-plane slicing and disparity fusion	2015	-10.97126167511975	-3.5963042848401314	3319495
+3319809	Vision	motion compensated refinement for low complexity pixel based distributed video coding	2005	-10.965995333386877	-3.0989652817800493	3319836
+3322504	Vision	efficient error localization and temporal concealment based on motion estimation of enlarged block	2003	-10.52057267425767	-3.320854474882487	3322531
+3323654	Vision	multi-directional spatial error concealment using adaptive edge thresholding	2012	-10.680723438690183	-3.937084047713459	3323681
+3324314	Vision	rate-distortion analysis of motion-compensated interpolation at the decoder in distributed video coding	2007	-11.021347909309034	-3.325677622235579	3324341
+3324363	Vision	motion compensated video sequence interpolation using digital image warping	1994	-10.88558184777214	-4.03713277162678	3324390
+3324433	Vision	unpaired multiview video plus depth compression	2013	-10.567256727583038	-3.6250546494670175	3324460
+3324843	Vision	new frame rate up-conversion algorithms with low computational complexity	2014	-10.942382136335802	-3.496793959058748	3324870
+3325019	Vision	a mixed scheme to improve subjective quality in low bitrate video	2004	-10.193848383868485	-3.732340291663187	3325046
+3325447	ML	image compression performance of hevc intra prediction with different transform coefficient coding methods	2018	-10.872407435773344	-3.936997408381055	3325474
+3326436	Robotics	classified quadtree-based adaptive loop filter	2011	-11.058436674400749	-3.2523787032739664	3326463
+3326437	Vision	3d dual-tree discrete wavelet transform based multiple description video coding	2014	-10.830073259927628	-3.320478062205021	3326464
+3329555	Vision	extracting coding parameters from pre-coded mpeg-2 video	1998	-11.012769693304362	-3.1075194969365927	3329582
+3332382	Vision	compressive sensing based image transmission with side information at the decoder	2015	-10.879416958169331	-3.111821330888517	3332409
+3334788	EDA	a robust video watermarking algorithm in h.264/avc compressed domain	2015	-10.390968230224695	-3.189434399615304	3334815
+3335112	Vision	a new low-complexity error concealment method for stereo video communication	2015	-10.518890604118958	-3.4065538698158027	3335139
+3336886	Robotics	low complexity binary description wavelet codec	1999	-10.574437346565226	-3.1686136338379898	3336913
+3338500	Robotics	motion-based side-information generation for a scalable wyner-ziv video coder	2007	-10.881832673489921	-3.269154739349605	3338527
+3339534	Vision	gradual view refresh in depth-enhanced multiview video	2012	-10.446714812471836	-3.221624381783734	3339561
+3340099	NLP	on the advantages of the use of bitstream extraction for video summary generation	2010	-10.511042126382163	-3.2811478480974205	3340126
+3340812	Vision	stereo video coding using distributed compressive sensing with joint dictionary	2012	-10.898462102099748	-3.186901313381446	3340839
+3342040	ML	enhancements to the error resilient entropy code	1998	-10.393066669118493	-3.3937291066454014	3342067
+3342062	Vision	error concealment algorithm based on sparse optimization	2015	-11.039861541277178	-3.5754200235716658	3342089
+3344025	AI	fast inter-mode decision in multi-view video plus depth coding	2012	-10.7809516237556	-3.4971838042146492	3344052
+3344274	Vision	a new hybrid block-matching motion estimation algorithm	2002	-11.017310177849682	-3.9741389755335783	3344301
+3344396	Robotics	feature based analysis friendly video coding scheme for hevc	2018	-10.720822803896805	-3.2364328024627644	3344423
+3346724	Vision	overview of the ieee 1857 surveillance groups	2013	-10.294515292526494	-3.414894507252345	3346751
+3346938	Robotics	exploitation of motion non-stationarity at the encoder and decoder of dvc: a review	2016	-11.000606442086339	-3.3701576997875633	3346965
+3347784	Vision	region of interest image coding using iwt and partial bitplane block shift for network applications	2005	-10.559303532444	-3.9936706996655067	3347811
+3348391	Arch	unequal error protection for backward compatible 3-d video transmission over wimax	2009	-10.307600206525258	-3.1367848989450384	3348418
+3349929	Vision	a novel multi-view image coding scheme based on view-warping and 3d-dct	2010	-10.768156901795747	-3.596925875841283	3349956
+3351846	Robotics	improvement of h.264 svc by model-based adaptive resolution upconversion	2010	-10.923529654900284	-3.463680334935653	3351873
+3351961	Vision	sequential error concealment for video/images by weighted template matching	2012	-10.970642475397696	-3.586787426478668	3351988
+3351962	Vision	error concealment in video transmission over packet networks by a sketch-based approach	1999	-10.360860260644118	-3.677867076253491	3351989
+3352574	Vision	block-propagative background subtraction system for uhdtv videos	2015	-10.287439655727077	-3.20157185600338	3352601
+3355445	Vision	motion-compensated predictive subband coding of temporal lowpass frames from a 3d wavelet video coding scheme	2003	-11.078205196436588	-3.4306590724517787	3355472
+3356349	Vision	directional intra frame interpolation for hevc compressed video	2014	-10.994487943138873	-3.8008317896382193	3356376
+3357128	Vision	chessboard-interpolation-based multiple description video coding	2004	-10.748139990680293	-3.4286013997342653	3357155
+3357130	Mobile	hybrid error concealment in image communication using data hiding and spatial redundancy	2008	-10.233897631469198	-3.3194497534974814	3357157
+3357388	Theory	vq compression enhancer with huffman coding	2017	-10.924054586859212	-3.989143979334098	3357415
+3357442	AI	multiple line-based intra prediction for high efficiency video coding	2016	-11.057569801686547	-3.100087694960418	3357469
+3360013	Vision	optimal reference view selection algorithm for low complexity disparity estimation	2016	-10.85778180983082	-3.475435658308033	3360040
+3360418	Vision	enhanced mc-ezbc scalable video coder	2008	-11.023749316937227	-3.5111499016331287	3360445
+3361025	Vision	progressive side information refinement algorithm for wyner-ziv codec	2011	-10.985128966357202	-3.142032935907328	3361052
+3362769	AI	multiple description convolutional neural networks for image compression	2018	-10.808470631981445	-3.9847870673692314	3362796
+3363430	Embedded	a new spatial interpolation method for error concealment	2004	-10.744027055485272	-4.010768556470117	3363457
+3364827	Networks	high quality video on multimedia pcs	1999	-10.477097927148877	-3.8636537537979208	3364854
+3365834	Vision	depth coding based on depth-texture motion and structure similarities	2015	-10.781821941768472	-3.2742514684155934	3365861
+3366090	Vision	modeling correlation noise statistics at decoder for multi-view distributed video coding	2009	-10.882163574964745	-3.119290748107024	3366117
+3371909	Graphics	spatial error concealment using directional extrapolation	2005	-10.50609016889164	-3.5189691463976307	3371936
+3372652	Vision	efficient adaptive error concealment technique for video decoding system	2005	-10.653681195465397	-3.5482805869214555	3372679
+3373782	Robotics	distributed stereo image coding with improved disparity and noise estimation	2008	-11.025693839364667	-3.8720750849521433	3373809
+3374019	Vision	multi-hypothesis temporal prediction using template matching prediction and block motion compensation for high efficiency video coding	2012	-11.096721724818465	-3.1358346590381045	3374046
+3374996	Vision	evaluation of dwt and dct for irregular mesh-based motion compensation in predictive video coding	2000	-11.002632061159186	-3.8922615412030193	3375023
+3377257	DB	perceptual feature guided rate distortion optimization for high efficiency video coding	2017	-10.550373940425704	-3.961882866426704	3377284
+3377723	EDA	on the robustness of vector set partitioning image coders to bit errors	1999	-10.866575930094168	-3.1388566094793964	3377750
+3377735	Visualization	efficient transcoding for spatially misaligned compositions for hevc	2014	-10.683251915052017	-3.518702557753445	3377762
+3377891	Vision	wcam: smart encoding for wireless surveillance	2005	-10.269595771036187	-3.5163697516756804	3377918
+3378299	Networks	effects of an encoding scheme on perceived video quality transmitted over lossy internet protocol networks	2008	-10.23209119400614	-3.7536912847131467	3378326
+3378763	Vision	investigating the impact of high frame rates on video compression	2017	-10.408916251616343	-3.79181819939316	3378790
+3379340	EDA	high-resolution still-image transmission based on ccitt h.261 codec	1993	-10.734839723497057	-3.7432485859831095	3379367
+3380861	Visualization	resampling process of the scalable high efficiency video coding	2015	-10.531191913633283	-3.6394564996074896	3380888
+3381967	Vision	human eye interfaced segmentation and multiple video object coding	2003	-10.631801328331733	-3.111424710231042	3381994
+3382474	AI	multiple description video coding based on hierarchical b pictures	2009	-10.855588105941294	-3.337484098552532	3382501
+3384222	Vision	adaptive interpolation filter for h.264/avc	2009	-11.026377385891015	-3.24749902458742	3384249
+3384836	Vision	depth-based weighted bi-prediction for video plus depth map coding	2012	-10.744309615565625	-3.629339891087996	3384863
+3384894	Robotics	a direction-adaptive in-loop deartifacting filter for video coding	2008	-11.094440247175005	-3.768045505138324	3384921
+3386113	Robotics	dynamic bit-rate allocation with fuzzy measures for mpeg transcoding	2004	-10.727426041368439	-3.863616120609169	3386140
+3386192	EDA	a compressed domain beat detector using mp3 audio bitstreams	2001	-10.699728768583467	-3.2897754028770363	3386219
+3386211	Robotics	perceptual distortion measurement in the coding unit mode selection for 3d-hevc	2016	-10.560942461877142	-3.757338777384475	3386238
+3386762	Vision	flexible scalable digital video coding	1993	-11.070821173054217	-3.656250711694717	3386789
+3386960	EDA	codec designs for image browsing	1994	-10.866433088000967	-3.905811325390365	3386987
+3388704	Crypto	low encoding complexity ldpc codes based on block inverse jacket matrices	2008	-10.279033466754015	-3.781736591879468	3388731
+3389651	Robotics	video error concealment using progressive block matching algorithm with euclidean distance	2012	-10.42568514673046	-3.148755972613898	3389678
+3390106	Vision	remote interactive browsing of video surveillance content based on jpeg 2000	2009	-10.198082277721687	-3.5798465738043705	3390133
+3390787	Web+IR	an index model for mpeg-2 streams	2002	-10.354994660747495	-3.7392714975657535	3390814
+3391952	Vision	an adaptive occluded region detection and interpolation for robust frame rate up-conversion	2011	-10.792584062464575	-3.877855386910361	3391979
+3394104	Vision	use of motion estimation to improve video watermarking for mpeg encoders	2003	-10.302117832222976	-3.278925292724444	3394131
+3394947	Vision	evaluation of depth-based super resolution on compressed mixed resolution 3d video	2014	-10.591414189147013	-3.7369861531786457	3394974
+3395243	Vision	block-matching translation and zoom motion-compensated prediction by sub-sampling	2009	-10.858431651713078	-3.4994823959890744	3395270
+3395878	Vision	structure and texture filling-in of missing image blocks in wireless transmission and compression applications	2003	-10.488680657861359	-3.667988906778608	3395905
+3397127	EDA	adaptive video de-interlacing algorithm by motion characteristic detection	2009	-10.66171849456979	-3.89449738763018	3397154
+3397985	Vision	image warping using adaptive partial matching	1998	-10.997172073726377	-3.5704329456393014	3398012
+3399479	Vision	fast object detection in compressed video	2018	-10.451209802056683	-3.90500556806858	3399506
+3400038	Robotics	embedded stereo coding algorithm for stereo voice codec	2014	-10.72320961021042	-3.825365721779817	3400065
+3400407	Vision	multi-reference video coding using stillness detection	2018	-10.726760891510912	-3.2340741943339952	3400434
+3401437	Mobile	a frequent-domain videotranscoder with spatial downscaling for h.264/avc	2009	-10.519092279212918	-3.595382485887375	3401464
+3402522	Embedded	estimate of the capacity of the closed video channel for the method based on the selection of relevant structural units	2016	-10.39397859556465	-4.049743479674016	3402549
+3403688	ML	adaptive color-space transform in hevc screen content coding	2016	-11.048407168775793	-3.320978124607564	3403715
+3405758	Vision	source distortion estimation for wyner-ziv distributed video coding	2018	-10.990469246716916	-3.1022039824739087	3405785
+3406160	Vision	improving h.264/avc video coding with adaptive coefficient suppression	2010	-10.775082971546992	-3.9626850398968743	3406187
+3407041	Vision	quality-efficient syntax element-based de-interlacing method for h.264-coded video sequences with various resolutions	2014	-10.724036051115018	-3.3254300682757143	3407068
+3407481	Vision	a five-field motion compensated deinterlacing method based on vertical motion	2007	-10.921215025718372	-3.7111233715817677	3407508
+3409397	Vision	multi-resolution motion estimation for motion compensated frame interpolation	2010	-10.803870712399492	-3.8284404815494	3409424
+3409521	Arch	linear transform based motion compensated prediction for luminance intensity changes	2005	-10.67642087647803	-3.1752493507348216	3409548
+3411285	ML	non-integer expansion embedding for prediction-based reversible watermarking	2014	-11.080112345500384	-3.35550660217979	3411312
+3411461	Vision	ssim-based end-to-end distortion modeling for h.264 video coding	2012	-10.359480604849688	-3.8180529834138426	3411488
+3412225	Mobile	packet loss visibility for higher resolution video on portable devices	2017	-10.234605092980342	-3.1490896800618065	3412252
+3413165	Robotics	a new hybrid error concealment for multi-view video	2015	-10.504745631093444	-3.477370226740821	3413192
+3413358	Robotics	adaptive frequency coefficient suppression for roi-based h.264/avc video coding	2008	-10.652023581280396	-3.2388468105482557	3413385
+3416493	Vision	performance analysis of model-based video coding	1996	-11.016643721452631	-3.7073351175310267	3416520
+3417676	Arch	a high quality mc-obtc codec for video signal processing	1994	-10.924003735673402	-3.2566703145223563	3417703
+3417890	EDA	adaptive partition size temporal error concealment for h.264	2008	-10.785127840811425	-3.4960438443492827	3417917
+3418557	Robotics	motion vector re-estimation for video trans-coding with arbitrary downsizing	2008	-10.44121988662988	-3.482328974951742	3418584
+3419591	Vision	adaptive lagrange multiplier selection model in rate distortion optimization for 3d wavelet-based scalable video coding	2014	-10.892851065754595	-3.1247862862302616	3419618
+3421353	Graphics	geometry-based block partitioning for efficient intra prediction in depth video coding	2010	-10.875574396346275	-3.3841253819021464	3421380
+3423276	Robotics	evaluation of disparity map characteristics for stereo image coding	2005	-10.910541593168745	-3.811787799681394	3423303
+3423371	Vision	sast digital image stabilization using one bit transform based sub-image motion estimation	2005	-10.983006482802656	-3.1190019586032904	3423398
+3424418	Vision	hybrid video coding using variable size block transforms	2002	-11.069406252627546	-3.1846715381637383	3424445
+3425176	Vision	an efficient resynchronization technique for perceptual quality enhancement for robust video transmission	2004	-10.345755548840533	-3.740212658886044	3425203
+3425311	Robotics	semantic web-based video streaming application	2008	-10.276422820768557	-3.7874113742819064	3425338
+3425813	Vision	scalable video compression using longer motion compensated temporal filters	2003	-11.077669028557699	-3.1055924723917867	3425840
+3426314	Graphics	1.15 mbit/s coding of video signals including global motion compensation	1991	-10.72041704799268	-3.2851978429498847	3426341
+3428863	Robotics	new frame rate up-conversion using bi-directional motion estimation	2000	-10.845854150390945	-3.7592868465323264	3428890
+3428946	HCI	adaptive zero-coefficient distribution scan for inter block mode coding of h.264/avc	2010	-10.947216675092056	-3.129991580260262	3428973
+3430134	Vision	down-sampling based video coding using super-resolution technique	2011	-11.077782888176852	-3.837911525208404	3430161
+3430417	ML	motion estimation and compensation for image sequence coding	1992	-10.726446495439848	-3.8304808487808653	3430444
+3430735	Vision	rate-constrained motion estimation algorithm for video coding	1997	-11.022504865629873	-3.268054920983277	3430762
+3431810	Robotics	object-oriented approach to video compression via cellular neural networks	2008	-10.364460197711637	-3.72964548558096	3431837
+3433997	Vision	bidirectional motion estimation via vector propagation	1998	-10.915951069561359	-3.863250635334866	3434024
+3434426	Robotics	a depth based mode decision algorithm for 3d video coding	2013	-10.706844640869235	-3.4177371818908107	3434453
+3436720	Web+IR	improved bsdl-based content adaptation for jpeg 2000 and hd photo (jpeg xr)	2009	-10.4219007107798	-3.3748048697691666	3436747
+3437125	EDA	a multi-level error protection technique based on macroblocks' importance of the h.264/avc video frames	2013	-10.617347684681393	-3.1272759824356804	3437152
+3437540	Vision	advanced fgs coding scheme based on mpeg-4 fgs technology	2007	-10.882438051794608	-3.346017101834647	3437567
+3437647	Vision	spatio-temporal boundary matching algorithm for temporal error concealment	2006	-10.708495304392317	-3.707236615807736	3437674
+3438419	Vision	co-located reference frame interpolation using optical flow estimation for video compression	2018	-10.889432111642673	-3.5143611842721088	3438446
+3439499	Vision	spatiotemporal selective extrapolation for 3-d signals and its applications in video communications	2007	-10.815994274220891	-3.9006659024193127	3439526
+3442210	Vision	efficient inter-view motion vector prediction in multi-view hevc	2018	-10.83281914658168	-3.318330804558053	3442237
+3442297	Vision	adaptive weighted prediction in video coding	2004	-10.734465510794102	-3.3315844823696463	3442324
+3442411	Vision	interview rate distortion analysis-based coarse to fine bit allocation algorithm for 3-d video coding	2014	-10.629717205260093	-3.723044604992446	3442438
+3443551	ML	joint disparity and variable size-block optimization algorithm for stereoscopic image compression	2018	-10.845148267551503	-3.599326076796762	3443578
+3443814	Vision	low-complexity video compression and compressive sensing	2013	-11.097089333394662	-3.7013120070873664	3443841
+3444216	Arch	high-quality subband codec for hdtv transmission	1994	-10.996905963399794	-3.112175173312353	3444243
+3445925	Visualization	efficient view synthesis for multi-view video plus depth	2013	-10.692352456368255	-3.690453288231528	3445952
+3446092	Vision	joint learning for side information and correlation model based on linear regression model in distributed video coding	2009	-11.049066332961935	-3.3904395854402387	3446119
+3446669	Vision	adaptive correlation estimation for general wyner-ziv video coding	2009	-11.086608120787542	-3.126045945726202	3446696
+3449292	EDA	transcoding of mpeg video using lattice vector quantization	1998	-10.907654440641133	-3.9181261700591614	3449319
+3449935	Robotics	a hybrid neural network for chroma intra prediction	2018	-11.010216267147813	-3.8654731125770376	3449962
+3450298	Vision	low-rate fgs video compression based on motion-compensated spatio-temporal wavelet analysis	2003	-10.916178878113431	-3.3253741916802224	3450325
+3450572	EDA	nonreference method for estimating psnr of mpeg-2 coded video by using dct coefficients and picture energy	2008	-10.519719086255582	-3.784449606004986	3450599
+3450792	Vision	distributed multiview video coding using the fusion of triple side information	2009	-10.845749440497427	-3.154373228441913	3450819
+3451286	Vision	blocking-artifact detection in frequency domain for frame-rate up-conversion	2017	-10.838816488400411	-3.8548351534182888	3451313
+3452516	Vision	rate-distortion performance of dual-layer motion compensation employing different mesh densities	2006	-10.959088314695014	-3.693037604517509	3452543
+3453881	Vision	the sjtu 4k video sequence dataset	2013	-10.247397655356608	-3.610222803073524	3453908
+3454739	ML	error concealment algorithms for compressed video	1999	-10.909779579762047	-4.004029760759836	3454766
+3454824	Visualization	scalable coding of very high resolution video using the virtual zerotree	1997	-10.932064473283297	-3.220072077288528	3454851
+3455509	Vision	multi-view depth video coding using depth view synthesis	2008	-10.546447200690649	-4.014798354680003	3455536
+3459674	Vision	3d video compression with the h.264 codec	2012	-10.518364383162902	-3.750717805639717	3459701
+3462654	AI	optimization of the block-level bit allocation in perceptual video coding based on minmax	2015	-10.681951748005195	-3.3215214170544627	3462681
+3463420	ML	hevc-based lossless intra coding for efficient still image compression	2015	-10.638635075085377	-3.631621120077152	3463447
+3464886	Vision	an object-background image model for predictive video coding	1989	-10.779353822674294	-3.7051323383567034	3464913
+3465209	Robotics	a novel error concealment method for stereoscopic video coding	2007	-10.671347619337253	-3.6319430160115767	3465236
+3465306	Visualization	a low-cost unrestricted fast playback scheme for video streaming	2005	-10.277527233977057	-3.1136822700181077	3465333
+3467024	Vision	unconstrained motion compensated temporal filtering (umctf) for efficient and flexible interframe wavelet video coding	2005	-11.021174995445648	-3.4659208295421906	3467051
+3468950	Vision	block-based compressed sampling with non-linear coding for image transmission	2012	-10.96038446865882	-3.185313708981043	3468977
+3469299	Vision	artifact reduction of compressed video via three-dimensional adaptive estimation of transform coefficients	2014	-10.858161826496591	-3.6675685002459377	3469326
+3470088	Theory	low bit rates image compression via adaptive block downsampling and super resolution	2016	-11.052809073200683	-3.6273310057061217	3470115
+3470134	Vision	view synthesis motion estimation for multiview distributed video coding	2010	-10.887708704133596	-3.560136028898176	3470161
+3470654	Vision	boundary matching based spatial interpolation for consecutive block loss concealment	2012	-10.860515048782252	-3.9893677332248303	3470681
+3470927	Vision	stereo video coding based on frame estimation and interpolation	2003	-10.78866450062742	-3.6897698227044393	3470954
+3471790	Vision	sudden scene change detection in compressed video using interpolated macroblocks in b-frames	2006	-10.551267921158034	-3.6459313723053612	3471817
+3473633	Vision	content adaptive depth map resampling scheme in multiview video plus depth	2014	-10.754651263944922	-3.9090124353231532	3473660
+3476670	Visualization	barbell-lifting based 3-d wavelet coding scheme	2007	-10.857851994328492	-3.177894099706759	3476697
+3477952	Vision	motion compensated de-interlacing with adaptive global motion estimation and compensation	2003	-10.835454290424671	-3.7129515144835454	3477979
+3478099	Mobile	one novel rate control scheme for region of interest coding	2016	-10.1801383973095	-3.664170085801984	3478126
+3478218	AI	multiview-video-plus-depth coding and inter-component prediction in high-level-syntax extension of h.265/hevc	2013	-10.521053989471108	-3.6085404786672295	3478245
+3479823	Embedded	scalable architecture for use in an over-hdtv real-time codec system for multiresolution video	2003	-10.35412598384316	-3.4360526340120567	3479850
+3480859	Vision	scalable bit allocation between texture and depth views for 3-d video streaming over heterogeneous networks	2015	-10.570517850836726	-3.651581490249523	3480886
+3481329	Vision	macroblock-level mode based adaptive in-band motion compensated temporal filtering	2006	-11.02682044441441	-3.4974217059194435	3481356
+3481463	Vision	joint structural and inter-frame skipping for mpeg-2 video	2010	-10.525421608426354	-3.1399705110090776	3481490
+3482627	Robotics	video error concealment for in-vehicle ip-based wireless networks	2015	-10.672035765491772	-3.20300535383146	3482654
+3483400	Robotics	intra-prediction with adaptive sub-sampling	2011	-11.060693769583958	-3.1564189595641965	3483427
+3484415	Networks	a content based video traffic model using camera operations	1996	-10.503867980988117	-3.4867434258953507	3484442
+3484497	Arch	a fast direction predictor of inter frame prediction for multi-view video coding	2009	-10.621455298444632	-3.5331453067508165	3484524
+3485584	AI	a rate-distortion optimized coding method for region of interest in scalable video coding	2015	-10.661631082537133	-3.2114778131421184	3485611
+3485606	Graphics	dual level intraframe coding for increased video telecommunication bandwidth	1998	-10.422048663228585	-3.906048256701313	3485633
+3486408	Arch	adaptation of frames for gop using nsew affine translation for effective privacy protection mechanism	2015	-10.412360894444207	-3.306065085437714	3486435
+3487409	Arch	adaptive inter-layer intra prediction in scalable video coding	2009	-11.076413445715831	-3.3113764601992988	3487436
+3488384	ML	depth intra skip prediction for 3d video coding	2012	-10.71206603486782	-3.4118979291715457	3488411
+3489362	Robotics	effective error concealment algorithm by boundary information for h.264 video decoder	2006	-10.4365137522477	-3.2599383693097974	3489389
+3489754	Robotics	quality analysis of scalable video coding on unstable transmissions	2011	-10.174943161909304	-3.12030817010405	3489781
+3490086	Visualization	rgbw image compression by low-complexity adaptive multi-level block truncation coding	2016	-10.839229431557662	-3.631409423022852	3490113
+3491543	Robotics	moving object segmentation using motion orientation histogram in adaptively partitioned blocks for consumer surveillance system	2012	-10.259748514566537	-3.830891618298261	3491570
+3491644	Vision	video compression - from concepts to the h.264/avc standard	2005	-10.388901479091926	-3.8546736632778917	3491671
+3492400	Robotics	just noticeable distortion map prediction for perceptual multiview video coding	2012	-10.726166612765342	-3.1493680064277303	3492427
+3492900	Vision	low complexity disparity estimation and object-based image synthesis for multi-viewpoint stereoscopic videoconferencing	1996	-10.659971773074448	-3.983580042660107	3492927
+3493298	Vision	efficient content-based resynchronization approach for wireless video	2005	-10.204750253767708	-3.101788016978148	3493325
+3493712	Visualization	the seamlessly multiplexed embedded codec (smec) and its application in image coding	2004	-10.621861374778597	-3.466105225447597	3493739
+3493998	Vision	compressive video sensing based on user attention model	2010	-10.871530321110043	-3.6069442527591224	3494025
+3494508	AI	efficient disparity vector coding for multiview sequences	2004	-10.8167685421454	-3.471903284128275	3494535
+3498116	Graphics	joint processing and fast encoding algorithm for multi-view depth video	2016	-10.739056265863788	-3.4705869756103507	3498143
+3502686	Theory	simple nonstatistical television compression system	1973	-10.328272930941447	-3.3098538272104627	3502713
+3504128	Robotics	content adaptive in-loop depth map filter for hevc based 3dv coding	2013	-10.818589048366013	-3.2766584457683963	3504155
+3504796	Vision	a low complexity video subband coder for atm	1994	-10.902236899784851	-3.4440001923412886	3504823
+3504850	ML	video motion estimation using a neural network	1994	-10.55569076786381	-3.336199617121609	3504877
+3505104	AI	a rate control method for h.263 temporal scalability	1999	-10.85537286890874	-3.19805943877343	3505131
+3505328	Vision	mcfis: better i-frame for video coding	2010	-10.6601009841954	-3.1472630355358433	3505355
+3505463	Vision	adaptive search range for hevc motion estimation based on depth information	2017	-10.851061764155075	-3.2611657515388948	3505490
+3506340	Robotics	depth map coding based on adaptive block compressive sensing	2015	-11.063623638094597	-4.052320487874801	3506367
+3506572	Vision	blind estimation of the qp parameter in h.264/avc decoded video	2010	-10.305224229073039	-3.314239595918317	3506599
+3507428	Vision	block-based in-loop view synthesis for 3-d video coding	2014	-10.718727734379069	-3.856915119442108	3507455
+3508483	Visualization	high-fidelity rgb video coding using adaptive inter-plane weighted prediction	2009	-10.554213256121374	-3.893984909894056	3508510
+3510920	Robotics	an hvs-based motion vector composition algorithm for spatial resolution transcoding	2004	-10.819109407897503	-3.5442275152984823	3510947
+3511109	Networks	fast intra bit rate transcoding for hevc screen content coding	2018	-10.374636726838657	-3.4809589485582912	3511136
+3513992	Robotics	block inter mode decision for fast encoding of h.264	2004	-10.85317817528516	-3.2258562993335134	3514019
+3515202	Graphics	parametric motion vector prediction for hybrid video coding	2012	-10.99707710736311	-3.362368841609877	3515229
+3515901	Vision	symmetric distributed coding of stereo video sequences	2007	-10.890006903054758	-3.2808308852386383	3515928
+3516591	ML	perceptual based sao rate-distortion optimization method with a simplified jnd model for h.265/hevc	2015	-10.679503019711381	-3.5719154005486304	3516618
+3517784	Embedded	error-resilient roi coding using pre- and post-processing for video sequences	2004	-10.518150002768751	-3.499657701826336	3517811
+3521565	Robotics	perceptually motivated fast coding unit size decision for hevc intracoding based on visual regularity	2018	-11.057596152298384	-3.325796074515952	3521592
+3521623	Vision	background-frame based motion compensation for video compression	2004	-10.780645758637023	-3.739661386451196	3521650
+3523254	Robotics	a new intra prediction method using channel correlations for the h.264/avc intra coding	2009	-11.002053272818923	-3.7115147880956783	3523281
+3524405	Vision	multiscale video representation using multiresolution motion compensation and wavelet decomposition	1993	-10.98173027358322	-3.837182624589511	3524432
+3524985	Robotics	application of vector rational interpolation to erroneous motion field estimation of error concealment	1999	-10.669911951536918	-3.2473000205605675	3525012
+3525308	Visualization	inter-view coding for stereoscopic digital cinema	2008	-10.531802336714048	-3.87677680540842	3525335
+3526095	Vision	adaptive mctf based on correlation noise model for snr scalable video coding	2006	-11.05350800718466	-3.5189634380821544	3526122
+3527526	Vision	a novel rate control framework for sift/surf feature preservation in h.264/avc video compression	2015	-10.577175810582633	-3.840891023779738	3527553
+3529183	Robotics	parameterized modelling and dynamic analyzing for the drive at centre of gravity (dcg) feed drives	2009	-10.586950291612224	-3.3452409868038453	3529210
+3529679	Robotics	four field local motion compensated de-interlacing	2004	-10.906447046897684	-3.5638996276441457	3529706
+3529980	Vision	region-of-interest video coding based on face detection	2002	-10.62049490589872	-3.6887253696059688	3530007
+3531012	Vision	adaptive overlapping approach for dct-based motion estimation	1995	-11.06949148742182	-3.665251187607161	3531039
+3533335	AI	depth down/up-sampling using hybrid correlation for depth coding	2013	-10.76056885680037	-3.7921311277548284	3533362
+3533840	Robotics	frame rate upconversion using pyramid structure and dense motion vector fields	2016	-10.98704414829911	-3.7575370676802	3533867
+3534318	Vision	image coding by folding	1997	-10.231094503297571	-3.8473205488197046	3534345
+3534909	Vision	optimal decoder for block-transform based video coders	2003	-10.918643449948172	-4.036975853303072	3534936
+3536424	Vision	a novel approach for efficient multi-view depth map coding	2010	-10.476654503746973	-3.948414864096856	3536451
+3537073	EDA	lost transform domain data concealment in genlot based coders	1999	-10.215210017264077	-3.7682213476369424	3537100
+3537134	Visualization	improvement of re-sample template matching for lossless screen content video	2015	-10.854894003586672	-3.3349108971229646	3537161
+3540325	EDA	implementing 360 video tiled streaming system	2018	-10.446283982633943	-3.8312490244732063	3540352
+3540971	Vision	learning to detect video saliency with hevc features	2017	-10.716677053859783	-3.5769804566085117	3540998
+3541144	Vision	nearly lossless compression of arbitrary images	2011	-10.861728683346259	-3.772279995333436	3541171
+3543310	Vision	horizontal adaptive disparity estimation scheme for stereoscopic images	2015	-10.940067613329331	-3.7807303876119938	3543337
+3543788	Vision	lmm-based frame-level rate control for h.264/avc high-definition video coding	2012	-11.035347223046859	-3.242487309255069	3543815
+3545216	Vision	volumetric deformation compensation in cuda for coding of dynamic cardiac images	2013	-10.776233257601023	-3.348081082145967	3545243
+3545424	Robotics	fast motion detection for thin client compression	2002	-10.253102331656995	-3.789218568373279	3545451
+3545827	ML	h.264-based hierarchical two-layer lossless video coding method	2014	-11.012809904920328	-3.8670125349592723	3545854
+3545834	Vision	compressed-domain video classification with deep neural networks: “there's way too much information to decode the matrix”	2017	-10.3454913864881	-3.8522325034439215	3545861
+3547913	Vision	optimal channel coding for scalable wireless transmission of 3d regions of interest in 3d medical images	2012	-10.434480730682207	-3.283637972965563	3547940
+3548442	Vision	multiview video error concealment with improved pixel estimation and illumination compensation	2013	-10.62077699657618	-3.7913480939161937	3548469
+3549111	Robotics	novel distortion metric for depth coding of 3d video	2013	-10.636853521080024	-3.5689563892563867	3549138
+3549330	Embedded	robust transmission of jpeg2000 images over noisy channels	2002	-10.48129580298967	-3.1228528027486298	3549357
+3549918	Networks	wavelet-domain reconstruction of lost blocks in wireless image transmission and packet-switched networks	2002	-10.41507518907807	-3.5391775949476116	3549945
+3552976	Visualization	pre-fetching based on video analysis for interactive region-of-interest streaming of soccer sequences	2009	-10.506166419618314	-3.370639946597383	3553003
+3554143	EDA	a new reversible video watermarking method based on motion compensated interpolation	2012	-10.282288402226325	-3.7054548961123484	3554170
+3557718	ECom	a foveation-based rate shaping mechanism for mpeg videos	2002	-10.592662675440677	-3.2093820975414373	3557745
+3558201	Vision	segmentation-based video compression using texture and motion models	2011	-10.557089467348767	-4.0049685728524125	3558228
+3558230	ML	two-dimensional reversible data hiding-based approach for intra-frame error concealment in h.264/avc	2016	-10.2571235640555	-3.6842417239604215	3558257
+3559705	Embedded	a multi-channel channel-optimized scheme for ezw using rate-distortion functions	2000	-11.007003051195683	-3.988303024760184	3559732
+3560609	Networks	real-time packet video over satellite channels	1983	-10.479561313232333	-3.1466581308767743	3560636
+3562556	Vision	lightweight content-adaptive coding in joint analyzing-encoding framework	2008	-10.634861155601266	-3.429820430358534	3562583
+3563625	Robotics	a structure of jpeg xt encoder considering effect of quantization error	2016	-10.64825578187221	-3.967563820642583	3563652
+3563997	Vision	robust background subtraction for network surveillance in h.264 streaming video	2013	-10.412705918339896	-3.81078087067156	3564024
+3564491	Vision	joint optimization of run-length coding, context-based arithmetic coding and quantization step sizes	2009	-11.081183413337884	-3.142563963407647	3564518
+3565333	Robotics	image compression via sparse reconstruction	2014	-10.669854426961304	-3.957910073972888	3565360
+3565483	Vision	adaptive patch-based inpainting for image block recovery	2010	-10.779948297215462	-3.8451447902049374	3565510
+3566105	Vision	depth video coding using adaptive geometry based intra prediction for 3-d video systems	2012	-10.730308958099249	-3.9346345018684223	3566132
+3566211	Vision	a low-complexity region-based video coder using backward morphological motion field segmentation	1999	-10.993814442622476	-3.971312519374668	3566238
+3567928	Graphics	gpu-based 3d lower tree wavelet video encoder	2013	-10.460337633096533	-3.3542515016422527	3567955
+3568819	Vision	a multistage motion vector processing method for motion-compensated frame interpolation	2008	-10.889538543264823	-3.82663796470609	3568846
+3571618	Vision	distributed compressive video sensing	2009	-10.959248132845481	-3.2129095360068223	3571645
+3571666	Vision	advanced motion information prediction and inheritance in 3d-hevc	2015	-10.531486866355896	-3.6959227231813134	3571693
+3573198	Vision	recovering connected error region based on adaptive error concealment order determination	2009	-10.52275742440159	-3.6394106121828846	3573225
+3574866	Vision	fast multi-view disparity estimation for multi-view video systems	2006	-10.92521774300232	-3.357015592918458	3574893
+3579261	Vision	multi-view video coding using illumination change-adaptive motion estimation and 2-d direct mode	2005	-10.93323805959517	-3.4466289893129085	3579288
+3579542	EDA	a gpu based real-time video compression method for video conferencing	2013	-10.39965687929007	-3.7816260422592234	3579569
+3579742	Robotics	quality layers in scalable multi-view video coding	2009	-10.403574451508826	-3.7129510997996364	3579769
+3580394	Networks	compatible coding of digital interlaced hdtv	1993	-10.87195087039818	-3.3122266505807136	3580421
+3580847	Arch	l1-norm minimization in pixel recovery for h.264 video transmission	2012	-10.786691619811254	-3.6707377251845115	3580874
+3581807	EDA	composing better pictures in mdc: a multi-target total variational approach	2010	-11.06650513308443	-3.9172591852677576	3581834
+3581866	HCI	multipe coding of images without distortion accumulation	1987	-10.408417474576352	-3.3946305549207088	3581893
+3583122	Robotics	a two pass h.264-based matching pursuit video coder	2006	-11.017306036553917	-3.299400513662047	3583149
+3583216	ML	improving intra coding in h.264\avc by image epitome	2009	-10.68364393514799	-3.4192694726150203	3583243
+3583587	Vision	multiview image block compressive sensing with joint multiphase decoding for visual sensor network	2015	-10.857445843799688	-3.7233505323216467	3583614
+3584443	Vision	depth-based texture coding in avc-compatible 3d video coding	2015	-10.672289092031248	-3.6452654766260437	3584470
+3585020	Vision	2d+t autoregressive framework for video texture completion	2014	-11.036267956814491	-3.7768338158225094	3585047
+3586839	Vision	3d motion vector coding with block base adaptive interpolation filter on h.264	2003	-11.082759645495234	-3.3535232045001764	3586866
+3588141	Vision	synthesis-in-the-loop for video texture coding	2009	-10.641901048893436	-3.613089525704752	3588168
+3589701	Robotics	multivector motion description for region-based very low bit-rate video coding	1996	-10.908812500938932	-3.810354154195464	3589728
+3590038	Vision	efficient background video coding with static sprite generation and arbitrary-shape spatial prediction techniques	2003	-10.659076257417118	-3.816349654529743	3590065
+3590569	Vision	simultaneous motion estimation and resolution enhancement of compressed low resolution video	2000	-10.941993143856866	-4.038745447523628	3590596
+3591643	EDA	efficient depth image based rendering with edge dependent depth filter and interpolation	2005	-10.73980350833721	-3.679538208348915	3591670
+3592903	Vision	a new variable size block motion compensation	1997	-10.958145054581449	-3.4315298896944553	3592930
+3593338	Vision	subjective and objective video codec evaluation	2011	-10.497199426260973	-3.2161078865883064	3593365
+3593842	Visualization	inpac: independent pass coding algorithm for robust image data transmission through low snr channels	2017	-10.716559504088538	-3.2814475044003815	3593869
+3594068	Web+IR	object-based transcoding for adaptable video content delivery	2001	-10.159858720988057	-4.004402632992867	3594095
+3595701	ML	technology of image coding for cell losses in atm transmission	1999	-10.597150387552825	-3.3223663244766133	3595728
+3596035	Visualization	extending svc by content-adaptive spatial scalability	2011	-10.649746640391793	-3.720553703577746	3596062
+3596636	Vision	atm cell loss effects on a progressive jpeg video codec	1994	-10.202584497863931	-4.010775676645807	3596663
+3596872	Vision	standard-compliant low-pass temporal filter to reduce the perceived flicker artifact	2014	-10.685860465983602	-3.4834961151371924	3596899
+3597569	Vision	fast depth map mode decision based on depth-texture correlation and edge classification for 3d-hevc	2017	-10.718514517505053	-3.2676415269173598	3597596
+3598538	Vision	content-adaptive spatial scalability for scalable video coding	2010	-10.680535748653199	-3.3681586496224987	3598565
+3598576	Vision	pre-filtering with locally adaptive filter set for reference frame in video compression	2011	-11.048808977726717	-3.2879377604342404	3598603
+3598700	Vision	least square based view synthesis prediction for multi-view video coding	2012	-10.649411343183973	-3.7874454072575694	3598727
+3600458	Vision	lifting-based illumination adaptive transform (liat) using mesh-based illumination modelling	2017	-10.998550816070551	-3.770058312731383	3600485
+3601271	Robotics	a compressed-domain method of shot segmentation for x264 videos	2014	-10.410475658135017	-3.719189470652271	3601298
+3601332	Vision	in-loop denoising of reference frames for lossless coding of noisy image sequences	2010	-10.992398943741982	-3.7408201443520177	3601359
+3601861	Embedded	perceptual multiview video coding using synthesized just noticeable distortion maps	2011	-10.794434239517535	-3.2940497174470247	3601888
+3603174	ML	a novel motion estimation method based on normalized cross correlation for video compression	2008	-11.027595532066538	-3.776039568967432	3603201
+3603494	Visualization	content-adaptive spatial error concealment for video communication	2004	-10.390325558413673	-3.6801653750784906	3603521
+3603499	Embedded	adding selective enhancement in scalable video coding for region-of-interest functionality	2006	-10.626020190570769	-3.133856788790056	3603526
+3604081	Networks	quality monitoring for compressed video subjected to packet loss	2003	-10.301220138243998	-3.1667811079120023	3604108
+3604760	Vision	a fast no search fractal image coding method	2004	-10.579293572694027	-3.889901782955977	3604787
+3604943	Vision	reconstruction of motion vector missing macroblocks in263 encoded video transmission over lossy networks	1998	-10.407396549026515	-3.5287922285631823	3604970
+3605565	Vision	improved fading scheme for spatio-temporal error concealment in video transmission	2008	-10.783233935082134	-3.840876793323469	3605592
+3605778	Graphics	reversible conversion between interlaced and progressive scan formats and its efficient implementation	2002	-10.952541492044638	-3.5399602898306357	3605805
+3607587	Vision	depth-based multiview distributed video coding	2014	-10.74656610229859	-3.3166947470170114	3607614
+3607620	Robotics	efficient intra refresh using motion affected region tracking for surveillance video over error prone networks	2008	-10.456635500122935	-3.193214623057205	3607647
+3607675	Robotics	region-of-interest based rate control algorithm for h.264/avc video coding	2015	-10.52364747416817	-3.343167893342061	3607702
+3608983	Vision	novel integration of frame rate up conversion and hevc coding based on rate-distortion optimization	2018	-10.802116802174288	-3.5016511624251176	3609010
+3609375	Vision	statistical analysis and directional coding of layer-based hdr image coding residue	2017	-10.799848383365607	-3.899976585657303	3609402
+3609502	Vision	spatio-temporal markov random field-based packet video error concealment	2007	-10.783319963353838	-3.7233383812880354	3609529
+3609872	Vision	reflectance reference for intra-frame coding of surveillance video	2018	-10.549093923773995	-3.4657031509569345	3609899
+3609911	Robotics	video background modeling algorithm of low complexity based on the minimum second derivative	2017	-10.865534959328727	-3.1164537430309203	3609938
+3610592	Vision	a new perspective to block motion estimation for video compression: high-frequency component matching	2007	-11.085934379059708	-3.6027407873984885	3610619
+3612037	Robotics	energy scalability in multimedia codec using nqdct	2004	-11.046686095359172	-3.2359510215680287	3612064
+3616379	Vision	frame-skipping transcoding with motion change consideration	2004	-10.249467177293523	-3.714294116698272	3616406
+3616723	DB	adaptive depth-map coding for 3d-video	2010	-10.628888025450005	-3.871796896173432	3616750
+3617331	Robotics	adaptive search range scaling for b pictures coding	2006	-10.865059961501247	-3.5040494694139315	3617358
+3620187	AI	adaptive partition size temporal error concealment for h.264 using weighted double-sided ebme minimization	2008	-10.799544896955242	-3.4307231831731624	3620214
+3620603	Vision	motion-compensated tv-reconstruction-based video deinterlacing	2014	-10.860894261231827	-3.9477636384800316	3620630
+3620655	Vision	homogeneous motion discovery oriented reference frame for high efficiency video coding	2016	-10.855997298275792	-3.7466869565189	3620682
+3621115	Vision	inter-frame video forgery detection and localization using intrinsic effects of double compression on quantization errors of video coding	2016	-10.162111754036015	-3.5518230302317564	3621142
+3622235	Robotics	a method to efficiently encode inter-view vectors in conditional replenishment algorithm	2015	-11.046763747535064	-3.2118096647303087	3622262
+3624104	Vision	a two-stage multi-hypothesis reconstruction scheme in compressed video sensing	2016	-10.924101788246734	-3.4419480135893936	3624131
+3624149	Graphics	an adaptive lagrange multiplier technique for multi-view video plus depth coding	2013	-10.753473086868533	-3.7026392822400056	3624176
+3624438	Vision	an empirical model of multiview video coding efficiency for wireless multimedia sensor networks	2013	-10.501644298231863	-3.3017972695077744	3624465
+3624744	Robotics	efficient pixel-based motion vector recovery in h.264	2012	-10.789277815936408	-3.584380455757516	3624771
+3625068	Vision	packet video error concealment with auto regressive model	2012	-10.866334515571046	-3.7703671168418182	3625095
+3625949	Robotics	impact of rate control tools on very fast non-embedded wavelet image encoders	2007	-10.582489170030936	-3.889354724561123	3625976
+3626466	Vision	joint decoding of independently encoded compressive multi-view video streams	2013	-10.83756771053286	-3.3178223378206284	3626493
+3627540	Visualization	operational rate-distortion modeling for wavelet video coders	2006	-10.984780420363226	-3.5652614203025768	3627567
+3627598	Graphics	no reference psnr estimation for compressed pictures	2002	-10.580634069960151	-4.0364104620476935	3627625
+3627942	Networks	efficient compression and network adaptive video coding for distributed video surveillance	2010	-10.18465685200133	-3.5749096454117413	3627969
+3628861	Vision	cross residual transform for lossless intra-coding for hevc	2013	-11.000234007328725	-3.2561680072812003	3628888
+3629889	Vision	a low-complexity video coding scheme based on compressive sensing	2011	-11.04146106413119	-3.459782027818469	3629916
+3630423	Graphics	backward view synthesis prediction using virtual depth map for multiview video plus depth map coding	2013	-10.740462813111586	-3.646750579365076	3630450
+3632605	Robotics	frame rate up-conversion based on depth guided extended block matching for 3d video	2016	-10.690264243711065	-4.009778730871174	3632632
+3632890	ML	block loss recovery using fractal extrapolation for fractal coded images	1998	-10.710446754479626	-3.8790399463761136	3632917
+3636035	Vision	an improved temporal frame interpolation algorithm for h.264 video compression	2011	-10.787938756949409	-3.3630409925367744	3636062
+3637321	Vision	detection of double compression with the same bit rate in mpeg-2 videos	2014	-10.177558685477909	-3.6515561650750046	3637348
+3637488	Vision	ball appearance improvement in low-resolution soccer videos	2007	-10.40948103479364	-4.032251334642772	3637515
+3637715	Vision	optimization of occlusion-inducing depth pixels in 3-d video coding	2018	-10.691244213682818	-3.915282757553413	3637742
+3637853	Graphics	improved motion vector scaling technique based on half-pixel offset compensation	2010	-11.063908647262052	-3.2633359442706342	3637880
+3638185	Vision	video classification with cnns: using the codec as a spatio-temporal activity sensor	2017	-10.504154037370967	-3.814169790316132	3638212
+3639464	AI	fast mode decision based on human noticeable luminance difference and rate distortion cost for h.264/avc	2013	-10.718074493154884	-3.8541849482182937	3639491
+3642014	Robotics	optimal bit allocation for mpeg-4 multiple video objects	2004	-10.89774375766176	-3.3387555899817065	3642041
+3645187	Robotics	improved palette index map coding on hevc scc	2016	-10.691207316521464	-3.3398473662026547	3645214
+3645873	Vision	transform domain transcoding from mpeg-2 to h.264 with interpolation drift-error compensation	2006	-10.880477586069093	-3.2146883807730715	3645900
+3648474	Robotics	lcu-level bit allocation for rate control in high efficiency video coding	2014	-10.903452105255337	-3.246882075695593	3648501
+3648568	Vision	residual reconstruction for block-based compressed sensing of video	2011	-11.021628371329749	-3.9893330597282035	3648595
+3649110	Vision	camera motion estimation using feature points in mpeg compressed domain	2000	-10.742788257326922	-3.9842457266005393	3649137
+3650114	NLP	list viterbi decoding of convolutional codes for efficient data hiding	2002	-10.406012988496675	-3.6983614397282216	3650141
+3650799	Vision	depth camera assisted multiterminal video coding	2011	-10.612451890848057	-3.899279360362317	3650826
+3651884	Embedded	object-based rate control for mpeg-4 video object coding	2004	-10.807080632707915	-3.1368412390304354	3651911
+3652237	Vision	wyner-ziv stereo video coding using a side information fusion approach	2007	-10.742092717549806	-3.613411676347456	3652264
+3652288	Robotics	content based error detection and concealment for image transmission over wireless channel	2003	-10.400043667912506	-3.434899835613113	3652315
+3655753	Vision	library based coding for videos with repeated scenes	2015	-10.580689815041056	-3.407997881732464	3655780
+3657174	Vision	motion compensation based on implicit block segmentation	2008	-11.069313722024047	-3.18178707095498	3657201
+3657559	Vision	rate-distortion analysis of steganography for conveying stereovision disparity maps	2004	-10.662728679882592	-3.9240204781613017	3657586
+3659342	Vision	temporal video transcoding based on frame complexity analysis for mobile video communication	2013	-10.363263832709327	-3.1538220803722377	3659369
+3659539	EDA	light-weight video coding based on perceptual video quality for live streaming	2018	-10.419900355173764	-3.2252826759743702	3659566
+3663088	Vision	embedded zerotree wavelet coding of image sequence	2001	-11.07953399169423	-3.6720561241488574	3663115
+3664446	Visualization	video error concealment using fidelity tracking	2008	-10.430565875755283	-3.466746450213382	3664473
+3666021	Vision	rate-accuracy trade-off in video classification with deep convolutional neural networks	2018	-10.14460381909341	-3.917927754646464	3666048
+3668100	Robotics	an adaptive h.265/hevc encoding control for 8k uhdtv movies based on motion complexity estimation	2015	-10.69412554114767	-3.6679359762728527	3668127
+3669274	Robotics	exploiting spatial smoothness to recover undecoded coefficients for transform domain distributed video coding	2013	-10.957667448265653	-3.17740808347308	3669301
+3670265	Vision	spatio-temporal filter for roi video coding	2006	-10.940870149186654	-3.244981416930264	3670292
+3670370	Vision	applications and improvement of h.264 in medical video compression	2005	-10.523121991575744	-3.6978885360762095	3670397
+3670735	Vision	a fast stereoscopic video coding algorithm based on jmvm	2011	-10.934433038643922	-3.128078041307268	3670762
+3670849	Vision	wavelet-based video compression using long-term memory motion-compensated prediction and context-based adaptive arithmetic coding	2001	-11.066848731822656	-3.49485033629616	3670876
+3671090	Vision	drone hdr infrared video coding via aerial map prediction	2018	-10.601918655369095	-3.4913041224234127	3671117
+3671091	EDA	a globally adaptive pixel-decimation algorithm for block-motion estimation	2000	-10.982611307230536	-3.737095917467842	3671118
+3672770	Vision	rate-distortion optimized mode switching for error-resilient multi-view video plus depth based 3-d video coding	2014	-10.468795063668406	-3.4944150073965354	3672797
+3676400	Vision	bit plane quantization for scalable video coding	2002	-11.042081713362656	-3.2293975459653628	3676427
+3676484	Robotics	directional adaptive loop filter for video coding	2011	-10.994807554847656	-3.8566591207662464	3676511
+3677002	Graphics	video coding with motion-compensated interpolation for cd-rom applications	1990	-10.769870127397336	-3.75093053500436	3677029
+3677083	Vision	joint video/depth bit allocation for 3d video coding based on distortion of synthesized view	2012	-10.71569747074771	-3.9771890666705785	3677110
+3677296	Vision	view synthesis prediction in the 3-d video coding extensions of avc and hevc	2014	-10.723924248782751	-3.1164948070746483	3677323
+3677358	Vision	transform-domain intra prediction for h.264	2005	-10.863263597016386	-3.2843653043491123	3677385
+3678531	Robotics	universal lossless coding with random user access: the cost of interactivity	2015	-10.1631258191123	-3.674165307352998	3678558
+3679963	Vision	motion compensation method for moving pictures with binary shape	2000	-10.74660036096874	-3.9697603221047486	3679990
+3681516	Vision	on incorporating just-noticeable-distortion profile into motion-compensated prediction for video compression	2003	-10.471337403284716	-3.918672465105332	3681543
+3681747	Robotics	3d wavelet encoder for depth map data compression	2013	-10.548560678751553	-4.009454500667348	3681774
+3684342	Robotics	enhanced motion estimation for interframe wavelet video coding	2004	-10.695066728520743	-3.174819067194409	3684369
+3684455	Vision	a novel frame error concealment algorithm based on dynamic texture synthesis	2010	-10.686807554689574	-3.79708911609406	3684482
+3684715	EDA	frame rate conversion based high efficient compression method for video satellite	2018	-10.665539051065911	-3.490078848358287	3684742
+3685793	Vision	a novel constant quality rate control scheme for object-based encoding	2005	-10.715703341851645	-3.235266178818767	3685820
+3686806	HPC	supporting zoomable video streams with dynamic region-of-interest cropping	2010	-10.447870997370996	-3.2119433910532806	3686833
+3688002	Robotics	efficient intra mode selection using motion affected region tracking	2010	-10.621072076618503	-3.1089441162755533	3688029
+3693930	Graphics	a comparison of motion-compensated interlace-to-progressive conversion methods	1998	-10.903408381184828	-3.731016015015196	3693957
+3694042	Vision	performance evaluation of block-based motion estimation algorithms and distortion measures	2004	-10.716655569764672	-3.2978764513796563	3694069
+3695442	EDA	low complexity image compression architecture based on lifting wavelet transform and embedded hierarchical structures	2013	-10.37772591268577	-3.69555426527801	3695469
+3695476	Vision	decoder-side hevc quality enhancement with scalable convolutional neural network	2017	-10.675796621739154	-3.2542893071241674	3695503
+3696179	Vision	adaptive pixel interpolation for spatial error concealment	2007	-10.646536449009512	-3.5373976958401983	3696206
+3696755	Vision	error surface-aware modeling algorithm for quarter-pixel motion estimation	2012	-11.042783100201532	-3.257422462615497	3696782
+3699160	Mobile	new robust coding scheme for wireless video transmission based on coefficient sampling	2001	-10.528315360677038	-3.5310100966024622	3699187
+3701105	AI	up-sampling oriented frame rate reduction	2013	-10.93690799843326	-3.7343191521080885	3701132
+3708344	Vision	efficient motion estimation and coding for arbitrary-shaped video objects	2001	-11.064154837138481	-3.672011376068242	3708371
+3708456	Vision	depth map down-sampling and coding based on synthesized view distortion	2016	-10.673477994582317	-3.787871005918954	3708483
+3708755	Vision	wavelet coding of image using quadtree representation and block entropy coding	1997	-11.083628006800854	-3.8357095214552253	3708782
+3709562	Graphics	spatial error concealment for intra-coded depth maps in multiview video-plus-depth	2016	-10.590805511692533	-3.989438562466297	3709589
+3710009	Vision	mpeg-4 very low bit-rate video compression by adaptively utilizing sprite to short sequences	2002	-10.749677025306823	-3.4653694623178413	3710036
+3710213	AI	a new r-d estimation method for compressed domain mp3/aac bit-rate reduction	2014	-11.01606471505143	-4.017387060506682	3710240
+3710658	Vision	a compressed video enhancement algorithm	1999	-11.088539631875904	-3.793216654394605	3710685
+3712515	Robotics	rate control for lossless region of interest coding in hevc intra-coding with applications to digital pathology images	2015	-10.912036654985863	-3.7711859483840766	3712542
+3713052	Vision	free-viewpoint scalable multi-view video coding using panoramic mosaic depth maps	2008	-10.547091627047113	-3.8907722950460726	3713079
+3715150	EDA	optimizing the lagrange multiplier in perceptually-friendly high efficiency video coding for mobile applications	2016	-10.517807004765892	-3.097174852639576	3715177
+3718234	Robotics	spatial error recovery using multi-directional inpainting	2008	-10.685872116630431	-3.853695493565783	3718261
+3718624	Vision	optimization of wireframe model adaptation and motion estimation in a rate-distortion framework	1998	-10.860140712435436	-3.7871393612225486	3718651
+3720139	Robotics	a method for quantization scale factor selection in mpeg2 video sequence encoding using a bilayer fuzzy expert system	1998	-10.622176674104157	-3.89248656303188	3720166
+3720192	Networks	important macroblock distinction model for multi-view plus depth video transmission over error-prone network	2016	-10.43679188267184	-3.603610196239364	3720219
+3721523	Vision	l-shaped segmentations in motion-compensated prediction of h.264	2008	-10.981234561757137	-3.343773476719035	3721550
+3722185	Vision	reduced-complexity rate-distortion optimization of multiresolution motion field and prediction residual	1997	-11.068931534861703	-3.099500892393904	3722212
+3723727	Vision	a dual-network based super-resolution for compressed high definition video	2018	-10.775398035300922	-3.665001338320685	3723754
+3724745	EDA	design and implementation of h.264/avc reverse biorthogonal wavelet-based flexible macroblock ordering	2013	-10.336670699050119	-3.1159988069722235	3724772
+3724912	Vision	adaptive dct based depth map resampling for depth enhanced multiview video coding	2014	-10.916069090132387	-3.3280373440616424	3724939
+3725048	AI	object watermarking for for mpeg-4 video streams copyright protection	2000	-10.181160373966168	-3.6596603744530896	3725075
+3725189	Vision	bit-rate control algorithm based on local image complexity for video coding with roi	2005	-10.637194497343812	-3.623795200428619	3725216
+3727306	Vision	mixed-resolution distributed video codec without motion estimation at the encoder	2010	-11.094566231770122	-3.145462912985041	3727333
+3727560	Vision	detecting fade regions in uncompressed video sequences	1997	-10.368353289050944	-4.017560839165592	3727587
+3728034	Vision	spatial interpolation algorithm for error concealment	2008	-10.69704731249722	-3.9002704237036463	3728061
+3729088	Robotics	mode-dependent pixel-wise motion refinement for hevc	2016	-10.846667136882862	-3.1894911803311667	3729115
+3729461	Embedded	pvr system design of advanced video navigation reinforced with audible sound	2014	-10.157106507809779	-3.9842350497633983	3729488
+3729503	Vision	efficient mpeg compressed video analysis using macroblock type information	1999	-10.274102127394592	-4.0104305922310886	3729530
+3729810	Vision	efficient spatial scalability algorithm for h.264/svc encoders	2012	-10.966483124878822	-3.3937872769200235	3729837
+3730182	Vision	object tracking using adaptive block matching	2003	-10.650788611634962	-3.9894375385963134	3730209
+3731649	Networks	vector transform video coding for packet switched networks	1993	-10.696592062820956	-3.2565023303818994	3731676
+3731775	Vision	a steganalytic approach to detect motion vector modification using near-perfect estimation for local optimality	2017	-10.71559579554991	-3.3174602896382286	3731802
+3731882	AI	background aided surveillance-oriented distributed video coding	2010	-10.642446914987369	-3.108858326337708	3731909
+3732991	Vision	highly efficient video compression using quadtree structures and improved techniques for motion representation and entropy coding	2010	-11.091100731576693	-3.2398494880823767	3733018
+3733261	ML	a new video compression algorithm for different videoconferencing standards	2003	-10.877464741738084	-3.7419477742950726	3733288
+3734257	EDA	variable block size-based mcfi with fixed block size motion estimation	2011	-10.94743168619893	-3.4949659432635425	3734284
+3734608	Vision	adaptive methods for motion characterization and segmentation of mpeg compressed frame sequences	2004	-10.483525974317146	-4.052261586979004	3734635
+3734672	Vision	error concealment for stereoscopic video using illumination compensation	2011	-10.634843776724805	-3.8950341914065296	3734699
+3736401	Robotics	adaptive motion estimation order for frame rate up-conversion	2013	-10.775137586058298	-3.888936779795516	3736428
+3739923	Vision	video coding using affine motion compensated prediction	1996	-10.975789148687806	-3.5482275687844087	3739950
+3741891	Robotics	hierarchical motion-compensated frame interpolation based on the pyramid structure	2006	-10.846032151185877	-3.9354706319829607	3741918
+3741946	AI	hevc-compatible extensions for advanced coding of 3d and multiview video	2015	-10.346582572918432	-3.8520116117420535	3741973
+3742225	Mobile	single-pass rate control with texture and non-texture rate-distortion models	2012	-11.018632601772211	-3.146748644263011	3742252
+3742317	Theory	new regions of interest image coding using up-down bitplanes shift for network applications	2004	-11.029903324194011	-3.257508949659122	3742344
+3742347	Visualization	foveation-based error resilience and unequal error protection over mobile networks	2003	-10.23071178330847	-3.168089165031572	3742374
+3743456	Vision	bayesian image enlargement for mixed-resolution video	2012	-11.059492223960829	-3.6591606984435168	3743483
+3744095	AI	compliant interframe coding for motion-jpeg2000	2010	-11.047917077553398	-3.2030515482781707	3744122
+3745452	Vision	ssim-based error resilient video coding over packet-switched networks	2012	-10.427595686211005	-3.104731921769675	3745479
+3746220	Robotics	object geometry based error resilient video coding	2006	-10.936468273096061	-3.839753944597916	3746247
+3746450	HCI	expanded three-channel mid/side coding for three-dimensional multichannel audio systems	2014	-10.946781149047826	-3.9768287969026153	3746477
+3746535	Vision	low-complexity and sampling-aided multi-view video coding at low bitrate	2010	-10.788952118068378	-3.5000346451606807	3746562
+3746734	Vision	a global model of avc/h.264 video encoders	2009	-10.675901312310721	-3.2324314886627215	3746761
+3747252	Vision	performing deblocking in video coding based on spatial-domain motion-compensated temporal filtering	2006	-10.891288995638504	-3.9576611642593993	3747279
+3748208	Embedded	video error concealment techniques using progressive interpolation and boundary matching algorithm	2004	-10.467485961338747	-3.1948265022164297	3748235
+3748222	Vision	improved seam carving for semantic video cod	2012	-10.967629068320427	-3.918940795583475	3748249
+3750869	Vision	light field image coding using high order prediction training	2018	-10.961904799065818	-3.636862222748323	3750896
+3751716	Vision	codec independent region of interest video coding using a joint pre- and postprocessing framework	2016	-10.483888537558233	-3.786893110901788	3751743
+3752286	Robotics	codec-independent scalable distributed video coding	2007	-10.869101367010934	-3.2052111855835754	3752313
+3753585	Vision	quality enhancement of quality-asymmetric multiview plus depth video by using virtual view	2015	-10.470487769324214	-4.015590843191659	3753612
+3754181	Vision	tensor video coding	2013	-10.974913043353515	-3.5915446968896467	3754208
+3755815	Theory	adaptive temporal decimation for video compression algorithms	1993	-11.016788073640036	-3.922675684051383	3755842
+3756884	Vision	towards a real-time video compression based on mpeg4 avc/h.264	2011	-10.350429930234943	-3.1673984174407517	3756911
+3758762	Vision	fast mode decision for depth video coding based on depth segmentation	2012	-10.555109267751003	-3.808763250546064	3758789
+3760527	Vision	improved interview video error concealment on whole frame packet loss	2014	-10.655992918845529	-3.621422818351845	3760554
+3763428	Robotics	spatial interpolation algorithm for consecutive block error using the just-noticeable-distortion method	2006	-10.877442774491232	-3.976217325157476	3763455
+3764159	Vision	adaptive dct-domain down-sampling and learning based mapping for low bit-rate image compression	2009	-10.932595823008604	-4.009020670527638	3764186
+3764719	Vision	blind configuration of multi-view video coder prediction structure	2013	-10.79597803934864	-3.4889575267547626	3764746
+3766183	EDA	an adaptive error concealment algorithm based on partition model	2016	-10.503597261989599	-3.2023179028311444	3766210
+3769056	Vision	optimizing mpeg-4 coding performance by taking post-processing into account	2000	-11.089379084913693	-3.3288023299088536	3769083
+3770506	Robotics	on the modeling of motion in wyner-ziv video coding	2006	-10.991499436967269	-3.1810867849108604	3770533
+3771988	AI	a video communication system based on spatial rewriting and roi rewriting	2013	-10.532291387105223	-3.0988464957154207	3772015
+3773597	SE	information hiding in hevc standard using adaptive coding block size decision	2014	-10.260694689558065	-3.2709640304022605	3773624
+3775087	Vision	cnn-based bi-directional motion compensation for high efficiency video coding	2018	-10.858379677277114	-3.184792527612371	3775114
+3776867	AI	efficient depth coding in 3d video to minimize coding bitrate and complexity	2013	-10.738980628695488	-3.3187081862558836	3776894
+3777367	Visualization	reconstruction of lost depth data in multiview video-plus-depth communications using geometric transforms	2016	-10.641823845601904	-3.9146326107522786	3777394
+3777406	Embedded	local entropy minimization and measurement rate allocation for compressed sensing of depth video	2016	-11.014677687338748	-3.633311324760749	3777433
+3778341	Graphics	edge-adaptive transforms for efficient depth map coding	2010	-10.907126159512494	-3.2536875447134035	3778368
+3778479	ML	ssim-based error resilient video coding over packet-switched networks	2014	-10.377608827915529	-3.337374655152188	3778506
+3778554	Vision	a new motion estimation method and its application in motion compensation deinterlacing algorithms	2011	-10.99842976329654	-3.661031457544192	3778581
+3778686	Vision	m-ltw: a fast and efficient non-embedded intra video codec	2007	-10.56709901309931	-3.644703660798752	3778713
+3779113	EDA	enhancing video encoding for cloud gaming using rendering information	2015	-10.477429225591637	-3.2497443381530062	3779140
+3779277	Vision	a low bit-rate video coding approach using modified adaptive warping and long-term spatial memory	2007	-10.8072430650702	-3.948584615433116	3779304
+3780297	Arch	complexity and quality assessment of mpeg-2 to h.264/avc intra transcoding architectures	2007	-10.853845798849747	-3.1791083567128164	3780324
+3780533	Vision	reconstruction in an original video sequence of the lost region occupied by caption areas	2000	-10.555739764037604	-3.9822376801181827	3780560
+3782190	Vision	multiple description coding of images using phase scrambling	2004	-10.864513475653014	-4.015214701512779	3782217
+3784419	Vision	error concealment of intra coded video frames	2010	-10.659108315895672	-3.82331704178488	3784446
+3787620	Vision	snr scalable extension for 3d-hevc	2014	-10.799219749242278	-3.353169951197516	3787647
+3788079	EDA	dc coefficients recovery-based error concealment technique for mpeg-2 video streams	2003	-10.230979046808834	-4.034005684042603	3788106
+3790868	Vision	jpeg 2000 performance evaluation and assessment	2002	-10.436420177411687	-3.229499290489478	3790895
+3791909	Visualization	multirate 3-d subband coding of video	1994	-10.803805775331119	-3.610852198971716	3791936
+3792706	Vision	parametric coding of texture in multi-view videos for 3dtv	2015	-10.59644094148617	-3.7570598119499383	3792733
+3792999	Robotics	quality and complexity comparison of h.264 intra mode with jpeg2000 and jpeg	2004	-10.861662263730002	-3.1590451378449225	3793026
+3793728	Visualization	a statistical feedforward/fedback buffer control for the transmission of digital video signals compressed by dct-based intrafield coding	1996	-10.912610321314054	-3.156179200123859	3793755
+3797035	Vision	affine prediction as a post processing stage	2007	-11.021948831421359	-3.580698829816622	3797062
+3799513	Embedded	reversible data hiding methods based on audio and video synchronization in mp4 container	2016	-10.147442334761767	-3.099476023906625	3799540
+3801001	Vision	quadtree structured region-wise motion compensation for video compression	1999	-11.036752620998922	-3.4128747192518447	3801028
+3801570	Vision	a low complexity motion segmentation based on semantic representation of encoded video streams	2011	-10.507494536720221	-3.6137599962579303	3801597
+3802088	Vision	hevc-epic: edge-preserving interpolation of coded hevc motion with applications to framerate upsampling	2017	-10.667446905122848	-3.877757306665641	3802115
+3802217	Vision	motion estimation in measurement domain for compressed video sensing	2014	-10.971968832649246	-3.843956890214113	3802244
+3803645	Vision	study on macroblock level distortion-quantization models	2012	-10.549478696244748	-3.1003068701549097	3803672
+3804118	AI	a low-complexity upsampling technique for h.264	2011	-10.884664323431744	-3.2070844532672815	3804145
+3805481	Vision	inter-view motion vector prediction for depth coding	2014	-10.693322177418764	-3.5291738624670286	3805508
+3811939	Robotics	photo album compression by leveraging temporal-spatial correlations and hevc	2014	-10.495691080974133	-3.8785892048868336	3811966
+3813447	Vision	h.263 video transcoding for spatial resolution downscaling	2002	-10.582466410989136	-3.275735990804354	3813474
+3813518	Vision	fast event detection in mpeg video	2004	-10.308910408114047	-3.855652903756503	3813545
+3814381	Vision	adaptive bilateral filter for improved in-loop filtering in the emerging high efficiency video coding standard	2012	-10.994438527288573	-3.4271300596556475	3814408
+3814446	Robotics	motion vector processing based on trajectory curve analysis for motion compensated frame interpolation	2009	-10.81361078611759	-3.7066195665389334	3814473
+3815141	Robotics	model-based bit allocation between wavelet subbands and motion information in mcwt video coders	2006	-10.973865994216975	-3.1601145731966302	3815168
+3819401	Vision	a region-based rate-control scheme using inter-layer information for h.264/svc	2011	-10.54668994329398	-3.6520085321519127	3819428
+3819725	Vision	rate-distortion optimal bit allocation for object-based video coding	2005	-10.568793478311633	-3.6699493574141067	3819752
+3822028	NLP	video codec incorporating block-based multihypothesis motion-compensated prediction.	2000	-10.95880620800676	-3.1027525189628773	3822055
+3822233	Vision	video compression through image interpolation	2018	-10.152067152735984	-3.634826861495391	3822260
+3822682	Mobile	a wireless video surveillance system with an active camera	2012	-10.331765263645396	-3.375623001927997	3822709
+3823043	HPC	transform domain distributed video coding using larger transform blocks	2017	-10.916914525348126	-3.2426144363975222	3823070
+3823702	Robotics	efficient lossless bit depth scalable coding for hdr images	2012	-10.8049911973749	-3.9376395263009454	3823729
+3825991	Vision	spatio-temporal video filtering for video surveillance applications	2013	-10.1747364169357	-4.029319694499124	3826018
+3826900	Vision	an adaptive fast multiple reference frames selection algorithm for h.264/avc	2008	-10.72327276198058	-3.1295067986837144	3826927
+3827607	Robotics	lenslet image compression using adaptive macropixel prediction	2017	-10.995305227536383	-3.613135035753532	3827634
+3828692	Vision	wyner-ziv coding of multiview images with unsupervised learning of two disparities	2008	-10.830344651086312	-3.7379141270310847	3828719
+3829448	Visualization	pre- and post-shift filtering for blocking removing in downsizing transcoding	2009	-10.903955470487572	-3.461788015218577	3829475
+3830725	Vision	a scene change detection in h.264/avc compression domain	2005	-10.574556806078725	-3.4394478913252233	3830752
+3831779	Mobile	a novel temporal error concealment framework for h.264 over wireless networks	2013	-10.430689556012783	-3.2302252292478077	3831806
+3831981	Vision	motion estimation using quad-tree phase correlation	2005	-11.021513695215607	-3.455353764484713	3832008
+3833233	Vision	a space domain approach for multiple description video coding	2003	-10.753954727893571	-3.392186355545043	3833260
+3834003	Vision	lost motion vector recovery algorithm	1994	-10.47536263144074	-3.3578113896900645	3834030
+3834454	AI	template based illumination compensation algorithm for multiview video coding	2010	-10.4894183830109	-3.671656264864773	3834481
+3834601	Vision	frame rate up-conversion for high-definition video applications	2013	-10.856247112249203	-3.6349278951680386	3834628
+3834982	Vision	region-based multiple description coding for multiview video plus depth video	2018	-10.581946820404506	-3.534633355867705	3835009
+3838672	Vision	mpeg-4 based stereoscopic video sequences encoder	2004	-10.634523235799236	-3.7712888551129047	3838699
+3839001	Vision	influence of video quality on multi-view activity recognition	2017	-10.66367564000184	-4.019245025319045	3839028
+3839610	Vision	a novel prediction model for lossless video compression	2011	-10.682016002014034	-3.8809619699079962	3839637
+3840702	Robotics	adaptive interpolation/extrapolation and motion vector processing method for frame rate up conversion	2009	-10.831523633789343	-3.8537499328308633	3840729
+3840786	OS	a perception based bit allocation for 3dtv broadcasting	2018	-10.405534963717749	-3.6739499829495967	3840813
+3841938	ML	multi-view distributed video coding based on discrete cosine	2014	-10.329031163505826	-3.1329756016943437	3841965
+3843491	Vision	modified block truncation coding for image compression	1996	-10.993751782933524	-3.991419230029911	3843518
+3843889	Vision	temporal shape error concealment by global motion compensation with local refinement	2006	-10.544394480605922	-3.8480048677909218	3843916
+3844369	Robotics	template matching for image prediction: a game-theoretical approach	2012	-10.676294056442293	-3.132547966415728	3844396
+3846314	Vision	wyner-ziv coding of light fields for random access	2004	-10.601176885813825	-4.008572662104951	3846341
+3851765	Vision	motion compensated frame rate-up conversion based on multiple frame interpolation algorithm	2011	-10.772166141720577	-3.9590607812909235	3851792
+3851813	Vision	video transcoding based on optimal frame rate estimation	2003	-10.418580628540074	-3.6629057317391913	3851840
+3852632	Robotics	rate-distortion optimization in dynamic mesh compression	2006	-11.023790909642411	-3.4769359906142663	3852659
+3853395	Vision	a matching criterion for motion compensation in the temporal coding of video signal	2011	-10.607253055377072	-3.927192113768896	3853422
+3854005	Vision	a bayesian approach to error concealment in encoded video streams	1996	-10.520180240403816	-3.34555053751309	3854032
+3854559	Vision	shot boundary detection without threshold parameters	2006	-10.456192393935641	-3.85523973609689	3854586
+3854691	Security	a backward compatible hdr encoding scheme	2010	-10.471330869836958	-3.876652810036848	3854718
+3854829	Robotics	improved dynamic rate shaping for h.264/avc video streams	2008	-10.648530624880001	-3.358188608770095	3854856
+3855153	Vision	correlation estimation with particle-based belief propagation for distributed video coding	2011	-11.01977424513844	-3.1720559949079328	3855180
+3856919	Vision	mpeg-7 metadata for video transcoding: motion and difficulty hints	2001	-10.35529820260595	-4.011353715350179	3856946
+3857678	Networks	detection and encoding of occluded areas in very low bit rate video coding	1996	-10.412350905679144	-3.7728813832966015	3857705
+3857868	Vision	compression of vqm features for low bit-rate video quality monitoring	2011	-10.46342494084134	-3.751811676702796	3857895
+3858758	Vision	perception based down sampling for low bit rate image coding	2009	-10.856532205769096	-3.6396483408884985	3858785
+3860245	Vision	an hevc-compliant perceptual video coding scheme based on jnd models for variable block-sized transform kernels	2015	-10.714579811916066	-3.7587823621691614	3860272
+3861470	Robotics	transform domain semi-super resolution	2011	-10.889715213930259	-3.8509888537777366	3861497
+3863045	Robotics	an improved side information generation scheme for wyner-ziv video coding	2010	-11.04019136577765	-3.562813616172595	3863072
+3863173	AI	a performance comparison of block-based matching cost evaluation models for fruc techniques	2011	-11.035273724913184	-3.545350494150968	3863200
+3863650	Graphics	compression efficiency improvement over hevc main 10 profile for hdr and wcg content	2016	-10.580422982793314	-4.0437814706673665	3863677
+3863935	AI	a novel embedding distortion for motion vector-based steganography considering motion characteristic, local optimality and statistical distribution	2016	-10.171943659385613	-3.2379573503633363	3863962
+3864106	Robotics	interplane prediction for rgb video coding	2004	-10.363437126313636	-3.909560517541804	3864133
+3864506	AI	a novel deep learning-based method of improving coding efficiency from the decoder-end for hevc	2017	-10.645579371021274	-3.2466184734075023	3864533
+3867287	Vision	motion hint field with content adaptive motion model for high efficiency video coding (hevc)	2016	-10.815890636064083	-3.707668318739966	3867314
+3868703	Vision	automatic video activity detection using compressed domain motion trajectories for h.264 videos	2011	-10.155421770843029	-3.930209503771701	3868730
+3868723	Robotics	video generation algorithm based on high temporal-resolution imaging	2016	-10.863425094512564	-3.2355289590894443	3868750
+3870490	AI	boundary block-searching algorithm for arbitrary shaped coding	2002	-10.930869202565653	-4.0053083311528646	3870517
+3870566	Vision	multiview and 3d video compression using neighboring block based disparity vectors	2016	-10.727137861464325	-3.755531834482981	3870593
+3871024	Vision	a fast motion estimation method for mpeg-4 arbitrarily shaped objects	2000	-10.8544798148207	-4.024681452874366	3871051
+3871390	Theory	a novel saliency based bit allocation and rdo for hevc	2017	-10.700743856912748	-3.233762218371968	3871417
+3873875	Vision	spatio-temporal scalability using modified mpeg-2 predictive video coding	2000	-10.614725953269863	-3.0958134274540865	3873902
+3874182	Vision	cubic convolution scaler optimized for local property of image data	2015	-11.07309590393816	-3.375833954759782	3874209
+3874831	Robotics	rate control technique based on 3d quality optimization for 3d video encoding	2014	-10.548187726473065	-3.6117637504877247	3874858
+3875333	Robotics	error concealment using layer structure for jpeg2000 images	2002	-10.322869952125801	-3.1223630106988525	3875360
+3875418	Vision	optimal distortion redistribution in block-based image coding using successive convex optimization	2011	-10.98350729044475	-3.7261773859438687	3875445
+3876894	AI	perceptual block merging for quadtree-based partitioning in hevc using disorderly concealment effect	2015	-10.653368208057357	-3.8404079783739085	3876921
+3877553	Vision	dynamic multi-mode switching error concealment algorithm for h.264/avc video applications	2008	-10.51452364170896	-3.1180854361057317	3877580
+3880409	Vision	feature-oriented multiple description image coding	2006	-10.939147287240583	-3.1862724185736893	3880436
+3880906	Robotics	a novel approach for bi-directional motion estimation and compensation	2004	-10.795970097218163	-3.5474497535813363	3880933
+3881582	Vision	rate distortion data hiding of motion vector competition information in chroma and luma samples for video compression	2011	-10.302643447549443	-3.339566985145238	3881609
+3882489	Vision	classification-based motion estimation for video coding	1994	-10.708736635419044	-4.049487511357862	3882516
+3884256	Robotics	adaptive enhancement layer motion compensation for video spatial scalability	2008	-11.063749983279099	-3.4961697792880218	3884283
+3884909	Vision	optimizing multiview video plus depth prediction structures for interactive multiview video streaming	2015	-10.155952125315533	-3.9648722063790034	3884936
+3888181	Vision	robust digital watermark solution for intercoded frames of mpeg video data	2005	-10.492999913341832	-3.5087125539062223	3888208
+3888718	Vision	spatio-temporal prediction in video coding by non-local means refined motion compensation	2010	-11.062291516642835	-3.630258086796812	3888745
+3891725	Vision	a new fast matching method for adaptive compression of stereoscopic images	2015	-10.653198493917392	-3.811066211992882	3891752
+3892333	HPC	synthetic workload generation of broadcast related hevc stream decoding for resource constrained systems	2016	-10.568637147536752	-3.3692413983688008	3892360
+3892460	ML	estimating h.264/avc video psnr without reference - using the artificial neural network approach	2008	-10.468508797726177	-3.972228128208641	3892487
+3895544	Vision	retinex based visual identicalness detection for videos corrupted by imaging noise	2013	-10.746468956911373	-3.6457917397092903	3895571
+3897112	Arch	improvement of h.263 encoding by adaptive arithmetic coding	2000	-10.564230817964075	-3.7442982340578914	3897139
+3897151	Vision	exposing frame deletion by detecting abrupt changes in video streams	2016	-10.201518356667991	-3.8774152824441575	3897178
+3897792	Vision	image coding with robust channel-optimized trellis-coded quantization	2000	-10.822513863782893	-3.425558874626548	3897819
+3897967	Metrics	a variable resolution video codec for low bit-rate applications	1987	-10.481960923074585	-3.5908124015798037	3897994
+3898052	AI	efficient video coding optimization using a novel perceptual distortion model	2011	-10.53280998109554	-3.557968217455169	3898079
+3898425	Robotics	a novel boundary matching algorithm for video temporal error concealment	2016	-10.572834603751076	-3.6431004674887393	3898452
+3899212	Robotics	depth-based adaptive search range algorithm for motion estimation in hevc	2014	-10.717106836091496	-3.4094837484547047	3899239
+3901168	Robotics	motion estimation with adaptive block size for motion-compensated frame interpolation	2012	-10.989557320277969	-3.3073628087463884	3901195
+3901522	AI	effective channel coding for dct watermarks	2000	-11.026414697937009	-3.7108244049624095	3901549
+3901925	Vision	an analytical study of jpeg 2000 functionalities	2000	-10.432109759273883	-3.237104548946772	3901952
+3903300	Graphics	an efficient information hiding method based on motion vector space encoding for hevc	2017	-10.329124374057406	-3.277272323974296	3903327
+3905318	Vision	motion compensated frequency selective extrapolation for error concealment in video coding	2008	-10.404474668173537	-3.368696967645954	3905345
+3905448	Vision	rate allocation for motion compensated jpeg2000	2018	-10.783604321872776	-3.481246818138783	3905475
+3905918	Vision	hevc encoder optimization for hdr video coding based on irregularity concealment effect	2018	-10.575988367500527	-4.013810725748359	3905945
+3906814	Vision	down-/up-sampling based depth coding by utilizing interview correlation	2015	-10.793214798789684	-4.019877885611761	3906841
+3909300	Vision	implementation of dwt-based adaptive mode selection for lcd overdrive	2011	-10.798241436769633	-3.478675830422905	3909327
+3909611	Vision	interpolated candidate motion vectors for boundary matching error concealment technique in video	2006	-10.559923931532909	-3.4815488701731963	3909638
+3909791	Robotics	a robust h.264 decoder with error concealment capabilities	2004	-10.446412402390363	-3.195844739171071	3909818
+3910020	Graphics	depth-based motion vector prediction in 3d video coding	2012	-10.577699504406244	-3.6253677315765938	3910047
+3914441	Vision	frame rate up-conversion using motion vector angular for occlusion detection	2015	-10.769478679785003	-3.977756642608965	3914468
+3914598	Vision	interview motion compensated joint decoding for compressively sampled multiview video streams	2017	-10.776245614828783	-3.2775617619552566	3914625
+3915240	Vision	a concealment based approach to distributed video coding	2008	-10.910318737512652	-3.1365743954673637	3915267
+3916270	Vision	adaptive lossless video compression using an integer wavelet transform	2004	-10.835561775360901	-3.921324372311041	3916297
+3916771	Robotics	refinement of the pixel-based motion vector extrapolation in h.264 video	2012	-10.61522521659298	-3.4846495807947	3916798
+3917680	Vision	fast motion estimation with dual search window for stereo 3d video encoding	2011	-10.546062864593011	-3.425885766661477	3917707
+3918810	Visualization	temporal error concealment algorithm by recursive block-matching principle	2005	-10.522874847767307	-3.435142570445373	3918837
+3919633	Vision	rate and quality control with embedded coding for mobile robot with visual patrol	2012	-10.173938920268066	-3.8430004586052413	3919660
+3921302	Vision	rate and complexity-aware coding scheme for fixed-camera videos based on region-of-interest detection	2017	-10.831142352065106	-3.1141709529937582	3921329
+3922889	Vision	moving object detection in the h.264/avc compressed domain for video surveillance applications	2009	-10.75495756322298	-3.4160934595554684	3922916
+3924148	Vision	an efficient anaglyph stereo video compression pipeline	2013	-10.399646993206117	-3.7500093411290814	3924175
+3924291	Vision	automatic, efficient, temporally-coherent video enhancement for large scale applications	2009	-10.59407033544078	-3.878864271997918	3924318
+3924537	Mobile	simultaneous encoder for high-dynamic-range and low-dynamic-range video	2016	-10.454105186551349	-4.0286207489575565	3924564
+3924971	Mobile	application-aware approach to compression and transmission of h.264 encoded video for automated and centralized transportation surveillance	2013	-10.208532221559835	-3.279839154869268	3924998
+3925705	Vision	motion compensated multiresolution transmission of hd video using multistage quantizers	1993	-11.010313919947544	-3.83829529157668	3925732
+3926949	Vision	perceptually adaptive rate-distortion optimization for variable block size motion alignment in 3d wavelet coding	2005	-10.848890961019157	-3.9614222489070534	3926976
+3927240	Logic	noisy motion vector elimination by bi-directional vector-based zero comparison	2010	-10.562362917608413	-4.008665156370828	3927267
+3927495	Vision	edge-directed error concealment	2010	-10.671678709428368	-3.7594719701887698	3927522
+3928023	ML	scene-cut processing in motion-compensated temporal filtering	2005	-10.741900862450292	-3.7564009196738137	3928050
+3928133	Robotics	toward an optimal residual frame coding for dwt based video codec	2009	-10.816766038412647	-3.5011178679067188	3928160
+3928350	Vision	single-object-based segmentation and coding technique for video surveillance system	2009	-10.452735663672943	-3.98524492254364	3928377
+3928691	Robotics	a perceptual-based rate control for hevc	2016	-10.544993128742119	-3.970034597125368	3928718
+3929695	Vision	analysis of a two step mpeg video system	1997	-10.421893608212137	-3.4809178860729806	3929722
+3930906	Robotics	evaluation of techniques for modeling of layered motion structure	2006	-10.978039574165424	-3.4978871255546937	3930933
+3931103	Vision	an efficient rate-distortion analysis model for mpeg video	2003	-11.09165337455655	-3.196793065915766	3931130
+3933319	Vision	perceptually-adaptive motion compensated temporal filtering	2006	-10.965117541009803	-3.8263657419537003	3933346
+3935151	Graphics	a review on block matching motion estimation and automata theory based approaches for fractal coding	2016	-10.785732056820166	-3.3533319072997876	3935178
+3935848	Vision	2d+t wavelet domain video watermarking	2012	-10.923765719034726	-3.8127875859502285	3935875
+3936566	AI	deep convolutional neural network for decompressed video enhancement	2016	-10.906288842837565	-3.991340356156509	3936593
+3937538	Vision	error concealment of multi-view video sequences using inter-view and intra-view correlations	2009	-10.59052606561892	-3.4637443461744	3937565
+3937565	Robotics	novel frame rate up-conversion algorithm based on prediction and recursive search	2015	-10.890686880512824	-3.4628159120150266	3937592
+3937851	AI	block-layer bit allocation for quality constrained video encoding based on constant perceptual quality	2013	-10.703854852584048	-3.1577765845151515	3937878
+3938343	Robotics	superpixel-based segmentation of moving objects for low bitrate roi coding systems	2013	-10.442285380214198	-3.773493279511436	3938370
+3939035	Graphics	colorization-based inter-plane prediction algorithm for high-fidelity color image compression	2012	-10.789235172115118	-3.652286168985533	3939062
+3940780	Robotics	joint complexity and rate optimization for 3dtv depth map encoding	2013	-10.671933889398558	-3.468208984240343	3940807
+3941186	HPC	improving image compression — is it worth the effort?	2000	-10.171816979689682	-3.746733568727592	3941213
+3942038	Robotics	cnn based post-processing to improve hevc	2017	-10.612487009085656	-3.7747582223888423	3942065
+3942187	Visualization	region-aware 3-d warping for dibr	2016	-10.676094656403212	-3.7625585311323766	3942214
+3943615	Mobile	rate control for screen content coding based on picture classification	2015	-10.500937887864882	-3.1698355520229744	3943642
+3946799	Robotics	mesh-based decoder-side motion estimation	2010	-10.772273359266391	-3.828324644276969	3946826
+3948025	Vision	progressive dictionary learning with hierarchical predictive structure for low bit-rate scalable video coding	2017	-10.835412258148404	-3.1186407499110285	3948052
+3950919	Vision	bayesian high-resolution reconstruction of low-resolution compressed video	2001	-11.045758248822608	-3.785593472260641	3950946
+3950960	EDA	a video output method for h.265/hevc video and audio ip transmission and its qoe	2018	-10.372009002234398	-3.2084907377968634	3950987
+3951829	Vision	improving feedback-integrated scene cancellation nonuniformity correction through optimal selection of available camera motion	2014	-10.872725178589096	-4.014852152715803	3951856
+3951940	Vision	a motion-augmented super-resolution scheme for very low-bit-rate video enhancement	2005	-10.622928968321926	-3.8515136287351943	3951967
+3952848	EDA	an error propagation free data hiding algorithm in hevc intra-coded frames	2013	-10.889758984960576	-3.095808981130871	3952875
+3952901	Robotics	object-based surveillance video compression using foreground motion compensation	2006	-10.32369482460551	-3.540590942524449	3952928
+3956931	Mobile	trade-offs between optimality and validity in probabilistic routing for mobile multi-hop networks	2008	-10.774845272925617	-3.4481321293120866	3956958
+3958547	AI	an efficient hybrid distributed video coding	2008	-11.048733395366172	-3.2181387128456604	3958574
+3959294	Robotics	incorporating depth-image based view-prediction into h.264 for multiview-image coding	2007	-10.579559018295225	-4.019487120044532	3959321
+3960339	Robotics	efficient scalable distributed video coding based on residual sw-spiht	2008	-10.82548327279948	-3.1074934812419523	3960366
+3963678	Vision	bit-depth scalable video coding based on h.264/avc	2008	-10.791531067084751	-3.582541947017833	3963705
+3964786	AI	a simple reversed-complexity wyner-ziv video coding mode based on a spatial reduction framework	2007	-11.021536641444238	-3.26630587279698	3964813
+3964970	Robotics	adaptive source representation for distributed video coding	2009	-10.913385650029895	-3.17990751083355	3964997
+3965983	Vision	multiframe-based bilateral motion estimation with emphasis on stationary caption processing for frame rate up-conversion	2008	-10.821397946559292	-3.838559958007048	3966010
+3967936	AI	image compression with xvc	2018	-11.087556603332294	-3.837640992710893	3967963
+3968239	Robotics	enhanced frame rate up-conversion method for uhd video	2010	-10.786025058347981	-3.5136460058983188	3968266
+3970500	Vision	local binary pattern based fast digital image stabilization	2015	-11.077803792256756	-3.3752326556589085	3970527
+3974319	Vision	spatio-temporal compression of the motion field in video coding	2001	-10.8733998164091	-3.1866043630696144	3974346
+3974471	Vision	data hiding of motion information in chroma and luma samples for video compression	2010	-10.302160574671786	-3.2970037706799102	3974498
+3975340	Vision	modified block matching algorithm improving rate-distortion performance for stereoscopic image coding	2015	-11.095125649094674	-3.2839229653667883	3975367
+3975421	Vision	compatible stereo video coding with adaptive prediction structure	2011	-10.610842736690874	-3.618073628861431	3975448
+3975628	Vision	kalman filtering based motion estimation for video coding with adaptive block partitioning	2008	-11.07675637786788	-3.409668735860944	3975655
+3975869	Robotics	masking of transformed intra-predicted blocks for high quality image and video coding	2014	-10.6331029160079	-3.3854971166457237	3975896
+3976356	Robotics	multi-view video coding using view interpolation and reference picture selection	2006	-10.719342320916775	-3.9657913624539214	3976383
+3978648	Vision	video super-resolution using codebooks derived from key-frames	2012	-10.7796384350874	-3.9193505309602767	3978675
+3980119	EDA	motion compensation in block dct coding based on perspective warping	1996	-10.884481512166312	-3.7457527182797135	3980146
+3980589	Vision	blast-dvc: bitplane selective distributed video coding	2009	-10.750925077817037	-3.1048453090885157	3980616
+3980837	Robotics	hierarchical requantization of depth data for 3d visual communications	2012	-10.957674010146567	-3.3277271617636095	3980864
+3981092	Robotics	low-complexity video compression combining adaptive multifoveation and reuse of high-resolution information	2006	-10.59299476344983	-3.816721375194079	3981119
+3981268	Robotics	variable block-based deblocking filter for h.264/avc	2007	-10.948005895433498	-3.8218265224208703	3981295
+3981488	AI	improving the performance of mpeg compatible encoders using on line retrainable neural networks	1997	-10.781713284611387	-3.2894984542485988	3981515
+3983790	Vision	a block-based background model for video surveillance	2008	-10.398744914537444	-3.979138140148425	3983817
+3984214	Vision	recovery of lost color and depth frames in multiview videos	2018	-10.631610762097383	-3.9546182256866977	3984241
+3984470	Vision	rate control of a region-based h.263 video codec under time-varying channels	1999	-10.739721905971631	-3.2205026264754237	3984497
+3984733	Robotics	h.264/avc-based depth map sequence coding using improved loop-filter	2009	-10.689742129566834	-3.617468786137041	3984760
+3985554	Vision	hybrid video compression using selective keyframe identification and patch-based super-resolution	2011	-10.539552411338699	-3.935446345846112	3985581
+3988512	Vision	analytics-modulated coding of surveillance video	2010	-10.286428790597839	-3.6638523767070286	3988539
+3989313	Robotics	motion vector processing using the color information	2009	-10.629860760914429	-3.7874159231837847	3989340
+3989979	Vision	dual motion estimation for frame rate up-conversion	2010	-10.860097932116725	-3.5719871813795816	3990006
+3990310	Theory	spatial error concealment with low complexity in the h.264 standard	2006	-10.95613243132474	-3.4397521569752625	3990337
+3991286	EDA	lossless implementation of motion jpeg2000 integrated with invertible deinterlacing	2005	-11.008048145037797	-3.56970739009206	3991313
+3993333	EDA	rectification-based view interpolation and extrapolation for multiview video coding	2011	-10.844370473146428	-3.5030308986839986	3993360
+3993776	Networks	an end-to-end video quality metric considering impacts from both encoding and transmission	2011	-10.310657923879225	-3.1899093151159303	3993803
+3995162	Vision	the motion transform: a new motion compensation technique	1996	-11.097037350968222	-3.7067883713098375	3995189
+3995591	Robotics	frame rate up-conversion based on dual criterion motion estimation and motion vector adjustment	2015	-10.814216558210518	-3.899831446116536	3995618
+3995730	Vision	kalman filter-based error concealment for video transmission	2009	-10.835259676196197	-3.427037227107678	3995757
+3997820	Robotics	ldr images generation with jpeg-xt decoded hdr images	2016	-10.60203496559395	-3.9467114330930064	3997847
+3998677	Visualization	error resilient video coding using b pictures in h.264	2009	-10.604834724744363	-3.2716574512850207	3998704
+4000036	EDA	distributed video coding based on adaptive binning	2006	-11.05459811649184	-3.129373190291921	4000063
+4000699	Vision	enabling arbitrary rotational camera motion using multisprites with minimum coding cost	2006	-10.50013642787984	-3.740025989146367	4000726
+4002506	Vision	predictor selection using quantization intervals in jpeg2000-based scalable interactive video (jsiv)	2010	-10.23253560821189	-3.364277517336141	4002533
+4002944	Vision	on the side-information dependency of the temporal correlation in wyner-ziv video coding	2009	-11.042705070758258	-3.2207911981757005	4002971
+4004983	Vision	a new content-based hybrid video transcoding method	2001	-10.68917751963274	-3.5364220919491185	4005010
+4005522	Vision	spatio-temporal selective extrapolation for 3-d signals applied to concealment in video communications	2006	-10.815030092072515	-3.818054918658027	4005549
+4005662	AI	structure-driven adaptive non-local filter for high efficiency video coding (hevc)	2016	-10.906500530252172	-3.6482792511601407	4005689
+4006555	Robotics	content-adaptive macroblock partitioning scheme for error concealment of h.264/avc coded video	2009	-10.541553823996212	-3.3793027912229734	4006582
+4007617	AI	wyner-ziv coding of depth maps exploiting color motion information	2013	-10.657991048261355	-3.4871090021011053	4007644
+4008114	EDA	a cascaded map-based linear prediction (cmap-lp) error concealment technique for consecutive block losses	2001	-10.88437486732258	-3.819084415436637	4008141
+4008267	Robotics	a differential motion estimation method for image interpolation in distributed video coding	2009	-10.974565725639401	-3.2175595952865583	4008294
+4011181	AI	distributed video coding with block mode decision to reduce temporal flickering	2013	-10.781989289549621	-3.19484826922413	4011208
+4011218	Vision	scalable stereo video coding for heterogeneous environments	2004	-10.617115018532393	-3.1805185664617666	4011245
+4013240	Vision	prediction method for image coding quality based on differential information entropy	2014	-10.720787399637912	-3.8316097453975	4013267
+4014485	Vision	optimised selection of structure of pictures for video coding	2016	-10.918449412574684	-3.2874441597511743	4014512
+4016419	Vision	interlaced-to-progressive conversion using adaptive projection-based global and representative local motion estimation	2008	-10.892166157654732	-3.9771378913159854	4016446
+4016958	Robotics	joint temporal-spatial error concealment for multiple description video coding	2010	-10.625848275451993	-3.3145879066499395	4016985
+4017009	Vision	block-based motion field segmentation for video coding	2005	-10.851142188501736	-3.8317517449150422	4017036
+4017735	Vision	subjective assessment of frame loss concealment methods in 3d video	2010	-10.230315982204587	-3.6505649674355847	4017762
+4018707	Graphics	embedded video compression with error resilience and error concealment	2002	-10.627941978596617	-3.259475387585628	4018734
+4018723	Vision	leveraging decoded hevc motion for fast, high quality optical flow estimation	2017	-10.646878156010953	-3.766330853118288	4018750
+4019716	Robotics	non-iterative coding tree depth estimation for h.265/hevc using neighboring block information	2015	-11.064661617746651	-3.379408935295777	4019743
+4020215	EDA	reversible data hiding in highly efficient compression scheme	2009	-10.21972898541834	-3.7118158631564033	4020242
+4021803	HPC	scalable mpeg-4 storage framework with low bit-rate meta-information	2004	-10.213558511038556	-3.1099500963229416	4021830
+4022349	Vision	moving object counting using a tripwire in h.265/hevc bitstreams for video surveillance	2016	-10.278212806953283	-3.790458363081088	4022376
+4022445	Robotics	“voodoo” error prediction for bit-depth scalable video coding	2009	-10.559515595516336	-3.279300743138499	4022472
+4023209	Vision	finding a tradeoff between compression and loss in motion compensated video coding	2012	-11.013433368457827	-3.9370411658962983	4023236
+4023310	HCI	optimizing video compression using robust parameter design	2001	-10.550284492258367	-3.4616986303910164	4023337
+4023388	Visualization	classified zerotree wavelet image coding and adaptive packetization for low-bit-rate transport	2001	-10.758775998135102	-3.1843011758515387	4023415
+4025631	Vision	accuracy and power consumption tradeoffs in video rate adaptation for computer vision applications	2012	-10.371295098754064	-3.3850353809200384	4025658
+4026953	Vision	novel video coding scheme using adaptive mesh-based interpolation and node tracking	2000	-11.083580404564602	-3.6854668022030688	4026980
+4027672	HCI	improving screen content coding in hevc by transform skipping	2012	-10.255412781468776	-3.412385256774562	4027699
+4027848	Vision	mesh-based motion-compensated interpolation for side information extraction in distributed video coding	2006	-10.87293060725846	-3.612083447178494	4027875
+4029770	Robotics	exploring visual temporal masking for video compression	2013	-10.379832868238452	-3.6517120361111832	4029797
+4032959	Vision	a survey of multimedia compression techniques and standards. part i: jpeg standard	1995	-10.599695715767238	-3.6584109297884497	4032986
+4033991	Robotics	conversational video communication of h.264/avc with region-of-interest concern	2006	-10.456202875332533	-3.4394872627990662	4034018
+4037027	Vision	computer vision in next generation image and video coding	1995	-10.241543422076283	-3.404824166663686	4037054
+4037694	Robotics	motion vector processing based on residual energy information for motion compensated frame interpolation	2006	-10.840456547069962	-3.165077093981203	4037721
+4038198	Vision	estimating laplacian parameters of dct coefficients for requantization in the transcoding of mpeg-2 video	2000	-11.030043316465274	-3.8765130666723744	4038225
+4039755	Vision	constrained-random bitstream generation for h.264/avc decoder conformance test	2010	-10.597250901288113	-3.121228255693464	4039782
+4040271	Theory	estimation of edge direction for block error concealment using hypothesis testing problem	2007	-10.463378149949063	-3.692795474659624	4040298
+4042622	Vision	an adaptive spatial error concealment for h.264/avc video stream.	2008	-10.472362980038065	-3.516790449695689	4042649
+4044609	Vision	high-definition three-dimensional television disparity map computation	2012	-10.804977370487423	-3.9982821050762163	4044636
+4044896	Robotics	compression of 10-bit video using the tools of mpeg-2	1995	-11.004712255084753	-3.4975467289109585	4044923
+4046808	Robotics	enhanced prediction for motion estimation in scalable video coding	2010	-10.860307741343595	-3.190900790570929	4046835
+4048107	Vision	adaptive image coding with robust channel-optimized trellis-coded quantization	2000	-10.690185974815764	-3.203034889996156	4048134
+4048158	Vision	research on adaptive error concealment for video transmission over packet-lossy channel	2007	-10.314544212833752	-3.256136455335709	4048185
+4048402	Vision	adaptive arbitration of intra-field and motion compensation methods for de-interlacing	2009	-10.69395138196784	-3.677543000781717	4048429
+4049448	Graphics	flexible coding order for 3d video extension of h.265/hevc	2013	-10.675403277043603	-3.5487157484644944	4049475
+4049966	Robotics	idempotent h.264 intraframe multi-generation coding	2009	-10.9197915063386	-3.10312594371409	4049993
+4050528	AI	video coding with virtual set partitioning in hierarchical tree	2002	-11.085589118424672	-3.822129391746796	4050555
+4051147	Vision	bin classification using temporal gradient estimation for lossless video coding	2014	-10.918021392604363	-3.685428785457696	4051174
+4053176	Vision	voting-based motion estimation for real-time video transmission in networked mobile camera systems	2013	-10.156242524869345	-3.856660604797375	4053203
+4053198	Vision	accurately weighting subbands in temporal wavelet transform	2006	-10.932069466709411	-3.4745562861135943	4053225
+4053353	Vision	deinterlacing using hierarchical motion analysis	2010	-10.984547255662953	-3.5057672357628764	4053380
+4053471	Robotics	modeling of mpeg video sequence based on mixture-exponential	2006	-10.737222830069733	-3.5153273000111036	4053498
+4055237	SE	motion vector data decoding using spatial-temporal source redundancy	2007	-10.966402300111037	-3.099866137169056	4055264
+4058175	Vision	cross-color channel perceptually adaptive quantization for hevc	2017	-10.648055882186377	-3.439105623223825	4058202
+4058394	EDA	block merging for quadtree-based partitioning in hevc	2012	-10.906350095690177	-3.1567458646610875	4058421
+4059254	Vision	content-aware video adaptation under low-bitrate constraint	2007	-10.18757017417792	-3.3512970772469752	4059281
+4060281	Robotics	a new bit rate estimation scheme for a subclassified video content using hierarchical clustering in iptv services	2012	-10.567315736237413	-3.5216251759370967	4060308
+4060791	Vision	video error concealment using a computation-efficient low saliency prior	2013	-10.387035802700169	-3.7087898201768703	4060818
+4061951	Vision	residual highway convolutional neural networks for in-loop filtering in hevc	2018	-10.966422325996973	-3.2825686451932743	4061978
+4062837	Arch	coding efficiency improvement by wavelet super-resolution restoration for 8k uhdtv broadcasting	2017	-10.832922461985476	-3.464776125048611	4062864
+4064186	Robotics	backward drift estimation with application to quality layer assignment in h.264/avc based scalable video coding	2007	-11.02878736439791	-3.121795929493233	4064213
+4064695	Vision	fast motion compensation algorithm for video sequences with local brightness variations	2000	-10.993417279545092	-3.5878283343234187	4064722
+4064756	HPC	a data hiding scheme with high quality for h.264/avc video streams	2018	-10.328238355727693	-3.3871426531874405	4064783
+4065285	Robotics	textural complexity-based rate control algorithm	2008	-10.940539452015177	-3.1107474305169127	4065312
+4065975	AI	spatially scalable video coding with an efficient two-layered architecture	2009	-10.809870241598336	-3.3109755222406156	4066002
+4066326	Visualization	a packetized spiht algorithm with overcomplete wavelet coefficients for increased robustness	2006	-10.86394651185188	-3.2757620732921677	4066353
+4066871	Vision	an adaptive interpolation scheme for inter-layer prediction	2008	-11.053520183770628	-3.3327715454953952	4066898
+4067640	HCI	spatially refined inter-sequence error concealment for a multi-broadcast receiver using frequency selective approximation	2010	-10.770493660201296	-3.5560968946623186	4067667
+4068666	Vision	coding block-level perceptual video coding for 4:4:4 data in hevc	2017	-10.48768230076465	-3.8807520361749335	4068693
+4068709	Vision	distributed multi-hypothesis coding of depth maps using texture motion information and optical flow	2013	-10.686370476648918	-3.842179129175053	4068736
+4070209	Vision	fast global motion estimation based on local motion segmentation	2003	-10.882228080956821	-3.621326150644677	4070236
+4070272	Vision	slice error concealment based on size-adaptive ssim matching and motion vector outlier rejection	2011	-10.659975159627534	-3.6329923531548785	4070299
+4072672	Vision	temporally adaptive motion interpolation exploiting temporal masking in visual perception	1994	-10.615197182240609	-3.3849179825063884	4072699
+4074988	Visualization	partial depth image based re-rendering for synthesized view distortion computation	2018	-10.686265201915262	-3.710851580284523	4075015
+4076200	Robotics	lord: low-complexity, rate-controlled, distributed video coding system	2012	-10.983368194770463	-3.098836114891491	4076227
+4077278	Visualization	frame-rate up-conversion using reliable analysis of transmitted motion information	2004	-10.829914570714203	-3.475177440379036	4077305
+4077735	Vision	progressive image transmission using significant features and linear regression prediction	2006	-10.176676100236254	-3.8669045422637978	4077762
+4085487	Vision	super resolution of video using key frames	2008	-10.7878458541739	-3.6999524024566366	4085514
+4086468	Vision	motion-energy-based unequal error protection for h.264/avc video bitstreams	2015	-10.622497907435347	-3.3435312903641945	4086495
+4088250	AI	perception-based adaptive quantization for transform-domain wyner-ziv video coding	2016	-11.034156561309306	-3.393211860846986	4088277
+4088747	Vision	convolutional neural network-based block up-sampling for intra frame coding	2018	-10.869058784589514	-3.665104017083866	4088774
+4088868	Vision	adaptive scheme for classification of mpeg video frames	2002	-10.712001944130712	-3.6189316002804905	4088895
+4089956	Embedded	temporal-snr rate-control for fine-granular scalability	2001	-10.148652059623373	-3.642218708039033	4089983
+4090714	AI	joint video/depth rate allocation for 3d video coding based on view synthesis distortion model	2009	-10.822726038324516	-3.3454248511525058	4090741
+4091528	Vision	mpeg interlaced video transcoding for a networked video browsing system	2004	-10.677920785080003	-3.744086369958648	4091555
+4093248	Vision	low complexity encoder for feedback-channel-free distributed video coding using deep convolutional neural networks at the decoder	2016	-10.948624572320206	-3.3380683864082026	4093275
+4093573	Vision	low-complexity 3d-dwt video encoder applicable to iptv	2011	-10.55170713478738	-3.688632848844277	4093600
+4095451	Graphics	manipulating temporal dependencies in compressed video data with applications to compressed-domain processing of mpeg video	1999	-10.407480176699341	-3.706532608760592	4095478
+4096704	Robotics	region-based perceptual quality regulable bit allocation and rate control for video coding applications	2012	-10.592851814810384	-3.218369752719636	4096731
+4096719	Robotics	efficient block-based intra prediction for image coding with 2d geometrical manipulations	2008	-10.894449501805395	-3.7775503572203113	4096746
+4096849	Robotics	frame interpolation method based on adaptive threshold and adjacent pixels	2010	-10.75371758423013	-3.956779420384014	4096876
+4099963	ML	block coding for television at 34 mbit/s	1991	-10.9271707328965	-4.001263599187928	4099990
+4101524	Vision	temporal trajectory filtering for bi-directional predicted frames	2011	-10.847905496916184	-3.256811751335308	4101551
+4101859	Vision	an efficient frame loss error concealment scheme based on tentative projection for h.264/avc	2010	-10.575525160841542	-3.4422213449490804	4101886
+4102872	AI	cluster-based cross-view filtering for compressed multi-view depth maps	2016	-10.686353568339893	-3.9887956087036858	4102899
+4103083	SE	emerging video coding performance: 4k quality monitoring	2017	-10.370386082779538	-3.848278536076865	4103110

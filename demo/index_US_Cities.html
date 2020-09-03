@@ -1,0 +1,574 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+</meta>
+<title>Creating Data: The Alperin-Sheriff/Wikipedia Population dataset</title>
+
+<script src="https://d3js.org/d3-selection.v1.min.js"></script>
+<script>
+  var select = d3.select;
+</script>
+
+<link rel="stylesheet" href="./mapNarrative.css">
+
+<body>
+  <nav class="navbar navbar-expand-md navbar-light bg-light fixed-top">
+
+    <a class="navbar-brand" href="/">Creating Data</a>
+    <a class="d-none d-xl-block">The Invention of Information in the American State, 1850-1950</a>
+
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown1" role="button" data-toggle="dropdown"
+            aria-haspopup="true" aria-expanded="false">Sections</a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown1">
+            <a class="nav-link" href="#">No content here yet.</a>
+            <a class="nav-link" href="#">Oceans</a>
+            <a class="nav-link" href="#">Population</a>
+            <a class="nav-link" href="#">Knowledge</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
+            aria-haspopup="true" aria-expanded="false">Datasets</a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <a class="dropdown-item" href="/datasets/US-cities/">City Populations</a>
+            <a class="dropdown-item" href="#">Land plots</a>
+            <div class="dropdown-divider"></div>
+            <a class="dropdown-item" href="/datasets/hathi-vectors/">Hathi Library Vectors</a>
+          </div>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="http://benschmidt.org">By Ben Schmidt</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/acknowledgements">Acknowledgements</a>
+        </li>
+      </ul>
+      </form>
+    </div>
+    <div class="btn-group" role="group" aria-label="Basic example">
+      <button class="btn btn-outline-primary mode-setter my-2 my-sm-0" type="submit" mode="narrative"
+        id="narrative-label">
+        <span>📖</span>
+        <span class="d-none d-md-inline">Read</span>
+      </button>
+      <button class="btn btn-outline-success mode-setter my-2 my-sm-0" mode="interactive" type="submit"
+        id="interactive-label">
+        <span>✎</span>
+        <span class="d-none d-md-inline">Interact</span>
+      </button>
+    </div>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+      aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+  </nav>
+
+  <div id="prologue">
+    <h1>The Alperin-Sheriff/Wikipedia Population dataset</h1>
+  </div>
+
+  <div id="body">
+    <div class="scrollership" data-scroller-type="map">
+      <div class="chunk">
+        <p>This is a narrative description of the city populations dataset I’ve assembled for the <em>Creating Data</em>
+          project. The headline here is: Wikipedia editors have created a much more comprehensive database of American
+          city and town populations than historians have had to this point.</p>
+        <p>I’m writing it up separately and releasing it before any other components of the project for two reasons.
+          First, the data is useful: there are a wide variety of fields where a more comprehensive, long-term database
+          of city sizes is useful, and I’ve already spoken to a few people for whom it might be useful. (If you wish to
+          download the data, you can do it <a href="https://github.com/CreatingData/Historical-Populations">from the
+            github site for this dataset.</a>)</p>
+        <p>Second, I wanted to use it to try a beta launch for some of the narrative display elements of this project.
+          I’m trying something here that’s a central part of the full project: finding ways to explore through
+          historical data that allow both narrative and exploratory data analysis.</p>
+        <p>Note that it’s still missing plenty of pieces, such as a loading bar! But if you want to see tens of
+          thousands cities dancing around the screen, this is the right place…</p>
+        <p>The left side of this page is narration: the right lets you poke around this dataset as you please. If you
+          want to free up the full page for the map, there’s a bar to contract at the right edge of the text block.
+          Otherwise, scroll down for a walk through the data. If you don’t eventually see a map load, let me know.</p>
+        <pre class="api"><code>{
+   &quot;year&quot;: 2010,
+   &quot;filters.Cities&quot;: &quot;d =&gt; return d.properties.populations.cesta[&#39;2000&#39;] &gt; 50000&quot;,
+   &quot;drawing&quot;: [&quot;StateLines&quot;, &quot;ExternalLines&quot;, &quot;Cities&quot;],
+   &quot;duration&quot;: 3000,
+   &quot;changeOffset&quot;: 20,
+   &quot;scales.fill.Cities&quot;: &quot;change&quot;,
+   &quot;getters.fill.Cities&quot;: &quot;populationChange&quot;,
+   &quot;getters.size.Cities&quot;: &quot;population&quot;,
+   &quot;scales.size.Cities&quot;: &quot;size&quot;
+  }</code></pre>
+      </div>
+      <div class="chunk">
+        <p>The initial page of this page showed all cities United States with a population over 50,000; there are
+          several hundred in the primary dataset I’m using for this, created by Stanford’s CESTA. But the CESTA dataset,
+          which I thought for several years was the best in existence, contains about 7,500 cities and towns across the
+          country with populations going back, in many cases, 1790. This data uses a broad definition of “place” before
+          1940, and something approximating the current census-designated-place afterwards.</p>
+        <pre class="api"><code>{
+  &quot;year&quot;: 2010,
+  &quot;filters.Cities&quot;: &quot;d =&gt; return d.properties.popSources.indexOf(&#39;cesta&#39;) &gt; -1&quot;,
+  &quot;duration&quot;: 3000
+  }</code></pre>
+      </div>
+      <div class="chunk">
+        <p>This dataset is both good and well-vetted; it comes from cooperation between Stanford and Census bureau
+          itself, and can be used for a variety of purposes. Here, for example, you can the population change over the
+          1950s and 1960s as the major urban centers of the industrial midwest (Detroit, Cleveland, Chicago, St. Louis)
+          lose population even as their suburbs grow dramatically.</p>
+        <pre class="api"><code>{
+   &quot;year&quot;: 1970,
+   &quot;duration&quot;: 3000,
+   &quot;zoom.Cities&quot;:[&quot;Buffalo, New York&quot;, &quot;St. Louis&quot;],
+   &quot;scales.fill.Cities&quot;: &quot;change&quot;,
+   &quot;getters.fill.Cities&quot;: &quot;populationChange&quot;,
+   &quot;getters.size.Cities&quot;: &quot;population&quot;,
+   &quot;scales.size.Cities&quot;: &quot;size&quot;,
+   &quot;annotate.Cities&quot;:[&quot;Detroit&quot;, &quot;Cleveland&quot;, &quot;Chicago&quot;]
+  }</code></pre>
+      </div>
+      <div class="chunk">
+        <p>But it turns out to be far from the best possible. From reading nineteenth census reports, I knew that the
+          published government figures included up to dozens of summary population statistics for each county. I noticed
+          last year that these were starting to turn up on Wikipedia for towns much smaller than any of the published
+          datasets contain. Here is the Wikipedia page for Montville, Maine, a small town with about 1,000 people.
+          Wikipedia has long had <em>current</em> census information on places like this. But now it has the population
+          from Montville’s year of peak population, 1840. This is information no one has been willing to pay to type up
+          from the original census reports–not even Stanford and the US government.</p>
+        <figure>
+          <img src="/images/Montville.png" alt="Montville, Maine" style="width:100.0%" />
+          <figcaption>Montville, Maine</figcaption>
+        </figure>
+        <p>Nationwide, CESTA only includes information for cities with a population over 2,500: Montville never reached
+          this threshold, and so doesn’t appear. So how much of this stuff is in Wikipedia? And how does it compare to
+          what academics have right now?</p>
+        <pre class="api"><code>{
+   &quot;year&quot;: 2010,
+   &quot;duration&quot;: 3000,
+   &quot;zoom.States&quot;: [&quot;AK&quot;,&quot;ME&quot;,&quot;FL&quot;,&quot;WA&quot;],
+   &quot;getters.fill.Cities&quot;: &quot;populationChange&quot;,
+   &quot;getters.size.Cities&quot;: &quot;population&quot;,
+   &quot;labels.legendTitle&quot;: &quot;undefined&quot;
+  }</code></pre>
+      </div>
+      <div class="chunk">
+        <p>There <em>are</em> a few states where the CESTA dataset has information for small towns. In Arkansas, Iowa,
+          California, and Colorado it includes full runs of populations entered by <em>state</em> data centers
+          interested in their own history. You can see how much better the resolution on those states is by comparing
+          them (in green) to the rest of the country (in blue). (While before cities were sized by population, in this
+          version of the map they’re all the same size.)</p>
+        <pre class="api"><code>{
+  &quot;filters.Cities&quot;: &quot;d =&gt; return d.properties.popSources.indexOf(&#39;cesta&#39;) &gt; -1&quot;,
+  &quot;scales.fill.Cities&quot;: &quot;&lt;cat&gt;&quot;,
+  &quot;getters.size.Cities&quot;: &quot;d =&gt; return 1500&quot;,
+  &quot;getters.fill.Cities&quot;: &quot;d =&gt; return d.properties.popSources.indexOf(&#39;cesta&#39;) == -1 ? &#39;Only Wikipedia&#39; : [&#39;IA&#39;,&#39;CO&#39;,&#39;AR&#39;,&#39;CA&#39;].indexOf(d.properties.state) &gt; -1 ? &#39;CESTA detailed states&#39; : &#39;CESTA other states&#39;&quot;,
+  &quot;labels.legendTitle&quot;: &quot;Data Source&quot;
+  }</code></pre>
+      </div>
+      <div class="chunk">
+        <p>But Wikipedia has a comparable level of coverage for the entire country, which is what makes it such a
+          remarkable source. Here, in orange, are all the cities that exist in Wikipedia and not in the existing sets.
+          This is more than three times as many cities and towns. The midwest comes alive; suddenly, you can essentially
+          see the rail lines running through Missouri and Kansas themselves, as well as thecities that the railroads
+          built up on themselves.</p>
+        <pre class="api"><code>{
+      &quot;filters.Cities&quot;: &quot;undefined&quot;,
+      &quot;scales.fill.Cities&quot;: &quot;&lt;cat&gt;&quot;,
+      &quot;getters.fill.Cities&quot;: &quot;d =&gt; return d.properties.popSources.indexOf(&#39;cesta&#39;) == -1 ? &#39;Only Wikipedia&#39; : [&#39;IA&#39;,&#39;CO&#39;,&#39;AR&#39;,&#39;CA&#39;].indexOf(d.properties.state) &gt; -1 ? &#39;CESTA detailed states&#39; : &#39;CESTA other states&#39;&quot;,    
+      &quot;labels.legendTitle&quot;: &quot;Data Source&quot;
+  }</code></pre>
+      </div>
+      <div class="chunk">
+        <p>This data entry entry is really incredible work. You might think of it as as testament to the power of
+          crowd-sourcing. This isn’t crazy: but as with so much Wikipedia labor, this is almost entirely the work of a
+          single person: Jacob Alperin-Sheriff, who undertook the work while a graduate student at Georgia Tech. (He is
+          now works in cryptographer for the government). Posting the populations to Wikipedia under the username
+          “DemocraticLuntz,” he entered approximate 25,000 cities and counties from the census, accounting for about
+          237,707 non-zero entries. That’s almost four times as many data points as the CESTA-Stanford set. It includes
+          both towns not included in the CESTA set, and earlier years of growth from towns that spent several years
+          below the census bureau’s cutoff of 2,500.</p>
+        <p>To build the union dataset you see here, I contacted Alperin-Sheriff, who sent me the CSV files he typed up
+          before uploading them to Wikipedia. I also parsed every article in Wikipedia to find other articles that have
+          a population history box. I then matched these to the CESTA data and each other using the population numbers
+          as a key, and string similarity to break ties. In cases of disagreement (more about those in a bit), I’ve used
+          whatever element seems to produce the smoothest overall growth.</p>
+        <pre class="api"><code>{
+      &quot;filters.Cities&quot;: &quot;undefined&quot;,
+      &quot;scales.fill.Cities&quot;: &quot;customExplanation&quot;,
+      &quot;getters.fill.Cities&quot;: &quot;d =&gt; return d.properties.popSources.indexOf(&#39;cesta&#39;) == -1 ? &#39;Only Wikipedia&#39; : [&#39;IA&#39;,&#39;CO&#39;,&#39;AR&#39;,&#39;CA&#39;].indexOf(d.properties.state) &gt; -1 ? &#39;CESTA detailed states&#39; : &#39;CESTA other states&#39;&quot;,    
+      &quot;labels.legendTitle&quot;: &quot;Data Source&quot;
+  }</code></pre>
+      </div>
+      <div class="chunk">
+        <p>Things are expecially remarkable up in the the northeast of the country, where ‘towns’ and ‘townships’
+          provide a fairly consistent metric of population density at the sub-county level back (in some cases) to the
+          eighteenth century. Outside of Indian reservations and a few unincorporated area in Maine, this gives the
+          locations of pretty much every person in New England to within a few miles.</p>
+        <p>While Maine is represented by only a couple cities in the existing data, there are almost 500 towns in the
+          Alperin-Sheriff/Wikipedia set.</p>
+        <pre class="api"><code>{
+      &quot;filters.Cities&quot;: &quot;undefined&quot;,
+      &quot;scales.fill.Cities&quot;: &quot;customExplanation&quot;,
+      &quot;getters.fill.Cities&quot;: &quot;d =&gt; return d.properties.popSources.indexOf(&#39;cesta&#39;) == -1 ? &#39;Only Wikipedia&#39; : [&#39;IA&#39;,&#39;CO&#39;,&#39;AR&#39;,&#39;CA&#39;].indexOf(d.properties.state) &gt; -1 ? &#39;CESTA detailed states&#39; : &#39;CESTA other states&#39;&quot;,    
+      &quot;zoom.States&quot;: [&quot;ME&quot;, &quot;NJ&quot;, &quot;PA&quot;]
+  }</code></pre>
+      </div>
+      <div class="chunk">
+        <p>This data should be invaluable for a variety of projects that want a fine-grained view of the entire country;
+          it makes it possible to see patterns at a resolution that isn’t possible using only large cities and counties
+          to map.</p>
+        <p>Here, for instance, is a map of <em>when</em> a city gained most of its population. This is a pretty good way
+          of putting a single year on any city, better than (say) year of maximum population; you can think of it as
+          giving an estimate of–for instance–roughly how old the buildings or street names might be. Darker colors
+          indicate older cities.</p>
+        <pre class="api"><code>
+  {
+      &quot;filters.Cities&quot;: &quot;d =&gt; return d.properties.popSources.indexOf(&#39;alperin&#39;) &gt; -1&quot;,
+      &quot;scales.size.Cities&quot;: &quot;sizeQuart&quot;,
+      &quot;getters.size.Cities&quot;: &quot;maxPop&quot;, 
+      &quot;scales.fill.Cities&quot;: &quot;averageYear&quot;,
+      &quot;getters.fill.Cities&quot;: &quot;averageYear&quot;,
+      &quot;zoom.States&quot;: [&quot;ME&quot;, &quot;NJ&quot;, &quot;PA&quot;],
+      &quot;labels.legendTitle&quot;: &quot;undefined&quot;
+  }</code></pre>
+      </div>
+      <div class="chunk">
+        <p>You can again see clear patterns in the midwest. Since the bulk of growth in major cities like Chicago
+          happened between 1800 and 1950, the major cities tend to be old, along with market cities and towns for the
+          farming hinterland evenly spaced through the country along the railroad lines.</p>
+        <pre class="api"><code>{
+      &quot;filters.Cities&quot;: &quot;d =&gt; return d.properties.averageYear &lt;= 1945&quot;,
+      &quot;scales.size.Cities&quot;: &quot;sizeQuart&quot;,
+      &quot;getters.size.Cities&quot;: &quot;maxPop&quot;, 
+      &quot;scales.fill.Cities&quot;: &quot;averageYear&quot;,
+      &quot;getters.fill.Cities&quot;: &quot;averageYear&quot;,
+      &quot;zoom.Cities&quot;: [&quot;Provo, Utah&quot;, &quot;Detroit&quot;]
+  }</code></pre>
+      </div>
+      <div class="chunk">
+        <p>Growth since 1945, on the other hand, is concentrated in suburban splotches that take up much less of the
+          map. The wide variety of suburban regions included here offers a useful way of exploring suburbanization in
+          the country.</p>
+        <pre class="api"><code>{
+      &quot;drawing&quot;: [&quot;Cities&quot;, &quot;StateLines&quot;, &quot;ExternalLines&quot;],
+      &quot;filters.Cities&quot;: &quot;d =&gt; return d.properties.averageYear &gt;= 1945&quot;,
+      &quot;scales.size.Cities&quot;: &quot;sizeQuart&quot;,
+      &quot;getters.size.Cities&quot;: &quot;maxPop&quot;, 
+      &quot;scales.fill.Cities&quot;: &quot;averageYear&quot;,
+      &quot;getters.fill.Cities&quot;: &quot;averageYear&quot;,
+      &quot;zoom.Cities&quot;: [&quot;Provo, Utah&quot;, &quot;Detroit&quot;],
+      &quot;scales.x.Cities&quot;: &quot;undefined&quot;,
+      &quot;scales.y.Cities&quot;: &quot;undefined&quot;,
+      &quot;duration&quot;: 3000
+  }</code></pre>
+      </div>
+      <div class="chunk">
+        <p>I find it informative to just look at the channels of spread of population along the railroads and rivers.
+          The map current shows cities that experienced their average year of growth within twenty years of <strong
+            id='yyyy'>1950</strong>. Drag the slider below to adjust the timespan plotted.</p>
+        <p><input type="range" min="1800" max="2000" value="1950" class="slider" id="midpoint" style="width:100%"
+            step=.1></p>
+        <pre class="api"><code>{
+  &quot;year&quot;: 1950,
+  &quot;scales.size.Cities&quot;: &quot;sizeQuart&quot;,
+  &quot;getters.size.Cities&quot;: &quot;maxPop&quot;,
+  &quot;scales.fill.Cities&quot;: &quot;customExplanation&quot;,
+  &quot;getters.fill.Cities&quot;: &quot;d =&gt; return d.properties.popSources.indexOf(&#39;cesta&#39;) == -1 ? &#39;Only Wikipedia&#39; : [&#39;IA&#39;,&#39;CO&#39;,&#39;AR&#39;,&#39;CA&#39;].indexOf(d.properties.state) &gt; -1 ? &#39;CESTA detailed states&#39; : &#39;CESTA other states&#39;&quot;,
+  &quot;filters.Cities&quot;: &quot;d =&gt; return Math.abs(d.properties.averageYear - $year) &lt; $changeOffset&quot;,
+  &quot;changeOffset&quot;: 20,
+  &quot;duration&quot;: 2500,
+  &quot;zoom.Cities&quot;: [&quot;Miami&quot;, &quot;Anchorage, Alaska&quot;, &quot;Eastport, Maine&quot;, &quot;Seattle, Washington&quot;],
+  &quot;scales.x.Cities&quot;: &quot;undefined&quot;,
+  &quot;scales.y.Cities&quot;: &quot;undefined&quot;,
+  &quot;labels.legendTitle&quot;: &quot;Data Source&quot;
+  }</code></pre>
+      </div>
+      <div class="chunk">
+        <p>The data is strong enough that you can see these in a variety of regions. Change the dropdown to zoom in on a
+          particular city.</p>
+        <pre class="api"><code>{
+  &quot;year&quot;: 2010,
+  &quot;scales.size.Cities&quot;: &quot;sizeQuart&quot;,
+  &quot;getters.size.Cities&quot;: &quot;maxPop&quot;,
+  &quot;filters.Cities&quot;: &quot;undefined&quot;,
+  &quot;changeOffset&quot;: 20,
+  &quot;duration&quot;: 5000,
+  &quot;zoom.Cities&quot;: [&quot;New York City&quot;],
+  &quot;scales.x.Cities&quot;: &quot;undefined&quot;,
+  &quot;scales.y.Cities&quot;: &quot;undefined&quot;,
+  &quot;scales.fill.Cities&quot;: &quot;averageYear&quot;,
+  &quot;getters.fill.Cities&quot;: &quot;averageYear&quot;,
+  &quot;labels.legendTitle&quot;: &quot;undefined&quot;
+  }</code></pre>
+        <p>Zoom to: <select id=cityzoom> </select></p>
+        <script>
+          var slider1 = document.getElementById("midpoint");
+          var lab = document.getElementById("yyyy")
+          //var slider2 = document.getElementById("yrange");
+          drawSliders = function () {
+            console.log("hello");
+            var year = +slider1.value;
+            lab.innerHTML = Math.round(year);
+            //    var span = +slider2.value;
+            //    var start = year - span;
+            //    var end = year + span;
+            map.plotAPI({
+              "year": year,
+              "zoom.Cities": "undefined",
+              "duration": 0,
+              "filters.Cities": "d => return Math.abs(d.properties.averageYear - $year) < $changeOffset"
+            })
+          }
+
+          slider1.oninput = drawSliders;
+          //slider2.oninput = drawSliders;
+
+          var cities = ["Birmingham, Alabama", "Phoenix, Arizona", "Tucson, Arizona", "Los Angeles", "San Diego",
+            "San Francisco", "San Jose, California", "Denver", "Jacksonville, Florida", "Miami", "Tampa, Florida",
+            "Atlanta", "Des Moines, Iowa", "Chicago", "Indianapolis", "Wichita, Kansas", "Louisville, Kentucky",
+            "New Orleans", "Boston", "Baltimore", "Detroit", "Minneapolis", "Kansas City, Missouri", "St. Louis",
+            "Charlotte, North Carolina", "Omaha, Nebraska", "Newark, New Jersey", "Albuquerque, New Mexico",
+            "Buffalo, New York", "Rochester, New York", "Syracuse, New York", "AAA", "Akron, Ohio", "Cincinnati",
+            "Cleveland", "Columbus, Ohio", "Dayton, Ohio", "Toledo, Ohio", "Oklahoma City", "Tulsa, Oklahoma",
+            "Portland, Oregon", "Philadelphia", "Pittsburgh", "Providence, Rhode Island", "Memphis, Tennessee",
+            "Dallas", "El Paso, Texas", "Houston", "San Antonio", "Norfolk, Virginia", "Richmond, Virginia",
+            "Seattle", "Milwaukee"
+          ]
+
+          cities.sort()
+
+          cities[0] = "New York City"
+
+          select("#cityzoom")
+            .selectAll("option").data(cities)
+            .enter()
+            .append("option")
+            .text(function (d) {
+              return d
+            })
+            .property('value', function (d) {
+              return d
+            })
+
+          select("#cityzoom")
+            .on("change", function () {
+              var city = select(this).node().value
+              console.log(city)
+              map.zoomToFeatures("Cities", [city])
+            })
+        </script>
+      </div>
+      <div class="chunk">
+        <p>Or you can just treat all of this as a data set to look at on its own.</p>
+        <p>There are lots of non-cartographic ways to look at this data, using information from Wikipedia or elsewhere.
+        </p>
+        <pre class="api"><code>{
+  &quot;drawing&quot;: [&quot;Cities&quot;],
+  &quot;scales.fill.Cities&quot;:&quot;scheme2&quot;,
+  &quot;getters.fill.Cities&quot;: &quot;region&quot;,
+  &quot;filters.Cities&quot;: &quot;undefined&quot;,
+  &quot;getters.y.Cities&quot;:&quot;undefined&quot;,
+  &quot;scales.y.Cities&quot;: &quot;undefined&quot;,
+  &quot;getters.x.Cities&quot;:&quot;undefined&quot;,
+  &quot;scales.x.Cities&quot;: &quot;undefined&quot;,
+  &quot;duration&quot;: 4000,
+  &quot;zoom.Cities&quot;: [&quot;Miami&quot;, &quot;Anchorage, Alaska&quot;, &quot;Eastport, Maine&quot;, &quot;Seattle, Washington&quot;],
+  &quot;labels.legendTitle&quot;: &quot;region&quot;
+  }</code></pre>
+      </div>
+      <div class="chunk">
+        <p>Here, for example, is what it looks like when you feed in city populations to the <a
+            href="https://arxiv.org/abs/1802.03426">U-MAP dimensionality reduction algorithm</a>. This creates clusters
+          that show cities that have similar patterns in their long-term growth.</p>
+        <pre class="api"><code>{
+      &quot;drawing&quot;: [&quot;Cities&quot;],
+      &quot;filters.Cities&quot;: &quot;undefined&quot;,
+      &quot;year&quot;: 2010,
+      &quot;getters.fill.Cities&quot;: &quot;region&quot;,
+      &quot;scales.fill.Cities&quot;: &quot;scheme2&quot;,
+      &quot;getters.y.Cities&quot;: &quot;d =&gt; d.properties.umap_y&quot;,
+      &quot;scales.y.Cities&quot;: &quot;&lt;linear&gt;&quot;,
+      &quot;getters.x.Cities&quot;: &quot;d =&gt; d.properties.umap_x&quot;,
+      &quot;scales.x.Cities&quot;: &quot;&lt;linear&gt;&quot;,
+      &quot;duration&quot;: 5000
+  }</code></pre>
+      </div>
+      <div class="chunk">
+        <p>Individual portions of this graph show cities that are close not <em>geographically</em> but in the shape of
+          their population curves. (You can see the full trend for each city as a <a
+            href="https://en.wikipedia.org/wiki/Sparkline">sparkline</a> next to its label.) Zooming in, for instance,
+          on St. Louis, you can see <em>other</em> cities like Scranton or Bridgeport Ohio that have similarly-shaped
+          declines lasting decades.</p>
+        <pre class="api"><code>{
+      &quot;drawing&quot;: [&quot;Cities&quot;],
+      &quot;filters.Cities&quot;: &quot;undefined&quot;,
+      &quot;year&quot;: 2010,
+      &quot;getters.fill.Cities&quot;: &quot;region&quot;,
+      &quot;scales.fill.Cities&quot;: &quot;scheme2&quot;,
+      &quot;getters.y.Cities&quot;: &quot;d =&gt; d.properties.umap_y&quot;,
+      &quot;scales.y.Cities&quot;: &quot;&lt;linear&gt;&quot;,
+      &quot;getters.x.Cities&quot;: &quot;d =&gt; d.properties.umap_x&quot;,
+      &quot;scales.x.Cities&quot;: &quot;&lt;linear&gt;&quot;,
+      &quot;zoom.ModernCounties&quot;: [&quot;Mahoning, Ohio&quot;, &quot;Columbiana, Ohio&quot;],
+      &quot;annotate.Cities&quot;: [&quot;St. Louis&quot;, &quot;Scranton, Pennsylvania&quot;, &quot;Bridgeport, Ohio&quot;],
+      &quot;labels.legendTitle&quot;: &quot;Census Region&quot;
+  }</code></pre>
+      </div>
+      <div class="chunk">
+        <p>Each of the well defined arms on this octopus is a different census; cities that peak in the same year
+          generally show up together.</p>
+        <pre class="api"><code>{
+      &quot;drawing&quot;: [&quot;Cities&quot;],
+      &quot;filters.Cities&quot;: &quot;undefined&quot;,
+      &quot;year&quot;: 2010,
+      &quot;getters.fill.Cities&quot;: &quot;region&quot;,
+      &quot;scales.fill.Cities&quot;: &quot;scheme2&quot;,
+      &quot;getters.y.Cities&quot;: &quot;d =&gt; d.properties.umap_y&quot;,
+      &quot;scales.y.Cities&quot;: &quot;&lt;linear&gt;&quot;,
+      &quot;getters.x.Cities&quot;: &quot;d =&gt; d.properties.umap_x&quot;,
+      &quot;scales.x.Cities&quot;: &quot;&lt;linear&gt;&quot;,
+      &quot;zoom.States&quot;: [&quot;AK&quot;,&quot;ME&quot;]
+  }</code></pre>
+      </div>
+      <div class="chunk">
+        <p>So: it should be useful for a variety of purposes. I may write up some of the interesting narratives later,
+          including the highlights of what cities and regions expand or contract in the twentieth century.</p>
+        <p>But rather than end with something interesting, it’s important to end this little introduction with a number
+          of caveats about this data. The first, and most important, is that there is little system to what gets
+          included in Wikipedia–a single passionate editor can build up the collection in one place, but not another.
+          You see this in a variety of places; Chicago neighborhoods, for example, are broken out as population centers
+          of their own while New York neighborhoods (aside from the five boroughs) are not.</p>
+        <pre class="api"><code>{
+    &quot;drawing&quot;: [&quot;Cities&quot;, &quot;ExternalLines&quot;, &quot;StateLines&quot;],
+    &quot;scales.size.Cities&quot;: &quot;size&quot;,
+    &quot;getters.size.Cities&quot;: &quot;population&quot;,
+    &quot;filters.Cities&quot;: &quot;d =&gt; d.properties.averageYear &gt;= 1945&quot;,
+    &quot;getters.fill.Cities&quot;: &quot;averageYear&quot;,
+    &quot;scales.fill.Cities&quot;: &quot;averageYear&quot;,
+    &quot;year&quot;: 2010,
+    &quot;getters.y.Cities&quot;: &quot;undefined&quot;,
+    &quot;scales.y.Cities&quot;: &quot;undefined&quot;,
+    &quot;getters.x.Cities&quot;: &quot;undefined&quot;,
+    &quot;scales.x.Cities&quot;: &quot;undefined&quot;,
+    &quot;zoom.States&quot;: [&quot;AK&quot;,&quot;ME&quot;]  
+  }</code></pre>
+      </div>
+      <div class="chunk">
+        <p>Take, for example, the odd rectangular cluster at the bottom of Michigan around the city of Battle Creek when
+          we limit to cities that grew after 1945. This is because–as far as I can tell–one editor took it upon
+          themselves to enter historical population back to 1960 for the entirety of Calhoun County but nowhere else.
+          You can see similar groups throughout the midwest–it’s a reminder of how much finer-grained the Census data
+          could be. In most of the original census reports, population <em>is</em> reported back into the 19th century
+          at this level of detail–Calhoun county, for example, has detailed township-level statistics at least back to
+          the 1850s.</p>
+        <p>But until this data is digitized, the dribs and drabs that make it into Wikipedia aren’t very useful for
+          large-scale thematic mapping.</p>
+        <pre class="api"><code>{
+      &quot;drawing&quot;: [&quot;Cities&quot;, &quot;ExternalLines&quot;, &quot;StateLines&quot;],
+      &quot;scales.size.Cities&quot;: &quot;size&quot;,
+      &quot;getters.size.Cities&quot;: &quot;population&quot;,
+      &quot;filters.Cities&quot;: &quot;d =&gt; d.properties.averageYear &gt;= 1945&quot;,
+      &quot;getters.fill.Cities&quot;: &quot;averageYear&quot;,
+      &quot;scales.fill.Cities&quot;: &quot;averageYear&quot;,
+      &quot;year&quot;: 2010,
+      &quot;getters.y.Cities&quot;: &quot;undefined&quot;,
+      &quot;scales.y.Cities&quot;: &quot;undefined&quot;,
+      &quot;getters.x.Cities&quot;: &quot;undefined&quot;,
+      &quot;scales.x.Cities&quot;: &quot;undefined&quot;,
+      &quot;zoom.States&quot;: [&quot;MN&quot;, &quot;OH&quot;],
+      &quot;annotate.Cities&quot;: [&quot;Athens Township, Michigan&quot;],
+      &quot;labels.legendTitle&quot;: &quot;undefined&quot;
+  }</code></pre>
+      </div>
+      <div class="chunk">
+        <p>Fortunately, there is a heuristic that gives much more consistent data: filter to datasets that have a
+          defined population in Jacob Alperin-Sheriff’s edits. Alperin-Sheriff used regular nationwide rules for what to
+          include that make his data less of a hodgepodge than even the CESTA set, let alone Wikipedia.</p>
+        <p>The non-Alperin wikipedia entries (in red here) are almost never for clear-cut locations, but instead cover
+          things like Chicago neighborhoods or those Michigan townships. Sometimes the data is quite good, but
+          sometimes–as with townships in the state of Pennsylvania–it is only entered for a few years. (There is one
+          case in the Alperin-Sheriff data of truncated entry; there seem to only be Massachusetts town populations
+          after 1850.)</p>
+        <p>The two big exceptions are the state of Hawaii–which uses census-designated places, not municipalities, and
+          so is not in the Alperin-Sheriff set at all–and no-longer extant municipalities like Brooklyn, New York or
+          ghost towns like <a href="https://en.wikipedia.org/wiki/Swansea,_Arizona">Swansea, Arizona.</a>
+          Alperin-Sheriff’s raw data <em>does</em> include New York municipalities, but for the dataset here I use his
+          New York town data, which are more like Midwestern townships.</p>
+        <pre class="api"><code>{
+  &quot;scales.fill.Cities&quot;: &quot;highlightBad&quot;,
+  &quot;filters.Cities&quot;: &quot;d =&gt; return d.properties.popSources.indexOf(&#39;alperin&#39;) &gt; -1 || d.properties.popSources.indexOf(&#39;wiki&#39;) &gt; -1&quot;,
+  &quot;getters.fill.Cities&quot;: &quot;d =&gt; d.properties.popSources.indexOf(&#39;alperin&#39;) == -1 ? &#39;Non-Alperin-Sheriff&#39; : &#39;Alperin-Sheriff&#39;&quot;,
+  &quot;zoom.Cities&quot;: [&quot;Los Angeles&quot;, &quot;New York City&quot;],
+  &quot;duration&quot;: 5000,
+  &quot;labels.legendTitle&quot;: &quot;Data Source&quot;
+  }</code></pre>
+      </div>
+      <div class="chunk">
+        <p>It’s still worth, though, using all the data in order to get as close to the <em>correct</em> populations as
+          possible.</p>
+        <p>There are conflicts between the various sources that are not trivial to resolve. Wikipedia’s numbers are
+          identical to Alperin-Sheriff’s numbers are only about 99% of the time, and only about 96% of the time to the
+          CESTA numbers.</p>
+        <p>All the cities in red here are ones for which there is some internal disagreement among the three datasets
+          here (Wikipedia, Alperin source files, and CESTA data) in the <strong>1890</strong> census. I’ve checked the
+          <a href="https://www.census.gov/prod/www/decennial.html">original census report from 1890</a> for each of
+          these places.</p>
+        <p>These are just some examples.</p>
+        <ul>
+          <li><strong>Morris, Illinois</strong> is short by 600 people in the Wikipedia and Alperin sets, but is correct
+            in CESTA;</li>
+          <li><strong>Conneaut, Ohio</strong> has a repeated 1 in the Alperin-Sheriff set that makes the amount ten
+            times greater; Wikipedia editors have corrected it to the same value as the CESTA number.</li>
+          <li><strong>New Haven, Connecticut</strong> is 6,000 lower in the Alperin numbers because he uses the
+            population for “New Haven City,” while Wikipedia and CESTA use a larger census population for “New Haven
+            Town,” which includes the city and other municipalities.</li>
+          <li><strong>Coal Hill, Arkansas</strong> is listed as 802 in the Wikipedia and the Alperin-Sheriff
+            transcriptions, but only 202 in the CESTA set. The original census publications list the population as 802.
+          </li>
+          <li><strong>Winston-Salem, North Carolina</strong> is listed as 10729 in the Wikipedia sources and 10700 in
+            CESTA, which sometimes rounds to the nearest hundred. The combined populations of the two cities of Winston
+            and Salem was 10,729 in 1890.</li>
+        </ul>
+        <p>In cases like this, the headline population in the merged dataset is created by selecting the number that
+          produces the smoothest overall growth curve between existing values. The purpose of this is to ensure that
+          egregiously wrong values won’t be included.</p>
+        <pre class="api"><code>{&quot;year&quot;:1890,
+  &quot;scales.fill.Cities&quot;: &quot;highlightBad&quot;,
+  &quot;filters.Cities&quot;: &quot;undefined&quot;,
+  &quot;getters.fill.Cities&quot;: &quot;cityPopulationConflict&quot;,
+  &quot;zoom.Cities&quot;: [&quot;Los Angeles&quot;, &quot;New York City&quot;],
+  &quot;duration&quot;: 5000,
+  &quot;getters.annotation.Cities&quot;: &quot;d =&gt; return `CESTA: ${d.properties.populations.cesta[$year]}         Wiki: ${d.properties.populations.wiki[$year]}         Alperin-Sheriff: ${d.properties.populations.alperin[$year]}`&quot;,
+  &quot;annotate.Cities&quot;: [&quot;Morris, Illinois&quot;, &quot;Conneaut, Ohio&quot;, &quot;New Haven, Connecticut&quot;, &quot;Coal Hill, Arkansas&quot;, &quot;Winston-Salem, North Carolina&quot;]
+  }</code></pre>
+      </div>
+      <div class="chunk">
+        <p>The last example is an especially interesting one that points in the direction of future needs to improve
+          data like this. Winston and Salem were independent cities at the time of the 1890 census, and to list them as
+          joint is–strictly speaking–incorrect. CESTA, unlike Wikipedia, <em>does</em> have statistics for the
+          independent cities of Winston and Salem for part of this period; Alperin-Sheriff seems to have manually
+          combined populations of merged cities for certain municipalities such as <a
+            href="https://en.wikipedia.org/wiki/Allegheny,_Pennsylvania">Allegheny</a> and Pittsburgh, Pennsylvania. In
+          other cases of municpal merger, such as Brooklyn and New York City, or <a
+            href="https://en.wikipedia.org/wiki/Dover-Foxcroft,_Maine">Dover and Foxcroft, Maine</a>, only the
+          population of the larger municipality is included. While some extinct municipalities receive their own pages
+          with population boxes (like Allegheny), others (including Winston, Salem, Dover, and Foxcroft) do not.</p>
+        <p>There is some room for using Wikipedia text, along with addition, subtraction, and <em>county</em> level
+          populations, to create the full network of when cities merge with each other. I have not attempted to do this.
+        </p>
+        <p>Ultimately, the best way to solve this would require returning to the original census reports, which have
+          detailed footnotes about all mergers. It seems possible to me that the thousands of points collected here
+          could be useful in training OCR and column-discrimination models across those reports, but that task is
+          probably not going to be possible for several years.</p>
+      </div>
+    </div>
+  </div>
+
+  <script src="./js/commonjs/polyfill-intersection.js"></script>
+  <script src="./js/mapNarrative.min.js"></script>
+
+</body>

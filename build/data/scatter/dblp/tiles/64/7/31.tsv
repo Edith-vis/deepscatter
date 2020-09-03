@@ -1,0 +1,55 @@
+id	area	title	year	x	y	ix
+3999580	Theory	performance bounds in h∞ optimal control for stable siso plants with arbitrary relative degree	2009	-23.321287783282838	-0.2592196105711889	3999607
+4001349	ML	approximate dynamic programming: combining regional and local state following approximations	2018	-23.54027440689555	-1.1540056217912509	4001376
+4003364	Robotics	identification and the information matrix: how to get just sufficiently rich?	2009	-23.50626497585899	-0.8554341497346384	4003391
+4006398	Robotics	control synthesis for nonlinear optimal control via convex relaxations	2017	-23.414450378058483	-1.0328408195700085	4006425
+4006457	EDA	pole placement with sensitivity function shaping using 2nd order digital notch filters	2003	-23.6130590038038	-1.0644986836104584	4006484
+4008433	Robotics	robust invariance in uncertain discrete event systems with applications to transportation networks	2009	-22.8806601200042	-1.0632175860782729	4008460
+4009209	AI	on pursuit and feedback in optimal stochastic control-explicit control laws	1974	-23.51826538353213	-0.8274207009279148	4009236
+4009813	Vision	optimal stabilization using lyapunov measures	2014	-22.7218108759336	-0.5442583764061139	4009840
+4011569	Robotics	multi-step procedure for orbital feedback linearization of multi-input control affine systems	2013	-23.359054972774924	-0.4088995958998193	4011596
+4015982	Logic	another look at finite horizon h∞ control problems for systems with input delays	2004	-23.50274559851062	-0.3170724694558321	4016009
+4018395	Robotics	a stochastically averaged optimal control strategy for quasi-hamiltonian systems with actuator saturation	2006	-23.165491439854804	-0.7545922414649809	4018422
+4019584	Robotics	global clf stabilization of systems with respect to a hyperbox, allowing the null-control input in its boundary (positive controls)	2014	-23.40193047680551	-1.1124404624910091	4019611
+4020885	AI	analysis of partial stability problems using sum of squares techniques	2009	-23.590751467681446	-0.3632637676502606	4020912
+4021159	ML	identification of hammerstein-wiener systems including backlash input nonlinearities	2013	-22.88517352317325	-0.7164023666605687	4021186
+4022115	Robotics	colored stability crossing sets for siso delay systems	2018	-23.361179679699053	-0.2551201689608942	4022142
+4023499	Embedded	stability analysis of repetitive control: the port-hamiltonian approach	2017	-23.26660393073822	-0.7423279554697478	4023526
+4026284	AI	an energy-balancing perspective of interconnection and damping assignment control of nonlinear systems	2004	-23.191697544348393	-0.3980410700782697	4026311
+4026835	Robotics	a semistability-based design framework for optimal consensus seeking of multiagent systems in a noisy environment	2012	-23.276780031996754	-0.6714545020119413	4026862
+4027220	Logic	robust stabilization of linear systems with time-varying point delays via a delay-free dynamic controller	2005	-22.808398697498962	-0.8483722988488059	4027247
+4028381	Robotics	smooth stabilization of nonlinear control systems	1996	-23.20130287988319	-0.35080068780562296	4028408
+4029160	ML	approximate fixed point iteration with an application to infinite horizon markov decision processes	2008	-22.865129446837138	-1.1627409763371832	4029187
+4029688	Embedded	local observability of nonlinear differential-algebraic equations (daes) from the linearization along a trajectory	2001	-22.790485851868592	-0.2580085167862149	4029715
+4029882	ML	differential games for weakly coupled large-scale linear stochastic systems with an h∞-constraint	2018	-23.334388805468002	-0.9412799851553754	4029909
+4030539	AI	minimax fir smoothers for deterministic continuous-time state space models	2009	-23.395514368285237	-1.1304672193913443	4030566
+4032269	Theory	a generalization of a polynomial optimal control of switched systems	2009	-22.775960243277503	-0.8373118596079899	4032296
+4033822	Robotics	observation control for discrete-continuous stochastic systems	2000	-22.985356972174692	-0.9820296957401254	4033849
+4045135	Robotics	convex optimization approaches to information structured decentralized control	2018	-23.559757275418253	-0.6688425151857024	4045162
+4047729	Logic	stability region for a class of open-loop unstable linear systems: theory and application	2000	-23.28926173967737	-0.9033478236646028	4047756
+4049129	Robotics	plant/controller design integration for ℋ2 control by symbolic-numeric hybrid optimization based on sum of roots characterization	2009	-22.99790173664868	-0.9382160679847146	4049156
+4050694	ML	design method for optimal step size matrix of the affine projection algorithm using semidefinite programming	2002	-23.09502735123489	-0.4161944921562736	4050721
+4051210	EDA	a neurodynamic optimization approach to robust pole assignment for synthesizing linear control systems based on a convex feasibility problem reformulation	2013	-23.661144793414998	-1.102229512892384	4051237
+4053017	Vision	robust fixed order controller design by a mixed randomized/deterministic method	2013	-23.252352586571654	-0.3273931087957669	4053044
+4054007	Robotics	singular linear-quadratic control for semistabilization	2013	-23.415054046395287	-0.2880330952020921	4054034
+4054044	Robotics	stability analysis of nonlinear quadratic systems via polyhedral lyapunov functions	2008	-23.57550683947793	-0.4942472638446841	4054071
+4054724	EDA	an efficient projector-based passivity test for descriptor systems	2010	-23.275474933505635	-0.27067406520731824	4054751
+4055143	Embedded	structural conditions for disturbances decoupling with stability using proportional and derivative control laws	2001	-23.61028651817287	-0.7008652211724752	4055170
+4056598	Theory	h∞ control problem for discrete-time algebraic dynamical systems	2015	-23.514334775313536	-0.3321977848186468	4056625
+4059753	EDA	barrier certificates for nonlinear model validation	2006	-23.58319256563955	-0.28753817638254936	4059780
+4062611	Visualization	robust pole placement with moore's algorithm	2014	-23.259241317044285	-0.874036187099079	4062638
+4064282	Robotics	estimation of gramian-based interaction measures for weakly nonlinear systems	2015	-23.19757717916219	-0.7564895519177269	4064309
+4071305	Theory	a characterization of convex problems in decentralized control$^ast$	2005	-23.538769269145757	-0.3006744421274068	4071332
+4072229	Theory	the time-invariant linear-quadratic optimal control problem	1977	-23.021143415249966	-0.4105397686841379	4072256
+4077084	EDA	continuous pole placement for delay equations	2002	-23.57446136322713	-0.4179357372064687	4077111
+4078142	Visualization	static output feedback pole placement via a trust region approach	2007	-23.54936870045836	-0.9647872005493692	4078169
+4079140	EDA	an error bound for model reduction of lur'e-type systems	2009	-23.098028650901195	-0.4184659274061814	4079167
+4080571	Theory	conditions for optimality of naïve quantized finite horizon control	2007	-23.2952893140956	-0.944224113951986	4080598
+4084950	Vision	imposing fir structure on h2 preview tracking and smoothing solutions	2006	-23.417063319646807	-0.9562785233220108	4084977
+4087574	Theory	global optimization in stabilizing controller design	2007	-23.053821391959485	-0.5507782316220146	4087601
+4087916	EDA	sampled-data $h^{2}$  optimization of systems with i/o delays via analog loop shifting	2014	-23.18264686544671	-1.0761310900142371	4087943
+4088625	Logic	separation in stability analysis of piecewise linear systems in discrete time	2008	-23.079718545666623	-0.280900454970582	4088652
+4088665	Robotics	sharp estimates on the region of attraction of planar linear systems with bounded controls	2009	-23.323545206575275	-0.4080772103876429	4088692
+4095809	Robotics	riccati conditioning and sensitivity for a minmax controlled cable-mass system	2008	-22.963784486679803	-0.6352313612583621	4095836
+4099545	EDA	iterative identification of block-oriented nonlinear systems based on biconvex optimization	2015	-22.782568275117217	-0.7879203443601874	4099572
+4102765	Theory	identification of systems with localised nonlinearity: from state-space to block-structured models	2013	-22.840320521106506	-0.3872876333498175	4102792

@@ -1,0 +1,379 @@
+id	area	title	year	x	y	ix
+3567994	Vision	a unifying framework for automatic and semi-automatic segmentation of vertebrae from radiographs using sample-driven active shape models	2012	-9.378131961376674	-20.6049617728917	3568021
+3569704	Vision	segmentation of cardiac cine mr images for extraction of right and left ventricular chambers	1995	-9.90159085241419	-20.39675187099084	3569731
+3571267	Robotics	heart failure diagnosis for tagged magnetic resonance images	2017	-9.368648815000187	-21.00155054642129	3571294
+3571550	HCI	towards spatial description-based integration of biomedical atlases	2011	-9.817316951076581	-20.666032392741663	3571577
+3576089	Vision	automatic generation of surface meshes for right ventricle with 1-to-1 vertex correspondence from cine-mr images	2015	-9.918107025316932	-20.461857876444004	3576116
+3580338	Vision	segmentation of female pelvic organs in axial magnetic resonance images using coupled geometric deformable models	2013	-10.056507497920943	-20.50193489231813	3580365
+3580713	Vision	assessing accuracy of non-linear registration in 4d image data using automatically detected landmark correspondences	2013	-9.58332639813608	-20.485070485473827	3580740
+3580888	Vision	model-based segmentation of flexor tendons from magnetic resonance images of finger joints	2011	-9.916683806230827	-21.182381859710656	3580915
+3583007	Vision	atlas and snake based segmentation of organs at risk in radiotherapy in head mris	2014	-9.42063232427756	-20.44119380535898	3583034
+3583390	Vision	an improved shape determinative slice determination method for patient-specific modeling of facial anatomical structure	2008	-9.30891900916732	-20.880058846548764	3583417
+3585076	ML	comparison of optimization strategy and similarity metric in atlas-to-subject registration using statistical deformation model	2015	-9.83193509089802	-20.687889294463453	3585103
+3587055	Vision	simulation of mr angiography imaging for validation of cerebral arteries segmentation algorithms	2016	-9.970707269982565	-21.043939699290767	3587082
+3587108	Vision	three-dimensional feature-enhanced network for automatic femur segmentation	2017	-9.354504173190325	-20.924448665671317	3587135
+3587183	Robotics	coronary artery extraction and analysis for detection of soft plaques in mdct images	2008	-9.559110684647626	-20.820517490169614	3587210
+3589526	Vision	automatic segmentation of cardiac mri cines validated for long axis views	2013	-9.834161651421033	-21.308288550497966	3589553
+3591270	Vision	temporal mammogram image registration using optimized curvilinear coordinates	2016	-9.180877543040364	-20.55850065418868	3591297
+3592360	NLP	deformable templates for feature extraction from medical images	1990	-9.68507498231236	-20.97277185824028	3592387
+3595486	Robotics	a graph-based method for pet image segmentation in radiotherapy planning: a pilot study	2013	-9.557641594065094	-21.194868474264613	3595513
+3597788	HCI	absolute alignment of breathing states using image similarity derivatives	2005	-10.08667077173405	-20.626049840924512	3597815
+3599275	Vision	3-d reconstruction of tissue components for atherosclerotic human arteries using ex vivo high-resolution mri	2006	-9.86084352053279	-20.915541472170613	3599302
+3599324	Vision	longitudinal scoliotic trunk analysis via spectral representation and statistical analysis	2016	-9.445747048428414	-20.56717671752404	3599351
+3601901	Visualization	a 3d image analysis tool for spect imaging	2005	-9.443172062099515	-21.195680994345324	3601928
+3602282	Vision	segmentation of brain volume based on 3d region growing by integrating intensity and edge for image-guided surgery	2006	-9.371358237721397	-20.53262537924511	3602309
+3603119	Robotics	ct-pet landmark-based lung registration using a dynamic breathing model	2007	-9.7401377618084	-20.483935936384725	3603146
+3603444	Vision	using frankenstein's creature paradigm to build a patient specific atlas	2009	-9.454367686929467	-20.634219313670048	3603471
+3603687	Vision	the bootstrap approach to the comparison of two methods applied to the evaluation of the growth index in the analysis of the digital x-ray image of a bone regenerate	2015	-9.577766058321414	-21.107490302066427	3603714
+3605658	Vision	robust semi-automated path extraction for visualising stenosis of the coronary arteries	2008	-10.084248851847619	-21.13631967066496	3605685
+3609193	Vision	renal cortex localization by combining 3d generalized hough transform and 3d active appearance models	2014	-9.188290890210157	-20.775601654384925	3609220
+3609980	Vision	automatic pedicles detection using convolutional neural network in a 3d spine reconstruction from biplanar radiographs	2018	-9.532931770504698	-21.290751286532874	3610007
+3612993	Vision	comparison of different grid of tags detection methods in tagged cardiac mr imaging	2010	-9.513439663933656	-20.768245617296813	3613020
+3613340	Vision	local control of speed function in level set segmentation using interactive interface for ct images	2008	-9.491536251475397	-20.508814177927547	3613367
+3613682	Robotics	data processing system for nuclear medicine images	1992	-9.87579903308298	-20.91253699282819	3613709
+3615469	Vision	liver segmentation from low contrast open mr scans using k-means clustering and graph-cuts	2010	-9.595683289653792	-21.143046960547988	3615496
+3624736	Vision	probabilistic atlas based labeling of the cerebral vessel tree	2015	-9.393979259037232	-20.893892809108372	3624763
+3625593	Vision	learning distance function for regression-based 4d pulmonary trunk model reconstruction estimated from sparse mri data	2011	-9.484411381672743	-20.770664461949767	3625620
+3627049	Robotics	an automatic energy-based region growing method for ultrasound image segmentation	2015	-9.258294173086238	-20.671332291435725	3627076
+3627309	Vision	thin network extraction in 3d images: application to medical angiograms	1996	-10.026257348967937	-20.480308416586503	3627336
+3627743	Vision	model-based segmentation of anatomical structures in mr images of the head and neck area	2005	-9.782514658094776	-20.918860824994248	3627770
+3632766	Robotics	segmentation of the left venctricle from mr images via snake models incorporating shape similarities	2006	-9.766966302713874	-20.43077363386034	3632793
+3635649	Vision	contour regularized left ventricular strain analysis from cine mri	2008	-10.089555549324489	-20.82290795880564	3635676
+3636518	Visualization	automatic nuchal translucency measurement from ultrasonography	2013	-9.733372840839156	-21.04445789582286	3636545
+3636646	Vision	automated retinal layers segmentation in sd-oct images using dual-gradient and spatial correlation smoothness constraint	2014	-9.373449208230893	-21.233668364504886	3636673
+3637517	Vision	quantification of kidneys from 3d ultrasound in pediatric hydronephrosis	2015	-9.714745755561507	-20.904955872542335	3637544
+3637596	Vision	a new nonrigid registration framework for improved visualization of transmural perfusion gradients on cardiac first-pass perfusion mri	2012	-10.01448553433908	-20.62285248033152	3637623
+3644478	Vision	hierarchical segmentation of vertebrae from x-ray images	2003	-9.290235420506274	-20.471713002252766	3644505
+3644657	Vision	voxel similarity measures for 3-d serial mr brain image registration	1999	-9.696788358996852	-20.530983495077912	3644684
+3645981	Vision	vessel region detection in coronary x-ray angiograms	2015	-9.552509103551273	-21.198472282043408	3646008
+3646547	Visualization	automatic heart peripheral vessels segmentation based on a normal mip ray casting technique	2004	-9.918716937474224	-20.62582486155303	3646574
+3647423	Vision	a comparison of thin-plate splines with automatic correspondences and b-splines with uniform grids for multimodal prostate registration	2011	-9.911606007912262	-21.148550024263123	3647450
+3648309	Visualization	computed cleansing for virtual colonoscopy using a three-material transition model	2003	-9.941165869548591	-20.954879854399934	3648336
+3649253	Vision	joint craniomaxillofacial bone segmentation and landmark digitization by context-guided fully convolutional networks	2017	-9.591155302500024	-20.518717927554572	3649280
+3649483	Vision	segmentation of lumbar vertebrae using part-based graphs and active appearance models	2009	-9.629347683749057	-20.853307481494607	3649510
+3651133	Vision	automated segmentation of the left ventricle in cardiac mri	2004	-9.52498280597708	-20.894038206577186	3651160
+3653260	Vision	feature based registration of fluorescent lscm imagery using region centroids	2005	-9.331197489962745	-20.671133494104453	3653287
+3654828	Vision	automatic alignment of renal dce-mri image series for improvement of quantitative tracer kinetic studies	2008	-9.754693620028306	-20.484827492094208	3654855
+3654982	Vision	adaptive directional region growing segmentation of the hepatic vasculature	2008	-9.555407600172426	-20.97866097742983	3655009
+3655360	Vision	robust vessel segmentation in fundus images	2013	-9.706488155073416	-21.249157551223746	3655387
+3662566	Robotics	dce-mri segmentation and motion correction based on active contour model and forward mapping	2006	-9.739729998664554	-21.177354986513734	3662593
+3662751	ML	a new method of mapping 3d contours on four-dimensional computed tomography data	2013	-9.913342307055991	-20.95671636431496	3662778
+3662781	Robotics	quantifying tissue heterogeneity using quadtree decomposition	2012	-9.641763925221948	-20.489228425278107	3662808
+3662915	Vision	automatic identification of frankfurt plane and mid-sagittal plane of skull	2012	-9.576234565872099	-20.452556070285993	3662942
+3663770	Vision	a new method based on template registration and deformable models for pelvic bones semi-automatic segmentation in pediatric mri	2017	-9.533580849308539	-21.15915749328384	3663797
+3664563	Vision	optimal search guided by partial active shape model for prostate segmentation in trus images	2009	-9.772420926082534	-20.960772016436323	3664590
+3665068	Vision	intra-patient prone to supine colon registration for synchronized virtual colonoscopy	2002	-9.836088210323682	-20.47162188911284	3665095
+3665512	Vision	three dimensional segmentation of intravascular ultrasound data	2009	-9.619100325731813	-20.941631659813424	3665539
+3665720	Vision	cardiac motion-corrected iterative cone-beam ct reconstruction using a semi-automatic minimum cost path-based coronary centerline extraction	2012	-10.112702649473329	-20.660355737509565	3665747
+3666087	Vision	an improved multilevel banded graph cuts method for extracting colon tissue	2015	-9.185711539530637	-21.24090866184152	3666114
+3668452	Vision	real time 3-d ultrasound to mr cardiovascular image registration using a phase-based approach	2006	-9.953030086535145	-20.745240913508923	3668479
+3669023	Vision	prostate surface segmentation from 3d ultrasound images	2002	-9.465759077575886	-20.484417695705922	3669050
+3673107	EDA	global optimization of optimal angiographic viewing angles for coronary arteries with multiple segments	2013	-9.585348882600213	-20.437382622869826	3673134
+3673181	Vision	automatic segmentation of prostate boundaries from abdominal ultrasound images using priori knowledge	2004	-9.283315502258354	-20.639881260443357	3673208
+3673763	Vision	analysis of branching tubular structures in 3d digital images	2002	-9.746876884642976	-20.36280138402217	3673790
+3674003	Visualization	multislice ct angiography in surgical planning for renal cell carcinoma: visualization of tumor vessels compared with dsa	2001	-9.853451067858721	-20.7305102811371	3674030
+3675424	Vision	locally adaptive fuzzy pulmonary vessel segmentation in contrast enhanced ct data	2008	-9.464175554820397	-21.283272699672693	3675451
+3676009	Vision	coupled deformable models with spatially varying features for quantitative assessment of left ventricular function from cardiac mri	2003	-9.582662303040252	-20.765483238048876	3676036
+3676147	Vision	enhancement of cilia sub-structures by multiple instance registration and super-resolution reconstruction	2017	-9.954326074357414	-21.297786940490614	3676174
+3676544	Vision	dynamic programming for ultrasound image analysis of atherosclerosis	2009	-9.53887761955536	-20.918708898767644	3676571
+3676611	Vision	rigid registration of 3d ultrasound data of brain tumours	2003	-10.051457633988614	-20.522347213573752	3676638
+3676791	Vision	multiview two-task recursive attention model for left atrium and atrial scars segmentation	2018	-9.221891261973626	-20.594192741238068	3676818
+3676814	Vision	myocardium segmentation on 3d spect images	2015	-9.632141751799699	-20.827781817305482	3676841
+3677468	EDA	robust ct synthesis for radiotherapy planning: application to the head and neck region	2015	-9.934926730675473	-20.656436933780046	3677495
+3677784	Robotics	genetic model-based segmentation of chest x-ray images using free form deformations	2005	-9.513654990105882	-20.48790603425577	3677811
+3678155	Vision	left ventricular segmentation from mri datasets with edge modelling conditional random fields	2013	-9.30952634184987	-20.98829535758852	3678182
+3681240	Vision	comparison of performance between rigid and non-rigid software registering ct to fdg-pet	2007	-10.058886364905856	-20.889113190150443	3681267
+3681255	Vision	thoracic lymph node station recognition on ct images based on automatic anatomy recognition with an optimal parent strategy	2018	-9.293996887114133	-20.59206945082737	3681282
+3683334	Vision	a fully automatic multi-atlas based segmentation method for prostate mr images	2015	-9.628623149606227	-21.274835964087092	3683361
+3683512	Robotics	computational analysis of pet by aibl (capaibl): a cloud-based processing pipeline for the quantification of pet images	2015	-9.611484686017102	-20.945265207999615	3683539
+3685727	Visualization	recursive tracking of vascular networks in angiograms based on the detection-deletion scheme	1993	-9.542362875753883	-20.686748536877055	3685754
+3693603	Vision	reconstruction of heart motion from 4d echocardiographic images	2007	-10.036332401589512	-20.618348593710987	3693630
+3694264	Visualization	automatic brain tumor extraction from t1-weighted coronal mri using fast bounding box and dynamic snake	2012	-9.32013791508228	-20.750978802785426	3694291
+3694920	Robotics	retinal vessel width measurement at branching points using an improved electric field theory-based graph approach	2012	-9.167274366226081	-20.712420686831912	3694947
+3695252	Vision	uncertainty estimation for improving accuracy of non-rigid registration in cardiac images	2015	-10.082202150965493	-20.917867151793534	3695279
+3695477	Graphics	a digital model framework of metabolic system based on visible human data set	2007	-9.810048750085274	-20.751221340145886	3695504
+3696743	Vision	intra-hepatic vessel segmentation and classification in multi-phase ct using optimized graph cuts	2011	-9.245830994255533	-21.227003420632208	3696770
+3697798	Vision	automatic needle segmentation in 3d ultrasound images	2002	-9.86129620609214	-20.557357107481405	3697825
+3700738	EDA	registration of ct with pet: a comparison of intensity-based approaches	2018	-9.85308104212536	-21.260013004648272	3700765
+3703271	Vision	patient-specific coronary blood supply territories for quantitative perfusion analysis	2018	-9.379531076694695	-21.07610026635029	3703298
+3704147	Vision	measurement of hippocampal volume changes in serial mri scans	1999	-9.559938943864765	-20.811975258561066	3704174
+3706743	Vision	contour propagation using non-uniform cubic b-splines for lung tumor delineation in 4d-ct	2016	-9.767226085829874	-21.22150409189392	3706770
+3707265	Vision	segmentation of the outer vessel wall of the common carotid artery in cta	2010	-9.59823946776272	-21.279875126827484	3707292
+3710844	Vision	accurate and efficient separation of left and right lungs from 3d ct scans: a generic hysteresis approach	2014	-9.53847263617794	-20.60182355638855	3710871
+3711229	Robotics	segmentation of the liver from abdominal ct using markov random field model and gvf snakes	2008	-9.421769692329233	-20.720353086559246	3711256
+3712578	Vision	indirect pet-pet image registration to monitor lung cancer tumor	2007	-9.994848027713648	-20.652955201096603	3712605
+3714659	Vision	shifting of the aneurysm necks for enhanced aneurysm labelling	2006	-9.94494454406374	-21.263926980328808	3714686
+3714935	Vision	segmentation of volumetric mra images by using capillary active contour	2006	-9.471418643348414	-20.861253248779207	3714962
+3715143	Visualization	a markov random field orientation prior for electronic cleansing in ct colonography	2015	-9.998246742111792	-20.797665279848143	3715170
+3716283	Vision	introducing shape constraint via legendre moments in a variational framework for cardiac segmentation on non-contrast ct images	2010	-9.642465154523668	-20.970068281909352	3716310
+3719080	Visualization	improvements resulting from respiratory-swallow phase training visualized in patient-specific computational analysis of swallowing mechanics	2018	-9.752664127519123	-21.14499634103265	3719107
+3720178	Arch	surface parameterisation of the utero/placental interface using 3d power doppler ultrasound	2011	-9.900424903163913	-21.02526874228544	3720205
+3722249	Vision	tracking atria and ventricles simultaneously from cardiac short- and long-axis mr images	2003	-10.01764633667557	-21.174411555915057	3722276
+3724899	Vision	characterizing spatio-temporal patterns for disease discrimination in cardiac echo videos	2007	-9.765457416055416	-20.412458575824694	3724926
+3726978	Vision	a fast region-based active contour model for boundary detection of echocardiographic images	2011	-9.424888010590086	-20.511812783281687	3727005
+3730331	Visualization	a nearly-automated approach for left ventricular segmentation using feature asymmetry from real-time 3d echocardiography	2015	-9.825321194695443	-21.28406080779651	3730358
+3730416	Vision	automatic segmentation of the papilla in a fundus image based on the c-v model and a shape restraint	2006	-9.367405020685018	-20.94716416597018	3730443
+3731224	Vision	automatic segmentation and registration for the lung nodule matching in temporal chest ct scans	2005	-10.041557923584651	-21.096831251077123	3731251
+3731427	Vision	nested graph cut for automatic segmentation of high-frequency ultrasound images of the mouse embryo	2016	-9.544550502059767	-21.186265077053477	3731454
+3732019	Vision	enhancing a diffusion algorithm for 4d image segmentation using local information	2016	-9.244814682846632	-20.64040850590516	3732046
+3732218	Vision	automatic detection of cardiac cycle and measurement of the mitral annulus diameter in 4d tee images	2012	-9.857426792152504	-21.23149229470432	3732245
+3732311	Vision	fast and accurate segmentation of the lv in mr volumes using a deformable model with dynamic programming	2017	-9.517859890014915	-20.88484439036591	3732338
+3733530	Vision	contour extraction in medical images using initial boundary pixel selection and segmental contour following	2012	-9.484104159314922	-21.25568648384322	3733557
+3733749	Robotics	development of a semi-automated segmentation framework for thoracic-abdominal organs	2013	-9.311676118271741	-20.85508145234352	3733776
+3734412	Vision	local speed functions in level set based vessel segmentation	2004	-9.387689908921256	-20.51030543461605	3734439
+3734692	Vision	automatic segmentation of thalamus from brain mri integrating fuzzy clustering and dynamic contours	2004	-9.354910881343077	-20.774199307865235	3734719
+3736742	Visualization	image analysis of doppler echocardiography for patients with atrial fibrillation	2004	-9.869174246367255	-20.944901884182602	3736769
+3737162	Vision	liver contour extraction using modified snake with morphological multiscale gradients	2008	-9.260720305838012	-20.49963527145561	3737189
+3739017	Vision	3d epicardial fat registration optimization based on structural prior knowledge and subjective-objective correspondence	2015	-10.101649204834798	-20.994996579286255	3739044
+3740148	NLP	computerized extraction of craniofacial anatomical structures for orthodontic analysis	2005	-9.714633861582003	-20.898900138166173	3740175
+3740398	Vision	automated segmentation of blood-flow regions in large thoracic arteries using 3d-cine pc-mri measurements	2011	-10.105069363514797	-20.942755942986235	3740425
+3740732	Vision	semi-automatic segmentation of the tongue for 3d motion analysis with dynamic mri	2013	-9.808420649772742	-21.02235931807786	3740759
+3741419	Vision	investigation on the use of deformable registrations in lymph node tracking over time	2011	-9.306343176013359	-20.814482475152072	3741446
+3742858	Vision	automatic segmentation of wrist bones in ct using a statistical wrist shape $+$ pose model	2016	-9.599930191873495	-21.132063373991283	3742885
+3742869	Vision	extraction of ggo candidate regions on thoracic ct images using supervoxel-based graph cuts for healthcare systems	2018	-9.206322643547553	-21.12081699970615	3742896
+3742992	Vision	determining heart parameters through left ventricular automatic segmentation for heart disease diagnosis	2009	-9.545190666326427	-21.207644645885782	3743019
+3743612	Vision	an automated and robust framework for quantification of muscle and fat in the thigh	2014	-9.178166400169026	-21.280463960559445	3743639
+3744470	Robotics	surface extraction and thickness measurement of the articular cartilage from mr images using directional gradient vector flow snakes	2006	-9.654431678047013	-20.9583380392473	3744497
+3744984	Vision	non-rigid registration of fluorescein angiography and optical coherence tomography via scanning laser ophthalmoscope imaging	2017	-9.992903991463542	-21.210737861635497	3745011
+3746032	Robotics	accurate vessel segmentation in ultrasound images using a local-phase-based snake	2018	-9.3956521603289	-20.411592347608227	3746059
+3753346	Vision	organ pose distribution model and an map framework for automated abdominal multi-organ localization	2010	-9.256077548487543	-20.8238441388165	3753373
+3756675	Vision	a global-to-local matching strategy for registering retinal fundus images	2005	-9.370839485632132	-20.999970959231796	3756702
+3757677	Vision	automatic body localization and brain ventricle segmentation in 3d high frequency ultrasound images of mouse embryos	2018	-9.650254345542972	-20.76968334826459	3757704
+3761400	Vision	a statistical multi-vertebrae shape+pose model for segmentation of ct images	2013	-9.502958412496048	-20.856786403109453	3761427
+3762151	Embedded	groba: growing balloons for calibre measurement on stenotic lumens	2012	-10.038635865353244	-21.07664526237155	3762178
+3762517	Vision	peripheral nerve segmentation using speckle removal and bayesian shape models	2015	-9.25903288342001	-21.042092018387066	3762544
+3763310	Visualization	a 3-d modeling scheme for cerebral vasculature from mra datasets	2003	-9.750523749997145	-20.850016024354392	3763337
+3766001	Vision	bone contour tracing in digital x-ray images based on adaptive thresholding	2013	-9.322691640280174	-20.55221810654629	3766028
+3766405	Vision	a fully automatic method for segmenting retinal artery walls in adaptive optics images	2016	-9.967640444438938	-20.567577379230897	3766432
+3768638	Vision	estimating the body portion of ct volumes by matching histograms of visual words	2009	-9.281093960272242	-21.06461215874505	3768665
+3774025	Vision	development of a model for use in medical image interpretation	1989	-9.916750679263824	-20.49309304820545	3774052
+3776859	Vision	towards spatial correspondence between specimen and in-vivo breast imaging	2014	-9.668418065737443	-21.2400295022984	3776886
+3777219	HCI	determining position and fine shape detail in radiological anatomy	2003	-9.329502114215515	-20.580171380945888	3777246
+3779404	Vision	automated 3-d segmentation of lungs with lung cancer in ct data using a novel robust active shape model approach	2012	-9.391377665337123	-21.046261339852506	3779431
+3783238	Vision	automatic lung lobe segmentation using particles, thin plate splines, and maximum a posteriori estimation	2010	-9.52579930725842	-20.680996079480533	3783265
+3784632	Visualization	segmentation of large brain lesions	2001	-9.176450754263065	-21.16962216012984	3784659
+3789121	Metrics	a method for semi-automatic nuchal translucency thickness measurement	2014	-9.66502299323802	-21.30318981732984	3789148
+3790591	Vision	dynamic programming in parallel boundary detection with application to ultrasound intima-media segmentation	2013	-9.50860837797155	-20.733088900256533	3790618
+3791512	Vision	anatomical landmark based registration of contrast enhanced t1-weighted mr images	2010	-9.593032187507506	-20.96772590142972	3791539
+3792044	ML	uncertainty-driven sanity check: application to postoperative brain tumor cavity segmentation	2018	-9.445832170920609	-21.121139254572395	3792071
+3792710	Vision	automatic initialization of active contours in ultrasound images of breast cancer	2017	-9.676943478285748	-20.820440693296725	3792737
+3792737	ML	guideline-based machine learning for standard plane extraction in 3d cardiac ultrasound	2016	-9.570859460957642	-20.99306975485076	3792764
+3793170	Robotics	automated segmentation of three-dimensional mr brain images	2006	-9.37251655933341	-21.049492780877486	3793197
+3798783	Vision	automatic prostate segmentation from transrectal ultrasound images	2014	-9.811425545578233	-20.723475045168293	3798810
+3799811	Logic	validation of the automatic computation of the ejection fraction from cine-mri	2003	-9.479951824199356	-20.821350356534072	3799838
+3800616	Vision	a likelihood and local constraint level set model for liver tumor segmentation from ct volumes	2013	-9.637289197331075	-21.161829905366552	3800643
+3802660	Vision	segmentation of 4d cardiac mri: automated method based on spatio-temporal watershed cuts	2010	-9.55815861746594	-20.7297186037374	3802687
+3803329	Vision	radial basis function interpolation for rapid interactive segmentation of 3-d medical images	2017	-9.787589099431502	-21.076365964698283	3803356
+3803572	Visualization	probabilistic segmentation of the lumen from intravascular ultrasound radio frequency data	2012	-9.686920776199921	-20.981017219486468	3803599
+3804274	Vision	detecting small anatomical change with 3d serial mr subtraction images	1999	-9.982754866218286	-21.016051452277654	3804301
+3804489	Robotics	automatic generation of 3d vessels model using vessels image matching based on adaptive control points	2007	-9.9299440441011	-20.456584259124913	3804516
+3805145	Vision	automated scoring of fetal abdomen ultrasound scan-planes for biometry	2015	-10.03982790529289	-21.301604094093907	3805172
+3806921	Vision	mri-pet registration with automated algorithm in pre-clinical studies	2017	-9.543908894938816	-20.368564872606086	3806948
+3807426	Vision	combined model-based segmentation and elastic registration for accurate quantification of the aortic arch	2010	-9.737583089498838	-20.837134480486764	3807453
+3807603	Vision	automatic detection of nerves in confocal corneal images with orientation-based edge merging	2016	-9.626857744893695	-21.283800577992846	3807630
+3810334	Robotics	integrated system for quantitative analysis of coronary plaque via data fusion of biplane angiography and intravascular ultrasound	2003	-9.91093674163217	-21.087636743997248	3810361
+3811233	Vision	application of radial ray based segmentation to cervical lymph nodes in ct images	2013	-9.675464220118837	-21.23215513185232	3811260
+3812487	Vision	a hybrid boundary–region left ventricle segmentation in computed tomography	2010	-9.538960803084466	-20.961783283894764	3812514
+3813901	Vision	tracking of the anterior mitral leaflet in echocardiographic sequences using active contours	2016	-9.681225176250877	-21.053943816026088	3813928
+3814179	Vision	automated snake initialization for the segmentation of the prostate in ultrasound images	2005	-9.421709669912458	-20.99543764978058	3814206
+3814345	Vision	liver vessels segmentation using a hybrid geometrical moments/graph cuts method	2010	-9.690324146006471	-20.43597562100398	3814372
+3814885	Vision	interactive segmentation of tongue contours in ultrasound video sequences using quality maps	2014	-9.512746528066446	-20.861814618062876	3814912
+3815289	Vision	first-pass contrast-enhanced myocardial perfusion mri using a maximum up-slope parametric map	2006	-9.792424254271806	-20.799083177357602	3815316
+3817171	Visualization	centerline calculation for extracting abdominal aorta in 3-d mri images	2012	-10.104978298662884	-20.996997673982012	3817198
+3817977	Vision	vessels-cut: a graph based approach to patient-specific carotid arteries modeling	2009	-9.716197441074074	-21.230230929415796	3818004
+3818047	Vision	a novel segmentation technique for carotid ultrasound images	2004	-9.522064332926586	-21.019838025171932	3818074
+3818509	Vision	accurate joint-alignment of indocyanine green and fluorescein angiograph sequences for treatment of subretinal lesions	2017	-9.184071525068244	-20.636429485916754	3818536
+3819505	Vision	visceral anatomy benchmarks for organ segmentation and landmark localization: tasks and results	2017	-9.270273171315306	-21.301484888216887	3819532
+3824819	Visualization	interactive visual analysis of perfusion data	2007	-9.313752423730794	-21.190490139497193	3824846
+3826093	Vision	computer aided segmentation of kidneys using locally shape constrained deformable models on ct images	2010	-9.44956020817727	-20.985383959108862	3826120
+3828066	Vision	promising results for early diagnosis of lung cancer	2008	-9.5118786917685	-20.74410211885596	3828093
+3828826	Vision	flow-based segmentation of the large thoracic arteries in tridirectional phase-contrast mri	2009	-9.944609547395695	-21.022298921515038	3828853
+3829689	Vision	dynamic heart modeling based on a hybrid 3d segmentation approach	2004	-9.751235646319117	-20.40757724749961	3829716
+3830262	Robotics	monitoring the microcirculation at the bedside using hand-held imaging microscopes: automatic tracking of erythrocytes	2015	-10.02839016240364	-21.112842978772353	3830289
+3830442	Robotics	segmentation enhances material analysis in multi-energy ct: a simulation study	2013	-9.520413506935538	-20.41226666807604	3830469
+3830659	Vision	automatic tongue image segmentation based on gradient vector flow and region merging	2010	-9.18667315674172	-20.563033840310272	3830686
+3831095	EDA	tumor detection based on spatial and inter-slice analysis for mri breast imaging	2007	-9.250590254703383	-20.70943977173819	3831122
+3832011	Vision	optic disc segmentation by balloon snake with texture from color fundus image	2015	-9.260144006153793	-20.555651542839282	3832038
+3832557	Vision	a hessian-based filter for vascular segmentation of noisy hepatic ct scans	2011	-9.603299377640994	-21.225847495391122	3832584
+3838067	Vision	semi-automatic segmentation of major aorto-pulmonary collateral arteries (mapcas) for image guided procedures	2010	-9.643839304408381	-20.80310620872781	3838094
+3840206	Vision	3d segmentation and labeling of fractured bone from ct images	2014	-9.760565999847843	-20.851042040479733	3840233
+3841859	Vision	detection of infarct lesions from single mri modality using inconsistency between voxel intensity and spatial location—a 3-d automatic approach	2008	-9.315565129618609	-20.939961402922734	3841886
+3841978	Vision	automated segmentation of macular layers in oct images and quantitative evaluation of performances	2011	-9.268770545773863	-21.24020694859047	3842005
+3842540	Vision	a novel segmentation algorithm for digital subtraction angiography images: first experimental results	2008	-10.000479913239387	-20.463872434722493	3842567
+3843995	Vision	fully automated registration of first-pass myocardial perfusion mri using independent component analysis	2007	-10.076967338796956	-20.432164043884086	3844022
+3844308	Theory	quantitative growth measurement of lesions in hepatic interval ct exams	2008	-9.819671588326921	-20.675774789825624	3844335
+3846394	Vision	segmentation of the liver using the deformable contour method on ct images	2005	-9.607111635334238	-21.290581978197167	3846421
+3852812	Vision	segmentation and registration coupling from short-axis cine mri: application to infarct diagnosis	2016	-9.624329315647152	-20.696947287831303	3852839
+3854475	Visualization	3-d quantification and visualization of vascular structures from confocal microscopic images using skeletonization and voxel-coding	2005	-9.43292797970886	-20.81625635325832	3854502
+3856153	Vision	a shape-based segmentation algorithm for x-ray digital subtraction angiography images	2009	-9.927146952687457	-20.469660396107923	3856180
+3857292	Vision	tag and contour detection in tagged mr images of the left ventricle	1994	-9.67096291204763	-20.72389495870047	3857319
+3858103	Vision	automatic whole heart segmentation in static magnetic resonance image volumes	2007	-10.1200880388699	-20.80558275582264	3858130
+3858345	Vision	multimodality liver registration of open-mr and ct scans	2014	-9.923379822467464	-20.973123094672662	3858372
+3860192	Vision	phase portrait analysis for automatic initialization of multiple snakes for segmentation of the ultrasound images of breast cancer	2016	-9.276747401324837	-20.972272585580047	3860219
+3862481	Robotics	active model based carotid ultrasonic data segmentation	1999	-9.814919627803251	-20.806415525945148	3862508
+3863212	Vision	fast surface alignment for cardiac spatio-temporal modeling: application to ischemic cardiac shape modeling	2006	-9.54048891121116	-20.500965478070412	3863239
+3863902	Vision	evaluation of the registration of temporal series of contrast-enhanced perfusion magnetic resonance 3d images of the liver	2012	-9.507807208714166	-21.083054148646823	3863929
+3866000	Vision	semi-automatic segmentation for 3d motion analysis of the tongue with dynamic mri	2014	-9.902410898476496	-20.96490067968443	3866027
+3866293	Vision	extraction of the midsagittal plane from morphological neuroimages using the kullback-leibler's measure	2006	-9.376254265601311	-20.526088088571765	3866320
+3866613	Vision	hybrid method combining superpixel, random walk and active contour model for fast and accurate liver segmentation	2018	-9.30578980065074	-21.085300691898407	3866640
+3867368	HPC	3d retinal vascular network from optical coherence tomography data	2012	-9.830988776559373	-20.712279755587048	3867395
+3868075	NLP	atlas-based segmentation of pathological brains using a model of tumor growth	2002	-9.508257704394453	-20.360040208001625	3868102
+3868306	Vision	robust segmentation of intima–media borders with different morphologies and dynamics during the cardiac cycle	2018	-9.916460074668011	-21.116186657832685	3868333
+3869100	Robotics	analysis of four-dimensional cardiac data sets using skeleton-based segmentation	2003	-9.864885456224686	-20.780689091642078	3869127
+3872031	Vision	acceleration of the fully automatic branch labeling of voxel vessel structures	2010	-9.91497422414834	-20.956890764703225	3872058
+3872043	Vision	automatic segmentation of the human brain ventricles from mr images by knowledge-based region growing and trimming	2009	-9.27516466983134	-21.270212322281655	3872070
+3872984	Visualization	heat: a software assistant for the analysis of lv remodeling after myocardial infarction in 4d mr follow-up studies.	2006	-9.829305888427973	-20.912908751539923	3873011
+3873264	Vision	simultaneous nonrigid registration, segmentation, and tumor detection in mri guided cervical cancer radiation therapy	2012	-9.836366203302056	-21.00382311579897	3873291
+3874466	Vision	semi-automatic 3d segmentation of brain structures from mri	2011	-9.164679942927146	-20.796348394906317	3874493
+3874812	Robotics	cardioanalyser: a software tool for segmentation and analysis of the left ventricle from 4d mdct images of the heart	2010	-9.856369241330182	-20.964891783708968	3874839
+3876960	Robotics	contour tracking by minimal cost path approach: application to cephalometry	2004	-9.6423338363474	-20.45312689637352	3876987
+3877228	Vision	automatic segmentation of the left ventricle and computation of diagnostic parameters using regiongrowing and a statistical model	2005	-9.89534991580326	-21.035220596796385	3877255
+3878480	Vision	a statistical model of respiratory motion and deformation of the liver	2001	-10.105670959945384	-20.36335048407661	3878507
+3879384	Robotics	automatic extraction of the left atrial anatomy from mr for atrial fibrillation ablation	2009	-10.116145434432553	-21.043749774684827	3879411
+3880037	Vision	a framework using multimodal imaging for longitudinal monitoring of patients in neuro-oncology. application to a spect/mri study	2014	-9.432252699726805	-20.80965769793708	3880064
+3880881	AI	a clustering-based approach for prediction of cardiac resynchronization therapy	2005	-9.429527253230567	-20.83122400504101	3880908
+3882102	Vision	learning-based spine vertebra localization and segmentation in 3d ct image	2016	-9.744839262631919	-21.016648160152194	3882129
+3882468	Vision	contrast enhancement in emission tomography by way of synergistic pet/ct image combination	2008	-9.618560573899519	-20.592433778028735	3882495
+3883568	Vision	interactive segmentation of abdominal aortic aneurysms in cta images	2004	-9.545776488850004	-20.907007969227376	3883595
+3883708	Robotics	mitral valve prolapse detection using landmark extraction from echocardiography sequences	2012	-9.708109259416076	-21.061394424885343	3883735
+3885652	Visualization	correlating 2d histological slice with 3d mri image volume using smart phone as an interactive tool for muscle study	2014	-9.945668636413153	-20.707580148849388	3885679
+3890150	Vision	a comprehensive approach to the analysis of contrast enhanced cardiac mr images	2008	-9.77899242719337	-21.10869526870191	3890177
+3891667	Robotics	development of cad prototype system for crohn's disease	2010	-10.116800417902011	-21.035946172023326	3891694
+3895057	Vision	linear vs. quadratic optimization algorithms for bias correction of left ventricle chamber boundaries in low contrast projection ventriculograms produced from xray cardiac catheterization procedure	1999	-9.738006466934305	-20.830492747690453	3895084
+3899267	Vision	a novel, fast, and complete 3d segmentation of vertebral bones	2010	-9.691218224691047	-20.444291640595797	3899294
+3901095	ML	automatic bone and marrow extraction from dual energy ct through svm margin-based multi-material decomposition model selection	2014	-9.229061131715355	-20.796521977696692	3901122
+3904569	Vision	propagation of the mri prostate delineation to the planning ct: a new matching contour framework	2013	-9.285252628181828	-20.977865607497023	3904596
+3905643	Vision	a hybrid optimization strategy for registering images with large local deformations and intensity variations	2017	-9.606124663222664	-20.659015281665653	3905670
+3905677	Vision	simulation of mammographic breast compression in 3d mr images using icp-based b-spline deformation for multimodality breast cancer diagnosis	2014	-9.818320100797862	-20.91209180262236	3905704
+3906148	Vision	quantification of coronary hemodynamics and plaque morphology using x-ray angiography and intravascular ultrasound	2004	-9.223857877534993	-20.383441690041835	3906175
+3909700	HCI	automated biplane vessel recognition in digital coronary angiograms	1990	-9.899769779849851	-20.37323715324638	3909727
+3910527	Vision	difference of gaussians revolved along elliptical paths for ultrasound fetal head segmentation	2014	-9.596199897121084	-20.382613078832087	3910554
+3910641	Vision	automatic extraction of anatomical landmarks from medical image data: an evaluation of different methods	2009	-9.864800402975126	-20.828811807600264	3910668
+3911586	Vision	spatial-frequency approach to fibrous tissue classification in intracoronary optical images	2016	-9.886972327611328	-20.904473652184453	3911613
+3912035	Vision	tag point classification in tagged cardiac mr images	2006	-9.219276851009553	-20.55317388171098	3912062
+3912162	Vision	non-rigid registration of cervical spine mri volumes	2015	-9.739334060556711	-20.76741880464165	3912189
+3912770	Vision	a method to analyze the evolution of malignant gliomas using mri	2008	-10.11309430119425	-21.27109927102324	3912797
+3916003	Vision	image registration and atlas-based segmentation of cardiac outflow velocity profiles	2012	-9.880352105292113	-20.879900428950783	3916030
+3917206	Vision	exponential filters to extract small structures in noisy images	1994	-9.224524914003995	-20.76634509563701	3917233
+3922505	Visualization	visualization of hepatic arteries with 3d ultrasound during intra-arterial therapies	2016	-9.878520786092492	-21.23018709769789	3922532
+3924146	Vision	automatic analysis of echocardiographic video recordings	2003	-9.65735583548364	-21.07584315976412	3924173
+3924739	Robotics	multi-step 3d/2d image registration for image-guided spinal surgery	2008	-10.0483634142583	-20.358509824563416	3924766
+3927016	Vision	spatial compounding of large numbers of multi-view 3d echocardiography images using feature consistency	2010	-10.107847708937612	-20.41140851708353	3927043
+3927402	Vision	automatic extraction of interdental gingiva regions for accurate statistical shape from shading-based reconstruction of human jaw	2018	-9.82114422058897	-20.773785410306395	3927429
+3929331	Vision	level set snake algorithms on the fetal heart	2007	-9.598625163341312	-20.934464601601103	3929358
+3929836	Robotics	abdominal morphometric data acquisition using depth sensors	2013	-9.989398316602207	-21.162900842443282	3929863
+3934840	Vision	ultrasound contrast image segmentation using a modified level set method	2013	-9.852845718927972	-20.811841839533557	3934867
+3935280	Vision	quantitative vascular shape analysis for 3d mr-angiography using mathematical morphology	1995	-9.507044956322897	-20.52680585014701	3935307
+3935463	Vision	feature-based registration of thorax ct scan slices	2017	-9.781385777023658	-20.612295571999496	3935490
+3935800	Vision	adaptive approach to accurate analysis of small-diameter vessels in cineangiograms	1997	-9.719686980991716	-21.24304225487522	3935827
+3938785	HCI	constrained labeling of 2d slice data for reading images in radiology	2012	-9.790134612257184	-21.137814418468608	3938812
+3939632	Vision	four-chamber heart modeling and automatic segmentation for 3-d cardiac ct volumes using marginal space learning and steerable features	2008	-9.272935988243212	-20.38564070956817	3939659
+3940433	Vision	incorporating priors for medical image segmentation using a genetic algorithm	2016	-9.534295172021233	-21.043166411399273	3940460
+3940555	Vision	segmentation and tracking of inferior vena cava in ultrasound images using a novel polar active contour algorithm	2017	-9.4401820970388	-21.247500182073267	3940582
+3942421	Visualization	symbolic representation of brain vascular network with arteriovenous malformations from 3dra images	2015	-9.248481437779573	-21.13064402171568	3942448
+3942651	Vision	evaluation of body-wise and organ-wise registrations for abdominal organs	2016	-9.29519848224298	-20.44171477528589	3942678
+3944997	Vision	fully automatic extraction of human spine curve from mr images using methods of efficient intervertebral disk extraction and vertebra registration	2010	-9.529454371610193	-20.352480690632287	3945024
+3945402	Vision	automatic contour generation of 4d ct by deformable registration	2008	-9.931445883973527	-20.547728294171385	3945429
+3948098	Vision	intracranial vessel segmentation from time-of-flight mra using pre-processing of the mip z-buffer: accuracy of the zbs algorithm	2004	-9.530805367836026	-20.694747704642566	3948125
+3948437	Vision	hierarchical discriminative framework for detecting tubular structures in 3d images	2013	-9.380487669860836	-21.15437699174284	3948464
+3948999	Vision	a general framework for tree segmentation and reconstruction from medical volume data	2004	-9.528705421099339	-20.550931306121605	3949026
+3953580	Vision	marcel (inter-modality affine registration with correlation ratio): an application for brain shift correction in ultrasound-guided brain tumor resection	2017	-9.937643287207429	-21.29512733211016	3953607
+3953932	Vision	adaptive axes-generation algorithm for 3d tubular structures	1997	-9.66246204806052	-20.64279598990601	3953959
+3954266	Robotics	gabor filter-based automated strain computation from tagged mr images	2004	-9.916795409457183	-20.528247402732585	3954293
+3955044	Vision	an interactive x-ray image segmentation technique for bone extraction	2014	-9.17398124400791	-20.790344448285698	3955071
+3955300	Vision	improved boundary segmentation of skin lesions in high-frequency 3d ultrasound	2017	-9.210378802119834	-20.90337741739752	3955327
+3956301	SE	exploration of blood flow patterns in cerebral aneurysms during the cardiac cycle	2018	-9.512056240582623	-21.047068857269064	3956328
+3957600	Vision	segmentation, separation and pose estimation of prostate brachytherapy seeds in ct images	2015	-9.47204950217232	-20.985587208219734	3957627
+3959539	Vision	a comparison of medical image segmentation methods for cerebral aneurysm computational hemodynamics	2011	-9.468202030279134	-21.260388427247605	3959566
+3961377	Vision	hierarchic anatomical structure segmentation guided by spatial correlations (anatseg-gspac): visceral anatomy3	2015	-9.216144723529636	-20.713348669861226	3961404
+3961856	Vision	global colon geometric structure analysis based on geodesics and conformal flattening	2013	-9.73984972072608	-20.40241382247818	3961883
+3962164	Vision	quantitative analysis of three-dimensional tubular tree structures	2003	-10.1231113392933	-20.686413087927	3962191
+3963181	Graphics	patient-specific mappings between myocardial and coronary anatomy	2010	-9.851264391685751	-20.654392032997546	3963208
+3963386	Vision	coupled directional level set for mr image segmentation	2012	-9.511695952211749	-20.72491698415693	3963413
+3963641	Vision	3d surface texture analysis for early malignant melanoma diagnosis	2007	-9.482124565384556	-21.30663502704509	3963668
+3963833	Vision	intracranial aneurysm phantom segmentation using a 4d lattice boltzmann method	2017	-9.541721225586588	-20.67867700432872	3963860
+3964689	Vision	vectorial multi-phase mouse brain tumor segmentation in t1-t2 mri	2008	-9.878326642716267	-20.83171837346186	3964716
+3970856	Vision	evaluation of image features and search strategies for segmentation of bone structures in radiographs using active shape models	2002	-9.501314245578943	-20.424927176432053	3970883
+3972742	Vision	enhancement of mri human thigh muscle segmentation by template-based framework	2014	-9.510267831299403	-21.118311432044035	3972769
+3973364	Vision	vesselwalker: coronary arteries segmentation using random walks and hessian-based vesselness filter	2013	-9.384925322330387	-21.246004087409148	3973391
+3976989	Vision	a 3d generalization of user-steered live-wire segmentation	2000	-9.891835134997267	-21.068829682279212	3977016
+3978815	Vision	feature point identification and regional registration in sequences of non-structured texture images	1995	-9.445222991092226	-20.762778779181236	3978842
+3979288	Visualization	implementation and use of 3d pairwise geodesic distance fields for seeding abdominal aortic vessels	2015	-9.705820210880287	-20.813887977836767	3979315
+3980116	Vision	phantom-based ground-truth generation for cerebral vessel segmentation and pulsatile deformation analysis	2016	-9.815655255767828	-20.66945246643605	3980143
+3981138	Vision	automatic assessment of cardiac perfusion mri	2004	-9.521359116755443	-20.462498468886174	3981165
+3983111	Vision	highly accurate fast lung ct registration	2013	-9.910072689607377	-21.12426081692673	3983138
+3983750	NLP	retrospective correction of near field effect of x-ray source in radiographic images by using genetic algorithms	2010	-9.741351990523533	-21.17220190104464	3983777
+3985340	ML	tumor propagation model using generalized hidden markov model	2017	-9.26621902102051	-21.235335412276754	3985367
+3986893	Robotics	automatic segmentation of lumen intima layer in transverse mode ultrasound images	2018	-9.524090049522368	-20.92130261428205	3986920
+3989134	Vision	automatic ultrasound-mri registration for neurosurgery using the 2d and 3d lc2 metric	2014	-10.118411191480325	-20.778095414089247	3989161
+3991331	Vision	left atrial segmentation challenge: a unified benchmarking framework	2013	-9.243274146954311	-21.09606290887445	3991358
+3991886	Vision	a prioritized and adaptive approach to volumetric seeded region growing using texture descriptors	2006	-9.297261855113984	-20.723969293700414	3991913
+3993110	Vision	inter-patient modelling of 2d lung variations from chest x-ray imaging via fourier descriptors	2018	-9.312686913382008	-21.11067826959343	3993137
+3993254	EDA	computer-aided diagnosis in lungs radiography	2018	-9.389175713193184	-21.118927643312908	3993281
+3993324	Robotics	segmentation of ovarian follicles using geometric properties, texture descriptions, and boundary information	1996	-9.49582457614916	-20.64400133425654	3993351
+3993829	Vision	mass preserving image registration for lung ct	2012	-9.9041890138328	-21.020549533004885	3993856
+3993978	Visualization	monte carlo simulation of diabetic macular edema changes on optical coherence tomography data	2014	-9.844585584008207	-20.861637504840797	3994005
+3994124	Vision	fully automatic 3-d segmentation of knee bone compartments by iterative local branch-and-mincut on mr images from osteoarthritis initiative (oai)	2009	-9.627462836573462	-20.43212283528349	3994151
+3994140	Vision	efficient global optimization based 3d carotid ab-lib mri segmentation by simultaneously evolving coupled surfaces	2012	-9.438846606361643	-20.92672289984437	3994167
+3994528	Vision	evaluation of non-rigid constrained ct/cbct registration algorithms for delineation propagation in the context of prostate cancer radiotherapy	2013	-10.004085175759696	-20.98788250206453	3994555
+3999711	Vision	3d watershed-based segmentation of internal structures within mr brain images	2000	-9.276942963801071	-20.52220973811629	3999738
+4002599	Vision	multi-modal inter-subject registration of mouse brain images	2006	-9.565138031325096	-20.454344357930783	4002626
+4003032	Visualization	stenosis map for volume visualization of constricted tubular structures	2016	-9.951436367199909	-20.97772041141309	4003059
+4003347	Vision	the fuzzy hough transform-feature extraction in medical images	1994	-9.434722326402897	-21.23136231528908	4003374
+4003992	Vision	spatio-temporal registration of real time 3d ultrasound to cardiovascular mr sequences	2007	-10.018463444637703	-20.375127606330334	4004019
+4006056	Vision	a derivative of stick filter for pulmonary fissure detection in ct images	2013	-9.551597395950708	-21.193341297270138	4006083
+4007823	Robotics	automated optic disk segmentation via a modified snake technique	2006	-9.23690188527279	-20.570661821096557	4007850
+4011004	ML	markerless fluoroscopic gating for lung cancer radiotherapy using generalized linear discriminant analysis	2009	-9.317287922543915	-20.99800735199023	4011031
+4013850	Vision	holistic segmentation of intermuscular adipose tissues on thigh mri	2017	-9.300658078993498	-21.075433551636266	4013877
+4015344	NLP	robust automatic graph-based skeletonization of hepatic vascular trees	2017	-9.710637139836699	-20.58591290450596	4015371
+4016773	Robotics	segmentation of kidney cortex in mri studies using a constrained morphological 3d h-maxima transform	2006	-9.282686762732098	-21.188367137368925	4016800
+4017309	Vision	improved detection of simulated thrombus by layer decomposition of coronary angiograms	2001	-9.685343782355051	-20.869639291027788	4017336
+4021005	Vision	multiscale modeling for image analysis of brain tumor studies	2012	-9.393530458458207	-20.4906346093238	4021032
+4026067	Vision	fully automatic segmentation of the brain in mri	1998	-9.300893354186226	-20.745668676424216	4026094
+4030677	ML	implementation of deep learning algorithm for automatic detection of brain tumors using intraoperative ir-thermal mapping data	2015	-9.287106049866606	-21.08887251829653	4030704
+4030917	Vision	landmark-guided diffeomorphic demons algorithm and its application to automatic segmentation of the whole spine and pelvis in ct images	2016	-9.582644863453213	-21.289746148890426	4030944
+4031439	Logic	cardiovascular cartography-a new non-invasive technique to detect coronary artery disease	2001	-10.118603569229636	-20.780742306588596	4031466
+4033249	HCI	simulation of breast anatomy: bridging the radiology-pathology scale gap	2016	-9.693659615495946	-20.763818336131045	4033276
+4038689	Vision	markov-gibbs model based registration of ct lung images using subsampling for the follow-up assessment of pleural thickenings	2011	-9.786273576671881	-20.813016508811486	4038716
+4041215	Vision	dynamic active contour model for size independent blood vessel lumen segmentation and quantification in high-resolution magnetic resonance images	2001	-9.192107638054349	-20.48826906114511	4041242
+4043869	Vision	an iso-surfaces based local deformation handling framework of lung tissues	2016	-9.750538314989717	-20.735291253025114	4043896
+4045077	Vision	a new color coding scheme for easy polyp visualization in ct-based virtual colonoscopy	2007	-9.716354545788287	-20.940323057995137	4045104
+4047681	Vision	landmark detection and coupled patch registration for cardiac motion tracking	2013	-9.911807834735963	-20.622697349417766	4047708
+4048393	Vision	mitral annulus segmentation from 3d ultrasound using graph cuts	2010	-10.120916251913544	-21.240986787632412	4048420
+4048988	Vision	lung lobe segmentation by anatomy-guided 3d watershed transform	2003	-9.462417103980867	-21.131303666177907	4049015
+4051294	Vision	mesh-to-raster based non-rigid registration of multi-modal images	2017	-9.980598564465195	-20.63413559896848	4051321
+4051920	Vision	an algorithm for the segmentation of highly abnormal hearts using a generic statistical shape model	2016	-9.262897936093689	-20.687307216811863	4051947
+4052269	Vision	automated probabilistic segmentation of tumors from ct data using spatial and intensity properties	2009	-9.329699534446744	-21.223012511609774	4052296
+4052715	Visualization	liver segmentation on ct and mr using laplacian mesh optimization	2017	-9.616886205507017	-21.229664318118	4052742
+4052906	Visualization	automated left ventricular segmentation in cardiac mri	2006	-9.222887316655283	-20.583859278711095	4052933
+4053481	SE	glottal gap tracking by a continuous background modeling using inpainting	2017	-9.320428768431952	-21.137721541828984	4053508
+4055114	ML	automatic detection and segmentation of evolving processes in 3d medical images: application to multiple sclerosis	1999	-9.642145756100515	-21.137689995356997	4055141
+4056990	Vision	statistical shape model reconstruction with sparse anomalous deformations: application to intervertebral disc herniation	2015	-9.248924599529957	-20.46161709506687	4057017
+4059997	Vision	computationally efficient algorithm for the estimation of the intimamedia thickness of the common carotid artery	2010	-9.500756434246448	-20.58904461326019	4060024
+4060248	Vision	a framework of vertebra segmentation using the active shape model-based approach	2011	-9.445977537323962	-20.80156373149062	4060275
+4061059	Vision	resection-based demons regularization for breast tumor bed propagation	2018	-9.987905045770226	-20.742326423640087	4061086
+4063748	EDA	evaluation of computer-aided detection performance using mathematically simulated lung nodules	2004	-9.436687524414703	-21.260366094697837	4063775
+4064344	Vision	a hybrid framework of multiple active appearance models and global registration for 3d prostate segmentation in mri	2012	-9.258714237605632	-20.515900184734946	4064371
+4065931	Robotics	an effective segmentation method for mri images based on tv-l1 and gvf model	2018	-9.496346153279408	-20.73601225372529	4065958
+4068154	Visualization	localization of origins of premature ventricular contraction by means of convolutional neural network from 12-lead ecg	2018	-9.638671389181187	-20.699709478689154	4068181
+4068685	Visualization	non-invasive visualization of collateral blood flow patterns of the circle of willis by dynamic mr angiography	2006	-10.105372078035561	-20.39997759574321	4068712
+4070753	Vision	two-step registration of subacute to hyperacute stroke mris	2001	-9.319113117376519	-21.27467380908369	4070780
+4071660	Vision	automatic renal cortex segmentation using implicit shape registration and novel multiple surfaces graph search	2012	-9.632771540172405	-21.22754398510098	4071687
+4078209	Vision	a novel 3d stochastic solid breast texture model for x-ray breast imaging	2016	-9.877643968664108	-20.48578826789731	4078236
+4078325	Visualization	analyzing tubular tissue in histopathological thin sections	2012	-9.20679489052801	-20.674360438707996	4078352
+4080042	Visualization	two novel methods for computing the 3d cardiac midwall	2008	-10.0640602310925	-20.67317549808228	4080069
+4080171	Vision	multi-region tracking for lung tumor motion assessment	2009	-9.533658183908992	-20.53106054181258	4080198
+4080213	Vision	segmentation of anatomical structures in chest ct scans	2009	-9.355775301012653	-21.311059202801765	4080240
+4080497	Robotics	mapping tissue optical attenuation to identify cancer using optical coherence tomography	2009	-9.68682443324965	-20.956794755636775	4080524
+4082315	Visualization	computed tomography angiography: a case study of peripheral vessel investigation	2001	-10.036727259262072	-20.92316262787399	4082342
+4083069	Vision	automatic vertebra detection in x-ray images	2006	-9.540458156272956	-21.23640794958924	4083096
+4085205	Robotics	semi-automatic detection of calcifications using nonlinear stretching on x-ray images	2007	-9.466475178226755	-21.224169889166287	4085232
+4085657	Visualization	robust-seed: seed-based segmentation improvement by optimisation	2018	-9.468229178444268	-20.640949072843128	4085684
+4087795	Vision	asm driven snakes in rheumatoid arthritis assessment	2003	-9.4096401888991	-20.69683489335292	4087822
+4093088	Vision	segmentation of the skull in 3d human mr images using mathematical morphology	2002	-9.22835379090707	-20.81793228544711	4093115
+4093592	Vision	preconditioned intensity-based prostate registration using statistical deformation models	2017	-9.632834879707731	-21.09227005442908	4093619
+4097371	Vision	a recursive otsu-iris filter technique for high-speed detection of lumen region from endoscopic images	2001	-9.224659569180853	-20.610775145075547	4097398
+4099307	HCI	computer-assisted selection of donor sites for autologous grafts	1997	-9.842557101960953	-21.122509935141526	4099334
+4101077	Vision	fully automated motion correction in first-pass myocardial perfusion mr image sequences	2008	-9.97133518463314	-20.47058697297425	4101104
+4101377	Vision	automating prostate capsule contour estimation for 3d model reconstruction using shape and histological features	2004	-9.98016354196041	-21.30780763742233	4101404
+4101908	NLP	automatic quantification of spine parameters from x-ray images by means of morphological tools	1994	-9.553269386131994	-20.392349791192146	4101935

@@ -1,0 +1,584 @@
+id	area	title	year	x	y	ix
+2992430	EDA	on the use of system-on-chip technology in next-generation instruments avionics for space exploration	2015	-2.9440161738789015	12.718125455182689	2992457
+2995881	EDA	a programmable dsp solution to a solid state audio player	1999	-3.0139546237236856	13.028628463310726	2995908
+2995921	Robotics	s/390 cmos server i/o: the continuing evolution	1997	-2.7799623977811847	12.750214463176976	2995948
+2997988	EDA	design of a set-top box system on a chip (abstract)	1999	-2.550207817519437	12.273138739506425	2998015
+2998497	EDA	a cordic arctangent fpga implementation for a high-speed 3d-camera system	2000	-2.6384301386402984	12.493045174518368	2998524
+2999179	HPC	honeycomb: an application-driven online adaptive reconfigurable hardware architecture	2011	-2.689756132018501	12.974525655494544	2999206
+3000154	EDA	hw/sw architecture co-synthesis of asip-based mpsocs for highly- demanding applications	2013	-2.806595996948277	12.618416999216805	3000181
+3000573	EDA	asynchronous design, quo vadis?	2010	-3.3198639868366833	12.361016419824574	3000600
+3003484	Arch	run-control and service element code simulation for the s/390 microprocessor	1997	-3.0377704989864136	12.257129437991711	3003511
+3003572	EDA	fpga logic design of sata3.0 physical layer	2015	-2.560923644510112	12.950453104925545	3003599
+3006262	EDA	cords: hardware-software co-synthesis of reconfigurable real-time distributed embedded systems	1998	-2.527640579300209	12.411981699704874	3006289
+3006676	EDA	efficient power intent validation using loosely-timed simulation models	2013	-2.9388417346447797	12.400871980017149	3006703
+3007304	EDA	specification and design considerations for reliable embedded systems	2008	-2.9374232747845763	12.682797348504176	3007331
+3008667	EDA	verification challenges of workload optimized hardware systems	2011	-2.963636331506593	13.133741713652395	3008694
+3008882	EDA	challenges in the design of embedded real-time dsp socs	2004	-2.618818986977516	12.420362327868819	3008909
+3015085	EDA	automatic power modeling of infrastructure ip for system-on-chip power analysis	2007	-2.7006964549255383	12.608388092161007	3015112
+3015906	EDA	extending dynamic circuit switching to meet the challenges of new fpga architectures	1997	-2.663356276697568	12.6573457363726	3015933
+3016942	AI	a direct mapping system for datapath module and fsm implementation into lut-based fpgas	2002	-3.0916402369848943	12.477677089074616	3016969
+3018842	EDA	cycle error correction in asynchronous clock modeling for cycle-based simulation	2006	-2.5479217720427942	12.794069382629733	3018869
+3019605	EDA	low-resource bluespec design of a modular acquisition and stimulation system for neuroscience (abstract only)	2015	-2.857169064528762	12.324490311167779	3019632
+3020824	EDA	middleware switch asic implementation	2011	-2.889375432775097	12.565374330937207	3020851
+3022766	EDA	a low power design space exploration methodology based on high level models and confidence intervals	2009	-2.9529946501924504	12.779757610207565	3022793
+3024702	EDA	accelerating emulation and providing full chip observability and controllability	2009	-2.9286755245999436	12.379841583296532	3024729
+3028702	Robotics	designing a soc to control the next-generation space exploration flight science instruments	2015	-2.8733580072794247	12.627490826534446	3028729
+3032201	EDA	pygen: a matlab/simulink based tool for synthesizing parameterized and energy efficient designs using fpgas	2004	-2.514564197570538	12.734921425584442	3032228
+3038032	EDA	the benefits of 3d networks-on-chip as shown with ldpc decoding	2009	-2.670610112001384	12.948608867509673	3038059
+3039487	Arch	has anything changed in electronic design since 1983?	2009	-3.265979765265312	12.820304908756759	3039514
+3040947	Arch	emerging research architectures	2008	-3.321883189669458	13.034658881325187	3040974
+3041031	Arch	trace processors: moving to fourth-generation microarchitectures	1997	-2.7428848440610247	12.647216066666243	3041058
+3043876	Embedded	verification techniques for a mips compatible embedded control processor	1991	-2.9418651481823797	12.316900482356994	3043903
+3044369	EDA	power estimation of time variant socs with tapes	2007	-2.9326663337393946	12.584314287679756	3044396
+3049981	Arch	a design of the new fpga with data path logic and run time block reconfiguration method	1999	-2.9765737537156163	12.754664099428068	3050008
+3051188	Visualization	reconfiguring wireless phones with adaptive chips	2003	-2.9327779451136022	13.091202724864262	3051215
+3051347	EDA	performance analysis and design space exploration for high-end biomedical applications: challenges and solutions	2007	-2.485390405396509	12.750057370520587	3051374
+3052141	EDA	convergence in reconfigurable embedded systems	2010	-2.5610137996828386	12.381707074532704	3052168
+3055187	DB	ibm s/390 parallel enterprise server g5 fault tolerance: a historical perspective	1999	-3.031848207172392	13.097692983447716	3055214
+3055449	EDA	the second generation intel® core™: a highly integrated high performance multi ia-core and processor graphics chip	2011	-2.6659476459576386	12.583683264684925	3055476
+3059664	Metrics	what's the next eda driver?	2002	-3.265499584409342	13.160657327212274	3059691
+3062116	Theory	future directions in electronic computing and information processing	2005	-3.2487394434577164	12.971293888758476	3062143
+3065911	EDA	a timing-driven synthesis technique for arithmetic product-of-sum expressions	2008	-2.8357941885166764	13.044077145733105	3065938
+3066453	EDA	memory security in reconfigurable computers: combining formal verification with monitoring	2014	-2.914986001517589	13.183643518311882	3066480
+3070239	Arch	compensating algorithmic-loop performance degradation in asynchronous circuits using hardware multi-threading	2008	-3.1536329949047133	12.585087461182301	3070266
+3071306	EDA	networks on chips for high-end consumer-electronics tv system architectures	2006	-2.9366669583466347	12.472972187510411	3071333
+3073789	HPC	a mdsp (multimedia dsp) chip for portable multimedia applications	1999	-2.8724463275284515	12.987186573903346	3073816
+3074739	Embedded	a low-cost realization of an adaptable protocol processing unit	2005	-2.4765284598724855	12.576742750557234	3074766
+3075608	EDA	the future of multiprocessor systems-on-chips	2004	-2.62826398129912	12.681456847632726	3075635
+3077174	EDA	communication synthesis for reconfigurable embedded systems	1999	-2.7422984179369565	12.43559674786489	3077201
+3077995	EDA	design of an ipv4/ipv6 translator based on sopc technology	2008	-3.0851412137858936	12.941689646926699	3078022
+3083496	EDA	multiple word-length high-level synthesis	2008	-2.52033815016614	12.540747126357159	3083523
+3084089	HCI	developing interface libraries for reconfigurable data acquisition boards	1995	-2.641377118715391	12.251060012942526	3084116
+3085502	Arch	multiple microprocessor systems: what, why, and when	1983	-2.9639448463018985	12.777390214307704	3085529
+3087768	EDA	multiport memory based data path allocation focusing on interconnection optimization	1994	-2.9176194316811355	12.757958338345125	3087795
+3091890	EDA	multiprocessor systems-on-chips	2006	-2.5721818651903385	12.997973926661572	3091917
+3096076	EDA	a controlled data-path allocation model for dynamic run-time reconfiguration of fpga devices	2003	-2.7664403365566343	13.130428630442614	3096103
+3096901	Graphics	natural language processing	1977	-3.3501241272996145	13.176884917353323	3096928
+3096968	EDA	"""""""smart"""" design space sampling to predict pareto-optimal solutions"""	2012	-2.430633451105152	12.953891462420506	3096995
+3098136	HPC	a coarse-grained dynamically reconfigurable processing array (rpa) for multimedia application	2007	-2.5041464671546367	13.050123396206374	3098163
+3099911	EDA	emulating static faults using a xilinx based emulator	1995	-2.9048013899341516	12.404846673906595	3099938
+3100102	EDA	implementation of an ieee802.11a transmitter module for a reconfigurable system-on-a-chip design	2009	-2.9913264244608713	13.10273505089123	3100129
+3106050	Arch	a noc-based infrastructure to enable dynamic self reconfigurable systems	2007	-2.4180383318745235	13.068151864050446	3106077
+3106906	EDA	word-length aware dsp hardware design flow based on high-level synthesis	2011	-2.476984471570581	12.956326587932189	3106933
+3108798	EDA	the liquid metal ip bridge	2013	-2.7582016408333496	12.362688137791068	3108825
+3111885	EDA	a novel data-path for accelerating dsp kernels	2004	-2.4746784783480527	13.013557682113015	3111912
+3119012	HPC	a high speed networked signal processing platform for multi-element radio telescopes	2011	-2.6989163279706863	12.745187966236124	3119039
+3119018	Arch	microcontroller design advantages for portable computing	1997	-2.8356704370039343	12.494031329836881	3119045
+3123546	Arch	morrph: a modular and reprogrammable real-time processing hardware	1995	-2.6119658470619656	12.368900720676045	3123573
+3127582	Arch	design and implementation of an interface control unit for rapid prototyping	1993	-3.2349865809166323	12.479339591297867	3127609
+3128344	EDA	efficient optimal design space characterization methodologies	2000	-2.8169200154875926	12.250873377369508	3128371
+3134444	Arch	a practical, low-cost, home/school microprocessor system	1974	-2.8653127080053653	12.453983866321025	3134471
+3135572	EDA	pls: a scheduler for pipeline synthesis	1993	-2.6466070193017672	12.622175229025832	3135599
+3142286	Embedded	copycat: a high precision real time nand simulator	2016	-2.6802295776814837	13.147936400047188	3142313
+3144884	EDA	802.11a transmitter: a case study in microarchitectural exploration	2006	-2.958118775583911	12.460631448842694	3144911
+3145120	EDA	compiler-in-the-loop exploration during datapath synthesis for higher quality delay-area trade-offs	2012	-2.4297164369085893	12.920850834660552	3145147
+3145697	EDA	fine-grained interconnect synthesis	2016	-2.677024067368883	13.066567466272973	3145724
+3146294	EDA	tutorial t8b: performance debugging of complex embedded systems	2007	-2.4141411762410234	12.598223300915976	3146321
+3146461	EDA	structural integrity: safety in miniature technology	2008	-2.977345028873096	12.699077388346305	3146488
+3146509	EDA	an architectural design of a multimedia over ip (moip) terminal	2002	-2.654899720826416	12.348915674473051	3146536
+3151306	EDA	a circulating active barrier synchronization mechanism	1995	-3.2360980506649826	12.75218503569742	3151333
+3153795	EDA	esl hand-off: fact or eda fiction?	2008	-3.1165426373415714	12.304322169926882	3153822
+3159547	EDA	an automatic cache generator based on content-addressable memory	2006	-3.317243464461128	12.668303450512227	3159574
+3159572	EDA	bitwise scheduling to balance the computational cost of behavioral specifications	2006	-2.92435420529054	12.586552235622722	3159599
+3164185	Robotics	a standardized interface control unit for heterogeneous digital signal processors	1994	-2.416240715271769	12.458339754948065	3164212
+3165537	EDA	a low power configurable soc for simulating delay-based audio effects	2012	-2.4811167074219127	13.02117814037048	3165564
+3171192	EDA	a reconfigurable content addressable memory	2000	-2.785594719469314	12.464776905639098	3171219
+3172650	EDA	a functional test methodology for globally-asynchronous locally-synchronous systems	2002	-2.9800412597187456	12.36634846684566	3172677
+3174380	EDA	coordinated resource optimization in behavioral synthesis	2010	-2.6624320224419	12.863948287346195	3174407
+3176731	EDA	verification and test challenges in soc designs	2004	-3.3278705660907884	12.254081346693127	3176758
+3178501	EDA	comparison of gals and synchronous architectures with mpeg-4 video encoder on multiprocessor system-on-chip fpga	2006	-2.95281899407744	13.201642709492555	3178528
+3180736	Arch	design for testability of functional cores in high performance node architectures	2008	-2.577649925768747	13.064501357626481	3180763
+3182340	EDA	the last byte: the hls tipping point	2009	-3.0908663763005872	12.306628159857466	3182367
+3183138	Arch	implementation of high speed data sets with microprogrammable data processors	1978	-2.9717285928447934	12.781379151248489	3183165
+3185070	HPC	reconfigurable randomized k-way graph partitioning	2003	-2.91322483217452	12.336183553936493	3185097
+3188075	EDA	c-based hardware-accelerator coprocessing for soc an quantitative area-performance evaluation	2008	-2.5880160177615923	12.329615276699574	3188102
+3190826	EDA	a hardware implementation of distributed network protocol	2005	-2.8349234637544964	12.810190456041804	3190853
+3191112	EDA	partitioning sequential programs for cad using a three-step approach	2002	-2.472078219120938	12.468592544849177	3191139
+3199318	EDA	how preserving circuit design hierarchy during fpga packing leads to better performance	2018	-2.6181584053563864	13.184092318772635	3199345
+3203720	Embedded	design methodology for a mips compatible embedded control processor	1991	-3.339521238078384	12.43995034992226	3203747
+3203823	EDA	research on design method of scalable configurable ip core	2011	-3.0013622100959902	12.386327446331014	3203850
+3208199	EDA	tengyue-1tengyue: in chinese means jump over.: a high performance embedded soc	2004	-2.9653092611357907	12.65410581473438	3208226
+3208251	Robotics	integration of the self-healing edna architecture in a liquid crystal waveguide-based fourier transform spectrometer	2011	-2.9446580552285813	12.480775891257226	3208278
+3208357	EDA	combined hardware selection and pipelining in high performance data-path design	1990	-2.7171543814100128	12.80953969417382	3208384
+3211042	EDA	guest editor's introduction: design tools for embedded systems	2000	-3.2513747993414706	12.593690803690855	3211069
+3223233	EDA	synthesis for soc architecture using vcores	2003	-2.467399761709764	12.382690777086818	3223260
+3228611	Embedded	a power consumption analysis technique using uml-based design models in embedded software development	2011	-2.550514168341505	12.582378575588699	3228638
+3230962	EDA	asynchronous ahb bus interface designs in a multiple-clock-domain graphics system	2012	-2.7653154142152387	13.009508483563122	3230989
+3235291	HPC	flexible and resource efficient fpga-based quad data rate memory interface design for high-speed data acquisition systems	2018	-3.0196900428169187	12.244016468874106	3235318
+3235715	EDA	selfchecking computer module based on the viper microprocessor	1988	-2.8561048223476173	12.277184503798905	3235742
+3237445	Robotics	smart camera design for intensive embedded computing	2005	-3.0884954323597635	12.916569609850596	3237472
+3238038	EDA	an efficient synchronous static memory design for embedded system	2013	-3.048773524547012	13.054564691307393	3238065
+3239144	EDA	using system-on-a-programmable-chip technology to design embedded systems	2006	-2.658842296934425	12.314360742333493	3239171
+3240062	EDA	a cost model for partial dynamic reconfiguration	2011	-2.829618455220673	12.935628528565509	3240089
+3240743	Arch	confetti : a reconfigurable hardware platform for prototyping cellular architectures	2007	-2.663940886783468	13.131356858866267	3240770
+3242674	EDA	an integrated algorithm for incremental data path synthesis	1996	-2.571230507392455	12.566075404700106	3242701
+3246695	EDA	hardware-software co-design: tools for architecting systems-on-a-chip	1997	-2.501853164623009	12.306438932297427	3246722
+3250418	HCI	improving esl power models using switching activity information from timed functional models	2014	-2.428453966642831	13.084263011960106	3250445
+3251068	EDA	implementation of virtual circuits by means of the fipsoc devices	2000	-2.5646892403784607	13.003959876005455	3251095
+3251667	Embedded	programmable active emulation of wireless systems — a dvb-rcs example	2008	-2.4456245084981147	12.891654099232905	3251694
+3252926	Robotics	the boundary-scan master: target applications and functional requirements	1990	-2.459061682663335	12.511125231214855	3252953
+3253540	HPC	low-cost space-borne processing on a reconfigurable parallel architecture	2004	-2.7736645723177307	12.530875208641934	3253567
+3253624	EDA	path scheduling on digital microfluidic biochips	2012	-3.1777033530160845	12.399327687227553	3253651
+3253887	EDA	improving mw/mhz ratio in fpgas pipelined designs	2002	-3.2195992518287464	13.193435320461207	3253914
+3255625	EDA	new complexities in the embedded world - the oti approach	1997	-3.263054813214393	12.51128481230876	3255652
+3255674	EDA	integrating floorplanning in data-transfer based high-level synthesis	1998	-2.6982023929914978	12.471068598471264	3255701
+3258265	EDA	large-scale application of formal verification: from fiction to fact	2010	-3.35064970713029	12.32852104114038	3258292
+3258354	Arch	adjustable-cost overlays for runtime compilation	2015	-2.904730434426328	12.896370260467243	3258381
+3258746	HPC	instruction level power analysis and optimization of software	1996	-2.824400389657828	13.047213147012167	3258773
+3260624	EDA	automatic floorplanning and interface synthesis of island style reconfigurable systems with goahead	2013	-2.8035888942054275	12.531857205718598	3260651
+3261014	EDA	power analysis of a 32-bit embedded microcontroller	1998	-2.422633157727592	12.965819994789655	3261041
+3263393	EDA	ieee p1687 ijtag a presentation of current technology	2009	-3.3613250138606063	12.378522655738076	3263420
+3265507	EDA	high-reliability fpga-based systems: space, high-energy physics, and beyond	2015	-3.1067630178520744	12.828980438768644	3265534
+3267001	EDA	matisse: an architectural design tool for commodity ics	1998	-3.310674609555766	12.441085236350665	3267028
+3267959	Arch	polymorphic arrays: an architecture for a programmable systolic machine	1985	-2.401234687524458	12.408513272278626	3267986
+3270156	EDA	fast self-reconfigurable embedded system on spartan-3	2013	-2.4169913113121138	12.667808334308445	3270183
+3273836	EDA	efficient dsp algorithm development for fpga and asic technologies	2007	-2.682284599983217	12.4804923738425	3273863
+3274516	Embedded	ultra-fast downloading of partial bitstreams through ethernet	2009	-2.6842156400758572	12.746562416517605	3274543
+3279714	EDA	low overhead memory subsystem design for a multicore parallel dsp processor	2014	-2.6265428164606246	13.039240827636009	3279741
+3281246	Arch	ddr sdram memory controller for digital tv decoders	2011	-2.7005840500966487	12.539910237940076	3281273
+3282045	Robotics	multiplier changing overclocking method for processor intensive tasks	2015	-2.6908991269698883	13.029529863098874	3282072
+3282287	EDA	a rapid configurable embedded development framework	2007	-3.2476003094392536	12.50159388946882	3282314
+3282724	Arch	multi-objective design space exploration using genetic algorithms	2002	-2.523359913745872	12.885390725722196	3282751
+3286490	Embedded	comma: a communications methodology for dynamic module reconfiguration in fpgas	2006	-2.4500763530284138	12.794673205950374	3286517
+3295133	EDA	fpga-enabled computing architectures	2005	-2.9818198006643577	13.14819215072532	3295160
+3296711	EDA	tuning socs using the global dynamic critical path	2009	-2.7682797034320745	12.499329936714268	3296738
+3297166	EDA	pk tool 2.0: a systemc environment for high level power estimation	2005	-3.2725618540953065	12.473526646792216	3297193
+3298661	EDA	a topology design customization approach for stnoc	2007	-2.6518784395447987	12.929950192749152	3298688
+3300380	Arch	design and evaluation of burst-mode asynchronous 8-bit microprocessor using standard fpga development system	2010	-2.869307616516636	12.924040774408779	3300407
+3302148	EDA	automatic identification of custom functions for embedded processors with mimo extensions	2006	-2.4459836274309263	12.266156168341972	3302175
+3305244	HPC	sparcle: a multithreaded vlsi processor for parallel computing	1992	-2.7957844713290445	12.947392741537383	3305271
+3307478	EDA	high-level scheduling model and control synthesis for a broad range of design applications	1997	-2.5534215625572	12.431713958765426	3307505
+3308357	Arch	soc: software, hardware, nightmare, bliss	2003	-3.2237202317362805	12.735148299069538	3308384
+3314953	EDA	intelligent sensor interface for automotive applications	2005	-3.015948692357086	12.356880386898133	3314980
+3315281	EDA	a rapid prototyping methodology and platform for seamless communication systems	2001	-2.4812810069858884	12.315787959481945	3315308
+3317268	EDA	quantitative analysis of fpga-based database searching	2001	-2.8486119477501566	13.1751329053564	3317295
+3318213	Arch	a hardware verification methodology for an interconnection network with fast process synchronization	2012	-2.8814947593957188	12.76176109410265	3318240
+3319880	EDA	a scheme for synthesizing testable vlsi designs with minimum area overhead	1993	-2.4759635791985497	12.540338386727464	3319907
+3321287	Embedded	a hardware/software codesign for improved data acquisition in a processor based embedded system	2000	-2.8094129376668056	12.76405365342788	3321314
+3321544	EDA	system-level metrics for hardware/software architectural mapping	2004	-2.8471602641325124	12.63489875763296	3321571
+3324554	EDA	extending platform-based design to network on chip systems	2003	-2.4828912676003454	12.97387157949089	3324581
+3326997	EDA	mapping of partial reconfigurable data flows to xilinx fpgas	2005	-2.5866042320255938	13.156409376860838	3327024
+3335196	Arch	efficient self-reconfigurable implementations using on-chip memory	2000	-2.8081409795786554	12.95999823224421	3335223
+3337148	EDA	amba: enabling reusable on-chip designs	1997	-2.927147950930886	12.308067760626747	3337175
+3337880	EDA	mpsoc architectural design and synthesis for real-time biomedical signal processing in gamma cameras	2008	-2.674326348898559	12.965776208932192	3337907
+3340062	Arch	a survey of ict: evolution of architectures, models and layers	2016	-3.093956132655836	13.015625344293444	3340089
+3341710	EDA	profile- and instrumentation- driven methods for embedded signal processing	2015	-3.1171973323382223	12.582394885560742	3341737
+3345976	Arch	emerald: characterization of emerging applications and algorithms for low-power devices	2013	-2.6056549059008844	13.040284059085181	3346003
+3346595	EDA	an automated, reconfigurable, low-power rfid tag	2006	-3.114190250965432	12.695592229661115	3346622
+3348705	Arch	a digital signal processor module architecture and its implementation using vlsis	1984	-3.1324067784080785	12.257759439557624	3348732
+3350607	EDA	role of the verification team throughout the asic development life cycle	2009	-3.323383688208572	12.301755696685765	3350634
+3353212	EDA	prototyping of a wlan system using c++ based architecture exploration	2007	-2.5893731904339563	12.455309066544814	3353239
+3353340	EDA	dsp systems using three-dimensional integration technology	2013	-3.2153459279897354	13.073192600948527	3353367
+3358971	EDA	allocation of multiport memories in asic data path synthesis	1994	-2.8327101047138146	12.784015675462289	3358998
+3359635	EDA	a multi-fpga based platform for emulating a 100m-transistor-scale processor with high-speed peripherals (abstract only)	2010	-2.7007683929470567	12.573121539061766	3359662
+3365967	EDA	a graph-theoretic approach for register file based synthesis	1997	-2.854003260349804	12.760335485533645	3365994
+3366705	EDA	embedded dram design and architecture for the ibm 0.11-µm asic offering	2002	-3.3293224152732743	12.694914458931208	3366732
+3366967	Embedded	parallel and flexible multiprocessor system-on-chip for adaptive automotive applications based on xilinx microblaze soft-cores	2005	-2.6364798276466828	12.460543287474218	3366994
+3368478	HPC	a real-time capable virtualized information and communication technology infrastructure for automotive systems	2012	-2.535650624876605	12.846263903364177	3368505
+3368756	EDA	implementation of an initial-configuration based on self-reconfiguration for an on-board processor	2013	-2.8731392986680007	12.855456928545554	3368783
+3369169	HPC	simulation-based evaluation of design options for high performance parallel architectures for space-borne applications	2004	-2.4777772689233903	12.378309690180712	3369196
+3369453	EDA	high-level synthesis of multiple-precision circuitsindependent of data-objects length	2002	-2.4676596008510687	12.695933936153518	3369480
+3369454	EDA	optimized architectural synthesis of fixed-point datapaths	2008	-2.6018913869026368	12.957592022104627	3369481
+3371279	EDA	automatic fault handling on coarse grain reconfigurable computing architecture	2008	-3.350376978774108	12.66766551100508	3371306
+3377538	HCI	a real-time recording system for radio applications	2000	-2.5550174716487346	12.314032339946447	3377565
+3381977	Arch	sdr and wireless infrastructure	2003	-3.218142905843781	13.017770184101302	3382004
+3382275	EDA	an embedded low power/cost 16-bit data/instruction microprocessor compatible with arm7 software tools	2007	-2.8581307036550725	12.767608217955614	3382302
+3382370	EDA	fast start-up for spartan-6 fpgas using dynamic partial reconfiguration	2011	-3.0122829986036312	13.13214172630426	3382397
+3383409	EDA	partitioning of functional models of synchronous digital systems	1990	-2.896866737899128	12.572339342073565	3383436
+3384865	EDA	an approach: fpga based dynamically reconfigurable architecture to enable several scheme controls for power converters	2012	-2.5651677635834313	12.699037508368786	3384892
+3385436	EDA	in-situ fpga debug driven by on-board microcontroller	2009	-3.2302594071062587	12.284818145095658	3385463
+3386736	EDA	a decade of hardware/software codesign	2003	-3.1087926788625584	12.563633341424392	3386763
+3388788	Arch	safety evaluation based on virtual prototypes: fault injection with multi-level processor models	2016	-2.751628908541889	12.246906959731207	3388815
+3389198	Arch	realization of a programmable parallel dsp for high performance image processing applications	1998	-2.5525004669504106	12.488225003116524	3389225
+3390786	Embedded	designing bee: a hardware emulation engine for signal processing in low-power wireless applications	2003	-2.773381545857607	13.014031800775845	3390813
+3391386	Arch	low power register file architecture for application specific dsps	2002	-2.8226409808253665	13.08674411310338	3391413
+3392324	Arch	a dynamically reconfigurable architecture for low-power multimedia terminals	2001	-2.45296112685475	12.822698627757282	3392351
+3393575	Arch	field modifiable architecture with fpgas and its design/verification/debugging methodologies	2003	-2.992679984161851	12.453832236419425	3393602
+3395098	Vision	incremental analysis of large vlsi layouts	2009	-2.530081998594968	12.325521503238654	3395125
+3395272	EDA	dart: a dynamically reconfigurable architecture dealing with future mobile telecommunications constraints	2002	-2.6679832789821365	13.021906697659922	3395299
+3397512	EDA	pin-limited frequency downscaler ahb bridge for asic to fpga communication	2008	-3.257407015289421	12.43972095473941	3397539
+3398577	EDA	architecture issues and solutions for a high-capacity fpga	1997	-3.0621484705137023	12.377129469018398	3398604
+3403111	EDA	integrated protocol-operation-controller design based on flexray communication protocol	2012	-2.8715577939425736	12.2859966254919	3403138
+3405484	Arch	skeleton-based design and simulation flow for computation-in-memory architectures	2016	-2.529766003393083	12.666558323726303	3405511
+3406656	Mobile	the smartphone-enabled dmm	2014	-3.189529771127219	12.67234261668401	3406683
+3407037	HPC	onboard processing with hybrid and reconfigurable computing on small satellites	2018	-2.975756823080732	12.984211885594988	3407064
+3413373	EDA	dspxplore: design space exploration methodology for an embedded dsp core	2004	-2.6243097567940374	12.603518228618295	3413400
+3424194	EDA	optimal ip assignment for efficient noc-based system implementation using nsga-ii and microga	2009	-2.592497901884268	13.08391510539267	3424221
+3425169	EDA	a flexible virtual platform for computational and communication architecture exploration of dmt vdsl modems	2003	-2.4191831975676887	12.876617552923909	3425196
+3425702	EDA	towards an asynchronous mips processor	2003	-2.574112215429007	12.42415250056666	3425729
+3426271	EDA	on-line routing of reconfigurable functions for future self-adaptive systems - investigations within the æther project	2007	-3.023523163920585	12.849772341547025	3426298
+3426712	Arch	ecc design of a custom dram storage unit	1993	-2.7108341196943635	12.97608191876577	3426739
+3428364	EDA	microarchitectural synthesis of performance-constrained, low-power vlsi designs	2002	-2.8289787751182125	13.027815785378325	3428391
+3429566	EDA	a heuristic for data path synthesis using multiport memories	1992	-3.0970675208788903	12.572005722732914	3429593
+3430148	EDA	architectural design space exploration achieved through innovative rtl power estimation techniques	2000	-3.118523508232182	12.405749016606435	3430175
+3432252	EDA	cadre: an asynchronous embedded dsp for mobile phone applications	2002	-3.068059089762272	12.273166881143384	3432279
+3433116	EDA	a fast emulation-based noc prototyping framework	2008	-2.497541849888609	12.45023938734657	3433143
+3433300	Arch	a cost-effective risc/dsp microprocessor for embedded systems	1995	-2.8018449345405685	12.546677346891382	3433327
+3434425	ML	algorithm-based error detection for signal processing applications on a hypercube multiprocessor	1989	-3.2484924655221312	12.3986721109256	3434452
+3436991	Arch	fabrication security and trust of domain-specific asic processors	2017	-2.9040789943720697	12.57571590658942	3437018
+3437872	EDA	real-time lut-based network topologies for dynamic and partial fpga self-reconfiguration	2004	-2.9126077199279856	13.025167238105485	3437899
+3438922	HPC	power exploration for data dominated video applications	1996	-2.726683675941856	12.936157875109739	3438949
+3440000	EDA	application of esl synthesis on gsm edge algorithm for base station	2010	-2.4397534089313493	12.807260426693404	3440027
+3442243	EDA	multi-objective optimal controller synthesis for heterogeneous embedded systems	2006	-2.9544473713668995	12.364178567607595	3442270
+3445230	EDA	heterogeneous memory assembly exploration using a floorplan and interconnect aware framework	2016	-2.748014992540325	13.188314608871195	3445257
+3449602	EDA	reliable and energy-efficient digital signal processing	2002	-2.5932516371679024	13.048980352391384	3449629
+3450752	DB	the future of fault tolerant computing	2015	-3.1350018121108287	13.099340634880436	3450779
+3450806	EDA	a compaction method for full chip vlsi layouts	1993	-2.6763734669541432	12.245290715285435	3450833
+3453701	EDA	getting high-performance silicon from system-level design	2003	-3.2952069942242765	12.400882894981232	3453728
+3462910	EDA	editorial: design methods for dsp systems	2006	-2.797111070311861	12.512187283074812	3462937
+3465536	EDA	a high-frequency custom cmos s/390 microprocessor	1997	-2.656947965008214	13.045204883038435	3465563
+3466429	EDA	cad opportunities with hyper-pipelining	2017	-3.2994979842282763	12.783369604493684	3466456
+3468997	EDA	the at&amp;t 5ess(tm) hardware design environment: a large systems's hardware design process	1994	-3.2859111883241443	12.353283242661865	3469024
+3469655	Arch	ibm power8 processor core microarchitecture	2015	-2.6509856256740116	13.145933587663945	3469682
+3470571	EDA	a graph-based approach to the synthesis of multi-chip module architectures	1996	-2.6347777364519653	12.626302666870425	3470598
+3471078	EDA	keynote talk ii: designing tomorrow's chips	2013	-2.857738322372994	12.544843901007907	3471105
+3472508	EDA	design, synthesis, and test of networks on chips	2005	-3.3550117306199247	12.609907262784713	3472535
+3477513	Arch	rebooting computing: the road ahead	2017	-3.2804268862301247	13.147235945113128	3477540
+3478566	EDA	unified approach for performance evaluation and debug of system on chip at early design phase	2015	-2.405557160502777	12.62036906113572	3478593
+3479988	EDA	timing-driven titan: enabling large benchmarks and exploring the gap between academic and commercial cad	2015	-2.982983111885784	12.38814852568018	3480015
+3480510	EDA	transmission systems prototyping based on stateflow/simulink models	2004	-2.550388727282062	12.458605293922991	3480537
+3481787	EDA	test planning and design space exploration in a core-based environment	2002	-2.9339012949834484	12.609585245023933	3481814
+3482486	EDA	space-based fpga radio receiver design, debug, and development of a radiation-tolerant computing system	2010	-2.7840015125308235	12.657181224302995	3482513
+3484922	EDA	circuit implementation of a 600 mhz superscalar risc microprocessor	1998	-3.288769960189198	13.134054990018539	3484949
+3486958	EDA	high-level synthesis of low-power control-flow intensive circuits	1999	-2.9577332349028165	13.161188730285993	3486985
+3491017	EDA	fpga-based implementation of ram with asymmetric port widths for run-time reconfiguration	2007	-3.1783477841752563	12.513133539762512	3491044
+3492740	EDA	calmrisctm: a low power microcontroller with efficient coprocessor interface	1999	-2.9150740497228504	13.076296280165565	3492767
+3492942	EDA	fast rtl power estimation for fpga designs	2011	-2.5992815663549056	13.14013678147597	3492969
+3493268	EDA	adapting the spacecube v2.0 data processing system for mission-unique application requirements	2015	-2.7684577087556472	12.422251261791724	3493295
+3493329	EDA	selecting the optimal system: automated design of application-specific systems-on-chip	2011	-3.125462845829784	12.720908518719973	3493356
+3494136	EDA	an approach to using vlsi in digital systems	1978	-2.7841033416417846	12.996722548825915	3494163
+3496538	Graphics	better memory	2015	-3.1848947157445413	12.779827540696399	3496565
+3500511	EDA	variable precision arithmetic circuits for fpga-based multimedia processors	2004	-2.579493725194396	12.863110309543886	3500538
+3500822	EDA	special-issue on reconfigurable systems	2003	-2.8381344601406986	12.750726280040373	3500849
+3501010	EDA	datapath synthesis using a problem-space genetic algorithm	1995	-2.7954695265787897	12.454584033225856	3501037
+3501893	EDA	allocation and binding in data path synthesis using a genetic algorithm approach	1996	-3.0413773603186987	12.40121960554888	3501920
+3502298	Arch	spending moore's dividend	2009	-2.554880577773613	12.292650316851006	3502325
+3505494	EDA	application specific instruction set processor for sensor conditioning in automotive applications	2016	-2.7631806860886723	12.834219250204992	3505521
+3507213	EDA	an integrated framework for architecture level exploration of reconfigurable platform	2005	-2.4219646683564537	12.670224272859421	3507240
+3509123	EDA	exploiting architectural similarities and mode sequencing in joint cost optimization of multi-mode fir filters	2010	-3.08981171468408	12.571014222381114	3509150
+3511417	EDA	high level tranforms toreduce energy consumption of signal and image processing operators	2013	-2.5289145784093123	12.257070654004655	3511444
+3511514	HPC	the tunnel vision syndrome: massively delaying progress	2013	-2.948208328881017	12.981993837323058	3511541
+3512912	Embedded	a vision for embedded software	2001	-2.407211772396453	12.382660681526051	3512939
+3514838	EDA	a heterogeneous modules interconnection architecture for fpga-based partial dynamic reconfiguration	2012	-3.1421972550147603	12.992000732910896	3514865
+3515561	Networks	enhanced communications firmware platform for co-verification of complex algorithms	2007	-2.745477889668479	12.613878835803563	3515588
+3518818	EDA	power-tructor: an integrated tool flow for formal verification and coverage of architectural power intent	2013	-3.013754773311068	12.560730182859919	3518845
+3522453	EDA	optisim: a system simulation methodology for optically interconnected hpc systems	2008	-3.198063992094081	13.121757996850775	3522480
+3523464	Embedded	optimization of the ieee 1687 access network for hybrid access schedules	2016	-2.4221035348982585	13.179315406157551	3523491
+3525742	Arch	emulating a complex instruction set computer with a reduced instruction set computer	1987	-2.9712294563829005	12.531311485496307	3525769
+3528618	Arch	instruction level power analysis and optimization of software	1996	-2.9106787572000377	13.096155652822294	3528645
+3528868	EDA	activity-based power estimation and characterization of dsp and multiplier blocks in fpgas	2006	-3.272205168290288	12.82426020841701	3528895
+3531287	EDA	algorithm selection: a quantitative computation-intensive optimization approach	1994	-2.6025613475590488	12.51937599403897	3531314
+3533251	Arch	nanocompilation for the cell matrix architecture	2008	-3.185863019187305	12.477303649706734	3533278
+3534232	Arch	industry perspective on chip multi-threading, bridging the gap with academia using opensparc	2007	-3.1947498623159234	12.326881754180706	3534259
+3534805	HPC	multiway partitioner for high performance fpga based board architecture	1996	-2.7010252539330843	12.707974574742725	3534832
+3535305	EDA	architectural design space exploration of an fpga-based compressed sampling engine: application to wireless heart-rate monitoring	2015	-2.4697095186734908	12.937477755834909	3535332
+3535851	EDA	optimization of digital audio processing algorithms suitable for hearing aids	2005	-2.827516242817536	12.391328199046814	3535878
+3536131	Arch	advancing nasa's on-board processing capabilities with reconfigurable fpga technologies: opportunities & implications	2010	-2.860006409938919	12.786125271073356	3536158
+3552319	EDA	hsra: high-speed, hierarchical synchroous reconfigurable array	1999	-3.1183809074474684	12.736772809710406	3552346
+3552983	HPC	designing high performance computing architectures for reliable space applications	2012	-2.620478131718696	13.113485817327176	3553010
+3553185	EDA	a new coarse-grained fpga architecture exploration environment	2008	-3.0665130963219704	12.641490577070373	3553212
+3556054	EDA	hardware/software co-design of a simd-dsp-based dvb-t receiver	2004	-2.8160652589281687	13.068391851564376	3556081
+3561353	Networks	system level policies for fault tolerance issues in the fermi project	1993	-3.2957288240715163	12.45647680987399	3561380
+3561755	HPC	experiments with the peripheral virtual component interface	2000	-3.145270942057276	12.481080931287492	3561782
+3563431	Arch	configuration scheme for small scale multi-fpga systems	2011	-2.51060757552346	12.922312451367864	3563458
+3567875	EDA	chip multi-processor generator	2007	-2.7728705080340603	12.72792184262549	3567902
+3567974	EDA	the reconfigurable ip modules and design	2011	-2.8235883980294685	12.39775064363882	3568001
+3569419	Arch	creating a wider bus using caching techniques	1995	-2.420301546342512	12.803017023186422	3569446
+3572182	Arch	the microprocessor today	1996	-3.0006113047783005	12.932901699842782	3572209
+3572942	EDA	floorplacement for partial reconfigurable fpga-based systems	2011	-2.7946088523453385	13.113879613031692	3572969
+3575058	EDA	dft challenges in next generation multi-media ip	2009	-2.4468101102957704	12.408729665164538	3575085
+3580085	Embedded	on the utilization of system-on-chip platforms to achieve nanosecond synchronization accuracies in substation automation systems	2017	-2.8184336505329735	12.628246378952115	3580112
+3582940	EDA	reconfiguration mechanism for an ip block based interconnection	1999	-2.9597266631402306	12.571844003046408	3582967
+3584400	Web+IR	an application framework for rapid development for web based gis : ginis web	2008	-2.44268190410312	12.311481085519528	3584427
+3588484	EDA	a methodology for self correction scheme based fast multi criterion exploration and architectual synthesis of data dominated applications	2013	-2.5604466970141893	12.53021103597073	3588511
+3588711	EDA	a multiobjective genetic approach for system-level exploration in parameterized systems-on-a-chip	2005	-2.535101514910731	12.802057811548126	3588738
+3589157	EDA	early analysis tools for system-on-a-chip design	2002	-2.52162575931159	12.267732328393295	3589184
+3593303	EDA	power estimation in embedded systems within a systemc-based design context: the pktool environment	2009	-2.82713514979675	12.535295663120305	3593330
+3594295	EDA	fine-grained interconnect synthesis	2015	-2.6090494574303444	12.980826633614186	3594322
+3595567	EDA	the transmogrifier-2: a 1 million gate rapid-prototyping system	1998	-3.234254829687268	12.945001856680774	3595594
+3597406	EDA	macro-driven circuit design methodology for high-performance datapaths	2000	-3.33544649561093	12.600231359791794	3597433
+3597452	EDA	itucome: hcdfg-based incremental tuning hw/sw co-design methodology for multi-level exploration	2005	-2.422088605675211	12.527679990119806	3597479
+3597531	Embedded	implementation of a configurable controller for an ac drive control: a case study	2000	-2.5459473268590878	12.266372829701664	3597558
+3598603	EDA	a low-energy fpga: architecture design and software-supported design flow	2005	-2.505561574960939	12.774807548109518	3598630
+3599010	EDA	the systolic ring: a dynamically reconfigurable architecture for embedded systems	2001	-2.490436574310116	12.96408423181582	3599037
+3599566	EDA	application-specific design system for 8-bit embedded micro-controller	2002	-2.6543912832007583	12.390453198108654	3599593
+3600235	Embedded	a heterogeneous time-triggered architecture on a hybrid system-on-a-chip platform	2016	-2.55863118148858	12.907877855716011	3600262
+3611803	EDA	a common operator bank to resolve scheduling issue on a complexity optimized sdr terminal	2010	-2.7098007644665394	13.018082350313001	3611830
+3613270	Embedded	a two-stage-pipeline cpu of sh-2 architecture implemented on fpga and soc for iot, edge ai and robotic applications	2018	-2.7767491782889087	13.139759682906401	3613297
+3613581	EDA	prototyping memristors in digital system with an fpga-based testing environment	2017	-2.893311946907838	12.67055312984402	3613608
+3613661	EDA	design-trotter: a multimedia embedded systems design space exploration tool	2002	-2.4452828797312725	12.835574225501993	3613688
+3613735	Arch	observations on high-performance machines	1967	-2.9060002510767253	12.652861656632474	3613762
+3615341	EDA	a hardware accelerated semi analytic approach for fault trees with repairable components	2009	-3.287217357947376	12.374966779605806	3615368
+3615657	EDA	reconfigurable architecture and automated design flow for rapid fpga-based ldpc code emulation	2012	-2.5052853585089334	12.460822811102073	3615684
+3616000	EDA	addressing future space challenges using reconfigurable instruction cell based architectures	2008	-2.9295352471824163	13.004926865892324	3616027
+3616421	EDA	communication centric modelling of system on chip devices targeting multi-standard telecommunication applications	2008	-2.6001758200296448	12.993415784510177	3616448
+3619233	HCI	validation of link layer synthesizable core - a prototyping case study	2000	-2.4720641043425777	12.300851474187242	3619260
+3621399	EDA	a system level framework for monitoring and self diagnosis in espacenet	2007	-2.4399403940165785	13.140555052702675	3621426
+3621862	Embedded	embedded internet systems: poised for takeoff [embedded systems]	1998	-3.2487312993410367	13.021491378608069	3621889
+3622603	EDA	methods for power optimization in soc-based data flow systems	2009	-2.7390612713464835	13.088417442108069	3622630
+3623251	EDA	architectural synthesis of fixed-point dsp datapaths using fpgas	2009	-2.619660778260425	12.964518997345364	3623278
+3625358	Arch	accupower: an accurate power estimation tool for superscalar microprocessors	2002	-2.7751995423835605	12.943666082839751	3625385
+3625766	EDA	integrated design space exploration based on power-performance trade-off using genetic algorithm	2011	-2.498808487382406	13.07810906116043	3625793
+3630426	Networks	design and evaluation of software radio prototype with over-the-air download function	2001	-2.762491282048499	12.625813010270624	3630453
+3631642	ML	lossless data compression programmable hardware for high-speed data networks	2002	-2.539312130397556	13.00167096889708	3631669
+3632025	EDA	run-time generation of partial fpga configurations	2012	-2.7466725991768297	12.809220003478018	3632052
+3634820	EDA	uvm-based verification of ecc module for flash memories	2017	-3.165415800421291	12.34533498906662	3634847
+3638336	Embedded	test access mechanism in the quad-core amd opteron microprocessor	2009	-2.4067385034905944	12.492473557969113	3638363
+3642305	HPC	editorial for jetc special issue on alternative computing systems	2017	-3.1766772158942205	13.20209338974033	3642332
+3643907	EDA	precision-wise architectural synthesis of dsp circuits	2010	-2.5093373833835724	12.608161802509578	3643934
+3650295	Arch	early design stage exploration of fixed-length block structured architectures	2000	-2.956711073352349	12.97048082877091	3650322
+3651016	Arch	billion transistor chips in mainstream enterprise platforms of the future	2003	-2.979799850764924	13.095654966120836	3651043
+3651851	Arch	the map1000a vliw mediaprocessor	2000	-2.5316410935366984	12.71268898054034	3651878
+3655578	EDA	model-based exploration of the design space for heterogeneous systems on chip	2005	-2.8046992427511515	12.651584174822586	3655605
+3655710	EDA	exploration of fpga architectures for tight coupled accelerators in a 22nm fdsoi technology	2017	-2.9673578267750917	12.67616568559108	3655737
+3656025	EDA	64-bit prefix adders: power-efficient topologies and design solutions	2009	-2.837817026131902	12.870995981131525	3656052
+3658290	HCI	a floating point unit for the 68040	1990	-2.5876312650914435	12.625351306245866	3658317
+3658466	EDA	layout-driven high level synthesis for fpga based architectures	1998	-2.8702365286235176	12.880700468195348	3658493
+3658566	Arch	3d integration for introspection	2007	-3.1082037681603203	12.27978585819906	3658593
+3658633	Networks	fpga-optimised high-quality uniform random number generators	2008	-2.574319968398205	12.758237713484242	3658660
+3658741	EDA	towards a framework and a design methodology for autonomic soc	2005	-2.6400148937725683	12.699672220805182	3658768
+3659888	HPC	panel summary statements	2004	-3.00504249117167	13.096752585706954	3659915
+3660701	EDA	an a-fpga architecture for relative timing based asynchronous designs	2014	-3.29474429789573	13.145642937137975	3660728
+3661529	Arch	should the academic community launch an open-source fpga device and tools effort?: evening panel	2011	-3.084544831799399	12.772124731615534	3661556
+3661623	EDA	the future of low power design is here:  ieee p1801, aka, upf 2.0	2009	-3.2371204250196226	12.370574188607993	3661650
+3662561	EDA	system performance optimization methodology for infineon's 32-bit automotive microcontroller architecture	2008	-3.3534451524519913	12.470323400021613	3662588
+3670153	SE	ip-xact extensions for ip interoperability guarantees and software model generation	2012	-2.607514063227588	12.7493115818542	3670180
+3674390	EDA	model checker to fpga prototype commmunication bottleneck issue	2011	-2.7366446941090805	12.421215418378315	3674417
+3674769	EDA	soc design for wireless communications	2016	-3.0928550968252644	12.418477798867956	3674796
+3681062	EDA	sram-based fpga systems for safety-critical applications: a survey on design standards and proposed methodologies	2015	-2.7189272129900464	12.426614894964116	3681089
+3681128	EDA	"""an improved """"soft"""" efpga design and implementation strategy"""	2005	-2.4680348174628066	12.50887027782318	3681155
+3682170	Arch	high speed partial run-time reconfiguration using enhanced icap hard macro	2011	-2.9577733155422226	12.95027716350744	3682197
+3689415	EDA	extended design reuse trade-offs in hardware-software architecture mapping	2000	-2.8206469221832347	12.363545332520136	3689442
+3690922	Arch	multicore soc for on-board payload signal processing	2011	-2.5084305364619457	12.364620228723814	3690949
+3691426	EDA	concurrently optimizing fpga architecture parameters and transistor sizing: implications for fpga design	2009	-2.636593674389096	12.928757435405393	3691453
+3693211	EDA	synthesizable standard cell fpga fabrics targetable by the verilog-to-routing cad flow	2017	-3.2202443664155003	12.523584629826187	3693238
+3693227	EDA	reconfigurable hardware from programmable logic devices	1994	-2.4594340705022995	12.735727845916092	3693254
+3694713	EDA	coordinating communication, technology and design in the iot era	2016	-3.051072274378332	13.175266645837304	3694740
+3695497	Arch	vlsi node processor architecture for ethernet	1983	-2.664117978345561	12.965435266212618	3695524
+3696433	EDA	embedded reconfigurable logic core for dsp applications	2002	-3.2385350197742633	12.625815516308096	3696460
+3697135	EDA	a survey and taxonomy of gals design styles	2007	-3.2913905642753822	12.576849880341781	3697162
+3697558	EDA	system level modelling of reconfigurable fft architecture for system-on-chip design	2007	-2.698960372221783	12.519570382905192	3697585
+3698196	HPC	reconfigurable computing: its concept and a practical embodiment using newly developed dynamically reconfigurable logic (drl) lsi: invited talk	2000	-3.2677073384231337	12.818948518488048	3698223
+3698440	EDA	self-timed fpga systems	1995	-2.8143737777200397	12.806217367721644	3698467
+3700885	EDA	challenges and opportunities for system theory in embedded controller design	2006	-3.3038495895481788	12.555837706714428	3700912
+3700959	EDA	multi core design for chip level multiprocessing	2008	-3.09820961408938	13.053886045499857	3700986
+3704716	Arch	dynamic reordering of hgh latency transactions using a modified a micropipeline	1992	-3.0477996650447468	12.692992245081106	3704743
+3705871	EDA	systematic generation of fpga-based fft implementations	2008	-2.5409024271082368	12.813797761669026	3705898
+3706650	Robotics	a proposal for a hybrid opened architecture with hardware reconfigurable control applied in mobile robots	2006	-2.71504963642072	12.247092274153907	3706677
+3709001	EDA	automated synthesis for asynchronous fpgas	2005	-3.3218874662490343	12.647702049220392	3709028
+3710162	EDA	holistic modeling of embedded systems with multi-discipline feedback: application to a precollision mitigation braking system	2012	-3.039363568163433	12.310269693489206	3710189
+3710623	EDA	a reverse-encoding-based on-chip ahb bus tracer for efficient circular buffer utilization	2009	-2.664019603418521	13.045998312104556	3710650
+3712184	Robotics	an integrated soc for science data processing in next-generation space flight instruments avionics	2015	-2.8382331138082018	12.491859546300194	3712211
+3713231	EDA	real-time touch controller with high-speed touch accelerator for large-sized touch screens	2015	-2.759558620956747	12.359946645267199	3713258
+3718289	EDA	uniphier: series development and soc management	2009	-3.1444253760414016	12.256323621626649	3718316
+3720709	EDA	hardware/software codesign of resource constrained real-time systems	2009	-2.464507390329576	13.135347809914494	3720736
+3720724	EDA	cma-2 : the second prototype of a low power reconfigurable accelerator	2012	-2.6199842643102547	13.081493089116881	3720751
+3721145	EDA	a data path layout assembler for high performance dsp circuits	1990	-3.224080428548642	12.273763682041444	3721172
+3723635	Arch	fast design space exploration using vivado hls: non-binary ldpc decoders	2015	-3.161111441748715	12.573692640131354	3723662
+3723687	HPC	new i/o technologies seek to end bottlenecks	2001	-3.186785590807367	12.972634894556926	3723714
+3731858	EDA	a multichip module design process for notebook computers	1993	-2.415141660363372	12.588638112619048	3731885
+3732727	EDA	iterative-gradient based complex divider fpga core with dynamic configurability of accuracy and throughput	2011	-2.527158317140218	13.171264529859329	3732754
+3734388	Arch	advances in low power verification	2008	-3.3058522262928487	12.487462975480273	3734415
+3740413	Arch	sldram: high-performance, open-standard memory	1997	-3.1272516404004884	12.856648483276825	3740440
+3751981	EDA	system-on-chip processor using different fpga architectures in the vtr cad flow	2014	-2.745683703259901	12.288188544217427	3752008
+3752050	EDA	a reference low-complexity structured asic	2012	-3.216989266420428	12.708976648221329	3752077
+3753064	EDA	indirect test architecture for soc testing	2004	-2.85985136371005	12.516606267152786	3753091
+3754523	EDA	high-level synthesis in latency insensitive system methodology	2005	-2.8580080598429825	12.966483249557204	3754550
+3757562	EDA	a monitoring infrastructure for fpga self-awareness and dynamic adaptation	2012	-3.0092291797171677	12.839993515913793	3757589
+3757721	HPC	s/390 parallel enterprise server generation 3: a balanced system and cache structure	1997	-2.8237826925937117	12.37712897955758	3757748
+3757869	Theory	microprocessor survey	1978	-3.00137800411408	12.360326535789314	3757896
+3760205	EDA	synchronization processor synthesis for latency insensitive systems	2005	-3.115259386420055	12.487015969029931	3760232
+3762560	EDA	a programmable calibration/bist engine for rf and analog blocks in socs integrated in a 32 nm cmos wifi transceiver	2013	-2.9613303669462963	13.170367009093482	3762587
+3764894	EDA	issues in embedded dram development and applications	1998	-3.308902066853832	12.948437182237301	3764921
+3765711	Arch	an asynchronous copy-back cache architecture	2003	-3.21205338952073	13.022368337209251	3765738
+3766142	EDA	real time pipelined system design through simulated annealing	1996	-2.4045775465259105	12.429745559315863	3766169
+3767347	EDA	an efficient logic emulation system	1992	-2.7068734304223727	13.09507426549701	3767374
+3768619	Arch	fine grained adaptive simulation with application to nocs	2013	-2.586803934366043	12.266973680095148	3768646
+3768759	Arch	introduction to session r2 (session overiew): advanced computer architectures	1985	-3.094657632093175	12.828626438598947	3768786
+3770324	EDA	automatic port and bus sizing in nogap	2010	-2.5644023154819	12.346550180560358	3770351
+3770651	Arch	headroom and legroom in the 80960 architecture	1990	-3.0077160300756605	12.780247223946937	3770678
+3771087	Mobile	towards rapid waveform design and deployment via modular signal processing frameworks	2018	-3.0033145705185413	12.499877653609722	3771114
+3772635	EDA	a low-cost soc debug platform based on on-chip test architectures	2009	-3.0695126283919514	12.253041032181313	3772662
+3775401	EDA	asic power-estimation accuracy evaluation: a case study using video-coding architectures	2018	-2.7194952861708312	13.015165428910626	3775428
+3776399	Arch	plenary speaker	2014	-2.8931143194087072	13.189864737138395	3776426
+3780174	EDA	the 2012 arm powered compute subsystem - delivering the smart handheld platform	2012	-3.241140470501481	12.681621402161465	3780201
+3781041	Robotics	adaptive memory map switch for system on chip	2012	-2.7395880115821685	12.871475229087153	3781068
+3781212	EDA	on network-on-chip comparison	2007	-2.7873775005294967	12.429150926168942	3781239
+3781555	EDA	automated system partitioning for synthesis of multi-chip modules	1994	-2.720390540285302	12.675960667913824	3781582
+3782058	EDA	simplifying the integration of processing elements in computing systems using a programmable controller	2005	-2.5107553194523904	12.52729767572774	3782085
+3782711	EDA	embedded processors and systems: architectural issues and solutions for emerging applications	2006	-2.4985663730152856	12.77325225708399	3782738
+3782931	EDA	high speed fpga-based data acquisition system	2017	-3.2402290531997533	12.310733158925496	3782958
+3787092	Vision	a computer vision system on a chip: a case study from the automotive domain	2005	-2.9862094434226085	12.555255590440392	3787119
+3787183	EDA	real-time configuration code decompression for dynamic fpga self-reconfiguration	2004	-2.4912435136829694	12.949433997171244	3787210
+3788687	EDA	a transaction-based unified architecture for simulation and emulation	2005	-2.4706775284531326	12.334006545490244	3788714
+3792473	EDA	formal verification of hardware / software power management strategies	2013	-2.9748937074253523	12.342361083964702	3792500
+3794345	EDA	design automation framework for application-specific logic-in-memory blocks	2012	-3.1892783737107084	12.749322180709374	3794372
+3794428	EDA	reliability properties assessment at system level: a co-design framework	2001	-2.794980125425092	12.626586644567066	3794455
+3796279	Embedded	automatic self-reconfiguration of system-on-chip peripherals	2007	-2.429376656163892	12.410924018658914	3796306
+3797032	SE	a partial reconfiguration controller for altera stratix v fpgas	2016	-2.743727019857213	12.751562288934084	3797059
+3801933	Embedded	homogeneous multiprocessing for the masses	2004	-2.9649709381845675	12.828042377189483	3801960
+3802668	Visualization	extending backward error assertions to tolerance of large errors in floating point computations	1997	-3.1047234528653456	12.91210655608664	3802695
+3803190	Embedded	self-testing of microcontrollers in the field	2010	-3.124697005468758	12.366395608340685	3803217
+3803218	EDA	asic synthesis of a flexible 80 mbit/s reed-solomon codec	1994	-2.40517431925368	12.612529488148008	3803245
+3804537	EDA	performance analysis of low power microcode based asynchronous p-mbist	2015	-3.3043756972125693	12.900042245200002	3804564
+3811708	ML	the development of an experimental electron-beam-addressed memory module	1975	-2.997682281399439	13.006629527519289	3811735
+3811861	HPC	femtocomputing: new architectural ideas for procedural and evolutionary computers whose components switch in femto-seconds	2005	-3.2152830856754364	12.59655974674857	3811888
+3811891	EDA	a small high performance microprocessor core sirius for embedded low power designs, demonstrated in a medical mass application of an electronic pill(epill®)	2007	-3.3597289173091807	12.619793401575595	3811918
+3813956	EDA	a system-level power-estimation methodology based on ip-level modeling, power-level adjustment, and power accumulation	2006	-2.801219522019183	13.10591913664656	3813983
+3814462	EDA	framework for system design, validation and fast prototyping of multiprocessor system-on-chip	2000	-3.2124892841136727	13.148661528688494	3814489
+3815740	EDA	parlak: parametrized lock cache generator	2003	-2.6307339217242687	12.926312387758934	3815767
+3816797	EDA	fast and accurate protocol specific bus modeling using tlm 2.0	2009	-2.4643814499052183	12.832826101751804	3816824
+3817520	EDA	bpr: fast fpga placement and routing using macroblocks	2012	-2.8281565036157548	12.913763638655634	3817547
+3818673	Arch	eee 1149.1-compliant access architecture for multiple core debug on digital system chips	2002	-3.2956219661019865	12.317463545640305	3818700
+3819696	EDA	embedded cmos bioinformatics for nanopore sequencers	2017	-3.174596519629465	12.950064773153882	3819723
+3820753	EDA	microarchitectural transformations using elasticity	2011	-2.9212870478450585	12.379421630464082	3820780
+3822608	EDA	quantitative analysis of embedded fpga-architectures for arithmetic	2006	-2.950290347837547	12.43105927168107	3822635
+3823318	EDA	power domain management interface: flexible protocol interface for transaction-level power domain management	2013	-2.651438313606376	12.404809026988753	3823345
+3829361	EDA	multi-core design automation challenges	2007	-2.8280054061650297	12.248125873561818	3829388
+3829611	Embedded	system design challenges for next generation wireless and embedded systems	2014	-3.1593431664686578	12.829722135988302	3829638
+3831792	PL	move frame scheduling and mixed scheduling-allocation for the automated synthesis of digital systems	1992	-2.755917326437897	12.330335677259047	3831819
+3832264	EDA	a methodology for rapid analysis and optimization of embedded systems	1996	-2.8133574235866194	12.378730906643762	3832291
+3833189	EDA	systemc and the future of design languages: opportunities for users and research	2003	-3.2932557564530347	12.364468192925827	3833216
+3833787	Arch	architecture of microcontroller system	1975	-3.0987552177975064	12.73267429599489	3833814
+3841574	Arch	investigating the implementation of a block structured architecture in an early design stage	1999	-3.0336743597034483	12.988397233333886	3841601
+3843208	EDA	an efficient compression scheme for checkpointing of fpga-based digital mockups	2013	-2.8644682841073843	12.343368639710395	3843235
+3850827	EDA	reconfigurable systems enabled by a network-on-chip	2006	-2.7448822647808298	12.921653978325413	3850854
+3851432	Robotics	efficient h.264 architecture using modular bandwidth estimation	2008	-2.5173040321117126	12.589467137690294	3851459
+3853379	Embedded	rapidio for radar processing in advanced space systems	2007	-2.7261273567265825	12.827233752158975	3853406
+3854468	EDA	fpgas as meta-platforms for embedded systems	2002	-2.7040227038395117	12.329242565161787	3854495
+3855940	EDA	power estimation approach for sram-based fpgas	2000	-2.797145674580888	12.972474428158904	3855967
+3859054	EDA	priority-driven area optimization in high-level synthesis	2011	-2.6829454347485187	12.867907190572462	3859081
+3861768	EDA	high efficiency space-based software radio architectures: a minimum size, weight, and power teraops processor	2009	-2.6573797704077338	12.527114706130266	3861795
+3861887	Arch	ip core implementation of a self-organizing neural network	2003	-2.7216532838398666	12.656102235491714	3861914
+3863123	Arch	timing accurate functional-level hardware simulation with pull model data flow	2010	-3.2654757430126264	12.387038614192784	3863150
+3864066	EDA	exploring amba axi on-chip interconnection for tsv-based 3d socs	2011	-3.2537340318128924	12.960444556713224	3864093
+3876641	EDA	the coarse-grained / fine-grained logic interface in fpgas with embedded floating-point arithmetic units	2008	-2.7071326876363795	13.132985466902074	3876668
+3878316	EDA	using tlm for exploring bus-based soc communication architectures	2005	-2.9385227867708745	13.010208995725575	3878343
+3881185	EDA	design of a low power mpeg-1 motion vector reconstructor	2009	-3.072607021591754	13.080673291930847	3881212
+3882978	EDA	babanoc: an asynchronous network-on-chip described in balsa	2013	-3.2056799777122986	12.945584472052676	3883005
+3884809	HCI	run-time reconfiguration to check temperature in custom computers: an application of jbits technology	2002	-3.0298577344543407	12.580892950878935	3884836
+3885711	EDA	invited talk: synthesis challenges for next-generation high-performance and high-density plds	2000	-3.1574220557240467	12.956689795421193	3885738
+3888535	EDA	nallatech in-socket fpga front-side bus accelerator	2010	-2.556745311341359	12.722587414453011	3888562
+3891963	Arch	developing scalable java applications	2010	-2.71043537649957	12.830174563605256	3891990
+3892014	Arch	the effects of datapath placement and c-slow retiming on three computational benchmarks	2002	-2.474992452001457	12.943890054258668	3892041
+3892845	EDA	power estimation methodology for a high-level synthesis framework	2009	-2.6070188859534107	12.879300120259565	3892872
+3893255	Visualization	guest editorial: ieee transactions on computers and ieee transactions on emerging topics in computing joint special section on innovation in reconfigurable computing fabrics from devices to architectures	2017	-3.307867534408291	13.133857094577618	3893282
+3894338	EDA	designing power efficient hypermedia processors	1999	-2.7544263694855493	12.469242899011329	3894365
+3897219	EDA	amulet3: a 100 mips asynchronous embedded processor	2000	-3.3221584102011077	13.055832421269992	3897246
+3902466	EDA	a complete platform and toolset for system implementation on fine-grain reconfigurable hardware	2005	-2.7410579560427846	12.92733699485449	3902493
+3908387	EDA	titan: enabling large and complex benchmarks in academic cad	2013	-3.0392362774541133	12.382091702959736	3908414
+3912243	Arch	reconfigurable computing at xilinx	2001	-2.802466271554131	13.057774105088118	3912270
+3912693	EDA	design methodology of a low-energy reconfigurable single-chip dsp system	2001	-2.8381040715597035	13.178595044852296	3912720
+3912796	Robotics	raw keynote 1: the outer limits: reconfigurable computing in space and in orbit	2006	-2.9889024514160885	12.963313046239396	3912823
+3913162	EDA	a new approach of a self-timed bit-serial synchronous pipeline architecture	2003	-2.9057674841225385	12.25693290769508	3913189
+3913637	EDA	a bit-slice cache controller	1979	-3.260009518298828	12.921370500055163	3913664
+3917375	Arch	a multi-ported memory compiler utilizing true dual-port brams	2016	-2.78308956320486	12.63148715167403	3917402
+3919770	EDA	novel seamless design-flow for partial and dynamic reconfigurable systems with customized communication structures based on xilinx virtex-ii fpgas	2005	-2.514016324033713	12.295432138479695	3919797
+3919952	Arch	zuma: an open fpga overlay architecture	2012	-2.653997473299356	12.490346537619295	3919979
+3920092	Arch	a reconfigurable multi-standard radio platform	2010	-2.434700233154507	13.18199916363416	3920119
+3920249	EDA	virtual components application and customization	1999	-3.250672490134473	12.379525033315634	3920276
+3925230	EDA	a high-performance asynchronous scsi controller	1995	-3.23760057185485	12.516459834490506	3925257
+3927302	EDA	about the performances of the advanced encryption standard in embedded systems with cache memory	2003	-2.6654625693678318	13.132681281409912	3927329
+3927784	EDA	a system-level modeling methodology for performance-driven component selection in multicore architectures	2012	-2.5948004381967684	12.514005191655956	3927811
+3929028	EDA	power-awarness in coarse-grained reconfigurable multi-functional architectures: a dataflow based strategy	2017	-2.7160835050315804	13.027197907462455	3929055
+3929106	Arch	f-risc/i: fast reduced instruction set computer with gaas (h)mesfet implementation	1991	-3.2963375970803743	13.06157509339958	3929133
+3930346	EDA	design methodology and cad tools for the nvax microprocessor	1992	-3.019307709023343	12.594509849019795	3930373
+3931842	EDA	a graph based algorithm for data path optimization in custom processors	2006	-2.4913381734982094	12.808958828213859	3931869
+3932539	Embedded	memory system optimization of embedded software	2003	-2.4200944446451524	12.436307337917393	3932566
+3935073	Embedded	fpsynt: a fixed-point datapath synthesis tool for embedded systems	2013	-2.423415623316401	12.413859440500536	3935100
+3940044	EDA	a transparent solution for providing remote wired or wireless communication to board and system level boundary-scan architectures	2005	-3.2376105419425243	12.592069638933154	3940071
+3942399	EDA	fpga-based embedded system design	2008	-2.701635407223459	12.421640978892762	3942426
+3943820	EDA	on virtual prototyping of embedded system-on-chips	2011	-3.2294335092787927	12.42202438645143	3943847
+3944125	EDA	constrained binding and scheduling of triplicated algorithm for fault tolerant datapath synthesis	2014	-2.6442265040241715	12.486040519999067	3944152
+3947281	Arch	an optimized architecture for a rapid-prototype-emulator	1993	-2.4784362562357143	12.432084529181815	3947308
+3947937	EDA	system verilog for quality of results (qor)	2008	-2.979594283144169	12.369180766478937	3947964
+3948448	EDA	rapid prototyping of a self-timed alu with fpgas	2005	-2.7741938256060283	13.113579265281475	3948475
+3950765	EDA	register-transfer level transformations for low-power data-paths	1998	-3.3377500955988366	12.548821316449509	3950792
+3951024	EDA	system on chip generation for multi-sensor and sensor fusion applications	2017	-2.9211105403423034	12.916801691655982	3951051
+3952562	EDA	an efficient register optimization algorithm for high-level synthesis from hierarchical behavioral specifications	2002	-2.9089811601593465	12.308524127213198	3952589
+3956013	EDA	an automatic energy consumption characterization of processors using archc	2013	-2.6186910901430407	12.683166785837367	3956040
+3960372	Arch	cusp: a modular framework for high speed network applications on fpgas	2005	-2.6374079355308573	12.384049848932849	3960399
+3960385	Mobile	xradio: an novel software defined radio (sdr) platform and its exemplar application to vehicle-to-vehicle communications	2015	-3.0392340786200984	13.155794294707473	3960412
+3961261	EDA	synthesis of low power linear dsp circuits using activity metrics	1994	-3.214131802611922	13.058608053009214	3961288
+3962473	Arch	a 1.5 ghz vliw dsp cpu with integrated floating point and fixed point instructions in 40 nm cmos	2011	-2.521033859580648	13.11368869589737	3962500
+3966258	EDA	physical layout after half a century: from back-board ordering to multi-dimensional placement and beyond	2017	-3.1522048456742664	12.990813874027404	3966285
+3967367	Embedded	modeling and prototyping of communication systems using java: a case study	2005	-2.543842514164426	12.6005497467106	3967394
+3969773	EDA	a novel processor design flow using processor description language applied to a vector coprocessor	2013	-2.479541527322194	12.483520916337126	3969800
+3970355	Arch	guest editors' introduction: top picks from the 2008 computer architecture conferences	2009	-2.6008712170770725	13.11830765208012	3970382
+3970761	EDA	high level synthesis for fpgas applied to a sphere decoder channel preprocessor (abstract only)	2011	-2.410957475650232	12.62595301198349	3970788
+3975641	EDA	system-on-chip design: impact on education and research	1999	-3.3214127797134716	12.711923845498106	3975668
+3977427	EDA	adaptive fault recovery for networked reconfigurable systems	2003	-2.9204291483904403	13.022345428842288	3977454
+3977808	Arch	power-aware computer systems	2003	-2.8162364134140785	12.97399742186789	3977835
+3977941	EDA	optimized system synthesis of complex rt level building blocks from multirate dataflow graphs	1999	-2.6820696770313464	12.302584908778012	3977968
+3979114	EDA	high-level power estimation	1996	-3.0807448442825924	12.943908452003985	3979141
+3985286	EDA	challenges and opportunities in broadband and wireless communication designs	2000	-3.3536367852146296	13.135837332396969	3985313
+3991373	EDA	ravel-xl: a hardware accelerator for assigned-delay compiled-code logic gate simulation	1996	-2.550434315165842	12.598961367774296	3991400
+3994167	Arch	power4 system design for high reliability	2002	-3.2729448165613566	12.41597939061749	3994194
+3994244	EDA	communication mechanisms for parallel dsp systems on a chip	2002	-2.611676664724046	12.354899248929524	3994271
+3997001	EDA	combining module selection and resource sharing for efficient fpga pipeline synthesis	2006	-2.6019474305711756	12.923110288580187	3997028
+3997310	EDA	multiway fpga partitioning by fully exploiting design hierarchy	2000	-3.1245408202457865	12.407169237667256	3997337
+3997495	EDA	pilchard - a reconfigurable computing platform with memory slot interface	2001	-2.4596952483222823	12.830085146662277	3997522
+3998184	EDA	ravel-xl: a hardware accelerator for assigned-delay compiled-code logic gate simulation	1993	-2.4497971063025714	12.4453444962936	3998211
+3998381	EDA	what's in a name [embedded systems]	2006	-2.9169142084138433	12.8807159133063	3998408
+3999500	EDA	using dependability, performance, area and energy consumption experimental measures to benchmark ip cores	2009	-2.8974050018775026	12.378296822274756	3999527
+3999867	EDA	a new system design methodology for wire pipelined soc	2005	-3.129728702605132	12.517431936214779	3999894
+4000614	EDA	a survey on dynamically reconfigurable processors	2006	-2.735369901620217	12.818458748994674	4000641
+4002033	EDA	embedded memories in system design: technology, application, design and tools	2001	-3.0991178809217907	13.036379485606801	4002060
+4005512	EDA	a multi-task-oriented security processing architecture with powerful extensibility	2009	-2.538194556252352	12.965380144621427	4005539
+4005832	EDA	fasolt: a program for feedback-driven data-path optimization	1992	-2.876011786458791	12.519327945831428	4005859
+4007650	EDA	global multimedia system design exploration using accurate memory organization feedback	1999	-2.398287144135132	12.633128163271675	4007677
+4008397	HPC	a linear array parallel image processor: slim-ii	1997	-2.716852433025514	13.014907257417333	4008424
+4010246	Arch	a low-power heterogeneous multiprocessor architecture for audio signal processing	2004	-2.446389960071295	13.025417209023018	4010273
+4010510	AI	new horizons for magnetic bulk storage devices	1968	-3.20998971035628	13.088461911975822	4010537
+4011289	Networks	spacewire for adaptive systems	2008	-2.768107491507175	12.604994369768903	4011316
+4013314	Arch	an integrated associative processing system	1994	-3.287679028670807	12.87654682919506	4013341
+4013734	EDA	a genetic algorithm for the design space exploration of datapaths during high-level synthesis	2006	-2.9540786811662634	12.387175237854885	4013761
+4014070	EDA	design and implementation of the amcc self-timed microprocessor in fpgas	2007	-2.4473485154281978	12.760403543877684	4014097
+4014352	EDA	co-evolutionary reliability-oriented high-level synthesis	2008	-3.0165698679702597	12.852006403406884	4014379
+4014802	EDA	elastic bundles: modelling and synthesis of asynchronous circuits with granular rigidity	2017	-3.3096722852780918	12.465580250880695	4014829
+4016119	EDA	floating-point fpga: architecture and modeling	2009	-2.740903687350437	12.820235985167107	4016146
+4016924	EDA	early stage real-time soc power estimation using rtl instrumentation	2015	-2.6555388549578205	12.993527213605626	4016951
+4019541	EDA	multi-algorithm asip synthesis and power estimation for dsp applications	2000	-2.925968357570943	12.646182045965324	4019568
+4020495	HPC	on the suitability of multi-core processing for embedded automotive systems	2012	-2.5482210959154243	12.720168253469248	4020522
+4021105	Arch	hardware/software codesign: the past, the present, and predicting the future	2012	-2.5824018331295857	12.400024902915494	4021132
+4021483	EDA	incorporating multi-chip module packaging constraints into system design	1996	-3.1907641544478893	12.76840066366931	4021510
+4023339	Arch	software modems: a new way to communicate	1997	-2.8864136285403257	12.876666872006359	4023366
+4025988	Arch	interconnecting heterogeneous nodes in an adaptive computing machine	2004	-2.524960172754002	12.991465590961404	4026015
+4026476	EDA	teaching ip core development: an example	2003	-3.1474253170441657	12.253600542333901	4026503
+4027264	Arch	enabling effective module-oblivious power gating for embedded processors	2017	-2.9379856694806006	13.074028521530005	4027291
+4030919	EDA	improving functional density using run-time circuit reconfiguration [fpgas]	1998	-2.920351199514445	13.095321231374314	4030946
+4031573	EDA	crossroad system-on-chip communication architecture for low power embedded systems	2005	-2.489064830678783	12.256613563284185	4031600
+4031798	DB	10-5-10-7 cent/bit storage media, what does it mean?	1973	-3.0080288340825394	12.786779163991511	4031825
+4034833	EDA	evaluation of the hardwired sequence control system generated by high-level synthesis	2017	-2.5833460585351156	12.886681747577294	4034860
+4035544	AI	wafer scale integration for massively parallel memory-based reasoning	1992	-3.073173103705221	12.262857114647515	4035571
+4036484	EDA	redundant core testing on the cell be microprocessor	2010	-2.7503550806596517	12.48077580926462	4036511
+4037833	EDA	timed coloured petri nets for performance evaluation of dsp applications: the 3gpp lte case study	2008	-2.4544053550950906	13.152500244215432	4037860
+4040700	EDA	a cad framework for malibu: an fpga with time-multiplexed coarse-grained elements	2011	-2.826869170115238	13.042720109158974	4040727
+4041713	Arch	on-chip and off-chip real-time debugging for remotely-accessed embedded programmable systems	2003	-2.7379752081024087	12.328813826488485	4041740
+4042907	EDA	osiris: automated synthesis of flat and hierarchical bus architectures for deep submicron systems on chip	2004	-2.927271653384617	12.498399680429694	4042934
+4043144	EDA	design of heterogeneous ics for mobile and personal communication systems	1994	-3.1941845401546325	13.056478590368874	4043171
+4051441	EDA	a low power heterogenous reconfigurable architecture for embedded generic finite state machines	2005	-2.6336151083171293	12.917444353043578	4051468
+4051956	EDA	system-on-chip beyond the nanometer wall	2003	-2.6780885658459304	13.058225564620766	4051983
+4052084	HCI	arm7100 - a high-integration, low-power microcontroller for pda applications	1996	-2.7009112083639626	12.518255189699707	4052111
+4053435	EDA	a hierarchical infrastructure for soc test management	2003	-2.9806667752846003	12.332400275494358	4053462
+4060380	EDA	simplifying low-power soc top-down design using the system-level abstraction and the increased automation	2018	-2.7820320463120454	12.758076508948696	4060407
+4062999	EDA	the impact of loop unrolling on controller delay in high level synthesis	2007	-2.683565442727553	12.606231345385108	4063026
+4063113	EDA	a new framework for design and simulation of complex hardware/software systems	2007	-2.5899997425013805	12.345350894056489	4063140
+4064004	DB	boosting design space explorations with existing or automatically learned knowledge	2012	-2.7031532415094004	12.412115605064844	4064031
+4069038	Arch	integrating hardware and software information flow analyses	2009	-3.1753490723245195	12.563594416868725	4069065
+4069885	Robotics	the test features of the quad-core amd opteron- microprocessor	2008	-2.6180562421497	12.348527138529064	4069912
+4072151	EDA	staticroute: a novel router for the dynamic partial reconfiguration of fpgas	2013	-3.0660112169161944	13.165085526833716	4072178
+4072161	EDA	design verification of a high density computer using ieee 1149.1	1992	-3.153950484897186	12.328016827928765	4072188
+4077063	EDA	a dft architecture for asynchronous networks-on-chip	2006	-2.5352937005731104	12.891679434981556	4077090
+4078589	EDA	area and test cost reduction for on-chip wireless test channels with system-level design techniques	2008	-3.2130865864777465	12.437053808463295	4078616
+4081228	EDA	design and implementation of fpga circuits for high speed network monitors	2002	-2.8061059492556484	12.832608296664574	4081255
+4084133	EDA	software fault tolerance: the evaluation by functional verification	2015	-3.2086603505595392	12.24485015014494	4084160
+4084703	EDA	design, analysis, tools and applications for programmable high-speed and power-aware 4g processors	2011	-2.6288221603826467	13.091418441248456	4084730
+4086277	EDA	prml: a modeling language for rapid design exploration of partially reconfigurable fpgas	2013	-2.5301710594839517	12.365664448284607	4086304
+4089935	EDA	power gating for ultra-low leakage: physics, design, and analysis	2008	-3.1716199379402132	12.642748706060605	4089962
+4090681	EDA	a call for cross-layer and cross-domain reliability analysis and management	2015	-2.865730819166638	12.958227071199815	4090708
+4092387	EDA	cross-layer learning in an evolvable oscillator for in-flight controller adaptation in a flapping-wing micro air vehicle	2011	-2.5144654766789265	12.543954050963734	4092414
+4095099	EDA	an open platform for developing multiprocessor socs	2005	-2.541228871137106	12.97337743823702	4095126
+4098989	EDA	debug support for hybrid socs	2007	-2.552441666318735	12.497450470199597	4099016
+4100385	Arch	session details: security threats caused by novel technologies	2018	-3.3594858975916124	12.687908053785241	4100412
+4102132	EDA	system level synthesis on i/o intensive low power distributed embedded system.	2004	-2.637946371157857	12.748664912801116	4102159

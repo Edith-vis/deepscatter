@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"></meta>
+<title>Creating Data: American Streets</title>
+
+<script src="/js/commonjs/d3-selection.v1.min.js"></script>
+<script>
+  var select = d3.select;
+</script>
+
+<link rel="stylesheet" href="/mapNarrative.css">
+
+<body>
+  <nav class="navbar navbar-expand-md navbar-light bg-light fixed-top">
+
+    <a class="navbar-brand" href="/">Creating Data</a>
+    <a class="d-none d-xl-block">The Invention of Information in the American State, 1850-1950</a>
+    <a class="nav-link" href="http://benschmidt.org">By Ben Schmidt</a>
+    
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown1" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Sections</a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown1">
+            <a class="nav-link" href="#">No content here yet.</a>
+            <a class="nav-link" href="#">Oceans</a>
+            <a class="nav-link" href="#">Population</a>
+            <a class="nav-link" href="#">Knowledge</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Datasets</a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <a class="dropdown-item" href="/datasets/US-cities/">City Populations</a>
+            <a class="dropdown-item" href="#">Land plots</a>
+            <div class="dropdown-divider"></div>
+            <a class="dropdown-item" href="/datasets/hathi-vectors/">Hathi Library Vectors</a>
+          </div>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/acknowledgements">Acknowledgements</a>
+        </li>
+      </ul>
+    </form>
+</div>
+<div class="btn-group" role="group" aria-label="Basic example">
+  <button class="btn btn-outline-primary mode-setter my-2 my-sm-0" type="submit" mode="narrative"
+          id="narrative-label">
+    <span>📖</span>
+    <span class="d-none d-md-inline">Read</span>
+  </button>
+  <button class="btn btn-outline-success mode-setter my-2 my-sm-0" mode="interactive" type="submit"
+          id="interactive-label">
+    <span>✎</span>
+    <span class="d-none d-md-inline">Interact</span>
+  </button>
+</div>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+</nav>
+
+<div id="prologue">
+  <h1>American Streets</h1>
+</div>
+
+<div id="body">
+  <p><link href="https://fonts.googleapis.com/css?family=Overpass" rel="stylesheet"> <link rel="stylesheet" media="screen" href="https://fontlibrary.org/face/santa-barbara-streets" type="text/css"/></p>
+  <div class="scrollership" data-scroller-type="scatterplot">
+  <div class="chunk">
+  <p>I’m obsessed with street names. You can think of the entire country as a gigantic text authored by colonists, municipal planners, and real estate developers that we drive, walk, or cycle through every day; we’ve all read parts of it, but no one reads the whole thing.</p>
+  <pre class="api"><code>{
+    &quot;base_dir&quot;: &quot;/data/scatter/streets&quot;,
+    &quot;colors&quot;: {&quot;name&quot;:&quot;&quot;},
+    &quot;lab&quot;: [&quot;name&quot;],
+    &quot;point_opacity&quot;: 1,
+    &quot;ffont&quot;: &quot;SantaBarbaraStreetsMedium&quot;,
+    &quot;label_field&quot;:&quot;name&quot;,
+    &quot;point_size&quot;: 1.2,
+    &quot;font&quot;: &quot;Overpass&quot;,
+    &quot;point_threshold&quot;: 8,
+    &quot;guides&quot;: [&quot;legend&quot;, &quot;label_legend&quot;, &quot;filter_legend&quot;],  
+    &quot;label_threshold&quot;: 0.4,
+    &quot;variable_point_size&quot;: true,
+    &quot;variable_text_size&quot;: true,  
+    &quot;zoom&quot;: [1, 4.06330232428664, 0.050736521860849315],
+    &quot;label_field&quot;: &quot;name&quot;,
+    &quot;scheme&quot;: &quot;streets&quot;
+    }</code></pre>
+  </div>
+  <div class="chunk">
+  <p>Since it’s a text, you can do computational reading of it. This is a zoomable visualization of the 30,000 most common street names in the United States. This chart is not a literal map–<a href="http://mapquest.com">you know where to go for that</a>–but a conceptual one based on an algorithm used for text analysis, word2vec. Each point represents a single street name; points that are close to each other tend to be used in similar contexts.<a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a></p>
+  <pre class="api"><code>{
+  &quot;zoom&quot;: [1,0,0]
+  }</code></pre>
+  </div>
+  <div class="chunk">
+  <p>The largest streets are the most common. You don’t need to read my tour here: just press the ‘Interact’ button above to make this narration disappear and look around. But if you want, I’ve written up a couple observations you can read below.</p>
+  </div>
+  <div class="chunk">
+  <p>What’s interesting is the intentionality of it. For example: there’s a big cluster, almost entirely distinct from the rest of the map, where streets are named after stones and metals. Copper, Gold, Granite, Ruby. Others I find oddly fascinating; I guess I can image a mine that extracts radium, but how do you end up with a street named after a noble gas like Argon? Is there some neighborhood laid out along the periodic table?</p>
+  <pre class="api"><code>{
+  &quot;zoom&quot;: [128,-5.522383749246554,14.331453677824655]
+  }</code></pre>
+  </div>
+  <div class="chunk">
+  <p>Let’s start by zooming on the context you’re most likely to be familiar with, where the most common street names in the country all sit together. It’s one of the least interesting clusters here: ‘Main’ is the most common street name in the United States, and sits surrounded by a cluster of mostly monosyllabic, barely descriptive words–‘Coal,’ ‘Center,’ ‘Market’, ‘Spring.’ Each of these names <em>does</em> have a context of its own. But these are mostly interchangeable.</p>
+  <pre class="api"><code>{
+  &quot;zoom&quot;: [24.85648976852847,10.778689500807715,-0.29146955698969457]
+  }</code></pre>
+  </div>
+  <div class="chunk">
+  <p>Just to the south of this cluster of nothingness is a better example of the kinds of patterns that do turn up; the neighborhood of presidents. Washington Street (or road, or avenue; I chose not to distinguish) is the most common and among the least distinctively presidential; but farther down are constellations of other presidents mixed in with politicians. Earlier presidents tend to have a better showing than more recent ones, but up through Eisenhower most presidents make a decent showing. (Afterwards, they don’t. Ronald Reagan is over by a bunch of airport words, and most other recent presidents are missing altogether).</p>
+  <pre class="api"><code>{
+  &quot;zoom&quot;: [33.3485162358117,10.498125896638069,1.188941894086181]
+  }</code></pre>
+  </div>
+  <div class="chunk">
+  <p>This vast, central area of names is one default, and largely inscrutable, pattern of American street naming; most anglophone last names coincide with each other. I can’t tell you much about how to read your local neighborhood based on the last names; they could be local settlers, minor political figures, or something else entirely.</p>
+  <pre class="api"><code>{
+  &quot;zoom&quot;: [10.67918929311826,4.692970132882536,-3.7687101799952014]
+  }</code></pre>
+  </div>
+  <div class="chunk">
+  <p>That’s not to say that all last names are arbitrary; some major clusters clearly emerge. Here, for example, is a cluster of authors; some brand of subdivision loves to use authors. The most common names skew heavily towards New England and Romantic-era Britain; Whittier and Byron trounce almost all comers. Midcentury men make a suprisingly strong showing; Hemingway, somehow, edges out Shakespeare in popularity, and Salinger manages to sneak in to the list.</p>
+  <pre class="api"><code>{
+  &quot;zoom&quot;: [110.50746349752471,6.7529635079115415,6.557741035320483]
+  }</code></pre>
+  </div>
+  <div class="chunk">
+  <p>Authors on the streets represents one form of cultural capital; nearby is an even more straightforward tack; naming streets after colleges. I’m surprised how well represented the small liberal arts colleges of the East are in this section; but there’s a wide set from all around the country…</p>
+  <pre class="api"><code>{
+  &quot;zoom&quot;: [110.50746349752471,6.588558708630352,8.201519604202158]
+  }</code></pre>
+  </div>
+  <div class="chunk">
+  <p>… but not around the world. At least in this run of the algorithm, Oxford and Cambridge are more characterized by their Britishness than by their academic prestige. They seem to be relatively late additions to the map, showing up near the mill towns (Manchester, Birmingham) and politicians (Churchill, Balfour) of the first half of the twentieth century.</p>
+  <pre class="api"><code>{
+  &quot;zoom&quot;: [39.89123821680313,2.7111567754963115,10.100259120622038]
+  }</code></pre>
+  </div>
+  <div class="chunk">
+  <h2 id="new-britain">New Britain</h2>
+  <p>The general area for obviously British names is one of the largest on the chart. The last names in this section are mostly politicians; but it’s place names, especially, that really predominate.</p>
+  <pre class="api"><code>{
+  &quot;point_threshold&quot;: 1.25,
+  &quot;zoom&quot;: [14.73249315061426,0.8092268280184812,10.310430935923332]
+  }</code></pre>
+  </div>
+  <div class="chunk">
+  <h3 id="sherwood">Sherwood</h3>
+  <p>One especially interesting area is a spot that’s devoted especially to Ye Olde England; there are developments where streets are thematically named after King Arthur and, above all, Robin Hood. There’s an article on a the Winston-Salem public radio station’s site about <a href="https://www.wfdd.org/story/carolina-curious-searching-robin-hood-road">why street names there draw heavily on Robin Hood</a>, but they don’t seem to consider that this is a pattern replicated in developments across the country.</p>
+  <pre class="api"><code>{
+  &quot;zoom&quot;: [59.52153957356784,3.331215721369615,11.969845845183798]
+  }</code></pre>
+  </div>
+  <div class="chunk">
+  <h3 id="scotland">Scotland</h3>
+  <p>The version of Scotland on American streets, on the other hand, mixes the fanciful, the scenic, and the mundane. Glasgow isn’t romantic, but puts in a decent showing at one edge; but Macbeth, Macduff, and Loch Ness all crop up in the neighborhood as well.</p>
+  <pre class="api"><code>{
+  &quot;zoom&quot;: [83.49118961356757, 0.9214546125379144, 12.47929367204744]
+  }</code></pre>
+  </div>
+  <div class="chunk">
+  <h3 id="ireland">Ireland</h3>
+  <p>Over in Ireland, Shamrock and Dublin compete for the top spot; and things seem even more whimsical.</p>
+  <pre class="api"><code>{
+  &quot;zoom&quot;: [198.30153851512017, -0.11800132970760302, 13.236726921249641]
+  }</code></pre>
+  </div>
+  <div class="chunk">
+  <h2 id="native-america">Native America</h2>
+  <p>While the British Isles show strong local clusters, the native names of the Americas are more indistinct. Indian nations are quite frequently used as street names in the United States, and the patterns of co-occurrence show a reasonably clear structure of use. Cultures from the northeast of the country are at the top and left of this chunk of the chart; the bottom and right come from the American southwest and farther south in Mesoamerica. But while some of the clusters are right on–Yuma, Zuni, and Hopi appear in a tight cluster–the most common names all live together in an undifferentiated middle along with ‘Tomahawk’ and ‘Hiawatha.’ One clear way to think about this cluster is how much farther towards the center the anglicized spelling ‘Navaho’ is than ‘Navajo.’ The less specific, the more likely a word is to be used in just some general ‘Indian’ context.</p>
+  <pre class="api"><code>{
+  &quot;zoom&quot;: [49.24823104514765,8.932523495504466,11.518720111503043]
+  }</code></pre>
+  </div>
+  <div class="chunk">
+  <h2 id="plants-and-trees">Plants and trees</h2>
+  <p>There’s a lot of plant and tree stuff on the chart. But one area devoted to trees shows an interesting higher-dimensional shape; flowers cluster to the left, edible toward the top, and more exotic scents rush down to the bottom.</p>
+  <p>I’m going to pick up the pace a little bit now and rush through some other areas. Again, you can look at this on your own!</p>
+  <pre class="api"><code>{&quot;zoom&quot;:[20.82,-9.656,11.551]}</code></pre>
+  </div>
+  <div class="chunk">
+  <h2 id="the-ocean">The ocean</h2>
+  <p>Ships to one side, fish to another.</p>
+  <pre class="api"><code>{&quot;zoom&quot;:[15.82,-14.046,6.094]}</code></pre>
+  </div>
+  <div class="chunk">
+  <h2 id="birds">Birds</h2>
+  <p>America loves eagles. If you follow this cluster back to the front, you’ll see a lot of geographic features named after birds, not just straight bird names–“Eagle Ridge” and the like.</p>
+  <pre class="api"><code>{&quot;zoom&quot;:[30.86,-14.433,2.308]}</code></pre>
+  </div>
+  <div class="chunk">
+  <h2 id="horses">Horses</h2>
+  <p>There are more animals around here: but I like the way horses are divided into race horse language in one wing, and settler-colonialist horses in another.</p>
+  <pre class="api"><code>{
+  &quot;zoom&quot;:[24.04,-10.955,-1.186],
+  &quot;font&quot;:&quot;Overpass&quot;
+  }</code></pre>
+  </div>
+  <div class="chunk">
+  <h2 id="el-norte">El Norte</h2>
+  <p>Spanish names are fundamentally different from most other geographic regions, reflecting practices in cities that had built up urban infrastructure before <a href="https://www.nybooks.com/articles/2013/02/07/americas-wicked-war/">one of the most unjust wars ever waged by a stronger against a weaker nation</a>.</p>
+  <p>Things are so different that we need a different font…</p>
+  <pre class="api"><code>{&quot;font&quot;:&quot;SantaBarbaraStreetsMedium&quot;, &quot;zoom&quot;:[11.1,-1.586,-13.583]}</code></pre>
+  </div>
+  <div class="chunk">
+  <h2 id="golf">Golf</h2>
+  <p>An insane amount of the United States is devoted to golf courses; and here we get a cluster of the names of streets in these god-forsaken enclaves of the worst Americans. The top gives the names of famous courses; the bottom more generic words.</p>
+  <pre class="api"><code>{&quot;zoom&quot;:[33.82,6.046,-17.057]
+  ,&quot;font&quot;:&quot;Overpass&quot;}</code></pre>
+  </div>
+  <div class="chunk">
+  <h3 id="im-leaving-on-a-jet-plane.">I’m leaving on a jet plane.</h3>
+  <p>Sometimes the middle of cluster plots can be more indistinct than the edges. Not so here! Browse around the middle and you’ll see lovely clusters for airports, historical events, and more.</p>
+  <p>Want more interactive scatterplots? Try <a href="http://creatingdata.us/techne/bibliographies/">here</a> and <a href="http://creatingdata.us/datasets/hathi-features/">here</a>.</p>
+  <pre class="api"><code>{&quot;zoom&quot;:[63.1,0.871,2.837]}</code></pre>
+  </div>
+  </div>
+  <section class="footnotes">
+  <hr />
+  <ol>
+  <li id="fn1"><p>Technical details: I use Tigerline census tracts as individual texts to group streets together, and write those out as a long text file. (Stripping prefixes and suffixes; ‘Water St.’ and ‘Water Rd.’ <em>are</em> very different, but I’m collapsing them here.) Then I use UMAP to lay out the points.<a href="#fnref1" class="footnote-back">↩</a></p></li>
+  </ol>
+  </section>
+</div>
+
+<script src="/js/commonjs/polyfill-intersection.js"></script>
+<script src="/js/mapNarrative.min.js"></script>
+
+</body>

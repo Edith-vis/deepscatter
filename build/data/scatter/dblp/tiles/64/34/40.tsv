@@ -1,0 +1,575 @@
+id	area	title	year	x	y	ix
+3111190	Logic	reachability analysis for spatial concurrent constraint systems with extrusion	2018	2.53240682239166	7.97850728881025	3111217
+3112107	HCI	a deterministic algorithm for identifying direct superclasses in java	2008	3.002906255767648	8.015369096289783	3112134
+3114130	Arch	sequential-like proofs of data-parallel programs	1996	3.3125162057143487	7.6970304297919885	3114157
+3115505	PL	on the complexity of dataflow analysis of logic programs	1995	2.9258611607815515	7.8951050081756335	3115532
+3115852	Logic	concatenable graph processes: relating processes and derivation traces	1998	2.4875345210662605	7.905344830976928	3115879
+3115968	PL	program analysis as model checking of abstract interpretations	1998	2.9320871674079974	7.810007871575045	3115995
+3116905	PL	an abstract interpretation framework for the round-off error analysis of floating-point programs	2018	2.931771386208488	8.318098109409696	3116932
+3117028	PL	a tool for intersecting context-free grammars and its applications	2015	3.080298243148456	8.347455272896816	3117055
+3118532	Security	formalization of malware through process calculi	2009	2.6743003510652525	7.759375122339983	3118559
+3123125	PL	changing system interfaces consistently: a new refinement strategy for csp||b	2009	2.639942145775384	7.769829946965624	3123152
+3128498	PL	explaining data type reduction in the shape analysis framework	2006	3.1762188083407823	8.270730360588162	3128525
+3133314	PL	fair ambients	2007	2.771519695902267	7.923056977754384	3133341
+3141383	PL	elimination of square roots and divisions by partial inlining	2014	3.1925012163536777	7.909623779042837	3141410
+3141463	PL	a theory of bisimulation for a fragment of concurrent ml with local names	2004	2.844916652722314	7.980522539487404	3141490
+3141521	PL	underapproximation of procedure summaries for integer programs	2016	2.6539039584039448	8.240891754057985	3141548
+3143728	Logic	from invariant checking to invariant inference using randomized search	2014	3.3869276339795564	8.248442781654909	3143755
+3144548	Crypto	verifying programs that use causally-ordered message-passing	1995	3.136974113075877	7.914135431427847	3144575
+3147659	Logic	nonuniform alias analysis of recursive data structures and arrays	2002	2.5374271596440443	7.5848673028706886	3147686
+3148216	Logic	characterising and matching iterative and recursive agent interaction protocols	2010	2.4635685223098327	7.805099340352522	3148243
+3153631	Logic	transforming programs into recursive functions	2009	2.9905389410534755	7.679290753687593	3153658
+3155928	PL	bidirectional data flow analysis in code motion: myth and reality	1998	2.976772568485816	7.872461535133537	3155955
+3160685	PL	the synthesis of structure changing programs	1978	3.2955504351227414	7.514350412405196	3160712
+3164877	Logic	an adequate logic for full lotos	2001	2.9711211274431686	8.265867688432143	3164904
+3165780	PL	observability, connectivity, and replay in a sequential calculus of classes	2004	3.33276349730159	8.151175743396786	3165807
+3165827	PL	the logic of message passing	2009	2.4706394989936937	7.481725770182908	3165854
+3166020	Logic	smt-based software model checking: an experimental comparison of four algorithms	2016	3.3073487580063823	7.9843767246662205	3166047
+3166062	AI	the range and roots constraints: specifying counting and occurrence problems	2005	2.7755443438644054	7.985344368986329	3166089
+3166166	Logic	reasoning with data-centric business processes	2012	3.0461020804110763	8.267679884492319	3166193
+3166841	PL	efficient implementation of evaluation strategies via token-guided graph rewriting	2017	3.295283856712355	7.63462224186987	3166868
+3166881	PL	continuation semantics for concurrency applied to parallel rewriting of multisets	2010	3.1994400102192984	7.496694537009896	3166908
+3171162	AI	a method of representing processes in a constraint solver	1985	3.0139740599234277	7.679982181330465	3171189
+3172072	PL	a compiler correctness proof for the static link technique by means of evolving algebras	1997	3.084003954711574	7.604451239939218	3172099
+3174091	PL	parameterized specifications: parameter passing and implementation with respect to observability	1982	2.514094457656185	7.616343632343103	3174118
+3177206	PL	instance-wise reaching definition analysis for recursive programs using context-free transductions	1998	2.9941925755346044	7.977495499824662	3177233
+3177920	Logic	logic programming and model checking	1998	3.1368882287948585	8.045955582066881	3177947
+3180612	ML	multiparty session types within a canonical binary theory, and beyond	2016	2.6235902183606905	7.9320929947573005	3180639
+3181177	PL	proving guarantee and recurrence temporal properties by abstract interpretation	2015	2.9638342839011385	8.29757325373712	3181204
+3182566	Logic	characterizing termination in lotos via testing	1995	2.7245545556449238	8.299792144747043	3182593
+3185211	Logic	tableaux for verification of data-centric processes	2013	2.650369286904533	7.938450938001692	3185238
+3190712	Logic	typed behavioural equivalences for processes in the presence of subtyping	2002	2.751662189829294	8.247032450142394	3190739
+3191143	PL	symbolically computing most-precise abstract operations for shape analysis	2004	3.2268531540101737	7.672819516956532	3191170
+3194358	Logic	a model-checking tool for families of services	2011	2.5226001518422216	8.186254246137871	3194385
+3194786	AI	models for concurrent constraint programming	1996	2.5820873175089343	8.105848021204094	3194813
+3197684	Logic	timed session types	2017	2.7253479693739604	8.342863094646939	3197711
+3198072	Logic	combining static analysis and model checking for software analysis	2001	3.0236327407714745	8.296560739338316	3198099
+3198187	Embedded	a synchronous real-time knowledge-based system	1995	3.3917606256166115	8.218173002557856	3198214
+3199005	Logic	finding loop invariants for programs over arrays using a theorem prover	2009	2.687180892018832	7.9164433402420356	3199032
+3200607	PL	using tracing to direct our reasoning about distributed programs	1991	3.3273351228278685	7.745569588332103	3200634
+3205581	PL	specifying and verifying conditional progress	1994	2.6825562531373555	7.882669935776543	3205608
+3208648	Logic	a refinement method for validity checking of quantified first-order formulas in hardware verification	2006	2.6582079691428784	7.980890889291268	3208675
+3210044	SE	requirement progression in problem frames: deriving specifications from requirements	2007	2.5392747195672394	8.29343485568326	3210071
+3211641	Logic	compositionality entails sequentializability	2011	2.9987548654660707	8.226371508032512	3211668
+3212539	PL	acl - a concurrent linear logic programming paradigm	1993	3.0144530984514946	7.747589040341902	3212566
+3215108	PL	resolving non-determinism in choreographies	2014	2.8487245078575443	7.944161023642156	3215135
+3215322	AI	semi-automatic generation of chr solvers for global constraints	2008	3.092574931440779	7.882121204892432	3215349
+3215409	Logic	symbolic automata constraint solving	2010	2.6525788922351143	8.234108099001979	3215436
+3217428	Logic	techniques for temporal logic model checking	2004	2.9986719134796345	8.264777326626676	3217455
+3222708	Logic	inference rules for proving the equivalence of recursive procedures	2010	3.401526423394844	7.609362774204193	3222735
+3223544	PL	experimental evaluation of a generic abstract interpretation algorithm for prolog	1992	2.7020137194873577	7.700731720744892	3223571
+3223586	PL	model checking graph representation of precise boolean inter-procedural flow analysis	2010	3.0296439986932953	8.325563919873982	3223613
+3228423	Logic	assume-guarantee software verification based on game semantics	2006	2.6972531285866994	8.129074613038012	3228450
+3228624	Logic	proof slicing with application to model checking web services	2005	3.1712832316632418	8.134264295425421	3228651
+3235728	Logic	property-directed inference of universal invariants or proving their absence	2017	3.216795576419132	7.763087474558791	3235755
+3238793	PL	determinacy and determinacy analysis	1997	3.345727081446628	8.251244267818072	3238820
+3242450	Logic	syntax-guided termination analysis	2018	2.596745152473892	8.118662264693048	3242477
+3243912	PL	eliminating dead code on recursive data	2003	3.27637789799743	8.226505806806589	3243939
+3244697	Logic	verification diagrams revisited: disjunctive invariants for easy verification	2000	2.6810511936307337	7.685949557357341	3244724
+3245919	AI	the temporal logic of rewriting: a gentle introduction	2008	3.303795142237425	7.718724749989276	3245946
+3248201	PL	a compositional theory for stm haskell	2009	3.2155771211949777	8.27986757565657	3248228
+3252422	PL	structural invariants	2006	3.056932454712308	8.139376012594465	3252449
+3252718	Logic	qmc: a model checker for quantum systems	2008	2.742227535507563	8.125624532882982	3252745
+3253538	Logic	model checking birth and death	2002	2.559682831306036	8.367458594130989	3253565
+3259250	PL	classical call-by-need sequent calculi: the unity of semantic artifacts	2012	3.045018452862623	7.463787736783303	3259277
+3261019	PL	compositional reasoning and decidable checking for dependent contract types	2009	3.266770746806892	7.709940871879313	3261046
+3261551	PL	wp semantics and behavioral subtyping	2011	2.5905388383781736	7.55421526517147	3261578
+3262538	PL	strictness analysis using abstract reduction	1993	3.291088161411908	7.575586643204108	3262565
+3262890	Logic	validating qbf invalidity in hol4	2010	3.1888209213556027	7.744064683983138	3262917
+3263094	SE	completeness of pointer program verification by separation logic	2009	2.530093036684508	7.5465635346886994	3263121
+3264020	Comp.	multiparty session types, beyond duality	2018	3.1575566740644776	8.293202197958013	3264047
+3264971	PL	completeness and incompleteness of trace-based network proof systems	1987	2.8050858634428826	7.755420045535291	3264998
+3268514	Logic	drat-trim: efficient checking and trimming using expressive clausal proofs	2014	2.4484341959035847	7.714767299432935	3268541
+3270173	PL	improving size-change analysis in offline partial evaluation	2008	2.95739011306737	8.221475467417926	3270200
+3271829	Logic	a proof environment for concurrent programs	1993	2.859864844783629	7.8833088910956475	3271856
+3272360	PL	specification of time dependencies and synthesis of concurrent processes	1987	3.0317138619559976	7.9579114694221795	3272387
+3272500	DB	type inference and type checking for queries over execution traces	2011	2.943799089700002	8.224680188182324	3272527
+3272650	Logic	model-checking agent refinement	2008	2.5441333631896748	8.05569587177667	3272677
+3272843	Logic	multi-agent reactive systems	2003	2.7397268858480217	7.7241172636694095	3272870
+3274337	Logic	analysis of timed concurrent models based on testing equivalence	2000	2.6468135925939333	8.096106347410506	3274364
+3274754	Logic	modelling and verifying mobile systems using pi-graphs	2009	3.1553513634813086	8.234042899320858	3274781
+3277047	PL	dependent types from counterexamples	2010	3.230179091709938	7.913969495843152	3277074
+3278895	Security	what semantic equivalences are suitable for non-interference properties in computer security	2007	3.064016934219293	7.515320239288014	3278922
+3283459	Logic	assumption-commitment support for csp model checking	2007	2.826223074899714	7.475737923938477	3283486
+3283587	PL	a fold/unfold transformation framework for rewrite theories extended to cct	2010	3.1899236291477533	7.575421775514762	3283614
+3284040	EDA	a neural network algorithm for hardware-software verification	2003	2.5180999955640324	8.272199808633218	3284067
+3284663	Security	advanced probabilistic couplings for differential privacy	2016	2.7678202072664755	8.08341979769606	3284690
+3286771	ECom	on the relationships among four timed process algebras	1999	2.591199757768845	8.19142861556924	3286798
+3287862	PL	compositional proofs for concurrent objects	1997	3.2775374702643885	8.106388206546072	3287889
+3288469	Logic	computational complexity of interactive behaviors	2012	2.874462931636464	8.316930876667469	3288496
+3288768	Security	efficient local unfolding with ancestor stacks	2011	3.3839868782632005	7.543837982259286	3288795
+3289522	Logic	evaluation of properties over phylogenetic trees using stochastic logics	2016	2.458387990843007	7.6539518847922094	3289549
+3293143	Logic	polyhedral domains for abstract interpretation in logic programming	2002	3.083443304792112	7.48590574807561	3293170
+3299737	PL	secure mechanical verification of mutually recursive procedures	2003	3.1420286719644213	7.751599163553128	3299764
+3301000	PL	a static analysis for classical linear logic programming language	1999	2.473159678860417	7.602407540026218	3301027
+3301188	SE	a scenario-matching approach to the description and model checking of real-time properties	2005	2.48643006440554	8.33556073102719	3301215
+3301209	Logic	"""propagation of inter-argument dependencies in """"tuple-distributive"""" type inference systems"""	1994	3.0851420147185564	7.597611437585888	3301236
+3302430	DB	automatic reordering for dataflow safety of datalog	2018	2.8600479802776264	7.657918883107484	3302457
+3305685	PL	approximating the domains of functional and imperative programs	1999	2.7685207750038057	7.84933363445044	3305712
+3307520	PL	anytime, anywhere: modal logics for mobile ambients	2000	3.2050859172817034	8.158505534419115	3307547
+3310260	Logic	foundations for using linear temporal logic in event-b refinement	2016	2.593321430324925	8.346936162009131	3310287
+3311979	SE	static backward slicing of non-deterministic programs and systems	2018	2.702138566260782	8.174777406902125	3312006
+3312020	Logic	a behavioural model for product families	2007	2.6274627898335616	8.00241189045544	3312047
+3314951	PL	a coinductive calculus for asynchronous side-effecting processes	2011	2.4715584121322505	7.743253729058423	3314978
+3317512	PL	a bisimulation for dynamic sealing	2007	3.4061231136580163	7.625278070531973	3317539
+3318897	AI	modelling implicit communication in multi-agent systems with hybrid input/output automata	2012	2.645132499449458	8.205803584745476	3318924
+3321984	PL	checking the shape safety of pointer manipulations	2003	3.402498335786339	7.914439169905063	3322011
+3323325	Logic	temporal relevant logic as the logic basis for reasoning about dynamics of concurrent systems	1998	2.8709936082742087	7.794335545564481	3323352
+3323469	Logic	a calculus of contracting processes	2010	2.653066942555724	7.596934881775459	3323496
+3324188	Robotics	comparing implementations of a calculator for exact real number computation	2009	3.0697236535957497	8.093415380463066	3324215
+3324292	PL	natural synthesis of provably-correct data-structure manipulations	2017	3.150405339689076	7.960329488598568	3324319
+3327715	PL	an overview of semantics for the validation of numerical programs	2005	3.2812002469634134	8.042079493220552	3327742
+3330396	Logic	the implementation of mazurkiewicz traces in poem	2006	2.9097495387847347	8.266459329886247	3330423
+3330583	Logic	it's about time: real-time logics reviewed	1998	2.6530456467421786	8.262663498880169	3330610
+3331227	EDA	null convention logic/sup tm/: a complete and consistent logic for asynchronous digital circuit synthesis	1996	2.605358085705612	7.535402281005585	3331254
+3335516	SE	the implications of program dependencies for software testing, debugging, and maintenance	1989	2.825618160700706	7.704430945152987	3335543
+3337182	SE	factorising temporal specifications	2005	2.4878597159503144	7.730256848859304	3337209
+3341080	PL	efficient multi-level generating extensions for program specialization	1995	3.2512494452639595	7.993044983410829	3341107
+3344503	PL	a framework for verified depth-first algorithms	2012	3.124602525722317	7.943888803053452	3344530
+3344847	Logic	incremental invariant generation using logic-based automatic abstract transformers	2013	3.390000025985596	7.776675146545642	3344874
+3346333	SE	a compositional specification theory for component behaviours	2012	3.1864417526414206	8.181362275461847	3346360
+3352829	Logic	a symbolic framework for model-based testing	2006	2.8379089605041496	8.386840379113687	3352856
+3354569	Logic	a specification structure for deadlock-freedom of synchronous processes	1999	2.4421964664233093	8.167178582711447	3354596
+3355410	SE	a formal analysis of behavioral equivalence for web services	2008	2.8008582506800623	8.211030492495471	3355437
+3356083	Logic	abstract interpretation with a theorem prover	2002	3.1441307264241547	8.381387636441357	3356110
+3360306	PL	cartesian hoare logic for verifying k-safety properties	2016	3.3406745344074715	7.4985204963404115	3360333
+3362110	AI	clp(b): combining simplicity and efficiency in boolean constraint solving	1994	2.8060519388957923	7.6825566252506325	3362137
+3368098	AI	congolog, a concurrent programming language based on the situation calculus	2000	2.723349644989919	8.139797078729304	3368125
+3368123	Logic	on a solution to the cigarette smoker's problem (without conditional statements)	1975	2.690753856456157	7.6321756047393	3368150
+3369420	Logic	relational separation logic	2007	3.01923597145992	7.514150749047638	3369447
+3370189	Logic	implementing the stochastics brane calculus in a generic stochastic abstract machine	2012	3.3725706005452447	7.631883762677266	3370216
+3370253	PL	operational semantics of hybrid systems	2005	3.1155448772159504	8.035582786415223	3370280
+3373692	Theory	formalizing push-relabel algorithms	2017	2.529785013688137	7.749419365681749	3373719
+3376802	AI	modelling calculi with name mobility using graphs with equivalences	2007	2.5012252162220743	7.456009505315727	3376829
+3378078	ECom	from hidden to visible: a unified framework for transforming behavioral theories into rewrite theories	2018	2.7371440154361086	7.596407182752861	3378105
+3378279	Logic	simple smt-based bounded model checking for timed interpreted systems	2017	3.2999949729982525	7.638293436820544	3378306
+3379042	PL	precision and the conjunction rule in concurrent separation logic	2011	2.9377343213504035	7.589186775417278	3379069
+3379425	Logic	encoding asynchronous interactions using open petri nets	2009	3.0929500554302685	8.394892897048365	3379452
+3381565	Logic	refinements in holcf: implementation of interactive systems	1997	2.5253264848077928	7.468862452327532	3381592
+3383497	Security	constant propagation on predicated code	2003	3.3798036680331482	8.190740949760977	3383524
+3385190	Logic	termination of monotone programs	2016	2.6168776093222164	8.149206442128612	3385217
+3385662	PL	using program synthesis for program analysis	2015	2.85094385642636	7.736922264126588	3385689
+3389094	Logic	on relating rewriting systems and graph grammars to event structures	1993	3.0016846894002818	7.9844537758824465	3389121
+3389137	DB	a transformation system for clp with dynamic scheduling and ccp	1997	2.4698305937767686	8.329945305592755	3389164
+3392240	PL	performance verification using partial evaluation and interval analysis	1997	3.0446645358166458	7.620053423649272	3392267
+3393021	AI	higher-order consistencies through gac on factor variables	2014	2.790633162492711	7.721437286885843	3393048
+3393824	PL	lazy xsl transformations	2003	3.4026745130378337	7.718093487440213	3393851
+3395322	SE	automatic improvement of programs in very high level languages.	1979	2.6229616637282267	7.6241885841922805	3395349
+3395738	Logic	abstract interpretation of active rules and its use in termination analysis	1997	2.817249000264972	7.559575899739077	3395765
+3398123	PL	online partial evaluation for shift and reset	2002	3.398496113801793	7.641957451234214	3398150
+3400320	DB	a process algebra for probabilistic and nondeterministic processes	2001	2.5536432102744637	8.218436234125917	3400347
+3400863	PL	dynamic graph transformation systems	2006	3.2154749503487885	7.711439908446149	3400890
+3401325	Logic	an event calculus formalization of timed automata	2018	2.4760019887608444	7.876435753913472	3401352
+3402101	Logic	tool-based verification of a relational vertex coloring program	2015	3.3636361470312415	7.6684335492083315	3402128
+3403705	Logic	executing bigraphical reactive systems	2019	2.8216656809752645	7.555649302550495	3403732
+3403985	SE	detecting and resolving email feature interactions through constraints	2011	3.203920168595627	7.492438606213237	3404012
+3405357	PL	calculational verification of reactive programs with reactive relations and kleene algebra	2018	2.857314916517925	8.205786312191169	3405384
+3406962	ML	an efficient staging algorithm for binding-time analysis	2003	2.8509446411639425	7.801469275930978	3406989
+3409602	Logic	verified aig algorithms in acl2	2013	3.2806335919798317	8.037063087662279	3409629
+3420104	PL	going beyond integer programming with the omega test	1995	2.5906796206608824	8.056386892434071	3420131
+3422101	PL	technical report 2009-001 unrestricted and disjoint operations over multi-stack visibly pushdown languages ∗	2009	3.3678486654528	7.938007734061847	3422128
+3422718	PL	automatic parallelization with separation logic	2009	3.3730509845947925	7.786609752641492	3422745
+3427076	PL	the typing of communicating sequential processes	1999	3.03649496980694	7.531473190182733	3427103
+3428176	HCI	asymptotic speedups, bisimulation and distillation (work in progress)	2014	2.4471140603670682	8.060714117327883	3428203
+3428580	Logic	name-passing in an ambient-like calculus and its proof using spatial logic	2006	3.1746810977696986	8.389926260160943	3428607
+3429031	PL	unifying theories of programming	2014	2.6116078941218706	7.81278811458462	3429058
+3430008	AI	robust process mining with guarantees	2018	2.91154672945746	8.186810339481845	3430035
+3430501	Logic	peterson's mutual exclusion algorithm revisited	1997	2.843218378875396	7.6665215969843485	3430528
+3433623	Logic	a complexity preserving transformation from jinja bytecode to rewrite systems	2012	2.8723332611688788	7.680748769588572	3433650
+3440819	Logic	"""when is """"partial"""" adequate? a logic-based proof technique using partial specifications"""	1990	2.7799652550223697	7.74844987419044	3440846
+3441929	Logic	from algebraic semantics to denotational semantics for verilog	2006	2.849471328168208	8.203485537741626	3441956
+3442327	PL	formal small-step verification of a call-by-value lambda calculus machine	2018	3.4070655989089964	7.583797935929713	3442354
+3442492	PL	automata theory and higher-order model-checking	2016	3.1499802939262147	7.93203717989384	3442519
+3443086	SE	multi-modal scenarios revisited: a net-based representation	2012	3.019888488186244	7.8220561511284705	3443113
+3443612	SE	an evaluation of automata algorithms for string analysis	2011	3.2343717941406083	7.901836982393367	3443639
+3444385	Embedded	algebraic models of superscalar microprocessor implementations: a case study	1998	3.200579398080249	8.155427409249139	3444412
+3447972	PL	distillation with labelled transition systems	2012	2.729578535549682	7.75650937897955	3447999
+3448249	PL	purely functional lazy nondeterministic programming	2011	3.050635515594469	7.583803213966608	3448276
+3449462	AI	lcf-style bit-blasting in hol4	2011	3.3195003363767253	7.553117866138685	3449489
+3449689	Logic	extending fault trees with an and-then gate	2000	2.501402016491164	8.37397429155015	3449716
+3453397	PL	observable sharing for functional circuit description	1999	2.7627260402968155	7.735821043823752	3453424
+3455777	AI	lazy annotation revisited	2014	2.7404537098451858	7.729229614248319	3455804
+3456869	PL	abstract resource cost derivation for logical quantum circuit descriptions	2013	2.6519035146367003	7.491316218098742	3456896
+3460719	Logic	the performance of combining multiway decision graphs and hol theorem prover	2008	2.527518504314352	7.762290570370383	3460746
+3462613	Logic	handling periodic properties: deductive verification for quantified temporal logic specifications	2011	2.75804832892182	8.146181523251549	3462640
+3463875	Theory	latin 2002: theoretical informatics	2002	2.78977271648816	7.541808019323863	3463902
+3467829	Logic	configuration logics: modelling architecture styles	2015	3.0146776065236205	7.727722493327781	3467856
+3468465	PL	guaranteeing safe destructive updates through a type system with uniqueness information for graphs	1993	3.1427307551564585	7.544525582815107	3468492
+3472332	Networks	autoproof meets some verification challenges	2014	2.8602433008512924	8.271513617017058	3472359
+3472475	Logic	pruning infinite failure branches in programs with occur-check	1992	3.202701971192224	7.764718112712432	3472502
+3472481	Logic	confluence analysis for distributed programs: a model-theoretic approach	2012	2.4977371875355963	7.545242546253402	3472508
+3473108	PL	constraint-based program reasoning with heaps and separation	2013	3.202454526459192	7.854839702901697	3473135
+3473533	PL	nondeterminism in constructive z	2008	2.726772236531089	7.615234613840193	3473560
+3475873	Robotics	verification, model checking, and abstract interpretation : 8th international conference, vmcai 2007 nice, france, january 14-16, 2007 : proceedings	2007	3.401942462239738	8.266438835954375	3475900
+3476375	PL	a partial evaluation framework for curry programs	1999	3.3802252141052884	7.65244048758675	3476402
+3478723	SE	model checking: software and beyond	2007	3.0396308363100233	8.149732554074665	3478750
+3480097	PL	calculating polynomial runtime properties	2005	2.6596897170650324	7.938485333205272	3480124
+3480475	Logic	combining predicate and numeric abstraction for software model checking	2008	3.042782499375566	7.574284800401228	3480502
+3480685	PL	pushdown flow analysis with abstract garbage collection	2014	3.2408281635603897	8.161683224926389	3480712
+3481690	PL	derivation of efficient logic programs by specialization and reduction of nondeterminism	2005	3.0545798211159125	7.604391902945513	3481717
+3482062	Logic	finding loop invariants for programs over arrays using a theorem prover	2009	3.0974791238888346	7.801620208305664	3482089
+3484226	Logic	proving reachability in b using substitution refinement	2011	2.9893280669427296	7.692617886226003	3484253
+3485647	DB	model checking for object specifications in hidden algebra	2004	2.677823516849192	8.391719650939113	3485674
+3485838	Logic	verifying an infinite systolic algorithm using third-order equational methods	2006	2.7158586079355174	7.898307029143199	3485865
+3487809	Logic	automated verification of concurrent linked lists with counters	2002	2.93383479690229	8.218617174367571	3487836
+3491089	PL	type-directed flow analysis for typed intermediate languages	1997	3.237266017121597	7.455456412728619	3491116
+3493024	NLP	improving rule analysis by means of triggering and activation graphs	1995	3.14214042346188	8.401071699845291	3493051
+3493157	HCI	provably optimal and human-competitive results in sbse for spectrum based fault localisation	2013	2.95320643815056	8.14273114954257	3493184
+3494517	Logic	sequential functions on indexed domains and full abstraction for a sub-language of pcf	1993	2.5312674038630747	7.523370229467647	3494544
+3497497	Robotics	reasoning about multi-agent systems using stochastic petri nets	2015	2.4438144344020967	8.107587459208105	3497524
+3500004	PL	on linear list recursion in parallel	1998	3.018759994223575	7.518289723896557	3500031
+3500074	Logic	counterexample guided spotlight abstraction refinement	2008	2.5283747683089226	7.756689404016082	3500101
+3500193	Logic	notes on proof outline logic	1996	3.3677655712466334	7.678548883665848	3500220
+3503998	PL	constraints to stop higher-order deforestation	1997	2.753835285184003	7.5380402319779485	3504025
+3505022	Theory	parallelizing union-find in constraint handling rules using confluence analysis	2005	2.556684415601508	8.055549928967263	3505049
+3505173	Logic	specification theories for probabilistic and real-time systems	2014	2.5711900089079447	8.16980412253713	3505200
+3505375	SE	automating algebraic specifications of non-freely generated data types	2008	3.2299972713738065	7.497821190219216	3505402
+3507217	PL	generation of test data structures using constraint logic programming	2012	3.2964637200583686	7.876273946599157	3507244
+3508176	Logic	an encoding of array verification problems into array-free horn clauses	2015	3.066048001982404	7.763268609509796	3508203
+3508679	PL	e-path_pre: partial redundancy elimination made easy	2002	3.17355429489417	7.563169528468468	3508706
+3509387	AI	c-inpres: coupling analysis towards locking optimization in ambient intelligence	2010	2.8230728078881584	8.314170740457799	3509414
+3509925	Logic	bounded model checking for deontic interpreted systems	2005	2.9809367962521467	8.314606910898059	3509952
+3510408	ML	validating active rules by planning	1997	2.7437184816483584	7.955313810971543	3510435
+3511988	PL	how to prove algorithms linearisable	2012	3.1902871680653995	8.167270215161347	3512015
+3512312	Logic	verification of multi-linked heaps	2012	3.3409652645611327	8.09207298649034	3512339
+3513965	PL	a calculus of higher order safe ambients and its bisimulations	2012	3.0129277018619582	8.13885847164585	3513992
+3514171	Logic	a verification method for systolic arrays using induction-based theorem provers	1999	2.932018974351733	8.350022481939696	3514198
+3514227	Logic	automata-theoretic model checking revisited	2008	2.4553819661224496	8.19498257999576	3514254
+3515529	PL	recovering execution data from incomplete observations	2015	2.8244010855966066	8.19704182601498	3515556
+3516033	PL	finite integer computations: an algebraic foundation for their correctness	2006	3.3716321401088982	7.8082501326708895	3516060
+3517468	AI	a mechanized strategy for safe abstraction of csp specifications	2009	2.9637395037454444	8.313766533435748	3517495
+3519275	Logic	automated termination proofs for java programs with cyclic data	2012	2.695978266406272	7.865866489694139	3519302
+3521527	Logic	a behavioural model for product families	2007	2.454712736293659	8.001968719314837	3521554
+3522326	Logic	some comments on the assumption-commitment framework for compositional verification of distributed programs	1989	3.145000246411306	7.983122367087486	3522353
+3523452	PL	towards a coalgebraic semantics of the ambient calculus	2005	2.591206073867001	7.8388531604885365	3523479
+3523893	AI	foundations of tree-like local model updates	2010	2.5239042242202796	8.347351026561594	3523920
+3525724	PL	depth first search	2004	2.7972237680713308	7.917319953898531	3525751
+3530574	PL	extended transitive separation logic	2015	3.2615964344643236	7.755488000282138	3530601
+3531600	ECom	an abstract interpretation toolkit for mucrl	2005	2.471039329178952	7.972929610200878	3531627
+3533635	PL	primitive recursive program transformation	1976	3.19965537749606	7.868176959281014	3533662
+3534208	Logic	monotonic abstraction for programs with multiply-linked structures	2013	3.2701418166404186	7.862985666227508	3534235
+3535156	PL	name-passing in an ambient-like calculus and its proof using spatial logic	2005	3.1967437491920907	8.346810934568861	3535183
+3535432	PL	separation results via leader election problems	2005	2.5537039008059925	8.259202976964293	3535459
+3537323	Logic	foreword: special issue on numerical software verification	2009	3.1249253687083214	7.736350437102788	3537350
+3539595	Logic	using the reform inference system for parallel prolog	1990	2.943642894260954	7.511945099900139	3539622
+3540486	Logic	model checking propositional deontic temporal logic via a μ-calculus characterization	2012	2.4430860264206617	8.340352926015061	3540513
+3540736	PL	context-free session type inference	2017	3.3683784194889315	7.635927036564338	3540763
+3547560	Logic	an integration of model checking with automated proof checking	1995	2.7793505846650266	7.7004249148918245	3547587
+3547855	Logic	keeping a crowd safe: on the complexity of parameterized verification (invited talk)	2014	2.9934138597843423	8.129293099206027	3547882
+3549482	SE	a common framework for synchronization in requirements modelling languages	2010	3.0760053315770177	8.343216123303604	3549509
+3550257	PL	changing system interfaces consistently: a new refinement strategy for csp||b	2011	2.7460452957028174	7.72084936130217	3550284
+3551286	DB	using datalog with binary decision diagrams for program analysis	2005	2.844860889748261	7.6028395539654126	3551313
+3551831	Logic	deriving liveness goals from temporal logic specifications	1996	3.0676736720619227	8.326237556825232	3551858
+3552070	SE	simply observable behavioral specification	1999	2.5405880911469683	8.141826109000013	3552097
+3552844	Logic	threader: a constraint-based verifier for multi-threaded programs	2011	3.3602844094172	7.8180995431879925	3552871
+3553357	Logic	a tutorial on empa: a theory of concurrent processes with nondeterminism, priorities, probabilities and time	1998	2.9664002455944485	8.295415523520285	3553384
+3554435	Logic	formalizing process algebraic verifications in the calculus of constructions	1997	3.253587199719948	7.671664385315652	3554462
+3554709	PL	abstractions from proofs	2004	3.3816065282463352	8.29262176196474	3554736
+3561450	Logic	auxiliary variables in tla+	2017	3.393235441734653	8.248479400844095	3561477
+3563191	Logic	model checking analysis of observational transition system with smv	2011	2.4409314770994617	8.287160711453549	3563218
+3568532	Logic	relating state-based and behaviour-oriented subtyping	2002	3.366816224914308	7.983016256254902	3568559
+3568579	Theory	term graphs for computing derivatives in imperative languages	2007	2.9178731299298213	7.80312830020859	3568606
+3569152	Logic	probabilistic mobile ambients	2009	2.6866275488481706	7.929330645798482	3569179
+3569428	PL	simulation of specification statements in hoare logic	1996	2.987749151323543	7.621951175604304	3569455
+3571001	Logic	epr-based bounded model checking at word level	2012	2.466324840217104	8.196092685318355	3571028
+3577178	PL	call by name, assignment, and the lambda calculus	1993	3.3314190804903827	7.732923966055126	3577205
+3582280	PL	practical extensions to the ifds algorithm	2010	2.8484111244642563	8.395850120271286	3582307
+3585375	Logic	a theory of singly-linked lists and its extensible decision procedure	2006	2.7467982958607804	7.498966428245852	3585402
+3595100	Logic	generating inductive predicates for symbolic execution of pointer-manipulating programs	2014	2.9133746600638326	7.673940914063178	3595127
+3595300	Logic	integer constraints to stop deforestation	1996	2.842334484812321	7.780983000842253	3595327
+3596728	PL	on termination, confluence and consistent chr-based type inference	2014	3.0726735543234502	7.634277202314996	3596755
+3597302	Logic	game-based safety checking with mage	2007	3.033179031603284	8.209536471948057	3597329
+3600513	Logic	using abstract interpretation for the safe verification of security protocols	1999	2.754838839021876	8.310496042272435	3600540
+3602298	PL	concurrency and concurrent constraint programming	1994	3.3440159823364137	7.994252901879864	3602325
+3607187	Logic	apc semantics for petri nets	2008	2.6794319074559727	8.207523026165857	3607214
+3611699	PL	parametrized invariance for infinite state processes	2015	2.849220223098495	8.31426868026109	3611726
+3613276	PL	suffix trees in the functional programming paradigm	1994	3.3426616870532397	7.462685094055711	3613303
+3613574	PL	deriving efficient parallel programs for complex recurrences	1997	2.9990857616217044	8.019565570930983	3613601
+3613977	SE	guided static analysis	2007	2.7253488595685	8.296012578829076	3614004
+3614811	Embedded	clocks as first class abstract types	2003	3.272270534880108	8.308735453780384	3614838
+3617930	Logic	a rewriting based monitoring algorithm for tptl	2013	2.5848787371882644	8.13162102125971	3617957
+3618036	Logic	a logic framework for verification of timed algorithms	2004	2.8313262973796762	7.591682137626588	3618063
+3622145	PL	kernel equivalence of programs and proving kernel equivalence and correctness by test cases	1971	3.264392108660425	7.770241081620563	3622172
+3622967	PL	on the complexity of escape analysis	1997	3.2564439494648365	8.367657044838106	3622994
+3623217	AI	an algebraic semantics for the object specification language troll light	1994	2.560497607978814	8.042647271523991	3623244
+3623317	PL	an effective theory of type refinements	2003	3.3699471307190687	7.497209505939506	3623344
+3631304	PL	componential set-based analysis	1997	2.909916023820848	8.239386363209235	3631331
+3631963	PL	specifying the correctness of binding-time analysis	1993	3.255947868227452	7.644293966895254	3631990
+3632023	AI	verification of communication protocols in a multi-agent system	2008	2.541393712306709	7.775471527565	3632050
+3633508	Logic	stack automata and compiling	1967	3.395796349036884	7.946073146751484	3633535
+3635144	PL	on the correctness of bubbling	2006	3.2310093821228505	7.9456348709645095	3635171
+3636355	PL	specifying the correctness of binding-time analysis	1993	3.287211418794839	7.560844050728508	3636382
+3636522	PL	mobile safe ambients	2003	3.1856919290940784	7.947454306353973	3636549
+3640504	SE	counterexample-based refinement for a boundedness test for cfsm languages	2005	2.4504934635166324	8.405486115009946	3640531
+3643046	SE	compositional petri net approach to the development of concurrent and distributed systems	2001	2.9211203555642657	8.179733697405236	3643073
+3643888	PL	counterexample-guided abstraction refinement for linear programs with arrays	2013	2.900779754629952	7.744207645307382	3643915
+3644265	PL	efficient alias set analysis using ssa form	2009	3.356276885280925	7.7334951243023315	3644292
+3645539	Logic	towards distributed software model-checking using decision diagrams	2013	3.2570678704460656	8.361317458831174	3645566
+3646527	SE	evidence-based verification of safety properties concerning the cooperation of autonomous agents	2018	3.1871490069712287	8.205982985694924	3646554
+3648088	PL	a program construction and verification tool for separation logic	2015	3.310852765080954	7.529460654380131	3648115
+3648352	Logic	assertion-based analysis of hybrid systems with pvs	2001	2.6875436645603235	8.37637498725698	3648379
+3648363	Logic	"""preserving liveness: comments on """"safety and liveness from a methodological point of view"""""""	1991	3.2603327180670294	8.376178180540622	3648390
+3650992	PL	toward a verified software toolchain for java	2012	2.4993740054868807	7.461516428965856	3651019
+3651322	PL	more haste, less speed: lazy versus eager evaluation	1997	3.381817579423339	7.746780414304906	3651349
+3652748	PL	solving recursion-free horn clauses over li+uif	2011	2.4953864574401408	7.5887991052563475	3652775
+3653013	PL	checking roundoff errors using counterexample-guided narrowing	2010	2.5896402979449737	7.683938659049813	3653040
+3654280	PL	a region graph based approach to termination proofs	2006	2.7444468986698616	7.73725239656497	3654307
+3657740	Logic	denotational semantics for thread algebra	2008	2.5282762259607474	7.485048470382781	3657767
+3659363	PL	analyzing divergence in bisimulation semantics	2017	2.9154991809069037	7.6936628752224925	3659390
+3660542	PL	designs with angelic nondeterminism	2013	2.5685104006938233	7.556028469840141	3660569
+3661285	PL	resource analysis by sup-interpretation	2006	3.0061739994070424	8.257023280441382	3661312
+3661779	AI	decision procedures for region logic	2012	2.9423197399809067	7.533949681344647	3661806
+3662137	Logic	proof systems for message-passing process calculi	1999	2.904439080042468	8.098537446924423	3662164
+3662437	Logic	on ∃ ∀ ∃! solving: a case study on automated synthesis of magic card tricks	2016	3.2794182972461683	7.782902590476239	3662464
+3664839	Logic	descriptional complexity of machines with limited resources	2002	2.685173874875572	8.211523089716707	3664866
+3666355	PL	embedding session types in hml	2013	3.0647408758963985	8.233282440683926	3666382
+3669400	SE	towards verification of bit-slice circuits-time-space modal model checking approach-	1995	2.7446614855190075	8.239408880521786	3669427
+3669492	PL	a probabilistic branching bisimulation for quantum processes	2005	3.282909504547053	8.381647181254076	3669519
+3669849	Theory	a proof system for communicating processes with value-passing (extended abstract)	1989	3.0657146954446604	7.56123022643703	3669876
+3671699	Logic	local model checking of java bytecode	2002	2.7482513727363256	8.274709290000269	3671726
+3673086	DB	relational database behavior: utilizing relational discrete event systems and models	1989	3.3037612946244286	7.5363186938510625	3673113
+3675901	PL	propositional dynamic logic for higher-order functional programs	2018	2.6539963513367733	7.932376331194569	3675928
+3676257	Logic	monitoring modulo theories	2015	2.8670326258236383	8.379352205187281	3676284
+3681110	PL	state-transition machines for lambda-calculus expressions	2007	3.323957900582844	7.652128140981548	3681137
+3682103	Logic	a compete modal proof for hal: the herbrand agent language	1993	2.497255341467499	7.783928660894679	3682130
+3683298	PL	towards a semantic theory of cml	1995	2.6693546979740472	7.731739066799256	3683325
+3689600	AI	stochastic local search for satisfiability modulo theories	2015	2.47319362376138	7.776677644147129	3689627
+3690540	EDA	on combining 01x-logic and qbf	2007	2.9159055320941163	8.227529790750099	3690567
+3695518	Logic	an algebraic theory of interface automata	2014	2.53664854416052	8.049938534749966	3695545
+3697390	PL	proof checking technology for satisfiability modulo theories	2009	3.094020918088383	7.5836208701186	3697417
+3698236	Logic	combining theorem proving and narrowing for rewriting-logic specifications	2010	2.7117672998845364	8.093860846030308	3698263
+3699787	PL	clp(intervals) revisited	1994	3.0535929904822288	7.699386872122849	3699814
+3704610	AI	optimized dl reasoning via core blocking	2010	3.3272798951087594	8.101592320150116	3704637
+3704693	AI	non-atomic refinement in z and csp	2005	2.473874785802282	8.166927027951202	3704720
+3705020	NLP	abstract interpretation of the pi-calculus	1996	3.0813329647836087	8.01164191264948	3705047
+3708957	PL	synthesizing short-circuiting validation of data structure invariants	2015	3.376426465339033	8.152248327247527	3708984
+3710416	Mobile	an abstract interpretation framework for analysing mobile ambients	2001	3.204125316677002	7.905863003454044	3710443
+3711348	SE	resolving and applying constraint queries on context-sensitive analyses	2004	3.1205490293522535	7.944268571693145	3711375
+3713340	PL	efficient static single assignment form for predication	2001	3.3012546103608877	7.6481821620303325	3713367
+3715188	Logic	an interactive solution to the n by n mutilated checkerboard problem	1996	2.9558486954500567	7.562364151930897	3715215
+3716388	HPC	a simple notion of parallel graph transformation and its perspectives	2018	2.7629939035187405	7.882477293593667	3716415
+3716644	PL	using a language of functions and relations for vlsi specification	1995	3.298199574909753	8.359803038048769	3716671
+3719428	PL	uniform traversal combinators: definition, use and properties	1992	2.850639939313857	7.581255238408817	3719455
+3719914	SE	floating-point format inference in mixed-precision	2017	2.902584834962397	7.765961004341545	3719941
+3720541	Logic	a logic for modular descriptions of asynchronous and synchronized concurrent systems	1998	2.716511295193776	8.005636577468326	3720568
+3722177	PL	proof styles in operational semantics	2004	2.68877448667461	7.751082941610241	3722204
+3722407	Logic	specification of concurrent objects using auxiliary variables	1991	3.2728087007868347	8.014285420698053	3722434
+3724781	PL	a machine-checked soundness proof for an efficient verification condition generator	2010	3.3854280059316464	8.053074653631517	3724808
+3725003	Logic	petri net semantics of the finite pi-calculus	2004	2.6252767083663118	8.101132991811191	3725030
+3726690	PL	studying synchronous communication mechanisms by abstractions	1994	2.7230837833358086	8.241072984624907	3726717
+3728972	PL	reasoning algebraically about loops	1999	2.7550008852445647	7.7694242477220286	3728999
+3730474	Logic	implementing generalized alternative construct for erasmus language	2013	2.7722126020924627	7.574622044489561	3730501
+3731730	Theory	formal justification of a proof system for communicating sequential processes	1983	2.901991885754753	7.581754470328938	3731757
+3731838	Logic	keeping a crowd safe: on the complexity of parameterized verification (corrected version)	2014	2.8966534232565184	8.171525022071755	3731865
+3732778	PL	a foundation for actor computation	1997	3.3788984252305716	8.373727507144729	3732805
+3735007	PL	the denotational semantics of dynamic networks of processes	1985	3.0053888456953812	8.30198960533656	3735034
+3736724	Logic	control of logic program execution based on the functional relations	1986	3.402135191369636	7.744912118900423	3736751
+3742159	PL	failure tabled constraint logic programming by interpolation	2013	2.594479342322598	7.653753594086651	3742186
+3742171	PL	circus time with reactive designs	2012	3.3235178845013964	7.518959885530899	3742198
+3742837	PL	the semantics of graph programs	2009	3.1987681337949736	7.677798240507292	3742864
+3743918	Logic	accelerated invariant generation for c programs with aspic and c2fsm	2010	3.0752454727622114	8.321132895893117	3743945
+3744308	Crypto	spvt-ii: an efficient security protocol verifier based on logic programming	2008	2.6795872188580487	8.390605591734142	3744335
+3746916	AI	conditions in reactive systems and in graph rewriting	2012	3.1277968404654954	7.8831040807814725	3746943
+3747784	Logic	a hoare-style proof system for lotos	1990	2.477487763798408	8.203386336740017	3747811
+3748771	Logic	a counterexample-guided refinement tool for open procedural programs	2006	3.3506076157478097	8.154299939821625	3748798
+3750989	PL	scalable fine-grained proofs for formula processing	2017	3.037081779004114	7.507464807387342	3751016
+3751964	PL	the set constraint/cfl reachability connection in practice	2004	2.524642975156884	8.399783143168937	3751991
+3752005	PL	correspondence assertions for process synchronization in concurrent communications	2005	3.0527879053931275	7.6295084149652865	3752032
+3754036	Logic	recursion vs replication in process calculi: expressiveness	2005	3.2338465984426	7.9181076820613425	3754063
+3755209	SE	guiding the correction of parameterized specifications	2007	3.184633803419227	7.894286891138085	3755236
+3755765	DB	a parallel algorithm for relational database normalization	1990	2.5382148882357667	7.61643413212214	3755792
+3755845	PL	a linear account of session types in the pi calculus	2010	2.7781084024603016	8.36062169751143	3755872
+3756514	AI	planning as model checking for extended goals in non-deterministic domains	2001	2.5429327585088783	8.192151948990416	3756541
+3758299	Logic	loreto: a tool for reducing state explosion in verification of lotos programs	1999	2.488206679431934	8.373997613792387	3758326
+3759328	ML	mechanising some advanced refinement concepts	1992	3.0988556454171645	7.565971472732067	3759355
+3760324	Robotics	nested petri nets for adaptive process modeling	2008	2.879172508736068	7.98843685633166	3760351
+3761505	PL	from eventual to atomic locally atomic cc programs: a concurrent semantics	1994	2.8039580675832543	8.145888109170258	3761532
+3762180	Logic	syntax-driven optimisations for reachable state space construction of esterel programs	2006	2.501074195913401	8.297474217135901	3762207
+3762898	Logic	towards a mobile temporal logic of actions	2005	2.56040978694769	8.091550719670408	3762925
+3764190	PL	a new proof for the undecidability of context-sensitive synchronization-sensitive analysis	2010	3.215763722927552	8.382209444626278	3764217
+3765793	Logic	verimap: a tool for verifying programs through transformations	2014	2.9638735146676787	7.540613651354858	3765820
+3765820	SE	path expression in data flow program testing	1990	2.6558674870204704	7.775182752049801	3765847
+3766806	SE	automated flaw detection in algebraic specifications	2010	3.2805362227000674	7.611729440975777	3766833
+3767506	Logic	specification of distributed systems using modal logics	1987	3.0360756168180734	7.8710333362604175	3767533
+3768361	EDA	a unified framework for certificate and compilation for qbf	2009	3.1288180223374256	8.332121890160028	3768388
+3770112	PL	a logic and decision procedure for predicate abstraction of heap-manipulating programs	2006	2.64438826254455	7.5453709060454415	3770139
+3770989	Logic	formula-based abstractions and symbolic execution for model checking programs	2004	2.772525187565055	8.338260353128558	3771016
+3772468	PL	termination analysis for higher-order attribute grammars	2012	3.317017140516278	7.4946751144284285	3772495
+3772845	PL	the join calculus: a language for distributed mobile programming	2000	2.522819261061214	7.689841894467691	3772872
+3773335	Logic	progress assumption in concurrent systems	1995	2.4840833013088943	8.355916069511721	3773362
+3777183	PL	reasoning about array structure using a dependently typed logic	1993	3.128450518083721	7.782513703782746	3777210
+3777717	PL	an incremental simplex algorithm with unsatisfiable core generation	2018	3.0089761941799753	7.6599506609881285	3777744
+3779081	Logic	proving soundness of combinatorial vickrey auctions and generating verified executable code.	2013	3.3569672680808136	7.712995062693403	3779108
+3779188	SE	on the complexity of program debugging using constraints for modeling the program's syntax and semantics	2009	3.0877241672616877	8.074775178435955	3779215
+3780860	Logic	automatic verification of deontic properties of multi-agent systems	2004	2.5231143577454134	8.240164339484414	3780887
+3781422	Logic	an assume guarantee approach for checking quantified array assertions	2010	3.3770158936350985	8.256796706713338	3781449
+3782809	PL	program synthesis from polymorphic refinement types	2016	3.008434867622748	8.014654026207543	3782836
+3782863	Logic	automatic construction of hoare proofs from abstract interpretation results	2003	3.141882744745233	7.662341540274824	3782890
+3784370	EDA	formalising sensor topologies for target counting.	2017	2.4926919510436116	7.84926382974859	3784397
+3785315	PL	shrinking lambda expressions in linear time	1997	3.3990244749975496	8.354839508059165	3785342
+3788100	Logic	a new metric temporal logic for hybrid systems	2013	2.516696143075855	7.906379137751419	3788127
+3790845	Logic	verifying the srt division algorithm using theorem proving techniques	1996	3.2939004104749086	8.037648952562755	3790872
+3792184	PL	a combination framework for tracking partition sizes	2009	2.8096965507068536	7.947144550046959	3792211
+3793396	Logic	probabilistic modular embedding for stochastic coordinated systems	2013	2.5080003243621225	8.375340464830487	3793423
+3795536	Logic	monitoring with parametrized extended life sequence charts	2015	2.611376707422864	8.297301900767678	3795563
+3795721	Logic	a foundation for higher-order concurrent constraint programming	1994	3.303118730564348	7.903972969305919	3795748
+3797780	Logic	connector algebras for c/e and p/t nets' interactions	2013	2.4437936954793247	7.967733782801254	3797807
+3799055	SE	refining static analyses by trace-based partitioning using control flow	1998	2.8037469311544885	8.311445160246597	3799082
+3808837	PL	sensitivity analysis using type-based constraints	2013	2.6568934361276644	7.967943996332639	3808864
+3809703	Logic	caal: concurrency workbench, aalborgźedition	2015	3.045479683400416	8.183105469582205	3809730
+3810548	Theory	good to know about the efficiency of state space methods	2013	2.766501196980664	8.00599287543305	3810575
+3814139	HPC	abstract state machines capture parallel algorithms: correction and extension	2008	2.5594969220245813	8.019865710493738	3814166
+3814743	Logic	embedding as a tool for language comparison: on the csp hierarchy	1991	2.706152225573476	8.371865884103537	3814770
+3816045	SE	compact symbolic execution	2013	2.6115659096066683	7.822569390079662	3816072
+3818063	SE	formalization of test experiments	2007	2.5567712789198067	8.403191542822366	3818090
+3819288	Logic	intelligent modeling and verification 2014	2014	3.0559991778935025	7.578001306919337	3819315
+3819758	Logic	flatten and conquer: a framework for efficient analysis of string constraints	2017	2.716968888291149	8.181793554534751	3819785
+3821138	Logic	logic programs as compact denotations	2003	2.487112363480089	7.549887636166337	3821165
+3822326	EDA	mcmillan's complete prefix for contextual nets	2008	2.8544864614126	8.189564463040758	3822353
+3822546	Logic	symbolic interpretation and execution of extended finite automata	2014	2.470985749061758	8.231807071929943	3822573
+3823561	Logic	property-directed k-induction	2016	2.6748522066684397	8.033878011674306	3823588
+3824785	PL	modular inference of subprogram contracts for safety checking	2010	3.3322316842521347	7.871811050984622	3824812
+3824832	SE	a synchronous process calculus for service costs	2005	2.5612675071975235	8.184040061394565	3824859
+3825137	PL	using bisimulation proof techniques for the analysis of distributed abstract machines	2008	3.07480556717478	8.358180175416553	3825164
+3826564	PL	predicate subtyping with predicate sets	2001	3.191674209438652	7.510022303217034	3826591
+3827769	Logic	automatic synthesis of distributed systems	2002	3.0611013872417088	8.301217036967474	3827796
+3830537	PL	verified parallel string matching in haskell.	2016	3.1118842482469917	7.7301537080122875	3830564
+3834050	DB	alloy+hotcore: a fast approximation to unsat core	2010	2.8672068962250825	8.279183334984687	3834077
+3836529	Logic	partial order reduction for verification of spatial properties of pi-calculus processes	2005	2.619393547057556	8.314960988178813	3836556
+3837470	Logic	testing and proving in dependent type theory	2003	3.0311593431256783	7.501103675791925	3837497
+3837979	Logic	typed behavioural equivalences for processes in the presence of subtyping	2004	2.7674741957167943	8.142628078204227	3838006
+3838150	PL	the quest goes on: a survey of proofsystems for partial correctness of csp	1986	3.160037759774775	7.5014002727989935	3838177
+3839492	Logic	modular smt proofs for fast reflexive checking inside coq	2011	3.2429129382427977	7.495062101643289	3839519
+3839527	Logic	modeling and verification of real-time systems based on equations	2007	2.724467442305385	8.185442754328589	3839554
+3841093	Logic	symbolic backward reachability with effectively propositional logic - applications to security policy analysis	2013	3.2415224367158277	7.859016346036728	3841120
+3843070	Logic	an implementation model of the typed lambda-calculus based on linear chemical abstract machine	2002	3.0703978869166484	7.6375210882568005	3843097
+3843074	PL	type-base flow analysis: from polymorphic subtyping to cfl-reachability	2001	3.2935116218744223	7.771113484665282	3843101
+3846414	Logic	communities of interacting automata for modelling distributed systems with dynamic structure	2004	2.7812318524122457	8.321255324931494	3846441
+3850118	PL	formally certified stable marriages	2010	2.5245499718636464	7.730456616054678	3850145
+3850783	Logic	abc: algebraic bound computation for loops	2010	2.4703630956944447	8.195296273289664	3850810
+3854313	Logic	a type system for complexity flow analysis	2011	3.2299970395865727	7.632256551206133	3854340
+3854769	AI	r2: an efficient mcmc sampler for probabilistic programs	2014	3.3666824917460856	8.228492367788169	3854796
+3857895	Logic	analyzing catastrophic backtracking behavior in practical regular expression matching	2014	3.1224016840513578	8.123375632703185	3857922
+3858570	AI	a synergistic analysis for sharing and groundness with traces linearity	1994	3.18038946992689	7.603155047521423	3858597
+3861197	Logic	instantiation-based invariant discovery	2011	2.7336269559535205	8.131133067543464	3861224
+3864904	PL	a sequent calculus for first-order dynamic logic with trace modalities	2001	2.5326423952311012	7.960156520297601	3864931
+3865129	Theory	a persistent union-find data structure	2007	3.2688058158389883	7.591581353777343	3865156
+3865616	Logic	proving correctness of timed concurrent constraint programs	2002	2.877403661930945	8.190252988232565	3865643
+3866601	AI	mapping temporal planning constraints into timed automata	2001	2.7785013259691356	8.189092925794087	3866628
+3866673	SE	classifying test suite effectiveness via model inference and robbds	2016	2.7961999579490238	8.336332817491042	3866700
+3870785	PL	verifying increasingly expressive temporal logics for infinite-state systems	2017	2.7675350566662997	8.342071773294549	3870812
+3873593	PL	rigorous polynomial approximation using taylor models in coq	2012	2.458592410725601	7.571961052498377	3873620
+3877548	Logic	programming languages and systems : 5th asian symposium, aplas 2007, singapore, november 29-december 1, 2007 : proceedings	2007	3.2931319299481925	7.724242389234107	3877575
+3881172	PL	the sl synchronous language, revisited	2007	3.1002525420961504	7.773305541186223	3881199
+3887666	AI	corrigendum to “min-domain retroactive ordering for asynchronous backtracking”	2012	2.665466505005356	7.562391821711055	3887693
+3889042	PL	refinement of fair action systems	1998	2.540904433505081	8.17608141604419	3889069
+3889206	Logic	first-order specifications of programmable data types	2000	3.304062401914679	7.93474304541129	3889233
+3889393	PL	program transformations in a denotational setting	1985	3.3249678385563937	8.255304735856075	3889420
+3891237	Logic	automated assume-guarantee reasoning for simulation conformance	2005	2.7756228995106023	8.36109538358789	3891264
+3893633	SE	towards mobile processes in unifying theories	2004	3.3850386008761784	7.877864706269853	3893660
+3894831	Logic	a novel approach to verifying context free properties of programs	2018	3.0931079377825945	8.390852973572024	3894858
+3895561	AI	an abstract machine for the stochastic bioambient calculus	2009	3.1317128952437447	8.146107566354187	3895588
+3902234	Logic	generate & check method for verifying transition systems in cafeobj	2015	2.5220123265018457	8.28443270245111	3902261
+3903298	Security	robust hyperproperty preservation for secure compilation (extended abstract)	2017	2.649619544687815	8.149451168971702	3903325
+3904995	SE	quantitative static analysis over semirings: analysing cache behaviour for java card	2006	3.3311210870805765	8.184183758570754	3905022
+3905197	Logic	a software tool for verification of spiking neural p systems	2008	3.1855564926115565	8.316357191432395	3905224
+3907332	SE	loop invariant generation for non-monotone loop structures	2018	2.7163835933358134	7.6667848157063805	3907359
+3911503	SE	verification of confliction and unreachability in rule-based expert systems with model checking	2014	2.8355423458063758	8.119935042297074	3911530
+3912031	Theory	a matrix formalism for asynchronous implementation of algorithms	1984	2.7257612493953083	7.888692255803917	3912058
+3918061	PL	derivation of data intensive algorithms by formal transformation: the schnorr-waite graph marking algorithm	1996	3.3618572417722468	7.897313207206488	3918088
+3921144	PL	certification of bounds on expressions involving rounded operators	2010	2.8092249787297545	7.6126028902524325	3921171
+3921352	PL	an abstract domain of uninterpreted functions	2016	3.116378862019733	7.659803418697435	3921379
+3921487	Logic	abstract semantics for esm systems	1996	2.564743250582296	7.891384238578762	3921514
+3925358	AI	a hoare-style proof system for robot programs	2002	2.8513870118600733	7.56693481146358	3925385
+3928338	Logic	asml specification and verification of lamport's bakery algorithm	2005	3.228224851214016	8.187348254869264	3928365
+3932198	AI	architecting solvers for sat modulo theories: nelson-oppen with dpll	2007	2.713132175701816	7.901424701920759	3932225
+3933916	Logic	axiomatisation and decidability of multi-dimensional duration calculus	2005	2.5592114986233567	8.36065695213939	3933943
+3935345	ECom	tank monitoring: a pamn case study	2005	2.8108506797503257	7.875619969972769	3935372
+3936690	PL	extended recursion-based formalization of virus mutation	2008	3.0479846823755223	7.59822855322571	3936717
+3938365	Logic	type-directed synthesis of products	2015	2.9908283775697435	7.838841837211673	3938392
+3940283	Logic	from conditional to unconditional rewriting	2004	3.238236805094773	7.972488415853017	3940310
+3942182	Logic	a bisimulation-based semantic theory of safe ambients	2006	3.187886000840452	8.257641471709269	3942209
+3942598	PL	executing functional programs on a virtual tree of processors	1981	3.402162049065148	8.377630628703724	3942625
+3942654	SE	automatic analysis and test case derivation for a restricted class of lotos expressions with data parameters	1994	2.9000410500877116	8.156501463209269	3942681
+3943493	PL	runtime verification	2017	3.1578961085073263	8.171149794744531	3943520
+3944022	Logic	ac-unification race: the system solving approach and its implementation	1990	3.2269804973812573	8.089498655993259	3944049
+3944174	Logic	specification and proof of liveness properties in b event systems	2007	3.3540763906635154	8.399714484093229	3944201
+3945788	PL	resource usage analysis of logic programs via abstract interpretation using sized types	2014	2.7566507703669485	7.927149213312066	3945815
+3950970	Security	on the relationship between strand spaces and multi-agent systems	2001	2.561474681111428	8.045633124099664	3950997
+3952086	Logic	a protocol specification language with a high-level petri net semantics	1993	3.0880959749389243	8.291701168621952	3952113
+3953102	Logic	towards foundational verification of cyber-physical systems	2016	3.029395354934346	7.835984712456592	3953129
+3953480	Logic	an experimental comparison of theorem provers for ctl	2011	2.7050128438425642	8.287847499599028	3953507
+3956128	NLP	a concurrent system of multi-ported processes with causal dependency	2004	2.600286079024181	8.061536275606793	3956155
+3956237	PL	shrink fast correctly!	2017	3.264205982520641	7.993035720047554	3956264
+3956769	Logic	automata and program analysis	2017	2.5631925585568434	7.760975035187621	3956796
+3956785	PL	toward a quantum process algebra	2004	3.0449606117604118	8.142752858141522	3956812
+3957745	PL	the hidden computation stepsof turbo abstract state machines	2003	3.1683880150436914	7.7165304305245614	3957772
+3958886	Logic	explaining counterexamples using causality	2012	2.8520368859014	8.211016367234295	3958913
+3961677	Logic	block-wise abstract interpretation by combining abstract domains with smt	2017	3.145290797389635	7.950609455299046	3961704
+3963742	Logic	tableau-based model checking in the propositional mu-calculus	1990	2.694342668606912	7.9749537540186735	3963769
+3975886	Theory	specifying message passing systems requires extending temporal logic	1987	2.8942770421523987	8.012602880337848	3975913
+3980958	PL	predicates are predicate transformers: a unified compositional theory for concurrency	1989	2.92057176222537	8.243557686816375	3980985
+3981550	PL	multi-stage imperative languages: a conservative extension result	2000	3.346963536044892	7.550796535299388	3981577
+3984902	SE	finding inductive invariants using satisfiability modulo theories and convex optimization. (recherche d'invariants inductifs par satisfiabilité modulo théorie et optimisation convexe)	2017	2.450446993218752	8.024257878432037	3984929
+3988266	Logic	validating unsatisfiability results of clause sharing parallel sat solvers	2014	2.60756354893956	8.29461321335726	3988293
+3989786	PL	abstract interpretation of mobile ambients	2003	2.9313171891161263	7.791879285332029	3989813
+3992518	PL	modular verification of recursive programs	2009	3.0263330439066114	7.490951470542318	3992545
+3994686	Logic	proof of a concurrent program finding euler paths	1980	3.064358211174793	8.303408785749575	3994713
+3995215	Logic	parameterized verification of open procedural programs	2012	2.5764412022323957	7.881111781753344	3995242
+3997064	Logic	semantics-based generation of verification conditions via program specialization	2017	3.2257067043240584	7.9369632069415905	3997091
+3998562	PL	go with the flow: compositional abstractions for concurrent data structures	2017	2.497054498001602	8.032323072976844	3998589
+4004169	Logic	fischer's protocol revisited: a simple proof using modal constraints	1995	2.5878669481044683	8.214792186255563	4004196
+4005298	EDA	the derivation of systolic computations	1990	2.894441054931056	8.20500852641149	4005325
+4005582	EDA	optimising enabling tests and unfoldings of algebraic system nets	2001	2.614934437553701	8.275231933308097	4005609
+4006547	Logic	verification of crwl programs with rewriting logic	2006	2.931294551596105	7.477203454357497	4006574
+4007692	EDA	exploiting satisfiability modulo theories for analog layout automation	2014	2.991310646342637	8.093455815185964	4007719
+4016329	Logic	ranking function synthesis for bit-vector relations	2010	3.0413013833142424	8.04617833199168	4016356
+4018638	SE	on the completeness of selective unification in concolic testing of logic programs	2016	2.7778456304126347	7.521190685659423	4018665
+4023103	Logic	vs3: smt solvers for program verification	2009	2.647483780842646	7.9827368700154	4023130
+4024917	Logic	software model checking using linear constraints	2004	2.9976802169505623	8.34356535081053	4024944
+4028838	EDA	superscalar processor verification using efficient reductions of the logic of equality with uninterpreted functions to propositional logic	1999	2.973343044342797	8.276459054383425	4028865
+4034490	Logic	extending csp with tests for availability	2009	2.8528857115200834	7.954517624555754	4034517
+4036454	PL	temporal reasoning for procedural programs	2010	3.14759409146692	7.638213401016658	4036481
+4037303	Logic	sequential generation of structured arrays and its deductive verification	2015	2.8682556697987165	7.878529395809156	4037330
+4039692	Logic	diagnosis of hybrid systems with smt: opportunities and challenges	2014	2.9039899628690384	7.629925791081527	4039719
+4040698	AI	a new time extension to phi-calculus based on time consuming transition semantics	2003	3.2971814730429387	8.345396077112186	4040725
+4041450	Logic	reachability analysis in verification via supercompilation	2008	2.8583911407872673	8.101496709686366	4041477
+4044398	SE	tank monitoring: a pamn case study	2006	2.8490635502861945	7.877205964311413	4044425
+4045091	SE	a kleene algebra framework for data flow analysis	2007	3.178522536338593	7.4605565848071596	4045118
+4045867	Logic	partial order and contextual net semantics for atomic and locally atomic cc programs	1998	2.4455600238615545	7.994184641563533	4045894
+4046331	Logic	abstract interpretation with infinitesimals: towards scalability in nonstandard static analysis (extended version)	2015	2.5547141760040115	8.354668290721357	4046358
+4047414	SE	fast flow analysis with godel hashes	2014	3.3129917759313448	8.21776096512761	4047441
+4048100	Logic	infinite-state invariant checking with ic3 and predicate abstraction	2016	2.7906107569028125	8.075615217784751	4048127
+4049831	Logic	types for ambient and process mobility	2008	2.921180884362641	7.99070298530081	4049858
+4055050	SE	enhancing symbolic execution of heap-based programs with separation logic for test input generation	2017	3.0108717929723894	8.296065013569295	4055077
+4055087	AI	satisfiability modulo theories: introduction and applications	2011	3.2370438862673545	7.6701975120351245	4055114
+4055456	Logic	space consumption analysis by abstract interpretation: reductivity properties	2015	3.117368535087049	8.202746256708654	4055483
+4062007	HPC	parallelizing stream with future	2013	2.8372602084448264	8.270152904519563	4062034
+4063913	Logic	compositional predicate abstraction from game semantics	2009	3.2489103981963483	8.107730200342738	4063940
+4065140	Logic	black box checking	1999	2.61645005447946	7.882058424832849	4065167
+4067833	SE	state exploration with multiple state groupings	2005	3.2908250843281333	8.369231272078284	4067860
+4070845	Logic	reduction of order structures	2017	2.6255685199362717	7.499345752854227	4070872
+4071090	Logic	proving and disproving termination in the dependency pair framework	2005	2.7664075864380546	7.548897880674858	4071117
+4074668	Logic	verification of b+ trees: an experiment combining shape analysis and interactive theorem proving	2011	3.1441055113669165	7.490391932353584	4074695
+4075836	SE	structuring acyclic process models	2010	2.9355513042014056	7.596752315943755	4075863
+4076583	Logic	generating data flow analysis algorithms from modal specifications	1993	2.4485754775310684	8.195304765437898	4076610
+4077484	PL	relational concurrent refinement: timed refinement	2011	2.448726129723119	7.769493954312045	4077511
+4078435	Logic	a calculus of truly concurrent mobile processes	2017	3.2717415195028545	7.936453938944215	4078462
+4082362	AI	angelic semantics for high-level actions	2007	2.5958479248413977	8.232653459867926	4082389
+4084798	PL	controlling reversibility in higher-order pi	2011	2.6342528142831627	7.808101149726659	4084825
+4085347	PL	verification of common interprocedural compiler optimizations using visibly pushdown kleene algebra	2010	3.293717978970909	8.022515347668326	4085374
+4086532	PL	slicing for modern program structures: a theory for eliminating irrelevant loops	2008	3.2976883180820966	7.977635073678697	4086559
+4086765	PL	semantics of global view of choreographies	2018	2.8624230885685136	8.037924614551578	4086792
+4087951	PL	an extension of wam for k-leaf: a wam-based compilation of conditional narrowing.	1989	3.2363351806594918	7.955627722301166	4087978
+4089004	Logic	loglogics: a logic for history-dependent business processes	2007	3.0294256613370307	8.009074908085289	4089031
+4089155	PL	step failures semantics and a complete proof system	1989	3.1233947350972926	8.199756655610878	4089182
+4092346	Security	an inference-rule-based decision procedure for verification of heap-manipulating programs with mutable data and cyclic data structures	2007	2.9751900701828236	7.4970253938613425	4092373
+4092579	SE	model exploration with temporal logic query checking	2002	3.194437501128245	8.143608530132294	4092606
+4093433	SE	static analysis in disjunctive numerical domains	2006	2.623689662566672	7.908887525495678	4093460
+4093609	PL	the incorporation of testing into verification: direct, modular, and hierarchical correctness degrees (abstract)	1994	3.3060042173017323	7.453165574546232	4093636
+4098463	PL	forkable regular expressions	2016	2.8388921477080444	7.883528382737671	4098490
+4098551	Logic	static analysis by incremental computation in go programming	2003	3.3001875385588213	8.207356111667915	4098578
+4099717	Logic	counterexample-guided polynomial loop invariant generation by lagrange interpolation	2015	3.0952220773124406	7.991559864767159	4099744
+4100393	PL	fast binding-time analysis for multi-level specialization	1996	3.2959755631884606	7.761612058739918	4100420
+4100596	PL	a new approach to non-termination analysis of logic programs	2009	2.762597946022752	7.84848805609612	4100623
+4102851	PL	generating loop invariants for program verification by transformation	2017	3.133176513622688	7.849531824229207	4102878

@@ -1,0 +1,743 @@
+id	area	title	year	x	y	ix
+3224981	ML	langevin-gradient parallel tempering for bayesian neural learning	2018	-5.346053848556405	-5.639431760479455	3225008
+3225088	ML	empirical bayes for learning to learn	2000	-5.550910608563017	-5.540256791572812	3225115
+3228211	AI	multi-task compressive sensing with dirichlet process priors	2008	-6.2226001499948325	-5.524526053142194	3228238
+3230379	ML	two entropy-based methods for learning unsupervised gaussian mixture models	2006	-5.8264012635100295	-5.5052634311045505	3230406
+3232169	Theory	"""erratum to """"asymptotics of discrete mdl for online prediction"""""""	2006	-5.350055736541133	-5.497382495363098	3232196
+3233240	ML	robustified l2 boosting	2008	-5.543462169694877	-5.648300886468644	3233267
+3233571	ML	scalable bayesian low-rank decomposition of incomplete multiway tensors	2014	-5.872177561068907	-5.887443827049293	3233598
+3235784	ML	a sparsification approach for temporal graphical model decomposition	2009	-5.727605820105046	-5.537436648114777	3235811
+3239230	ML	the infinite gamma-poisson feature model	2007	-5.8411537474812025	-5.3132252371526985	3239257
+3240561	ML	the foundational theory of optimal bayesian pairwise linear classifiers	2000	-5.335059410066042	-5.468342172841821	3240588
+3240726	ML	morozov, ivanov and tikhonov regularization based ls-svms	2004	-5.89166163570141	-5.900207147455715	3240753
+3241616	AI	parallel gaussian process regression for big data: low-rank representation meets markov approximation	2015	-5.907159619688634	-5.965744928188133	3241643
+3243964	AI	high dimensional bayesian optimization via restricted projection pursuit models	2016	-5.873050678167902	-5.533622012980299	3243991
+3248316	DB	random walk sampling for big data over networks	2017	-5.323076105577566	-5.249218244235959	3248343
+3249874	ML	forward adaptive transfer of gaussian process regression	2017	-5.566464327801252	-5.909622013692098	3249901
+3250995	ML	extracting relevant information from samples	2008	-5.344139554729912	-5.607125993787812	3251022
+3251018	ML	parameter learning for log-supermodular distributions	2016	-6.253391905936631	-5.414347283440327	3251045
+3251051	ML	efficient high dimensional bayesian optimization with additivity and quadrature fourier features	2018	-6.0931029208419565	-5.932474222305706	3251078
+3251811	ML	bayesian causal inference	2018	-6.1250820201174845	-5.1945703213287135	3251838
+3252548	ML	efficient computation of moments in sum-product networks	2017	-5.9315087965349225	-5.657057525793173	3252575
+3252759	ML	robust conditional probabilities	2017	-5.388568553520781	-5.755912939095963	3252786
+3253032	ML	bayesian learning of finite asymmetric gaussian mixtures	2018	-5.5196067539403035	-5.56554586252497	3253059
+3253407	ML	robust mixture regression using the t-distribution	2014	-6.036078771642725	-5.132059979844369	3253434
+3253708	ML	learning feature nonlinearities with non-convex regularized binned regression	2017	-6.1170148320793984	-5.435282624769896	3253735
+3254183	ML	semisupervised learning of hidden markov models via a homotopy method	2009	-6.246435351075323	-5.227151590926977	3254210
+3258317	ML	online heterogeneous mixture modeling w ith marginal and copula selection	2011	-5.600572121682342	-5.11741694814504	3258344
+3261325	ML	probabilistic streaming tensor decomposition	2018	-5.689297842072481	-5.479791833050756	3261352
+3264289	ML	expectation-maximization algorithms for inference in dirichlet processes mixture	2011	-5.9485409198567805	-5.640393413794749	3264316
+3265531	Robotics	a fast procedure for the computation of similarities between gaussian hmms	2004	-5.755154080036078	-5.4777841233736595	3265558
+3268480	ML	bounds for linear multi-task learning	2006	-5.809413906393948	-5.6888100658438905	3268507
+3269286	ML	optimal kernel choice for large-scale two-sample tests	2012	-5.551350594327581	-5.04698166843173	3269313
+3269308	ML	robust finite mixture regression for heterogeneous targets	2018	-5.584373257264278	-5.629140888130573	3269335
+3269335	ML	robust multilinear tensor rank estimation using higher order singular value decomposition and information criteria	2017	-6.068405256403907	-5.8145871296603975	3269362
+3270509	AI	a regularized linear dynamical system framework for multivariate time series analysis	2015	-5.920689199042271	-5.617379114982857	3270536
+3271687	ML	structured and efficient variational deep learning with matrix gaussian posteriors	2016	-5.783908846882089	-5.739711522401182	3271714
+3272762	ML	on graph reconstruction via empirical risk minimization: fast learning rates and scalability	2016	-5.8389791902111945	-5.056562759385115	3272789
+3272965	NLP	a batch rival penalized em algorithm for gaussian mixture clustering with automatic model selection	2007	-5.452983191803676	-5.957227925841	3272992
+3274180	AI	small-variance asymptotics for nonparametric bayesian overlapping stochastic blockmodels	2018	-5.675647985833108	-5.6144795208628615	3274207
+3274838	ML	oclus: an analytic method for generating clusters with known overlap	2005	-5.426846732109097	-5.222913309749803	3274865
+3276042	DB	dpsynthesizer: differentially private data synthesizer for privacy preserving data sharing	2014	-5.473631218357938	-5.107380106761099	3276069
+3276629	NLP	a smart-dumb/dumb-smart algorithm for efficient split-merge mcmc	2015	-5.594311960365019	-5.942373170936421	3276656
+3278104	ML	vine copulas for mixed data : multi-view clustering for mixed data beyond meta-gaussian dependencies	2016	-5.8148908396925005	-5.1631272569457485	3278131
+3278746	ML	distributed bayesian matrix factorization with minimal communication	2017	-5.605768678371218	-5.926058286007478	3278773
+3281544	ML	monitoring least squares models of distributed streams	2015	-5.924835649001722	-5.267941658751108	3281571
+3282533	ML	kernel embeddings of conditional distributions: a unified kernel framework for nonparametric inference in graphical models	2013	-5.562085388364651	-5.590694873497879	3282560
+3282622	ML	adaptive subspace signal detection with uncertain partial prior knowledge	2017	-5.65318213752084	-5.141707095684429	3282649
+3282776	ML	on stochastic approximation algorithms for classes of pac learning problems	1997	-5.507350967564777	-5.601816312236996	3282803
+3287597	Robotics	support vector machine for the liquid drop fingerprint recognition	2012	-6.201248986823392	-5.9314450276616055	3287624
+3291879	ML	projective inference in high-dimensional problems: prediction and feature selection	2018	-5.699730542142949	-5.486924348894733	3291906
+3293361	ML	bayesian clustering of fuzzy feature vectors using a quasi-likelihood approach	2009	-5.897890019030241	-5.034910529991701	3293388
+3294474	Vision	mixture reduction on matrix lie groups	2017	-5.996169450000278	-5.6739396330142595	3294501
+3295859	ML	functional sufficient dimension reduction for functional data classification	2018	-5.832051009237813	-5.1913981927024455	3295886
+3296198	ML	kernel bayesian inference with posterior regularization	2016	-5.923722119636532	-5.835988416354787	3296225
+3296659	DB	a probabilistic framework for structural analysis in directed networks	2016	-5.529966976092799	-5.143487336930799	3296686
+3297678	ML	a unifying framework for sparse gaussian process approximation using power expectation propagation	2016	-6.087911169462893	-5.474404834052441	3297705
+3298846	ML	similarity clustering in the presence of outliers: exact recovery via convex program	2016	-5.973978879865588	-5.083224176063113	3298873
+3298960	ML	tightening the sample complexity of empirical risk minimization via preconditioned stability	2016	-5.619173897723434	-5.929190784285362	3298987
+3299079	ML	thermostat-assisted continuously-tempered hamiltonian monte carlo for bayesian learning	2018	-5.787067962214698	-5.902975876390072	3299106
+3299116	ML	gaussian processes for big data	2013	-5.797143914640177	-5.3424782374018935	3299143
+3299622	AI	poisson sum-product networks: a deep architecture for tractable multivariate poisson distributions	2017	-5.470702812141584	-5.430754450895439	3299649
+3300224	ML	a variable step learning algorithm for gaussian mixture models based on the bhattacharyya coefficient and correlation coefficient criterion	2017	-5.54574018892138	-5.666440158017307	3300251
+3300367	ML	initialising kernel adaptive filters via probabilistic inference	2017	-5.6913667336296765	-5.792187614002075	3300394
+3300682	ML	a bayesian approach to graphy regression with relevant subgraph selection	2009	-5.854381393437151	-5.361547067403089	3300709
+3301259	ML	multi-view learning as a nonparametric nonlinear inter-battery factor analysis	2016	-5.488997544598825	-5.750961014394503	3301286
+3302205	ML	an information-theoretic analysis of hard and soft assignment methods for clustering	1997	-5.584511253283812	-5.344722695795603	3302232
+3302983	ML	monk - outlier-robust mean embedding estimation by median-of-means	2018	-5.978297117611175	-5.620793687319106	3303010
+3303052	ML	approximate inference in related multi-output gaussian process regression	2016	-5.576381996040476	-5.085772645823499	3303079
+3305330	ML	a bahadur representation of the linear support vector machine	2008	-5.474971164938223	-5.146701336573647	3305357
+3306137	Vision	sparse generalised principal component analysis	2018	-5.718257044902322	-5.736864721136924	3306164
+3307493	ML	sensible functional linear discriminant analysis	2018	-5.812424587432642	-5.44773102517921	3307520
+3310514	ML	scaling the indian buffet process via submodular maximization	2013	-5.497383754174416	-5.766009832616548	3310541
+3311100	ML	vc dimension of ellipsoids	2011	-5.936611214655543	-5.313851391499671	3311127
+3311294	ML	support vector method for multivariate density estimation	1999	-5.877182359893303	-5.287586624019625	3311321
+3313247	ML	implicit model selection based on variable transformations in estimation of distribution	2012	-5.6904164246942965	-5.033387285521763	3313274
+3314171	ML	attribute efficient linear regression with data-dependent sampling	2014	-5.320186118547523	-5.571401968314618	3314198
+3314527	ML	implementing spectral methods for hidden markov models with real-valued emissions	2014	-6.158921189651712	-5.479570808210038	3314554
+3314910	ML	bayesian random fields: the bethe-laplace approximation	2006	-6.031344518454968	-5.139147029051477	3314937
+3315129	ML	risk estimation via weighted regression	2011	-6.168167853863382	-5.0694561143048285	3315156
+3316244	ML	model based probabilistic piecewise curve approximation	2012	-5.658791258806146	-5.05592748491185	3316271
+3319834	AI	efficient gaussian process inference for short-scale spatio-temporal modeling	2012	-6.238537074401632	-5.417798944626966	3319861
+3320205	ML	persistent issues in learning and estimation	1998	-5.334557292891902	-5.259742115185525	3320232
+3320388	ML	non-stationary power signal classification using local linear radial basis function neural networks	2009	-6.098420737616702	-5.3888316287719	3320415
+3324236	Robotics	an introduction to gaussian processes for the kalman filter expert	2010	-5.862824818800144	-5.031289311389329	3324263
+3325551	ML	causal network discovery by iterative conditioning: comparison of algorithms	2018	-5.750876317064486	-5.700444402086007	3325578
+3330906	ML	provable bayesian inference via particle mirror descent	2016	-6.2048157036486735	-5.313031364292442	3330933
+3331681	Robotics	a tree parameterization for efficiently computing maximum likelihood maps using gradient descent	2007	-6.126599711142314	-5.912892161015919	3331708
+3332034	AI	a variational approach for approximating bayesian networks by edge deletion	2006	-5.661155416080383	-5.032575828422951	3332061
+3339910	ML	trustworthiness of t-distributed stochastic neighbour embedding	2016	-5.9949372278093245	-5.3197182152315	3339937
+3340225	ML	nonparametric bayesian label prediction on a graph	2018	-5.87510510927248	-5.316127180007955	3340252
+3342250	ML	batch discovery of recurring rare classes toward identifying anomalous samples	2014	-5.633678939277374	-5.209145322361546	3342277
+3343340	ML	pseudo inputs for pairwise learning with gaussian processes	2012	-5.655549247131822	-5.866521519124942	3343367
+3343781	ML	verification of deep probabilistic models	2018	-5.340387699993094	-5.933360469192697	3343808
+3345381	ML	learning multiple belief propagation fixed points for real time inference	2009	-6.014326476559145	-5.496283923685019	3345408
+3346371	ML	efficient implementations of the generalized lasso dual path algorithm	2014	-6.075593177835865	-5.443239443569059	3346398
+3347743	ML	neural-kernelized conditional density estimation	2018	-5.553831505980559	-5.957066685551142	3347770
+3348284	ML	state space gaussian processes with non-gaussian likelihood	2018	-6.226820149826323	-5.108608688988339	3348311
+3352145	AI	principal component analysis	2017	-5.349911238615849	-5.171354285126782	3352172
+3353365	ML	mixed likelihood gaussian process latent variable model	2018	-5.780307314003654	-5.178722155422974	3353392
+3355090	ML	quantizing density estimators	2001	-5.618880163532568	-5.8779343460326565	3355117
+3355572	Robotics	nonparametric distribution regression applied to sensor modeling	2016	-5.904977975850636	-5.2624289230446575	3355599
+3355738	ML	calibrating lévy process from observations based on neural networks and automatic differentiation with convergence proofs	2018	-5.712124881459062	-5.655974094550707	3355765
+3355885	ML	rediscovering deep neural networks in finite-state distributions	2018	-5.493970305485026	-5.777007712940447	3355912
+3356082	ML	direct density-derivative estimation and its application in kl-divergence approximation	2015	-5.952928756518277	-5.331212577817881	3356109
+3356399	ML	robust sequential data modeling using an outlier tolerant hidden markov model	2009	-5.8764353429329725	-5.370493911675943	3356426
+3357521	ML	variational inference with normalizing flows	2015	-6.218639913100151	-5.237424490092273	3357548
+3359031	ML	bayesian optimization for probabilistic programs	2016	-5.872855935685027	-5.540405661575264	3359058
+3361200	ML	fast rates with high probability in exp-concave statistical learning	2017	-5.572422176565388	-5.838972121657702	3361227
+3361245	ML	bayesian probabilistic co-subspace addition	2012	-5.818842561639404	-5.934535305055428	3361272
+3363488	ML	non-parametric mixture models for clustering	2010	-5.598418162223563	-5.695590461853395	3363515
+3363718	ML	variational noise-contrastive estimation	2018	-5.738288650383196	-5.1720820765422895	3363745
+3364106	ML	a modification of the lloyd algorithm for k-anonymous quantization	2013	-6.2288320213829325	-5.287450194775458	3364133
+3365441	Theory	on fuzzy clustering for categorical multivariate data induced by polya mixture models	2017	-5.367503952105875	-5.063465015958434	3365468
+3365506	ML	copula mixture model for dependency-seeking clustering	2012	-5.7427503533920605	-5.303921107159036	3365533
+3366497	Theory	a near-optimal (minimax) tree-structured partition for mutual information estimation	2010	-6.235620875276167	-5.270279796040671	3366524
+3367900	DB	differentially private density estimation via gaussian mixtures model	2016	-6.0355727667451085	-5.550824614931464	3367927
+3367964	ML	a fast algorithm for non-negativity model selection	2013	-5.895484178504508	-5.69353061341897	3367991
+3368152	Robotics	the impact of smoothness on model class selection in nonlinear system identification: an application of derivatives in the rkhs	2016	-5.786219008665314	-5.939678976354678	3368179
+3368267	ML	probabilistic models for joint clustering and time-warping of multidimensional curves	2003	-5.723574375343842	-5.142459594934532	3368294
+3369020	ML	regularized fitted q-iteration: application to planning	2009	-6.095455794841012	-5.2664452119453635	3369047
+3369607	ML	a pac-bayes bound for tailored density estimation	2010	-5.430183364397227	-5.68166396440467	3369634
+3371521	ML	bayesian model search for mixture models based on optimizing variational bounds	2002	-6.199783170988253	-5.2294368264835045	3371548
+3371704	ML	an alternative to em for gaussian mixture models: batch and stochastic riemannian optimization	2017	-6.089583695487923	-5.9340336940387735	3371731
+3371723	ML	efficient bi-level variable selection and application to estimation of multiple covariance matrices	2017	-5.890072046705463	-5.770927752392813	3371750
+3372424	ML	revisiting k-means: new algorithms via bayesian nonparametrics	2012	-5.960556577721331	-5.3514909310907495	3372451
+3372716	ML	lightning-speed structure learning of nonlinear continuous networks	2012	-5.899186588897943	-5.463977332871291	3372743
+3372992	ML	wavelet kernel penalized estimation for non-equispaced design regression	2006	-5.970174379692008	-5.9388922875710275	3373019
+3373374	ML	probabilistic meta-representations of neural networks	2018	-5.48727197028308	-5.612054930435212	3373401
+3374904	Robotics	pattern recognition using boundary data of component distributions	2011	-5.371717554781244	-5.566280376134271	3374931
+3375732	Vision	the reliability of linear feature extractors	1971	-5.332721539100856	-5.034125774276954	3375759
+3376279	ML	model-based document clustering with a collapsed gibbs sampler	2008	-5.658983586685939	-5.5759163427562415	3376306
+3377857	ML	kernel methods in system identification, machine learning and function estimation: a survey	2014	-5.498309863632519	-5.274393716200655	3377884
+3381457	Vision	bayesian non-parametric image segmentation with markov random field prior	2013	-5.812280992903262	-5.179544222015193	3381484
+3382689	ML	sequential sampling of gaussian process latent variable models	2018	-5.734141114663639	-5.086824413155984	3382716
+3383692	ML	divide-and-conquer and statistical inference for big data	2012	-5.972699666135317	-5.631098336874538	3383719
+3384356	ML	nonparametric estimation of multivariate elliptic densities via finite mixture sieves	2014	-5.702361155078839	-5.6220717039099055	3384383
+3385442	ML	choice of basis for laplace approximation	1998	-5.88828704739562	-5.2391498072309926	3385469
+3385894	ML	reducing reparameterization gradient variance	2017	-6.091673904179684	-5.562223430499208	3385921
+3387784	ML	model selection with the covering number of the ball of rkhs	2014	-5.961583279226253	-5.7801351671309815	3387811
+3391097	ML	probability density estimation with tunable kernels using orthogonal forward regression	2010	-6.11119560219996	-5.644086820568748	3391124
+3391685	ML	eigengp: gaussian process models with adaptive eigenfunctions	2015	-5.995462605678965	-5.767015945849183	3391712
+3392495	ML	metrics for probabilistic geometries	2014	-6.035529724403879	-5.535118302304202	3392522
+3393811	ML	density propagation and improved bounds on the partition function	2012	-5.992011731104697	-5.055092344534844	3393838
+3394459	ML	least squares regression with i1-regularizer in sum space	2014	-6.097499524329522	-5.353029192884802	3394486
+3395287	ML	model selection with the loss rank principle	2010	-5.333223451032894	-5.2597661353500405	3395314
+3396054	ML	pseudo-marginal bayesian inference for supervised gaussian process latent variable models	2018	-5.838579781351202	-5.467039144429567	3396081
+3397918	ML	gaussian process behaviour in wide deep neural networks	2018	-5.525877002998116	-5.834083721765469	3397945
+3398882	Theory	does hamiltonian monte carlo mix faster than a random walk on multimodal densities?	2018	-6.1725364784181265	-5.794938956176198	3398909
+3401314	ML	minimum probability flow learning	2011	-5.859407090179622	-5.717934044755147	3401341
+3402259	ML	low-rank data modeling via the minimum description length principle	2012	-5.339255130202072	-5.58700872643422	3402286
+3403626	AI	properties of bayesian dirichlet scores to learn bayesian network structures	2010	-5.315914652429423	-5.270445140949931	3403653
+3405760	ML	an hdp-hmm for systems with state persistence	2008	-6.224202963751083	-5.075527386013372	3405787
+3406532	ML	subspace information criterion for model selection	2001	-5.5026732874809445	-5.687654111783928	3406559
+3406978	ML	on convergence of kernel learning estimators	2009	-6.147123008652383	-5.493523072440932	3407005
+3408338	ML	exact convex confidence-weighted learning	2008	-5.3522630538668325	-5.5810051949373936	3408365
+3408616	ML	adaptive variable clustering in gaussian graphical models	2014	-5.71096487363937	-5.3886500894852585	3408643
+3411041	ML	practical collapsed stochastic variational inference for the hdp	2013	-5.659780936068392	-5.821146244702829	3411068
+3411571	ML	hamiltonian annealed importance sampling for partition function estimation	2012	-6.084820158088447	-5.299362462619988	3411598
+3413667	ML	sequential logistic principal component analysis (slpca): dimensional reduction in streaming multivariate binary-state system	2014	-5.5862256811276065	-5.327518650949748	3413694
+3413911	ML	representation learning for treatment effect estimation from observational data	2018	-5.492399464579034	-5.555602006085012	3413938
+3415157	ML	hilbert space embedding for dirichlet process mixtures	2012	-5.609658491659474	-5.250743588293084	3415184
+3418655	ML	bootstrapped sparse bayesian learning for sparse signal recovery	2014	-5.59349673126004	-5.827199497927857	3418682
+3419584	ML	variational learning of finite inverted dirichlet mixture models and applications	2015	-5.566478099081924	-5.812244577415588	3419611
+3420322	ML	streaming clustering with bayesian nonparametric models	2017	-5.781336672642733	-5.647776938169483	3420349
+3420511	ML	infinite mixtures of multivariate gaussian processes	2013	-5.898813979468191	-5.407923560568081	3420538
+3421433	ML	generalized clustering via kernel embeddings	2009	-5.616945546672873	-5.18185997554746	3421460
+3425811	ML	a bayesian approach to sparse dynamic network identification	2012	-6.141110673207195	-5.186370140705543	3425838
+3426245	ML	recursive gaussian process regression	2013	-6.160676356997375	-5.4366626005829515	3426272
+3428568	ML	nonlinear regression on riemannian manifolds and its applications to neuro-image analysis	2015	-6.035556120672849	-5.881572663306347	3428595
+3429592	ML	truncated variance reduction: a unified approach to bayesian optimization and level-set estimation	2016	-6.1734785256593625	-5.441359030617328	3429619
+3431209	ML	model complexity control for regression using vc generalization bounds	1999	-5.646775392663022	-5.829526248741561	3431236
+3433951	Visualization	maximum entropy pdf design using feature density constraints: applications in signal processing	2015	-6.1489663959371645	-5.192557573882757	3433978
+3434060	ML	differentially private feature selection via stability arguments, and the robustness of the lasso	2013	-5.999872582377561	-5.197485438130913	3434087
+3434544	ML	constructing free-energy approximations and generalized belief propagation algorithms	2005	-6.18659261293308	-5.878523783681423	3434571
+3435427	Robotics	ensemble kalman filtering for online gaussian process regression and learning	2018	-5.519257538015243	-5.678558328285651	3435454
+3437038	ML	pool-based active learning with optimal sampling distribution and its information geometrical interpretation	2007	-5.583101991199981	-5.327382706365111	3437065
+3440030	ML	a tutorial on online supervised learning with applications to node classification in social networks	2016	-5.5094624389770175	-5.078616800756408	3440057
+3440103	ML	latent kullback leibler control for continuous-state systems using probabilistic graphical models	2014	-5.871912869293423	-5.48240144409722	3440130
+3440218	ML	parallel markov chain monte carlo via spectral clustering	2016	-6.232905379486043	-5.407693277664455	3440245
+3440399	Vision	statistical learning theory of quasi-regular cases	2012	-5.73035839615271	-5.400947979835878	3440426
+3442152	ML	fast algorithms for robust pca via gradient descent	2016	-5.732994920145668	-5.772397663239032	3442179
+3447250	ML	revisiting stein's paradox: multi-task averaging	2014	-6.102648146268795	-5.234684359347502	3447277
+3447950	Vision	a binning formula of bi-histogram for joint entropy estimation using mean square error minimization	2018	-5.9166090519730385	-5.33839046821745	3447977
+3449033	ML	fast kernel conditional density estimation: a dual-tree monte carlo approach	2010	-5.9949686176137424	-5.388730583861738	3449060
+3449990	ML	active learning for noisy oracle via density power divergence	2013	-5.395311078743881	-5.80454223259814	3450017
+3450136	ML	importance weighted consensus monte carlo for distributed bayesian inference	2016	-5.598292051390005	-5.463142332888349	3450163
+3450345	ML	the kernel beta process	2011	-5.835869974948142	-5.112092898773882	3450372
+3454162	ML	model-free variable selection in reproducing kernel hilbert space	2016	-5.939533339560483	-5.154479417068977	3454189
+3454266	Vision	statistical pattern classification with binary variables	1981	-5.707845648871449	-5.069875374013656	3454293
+3454592	ML	consistent and efficient nonparametric different-feature selection	2017	-5.608314724580692	-5.108867593091311	3454619
+3454887	ML	bayesian ying yang system, best harmony learning, and gaussian manifold based family	2008	-5.396761961916871	-5.582193850207154	3454914
+3455712	Robotics	scaling up m-estimation via sampling designs: the horvitz-thompson stochastic gradient descent	2014	-6.009316244439019	-5.623106403488375	3455739
+3458370	ML	simultaneous clustering and estimation of heterogeneous graphical models	2017	-6.18245143633524	-5.196881326648094	3458397
+3461561	ML	sparse gaussian processes for bayesian optimization	2016	-5.493825229386041	-5.732049857809769	3461588
+3463286	ML	sparse nonparametric density estimation in high dimensions using the rodeo	2007	-6.232721352305847	-5.206834196908126	3463313
+3463774	ML	randomized mixture models for probability density approximation and estimation	2018	-5.847928671522797	-5.641568831669407	3463801
+3464158	ML	practical learning of predictive state representations	2017	-6.0577174792474455	-5.634053301938089	3464185
+3464932	ML	adaptive gaussian process approximation for bayesian inference with expensive likelihood functions	2018	-6.230841950839485	-5.020868434797868	3464959
+3465109	ML	linear and geometric mixtures - analysis	2013	-5.3884864836298085	-5.9328664642131965	3465136
+3465243	ML	robust bayesian clustering	2007	-5.917500942334483	-5.260573771531332	3465270
+3470530	ML	reduced-rank hidden markov models	2010	-5.8884395034876444	-5.395292529166343	3470557
+3471243	ML	generalized batch normalization: towards accelerating deep neural networks	2018	-5.644746253558326	-5.427201039988675	3471270
+3473720	ML	self-organization by optimizing free-energy	2003	-5.3678655428409785	-5.759938103253317	3473747
+3474564	ML	a nonparametric bayesian approach to modeling overlapping clusters	2007	-5.419109548692101	-5.534558148311106	3474591
+3474772	ML	product trees for gaussian process covariance in sublinear time	2013	-5.950354797872246	-5.319334710363719	3474799
+3475084	ML	probabilistic tensor analysis with akaike and bayesian information criteria	2007	-5.5554540796272	-5.780011122028989	3475111
+3475796	AI	dealing with small data: on the generalization of context trees	2015	-5.411290648799878	-5.236758558964921	3475823
+3476460	ML	learning overcomplete hmms	2017	-5.690493679960791	-5.399695080305609	3476487
+3478134	ML	probabilistic models based on the pi-sigmoid distribution	2008	-5.525637078240808	-5.665237279370951	3478161
+3478836	ML	an approach to outlier detection based on bayesian probabilistic model	1996	-6.203314991243553	-5.330052376134462	3478863
+3479414	ML	time-frequency analysis of hot rolling using manifold learning	2011	-6.096013647274482	-5.913708314725753	3479441
+3482126	ML	a generalized linear model for principal component analysis of binary data.	2003	-5.7540483563390135	-5.5456290702586655	3482153
+3483640	ML	large-deviation analysis and applications of learning tree-structured graphical models	2011	-5.468482381557057	-5.295475673185496	3483667
+3484063	ML	robust regression using biased objectives	2017	-5.825800586095093	-5.1688368227704515	3484090
+3487146	ML	loss functions for discriminative training of energy-based models.	2005	-5.385381591268794	-5.824829123464862	3487173
+3487776	ML	universal batch learning with log-loss	2018	-5.493083557604175	-5.75235374626893	3487803
+3488443	ML	forward-backward splitting for time-varying graphical models	2018	-6.0745576444271565	-5.137068024848876	3488470
+3488447	ML	probabilistic latent tensor factorization	2010	-6.210905064409312	-5.409624821853393	3488474
+3489545	Vision	on a new class of bounds on bayes risk in multihypothesis pattern recognition	1974	-5.3430021773517655	-5.027035678788566	3489572
+3492228	ML	spectral learning algorithms for natural language processing	2013	-5.9324200207405005	-5.850934626978497	3492255
+3492730	ML	sketching for latent dirichlet-categorical models	2018	-5.6563238659349295	-5.387083792724763	3492757
+3492865	ML	collapsed variational bayesian inference for pcfgs	2013	-5.7445586567291285	-5.553587877792493	3492892
+3493176	Graphics	parametric learning and monte carlo optimization	2007	-5.610079301992196	-5.306648940071104	3493203
+3494410	Robotics	anomaly detection of motors with feature emphasis using only normal sounds	2013	-5.870345012536199	-5.040710751539744	3494437
+3495055	ML	crosscat: a fully bayesian nonparametric method for analyzing heterogeneous, high dimensional data	2016	-5.5809765934809645	-5.205176749816051	3495082
+3496127	ML	variational bayesian view of weighted trace norm regularization for matrix factorization	2013	-6.036851244594513	-5.832605889119055	3496154
+3498073	ML	mean shift algorithm for exponential families with applications to speaker clustering	2012	-5.598995415742119	-5.690670090899372	3498100
+3501241	ML	probabilistic structure discovery in time series data	2016	-5.498965153340955	-5.206301923955704	3501268
+3503588	ML	gaussian process dynamical models	2005	-5.7046790881638065	-5.511204452766321	3503615
+3504836	ML	semi-parametric exponential family pca	2004	-5.77211448388637	-5.612328753822401	3504863
+3504849	ML	variational inference for mahalanobis distance metrics in gaussian process regression	2013	-5.4703397330041525	-5.913776120201183	3504876
+3505193	ML	spectral learning of latent-variable pcfgs: algorithms and sample complexity	2014	-6.129754460606175	-5.425123984291122	3505220
+3505428	NLP	a gradient entropy regularized likelihood learning algorithm on gaussian mixture with automatic model selection	2006	-5.534328883311439	-5.787030131892034	3505455
+3505619	ML	hyperspherical variational auto-encoders	2018	-5.7026558661210505	-5.826687932653388	3505646
+3506994	ML	generalizing hamiltonian monte carlo with neural networks	2017	-6.030069016422003	-5.535198348200297	3507021
+3508807	ML	constrained gaussian process regression for gene-disease association	2013	-5.995096082079043	-5.726460640597487	3508834
+3509127	ML	a nonparametric clustering algorithm with a quantile-based likelihood estimator	2014	-5.559065183959897	-5.266575705840572	3509154
+3509425	ML	clustering with side information: from a probabilistic model to a deterministic algorithm	2015	-5.770652683358272	-5.320232381494139	3509452
+3511066	ML	a deep and tractable density estimator	2014	-5.642040030265082	-5.571650631298581	3511093
+3513887	ML	nonlinear regression without i.i.d. assumption	2018	-5.464170391320285	-5.4725397990428215	3513914
+3515367	ML	no free lunch with the sandwich [sandwich estimator]	2003	-5.450435245722693	-5.494323598273394	3515394
+3515405	ML	bayesian methods for support vector machines: evidence and predictive class probabilities	2002	-5.5701694397116235	-5.260982874584172	3515432
+3518479	ML	mdl principle for robust vector quantisation	1999	-6.257490132564647	-5.839588464474574	3518506
+3520166	ML	a hierarchical infinite generalized dirichlet mixture model with feature selection	2014	-5.378165812039817	-5.667789532954793	3520193
+3520700	ML	modelling smooth paths using gaussian processes	2007	-6.197225171987852	-5.1210032394445895	3520727
+3526452	Vision	outlier detection using robust optimization with uncertainty sets constructed from risk measures	2017	-5.596975825851677	-5.120984965511989	3526479
+3527459	ML	statistical mechanics of node-perturbation learning with noisy baseline	2017	-5.347778694080873	-5.788914621511514	3527486
+3527516	ML	dynamic factorization and partition of complex networks	2017	-5.570541517942052	-5.552718448267332	3527543
+3527655	ML	resilience: a criterion for learning in the presence of arbitrary outliers	2018	-5.837487983197191	-5.649628374980597	3527682
+3527668	ML	theory and application of entropiograph based i-divergence estimation	2002	-5.9121618127538715	-5.237601385793809	3527695
+3530196	ML	approximate inference with amortised mcmc	2017	-5.868772106916355	-5.8645548581647	3530223
+3532277	ML	sensor selection in high-dimensional gaussian trees with nuisances	2013	-6.101510153305683	-5.223128349732657	3532304
+3534991	AI	markov mixed membership models	2015	-5.635580850173514	-5.189881876014477	3535018
+3536885	ML	statistical analysis of kernel-based least-squares density-ratio estimation	2011	-6.21259232091195	-5.16004772035341	3536912
+3537254	ML	on the statistical limits of convex relaxations	2016	-5.895269083014856	-5.58108217681624	3537281
+3538456	ML	regularized estimation in high dimensional time series under mixing conditions	2016	-6.164102012833593	-5.266380463690866	3538483
+3539439	ML	the expxorcist: nonparametric graphical models via conditional exponential densities	2017	-6.018977930985924	-5.042099378472686	3539466
+3539771	ML	active learning and basis selection for kernel-based linear models: a bayesian perspective	2010	-5.807242859402008	-5.374774214282591	3539798
+3540018	Robotics	variational bayesian inference for nonparametric signal compressive sensing on structured manifolds	2017	-5.923646473549493	-5.731051856891376	3540045
+3542527	ML	on the smoothing of multinomial estimates using liouville mixture models and applications	2011	-5.759669973988818	-5.269343089002562	3542554
+3543395	ML	a distributed variational inference framework for unifying parallel sparse gaussian process regression models	2016	-6.105795201601282	-5.1721625823410005	3543422
+3544282	ML	consistency of support vector machines using additive kernels for additive models	2012	-5.469889987166686	-5.917991674275102	3544309
+3544964	ML	optimal bayesian feature filtering	2015	-5.912520821357398	-5.2499586922632	3544991
+3545860	ML	bayesian ying-yang machine, clustering and number of clusters	1997	-5.435739330345603	-5.291383811459483	3545887
+3546327	ML	denoising and untangling graphs using degree priors	2003	-5.498338871515986	-5.107751468478334	3546354
+3547521	Vision	robust wavelet shrinkage using robust selection of thresholds	2009	-5.457754087104687	-5.624334292242779	3547548
+3547825	ML	distributed bayesian learning with stochastic natural-gradient expectation propagation and the posterior server	2017	-5.956194982627277	-5.381134988714192	3547852
+3548271	NLP	two alternative criteria for a split-merge mcmc on dirichlet process mixture models	2017	-5.633068594858438	-5.493359550094981	3548298
+3549932	AI	correcting covariate shift with the frank-wolfe algorithm	2015	-5.884009210440834	-5.199670794245662	3549959
+3551395	ML	a distributed one-step estimator	2015	-6.117043858946683	-5.699947928788247	3551422
+3552845	ML	fast sequence segmentation using log-linear models	2012	-6.068159588865607	-5.492799636382203	3552872
+3553680	ML	on the behavior of the expectation-maximization algorithm for mixture models	2018	-6.176255760080513	-5.741778322998608	3553707
+3554590	ML	variational mcmc	2001	-6.2027134400066295	-5.453031339152697	3554617
+3554827	ML	on the value of partial information for learning from examples	1997	-5.336349681758602	-5.55519956241813	3554854
+3561142	ML	model selection and error estimation	2000	-5.525576559994064	-5.7870753846447895	3561169
+3563697	ML	risk bounds of learning processes for lévy processes	2013	-5.566649894225608	-5.864334910247687	3563724
+3563821	Vision	improving bayesian network parameter learning using constraints	2008	-5.438479694576086	-5.318859133087755	3563848
+3564905	Robotics	cluster validation criteria for image segmentation	1997	-5.872678057013244	-5.114982935485002	3564932
+3565706	ML	applying a kernel function on time-dependent data to provide supervised-learning guarantees	2017	-5.426991209223941	-5.6877109395354575	3565733
+3565895	ML	latent tree ensemble of pairwise copulas for spatial extremes analysis	2016	-5.79340886960418	-5.202857100927983	3565922
+3566939	ML	learning linear dynamical systems from multivariate time series: a matrix factorization based framework	2016	-5.498529247865268	-5.773618294991636	3566966
+3570049	ML	partition tree weighting	2013	-6.254727579991443	-5.160920984631715	3570076
+3573809	ML	variational bayes solution of linear neural networks and its generalization performance	2007	-5.7977365987524285	-5.395656371172353	3573836
+3574345	ML	clamping variables and approximate inference	2014	-5.801167185804405	-5.081083317379981	3574372
+3576093	ML	small-variance asymptotics for exponential family dirichlet process mixture models	2012	-5.680801587972457	-5.387699388928454	3576120
+3576691	Vision	an empirical bayesian strategy for solving the simultaneous sparse approximation problem	2007	-6.21554924579881	-5.706992802345447	3576718
+3577698	ML	fast schemes for computing similarities between gaussian hmms and their applications in texture image classification	2005	-6.0129950840419175	-5.4650394603029895	3577725
+3577923	ML	learning discriminative feature transforms to low dimensions in low dimentions	2001	-6.0092615925856885	-5.108737845869434	3577950
+3578836	ML	sparse gaussian processes using pseudo-inputs	2005	-6.009521556582374	-5.42882886343207	3578863
+3579428	Vision	bayesian decision theory, the maximum local mass estimate, and color constancy	1995	-6.153351717139682	-5.159372587870879	3579455
+3579545	ML	a dirichlet process mixture of generalized dirichlet distributions for proportional data modeling	2010	-5.572202081743363	-5.616597206858593	3579572
+3580803	ML	a note on reinforcement learning with wasserstein distance regularisation, with applications to multipolicy learning	2018	-5.606772328444847	-5.059907207228584	3580830
+3581127	ML	stretchy binary classification	2018	-6.042265728223804	-5.906122288271296	3581154
+3582235	ML	hierarchical fisher kernels for longitudinal data	2008	-5.932971483452788	-5.206466659040763	3582262
+3582712	ML	direct divergence approximation between probability distributions and its applications in machine learning	2013	-5.906473629477102	-5.127643716890821	3582739
+3585433	ML	an analysis of chaining in multi-label classification	2012	-5.440048833646784	-5.69878110122193	3585460
+3585916	AI	a generalized student-t based approach to mixed-type anomaly detection	2013	-5.744553309459013	-5.423116821172991	3585943
+3586587	ML	streaming model selection via online factorized asymptotic bayesian inference	2016	-5.513446735311778	-5.570770912995535	3586614
+3586964	ML	variational tempering	2016	-6.057137601429208	-5.553605926548787	3586991
+3587364	ML	learning maximum-a-posteriori perturbation models for structured prediction in polynomial time	2018	-5.40416656321058	-5.822151819854871	3587391
+3587450	ML	joint optimization and variable selection of high-dimensional gaussian processes	2012	-5.7789749146688285	-5.537680291764903	3587477
+3587884	Vision	a bayesian nonparametric approach to modeling motion patterns	2011	-5.962164954518893	-5.1104427574448055	3587911
+3589930	ML	learning deep disentangled embeddings with the f-statistic loss	2018	-5.500303458897978	-5.494781059382953	3589957
+3590411	AI	recursive gaussian process: on-line regression and learning	2014	-5.539265393586214	-5.47779269581917	3590438
+3591644	ML	nonparametric variational inference	2012	-6.04924656246515	-5.4579249153530185	3591671
+3592038	ML	improved estimation in time varying models	2012	-5.374742977276238	-5.784436499053767	3592065
+3592631	ML	a dictionary learning approach for factorial gaussian models	2015	-6.2611904012152895	-5.810140600137592	3592658
+3593105	ML	hierarchical mixture models: a probabilistic analysis	2007	-5.443032058311236	-5.476743547496749	3593132
+3595372	ML	on prior distributions and approximate inference for structured variables	2014	-5.767351009513827	-5.764141780945951	3595399
+3596476	Vision	texture classification using rao's distance: an em algorithm on the poincaré half plane	2015	-6.116251643454166	-5.635959539174383	3596503
+3599446	ML	data mapping by probabilistic modular networks and information-theoretic criteria	1998	-5.59784941272655	-5.39046318679813	3599473
+3599667	ML	universal marginalizer for amortised inference and embedding of generative models	2018	-5.4766142431205145	-5.857522033469087	3599694
+3600258	ML	regression learning with non-identically and non-independently sampling	2017	-5.9432115087314745	-5.618687498924125	3600285
+3601189	Robotics	speeding up incremental learning using data efficient guided exploration	2018	-5.396386067713027	-5.124908838656796	3601216
+3601942	ML	direct ensemble estimation of density functionals	2018	-5.9413607643187465	-5.585070507516332	3601969
+3603137	ML	multi-way pls regression: monotony convergence of tri-linear pls2 and optimality of parameters	2015	-6.100819011108094	-5.154095309610566	3603164
+3603890	ML	robust sequential classification of tracks	2010	-5.685206681934861	-5.633521487292764	3603917
+3604859	DB	a smoothing method for a statistical string similarity	2007	-5.577444613043944	-5.504420887460195	3604886
+3604901	ML	modeling multivariate time series on manifolds with skew radial basis functions	2011	-6.119549299893142	-5.376957421420372	3604928
+3605475	ML	tuning the distribution dependent prior in the pac-bayes framework based on empirical data	2016	-5.732215516708878	-5.337057278479937	3605502
+3607634	AI	fourier feature approximations for periodic kernels in time-series modelling	2018	-5.740456201726527	-5.6467691315352155	3607661
+3608000	ML	expectation consistent free energies for approximate inference	2004	-6.001655679692112	-5.164547002292329	3608027
+3608958	ML	a one-dimensional analysis for the probability of error of linear classifiers for normally distributed classes	2005	-5.330124980559469	-5.104881987173318	3608985
+3609552	ML	online convex optimization in dynamic environments	2015	-5.503563033069054	-5.2775447008898615	3609579
+3610265	ML	the huge package for high-dimensional undirected graph estimation in r	2012	-5.959200687470343	-5.866774840570487	3610292
+3610358	ML	neural adaptive sequential monte carlo	2015	-5.604714513938878	-5.343310071038517	3610385
+3610898	ML	adaptive online learning of generative stochastic models	2003	-5.368493427302983	-5.313974654909461	3610925
+3611289	ML	asymptotic law of likelihood ratio for multilayer perceptron models	2008	-5.354990551320835	-5.511455541733315	3611316
+3611483	ML	bayesian inference via projections	2015	-5.82719819930248	-5.145024161570935	3611510
+3615361	AI	a multi-stage expert system for classification of pavement cracking	2013	-5.57275909879872	-5.24366462735262	3615388
+3616331	ML	estimation of the forgetting factor in kernel recursive least squares	2012	-5.977941497165133	-5.156438524986436	3616358
+3617069	ML	online variational learning for a dirichlet process mixture of dirichlet distributions and its application	2012	-5.585855652684804	-5.849585721180644	3617096
+3617935	ML	bipartite ranking: a risk-theoretic perspective	2016	-5.360177170449863	-5.93103120956295	3617962
+3618254	ML	automatic differentiation variational inference	2017	-5.680822864699298	-5.217147888867483	3618281
+3619049	EDA	on estimation of quantiles for pairwise distances	2010	-5.853973055045378	-5.124804558286688	3619076
+3619686	ML	stochastic complexities of general mixture models in variational bayesian learning	2007	-5.879757732992566	-5.254286410421028	3619713
+3621923	ML	on learning discrete graphical models using group-sparse regularization	2011	-5.983205609446112	-5.6268181355201365	3621950
+3623284	ML	an unsupervised boosting learning algorithm for finite mixture model-based image segmentation	2004	-5.51633298691083	-5.9601663398309	3623311
+3623417	ML	gaussian process regression for structured data sets	2015	-5.788934126573705	-5.503574579228033	3623444
+3625374	ML	a convex formulation for mixed regression: near optimal rates in the face of noise	2013	-6.052047633374613	-5.907833173397559	3625401
+3627167	ML	fluctuation-dissipation relations for stochastic gradient descent	2018	-5.579032612968658	-5.62242583162853	3627194
+3627943	AI	factor graph based factorization distribution algorithm	2013	-5.669379537115423	-5.696892274103212	3627970
+3631042	ML	bounds on the generalization ability of bayesian inference and gibbs algorithms	2001	-5.669318924466442	-5.6316586815446765	3631069
+3631128	ML	boltzmann machine learning with the latent maximum entropy principle	2003	-5.8657264659408765	-5.088723259276633	3631155
+3634797	ML	latent subspace modeling of sequential data under the maximum entropy discrimination framework	2018	-5.8146325788901905	-5.453416921571467	3634824
+3635368	Comp.	universal piecewise linear prediction via context trees	2007	-6.050600352661525	-5.2094039808547326	3635395
+3636673	ML	amortized bayesian inference for clustering models	2018	-6.173393003626917	-5.031120987599309	3636700
+3638021	ML	vector-space markov random fields via exponential families	2015	-5.712964955062584	-5.326801464693173	3638048
+3640734	Vision	pairwise clustering with matrix factorisation and the em algorithm	2002	-5.383585605213286	-5.219578915488091	3640761
+3641373	ML	mixed-stationary gaussian process for flexible non-stationary modeling of spatial outcomes	2018	-5.911033552354389	-5.0544305952100235	3641400
+3641568	Vision	mixture trees for modeling and fast conditional sampling with applications in vision and graphics	2005	-6.156591342043723	-5.317422960588451	3641595
+3641609	ML	distribution-dependent sample complexity of large margin learning	2013	-5.466623415056392	-5.830899067623324	3641636
+3643989	ML	unsupervised learning of finite mixture models	2002	-5.614427721138531	-5.5985159784880905	3644016
+3644187	ML	robust inverse covariance estimation under noisy measurements	2014	-5.368419043956408	-5.86868614933032	3644214
+3644256	ML	importance weighted autoencoders	2015	-5.701774161480288	-5.959054574014961	3644283
+3646219	Theory	provable learning of noisy-or networks	2017	-5.620343776181293	-5.22069712159971	3646246
+3646400	ML	a rate-distortion framework for supervised learning	2015	-5.523685906195095	-5.850771487364041	3646427
+3649996	ML	accelerating em for large databases	2001	-5.690252076238124	-5.77129475731979	3650023
+3650884	ML	on the sample complexity of subspace clustering with missing data	2014	-6.038059905153463	-5.87669578400045	3650911
+3651909	ML	strong asymptotic assertions for discrete mdl in regression and classification	2005	-5.800077545764995	-5.218919221842689	3651936
+3652093	ML	non-asymptotic bounds for prediction problems and density estimation	2012	-5.548377016596521	-5.852089883942515	3652120
+3652651	AI	the bernstein mechanism: function release under differential privacy	2017	-5.420548219062179	-5.890903367823169	3652678
+3653069	ML	clustering with bregman divergences	2004	-5.831200772125078	-5.313733517430482	3653096
+3653109	ML	inference via low-dimensional couplings	2018	-6.1807963462326025	-5.0501735942033426	3653136
+3653971	ML	a likelihood-mpec approach to target classification	2003	-5.809594752590533	-5.536712531887273	3653998
+3654050	ML	nonconcave penalized likelihood with np-dimensionality	2011	-6.16860555864834	-5.398461428312917	3654077
+3657345	ML	simultaneous predictive gaussian classifiers	2016	-5.470657148667272	-5.897905090850067	3657372
+3657374	ML	estimating mixed memberships with sharp eigenvector deviations	2017	-5.7401864285410085	-5.350224355036733	3657401
+3658036	ML	an online gibbs sampler algorithm for hierarchical dirichlet processes prior	2016	-5.4876995197672365	-5.960914330740152	3658063
+3662452	Theory	on the estimation of asymptotic error probability (corresp.)	1974	-5.2993550788217405	-5.515417081976737	3662479
+3662548	ML	on the efficient minimization of classification calibrated surrogates	2008	-5.6659737102286325	-5.942779177117331	3662575
+3663592	ML	information bottleneck for gaussian variables	2003	-6.258127438490282	-5.30917123733358	3663619
+3665242	Theory	learning mixtures of gaussians with maximum-a-posteriori oracle	2011	-5.489980273156859	-5.628547393266382	3665269
+3665639	AI	from data distributions to regularization in invariant learning	1994	-6.001698271096381	-5.953370915401662	3665666
+3665890	ML	gradient lasso for feature selection	2004	-5.442085897469217	-5.77965927075665	3665917
+3666479	ML	surrogate-assisted parallel tempering for bayesian neural learning	2018	-5.71415970803413	-5.4663014588876795	3666506
+3670690	ML	an experimental comparison of several clustering and initialization methods	1998	-5.604066043242006	-5.865718182041899	3670717
+3671697	ML	conditional quantile regression with ℓ1-regularization and e-insensitive pinball loss	2015	-5.808884571847634	-5.842780221052482	3671724
+3672550	ML	approximate inference in collective graphical models	2013	-5.528040410124215	-5.143467247398977	3672577
+3672788	AI	classification in the presence of class noise using a probabilistic kernel fisher method	2007	-5.459998795506215	-5.111338577702387	3672815
+3673979	ML	group sparse additive models	2012	-5.919871038514647	-5.7624549086305725	3674006
+3674337	Comp.	bayesian hierarchical model for large-scale covariance matrix estimation	2007	-5.757937901298408	-5.354227874710132	3674364
+3676851	ML	on tensors, sparsity, and nonnegative factorizations	2012	-6.200323213808732	-5.115099268701812	3676878
+3676954	AI	kernel regression for graph signal prediction in presence of sparse noise	2018	-6.081767876301602	-5.719739607070043	3676981
+3679508	ML	a variational bayesian framework for group feature selection	2013	-5.441123846960214	-5.714533383669535	3679535
+3682050	ML	stochastic descent analysis of representation learning algorithms	2014	-5.346657871325047	-5.559026503500031	3682077
+3682354	ML	on-line bayesian system identification	2016	-5.672206867458098	-5.01831613736732	3682381
+3683005	ML	how many pairwise preferences do we need to rank a graph consistently?	2018	-5.671524882072446	-5.013490173738458	3683032
+3683352	Vision	model-based motion clustering using boosted mixture modeling	2004	-5.929403035252345	-5.293099880962329	3683379
+3683942	ML	approximation analysis of learning algorithms for support vector regression and quantile regression	2012	-5.712074664141393	-5.838389898911076	3683969
+3684085	ML	generating similar graphs from spherical features	2011	-5.582030989738248	-5.059912390462304	3684112
+3688979	ML	streaming principal component analysis in noisy settings	2018	-5.367775332505818	-5.749017499246983	3689006
+3689577	ML	markov latent feature models	2016	-5.873246546010071	-5.051574756013639	3689604
+3690854	ML	k-nn regression adapts to local intrinsic dimension	2011	-5.629347557925618	-5.819723570239544	3690881
+3691251	ML	refined error bounds for several learning algorithms	2016	-5.355369375279345	-5.751929593882026	3691278
+3693243	ML	cycle-consistent adversarial learning as approximate bayesian inference	2018	-5.625819180503782	-5.831840131825652	3693270
+3693383	ML	dual optimization for convex constrained objectives without the gradient-lipschitz assumption	2018	-6.030110084698032	-5.8892854149821074	3693410
+3697950	ML	regularized spectral clustering under the degree-corrected stochastic blockmodel	2013	-5.563735039173461	-5.0504867125012955	3697977
+3699099	ML	sequential randomized matrix factorization for gaussian processes	2016	-5.830266112295492	-5.444298763151083	3699126
+3700664	ML	scalable approximate bayesian inference for particle tracking data	2018	-6.178853568310808	-5.195201632005349	3700691
+3701805	ML	plug-in estimators for conditional expectations and probabilities	2018	-6.04859871297429	-5.10738092082483	3701832
+3701808	ML	regularised maximum-likelihood inference of mixture of experts for regression and clustering	2018	-5.807450305178452	-5.521721666445421	3701835
+3704179	NLP	anchors regularized: adding robustness and extensibility to scalable topic-modeling algorithms	2014	-5.68200261841657	-5.861845838007167	3704206
+3707019	ML	bayesian inference of log determinants	2017	-5.941550314485147	-5.147612056621089	3707046
+3708121	ML	parallel-tempered stochastic gradient hamiltonian monte carlo for approximate multimodal posterior sampling	2018	-5.925394134511451	-5.703936489957122	3708148
+3708639	ML	stable and efficient gaussian process calculations	2009	-6.0550780617693984	-5.496051475621735	3708666
+3709332	ML	stochastic gradient mcmc methods for hidden markov models	2017	-6.056174394060181	-5.259093371534755	3709359
+3711792	ML	adversarial message passing for graphical models	2016	-5.759198694577818	-5.9375432345929635	3711819
+3712934	ML	information geometry of the em and em algorithms for neural networks	1995	-5.3657747386909165	-5.548373500663928	3712961
+3714181	ML	leveraging the exact likelihood of deep latent variable models	2018	-5.672544761577011	-5.8290351121761415	3714208
+3714380	ML	the cauchy-schwarz divergence and parzen windowing: connections to graph theory and mercer kernels	2006	-5.508911058174054	-5.382449842749031	3714407
+3715481	ML	generalization error bounds for collaborative prediction with low-rank matrices	2004	-5.729771764660165	-5.653424813691652	3715508
+3716629	ML	direct learning of sparse changes in markov networks by density ratio estimation	2013	-5.371067434265988	-5.512608483479358	3716656
+3716734	ML	learning non-linear dynamical systems by alignment of local linear models	2010	-5.686866939374154	-5.844184425749831	3716761
+3716856	Visualization	on data-selective adaptive filtering	2018	-5.931126603436883	-5.198873276459032	3716883
+3717408	Vision	pattern classification based on a piecewise multi-linear model for the class probability densities	2000	-6.136862963660962	-5.329976794697432	3717435
+3717597	ML	spatio-temporal random fields: compressible representation and distributed estimation	2013	-5.747574658783469	-5.368045494038409	3717624
+3721714	ML	minimax reconstruction risk of convolutional sparse dictionary learning	2018	-6.226371342318532	-5.4575680111172025	3721741
+3722214	ML	determinantal point processes for coresets	2018	-6.111183733929449	-5.8403653030873635	3722241
+3723089	ML	sparse volterra and polynomial regression models: recoverability and estimation	2011	-6.17166032551866	-5.727184660801591	3723116
+3723490	ML	information theoretic properties of markov random fields, and their algorithmic applications	2017	-5.973974521459486	-5.186683915029652	3723517
+3723669	AI	a hierarchical dirichlet process mixture of generalized dirichlet distributions for feature selection	2015	-5.570467437825382	-5.920501028682432	3723696
+3725534	ML	practical methods for graph two-sample testing	2018	-5.53156165476511	-5.554054127988423	3725561
+3725664	NLP	some improvements of the spectral learning approach for probabilistic grammatical inference	2014	-5.7407649393390265	-5.129847639575383	3725691
+3726625	Crypto	aggregating algorithm competing with banach lattices	2010	-5.628950498657606	-5.3471715490630904	3726652
+3727030	ML	making pairwise binary graphical models attractive	2014	-6.162782019945281	-5.434284062085014	3727057
+3727304	ML	greedy learning of graphical models with small girth	2012	-5.793372020795558	-5.097914260848087	3727331
+3728843	ML	bilinear probabilistic principal component analysis	2012	-5.702728323673682	-5.771064087904296	3728870
+3729696	ML	bayesian kernel and mutual $k$-nearest neighbor regression	2016	-5.3937275753335046	-5.3537025864456025	3729723
+3729954	ML	variational bayesian generative topographic mapping	2008	-5.908544976625162	-5.6652784155876725	3729981
+3732724	ML	metropolis-hastings view on variational inference and adversarial training	2018	-5.856868592863963	-5.712378324692359	3732751
+3734878	ML	provable deterministic leverage score sampling	2014	-5.843862617453603	-5.93697768146749	3734905
+3734928	ML	image denoising with nonparametric hidden markov trees	2007	-6.132880814626978	-5.6534064785130695	3734955
+3734953	ML	discriminant analysis for the von mises-fisher distribution	2009	-5.3038020014571305	-5.291134080974542	3734980
+3739829	ML	linking generative adversarial learning and binary classification	2017	-5.341210427069171	-5.921313805692215	3739856
+3739927	Theory	learning markov graphs up to edit distance	2012	-5.735441620798108	-5.304197378005791	3739954
+3740546	AI	eigennet: a bayesian hybrid of generative and conditional models for sparse learning	2011	-5.788353773288628	-5.877074003042579	3740573
+3741519	ML	learning latent variable gaussian graphical models	2014	-6.055007919804841	-5.41897883802054	3741546
+3741892	ML	model-based clustering in networks with stochastic community finding	2012	-5.383328303588965	-5.056711168863937	3741919
+3742241	ML	reducing variance due to importance weighting in covariate shift bias correction	2017	-5.348708740428932	-5.78931338319005	3742268
+3742824	ML	asymptotic theory for regularization: one-dimensional linear case	1997	-6.129287894936395	-5.3077438297420745	3742851
+3747298	Robotics	a chernoff ased approach to the estimation of transformation matrices for binary hypothesis testing	2006	-6.0858453972191	-5.470365697499095	3747325
+3748113	ML	gradient estimation using stochastic computation graphs	2015	-5.525049994781144	-5.721833804860978	3748140
+3748129	ML	learning from dependent observations	2009	-5.348863493469239	-5.569157222077672	3748156
+3750803	Theory	the use of an adaptive threshold element to design a linear optimal pattern classifier	1966	-5.303262389909278	-5.5134246210037645	3750830
+3751232	ML	maximum likelihood in cost-sensitive learning: model specification, approximations, and upper bounds	2010	-5.479399284436608	-5.544223213789318	3751259
+3753815	AI	sparse concordance-assisted learning for optimal treatment decision	2017	-5.471341029029569	-5.885475860884188	3753842
+3755535	ML	a logistic non-negative matrix factorization approach to binary data sets	2015	-5.9394812777326615	-5.867372511035732	3755562
+3756298	ML	bayesian non-negative matrix factorization	2009	-6.021502928805967	-5.672963879939923	3756325
+3756924	ML	hierarchical variational models	2016	-6.088011195647486	-5.5508005934310845	3756951
+3756950	ML	clustering with em: complex models vs. robust estimation	2000	-5.853232566989727	-5.01474173978501	3756977
+3757484	ML	a separation principle for control in the age of deep learning	2017	-5.477004262624606	-5.375228428010856	3757511
+3759009	AI	generalization error of linear neural networks in an empirical bayes approach	2005	-5.541524342560503	-5.490752937043006	3759036
+3759550	ML	generalization performance of fisher linear discriminant based on markov sampling	2013	-5.729839882395412	-5.7404720102213815	3759577
+3760268	AI	an effective strategy for initializing the em algorithm in finite mixture models	2016	-6.005105228651519	-5.057768709613859	3760295
+3762061	ML	learning hierarchical structures with linear relational embedding	2001	-6.2109385412675735	-5.709046316707411	3762088
+3763401	ML	fast variational inference for large-scale internet diagnosis	2007	-5.427795918402369	-5.938083034004007	3763428
+3764691	ML	stability and model selection in k-means clustering	2010	-5.5982840390005695	-5.3124522764632	3764718
+3764875	NLP	interdependent gibbs samplers	2018	-6.082719238818628	-5.0721752398297	3764902
+3765352	ML	robust estimation via robust gradient estimation	2018	-6.0645118207522914	-5.328383105630799	3765379
+3767635	AI	data sparseness in linear svm	2015	-5.564707379979642	-5.506197364734801	3767662
+3768225	ML	on combining graph-based variance reduction schemes	2010	-6.204066399811577	-5.236011116061554	3768252
+3769825	ML	directional naive bayes classifiers	2013	-5.341563191525992	-5.058241294699392	3769852
+3770066	AI	the factored frontier algorithm for approximate inference in dbns	2001	-5.675461320538792	-5.422605816237424	3770093
+3770498	ML	parameter learning and convergent inference for dense random fields	2013	-5.544041770695356	-5.330942870603676	3770525
+3772585	ML	on markov chain monte carlo methods for tall data	2017	-5.914031694525889	-5.436951089185756	3772612
+3774990	ML	gaussian processes for bayesian classification via hybrid monte carlo	1996	-5.793277728203362	-5.2308028086946035	3775017
+3777789	ML	variational inference in nonconjugate models	2013	-5.9245538275372995	-5.589028238359531	3777816
+3778995	ML	probabilistic hierarchical clustering method for organizing collections of text documents	2000	-5.371146223469342	-5.60998108390359	3779022
+3779455	ML	a bayesian nonparametric view on count-min sketch	2018	-5.844627132620609	-5.116943188567691	3779482
+3779754	ML	theoretical study of two prediction-centric problems: graphical model learning and recommendations	2017	-5.88272296480646	-5.099723040978504	3779781
+3782762	AI	change detection using directional statistics	2016	-5.9881120767960425	-5.902401797455535	3782789
+3783432	ML	sgd with variance reduction beyond empirical risk minimization	2015	-6.1553836790567935	-5.881330094581068	3783459
+3785709	DB	graph pattern mining and learning through user-defined relations	2018	-5.382100625163259	-5.357601020037025	3785736
+3786083	Vision	density estimation using mixtures of mixtures of gaussians	2006	-6.127203016747624	-5.709353127119704	3786110
+3786725	ML	simpler pac-bayesian bounds for hostile data	2017	-5.560247862631902	-5.407452348228847	3786752
+3789101	ML	on some provably correct cases of variational inference for topic models	2015	-5.856447879301898	-5.54193628224484	3789128
+3789713	ML	huber-norm regularization for linear prediction models	2016	-5.883211206028812	-5.7833571756466995	3789740
+3793088	ML	moment matching training for neural machine translation: a preliminary study.	2018	-5.425078474086474	-5.660652811682839	3793115
+3793100	ML	hard-margin active linear regression	2014	-5.341003894618559	-5.545991243313984	3793127
+3795220	ML	approximate inference and protein-folding	2002	-6.181168658269723	-5.897540409486084	3795247
+3796755	ML	a bayesian hierarchical factorization model for vector fields	2013	-5.9853249889458695	-5.376701539420254	3796782
+3796796	ML	criteria for specifying machine complexity in learning	1995	-5.346490457055261	-5.267529638612619	3796823
+3797522	Security	accuracy first: selecting a differential privacy level for accuracy-constrained erm	2017	-5.506001085423658	-5.258505839914415	3797549
+3802793	Vision	image segmentation based on statistically principled clustering	2001	-5.852423635556688	-5.325291888054151	3802820
+3806959	AI	robust survey aggregation with student-t distribution and sparse representation	2017	-5.953158818797089	-5.675020131800598	3806986
+3809350	ML	k-variates++: more pluses in the k-means++	2016	-5.5942330201499	-5.792941490104017	3809377
+3811120	HPC	evaluation of combining bootstrap with multiple imputation using r on knights landing platform	2017	-6.111636405019223	-5.4686343600661536	3811147
+3811590	Web+IR	growing better graphs with latent-variable probabilistic graph grammars	2018	-5.358215039097638	-5.512997205033709	3811617
+3812389	ML	variational inference for monte carlo objectives	2016	-5.8355036304285965	-5.969194893024808	3812416
+3813365	ML	efficient multioutput gaussian processes through variational inducing kernels	2010	-5.6207595615177715	-5.562071246822674	3813392
+3815433	ML	stochastic adaptive quasi-newton methods for minimizing expected values	2017	-5.94931060672969	-5.701510802558107	3815460
+3818779	ML	probabilistic partial canonical correlation analysis	2014	-6.1436769261447095	-5.42022322454742	3818806
+3818802	AI	beyond expectation: deep joint mean and quantile regression for spatio-temporal problems	2018	-5.494149425617829	-5.967705151138572	3818829
+3819133	ML	learning non-parametric markov networks with mutual information.	2017	-5.659763185278946	-5.192922712433668	3819160
+3819271	ML	sufficient dimension reduction via squared-loss mutual information estimation	2010	-6.128330549574584	-5.616161497397133	3819298
+3820864	ML	modelling dense relational data	2012	-5.585323899145868	-5.4321464673328475	3820891
+3820888	ML	some new pac-bayesian bounds and their use in selection of regularization parameter for linear svms	2018	-5.869445923132227	-5.551816525328798	3820915
+3821196	SE	maximum entropy discrimination poisson regression for software reliability modeling	2015	-5.609663557895527	-5.478556568263298	3821223
+3821410	ML	information geometry of maximum partial likelihood estimation for channel equalization	1996	-6.251103057795095	-5.013577293319451	3821437
+3821578	Robotics	rank selection in noist pca with sure and random matrix theory	2008	-6.231845368088558	-5.205179982497292	3821605
+3821591	ML	scalable discrete sampling as a multi-armed bandit problem	2016	-6.167443210723853	-5.159427927957684	3821618
+3825501	ML	the xyz algorithm for fast interaction search in high-dimensional data	2018	-5.974282938345739	-5.4504354449690195	3825528
+3826038	ML	general table completion using a bayesian nonparametric model	2014	-5.730156463542638	-5.072288564442176	3826065
+3826372	ML	consistency analysis for the doubly stochastic dirichlet process	2016	-5.891053244899352	-5.362048152502585	3826399
+3826378	ML	spam: sparse additive models	2007	-5.491640474971076	-5.138341244630007	3826405
+3827016	ML	classification asymptotics in the random matrix regime	2018	-5.510087065075961	-5.737639779575553	3827043
+3830164	ML	highly robust classification: a regularized approach for omics data	2016	-6.04645588853974	-5.126143587644822	3830191
+3830917	ML	variational zero-inflated gaussian processes with sparse kernels	2018	-5.979064883652277	-5.265792771208155	3830944
+3831359	ML	bayesian mixture of spatial spline regressions	2016	-5.846075298663377	-5.151080034112365	3831386
+3832499	Vision	a novel hierarchical statistical model for count data modeling and its application in image classification	2012	-5.3157918336810335	-5.732617568395482	3832526
+3832710	ML	dirichlet process mixtures of generalized mallows models	2010	-5.486284388916722	-5.477544359683073	3832737
+3835136	ML	bayesian inference via rejection filtering	2015	-5.913172923372049	-5.0773539562276575	3835163
+3835430	ML	using gaussian processes to optimize expensive functions	2008	-5.825069126496615	-5.154526335997635	3835457
+3836874	ML	stationary-sparse causality network learning	2013	-5.871805154324472	-5.654756000695702	3836901
+3836894	ML	stein variational message passing for continuous graphical models	2018	-5.9703988140775275	-5.966215221019738	3836921
+3836946	AI	multi-kernel gaussian processes	2011	-5.9583623760517375	-5.413801520256071	3836973
+3837225	ML	noisy-or component analysis and its application to link analysis	2006	-5.597631368802642	-5.938701185634142	3837252
+3837284	ML	using hyperbolic cross approximation to measure and compensate covariate shift	2013	-6.030399793442143	-5.345021286185761	3837311
+3837820	ML	mixture of probabilistic factor analysis model and its applications	2001	-5.606220595831415	-5.546077697588257	3837847
+3838375	ML	stratified bayesian optimization	2016	-5.884183236440446	-5.360899138879347	3838402
+3840668	Vision	online hyperparameter-free sparse estimation method	2015	-6.201228908124608	-5.504628963494144	3840695
+3841182	ML	a unified approach to universal prediction: generalized upper and lower bounds	2015	-5.9029065170307335	-5.3261025026454485	3841209
+3841688	ML	approximate learning algorithm in boltzmann machines	2009	-5.30681342971397	-5.745777045342113	3841715
+3841765	ML	error probability analysis for lda-bayesian based classification of alzheimer's disease and normal control subjects	2016	-5.36099671896929	-5.061685086487393	3841792
+3842441	ML	nice latent variable models have log-rank	2017	-5.861870584377919	-5.7298209981294725	3842468
+3842610	AI	revisiting probabilistic models for clustering with pair-wise constraints	2007	-5.73891720811427	-5.3932355903747595	3842637
+3842637	ML	warped mixtures for nonparametric cluster shapes	2013	-5.897734064332838	-5.449521916408499	3842664
+3843647	ML	information directed sampling and bandits with heteroscedastic noise	2018	-6.1442574548957865	-5.043989295176532	3843674
+3843894	ML	statistical classification using a linear mixture of two multinormal probability densities	1991	-5.645141711076282	-5.058017112024487	3843921
+3843905	AI	high dimensional nearest neighbor classification based on mean absolute differences of inter-point distances	2016	-5.530691173796925	-5.270580351224405	3843932
+3844065	ML	probabilistic relational pca	2009	-5.4912543285418405	-5.643981777969913	3844092
+3844395	ML	entropy-sgd optimizes the prior of a pac-bayes bound: generalization properties of entropy-sgd and data-dependent priors	2018	-5.640708898100827	-5.85972691999937	3844422
+3844773	ML	copula bayesian networks	2010	-6.0804086102188775	-5.167754004710486	3844800
+3845130	ML	the inductive bias of restricted f-gans	2018	-5.723750223617087	-5.851186687106448	3845157
+3846331	AI	sum-product networks for hybrid domains	2017	-5.648367425560492	-5.119336568232779	3846358
+3846775	ML	variational inference for stick-breaking beta process priors	2011	-6.09448230078703	-5.239787760660388	3846802
+3848191	ML	the latent maximum entropy principle	2012	-6.1264356261426975	-5.5063249840598925	3848218
+3849558	ML	comprehensive lower bounds on sequential prediction	2014	-5.985671541283064	-5.209956365741233	3849585
+3850176	ML	learning to interact with users: a collaborative-bandit approach	2018	-5.543324030538924	-5.210575631562329	3850203
+3850353	ML	robust learning of fixed-structure bayesian networks	2018	-5.3883093653903344	-5.709268890236611	3850380
+3851009	Vision	on parameter setting in applying dave's noise fuzzy clustering to gaussian mixture models	2004	-5.513389153054511	-5.423956644221107	3851036
+3852600	ML	learning stochastic ot grammars: a bayesian approach using data augmentation and gibbs sampling	2005	-5.77412640699672	-5.735026133238044	3852627
+3854402	ML	bayesian hierarchical clustering with exponential family: small-variance asymptotics and reducibility	2015	-5.734500699471306	-5.344523022187904	3854429
+3854470	ML	loopy belief propagation and probabilistic image processing	2003	-5.980631434070604	-5.319531897680262	3854497
+3854503	ML	optimal rates for the regularized least-squares algorithm	2007	-5.586183755665264	-5.932723943371142	3854530
+3861793	ML	empirical risk minimization and stochastic gradient descent for relational data	2018	-5.660537296769269	-5.5163311351610815	3861820
+3861908	ML	gaussian mixture models	2015	-5.456773957292242	-5.575971142101047	3861935
+3861972	ML	mixture model-based functional discriminant analysis for curve classification	2012	-5.759552098076595	-5.087559911942428	3861999
+3863046	ML	stability bounds for non-i.i.d. processes	2007	-5.707931384938367	-5.583979520673053	3863073
+3864722	ML	fast laplace approximation for sparse bayesian spike and slab models	2016	-5.796064967056893	-5.529095667850744	3864749
+3867471	AI	lifted relational variational inference	2012	-5.930918641220172	-5.3105682835019	3867498
+3869739	ML	on the relationship between classification error bounds and training criteria in statistical pattern recognition	2003	-5.371651306880056	-5.0390226722224645	3869766
+3871474	Vision	lower bounds on the rate of convergence of nonparametric pattern recognition	1999	-5.498344110609948	-5.535336839644872	3871501
+3872011	ML	semi-supervised domain adaptation with non-parametric copulas	2012	-5.5692224456643675	-5.8744961260065685	3872038
+3873019	ML	logistic stick-breaking process	2011	-5.795522020199338	-5.217972316899702	3873046
+3873165	ML	a new distance for data sets in a reproducing kernel hilbert space context	2013	-5.867570705200558	-5.19336164906894	3873192
+3874723	ML	entropy penalized learning for gaussian mixture models	2011	-5.479781866644272	-5.709124219900072	3874750
+3875442	AI	multivariate cluster-based discretization for bayesian network structure learning	2015	-5.307907271123869	-5.968119073156469	3875469
+3878272	ML	a multi-task learning formulation for survival analysis	2016	-6.015101630463983	-5.225451172691424	3878299
+3878777	ML	on discriminative joint density modeling	2005	-5.425976260987156	-5.832312403677286	3878804
+3880440	ML	geometrical singularities in the neuromanifold of multilayer perceptrons	2001	-5.569400197929641	-5.425916158896873	3880467
+3881300	ML	sample selection bias correction theory	2008	-5.8529798010421965	-5.136687821484432	3881327
+3882769	ML	application of a gaussian, missing-data model to product recommendation	2010	-5.941643190478071	-5.099059317013543	3882796
+3885588	ML	ee-grad: exploration and exploitation for cost-efficient mini-batch sgd.	2017	-5.900082295733522	-5.645497547687758	3885615
+3888079	ML	asymptotically exact inference in differentiable generative models	2017	-6.140417408812383	-5.355804357401404	3888106
+3888971	ML	robust elastic net regression	2015	-5.9694851550676935	-5.881937115107848	3888998
+3889454	AI	graph-based composite local bregman divergences on discrete sample spaces	2017	-6.1300613124386905	-5.022582531373375	3889481
+3889817	ML	the effect of model misspecification on semi-supervised classification	2011	-5.419140423350114	-5.675876107779271	3889844
+3891807	Theory	competitive prediction under additive noise	2009	-5.490641192631923	-5.615094660335687	3891834
+3892104	ML	the neural autoregressive distribution estimator	2011	-5.497518126828666	-5.84745175463021	3892131
+3892108	ML	two-way gaussian mixture models for high dimensional classification	2010	-5.575678811561088	-5.636811106632142	3892135
+3894815	ML	bounds of optimal learning	2009	-6.1887910663683625	-5.213215026533064	3894842
+3895491	Vision	lower bounds for the rate of convergence in nonparametric pattern recognition	2002	-5.37552100376866	-5.713599717794639	3895518
+3897149	ML	interaction graphs for multivariate binary data	2010	-5.313972817803163	-5.084180343319924	3897176
+3897750	ML	randomized smoothing for stochastic optimization	2012	-5.924127467931509	-5.737586960762753	3897777
+3898593	ML	bayesian co-clustering	2008	-5.600114927303387	-5.845368053264357	3898620
+3898979	ML	vfunc: a deep generative model for functions	2018	-5.653293666810192	-5.619171193727431	3899006
+3899549	ML	fast search for dirichlet process mixture models	2007	-5.8630717967318295	-5.401395506463263	3899576
+3900832	ML	conditional density estimation with dimensionality reduction via squared-loss conditional entropy minimization	2015	-5.723845831165017	-5.866529084487097	3900859
+3903238	ML	sparse mean localization by information theory	2017	-6.169306125752879	-5.162441863737284	3903265
+3903778	Theory	multi-layer generalized linear estimation	2017	-5.956265188988756	-5.477056628184204	3903805
+3904082	Theory	small-sample optimality of design techniques for linear classifiers of gaussian patterns	1972	-5.334696264872127	-5.616467268787926	3904109
+3905692	ML	sequence alignment with dirichlet process mixtures	2018	-5.37837349378882	-5.749580038680704	3905719
+3910235	ML	semi-parametric model-based clustering for dna microarray data	2006	-5.871805320733994	-5.168986327240075	3910262
+3911735	ML	tight error bounds for structured prediction	2014	-5.420085921094757	-5.6820441784179865	3911762
+3911847	ML	trading variance reduction with unbiasedness: the regularized subspace information criterion for robust model selection in kernel regression	2004	-6.249009744058765	-5.078525647101833	3911874
+3913081	ML	nonparametric weight initialization of neural networks via integral representation	2013	-5.567682190121811	-5.617446845434146	3913108
+3913209	ML	pragmatic algorithms for implementing geostatistics with large datasets	2008	-5.872951904894266	-5.741021663463088	3913236
+3913821	ML	joint probabilistic curve clustering and alignment	2004	-5.663070351256441	-5.2226044512010334	3913848
+3915102	ML	cake: convex adaptive kernel density estimation	2011	-6.258208415985527	-5.100994027647814	3915129
+3915326	ML	sampling generative networks: notes on a few effective techniques	2016	-5.829160189810997	-5.887308543531223	3915353
+3916267	ML	statistical consistency of finite-dimensional unregularized linear classification	2012	-5.8841503500449575	-5.6849258157168	3916294
+3916964	ML	performance bounds for nonlinear time series prediction	1997	-5.472657325788758	-5.475729566442214	3916991
+3917387	ML	investigation on the construction of the relevance vector machine based on cross entropy minimization	2016	-5.725866164797933	-5.470612522386644	3917414
+3917455	AI	exact sampling with integer linear programs and random perturbations	2016	-5.647184653143692	-5.522943094250929	3917482
+3919366	ML	incremental variational sparse gaussian process regression	2016	-5.91136138297434	-5.863075452284563	3919393
+3920013	Embedded	learning with prior information	2001	-5.396401541267867	-5.9013610836106505	3920040
+3921437	ML	phase transitions, optimal errors and optimality of message-passing in generalized linear models	2017	-5.584416640235653	-5.7100510873537695	3921464
+3922408	ML	on-line regression competitive with reproducing kernel hilbert spaces	2006	-5.3841033835997285	-5.450070160020971	3922435
+3922965	ML	probabilistic size-constrained microclustering	2016	-5.660004737261682	-5.042438443229439	3922992
+3926098	ML	bayesian classification with gaussian processes	1998	-5.3452182754363555	-5.543352662050438	3926125
+3926196	ML	workload-driven learning of mallows mixtures with pairwise preference data	2016	-5.359082789775129	-5.641088980965557	3926223
+3929927	ML	graph-based regularization for regression problems with highly-correlated designs	2018	-6.089060673901111	-5.9660712333824595	3929954
+3930125	Theory	learning graphical models using multiplicative weights	2017	-5.778084148954222	-5.1012931153448555	3930152
+3933184	Embedded	em algorithm of spherical models for binned data	2011	-6.067760678651058	-5.200757555260756	3933211
+3933382	ML	adaptive bayesian classification using noninformative dirichlet priors	2000	-5.380981670856659	-5.210200150660602	3933409
+3934799	ML	non-parametric variational inference with graph convolutional networks for gaussian processes	2018	-5.804725829526633	-5.921953923300978	3934826
+3934838	AI	path consistency learning in tsallis entropy regularized mdps	2018	-5.833569385912097	-5.969513701017688	3934865
+3935096	Robotics	a hybrid distribution for highly right skewed data	2015	-5.862320174645256	-5.127560576378907	3935123
+3936120	ML	empirical bernstein bounds and sample-variance penalization	2009	-6.073073222792934	-5.320032382800648	3936147
+3936757	ML	non-linear canonical correlation analysis using alpha-beta divergence	2013	-6.192609707693377	-5.421087520839236	3936784
+3937555	AI	adaptive sampling for noisy problems	2004	-5.732038977894847	-5.843118506006022	3937582
+3938290	ML	approximate inference a lgorithms for two-layer bayesian networks	1999	-5.551100736086839	-5.165025560012436	3938317
+3942303	AI	upper bound for variational free energy of bayesian networks	2008	-5.8864009809185545	-5.131620689593427	3942330
+3943986	ML	pac-bayesian generalisation error bounds for gaussian process classification	2002	-5.35524848464816	-5.822466686626452	3944013
+3944408	ML	scalable estimation strategies based on stochastic approximations: classical results and new insights	2015	-6.1017349744133735	-5.419413274554543	3944435
+3944682	ML	singularities in complete bipartite graph-type boltzmann machines and upper bounds of stochastic complexities	2005	-5.555973800236826	-5.366405969567603	3944709
+3945091	ML	a bootstrap metropolis-hastings algorithm for bayesian analysis of big data	2016	-6.162108061930144	-5.363735129655017	3945118
+3946796	ML	using fast weights to improve persistent contrastive divergence	2009	-6.189767129122272	-5.371882076681301	3946823
+3947051	ML	exact graph structure estimation with degree priors	2009	-5.447190883809628	-5.034363705463469	3947078
+3947737	ML	regularized gaussian belief propagation	2018	-6.09069470401166	-5.808633154646298	3947764
+3947762	ML	fast matrix computations for functional additive models	2015	-6.220896370485081	-5.413872001376983	3947789
+3948704	Theory	approximation methods for supervised learning	2006	-5.9205589617011185	-5.159423271937945	3948731
+3951496	ML	statistical likelihood representations of prior knowledge in machine learning	2005	-5.5646723230809805	-5.284482863478964	3951523
+3952857	ML	tractable multivariate binary density estimation and the restricted boltzmann forest	2010	-5.490283599643772	-5.729272219558497	3952884
+3955425	ML	deep poisson factor modeling	2015	-5.653564219923631	-5.761666323777237	3955452
+3955579	ML	training generative neural networks via maximum mean discrepancy optimization	2015	-5.304044853015086	-5.929981625459558	3955606
+3961597	ML	algorithms for model-based block gaussian clustering	2008	-5.627891132775968	-5.139707180925567	3961624
+3962255	NLP	quantum annealing for variational bayes inference	2009	-5.620003540220053	-5.824068245930105	3962282
+3963675	ML	smooth on-line learning algorithms for hidden markov models	1994	-6.223045398740053	-5.03583771942303	3963702
+3965123	ML	parsimonious reduction of gaussian mixture models with a variational-bayes approach	2010	-5.373469236028407	-5.5619240694747045	3965150
+3965143	ML	a bayesian tensor factorization model via variational inference for link prediction	2014	-5.452424482029791	-5.934893726499041	3965170
+3965936	AI	bayesian inference for least squares temporal difference regularization	2017	-5.714994150793821	-5.6768435916804085	3965963
+3966996	ML	on the mutual nearest neighbors estimate in regression	2013	-5.3968839695984565	-5.551320172133305	3967023
+3967597	Vision	differential privacy and generalization: sharper bounds with applications	2017	-5.7611786103263665	-5.4663218053152045	3967624
+3968510	ML	online model selection based on the variational bayes	2001	-6.098736760572767	-5.033598366899849	3968537
+3968520	ML	efficient regularized regression for variable selection with l0 penalty	2014	-6.138955621999591	-5.950172409934398	3968547
+3969420	ML	optimal rates for spectral-regularized algorithms with least-squares regression over hilbert spaces	2018	-6.061698065783999	-5.4848299949234605	3969447
+3973809	ML	biased parameter estimation in lda	2008	-5.426590026053509	-5.707389623970911	3973836
+3978326	AI	fast aggregation of student mixture models	2009	-5.540853101353218	-5.32923717247637	3978353
+3978523	ML	adaptive path-integral autoencoders: representation learning and planning for dynamical systems	2018	-5.877830814436168	-5.401032136755521	3978550
+3979301	ML	message passing for collective graphical models	2015	-5.877002115294204	-5.09856329462401	3979328
+3981791	ML	consistent kernel density estimation with non-vanishing bandwidth	2017	-6.1799524489730535	-5.309896961981804	3981818
+3983673	ML	optimal subsampling with influence functions	2018	-6.0790798039062475	-5.241197881400035	3983700
+3983991	Vision	discrete visual features modeling via leave-one-out likelihood estimation and applications	2010	-5.931539206350925	-5.762433821366099	3984018
+3985399	Vision	on selecting the hyperparameters of the dpm models for the density estimation of observation errors	2011	-6.186837341558827	-5.051869171265591	3985426
+3985961	ML	concave penalized estimation of sparse gaussian bayesian networks	2015	-6.18797342611417	-5.275188692589353	3985988
+3986481	ML	an auxiliary variational method	2004	-6.185475068785256	-5.321511038334169	3986508
+3987093	ML	kernel dimensionality reduction for supervised learning	2003	-5.632626600564882	-5.669411022268393	3987120
+3991442	ML	rates of estimation for determinantal point processes	2017	-6.1027200901644205	-5.178817561625269	3991469
+3991917	ML	learning stochastic inverses	2013	-6.054763260599628	-5.3181766521519735	3991944
+3991948	ML	learning multiple behaviors from unlabeled demonstrations in a latent controller space	2013	-5.685230936546077	-5.7429829318790775	3991975
+3993744	ML	compressed gaussian process for manifold regression	2016	-5.953013844490224	-5.814597258385727	3993771
+3994684	ML	bayesian non-parametric parsimonious clustering	2014	-5.846221879142928	-5.224072850052702	3994711
+3994748	ML	von mises-fisher clustering models	2014	-5.607654309829549	-5.428766122042256	3994775
+3997265	ML	plug-in approach to active learning	2012	-5.314570526655514	-5.657396934561317	3997292
+3997519	ML	tight variational bounds via random projections and i-projections	2016	-5.835437093480303	-5.861580660690419	3997546
+3997533	ML	fast and robust bootstrap in analysing large multivariate datasets	2014	-5.771387997167814	-5.54760378370082	3997560
+3997817	Vision	modified student's t-hidden markov model for pattern recognition and classification	2013	-5.9196347412603805	-5.3230457652289855	3997844
+4000696	Robotics	nonparametric decision making based on tree-structured information aggregation	2011	-5.310336417800391	-5.660195429144068	4000723
+4001309	ML	oracle inequalities for ranking and u-processes with lasso penalty	2017	-5.624235065618111	-5.5770527999828285	4001336
+4001842	ML	dependent nonparametric trees for dynamic hierarchical clustering	2014	-5.384678945746874	-5.115094244832095	4001869
+4002174	ML	deep gaussian processes	2013	-5.635740313998162	-5.860733984111607	4002201
+4004260	ML	bridging information criteria and parameter shrinkage for model selection	2013	-5.966282530254452	-5.5153568374098745	4004287
+4004270	ML	stochastic neighbor embedding	2002	-5.747332916807888	-5.913784943877487	4004297
+4005325	ML	estimating and computing density based distance metrics	2005	-5.9654636466745545	-5.4052170669808115	4005352
+4005544	ML	normalized em algorithm for tumor clustering using gene expression data	2008	-5.916363426937932	-5.232077382574073	4005571
+4006111	ML	unbiased svm density estimation with application to graphical pattern recognition	2007	-5.672859545557912	-5.678162881230559	4006138
+4007624	ML	sparse bayesian kernel logistic regression	2004	-5.617313469877755	-5.605237133123188	4007651
+4007784	ML	efficient parameter learning of bayesian network classifiers	2016	-5.6335899988890175	-5.769179845436418	4007811
+4010121	ML	stochastic normalizations as bayesian learning	2018	-5.483649249568086	-5.74284027368467	4010148
+4010969	ML	effective pca for high-dimension, low-sample-size data with noise reduction via geometric representations	2012	-6.21465368061665	-5.452671849725722	4010996
+4011535	ML	low rank continuous-space graphical models	2012	-5.648818520990361	-5.115966675726585	4011562
+4011843	ML	resolution-based complexity control for gaussian mixture models	2001	-5.719719647342791	-5.679929908634344	4011870
+4012976	Robotics	a perspective on information fusion problems	2009	-5.856380670060815	-5.09801517949295	4013003
+4014644	Robotics	fast causal division for supporting high dimensional causal discovery	2017	-5.374595941264314	-5.567175296559088	4014671
+4015801	Theory	learning mixtures of polynomials of multidimensional probability densities from data using b-spline interpolation	2014	-5.699944859999285	-5.2646944490078615	4015828
+4017281	ML	local density estimation in high dimensions	2018	-5.339978978168809	-5.932548523199768	4017308
+4017397	ML	bayesian optimization based on k-optimality	2018	-5.6228713305138776	-5.256166045608338	4017424
+4019865	ML	pac-bayes bounds for stable algorithms with instance-dependent priors	2018	-5.4814737648133445	-5.7818225673267145	4019892
+4020605	ML	ensemble learning for multi-layer networks	1997	-5.6588439569817925	-5.593271515792887	4020632
+4023196	ML	stochastic backpropagation and approximate inference in deep generative models	2014	-5.578909468025113	-5.671063601694138	4023223
+4023792	ML	lattice point sets for efficient kernel smoothing models	2015	-5.46178557864333	-5.848266077921207	4023819
+4023991	ML	kernel partial least squares is universally consistent	2010	-6.19095645962098	-5.471109798486516	4024018
+4025700	ML	semi-supervised logistic discrimination via labeled data and unlabeled data from different sampling distributions	2013	-5.296903340695885	-5.181228689401366	4025727
+4025809	ML	robust estimation and generative adversarial nets	2018	-5.888097975869188	-5.772629965429423	4025836
+4025901	ML	an efficient framework for online advertising effectiveness measurement and comparison	2014	-5.733836387335818	-5.8568813553427095	4025928
+4028330	ML	supervised learning from incomplete data via an em approach	1993	-5.346942038674727	-5.492432213205589	4028357
+4029005	ML	localized lasso for high-dimensional regression	2017	-6.164965486099362	-5.429523398216686	4029032
+4032608	ML	approximate inference using dc programming for collective graphical models	2016	-5.85430165421521	-5.737812257727133	4032635
+4032976	ML	differential log likelihood for evaluating and learning gaussian mixtures	2006	-5.8360497877834865	-5.44508836978856	4033003
+4035028	ML	time series prediction and online learning	2016	-5.545352574801222	-5.326796210484487	4035055
+4035537	Theory	learning halfspaces under log-concave densities: polynomial approximations and moment matching	2013	-6.101577981114162	-5.7347845342985035	4035564
+4035636	ML	subsampling-based approximate monte carlo for discrete distributions	2015	-6.112709466113	-5.2127457268915975	4035663
+4035712	ML	stochastic gradient hamiltonian monte carlo with variance reduction for bayesian inference	2018	-6.0875053737077	-5.8177322057778635	4035739
+4037185	ML	collaborative filtering via rating concentration	2010	-5.99815179078948	-5.109319106409768	4037212
+4037335	ML	classification under data contamination with application to remote sensing image mis-registration	2011	-5.792388429518733	-5.5209362206385	4037362
+4038521	ML	adaptive and self-confident on-line learning algorithms	2000	-5.437072187138996	-5.622424635804533	4038548
+4038999	ML	coherence functions with applications in large-margin classification methods	2012	-5.70876626952594	-5.731364253913886	4039026
+4039878	ML	regularized least absolute deviations regression and an efficient algorithm for parameter tuning	2006	-6.0142832263597	-5.5823437021890685	4039905
+4040028	ML	flexible sampling for the gaussian copula extended rank likelihood model	2013	-6.077736191597481	-5.551090138572599	4040055
+4041510	ML	support vector machines as probabilistic models	2011	-5.748847873889821	-5.337021740797239	4041537
+4042608	ML	breaking the curse of dimensionality with convex neural networks	2017	-6.027261724577705	-5.835189439114841	4042635
+4045707	ML	image outlier detection and feature extraction via l1-norm-based 2d probabilistic pca	2015	-6.055654404320388	-5.80468337014336	4045734
+4048132	ML	operator variational inference	2016	-6.1348760793304935	-5.575761690626375	4048159
+4049432	ML	the 2-nn rule for more accurate nn risk estimation	1985	-5.301076888530269	-5.094785246800694	4049459
+4049779	Robotics	bayesian nonparametric subspace estimation	2017	-5.9232384141659375	-5.072634013196351	4049806
+4051511	ML	machine learning and statistical map methods	2005	-5.470276396772062	-5.1706435173461545	4051538
+4055328	ML	learning theory estimates with observations from general stationary stochastic processes	2016	-5.809520936426357	-5.851564943564337	4055355
+4055468	ML	private approximations of the 2nd-moment matrix using existing techniques in linear regression	2015	-5.944259623704362	-5.38306362118826	4055495
+4055816	ML	a new solution path algorithm in support vector regression	2008	-5.759254812664569	-5.349612266530116	4055843
+4061292	ML	hierarchical multilinear models for multiway data	2011	-5.759123659916542	-5.339714262708869	4061319
+4066672	ML	an efficient approach to learning inhomogeneous gibbs model	2003	-6.046049031748796	-5.568655374104762	4066699
+4067463	Theory	energy discriminant analysis, quantum logic, and fuzzy sets	2010	-5.770022750514416	-5.3013122918764735	4067490
+4067865	ML	entropy regularized likelihood learning on gaussian mixture: two gradient implementations for automatic model selection	2006	-5.43524150777826	-5.782271323553146	4067892
+4068897	ML	estimating the partition function by discriminance sampling	2015	-5.974047232841389	-5.315609369129242	4068924
+4069490	ML	sample-based classification procedures related to empiric distributions	1976	-5.3739463978923165	-5.1830659878266365	4069517
+4070158	ML	gaussian process latent variable models for visualisation of high dimensional data	2003	-5.4855324648239145	-5.731225401228405	4070185
+4070718	ML	a variational learning algorithm for the abstract hidden markov model	2005	-5.6336868025939095	-5.680292730149066	4070745
+4071183	ML	expectation propagation in linear regression models with spike-and-slab priors	2014	-5.9151217724108545	-5.891599197467863	4071210
+4072510	ML	asymptotic performance of regularized quadratic discriminant analysis based classifiers	2017	-5.494538280094575	-5.770972926224414	4072537
+4073086	Vision	dirichlet process mixture models for clustering i-vector data	2017	-5.4350188651615285	-5.9063437060319774	4073113
+4074487	ML	warped gaussian processes	2003	-5.75204387294305	-5.6719925132532	4074514
+4076326	ML	stochastic complexity and generalization error of a restricted boltzmann machine in bayesian estimation	2010	-5.607762960053191	-5.4995261033335945	4076353
+4076422	AI	an ensemble technique for stable learners with performance bounds	2004	-5.535905301975165	-5.624551157788721	4076449
+4077482	ML	k-means clustering with hölder divergences	2017	-5.369990949620173	-5.843914876834162	4077509
+4078156	Theory	a probabilistic framework for structural analysis and community detection in directed networks	2018	-5.410279019357014	-5.133376533065127	4078183
+4078849	ML	blind regression: nonparametric regression for latent variable models via collaborative filtering	2016	-6.088851301435295	-5.2746873555824765	4078876
+4080867	ML	transductive learning for multi-task copula processes	2014	-5.809985436013485	-5.3073926455434215	4080894
+4081714	ML	inference in deep gaussian processes using stochastic gradient hamiltonian monte carlo	2018	-5.570857958622113	-5.429964916177026	4081741
+4081950	ML	linear combination of densities and its direct estimation framework with applications	2015	-5.710478277800242	-5.685629193738126	4081977
+4082102	ML	efficient observation selection in probabilistic graphical models using bayesian lower bounds	2016	-5.843828917835404	-5.232974784712806	4082129
+4083231	ML	intrinsic universal measurements of non-linear embeddings	2018	-5.4363666648907865	-5.826185641748087	4083258
+4084208	ML	enumerate lasso solutions for feature selection	2017	-5.451657254269104	-5.699877979165986	4084235
+4086369	ML	variance reduction in stochastic particle-optimization sampling	2018	-5.982872356557844	-5.9457736696967896	4086396
+4092034	ML	evidence estimation for bayesian partially observed mrfs	2013	-5.875599183940968	-5.219804505129298	4092061
+4098838	ML	logistic regression with the nonnegative garrote	2011	-5.606944244004102	-5.3314798286090985	4098865
+4099808	ML	closed-form learning of markov networks from dependency networks	2012	-5.584246750397006	-5.310283200189138	4099835
+4101016	ML	the generalization ability of online algorithms for dependent data	2013	-5.7309411416710345	-5.8443274068929725	4101043
+4101491	ML	handling sparsity via the horseshoe	2009	-5.966332547067777	-5.395499725376449	4101518
+4102217	ML	statistical tests for optimization efficiency	2011	-5.49406990551211	-5.545208307310571	4102244
+4103281	ML	understanding probabilistic sparse gaussian process approximations	2016	-5.8246798403215765	-5.275985295740997	4103308

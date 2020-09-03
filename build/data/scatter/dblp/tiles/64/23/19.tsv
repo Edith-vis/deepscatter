@@ -1,0 +1,760 @@
+id	area	title	year	x	y	ix
+2850353	Vision	a direct dense visual servoing approach using photometric moments	2018	-7.271770989826306	-11.882332616191261	2850380
+2851689	Vision	bézier volume deformation model for facial animation and video tracking	1998	-7.856011217287346	-12.074430823141455	2851716
+2852113	Vision	using the orthographic projection model to approximate the perspective projection model for 3d facial reconstruction	2007	-8.03805668736441	-12.595919171000672	2852140
+2854152	Vision	complete 3-d models from video: a global approach	2004	-7.81987671277987	-12.281365113671427	2854179
+2858603	Robotics	a similarity model for 3d objects based on stable sub-clouds	2013	-7.453893124436013	-12.622277099771711	2858630
+2860294	Vision	cascaded scene flow prediction using semantic segmentation	2017	-7.329034566224053	-12.289282278452964	2860321
+2863098	Vision	real-time 3d shape recognition of high speed moving object by fixation point tracking with active camera	2000	-7.421196821057018	-12.609457190580974	2863125
+2863313	Vision	multilevel active registration for kinect human body scans: from low quality to high quality	2017	-7.533861340406675	-12.226033606346636	2863340
+2864947	Robotics	geometric-based line segment tracking for hdr stereo sequences	2018	-7.555930994992198	-12.383195096012974	2864974
+2865425	Robotics	robust 3d object registration without explicit correspondence using geometric integration	2009	-7.6386488971812065	-12.045636687552276	2865452
+2866441	Vision	a digital video stabilization system based on reliable sift feature matching and adaptive low-pass filtering	2015	-7.795977046894666	-12.324368703184136	2866468
+2866835	Vision	exploiting spatial and co-visibility relations for image-based localization	2016	-7.591620817951688	-11.812081685886483	2866862
+2870849	Vision	recovering the spatial layout of cluttered rooms	2009	-7.428235144026947	-11.927139768973891	2870876
+2871404	Robotics	modeling for tracking of complex extended object using minkowski addition	2014	-8.133370371398945	-12.172367079544617	2871431
+2872519	EDA	fast keyframe selection and switching for icp-based camera pose estimation	2018	-7.595273489163669	-11.853097489633575	2872546
+2873460	Graphics	a survey of image registration techniques	1992	-8.017539908287869	-12.655367932667232	2873487
+2874026	Vision	epipolar-based stereo tracking without explicit 3d reconstruction	2010	-7.937987960518551	-12.363780707808585	2874053
+2876052	Graphics	imagining the unseen: stability-based cuboid arrangements for scene understanding	2014	-8.010722548486687	-12.646077461220761	2876079
+2877441	Vision	3d reconstruction based on pseudo-linearization and errors-in-variables model	2006	-7.951298976491952	-11.786473497869775	2877468
+2881383	Vision	3d lip shapes from video: a combined physical-statistical model	1998	-8.100900476015674	-11.992645801492259	2881410
+2881413	Vision	submap-based bundle adjustment for 3d reconstruction from rgb-d data	2014	-8.093754329939115	-12.005008192736753	2881440
+2881500	Vision	techniques for video mosaicing	2005	-7.648781776925597	-12.616578119793402	2881527
+2882640	Vision	temporal consistent stereo matching approach for road applications	2016	-7.75622155465112	-12.569270469976532	2882667
+2885645	Vision	analyzing facial expressions for virtual conferencing	1998	-7.63574116559912	-12.5051898175775	2885672
+2887620	Robotics	3d head pose estimation using range images for face recognition	2004	-8.034963693418826	-12.554861272648154	2887647
+2889224	Vision	cluttered indoor scene modeling via functional part-guided graph matching	2016	-7.543977775086509	-11.983634382906153	2889251
+2891802	Graphics	corrective 3d reconstruction of lips from monocular video	2016	-7.931402159097566	-11.923416242505612	2891829
+2892706	Robotics	fast volumetric reconstruction of human body through superquadrics	2013	-7.935824868987733	-11.777898813374135	2892733
+2897856	Vision	hybrid 3d feature description and matching for multi-modal data registration	2014	-7.522872619025474	-12.641281202084668	2897883
+2900262	Visualization	entertaining video warping	2009	-7.2798103492368975	-12.325814586843329	2900289
+2900444	Vision	3d head tracking using motion adaptive texture-mapping	2001	-7.899333084578429	-12.189855660668835	2900471
+2900582	Vision	3d target scale estimation and target feature separation for size preserving tracking in ptz video	2008	-7.829396213461367	-12.001502226675894	2900609
+2900839	Vision	good edgels to track: beating the aperture problem with epipolar geometry	2014	-7.795444581501682	-12.165564841033962	2900866
+2900934	Vision	efficient tracking in 6-dof based on the image-constancy assumption in 3-d	2006	-7.935610737516796	-12.450588605332609	2900961
+2903407	Vision	scale robust imu-assisted klt for stereo visual odometry solution	2017	-7.876910457148927	-11.768973335401821	2903434
+2905808	Robotics	model-based improvement of motion vector fields for driver assistance systems	2012	-7.6189956356032305	-11.9252045417346	2905835
+2906289	Vision	relative epipolar motion of tracked features for correspondence in binocular stereo	2007	-7.517529205345946	-11.832458179060119	2906316
+2907760	Vision	optimized camera viewpoint determination system for soccer game broadcasting	2000	-7.816445725176615	-12.004001199432233	2907787
+2910155	Vision	3d face and motion estimation from sparse points using adaptive bracketed minimization	2011	-7.8333215148752	-12.153809445987545	2910182
+2910283	Vision	fast camera motion estimation in mpeg compressed domain	2011	-7.715793380076874	-12.192452462458235	2910310
+2910666	Vision	voxel cloud connectivity segmentation - supervoxels for point clouds	2013	-8.16917563687966	-12.52821884501548	2910693
+2911834	Vision	synthèse de vues pour l'initialisation de pose. (viewpoint synthesis for camera pose initialisation)	2017	-8.140130934392849	-12.07025566698784	2911861
+2914856	Vision	self-calibration constraints on euclidean bundle adjustment parameterization - application to the 2 views case	2009	-8.133232748640715	-12.144827451399268	2914883
+2915510	Vision	affine-invariant contour tracking with automatic control of spatiotemporal scale	1993	-8.186206298672836	-12.600302439042228	2915537
+2916781	Robotics	complex articulated object tracking	2004	-7.993012373797749	-11.823443572669161	2916808
+2916932	Vision	an efficient video alignment approach for non-overlapping sequences with free camera movement	2006	-7.8733683347390535	-12.042232212479716	2916959
+2917449	Robotics	feature matching based on geometric constraints in stereo views of curved scenes	2005	-8.113860076947324	-12.32336849664301	2917476
+2918168	Vision	space-time invariants for 3d motions from projective cameras	2006	-7.943843000755553	-12.675481959889215	2918195
+2919000	Vision	dt-slam: deferred triangulation for robust slam	2014	-7.4128230821656675	-11.727079547046067	2919027
+2919480	Vision	feature-based object recognition and localization in 3d-space, using a single video image	1999	-8.023465935996528	-12.67190616286975	2919507
+2920627	Vision	hierarchical fusion of descriptor matching and l-k optical flow	2011	-7.719548515356253	-12.381111848261364	2920654
+2921161	Vision	physically valid shape parameterization for monocular 3-d deformable surface tracking	2005	-8.054517625631998	-12.416552425734446	2921188
+2921612	Vision	slice matching for accurate spatio-temporal alignment	2011	-7.290690487364307	-11.828070011085202	2921639
+2921824	Vision	semantically-aware blendshape rigs from facial performance measurements	2016	-7.673917328322547	-11.732619057795212	2921851
+2925256	Robotics	optical flow based velocity estimation for mobile robots	2014	-8.043719339835508	-12.423706629690649	2925283
+2926130	Vision	3d face reconstruction and gaze estimation from multi-view video using symmetry prior	2012	-8.160312975887445	-11.781245244858669	2926157
+2927891	Vision	making good features track better	1998	-7.661212118644652	-12.484705679986513	2927918
+2927899	Vision	back to rgb: 3d tracking of hands and hand-object interactions based on short-baseline stereo	2017	-7.254236704276831	-11.835295291113017	2927926
+2930094	Vision	3-d human pose recovery using nonrigid point set registration and body part tracking of depth data	2015	-7.372101796370678	-12.61625913739284	2930121
+2932201	Vision	towards 3d hand tracking using a deformable model	1996	-8.006553930884168	-12.163479978754596	2932228
+2933389	Vision	geometric reasoning for pose and size estimation of generic shaped objects	1990	-7.683490861966837	-12.220691596446713	2933416
+2934092	Vision	detecting and handling unreliable points for camera parameter estimation	2007	-7.813103527161865	-12.634916140172349	2934119
+2935343	Robotics	accurate rgb camera relocalization using regression forest	2016	-7.690488053047892	-11.901987126719865	2935370
+2937357	Robotics	feature correspondence finding with vertical cylinder and epipolar geometry for indoor environments	2000	-7.7230179179687415	-12.107775962968745	2937384
+2938402	Robotics	the skeptical explorer: a multiple-hypothesis approach to visual modeling and exploration	2000	-7.368941120711655	-12.134546734649465	2938429
+2939482	Vision	visual-hull reconstruction from uncalibrated and unsynchronized video streams	2004	-7.899027567497918	-11.748877156750796	2939509
+2942058	Vision	detection and segmentation of quasi-planar surfaces through expectation maximization under a planar homography constraint	2015	-8.132180690798242	-12.440216053154204	2942085
+2942841	Robotics	modeling spatial uncertainty of point features in feature-based rgb-d slam	2018	-7.57701458718498	-11.796955741835074	2942868
+2943606	Vision	3d shape from multi-camera views by error projection minimization	2009	-8.05414283249773	-12.633488467293994	2943633
+2944834	Vision	3d ssd tracking with estimated 3d planes	2009	-7.751867093453632	-12.329635962474251	2944861
+2947459	Vision	model-based 3d tracking of an articulated hand	2001	-7.737572394449588	-12.072945022489664	2947486
+2948439	Robotics	shape recovery of collision zones for obstacle avoidance	1991	-7.4386642577355895	-11.773471107957704	2948466
+2948665	Vision	cross-context analysis for long-term view-point invariant person re-identification via soft-biometrics using depth sensor	2018	-8.071457270653571	-11.904919513363906	2948692
+2950478	Vision	segmentation of moving observer frame sequences	1982	-7.776485769064496	-12.432404740831785	2950505
+2953734	Visualization	human motion reconstruction from monocular images using genetic algorithms	2004	-7.388390572264094	-12.45350670325396	2953761
+2957102	Vision	online camera pose estimation in partially known and dynamic scenes	2006	-7.882991689142973	-11.995422214349706	2957129
+2965457	Vision	mutual hypothesis verification for 6d pose estimation of natural objects	2017	-7.295353717944572	-12.656184713794104	2965484
+2967555	Vision	deriving facial articulation models from image sequences	1998	-7.308637903010233	-12.643238010584366	2967582
+2967620	Vision	surviving dominant planes in uncalibrated structure and motion recovery	2002	-7.473801500969822	-12.310548260998287	2967647
+2969787	Vision	hgmr: hierarchical gaussian mixtures for adaptive 3d registration	2018	-7.520758786170026	-11.820236765086054	2969814
+2971437	Vision	surface visibility probabilities in 3d cluttered scenes	2008	-8.06157953999601	-11.906253732536275	2971464
+2973455	Vision	reliable feature matching across widely separated views	2000	-7.996580722555173	-12.483553745802968	2973482
+2973750	Vision	map estimation of chin and cheek contours in video sequences	2004	-7.66190313828448	-12.616964280808785	2973777
+2974279	Robotics	a submap joining based rgb-d slam algorithm using planes as features	2017	-7.865403524832826	-12.144055414761903	2974306
+2974836	Vision	a multiple camera system with real-time volume reconstruction for articulated skeleton pose tracking	2011	-7.445068008020152	-12.378968662939474	2974863
+2975271	Vision	fast recovery of weakly textured surfaces from monocular image sequences	2010	-7.7218944545438575	-12.496028212925875	2975298
+2977120	Vision	fast human pose tracking with a single depth sensor using sum of gaussians models	2014	-7.760569474752629	-12.546618319131506	2977147
+2979474	Vision	3-d human body tracking from depth images using analysis by synthesis	2001	-7.378882821315941	-12.455108529692454	2979501
+2979972	Vision	where is that pixel in the oblique-view video?	2016	-8.136750029736463	-12.132710941967135	2979999
+2983689	Vision	rotational motion estimation and analysis in digital image sequences	2000	-8.117276299932849	-11.805521972961301	2983716
+2983860	Vision	robust rgb-d odometry using point and line features	2015	-7.387223560421765	-11.804632881021119	2983887
+2984830	Vision	keyframe selection for robust pose estimation in laparoscopic videos	2012	-7.776951619610788	-11.959441862822008	2984857
+2985566	Vision	realistic 3d facial animation using parameter-based deformation and texture remapping	2004	-7.91591739674483	-12.111618353293133	2985593
+2986388	Vision	automatic 3d indoor scene updating with rgbd cameras	2014	-7.372431666201797	-11.736614773832592	2986415
+2987764	Vision	improving ransac for fast landmark recognition	2008	-7.643198673733933	-12.116308642304473	2987791
+2988189	Vision	kinecting the dots: particle based scene flow from depth sensors	2011	-7.773034459699954	-12.313333227949009	2988216
+2988747	Vision	pose estimation for multi-camera systems	2004	-7.601817580419956	-11.97348953503374	2988774
+2989126	Vision	video based 3d reconstruction using spatio-temporal attention analysis	2010	-8.07542382248557	-12.15432714453788	2989153
+2991769	Vision	online video-based sequence synchronization for moving camera object detection	2017	-7.393576181299491	-12.06431598760283	2991796
+2991938	Robotics	view-point independent 3d curved object recognition using range data	1990	-8.109976500026425	-11.88161863560776	2991965
+2992688	Vision	rgbd point cloud alignment using lucas–kanade data association and automatic error metric selection	2015	-7.6584045462408445	-12.129006797768247	2992715
+2996951	Vision	pose determination by potentialwell space embedding	2007	-8.102535721748627	-12.283687002784903	2996978
+3001350	Vision	a two-stage strategy for real-time dense 3d reconstruction of large-scale scenes	2014	-8.003405336342428	-11.86645612713824	3001377
+3001741	Robotics	real-time direct tracking of color images in the presence of illumination variation	2011	-7.87507139741444	-12.512748457540738	3001768
+3002848	Vision	resolving occlusion in multiframe reconstruction of deformable surfaces	2011	-8.12102686627385	-12.589409755814204	3002875
+3004206	Vision	correspondence rejection by trilateration for 3d point cloud registration	2015	-7.8716928774538015	-11.969959111760895	3004233
+3006972	Vision	spatio-temporal video segmentation of static scenes and its applications	2015	-7.635462709033666	-12.5824861489276	3006999
+3010628	Vision	decentralized multi-agent algorithm for translational 2d image alignment	2012	-7.4683829696774655	-12.395105239705325	3010655
+3011539	Vision	robust depth-map estimation from image sequences with precise camera operation parameters	2000	-8.189082045972286	-11.98467921462728	3011566
+3012650	Vision	3d egomotion from stereo cameras using constrained search window and bundle adjustment	2013	-7.854750330559432	-11.834938875065346	3012677
+3014841	EDA	anatomy-based variational modeling of digital hand and its verification	2013	-7.689775486321371	-12.38170567710304	3014868
+3018019	Vision	3d human body tracking using deterministic temporal motion models	2004	-7.961676893919688	-12.248628200655329	3018046
+3019785	Vision	video frame rate up conversion under inconsistent camera motion	2007	-7.545183224483058	-12.680626459679749	3019812
+3022316	Vision	correlation-based visual tracking enhanced by affine motion description	1996	-7.397519566812782	-12.65586256102582	3022343
+3022866	Vision	robust 3d line extraction from stereo point clouds	2008	-7.634196645700125	-12.665805032937396	3022893
+3023601	Vision	non-linear statistical models for the 3d reconstruction of human pose and motion from monocular image sequences	2000	-7.297687219820722	-12.49416600886688	3023628
+3026636	Vision	object recognition using three-dimensional information	1981	-7.4154417007117	-12.094865131719693	3026663
+3027000	Vision	fusion++: volumetric object-level slam	2018	-7.660838423979852	-12.027868416859008	3027027
+3029399	Vision	free-viewpoint video of human actors using multiple handheld kinects	2013	-7.35191116883079	-12.138173590977225	3029426
+3032765	Vision	qualitative spatial reasoning to infer the camera position in generic object recognition	1998	-7.285167760871501	-12.184340159264755	3032792
+3032804	Vision	real-time tracking of multiple objects in space-variant vision based on magnocellular visual pathway	2002	-7.238895386692837	-12.217706100635985	3032831
+3033660	Vision	ambiguities in visual tracking of articulated objects using two- and three-dimensional models	2003	-7.611279194482606	-11.926548607304792	3033687
+3038900	Vision	a data-driven approach for real-time full body pose reconstruction from a depth camera	2011	-7.290401860033215	-12.064777835641392	3038927
+3041347	Vision	qualitative estimations of range and motion using spatio-temporal textural images	1994	-7.626797308499165	-12.549410713923447	3041374
+3046017	Vision	on line-based homographies in urban environments	2013	-7.871267749205264	-11.92783595259073	3046044
+3046303	Vision	articulated soft objects for video-based body modeling	2001	-7.301361080291772	-11.916626379036007	3046330
+3047826	Vision	recognizing large 3-d objects through next view planning using an uncalibrated camera	2001	-7.630779524901593	-12.018378639176026	3047853
+3048826	Robotics	a unified model for improving depth accuracy in kinect sensor	2017	-7.437583199701077	-12.31187544633862	3048853
+3049412	Vision	dense 3d reconstruction from high frame-rate video using a static grid pattern	2014	-7.917213792653653	-12.021739766372786	3049439
+3050080	Vision	constructing a 3d individualized head model from two orthogonal views	1996	-7.507793039580678	-12.680059728553704	3050107
+3052178	Robotics	robust real time extraction of plane segments from time-of-flight camera images	2014	-7.829977860296434	-11.759756477561972	3052205
+3054378	Vision	distinguishing the indistinguishable: exploring structural ambiguities via geodesic context	2017	-7.617870256197843	-12.440904306798458	3054405
+3055496	Vision	real time tracking for 3d realistic lip animation	2006	-7.283263127795702	-12.090926027766551	3055523
+3056319	Vision	nonrigid motion analysis: articulated and elastic motion	1998	-7.4551929465521996	-12.600193299936869	3056346
+3064332	Robotics	how to track efficiently piecewise curved contours with a view to reconstructing 3d objects	1994	-7.836450055501051	-12.37251092009354	3064359
+3064892	Vision	a mixture of manhattan frames: beyond the manhattan world	2014	-8.011114222788269	-12.13224678222918	3064919
+3065088	Vision	asynchronous, photometric feature tracking using events and frames	2018	-7.377184144090457	-11.814477274003885	3065115
+3065234	Vision	depth-assisted rectification for real-time object detection and pose estimation	2015	-7.5637672748656986	-12.118152678484464	3065261
+3071335	Vision	resolving occlusion in augmented reality : a contour based approach without 3d reconstruction	1997	-7.872858015556692	-12.325480951261106	3071362
+3072112	Vision	robust height estimation of moving objects from uncalibrated videos	2010	-7.712339954808569	-11.741171291490312	3072139
+3073507	Vision	scalable, absolute position recovery for omni-directional image networks	2001	-8.100438370679713	-11.795854410671618	3073534
+3074067	Vision	extending filter-based structure from motion to large baselines	2011	-7.361457486905504	-12.081474934776654	3074094
+3074989	Vision	achieving invariance to the temporal offset of unsynchronized cameras through epipolar point-line triangulation	2016	-8.049769164951055	-11.988546483899286	3075016
+3076186	Vision	robust piecewise-planar 3d reconstruction and completion from large-scale unstructured point data	2010	-8.151141065852707	-11.848676507970714	3076213
+3082908	Robotics	feature-based real-time video stabilization for vehicle video recorder system	2017	-7.287076907275478	-12.444064348277633	3082935
+3082912	Vision	detection of independently moving objects in non-planar scenes via multi-frame monocular epipolar constraint	2012	-8.106186718044999	-12.48534612658043	3082939
+3083347	Vision	conditional filters for image sequence-based tracking - application to point tracking	2005	-7.577388745013572	-12.230926706670857	3083374
+3088852	Vision	clustered stochastic optimization for object recognition and pose estimation	2007	-7.537581484575311	-12.555882413711164	3088879
+3089281	Robotics	central catadioptric line matching for robotic applications	2010	-7.5547684556975225	-12.261888017385399	3089308
+3089298	Vision	a voting stereo matching method for real-time obstacle detection	2003	-7.743556437200907	-12.446660555278392	3089325
+3090752	Vision	constraint-conscious smoothing framework for the recovery of 3d articulated motion from image sequences	2000	-7.461480928777652	-12.305360373301887	3090779
+3091508	Vision	particle video: long-range motion estimation using point trajectories	2006	-7.910333903795383	-12.31901978623869	3091535
+3093987	Graphics	personalized facial animation based on 3d model fitting from two orthogonal face images	2005	-7.919862350620979	-11.748878633330113	3094014
+3095106	Vision	templateless quasi-rigid shape modeling with implicit loop-closure	2013	-7.991958251923567	-12.666305044469807	3095133
+3096973	Robotics	depth extraction of partially occluded objects using deformable net	2016	-7.338513887540031	-11.80816196061236	3097000
+3097453	Vision	scale estimation of monocular sfm for a multi-modal stereo camera	2018	-8.010881880011771	-12.15970142415391	3097480
+3098259	Vision	fast visual detection of changes in 3d motion	1996	-8.136300206821288	-11.768851018016186	3098286
+3098731	Vision	robust 3-d object recognition and pose estimation using 2-d image sequences	1995	-7.573571033408563	-12.383299080419981	3098758
+3101169	Robotics	a robust elliptical head tracker	2004	-7.514804454971366	-12.51088120358337	3101196
+3102175	Vision	fast probabilisitic estimation of egomotion from image intensities	2010	-7.5387863576906105	-12.47448347958704	3102202
+3103757	Vision	trajectory fusion for multiple camera tracking	2008	-7.377539300874188	-12.338916392788894	3103784
+3104640	Vision	optimization of symmetric transfer error for sub-frame video synchronization	2008	-7.9843173620047105	-12.336882821556046	3104667
+3107270	Vision	cycled merging registration of point clouds for 3d human body modeling	2016	-7.953855019573374	-12.496034211289851	3107297
+3110950	Vision	structure-from-motion-aware patchmatch for adaptive optical flow estimation	2018	-7.326873822615914	-12.171255266083206	3110977
+3111419	Vision	accurate, scalable and parallel structure from motion	2017	-7.510542839605222	-12.290766454014184	3111446
+3111716	Robotics	3d human body modeling using range data	2010	-7.331620799429915	-12.263061142779527	3111743
+3112192	Visualization	extracting realistic 3d facial animation parameters from multiview video clips	2002	-7.330555045708867	-12.049884557694025	3112219
+3114103	Vision	active matching for visual tracking	2009	-7.587801450588657	-12.283245235019072	3114130
+3116391	Vision	extracting 3d scene-consistent object proposals and depth from stereo images	2012	-7.3267806648026825	-11.968820525601034	3116418
+3118300	Robotics	real-time rgb-d registration and mapping in texture-less environments using ranked order statistics	2014	-7.452140265799126	-12.30309944545124	3118327
+3118684	Vision	robust local optical flow: long-range motions and varying illuminations	2016	-7.515342883488008	-12.491964012452467	3118711
+3119974	Vision	tracking a person with 3-d motion by integrating optical flow and depth	2000	-7.515664171321625	-11.83396036139318	3120001
+3120900	Vision	camera model identification framework using an ensemble of demosaicing features	2015	-7.271277363217679	-12.045884869431255	3120927
+3120989	Vision	synchronizing image sequences of non-rigid objects	2003	-7.926439498663119	-11.782614281222855	3121016
+3123032	Vision	wide baseline matching between unsynchronized video sequences	2005	-8.015273173480098	-12.316438109829226	3123059
+3123608	Vision	incorporating scene priors to dense monocular mapping	2015	-7.637690521031827	-12.087128117325976	3123635
+3124176	Robotics	visual tracking using dynamic transition in groups of affine transformed templates	2000	-7.472598784132312	-11.87759737838184	3124203
+3124479	Vision	random motion for camera calibration	2005	-8.140362105307696	-11.959708699887026	3124506
+3125599	Robotics	a hybrid metric for camera pose estimation in rgb-d reconstruction	2016	-7.8717243134188895	-12.305525452268148	3125626
+3131147	Vision	range segmentation of large building exteriors: a hierarchical robust approach	2010	-7.919585893912704	-12.447402918947738	3131174
+3131622	Robotics	stable pose estimation with a motion model in real-time application	2012	-7.717144012574196	-12.017491418074504	3131649
+3132110	Vision	surgical tool tracking by on-line selection of structural correlation filters	2017	-7.715453699941291	-12.101422517208483	3132137
+3132164	Vision	two-view matching with view synthesis revisited	2013	-8.158349444549563	-12.648293885645193	3132191
+3133934	Visualization	aligning sequences from multiple cameras	2005	-8.069452009254672	-12.015861612143658	3133961
+3140181	Vision	3d head tracking under partial occlusion	2002	-7.753466109930493	-12.410472770760874	3140208
+3141241	Robotics	parametric reshaping of humans in videos incorporating motion retargeting	2017	-7.997809032279473	-11.956741091665346	3141268
+3141879	Vision	variational segmentation using dynamical models for rigid motion	2007	-7.4936590809212955	-12.67000249033157	3141906
+3142803	EDA	computational stereo-vision model of proto-object based saliency in three-dimensional space	2018	-7.623558990544335	-12.545950686483344	3142830
+3143682	Vision	effective motion field description based on affine models and global motion information	1996	-7.790131960969941	-12.622406755124164	3143709
+3148564	Vision	simultaneous estimation of optical flow and object state: a modified approach to optical flow calculation	2007	-7.962512161337847	-12.226457156576554	3148591
+3149849	Vision	a dynamic programming algorithm applied to omnidirectional vision for dense 3d reconstruction	2013	-8.165876648898479	-12.316401189742098	3149876
+3150885	Vision	reconstruction of a scene with multiple linearly moving objects	2004	-8.02950679075054	-12.558574645071324	3150912
+3150931	Robotics	digital image stabilization for cameras on moving platform	2015	-7.981364879579341	-12.333049934681178	3150958
+3151298	Vision	prior-based facade rectification for ar in urban environment	2015	-7.461197406950079	-12.537611398644822	3151325
+3152554	Vision	tracking articulated objects in real-time range image sequences	1999	-7.900456048637773	-11.875396505813384	3152581
+3154204	Vision	video registration to sfm models	2014	-8.073401643867793	-11.84883111479884	3154231
+3156073	Vision	3d reconstruction of human motion from monocular image sequences	2016	-7.502791021365469	-12.630629148676418	3156100
+3157964	Vision	slanted stixels: representing san francisco's steepest streets	2017	-7.6280967489836575	-12.503208875687768	3157991
+3159489	Robotics	model-based visual tracking of orbiting satellites using edges	2017	-7.537539474477055	-11.838932102514727	3159516
+3161333	Vision	tracking objects using recovered physical motion parameters	2002	-7.878807794607182	-12.343753363580339	3161360
+3162351	Robotics	motion segmentation using seeded region growing	2000	-7.300484213618184	-12.316739755666573	3162378
+3163431	Vision	three-dimensional object matching in mobile laser scanning point clouds	2015	-7.338228625968858	-12.632015775784328	3163458
+3164214	Vision	shape estimation of articulated 3d objects for object-based analysis-synthesis coding (obasc)	1997	-7.8377805393270945	-12.523658619440956	3164241
+3164258	Vision	3d structure from video streams with partially overlapping images	2002	-7.582593854269806	-12.266071507011034	3164285
+3164483	Robotics	random finite set for data association in multiple camera tracking	2011	-7.568419539635242	-12.481156225856626	3164510
+3164696	Robotics	a fast pipeline for textured object recognition in clutter using an rgb-d sensor	2014	-7.34834794883355	-12.154585222593589	3164723
+3176173	Robotics	hand pose estimation using multi-viewpoint silhouette images	2001	-7.3935157083816385	-11.800964343432865	3176200
+3178024	Robotics	motion-aware iterative closest point estimation for fast visual odometry	2016	-7.858390348257376	-12.319073255745359	3178051
+3178527	Robotics	viewpoint simulation for camera pose estimation from an unstructured scene model	2015	-7.494356737418912	-12.370306144576546	3178554
+3178826	Vision	matching actions in presence of camera motion	2006	-7.5692840352133	-12.293387061347945	3178853
+3180526	Vision	fast and accurate point cloud registration using trees of gaussian mixtures	2018	-7.5508222563210925	-11.81012062314492	3180553
+3183239	EDA	two-view facial movement estimation	1994	-7.540572708360772	-12.633622707762143	3183266
+3183587	Vision	robust method of video stabilization	2007	-8.065260441698609	-11.974806771054526	3183614
+3183948	Vision	accurate keyframe selection and keypoint tracking for robust visual odometry	2016	-7.379005519922086	-11.748753385378473	3183975
+3186420	Robotics	on-line structure and motion estimation based on a novel parameterized extended kalman filter	2010	-8.119330951453424	-11.81716326472842	3186447
+3187772	Vision	divide and conquer: a hierarchical approach to large-scale structure-from-motion	2017	-8.127451009308112	-11.963588060082126	3187799
+3188523	Vision	predicting multiple feature locations for a class of dynamic image sequences	1990	-7.816309614868532	-12.485949470842778	3188550
+3190566	Vision	motion capture using joint skeleton tracking and surface estimation	2009	-7.370599399490925	-12.200033967696744	3190593
+3193947	Robotics	a novel algorithm for refinement of vision-based two-view pose estimates	2009	-7.756363038049363	-12.098729434344792	3193974
+3194143	Vision	robust structure from motion and identified dynamics	2005	-7.627721594644122	-12.523926075016506	3194170
+3194383	Robotics	tactile-based object center of mass exploration and discrimination	2017	-8.136930045112202	-11.956753015310118	3194410
+3194488	Vision	recognizing human actions in videos acquired by uncalibrated moving cameras	2005	-7.29367887453958	-12.105131648397558	3194515
+3196244	Vision	pose estimation of free-form surface models	2003	-7.782495250722633	-11.936416600532933	3196271
+3199629	Vision	estimating 3d flow for driver assistance applications	2009	-7.419380917326745	-12.202932438551318	3199656
+3199847	Vision	on kineopsis and computation of structure and motion	1986	-8.19164849489448	-12.147585013749133	3199874
+3200442	Vision	three dimensional model-based tracking using texture learning and matching	2000	-7.815706317379277	-11.945370188164803	3200469
+3200863	Vision	fast, reliable head tracking under varying illumination	1999	-7.706656595886731	-12.0595878537451	3200890
+3203063	Vision	human pose extraction from monocular videos using constrained non-rigid factorization.	2007	-7.416595550257711	-12.678393411270635	3203090
+3205002	Vision	centralized and distributed multi-view correspondence	2005	-7.455723017833478	-12.253874587204374	3205029
+3205421	Robotics	extended 3d line segments from rgb-d data for pose estimation	2013	-7.9719625754603936	-12.496384134776244	3205448
+3205726	Vision	multi-step flow fusion: towards accurate and dense correspondences in long video shots	2012	-7.407569588949618	-12.473533797163752	3205753
+3205931	Vision	solids characterization using modeling wave structures	2003	-8.096737558471746	-12.589173523509018	3205958
+3205964	Robotics	recognition of generic components using logic-program relations of image contours	1991	-7.243074863498458	-11.893708709171126	3205991
+3206021	Robotics	3d part recognition method for human motion analysis	1998	-7.306928543877484	-12.18195968631052	3206048
+3210886	Robotics	an original approach for automatic plane extraction by omnidirectional vision	2010	-8.00097862594388	-12.503037953150411	3210913
+3211003	Vision	differential camera tracking through linearizing the local appearance manifold	2007	-7.748666624180401	-12.599726313937927	3211030
+3218768	Vision	robust 3d object tracking from monocular images using stable parts	2018	-7.503838716737927	-11.87808633329905	3218795
+3220295	Visualization	a novel template-based automatic rigging algorithm for articulated-character animation	2012	-7.621220991918068	-12.539169560251436	3220322
+3220680	Vision	map-based microscope positioning	2004	-7.522028515469477	-11.961335515346473	3220707
+3225872	Vision	3d aware correction and completion of depth maps in piecewise planar scenes	2014	-7.304644853586566	-12.40279074516248	3225899
+3226267	Vision	integration of multiple temporal and spatial scales for robust optic flow estimation in a biologically inspired algorithm	2007	-7.372128649135443	-12.588778706287325	3226294
+3228565	Vision	geometric approach for pose detection of moving human heads	2002	-7.912471421514593	-11.919948578469109	3228592
+3230720	Vision	camera pose estimation from sequence of calibrated images	2012	-8.171969170305928	-11.820618677308929	3230747
+3231188	Vision	finding pose of hand in video images: a stereo-based approach	1998	-7.925666845429037	-11.78089170865286	3231215
+3231864	Vision	statistical method for sub-pixel interpolation function estimation	2010	-7.999883990569496	-11.877516937835994	3231891
+3233576	Vision	active object recognition based on fourier descriptors clustering	2008	-7.509242966749384	-12.129309081829007	3233603
+3233809	Vision	a particle filtering framework for joint video tracking and pose estimation	2010	-7.489327444262347	-12.591684909127526	3233836
+3234378	Vision	shape-from-silhouette across time part ii: applications to human modeling and markerless motion tracking	2005	-7.302766379323107	-12.21176828460249	3234405
+3236003	Vision	a fast and robust extrinsic calibration for rgb-d camera networks †	2018	-7.984881900025562	-11.774246128521474	3236030
+3240523	Vision	quaternion-based tracking of multiple objects in synchronized videos	2003	-7.801238754495666	-11.80041592746495	3240550
+3241344	Vision	incremental non-rigid structure-from-motion with unknown focal length	2018	-8.072113034999862	-12.50409812683162	3241371
+3242100	Vision	visual registration for geographical labeling in wearable computing	2002	-7.437344591744182	-11.896173976490855	3242127
+3243316	Vision	shooting a smooth video with a shaky camera	2003	-7.870348780918148	-11.851955795565221	3243343
+3245297	Vision	minimum spanning tree pose estimation	2006	-7.720800735756939	-12.188863318388105	3245324
+3245442	Vision	rapid and brief communication: motion segmentation of multiple translating objects from line correspondences	2005	-8.151179697072202	-12.178255139223163	3245469
+3246821	Graphics	a search-classify approach for cluttered indoor scene understanding	2012	-7.61008673348004	-12.484141617964404	3246848
+3247708	Vision	incremental model building of polyhedral objects using structured light	1993	-8.102870519961858	-12.299984957753027	3247735
+3248023	Vision	a robust method for estimating image geometry with local structure constraint	2018	-8.054544929824711	-12.622777462245873	3248050
+3252601	Vision	a kalman-filtering method for 3-d camera motion estimation from image sequences	1997	-8.131574032724117	-11.992044828887133	3252628
+3253013	Vision	image-based 3d model and hyperspectral data fusion for improved scene understanding	2017	-7.464339327603851	-12.477185294460073	3253040
+3253838	Vision	reconstructing tree trunks by 3d bar filters	2017	-8.01548295054351	-12.437386322889562	3253865
+3254340	Vision	feature-based global motion estimation using the helmholtz principle	2011	-7.796430399084575	-12.318018811970653	3254367
+3254656	Vision	video motion for every visible point	2013	-7.807696046751926	-12.392567015470812	3254683
+3254912	Vision	high dimensional space model for dense monocular surface recovery	2017	-7.3590463004376065	-12.60403982098883	3254939
+3255237	Robotics	robust real time tracking of 3d objects	2004	-7.809575727852263	-11.799885927589647	3255264
+3255463	Robotics	quadtree sampling-based superpixels for 3d range data	2014	-7.354581827554513	-12.496551601867	3255490
+3261424	Robotics	real-time 3d model-based tracking: combining edge and texture information	2006	-7.305051939988226	-12.458381522120499	3261451
+3262190	Vision	3d reconstruction of bat flight kinematics from sparse multiple views	2011	-7.381467920480888	-12.00859233847894	3262217
+3262932	Vision	rigid motion constraints for tracking planar objects	2007	-7.913904423552648	-12.074248741423235	3262959
+3266605	Vision	nrsfm-flow: recovering non-rigid scene flow from monocular image sequences	2016	-7.883277068048503	-12.397075391068913	3266632
+3267736	Vision	contour matching in omnidirectional images	2007	-7.817024295984837	-12.516726069689991	3267763
+3272237	Robotics	towards 3d point cloud based object maps for household environments	2008	-8.012794511150771	-11.875999349533794	3272264
+3274660	Vision	discrete-continuous optimization for large-scale structure from motion	2011	-8.175941180443253	-12.30965148459465	3274687
+3275152	Vision	go with the flow: hand trajectories in 3d via clustered scene flow	2012	-7.241468808845793	-12.178254832187259	3275179
+3280023	Robotics	an efficient algorithm (fapric) for finding the principl contancts possibly established due to uncertainties	1995	-7.960438430241657	-12.116653807661429	3280050
+3288209	Vision	estimation of a large relative rotation between two images of a fast spinning marker-less golf ball	2016	-7.9698310227311335	-11.859696672933564	3288236
+3288302	HCI	panoannotator: a semi-automatic tool for indoor panorama layout annotation	2018	-7.514604203352857	-11.893854064060132	3288329
+3291281	Vision	viewpoint invariant features from single images using 3d geometry	2009	-7.804024298755103	-11.839873835710144	3291308
+3292389	AI	an entity based multi-direction cooperative deformation algorithm for generating personalized human shape	2018	-7.8098265058006655	-12.145986114339287	3292416
+3293504	HCI	3d point cloud reduction using mixed-integer quadratic programming	2013	-7.7804705756088195	-12.493748092686449	3293531
+3293648	Vision	real-time camera tracking for marker-less and unprepared augmented reality environments	2008	-8.099014941104892	-11.796222218629827	3293675
+3295883	Vision	maximum likelihood estimation for multiple camera target tracking on grassmann tangent subspace	2018	-7.365033413616726	-12.600592754279333	3295910
+3303040	Vision	motion estimation and segmentation	1996	-7.597718891929173	-12.595144275374905	3303067
+3303430	Vision	fast approximate matching of cell-phone videos for robust background subtraction.	2014	-7.852832459395503	-11.955328264657098	3303457
+3309471	Vision	generating an interpretation tree from a cad model for 3d-object recognition in bin-picking tasks	1987	-7.880307572992284	-12.636986044381034	3309498
+3309832	Vision	edge points-based stereo matching approach for omnidirectional images	2018	-7.824213278853768	-12.382914173061595	3309859
+3310579	Vision	multicamera fusion for shape estimation and visibility analysis of unknown deforming objects	2016	-8.195584298433364	-12.04820475447861	3310606
+3312216	Vision	real-time affine region tracking and coplanar grouping	2001	-8.015075312425209	-12.654983428694802	3312243
+3313823	Vision	automatic registration of large-scale multi-sensor datasets	2010	-8.176796509674594	-12.17372945734237	3313850
+3315705	Robotics	tracking fractures of deformable objects in real-time with an rgb-d sensor	2015	-8.017006529765542	-12.370686603453526	3315732
+3316674	Vision	viol: viewpoint invariant object localizator - viewpoint invariant planar features in man-made environments	2018	-7.936973796801634	-11.828362475060162	3316701
+3317534	Vision	dsvo: direct stereo visual odometry	2018	-7.716441997143919	-11.797328837558089	3317561
+3318656	Graphics	video stabilization using epipolar geometry	2012	-8.187025191574344	-12.201831745455776	3318683
+3321223	Vision	isar image sequence based automatic target recognition by using a multi-frame marked point process model	2011	-7.664466681054719	-12.461768255291677	3321250
+3322649	Vision	generation of stereoscopic image sequences using structure and rigid motion estimation by extended kalman filters	2002	-8.048667531284682	-12.230322798197374	3322676
+3322974	Vision	seeing unseeability to see the unseeable	2012	-7.717250179044474	-12.31338719076316	3323001
+3323919	Vision	video stabilization by procrustes analysis of trajectories	2016	-7.324205725111573	-12.649975630393994	3323946
+3332049	Vision	refining ptz camera calibration	2008	-7.507304700908437	-11.820129814340634	3332076
+3333160	Vision	3d ssd tracking with estimated 3d planes	2005	-7.727169224013577	-12.352221972049124	3333187
+3333686	Vision	object pose detection in range scan data	2006	-7.515281564350183	-12.252672808032493	3333713
+3336191	Robotics	an architecture for a vlsi sensory-motor system for autonomous robots	2002	-7.657337205590652	-11.727871808600288	3336218
+3336496	Robotics	semi-dense visual odometry for rgb-d cameras using approximate nearest neighbour fields	2017	-7.859560118400821	-11.98461058989098	3336523
+3337017	Vision	fast stitching of videos captured from freely moving devices by exploiting temporal redundancy	2010	-7.585126004515718	-12.040327711081185	3337044
+3338652	Vision	a model-based 3-d tracking of rigid objects from a sequence of multiple perspective views	1998	-7.355382375234326	-12.242561545149783	3338679
+3339285	Vision	feature extraction in scanning laser range data using invariant parameters: application to vehicle detection	2012	-7.963953264697715	-11.96683464673551	3339312
+3347730	Vision	an epipolar line from a single pixel	2018	-8.17135327069121	-12.241531593540444	3347757
+3349061	Vision	3d face reconstruction from 2d images	2008	-7.9416796866027415	-12.385977513916414	3349088
+3351102	Vision	non-iterative approach to multiple 2d motion estimation	2004	-8.01296388750187	-12.653360143478995	3351129
+3352105	Vision	reconstructing 3d pose and motion from a single camera view	1998	-7.285737509032176	-12.365804613183071	3352132
+3354877	Robotics	recognizing walking people	2003	-7.838169482225625	-12.178349260555878	3354904
+3356220	Vision	binocular matching constraints from motion	2002	-7.930771825375081	-12.133415879264493	3356247
+3357922	Vision	regular texture removal for video stabilization	2008	-7.998236075365697	-12.237231665094436	3357949
+3361533	Vision	magic glasses: from 2d to 3d	2017	-7.829879907655678	-12.241701280277322	3361560
+3375146	Vision	a new cnn ic for stereo visual system	2001	-7.479631219491438	-11.862298330258898	3375173
+3375666	Graphics	optimized motion simplification for crowd animation	2006	-7.349303214283912	-11.982904882060554	3375693
+3377223	Vision	motion segmentation of truncated signed distance function based volumetric surfaces	2015	-8.008254859425126	-12.528175360270016	3377250
+3378553	Vision	depth extraction from videos using geometric context and occlusion boundaries	2014	-7.717384051881331	-12.412088678248573	3378580
+3378658	Vision	finding better wide baseline stereo solutions using feature quality	2017	-7.6062932276672806	-12.020242798869365	3378685
+3379108	Vision	object tracking via the dynamic velocity hough transform	2001	-7.60447982216291	-12.513945252767186	3379135
+3379659	Robotics	object tracking by comparing multiple viewpoint images to cg images	2006	-7.8874308823326365	-12.648891469948218	3379686
+3380446	Robotics	hybrid-residual-based rgbd visual odometry	2018	-7.612798760149489	-12.060767009288018	3380473
+3380817	Vision	toward accurate real-time marker labeling for live optical motion capture	2017	-7.3966553765824035	-11.971014745513392	3380844
+3386957	Vision	quick reconstruction of cameras and quasi-dense geometry from unordered photos	2009	-7.708809317406915	-12.166117161650336	3386984
+3388196	Vision	res-q: robust outlier detection algorithm for fundamental matrix estimation	2018	-8.175653013519204	-12.678455617282955	3388223
+3391256	Vision	topology-aware non-rigid point cloud registration	2018	-7.861652246877521	-12.509883269799865	3391283
+3393570	Vision	belief-propagation on edge images for stereo analysis of image sequences	2008	-7.741493220712553	-12.281390185613525	3393597
+3394746	Vision	robust model driven matching method for face analysis with multi image photogrammetry	2006	-8.171670525569294	-11.767541982912087	3394773
+3396106	HCI	the role of eye position information in algorithms for stereoscopic matching	1982	-8.164603252549895	-12.047574249859052	3396133
+3397124	Vision	robust real-time stereo edge matching by confidence-based refinement	2012	-7.4679772712318835	-11.852881467331267	3397151
+3398688	Robotics	3d video stabilization for a humanoid robot using point feature trajectory smoothing	2011	-7.683426956328861	-11.925813884398332	3398715
+3398694	Vision	augmenting crowd-sourced 3d reconstructions using semantic detections	2018	-7.4714712892915145	-11.890707930187848	3398721
+3399333	Robotics	3d acquisition system for 3d forms recognition	2017	-8.039515526993135	-12.404251748947036	3399360
+3399551	Vision	pose estimation from airborne video sequences using a structural approach for the construction of homographies and fundamental matrices	2004	-7.479132139425607	-12.04955809943582	3399578
+3400763	Vision	3d representation of videoconference image sequences using vrml 2.0	1998	-7.6549214260324385	-12.313436634125527	3400790
+3401940	Vision	exploring high-level plane primitives for indoor 3d reconstruction with a hand-held rgb-d camera	2012	-7.361631713590157	-11.853994388219533	3401967
+3405023	Vision	multi-view dynamic shape refinement using local temporal integration	2017	-8.018133325634597	-12.324501467839074	3405050
+3405600	Vision	3d body shapes estimation from dressed-human silhouettes	2016	-7.240331131269731	-12.458783135579615	3405627
+3405997	Graphics	rigid stabilization of facial expressions	2014	-7.735408335991432	-12.116535755217402	3406024
+3410908	Vision	a general motion representation - exploring the intrinsic viewpoint of a motion	2012	-7.41480662465584	-11.930819872956581	3410935
+3411221	Robotics	efficient segmentation and surface classification of range images	2014	-7.316621674520205	-12.277431514343762	3411248
+3413952	Vision	fast 3d reconstruction using one-shot spatial structured light	2014	-8.028815421757189	-12.029462039356428	3413979
+3419680	Vision	enhancing pose estimation through efficient patch synthesis	2016	-7.525521863329711	-12.026178177231293	3419707
+3420058	AI	a recursive least squares solution for recovering robust planar homographies	2011	-7.610671359290903	-12.54996329392949	3420085
+3423312	Vision	visual tracking of laparoscopic instruments in a hough space	2012	-7.390725352561808	-11.910852785870118	3423339
+3423424	Vision	a shape-based stereo matching algorithm for binocular vision	2014	-8.03222410334057	-12.627772626032947	3423451
+3425492	Robotics	background subtraction based object extraction for time-of-flight sensor	2013	-7.230659278625576	-12.645561336593685	3425519
+3426159	Graphics	moviereshape: tracking and reshaping of humans in videos	2010	-7.767236057865017	-11.765143959026787	3426186
+3426268	Vision	camera calibration from human motion	2008	-7.9133668391523475	-12.436573925939982	3426295
+3426417	Robotics	recognition and positioning of three-dimensional objects by combining matchings of primitive local patterns	1988	-7.766814908154416	-12.474648016616564	3426444
+3427938	Vision	filterreg: robust and efficient probabilistic point-set registration using gaussian filter and twist parameterization	2018	-7.260834476679187	-11.848056989754305	3427965
+3429250	Vision	rooftop detection and 3d building modeling from aerial images	2009	-7.625319128337681	-12.598328595594367	3429277
+3430224	Vision	markerless kinematic model and motion capture from volume sequences	2003	-7.388745935857163	-12.368891983708515	3430251
+3431533	Vision	depth estimation and object recognition using integral imaging (invited paper)	2008	-8.054626715479063	-12.643743603872926	3431560
+3434614	Robotics	rough compressed domain camera pose estimation through object motion	2009	-7.54126925421593	-12.230670996304422	3434641
+3434620	Robotics	towards robust and optimal image stitching for pavement crack inspection and mapping	2017	-8.111987283664652	-12.493799844640654	3434647
+3436152	Logic	stereo sequence analysis, compression, and virtual viewpoint synthesis	1998	-7.498334363677396	-12.259895187826006	3436179
+3437047	Vision	determining pose of 3d objects with curved surfaces	1996	-8.124501331775262	-12.164853372147315	3437074
+3439721	Vision	persistent tracking of static scene features using geometry	2014	-7.947798210481267	-12.528268135733034	3439748
+3439939	Robotics	reference-free monocular 3d tacking of deformable surfaces	2012	-7.439066017671688	-12.534808598702345	3439966
+3440998	Vision	extraction, matching, and pose recovery based on dominant rectangular structures	2005	-7.929485917876701	-11.813547711109278	3441025
+3443808	Vision	binocular video object tracking with fast disparity estimation	2013	-7.720612956981168	-11.960109182177018	3443835
+3445944	Graphics	interactive mechanism modeling from multi-view images	2016	-7.536950361197483	-11.809312838207154	3445971
+3447604	Vision	feature-based detection of inverted-stereo for stereoscopic 3d viewing comfort	2012	-7.694080840544907	-12.035930900164127	3447631
+3449141	Robotics	robust object localization based on error patterns learning for dexterous mobile manipulation	2016	-7.687725387657096	-12.121788242036835	3449168
+3449574	Vision	adaptive window algorithm for aerial image stereo	1994	-8.09677023387805	-12.6557978250813	3449601
+3451038	Vision	fast construction of dynamic and multi-resolution 360 degrees panoramas from video sequences	2006	-7.676903197769517	-12.678758686047509	3451065
+3453086	Vision	robust reconstruction of indoor scenes	2015	-8.090494261938673	-12.33494285671741	3453113
+3454423	Vision	ekf-based recursive dual estimation of structure & motion from stereo data	2006	-7.660099550035963	-11.976394113198989	3454450
+3454547	Vision	pose refinement of active models using forces in 3d	1994	-8.189107602736813	-11.835011607690928	3454574
+3454693	Vision	better together: joint reasoning for non-rigid 3d reconstruction with specularities and shading	2016	-7.786761760661634	-12.491584654516682	3454720
+3456314	Robotics	2d-image to 3d-range registration in urban environments via scene categorization and combination of similarity measurements	2016	-7.587266321318216	-11.978366413007883	3456341
+3456729	Vision	capturing hand-object interaction and reconstruction of manipulated objects	2017	-7.414039945774395	-12.52539909422164	3456756
+3457556	Vision	vanishing point detection in urban scenes using point alignments	2017	-7.9566132774153875	-12.650493377163407	3457583
+3458782	Robotics	a robust rgb-d slam system for 3d environment with planar surfaces	2013	-7.913804982976094	-11.928059578541644	3458809
+3459646	Vision	efficient monocular 3d reconstruction from segments for visual navigation in structured environments	2006	-7.239093286035364	-12.114111018004728	3459673
+3461696	Graphics	particle filter with affine transformation for multiple key points tracking	2012	-7.727311732276517	-12.283175332757356	3461723
+3462353	Vision	using space-time interest points for video sequence synchronization	2007	-7.7790601535832415	-12.053153120336207	3462380
+3463500	Robotics	joint pose and principal curvature refinement using quadrics	2017	-7.852758313044047	-11.886402785784336	3463527
+3463965	Vision	efficient tree-structured sfm by ransac generalized procrustes analysis	2017	-7.812157370152375	-12.66594997928065	3463992
+3467648	Vision	structure and motion from two perspective views via planar patch	1988	-7.8024225194748755	-11.750124224417773	3467675
+3467951	Vision	complex volume and pose tracking with probabilistic dynamical models and visual hull constraints	2009	-7.2605229157409665	-12.626018691908822	3467978
+3468157	Vision	efficient fourier-based approach for detecting orientations and occlusions in epipolar plane images for 3d scene modeling	2004	-7.811055177996524	-12.345923993728555	3468184
+3468421	Robotics	data-driven human model estimation for realtime motion capture	2018	-7.2543203098904545	-12.242131178047318	3468448
+3469285	Vision	graph-cut-based 3d model segmentation for articulated object reconstruction	2011	-7.584485169390758	-12.10278312597938	3469312
+3470074	Vision	optical flow-based 3d human motion estimation from monocular video	2017	-7.548967235851434	-12.336212864727178	3470101
+3471599	Vision	three-dimensional hand reconstruction by single-shot structured light line pattern	2018	-7.527859159101522	-12.026371760867784	3471626
+3473966	Vision	robust digital image stabilization using the kalman filter	2009	-7.357100824638412	-12.086653069074895	3473993
+3477406	Visualization	model reconstruction and pose acquisition using extended lowe's method	2005	-7.87510057009401	-12.217468630276455	3477433
+3480975	Robotics	an efficient direct method for improving visual slam	2007	-7.950844558379828	-12.409078788006921	3481002
+3482750	Vision	robust tracking and mapping with a handheld rgb-d camera	2014	-7.705267302712485	-12.088580856259165	3482777
+3486167	Vision	voting-based incremental structure-from-motion	2018	-7.296130073640157	-12.348671099146369	3486194
+3488847	Vision	robust 3-dimensional object recognition using stereo vision and geometric hashing	1996	-7.3661688437762765	-12.456389410218762	3488874
+3489120	Vision	ir face synthesis using motion vector field	2003	-7.673239907361619	-12.667215934312011	3489147
+3491642	Vision	a non-iterative greedy algorithm for multi-frame point correspondence	2003	-7.40199565552847	-12.541853611908696	3491669
+3498818	Vision	estimation of the center of rotation and 3d motion parameters from stereo sequence images and virtual validation using three-comero	2007	-8.094911210319117	-11.958245273751748	3498845
+3500572	Vision	learning skeletons for shape and pose	2010	-7.829159567216394	-12.038976310302772	3500599
+3500732	Vision	temporal synchronization of non-overlapping videos using known object motion	2011	-7.832914916871091	-11.92116928357284	3500759
+3501212	Robotics	visual servoing in non-rigid environments: a space-time approach	2007	-7.335720428024447	-11.921270831683517	3501239
+3512133	Vision	robust articulated-icp for real-time hand tracking	2015	-7.7760086922069345	-11.970663409690015	3512160
+3513954	Vision	inferring spatial layout from a single image via depth-ordered grouping	2008	-7.868569482701484	-12.635316327092436	3513981
+3514860	Vision	detection and tracking of large number of targets in wide area surveillance	2010	-7.518819902767428	-12.457057497406248	3514887
+3515348	Vision	a rank constrained continuous formulation of multi-frame multi-target tracking problem	2008	-7.316360791791805	-12.625009831991054	3515375
+3517151	Vision	augmented reality with human body interaction based on monocular 3d pose estimation	2010	-7.251003383595982	-11.873293723929331	3517178
+3517554	Robotics	robust visual slam with point and line features	2017	-8.045934136590834	-12.05253695166909	3517581
+3522636	Vision	quaternet: a quaternion-based recurrent model for human motion	2018	-7.281450898302452	-12.593876683600607	3522663
+3523174	Vision	mosaicing-by-recognition: a technique for video-based text recognition	2005	-7.540075994757283	-12.405288431980054	3523201
+3528358	Robotics	randomized view planning and occlusion removal for mosaicing building facades	2005	-7.329680259547769	-12.669998344152164	3528385
+3529249	Graphics	markerless human motion transfer	2004	-7.591890348777957	-11.770246404690633	3529276
+3529417	Vision	a unified framework for content-aware view selection and planning through view importance	2014	-7.993730865261348	-12.297045651726991	3529444
+3534654	Robotics	pas: visual odometry with perspective alignment search	2014	-7.623034446673211	-12.563855221505143	3534681
+3536728	Vision	marker-based human motion capture in multiview sequences	2010	-7.23650520606134	-12.037148972062594	3536755
+3539882	Vision	stereo matching using epipolar distance transform	2012	-8.185319401914299	-12.200289986546307	3539909
+3540930	Robotics	efficient graph-slam optimization using unit dual-quaternions	2015	-8.191994188491831	-12.239605817187968	3540957
+3543531	Vision	ground segmentation based on loopy belief propagation for sparse 3d point clouds	2015	-8.113311484607776	-12.294207947123713	3543558
+3546031	Graphics	motion capture and estimation of dynamic properties for realistic tree animation	2017	-7.516100793457273	-11.812257039941096	3546058
+3546829	Robotics	on measuring the accuracy of slam algorithms	2009	-8.001482799060751	-12.642929129143267	3546856
+3548695	Vision	affine correspondence based head pose estimation for a sequence of images by using a 3d model	2004	-7.9235284294271935	-12.66179658710294	3548722
+3550441	Vision	guided depth upsampling for precise mapping of urban environments	2017	-8.19607961077843	-12.613088809461315	3550468
+3554121	Vision	sun3d: a database of big spaces reconstructed using sfm and object labels	2013	-7.799736893500526	-12.22467446844944	3554148
+3554547	Robotics	shape matching from grasp using a minimal representation size criterion	1993	-7.967359995199686	-12.282976107571786	3554574
+3557342	Vision	pattern tracking and 3-d motion reconstruction of a rigid body from a 2-d image sequence	2005	-7.9347700859278305	-12.331770955181684	3557369
+3557894	Vision	hierarchical recognition of articulated objects from single perspective views	1997	-7.737792206284474	-12.270245680489266	3557921
+3558239	Vision	human motion reconstruction from inter-frame feature correspondences of a single video stream using a motion library	2002	-7.647029897619387	-11.842271206120579	3558266
+3558672	Vision	a new photo-based approach for fast human body shape modeling	2010	-8.166672413689263	-11.947344452488412	3558699
+3558811	Vision	3d semantic parameterization for human shape modeling: application to 3d animation	2013	-7.943795174915524	-11.853909157997016	3558838
+3559488	Vision	good features to track for rgbd images	2017	-7.382993860121528	-12.238037616953726	3559515
+3559570	Vision	spatio-temporally consistent correspondence for dense dynamic scene modeling	2016	-7.966009273542731	-12.33578455018435	3559597
+3561547	Vision	estimating optical flow by integrating multi-frame information	2008	-7.4753911083565985	-12.632996392835295	3561574
+3565202	Robotics	model-based pose estimation using genetic algorithm	1998	-7.876897513961952	-12.257348251774614	3565229
+3565378	Vision	patch warping and local constraints for improved block matching stereo correspondence	2016	-8.009498410306376	-12.309766667896547	3565405
+3566713	Vision	recognizing large isolated 3-d objects through next view planning using inner camera invariants	2005	-7.376311247059204	-12.314346948679704	3566740
+3567008	Vision	continuous markov random fields for robust stereo estimation	2012	-7.654297292335568	-12.549048877430632	3567035
+3568112	Robotics	vehicle detection with three dimensional object models	2006	-7.236145766065356	-11.83411281178752	3568139
+3571129	Vision	learning two-view stereo matching	2008	-7.743713205253138	-12.430523481372123	3571156
+3572990	Robotics	segmentation of optical flow and 3d data for the interpretation of mobile objects	1990	-7.433965710530987	-12.253379317812286	3573017
+3574652	Robotics	on the segmentation of 3d lidar point clouds	2011	-7.406767348101	-11.984806942945028	3574679
+3576530	Robotics	2d-3d camera fusion for visual odometry in outdoor environments	2014	-7.9224048378476155	-11.877246551073835	3576557
+3576777	Vision	experiments in estimation of independent 3-d motion using em	2001	-7.80307800621692	-12.632875414927339	3576804
+3578041	Vision	repmatch: robust feature matching and pose for reconstructing modern cities	2016	-7.574292345529188	-12.59308215361689	3578068
+3578236	AI	three-dimensional modeling of the human hand with motion constraints	1999	-7.475059252980214	-11.98150835520755	3578263
+3581316	Vision	relative pose estimation from straight lines using optical flow-based line matching and parallel line clustering	2016	-7.651891653850383	-12.047789104176259	3581343
+3583148	Vision	an algorithm for 3d reconstruction of deformable shape sequences	2005	-7.23099707879969	-12.55346207842664	3583175
+3583763	Vision	fast techniques for monocular visual odometry	2015	-7.767555802513461	-11.93781002747746	3583790
+3583979	Vision	people consistent labeling between uncalibrated cameras without planar ground assumption	2010	-7.958055471652001	-12.091455622126956	3584006
+3584708	Vision	automatic camera recovery for closed or open image sequences	1998	-8.06103170966122	-12.594898543834438	3584735
+3584837	Vision	a fast and robust approach to recovering structure and motion from live video frames	2000	-7.923872276038997	-12.60168068854523	3584864
+3587627	Vision	region-based segmentation with ambiguous color classes and 2-d motion compensation	2007	-7.563255716116513	-12.081217559168492	3587654
+3589956	Vision	incremental tracking of human actions from multiple views	1998	-7.296470293835688	-12.600713820843062	3589983
+3590062	Vision	deformable 3d fusion: from partial dynamic 3d observations to complete 4d models	2015	-7.861150622022321	-12.214597124979631	3590089
+3591177	Vision	step towards sequence-to-sequence alignment	2000	-7.612655523263832	-12.190527694207224	3591204
+3604390	Vision	keyframe selection for camera motion and structure estimation from multiple views	2004	-7.961073456884834	-12.667224527779588	3604417
+3606018	Graphics	body building through weight training: using fitting techniques for skin animation	2002	-8.186773221433368	-12.071343235194464	3606045
+3606346	Vision	sfm for planar scenes: a direct and robust approach	2005	-7.9205964879278365	-12.39064192439549	3606373
+3606528	Robotics	precise motion descriptors extraction from stereoscopic footage using davinci dm6446	2009	-7.27897489576091	-12.206399472278367	3606555
+3608939	Vision	synchronization and calibration of camera networks from silhouettes	2004	-7.956320244775911	-11.770775738441973	3608966
+3611335	Vision	automatic registration of rgb-d scans via salient directions	2013	-7.433285703449335	-12.187568767208182	3611362
+3611896	Vision	robust alignment of transmission electron microscope tilt series	2006	-8.169048422536964	-12.134732457614946	3611923
+3614115	Robotics	video stabilization using kalman filter and phase correlation matching	2005	-8.175324644530116	-12.240700896320126	3614142
+3615661	Graphics	automatic and real-time 3d face synthesis	2009	-7.466057714258382	-12.382531749094596	3615688
+3615911	Vision	completed dense scene flow in rgb-d space	2014	-7.92343830325163	-12.39945163485602	3615938
+3616333	Vision	3d structure from motion with fourier descriptor transformation	2013	-8.09756158689742	-12.626782080846455	3616360
+3616774	Vision	periodic motion detection and segmentation via approximate sequence alignment	2005	-7.678754286627012	-12.51718777766126	3616801
+3616818	Vision	human motion tracking with a kinematic parameterization of extremal contours	2007	-8.104777113817411	-12.353963653190286	3616845
+3617591	Vision	a projective framework for scene segmentation in the presence of moving objects	1999	-7.954116617321242	-12.29385457684366	3617618
+3617609	Vision	horizon matching for localizing unordered panoramic images	2010	-8.050319497176531	-12.407701878022571	3617636
+3619222	Vision	edge enhanced direct visual odometry	2016	-7.750877720672048	-12.255101535120179	3619249
+3621572	Vision	real-time reshaping of humans	2012	-7.492683063890227	-11.889954572656858	3621599
+3621761	Vision	accurate depth map estimation from small motions	2017	-8.000051746244905	-11.851589654426956	3621788
+3622050	ML	verifying and combining different visual cues into a 3-d model	1992	-7.303247502649472	-12.041970294615336	3622077
+3623987	Robotics	use of pre-conscious vision and geometric characterizations for automatic man-made object recognition	2005	-8.100344067948862	-11.951726714179971	3624014
+3624794	Vision	an efficient virtual aesthetic surgery model based on 2d color photograph	2005	-7.879418741910668	-12.499823848340721	3624821
+3625495	Vision	analysis of planar-motion segmentation using affine fundamental matrix	2014	-7.570367942856799	-12.359757503541687	3625522
+3626717	Vision	generating robust and stable disparity map using phase-based correspondence matching from stereo video sequence	2013	-8.003953547795646	-12.371269700057011	3626744
+3627755	Vision	an efficient shortest triangle paths algorithm applied to multi-camera self-calibration	2011	-7.771273007825352	-12.621085847916264	3627782
+3628180	Robotics	normal estimation for pointcloud using gpu based sparse tensor voting	2012	-7.84253704113545	-12.501912267769956	3628207
+3628620	Vision	estimation of the fundamental matrix from uncalibrated stereo hand images for 3d hand gesture recognition	2003	-7.959687768949005	-12.47206449656318	3628647
+3631198	Robotics	robust selective stereo slam without loop closure and bundle adjustment	2013	-7.403098162771603	-11.757784895440574	3631225
+3633795	Robotics	video stabilization with optimized motion estimation resolution	2006	-7.447299362432051	-12.14237345965178	3633822
+3635992	Robotics	occlusion avoidance in corners-based slam with different data association algorithms	2013	-7.474026949756179	-12.029734179530301	3636019
+3639605	Vision	multi-hypothesis projection-based shift estimation for sweeping panorama reconstruction	2012	-8.169666196203464	-11.830977882222047	3639632
+3641064	Vision	rapid recognition of freeform objects in noisy range images using tripod operators	1993	-8.099224961086918	-12.633491224808983	3641091
+3641690	Graphics	3d facial model synthesis using voronoi approach	2006	-7.9068818069252895	-12.377916068978386	3641717
+3641755	Vision	recovering articulated non-rigid shapes, motions and kinematic chains from video	2006	-7.264538650123468	-12.550679543380832	3641782
+3641914	Vision	robust correspondenceless 3-d iris location for immersive environments	2005	-7.326525730434053	-12.192798544408241	3641941
+3642347	Robotics	active modeling of 3-d objects: planning on the next best pose (nbp) for acquiring range images	1997	-8.004072097326775	-11.797300181758326	3642374
+3642436	Vision	depth discontinuity-based cup segmentation from multiview color retinal images	2012	-7.77550344636284	-12.34958348423922	3642463
+3642591	Robotics	3d non-rigid structure from motion based on sparse approximation in trajectory space	2018	-8.192852370824902	-12.013381598702235	3642618
+3642893	Vision	simultaneous 3d tracking and reconstruction on a mobile phone	2013	-7.75700637647197	-12.039670028220826	3642920
+3646386	Vision	purposive sample consensus: a paradigm for model fitting with application to visual odometry	2013	-7.811210912634065	-12.659933680309667	3646413
+3646897	Robotics	model-based virtual visual servoing with point cloud data	2016	-8.144584228528963	-11.825625305990428	3646924
+3648415	Vision	a simultaneous estimation of rigid and non-rigid face motion	2000	-7.298184646706241	-12.347793305509144	3648442
+3649323	Vision	scratch detection supported by coherency analysis of motion vector fields	2009	-7.505132494349147	-12.269470660131569	3649350
+3652969	Vision	constructing locally dense point clouds using opensfm and orb-slam2	2018	-8.185340595571114	-12.136925320502806	3652996
+3653252	DB	track multiple objects with feature-correlation algorithms	2017	-7.656768829530378	-12.642292060744081	3653279
+3653598	Vision	real time object tracking on gpgpu	2012	-7.234547705044823	-11.872775395853386	3653625
+3655586	Vision	a depth-based weighted point cloud registration for indoor scene	2018	-8.090930831139708	-12.222119628403279	3655613
+3658025	Vision	locally planar patch features for real-time structure from motion	2004	-7.5992853604363075	-12.417634970846866	3658052
+3658955	Vision	extracting the path of frame center points using spatial transformation and motion estimation	2011	-7.355542559108798	-12.516231271713913	3658982
+3660423	Robotics	fast trajectory replanning using laplacian mesh optimization	2012	-7.334835357129859	-12.017954224716767	3660450
+3661272	Vision	dense disparity maps in real-time with an application to augmented reality	2002	-8.076083786663286	-11.791432576977275	3661299
+3662454	Vision	simultaneous segmentation and 3d reconstruction of monocular image sequences	2007	-7.7432616103114364	-11.877363714491267	3662481
+3663523	Vision	compass rose: a rotational robust signature for optical flow computation	2014	-8.19078154560321	-12.069985758291173	3663550
+3663806	EDA	virtual human modeling from photographs for garment industry	2003	-7.976036840039092	-12.012340742656528	3663833
+3666223	Vision	stereo reconstruction of droplet flight trajectories	2015	-7.852359827367962	-11.834014600702092	3666250
+3668483	Vision	online smoothing for markerless motion capture	2007	-7.69288795383089	-12.45442685160703	3668510
+3671435	Vision	semi-automatic motion segmentation with motion layer mosaics	2008	-8.129836287727064	-12.632284241728527	3671462
+3673291	Vision	feature-based rgb-d camera pose optimization for real-time 3d reconstruction	2016	-7.598282038584743	-12.25109376591254	3673318
+3674036	Vision	part-segment features with optimized shape priors for articulated pose estimation	2016	-7.3825357675396415	-12.097500866542614	3674063
+3675189	Robotics	acquisition of a dense 3d model database for robotic vision	2009	-7.303472390775994	-11.772063710404947	3675216
+3677574	Vision	multibody factorization with uncertainty and missing data using the em algorithm	2004	-7.773957254706586	-12.681775853978259	3677601
+3679441	Vision	model-based detection and localization of circular landmarks in aerial images	1997	-8.070854032424913	-11.889768480504694	3679468
+3680615	Vision	shape from incomplete silhouettes based on the reprojection error	2010	-8.105798177803276	-12.676834226609301	3680642
+3680930	Robotics	high quality pose estimation by aligning multiple scans to a latent map	2010	-7.974139989243746	-12.491695135991158	3680957
+3682280	HCI	personalized food printing for portrait images	2018	-7.599367392541922	-11.860452268654905	3682307
+3683675	Vision	omnidirectional camera motion estimation	2008	-7.771091674673464	-11.870504710422528	3683702
+3684318	Vision	video repairing under variable illumination using cyclic motions	2006	-8.172891882678499	-12.591315701105481	3684345
+3684458	Vision	structure from periodic motion	2004	-7.478642215837562	-11.828247984970028	3684485
+3686923	Vision	visual localization, mapping and reconstruction using edges	2016	-7.741503953766288	-11.919086140778065	3686950
+3687328	Vision	temporal multi-scale models for flow and acceleration	1999	-8.16192884950507	-12.479635982708954	3687355
+3688429	Vision	multi-object reconstruction from dynamic scenes: an object-centered approach	2013	-7.8382169602930984	-12.531113145922479	3688456
+3690030	Vision	stereo 3d object trajectory reconstruction	2018	-7.506014844192165	-12.005283149878991	3690057
+3690755	Vision	shape-from-silhouette of articulated objects and its use for human body kinematics estimation and motion capture	2003	-7.419898230839102	-12.521862634712264	3690782
+3691386	Vision	spatiotemporal segmentation and tracking of objects for visualization of videoconference image sequences	1999	-7.494970730858418	-12.513242953891766	3691413
+3695607	HCI	robust detection and identification of partially occluded circular markers	2010	-8.118037032897828	-12.05262305037174	3695634
+3699209	Robotics	accurate extrinsic calibration between monocular camera and sparse 3d lidar points without markers	2017	-7.772783035745075	-12.02843621661636	3699236
+3699597	Graphics	an efficient human model customization method based on orthogonal-view monocular photos	2013	-7.8446228514351235	-11.928650202844873	3699624
+3699655	Vision	enhancing the point feature tracker by adaptive modelling of the feature support	2006	-7.579460330385038	-12.17108297076265	3699682
+3700956	Vision	real-time feature tracking and outlier rejection with changes in illumination	2001	-7.590893804275905	-12.243401600558713	3700983
+3701345	Robotics	range synthesis for 3d environment modeling	2002	-7.629037713615418	-11.753454655714195	3701372
+3702515	Robotics	an approach of electronic image stabilization based on the representative point matching	2009	-7.446468124164476	-12.203643747868409	3702542
+3703886	Robotics	efficient loop closure based on falko lidar features for online robot localization and mapping	2016	-7.290742350873887	-11.975387806440756	3703913
+3704661	Vision	divide and conquer: efficient large-scale structure from motion using graph partitioning	2014	-8.127053376379664	-12.391613260073099	3704688
+3705696	Vision	robust plane-based structure from motion	2012	-7.554371964880604	-12.08306737583205	3705723
+3707539	Robotics	tracking multiple articulated objects using physics engines: improvement using multi scale decomposition and quadtrees	2010	-7.882440615187723	-12.408666898307445	3707566
+3710019	Vision	3d reconstruction of a human face with monocular camera based on head movement	2003	-7.903483353463532	-12.286718990735164	3710046
+3710687	Theory	translating optical flow into token matches and depth from looming	1988	-7.41597490578524	-11.808517880450768	3710714
+3712806	Robotics	multiple object motion detection for robust image stabilization using block-based hough transform	2010	-7.301367567670862	-12.33971461370219	3712833
+3718818	Robotics	towards a local kalman filter for visual tracking	2009	-7.847543740838964	-12.408819693569953	3718845
+3719695	Vision	real-time estimation of head motion using weak perspective epipolar geometry	1998	-7.4818652724651775	-12.625177014024803	3719722
+3721291	Vision	model-based vision system for scenes containing multiple parts	1977	-7.306035121976445	-12.629880592879887	3721318
+3722615	Vision	human action recognition in video data using invariant characteristic vectors	2012	-7.394753672969536	-12.488598917061074	3722642
+3725629	Visualization	approximating optimal sets of views in virtual scenes	2017	-8.168965798903523	-12.189696155250132	3725656
+3727597	ML	using two-dimensional models to interact with the three-dimensional world	1994	-7.252965822800063	-12.531354208415511	3727624
+3730702	Vision	robust motion trajectory estimation for long image sequences with applications to motion compensated prediction	1999	-7.823105770342058	-12.632018713294208	3730729
+3732037	Vision	efficient, causal camera tracking in unprepared environments	2005	-8.183491516225141	-12.175937593839695	3732064
+3732956	Robotics	performance assessment of model-based tracking	1992	-7.296763758470565	-11.866520312862885	3732983
+3734113	Vision	a new algorithm for human motion capture via 3d active contours	2009	-7.472556584373237	-12.609065163627225	3734140
+3736425	Vision	algebraic constraints on moving points in multiple views	2002	-7.937184147000253	-12.126376217173087	3736452
+3737585	Vision	active blobs: region-based, deformable appearance models	2003	-8.121984929165949	-11.869629105275994	3737612
+3738853	Vision	incremental estimation of image flow using a kalman filter	1992	-7.6795676069901075	-11.99196121347892	3738880
+3741513	Vision	a mathematical model for computer image tracking	1982	-7.703042815700017	-12.405738997593017	3741540
+3749711	Vision	acquisition of time-varying 3d foot shapes from video	2011	-7.719627362616833	-12.067174053391188	3749738
+3750317	Robotics	video stabilization based on motion segmentation	2012	-7.53694893430775	-12.53010056893916	3750344
+3750897	Vision	multi-modal aerial image registration using spatial structure	2013	-7.424629816927546	-12.63387916322302	3750924
+3751629	Vision	motion estimation of elastic articulated objects from points and contours with volume invariable constraint	2008	-7.817077344697176	-12.410443411913324	3751656
+3754236	Vision	conditions for segmentation of motion with affine fundamental matrix	2009	-8.140858385598964	-12.4544233901577	3754263
+3756603	Vision	object rigidity and reflectivity identification based on motion analysis	2010	-8.09518685277182	-12.338024028688476	3756630
+3756701	Vision	a bayesian approach to joint tracking and identification of geometric shapes in video sequences	2010	-7.787253130114518	-12.680825159874713	3756728
+3759220	Graphics	a framework for automatic and perceptually valid facial expression generation	2014	-8.107218221077995	-11.828464673373375	3759247
+3759737	Vision	a markerless registration method for augmented reality based on affine properties	2006	-8.194146934572553	-12.008520928823712	3759764
+3760919	Vision	hand-held 3d scanning based on coarse and fine registration of multiple range images	2010	-8.091697098713011	-12.23129867464432	3760946
+3761232	Robotics	m3rsm: many-to-many multi-resolution scan matching	2015	-7.820003512056617	-12.37427366503518	3761259
+3763047	Robotics	accurate camera pose estimation for kinectfusion based on line segment matching by lehf	2014	-7.723561842004073	-11.910434388504232	3763074
+3763627	Vision	building visual maps by combining noisy stereo measurements	1986	-8.156076507117845	-11.947729615041833	3763654
+3767150	Vision	predicting image matching using affine distortion models	2011	-8.171744666219551	-12.458579358658936	3767177
+3768369	Vision	real-time one-dimensional motion estimation and its application in computer vision	2015	-7.777313288252425	-12.649927334069217	3768396
+3771067	Robotics	fast and correspondence-less camera motion estimation based on voting mechanism and morton codes	2010	-7.9368737281032935	-12.503757570733027	3771094
+3771323	Vision	real-time 3d reconstruction and pose estimation for human motion analysis	2010	-7.422930329654331	-11.836070297056766	3771350
+3772949	Vision	dynamical optical flow of saliency maps for predicting visual attention	2016	-7.878666782951868	-12.65720143348833	3772976
+3780134	Vision	mobile voronoi diagrams for traffic monitoring under bad visibility conditions	2011	-7.905483974360541	-12.541128754954064	3780161
+3781402	Vision	reducing drift in differential tracking	2008	-7.5148063879467095	-12.213926680321146	3781429
+3783173	Vision	relative camera refinement for accurate dense reconstruction	2017	-7.912177798221037	-11.747680850177186	3783200
+3784027	Vision	digital image stabilization based on circular block matching	2006	-8.184438212823428	-12.525558578958368	3784054
+3785521	Graphics	decimation of human face model for real-time animation in intelligent multimedia systems	2009	-7.590185980687545	-12.02564639941005	3785548
+3789226	Vision	a novel approach of 3d reconstruction of human face using monocular camera	2005	-7.9564449038402705	-12.130976066095815	3789253
+3789674	Robotics	generatinga 3d hand model from frontal color and range scans	2015	-7.2662550685100875	-12.640782142401932	3789701
+3790120	Vision	meshflow: minimum latency online video stabilization	2016	-7.516320988172574	-12.021322699452279	3790147
+3791679	Vision	a general dense image matching framework combining direct and feature-based costs	2013	-7.727587472095776	-12.554940117643808	3791706
+3793354	AI	adaptive iterative closest keypoint	2013	-7.480231087871461	-12.344439760044908	3793381
+3794161	Vision	measuring camera translation by the dominant apical angle	2008	-7.911328162424053	-12.288792116996136	3794188
+3794547	Vision	scalable 3d tracking of multiple interacting objects	2014	-7.368284884685591	-12.473223466956869	3794574
+3797937	Vision	human motion from active contours	2000	-7.5826936320462135	-12.478043190189943	3797964
+3799955	Vision	video motion capture using feature tracking and skeleton reconstruction	1999	-7.314079116010287	-12.395027983546793	3799982
+3802042	Robotics	point cloud partitioning approach for icp improvement	2015	-8.119970174093062	-11.887701682479547	3802069
+3803163	Robotics	voting-based pose estimation for robotic assembly using a 3d sensor	2012	-7.486168904020452	-12.200646111285453	3803190
+3805130	Robotics	recovering camera motion from points and lines in stereo images: a recursive model-less approach using trifocal tensors	2017	-7.921937626033458	-11.787298740365332	3805157
+3808505	Vision	online environment mapping	2011	-7.76763195267034	-12.163980216554025	3808532
+3813747	Vision	3d structure and motion estimation from 2d image sequences	1992	-8.163095129736739	-12.094797690764949	3813774
+3815914	Robotics	accurate quadrifocal tracking for robust 3d visual odometry	2007	-7.940482667979579	-12.167081798790807	3815941
+3820039	Vision	visual direction estimation from a monocular image	2005	-7.849122961353871	-12.29321718702842	3820066
+3820139	Vision	robust and practical depth map fusion for time-of-flight cameras	2017	-8.01772331019183	-11.764868099116304	3820166
+3825021	Vision	detecting incorrect feature tracking by affine space fitting	2009	-7.818871835401838	-12.565672978358144	3825048
+3832078	Vision	3-d head pose estimation for monocular image	2005	-7.770554889715389	-11.959087993544124	3832105
+3833295	Vision	part segmentation of visual hull for 3d human pose estimation	2013	-7.298815664412715	-12.255242363572373	3833322
+3833373	Vision	articulated joint estimation from motion using two monocular images	2003	-7.906368829225024	-12.072874598743315	3833400
+3835599	Vision	model-based face tracking for dense motion field estimation	2001	-7.746826695147389	-12.344403971524956	3835626
+3835884	Vision	recovering field of view lines by using projective invariants	2004	-8.066051714996282	-12.245350791160153	3835911
+3842380	Vision	preemptive ransac for live structure and motion estimation	2003	-7.37255082645136	-11.863099671702313	3842407
+3845994	Robotics	constraint-based correspondence matching for stereo-based interactive robotic massage machine	2013	-8.121098969125185	-12.012985093116301	3846021
+3846590	Vision	automatic registration of virtual objects onto human image sequences	2000	-7.793383767169617	-11.782656274345978	3846617
+3847007	Vision	robust and efficient feature tracking for indoor navigation	2009	-7.7015180963146035	-11.959328730063374	3847034
+3847676	Vision	an analytic solution for the pose determination of human faces from a monocular image	1998	-7.624309558140363	-11.743971323225072	3847703
+3848028	ML	recognition and location by parallel pose clustering	1995	-7.707268627217121	-12.088952656295971	3848055
+3848276	Vision	interactive learning for point-cloud motion segmentation	2013	-7.267592852087603	-12.619873482959125	3848303
+3848986	Vision	mods: fast and robust method for two-view matching	2015	-8.073713191797808	-12.610737653856182	3849013
+3852076	Vision	a numerical approach for tracking unknown number of individual targets in videos	2016	-7.2970552888065505	-12.410090373449217	3852103
+3854327	Robotics	a novel algorithm for planar extracting of 3d point clouds	2016	-7.906771414606456	-12.591864307485476	3854354
+3855553	Vision	real-time plane segmentation and obstacle detection of 3d point clouds for indoor scenes	2012	-7.548902531659277	-12.417190690269788	3855580
+3855850	Vision	real-time video fusion based on multistage hashing and hybrid transformation with depth adjustment	2015	-7.489732209107971	-12.62456296279514	3855877
+3856104	Vision	mapping and localization from planar markers	2018	-8.056490755724335	-12.441952370646431	3856131
+3856584	Robotics	integration of range images in a multi-view stereo system	2004	-8.104572580178361	-12.681938518094535	3856611
+3857333	Vision	robust estimation of camera translation between two images using a camera with a 3d orientation sensor	2002	-7.948910038119866	-12.102891336011524	3857360
+3860726	Vision	robust video stabilization using particle keypoint update and l1-optimized camera path	2017	-7.365253779640497	-12.412361281567348	3860753
+3860926	Vision	improving real-time human pose estimation from multi-view video	2014	-7.379740642008039	-11.892572820234456	3860953
+3863259	ML	reliable determination of object pose from line features by hypothesis testing	1999	-7.579754879900412	-12.565813615150097	3863286
+3863569	Graphics	learning a model of facial shape and expression from 4d scans	2017	-7.878405448930134	-11.778715887994027	3863596
+3867961	Vision	rapid triangle matching based on binary descriptors	2017	-7.967866871593896	-12.558594079967673	3867988
+3869080	Robotics	planar segment based three-dimensional point cloud registration in outdoor environments	2013	-7.532719544496032	-11.798216711815623	3869107
+3872490	Vision	estimating articulated human motion with covariance scaled sampling	2003	-7.234362402991536	-12.305151954540502	3872517
+3872847	Robotics	joint representation of primitive and non-primitive objects for 3d vision	2018	-8.099253173487899	-12.277749383602867	3872874
+3875459	Visualization	line structure-based indoor and outdoor integration using backpacked and tls point cloud data	2018	-7.881173385569729	-11.834890021711596	3875486
+3875862	Vision	monocular human motion tracking	2004	-7.474158008144599	-12.36218107199188	3875889
+3877613	Robotics	silhouette measurements for bayesian object tracking in noisy point clouds	2013	-7.7132277586842415	-12.324006016468168	3877640
+3879869	Vision	reconstructing sequential patterns without knowing image correspondences	2012	-7.875179311397544	-12.611113956028351	3879896
+3880366	Vision	acquisition of articulated human body models using multiple cameras	2006	-7.353197314993037	-12.393426238808267	3880393
+3880493	Vision	relationship between max stereo angle and number of views in multi-view stereo acquisition/display system	2012	-7.7291498277680795	-12.492365058175453	3880520
+3881257	Robotics	hierarchical topology based hand pose estimation from a single depth image	2017	-7.241736148309138	-12.200341641679902	3881284
+3884048	Vision	using multiple cues for hand tracking and model refinement	2003	-7.316232784747182	-12.395865723604816	3884075
+3886873	Vision	an affine motion model for removing rolling shutter distortions	2016	-7.916624859996035	-12.622005602985055	3886900
+3887241	Vision	3d head pose estimation with symmetry based illumination model in low resolution video	2004	-8.043454883358324	-12.339161289511026	3887268
+3889322	Vision	compact descriptor for video sequence matching in the context of large scale 3d reconstruction	2012	-8.101509737212888	-12.28741687578682	3889349
+3890440	Robotics	identifying physical properties of deformable objects by using particle filters	2008	-7.5884201878188815	-11.7349145839078	3890467
+3891234	Vision	single image depth estimation from predicted semantic labels	2010	-7.339485390897355	-12.447097318162255	3891261
+3894783	Vision	a new global motion estimation algorithm and its application to retrieval in sports events	2001	-7.459773892377644	-12.519521197340364	3894810
+3895142	Vision	distortion-robust spherical camera motion estimation via dense optical flow	2018	-8.013048496767883	-11.895787480533546	3895169
+3895576	Robotics	line-based monocular graph slam	2017	-8.185234407108254	-11.822553972687562	3895603
+3895853	Robotics	dense 3d slam in dynamic scenes using kinect	2015	-7.531054735143603	-11.808706955188782	3895880
+3896440	Vision	articulated and restricted motion subspaces and their signatures	2013	-8.107512941251866	-12.450536433637302	3896467
+3896912	Vision	semantic photometric bundle adjustment on natural sequences	2017	-8.066173145079707	-11.995055094564192	3896939
+3897204	Vision	incorporating symmetry into the lucas-kanade framework	2009	-7.644980455255716	-12.226844335036676	3897231
+3897525	Robotics	pose estimation of a 2d articulated object from its silhouette using a ga	2000	-7.250352484697785	-12.380941928562802	3897552
+3898655	Vision	tracking a dynamic set of feature points	1995	-7.359032931200741	-12.479734469169346	3898682
+3900746	Vision	using specular highlights as pose invariant features for 2d-3d pose estimation	2011	-7.472444813559942	-12.539699411306207	3900773
+3903958	Robotics	multistage sfm: revisiting incremental structure from motion	2014	-8.061674999891704	-12.422945516531565	3903985
+3904205	Vision	simultaneous recognition and relative pose estimation of 3d objects using 4d orthonormal moments	2017	-8.129713782480664	-12.438119690792869	3904232
+3904273	Vision	hierarchical structure-and-motion recovery from uncalibrated images	2015	-8.08054008674851	-12.233902448719126	3904300
+3904928	Robotics	on-line convex optimization based solution for mapping in vslam	2008	-7.9567257255222	-11.871855024536721	3904955
+3909486	Vision	mimicking video: real-time morphable 3d model fitting	2003	-7.403288649461504	-12.279740921438478	3909513
+3910548	Vision	imapper: interaction-guided joint scene and human motion mapping from monocular videos	2018	-7.249019181806148	-12.181153921273165	3910575
+3913890	Vision	a framework for an accurate point cloud based registration of full 3d human body scans	2017	-7.415812948713322	-12.429879944305158	3913917
+3914223	Vision	geo-registering 3d point clouds to 2d maps with scan matching and the hough transform	2013	-8.150707097104442	-12.674353557371356	3914250
+3916801	Vision	synchronizing video sequences from temporal epipolar lines analysis	2008	-8.023358589237018	-12.224232361864159	3916828
+3917917	Vision	auto-calibration of pan-tilt cameras including radial distortion and zoom	2012	-8.091708938699622	-11.837943892768848	3917944
+3918760	Vision	aspect graph construction with noisy feature detectors	2003	-7.6198594472154575	-11.968856616245565	3918787
+3923273	Robotics	filtering in a unit quaternion space for model-based object tracking	1999	-7.65432940708479	-12.022939266185617	3923300
+3924802	Vision	automatic geometric reasoning in structure and motion estimatio	2000	-7.955452000643607	-12.270191125862565	3924829
+3926391	Robotics	3d model estimation using a single rgb-d image	2012	-7.746706214518143	-12.325803842107902	3926418
+3928537	Visualization	real-time recognition and tracking for augmented reality books	2011	-7.319590343161111	-11.734829624699554	3928564
+3930604	ML	occlusion detection and motion estimation with convex optimization	2010	-8.1468745400299	-12.64122504523383	3930631
+3931326	Vision	near-recursive optical flow from weighted image differences	2005	-8.140183660750031	-12.517551667440047	3931353
+3932090	Vision	scene flow by tracking in intensity and depth data	2012	-7.335217542029545	-12.222926816408114	3932117
+3934066	Robotics	fast and accurate object tracking by succesive learning of lifting wavelet filters	2004	-7.600614656052157	-12.508168114096858	3934093
+3934346	Robotics	modelling the optical-flow with projective-transform approximation for large camera movements	2014	-7.8052345358667985	-12.625195196354834	3934373
+3935209	Vision	high-precision localization of circular landmarks in aerial images	1995	-8.065007772700843	-12.039564037679074	3935236
+3936599	Vision	probabilistic egomotion from a statistical framework	2007	-7.914460826405237	-12.506823740550034	3936626
+3940542	Vision	a novel clique formulation for the visual feature matching problem	2015	-7.753571015989798	-12.30054972660716	3940569
+3942467	EDA	sparse3d: a new global model for matching sparse rgb-d dataset with small inter-frame overlap	2018	-7.640419053665878	-12.496666186301304	3942494
+3942620	Robotics	cell detection and tracking for micromanipulation vision system of cell-operation robot	2000	-7.602727899311948	-11.956329120163364	3942647
+3943119	Vision	color stereo vision: use of appearance constraint and epipolar geometry for feature matching	1995	-8.06021431681649	-12.261783807599322	3943146
+3944396	AI	a simple sample consensus algorithm to find multiple models	2009	-7.606442626853883	-11.757716754245626	3944423
+3944751	Vision	estimation of multiple motions by block matching	2003	-7.977896898661128	-12.47804214225489	3944778
+3945282	Robotics	large-scale loop-closing with pictorial matching	2006	-7.82636445317438	-11.859815342775802	3945309
+3945345	Robotics	partial views matching using a method based on principal components	2004	-7.827826625910583	-12.661431629041168	3945372
+3949881	Vision	dealing with multiple motions in optical flow estimation	2005	-7.270401836429246	-12.556555103728574	3949908
+3951575	Vision	model-based estimation of 3d human motion with occlusion based on active multi-viewpoint selection	1996	-7.515487977718093	-11.984891855561356	3951602
+3952812	Vision	model-based tracking of self-occluding articulated objects	1995	-7.2890145335101675	-11.760000360927329	3952839
+3952962	Vision	estimating camera parameters from motion vectors of digital video	1998	-7.981273485500853	-12.515235557549085	3952989
+3956691	Vision	human animation from 2d correspondence based on motion trend prediction	2006	-7.610112054397598	-12.323592414233591	3956718
+3957996	Vision	a novel reconstruction and tracking of 3d-articulated human body from 2d point correspondences of a monocular image sequence	2011	-7.554977623794419	-12.04890452709174	3958023
+3964889	Vision	a hierarchical framework for high resolution facial expression tracking	2004	-8.178092840246093	-12.373565463439816	3964916
+3971396	Vision	region based user-generated human body scan registration	2018	-7.365182626717227	-12.406509298319698	3971423
+3973775	Vision	frame-level temporal calibration of unsynchronized cameras by using longest consecutive common subsequence	2009	-7.688053736587628	-12.176180579845687	3973802
+3976602	Visualization	spatiotemporal sampling of dynamic environment sequences	2011	-7.4347778464575	-12.40160667827017	3976629
+3977443	Robotics	feature detection and matching in images with radial distortion	2010	-7.8328964027747725	-12.552590435440248	3977470
+3979864	Vision	on the recognition of parameterized 2d objects	1989	-8.192453395798843	-12.50139526120306	3979891
+3979944	Vision	independent motion: the importance of history	1999	-7.76026869998296	-12.488050630475273	3979971
+3981370	Robotics	recovering correct reconstructions from indistinguishable geometry	2014	-7.860455270874628	-12.509298952823515	3981397
+3983496	Vision	a flexible method for time-of-flight camera calibration using random forest	2018	-7.5372460253100595	-11.880356374063506	3983523
+3984295	Vision	refinement of human silhouette segmentation in omni-directional indoor videos	2014	-7.620162546794245	-12.102794957788207	3984322
+3987582	Vision	efficient and robust algorithms for sparse 3-d reconstruction from image sequences	2011	-8.008195557873645	-11.885413444363833	3987609
+3988711	Robotics	color point cloud registration with 4d icp algorithm	2011	-8.178736097956264	-12.649756226869357	3988738
+3993940	Vision	3d object localisation from multi-view image detections	2018	-7.948888561709778	-12.296657521830829	3993967
+3995506	Robotics	planar polygon extraction and merging from depth images	2012	-7.585115480474557	-12.210877198648953	3995533
+4003761	Vision	a noniterative greedy algorithm for multiframe point correspondence	2005	-7.373975845512312	-12.550661417411273	4003788
+4007281	Robotics	enhancing real-time full 3d reconstruction of humans with pre-scanned meshes	2016	-7.751831299471972	-11.773150503461931	4007308
+4009431	Vision	binocular motion stereo using map estimation	1993	-8.030083555561786	-12.252027778673046	4009458
+4009529	Vision	monocular pose reconstruction for an augmented reality clothing system	2011	-7.77209746162138	-11.821280509186256	4009556
+4011576	Robotics	real-time feature matching using adaptive and spatially distributed classification trees	2006	-7.330289035631143	-12.65981847117312	4011603
+4011871	Vision	human motion tracking based on markov random field and hopfield neural network	2006	-7.231158391551433	-12.395154245048325	4011898
+4012167	Vision	near-recursive optical flow from disturbance fields	2002	-7.767646013744031	-12.335606357682671	4012194
+4014022	Vision	egomotion estimation of a multicamera system through line correspondence	1997	-7.76747951719139	-12.249300542059471	4014049
+4014723	Vision	robust estimation of depth and motion using stochastic approximation	2001	-7.899122091245481	-12.041949148355794	4014750
+4015332	Robotics	filling missing parts of a 3d mesh by fusion of incomplete 3d data	2017	-8.184760249507358	-12.423940805499337	4015359
+4016102	Vision	scanning face models with desktop cameras	2001	-7.650164734102646	-11.972435044303689	4016129
+4016468	Robotics	pose estimation of textureless objects in cluttered environments	2015	-7.269995147672168	-11.783642603186236	4016495
+4017403	Vision	determining an initial image pair for fixing the scale of a 3d reconstruction from an image sequence	2006	-8.127778927880579	-12.224508162360742	4017430
+4018322	Robotics	detecting human patterns in laser range data	2012	-8.085596261879951	-12.217476622527672	4018349
+4018350	Vision	video registration using dynamic textures	2011	-7.859671123525135	-12.339072792173027	4018377
+4021421	Robotics	pylon grid: a fast method for human head detection in range images	2013	-7.820108810526607	-12.138975561692266	4021448
+4023208	Vision	line-based structure from motion for urban environments	2006	-8.164187381565663	-11.76481371342816	4023235
+4023293	Vision	approximated overlap error for the evaluation of feature descriptors on 3d scenes	2013	-7.689554445919988	-12.674958833924284	4023320
+4023406	Vision	spatio-temporal alignment of sequences	2002	-7.5085315464756786	-12.147366312963488	4023433
+4024289	Vision	model-based object tracking in cluttered scenes with occlusions	1997	-7.696070076129271	-12.407880750692811	4024316
+4026848	Vision	deformable and articulated 3d reconstruction from monocular video sequences	2012	-7.318474244823752	-12.555132920822272	4026875
+4026887	Robotics	depth gradient image based on silhouette - a solution for reconstruction of scenes in 3d environments	2006	-7.932712394391872	-12.481801898369493	4026914
+4028891	Vision	towards a low cost multi-camera marker based human motion capture system	2009	-7.276968712889353	-12.009199805758374	4028918
+4030712	Vision	human face structure estimation from multiple images using the 2d affine space	1998	-8.1819464371387	-12.615489473966568	4030739
+4031297	Vision	image-based localization using hybrid feature correspondences	2007	-8.00904289100135	-12.326269590648325	4031324
+4033124	Robotics	linear slam: linearising the slam problems using submap joining	2018	-8.134775897645007	-11.933565642983165	4033151
+4033825	Vision	correcting for duplicate scene structure in sparse 3d reconstruction	2014	-7.773538897376058	-12.029224413889521	4033852
+4034837	AI	improved global motion estimation via motion vector clustering for video stabilization	2016	-7.953461153633914	-12.453983888189995	4034864
+4037981	Vision	view-based robot localization using spherical harmonics: concept and first experimental results	2007	-7.524948875759146	-12.604610430776141	4038008
+4040676	Vision	video completion for indoor scenes	2006	-8.0982711563503	-11.999067265650554	4040703
+4042152	Vision	active acquisition of 3d shape for moving objects	1996	-7.993253299949452	-11.903652417492024	4042179
+4043603	Graphics	automatic estimation of skeletal motion from optical motion capture data	2008	-7.276873575917146	-11.888611170673014	4043630
+4045807	Vision	polyhedral object detection and pose estimation for augmented reality applications	2002	-7.512768418949554	-12.095993175972865	4045834
+4048001	Visualization	context-aware computer aided inbetweening	2018	-7.7895694882925985	-12.408876574096091	4048028
+4048101	Robotics	automatic inter-image homography estimation from person detections	2010	-7.673856695401169	-11.756727288081253	4048128
+4048290	Vision	automatic pose estimation of uncalibrated multi-view images based on a planar object with a predefined contour model	2016	-7.501550750159874	-12.253966382728171	4048317
+4049664	Vision	modeling large-scale indoor scenes with rigid fragments using rgb-d cameras	2017	-8.168886009588691	-12.290916279381785	4049691
+4050371	Vision	non-iterative approach for fast and accurate vanishing point detection	2009	-7.574102582279487	-12.501382387243302	4050398
+4051884	Vision	contour-based motion estimation and object tracking for real-time applications	2001	-7.286155304665278	-12.527810760610173	4051911
+4054342	Vision	efficient and robust model fitting with unknown noise scale	2013	-8.110971038165415	-12.652341225701127	4054369
+4054568	Vision	recursive affine structure and motion from image sequences	1994	-8.112061927700976	-12.3447355181131	4054595
+4054844	Vision	automatic feature point extraction and tracking in image sequences for arbitrary camera motion	1995	-7.886902582261639	-11.934276417696942	4054871
+4058537	Vision	real-time video processing for multi-object chromatic tracking.	2008	-7.609255494588213	-11.8937778021488	4058564
+4059201	Vision	reconstruction of dynamic articulated 3d models from range scans	2009	-7.816243303745128	-12.267713434645419	4059228
+4064456	Robotics	adaptive spatio-temporal filter for low-cost camera depth maps	2012	-7.580907667012912	-12.292961504145064	4064483
+4065940	Vision	a factorization-based approach for articulated nonrigid shape, motion and kinematic chain recovery from video	2008	-7.344650549109414	-12.570518733456211	4065967
+4068852	Vision	robust human body shape and pose tracking	2013	-7.40370988317322	-12.493109062531754	4068879
+4073580	Vision	robust underwater image stitching based on graph matching	2017	-7.956951094310264	-12.249101169393462	4073607
+4074151	Vision	recursive 3d scene estimation with multiple camera pairs	2017	-8.043245150701015	-11.741581029542749	4074178
+4074567	Vision	line3d: efficient 3d scene abstraction for the built environment	2015	-7.8484347121822955	-12.294178638320293	4074594
+4074624	Vision	determining three-dimensional motion and structure from optical flow generated by several moving objects	1985	-8.109943573548987	-12.339386573888351	4074651
+4077407	Vision	color supported generalized-icp	2014	-7.9501468712048675	-12.353831205420274	4077434
+4082075	Vision	accurate pose estimation of a hand-held rgbd camera based on sub-volume matching for 3d modeling	2018	-7.906105258905263	-11.880467622368448	4082102
+4082565	Vision	uncertainty quantification of lucas kanade feature track and application to visual odometry	2017	-7.910664181746157	-11.999266059283734	4082592
+4090836	Vision	incorrect feature tracking detection by affine space fitting	2009	-7.893282450542112	-12.560606817564143	4090863
+4091976	Vision	a semi-direct approach to structure from motion	2003	-7.419743049830191	-12.458249102791324	4092003
+4094007	Vision	detecting moving objects	1990	-8.052848413434798	-11.784004524272705	4094034
+4094641	Vision	3d articulated models and multi-view tracking with silhouettes	1999	-7.41410289543384	-12.101821223530536	4094668
+4096221	Robotics	a scan matching method using euclidean invariant signature for global localization and map building	2004	-7.782832344540285	-11.913660142894305	4096248
+4097297	Vision	integration of tracked and recognized features for locally and globally robust structure from motion	2008	-7.635820632055942	-11.738241982294467	4097324
+4097708	Robotics	real-time plane segmentation for scene understanding in robot navigation	2017	-7.5782536644043645	-12.584569708939952	4097735
+4097754	Robotics	efficient global scan matching using saliency-based scan point resampling	2005	-7.470367687365235	-12.286165503615141	4097781
+4098526	ML	the role of prior in image based 3d modeling: a survey	2016	-7.518340639693736	-12.567676337295834	4098553
+4101208	Vision	optical flow estimation with confidence measures for super-resolution based on recursive robust total least squares	2012	-7.881028652373852	-12.657131497994405	4101235
+4101282	Robotics	model-based optical flow for large displacements and homogeneous regions	2013	-7.4664131408099745	-11.796186939494893	4101309
+4102738	Vision	fast outlier rejection by using parallax-based rigidity constraint for epipolar geometry estimation	2006	-7.671821157095554	-11.963343588104332	4102765

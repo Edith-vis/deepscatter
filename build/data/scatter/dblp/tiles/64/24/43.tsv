@@ -1,0 +1,124 @@
+id	area	title	year	x	y	ix
+3785806	EDA	a technology mapping algorithm for cpld architectures	2002	-6.63668400511109	10.828666733398096	3785833
+3786635	EDA	explorer: an interactive floorplanner for design space exploration	1996	-6.782714022020753	11.095700285026515	3786662
+3795391	EDA	optimal design of a cmos op-amp via geometric programming	2001	-6.639564071115737	10.798262620217876	3795418
+3796703	AI	logic synthesis for pal-based cpld-s based on two-stage decomposition	2007	-6.757177436988669	10.39407858395737	3796730
+3803236	EDA	minimum fault coverage in reconfigurable arrays	1988	-6.645641713988026	11.18237973623057	3803263
+3805932	EDA	retiming synchronous circuitry	1991	-6.982019755320304	11.12470825825669	3805959
+3808442	Theory	single- and double-output embedded checker architectures for systematic unordered codes	2005	-6.346690240503702	10.487265769075757	3808469
+3810123	EDA	design of computer circuits using linear programming techniques	1962	-6.280928242304587	10.879468650967588	3810150
+3814172	AI	fixed-outline floorplanning through better local search	2001	-7.1436392067518115	10.737864755718725	3814199
+3814529	Embedded	an algorithm for optimal nand cascade logic synthesis	1978	-6.74797737032033	11.158974675035713	3814556
+3815245	EDA	a cache-based method for accelerating switch-level simulation	1994	-6.282847254882885	11.081655470631974	3815272
+3815660	EDA	graph matching-based algorithms for fpga segmentation design	1998	-7.053467111703062	10.984097659323478	3815687
+3815840	EDA	universal test set generation for cmos circuits	1995	-6.5508388273302165	10.441603245725046	3815867
+3829986	EDA	finding the longest simple path in cyclic combinational circuits	1998	-7.001336529808646	10.806090418121558	3830013
+3833090	EDA	design partitioning on single-chip emulation systems	2000	-6.853589133142075	10.953820920150386	3833117
+3834682	EDA	min-area retiming on dynamic circuit structures	2001	-6.671213482689954	10.921920402356546	3834709
+3835128	EDA	dynamic template matching with mixed-polarity toffoli gates	2015	-6.836732256664938	10.344941051771476	3835155
+3836895	EDA	a methodology for transistor-efficient supergate design	2007	-6.6589101194381515	10.977562550024032	3836922
+3838554	Arch	multi-way system partitioning into a single type or multiple types of fpgas	1995	-7.041925538707048	10.977453815352568	3838581
+3840733	EDA	synthesis of logic circuits based on negative differential resistance property	2011	-6.863236714348117	10.371399073081431	3840760
+3841804	EDA	fpga technology mapping with encoded libraries andstaged priority cuts	2009	-6.5650014208780245	11.217168435445595	3841831
+3843400	EDA	strategies for initial sizing and operating point analysis of analog circuits	2011	-6.366583337722743	10.702072135975255	3843427
+3854685	EDA	modeling bit multiplication blocks for dsp applications using vhdl.	1999	-6.360022147913494	10.954844292350456	3854712
+3855479	EDA	data dependent circuit design: a case study	2003	-6.413081362014434	10.461561421476626	3855506
+3856771	EDA	design of large alus using multiple pla macros	1980	-7.193440270370601	10.996713692187786	3856798
+3857118	Theory	a bijection between permutations and floorplans, and its applications	2006	-7.032469081697284	10.421110097745991	3857145
+3857249	EDA	multilevel factorization technique for pass transistor logic	1996	-6.590388119923412	10.35731435588635	3857276
+3857848	Robotics	magnetically controlled variable logic	1964	-6.8700965684068525	11.181223439042618	3857875
+3858370	EDA	an analytical approach to the partial scan problem	1990	-6.605953556544199	10.332613958486453	3858397
+3861719	EDA	circuit partitioning for huge logic emulation systems	1994	-6.452409053710178	10.949603813346426	3861746
+3863088	EDA	cellular automata-based recursive pseudoexhaustive test pattern generator	2001	-6.290519948803893	11.040491387656797	3863115
+3867682	EDA	hs: a hierarchical search package for cad data	1993	-6.639067601706036	10.512667423215447	3867709
+3868989	EDA	a hierarchical approach for incremental floorplan based on genetic algorithms	2005	-6.73377789685966	11.201625247442	3869016
+3869938	EDA	statistical constrained optimization of analog cmos circuits using empirical performance models	1994	-6.768565776493733	11.221549347827079	3869965
+3870465	EDA	partitioning and placement technique for bus-structured pwb	1983	-6.5641148208588085	10.781518946587202	3870492
+3870886	EDA	logical effort based technology mapping	2004	-6.425329463625045	11.10380864453535	3870913
+3873373	EDA	an interactive layout system of analog printed wiring boards	1979	-6.853557439724464	11.090680855637336	3873400
+3878888	AI	computation of lower and upper bounds for switching activity: a unified approach	1998	-6.3070383461672295	11.222040300110418	3878915
+3888746	EDA	plint layout system for vlsi chips	1985	-7.193852176644549	11.251473882405396	3888773
+3891231	EDA	grca: a global approach for floorplanning synthesis in vlsi macrocell design	1990	-7.085532902163309	11.251825965140505	3891258
+3892042	EDA	a stepwise refinement algorithm for integrated floorplanning, placement and routing of hierarchical designs	1995	-6.424196425606635	10.87796557282254	3892069
+3894981	EDA	module placement for analog layout using the sequence-pair representation	1999	-6.808319421278018	11.052706063980033	3895008
+3895099	EDA	analog layout retargeting with geometric programming and constrains symbolization method	2012	-6.586328095212225	10.810133136396527	3895126
+3895204	Arch	fuzzy gates interchangeability	2014	-7.1963250504122325	10.669048001627383	3895231
+3898059	EDA	an architecture-aware routing optimization via satisfiabilty for hierarchical fpga	2010	-6.4722131110133265	10.994767653495352	3898086
+3902183	EDA	logic synthesis for and-xor-or type sense-amplifying pla	2002	-6.911285434193176	11.17601323088423	3902210
+3902290	EDA	a certain sa solver tosa for global placement	2006	-6.644459295081055	10.447502403036731	3902317
+3902696	EDA	lower-bound estimation for multi-bitwidth scheduling	2005	-6.9455929411799575	11.023589798045814	3902723
+3903820	AI	current-mode threshold logic gates	2000	-7.108501351038438	11.197256682362768	3903847
+3904084	EDA	universal delay-insensitive systems with buffering lines	2005	-6.743478446815491	11.03830713935622	3904111
+3904895	EDA	linear programming for optimum hazard elimination in asynchronous circuits	1992	-6.935821560283058	11.235183462237094	3904922
+3910795	Robotics	network structure cascade for reversible logic	2007	-6.703140389202559	10.352214764477717	3910822
+3917615	Arch	systolic counters with unique zero state	2004	-6.703587921376088	10.427863370123102	3917642
+3918482	AI	the alternative bases of boolean functions as a means of improving the structure of digital blocks	2018	-6.82085676300404	10.327234871182704	3918509
+3918910	Theory	design of test sequences for vlsi self-testing using lfsr	1990	-6.6701614841584025	10.526215140797813	3918937
+3924899	Logic	binet: an algorithm for solving the binding problem	1994	-6.971712947719929	11.119756714092087	3924926
+3928323	EDA	iccad-2017 cad contest in net open location finder with obstacles: invited paper	2017	-7.13924813491807	11.186695787722583	3928350
+3930784	EDA	a template router	2011	-6.577391619262508	11.14983587058918	3930811
+3934549	Embedded	comparator with completion signal	1985	-6.6823391158876815	11.102960964497584	3934576
+3937531	EDA	free binary decision diagram-based synthesis of compact crossbars for in-memory computing	2018	-6.626234621365192	10.589219207605137	3937558
+3939542	Theory	testability of convergent tree circuits	1996	-6.451976740550487	10.542656864657424	3939569
+3939580	EDA	quadratic boolean programming for performance-driven system partitioning	1993	-6.814543228743753	10.554693196704175	3939607
+3941389	Embedded	survey of the algorithms in the column-matching bist method	2004	-6.5389931582896885	10.779274418111017	3941416
+3941587	EDA	automated layout synthesis in the yasc silicon compiler	1986	-6.926886986945697	11.284881757372869	3941614
+3944310	EDA	polytonic fault-free combinational circuits for alternate-data-retry	1987	-6.3280764637349005	10.663980836286632	3944337
+3947247	EDA	multiple constrained folding of programmable logic arrays: theory and applications	1983	-6.63726992380758	11.232714943827634	3947274
+3956200	EDA	partial scan with retiming	1993	-6.3305235937650295	11.283266238033507	3956227
+3959224	EDA	a scalable and efficient methodology to extract two node bridges from large industrial circuits	2000	-6.4159167311394585	11.128530482402498	3959251
+3959564	EDA	spare allocation and reconfiguration in large area vlsi	1988	-6.642944647655186	11.16871698517842	3959591
+3960059	EDA	universal logic modules for series-parallel functions	1996	-6.608704665893992	10.917558552961905	3960086
+3963440	EDA	direct search approach to integrated circuit sizing for high parametric yield	2011	-6.672705950914429	11.220584453931043	3963467
+3970040	EDA	sat-based area recovery in structural technology mapping	2018	-6.571587498576792	11.27704168665671	3970067
+3978269	EDA	transistor sizing using particle swarm optimisation	2015	-6.5329646841387365	10.952059954956882	3978296
+3979870	Embedded	low energy memory and register allocation using network flow	1997	-6.897381318823202	10.844839504922826	3979897
+3979923	EDA	scalable symbolic model order reduction	2008	-6.952349274068518	10.369732062454439	3979950
+3982755	EDA	circuit synthesis from fibonacci decision diagrams	2002	-6.638464794017372	10.398663544346222	3982782
+3984835	EDA	hierarchical characterization of analog integrated cmos circuits	1998	-6.488107737090992	10.933531493121741	3984862
+3986399	Theory	function extraction from arithmetic bit-level circuits	2014	-6.993792000637307	10.327387451147782	3986426
+3987633	PL	an efficient quantum circuits optimizing scheme compared with qiskit	2018	-6.932474501946483	10.93651215317283	3987660
+3992464	EDA	a fast spfd-based rewiring technique	2010	-6.506852406992978	10.690186055292509	3992491
+3995529	EDA	analysis of geometric and non-linear programming as optimization algorithms for low power vlsi circuits	2011	-6.635229544514448	11.204791100050976	3995556
+3998339	EDA	a parametric programming approach to automated integrated circuit design	2018	-6.669524652016836	10.992498372182698	3998366
+4001986	EDA	analog and digital fpga implementation of brin for optimization problems	2003	-6.26343144667297	10.614642268627067	4002013
+4004336	EDA	inversion coefficient optimization assisted analog circuit sizing tool	2017	-6.336618234211697	10.874212076148828	4004363
+4005096	EDA	state assignment based on two-dimensional placement and hypercube mapping	1997	-6.950845665729338	11.008073272867088	4005123
+4005518	PL	modular compactor of test responses	2006	-6.3154364748305705	10.894205352296057	4005545
+4013243	EDA	synthesis of fredkin-toffoli reversible networks	2005	-6.851227130748132	10.571999108608184	4013270
+4018034	EDA	extraction of two-node bridges from large industrial circuits	2004	-6.405057517302063	11.096862363285286	4018061
+4023539	EDA	exact one-pass synthesis of digital microfluidic biochips	2014	-6.5176729268142894	10.500270420926936	4023566
+4024762	EDA	function synthesis algorithm based on rtd-based three-variable universal logic gates	2017	-7.11832337456897	10.667375119892618	4024789
+4026859	EDA	gate matrix layout based on hierarchical net-list representations	1991	-6.572119517035272	10.407875679337225	4026886
+4027531	EDA	power optimization based on dual-logic using and-xor-inverter graph	2017	-6.5879173205451425	10.732295550828136	4027558
+4027972	EDA	template-based parasitic-aware optimization and retargeting of analog and rf integrated circuit layouts	2006	-6.592706241508116	10.959762932567546	4027999
+4030888	EDA	power distribution synthesis for vlsi	1998	-6.943894597994554	11.191747885286116	4030915
+4031701	EDA	top-down and bottom-up approaches to stable clock synthesis	2003	-6.466946649325374	10.538035242243769	4031728
+4035048	EDA	identification of critical paths in circuits with level-sensitive latches	1992	-7.042607353413922	11.264815553655922	4035075
+4035215	EDA	novel robust single layer wire crossing approach for exclusive or sum of products logic design with quantum-dot cellular automata	2014	-6.3057584794108426	10.733898562593774	4035242
+4039441	EDA	an integer linear programming approach for identifying instruction-set extensions	2005	-6.551565323882391	10.369788622517083	4039468
+4041490	EDA	a new optimizer for performance optimization of integrated circuits by device sizing	1993	-6.851542405246035	10.662455017073485	4041517
+4041949	EDA	assumes: heuristic algorithms for optimization of area and delay in digital filter synthesis	2006	-6.952741693179182	10.361767233268024	4041976
+4042465	EDA	multi-output majority gate-based design optimization by using evolutionary algorithm	2013	-6.4056602362343575	10.521788626085003	4042492
+4056581	EDA	synthesizing hybrid quantum circuits without ancilla qudits	2010	-7.100237574708864	10.474103526227065	4056608
+4056639	EDA	on the generation of system partitions for large-scale integration	1971	-6.400725945965055	10.589580581239472	4056666
+4059773	EDA	multi-objective optimization techniques for vlsi circuits	2011	-6.523502887378164	10.983057413371267	4059800
+4064289	EDA	implication logic synthesis methods for memristors	2012	-7.0815296056066295	10.51470580098952	4064316
+4064307	EDA	timing driven gate duplication: complexity issues and algorithms	2000	-6.48158474269277	11.02946115858365	4064334
+4064567	ML	partitioning using second-order information and stochastic-gain functions	1998	-7.214878143069695	10.9820914294791	4064594
+4067059	EDA	a design centering algorithm for nonconvex regions of acceptability	1982	-6.804115969714212	10.92151112875683	4067086
+4068561	EDA	retiming with non-zero clock skew, variable register, and interconnect delay	1994	-6.811953891126183	11.215312051359437	4068588
+4072233	EDA	on the synthesis of mvl functions for current-mode cmos circuits implementation	1992	-6.616577116740572	10.886499244947094	4072260
+4074316	EDA	graph algorithms for clock schedule optimization	1992	-6.386692777310556	10.747194815157943	4074343
+4074846	EDA	using decision diagrams to design ulms for fpgas	1998	-6.5190333820008775	10.777721875733626	4074873
+4077221	EDA	depth-optimized reversible circuit synthesis	2013	-6.649470577280898	10.587784903869123	4077248
+4078689	EDA	framework for parallel prefix adder synthesis considering switching activities	2009	-6.756932994927458	10.975540321870225	4078716
+4079790	EDA	sa based power efficient fpga lut mapping	2013	-6.4326004105184085	11.259668586043023	4079817
+4081091	EDA	performance-driven circuit partitioning for prototyping by using multiple fpga chips	1995	-6.756862240758253	11.20098087295465	4081118
+4082646	Security	partial order theory for fast tcam updates	2018	-6.4222998198338495	10.58675501939433	4082673
+4088386	EDA	efficient partitioning of components	1968	-6.639608701636765	10.936132212908198	4088413
+4091305	EDA	an efficient output phase assignment for pla minimization	1990	-6.418711221105415	10.686835807887146	4091332
+4091859	Theory	mapping from multiple-control toffoli circuits to linear nearest neighbor quantum circuits	2018	-7.011051985792915	10.45849933052247	4091886
+4095368	EDA	integer programming based topology selection of cell-level analog circuits	1995	-6.718300174303312	11.008626685351773	4095395
+4095964	EDA	genetic programming in fpga implementation of addition as a part of the convolution	2001	-6.6242703477775935	10.902437237139257	4095991
+4100728	EDA	theory of transmission switches and its application to design of cmos digital circuits	1992	-6.897045383849576	10.331129405233328	4100755

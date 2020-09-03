@@ -1,0 +1,516 @@
+id	area	title	year	x	y	ix
+3151777	EDA	research and implementation of dpa-resistant sms4 block cipher	2011	-5.143340985939712	15.894730266863807	3151804
+3151966	Crypto	electromagnetic analysis: concrete results	2001	-4.9798266788292205	15.419425720337172	3151993
+3157092	Embedded	design and arm-embedded implementation of a chaotic map-based real-time secure video communication system	2015	-5.2039680836758535	15.499528913510316	3157119
+3157116	EDA	multi-rounds masking method against dpa attacks	2011	-5.098368180072629	15.749062172794064	3157143
+3160481	Crypto	deciphering a linear congruential encryption	1985	-4.559131044740178	15.640807401032387	3160508
+3161357	Security	leakage assessment methodology - a clear roadmap for side-channel evaluations	2015	-4.511885388463061	15.667582782520402	3161384
+3163025	Crypto	fingerprint images encryption process based on a chaotic true random bits generator	2010	-4.335053969205383	15.561175792400384	3163052
+3163646	Security	memjam: a false dependency attack against constant-time crypto implementations	2018	-5.201907428557804	15.552313853757171	3163673
+3166203	EDA	design automation for obfuscated circuits with multiple viable functions	2017	-5.099743061172241	15.175598562687789	3166230
+3166724	Embedded	exp-he: a family of fast exponentiation algorithms resistant to spa, fault, and combined attacks	2015	-5.184504132673559	15.713291912566474	3166751
+3169583	EDA	embedded randomness and data dependencies design paradigm: advantages and challenges	2018	-5.138787097048863	15.198200434551012	3169610
+3169696	Crypto	side-channel attacks on threshold implementations using a glitch algebra	2016	-4.904323736400848	15.927036021404504	3169723
+3170377	Crypto	achieving side-channel high-order correlation immunity with leakage squeezing	2013	-4.567268482927593	16.068967138625318	3170404
+3171123	EDA	diversity within the rijndael design principles for resistance to differential power analysis	2016	-4.6381661211195215	16.04946625628516	3171150
+3172076	EDA	a first step towards automatic application of power analysis countermeasures	2011	-5.203637411434912	15.568144696687224	3172103
+3174951	Security	noise reduction in side channel attack using fourth-order cumulant	2007	-5.227561639934281	15.525962610210614	3174978
+3175136	Security	analyzing the fault injection sensitivity of secure embedded software	2017	-5.038042333721249	15.309433513774874	3175163
+3179270	Security	an operation-centered approach to fault detection in symmetric cryptography ciphers	2007	-4.967390977205736	15.92006474128192	3179297
+3179903	Security	template attacks on ecdsa	2008	-5.245472534245897	15.998004574148528	3179930
+3181626	Crypto	differential fault analysis of twofish	2012	-5.025231467051823	16.06603817928794	3181653
+3182601	Security	improved higher-order side-channel attacks with fpga experiments	2005	-4.918196793720792	15.748255715040331	3182628
+3186485	Security	hardware implementation and side-channel analysis of lapin	2014	-4.978210658910268	15.814827056389177	3186512
+3189114	EDA	precise instruction-level side channel profiling of embedded processors	2014	-5.081871236265276	15.356528734205403	3189141
+3196222	Security	em side-channel attacks on commercial contactless smartcards using low-cost equipment	2009	-5.1751427200474085	15.437803705376801	3196249
+3198602	Security	authenticated encryption for fpga bitstreams	2011	-5.092545105277476	15.178979786904074	3198629
+3201517	EDA	a combined power and fault analysis attack on protected grain family of stream ciphers	2017	-5.0519579226276745	15.674112739044194	3201544
+3202058	Crypto	cryptographic properties of nonlinear pseudorandom number generators	2008	-4.406627525812742	16.076253529870492	3202085
+3206281	EDA	pareto-optimal hardware for substitution boxes	2005	-4.650141158190979	15.534126976030526	3206308
+3206883	EDA	a secure scan chain test scheme exploiting retention loss of memristors	2017	-5.181817207766222	15.13016371319067	3206910
+3211575	Security	novel power trace processing methods for side-channel analysis of cryptosystems	2013	-4.859544184698726	15.657315404279759	3211602
+3215857	Security	construction of software-based digital physical clone resistant functions	2013	-5.119745072547671	15.407128701628249	3215884
+3217813	Arch	a chaos-based joint compression and encryption scheme for streaming data	2017	-4.535205301384114	15.514202027624052	3217840
+3218691	Security	statistical properties of side-channel and fault injection attacks using coding theory	2017	-4.846590077914943	15.904437112516515	3218718
+3219593	Crypto	collision-correlation attack against some 1st-order boolean masking schemes in the context of secure devices	2013	-4.801292360408	15.930138301114587	3219620
+3220629	Security	a java implemented key collision attack on the data encryption standard (des)	2003	-4.6027971760889885	15.946877016158593	3220656
+3221518	EDA	an efficient algorithm for dpa-resistent rsa	2006	-5.093520274901941	15.970695427073238	3221545
+3221715	Crypto	efficient 15, 360-bit rsa using woop-optimised montgomery arithmetic	2007	-4.346235650061954	16.012561008788474	3221742
+3230990	Robotics	s-box: l-l cascade chaotic map and line map	2015	-4.3440127578962615	15.834408695833382	3231017
+3237173	Crypto	power analysis based reverse engineering on the secret round function of block ciphers	2012	-4.747691072276205	15.990097246161351	3237200
+3239903	Logic	synthesis of fault-attack countermeasures for cryptographic circuits	2016	-5.111972632853112	15.210445076176395	3239930
+3241039	Crypto	protecting triple-des against dpa - a practical application of domain-oriented masking	2018	-5.147832060149487	15.628972281284671	3241066
+3241041	Crypto	information security applications of bit-mixers	2017	-4.993543742728175	15.71074975329707	3241068
+3246813	Crypto	modified clock-controlled alternating step generators	2009	-4.585183257857574	15.977807056856534	3246840
+3246969	Security	testing power-analysis attack susceptibility in register-transfer level designs	2007	-5.059638879584119	15.161025289348686	3246996
+3258516	Security	on comparing side-channel preprocessing techniques for attacking rfid devices	2009	-5.11443344545375	15.498658489261857	3258543
+3260573	ML	hidden markov model cryptanalysis	2003	-4.606055336485351	15.928378363190665	3260600
+3262656	Vision	concurrent error detection and correction in gaussian normal basis multiplier over gf(2^m)	2009	-5.142021993451767	15.914019080097358	3262683
+3262969	Mobile	one-dimensional nonlinear model for producing chaos	2018	-4.345214818355016	15.287201002039346	3262996
+3264457	Security	behind the scene of side channel attacks	2013	-4.599533138008536	15.29156055727316	3264484
+3267412	AI	ram: rapid alignment method	2011	-4.8795570995853765	15.562859252718527	3267439
+3267565	Crypto	improved em side-channel authentication using profile-based xor model	2017	-5.135552687513342	15.557723132494663	3267592
+3270005	Security	an implementation of key-based digital signal steganography	2001	-4.456740445480938	15.428767704779705	3270032
+3270032	Security	a chaos-based arithmetic logic unit and implications for obfuscation	2014	-5.091386035781851	15.251097197729207	3270059
+3271761	Security	fault injection, a fast moving target in evaluations	2011	-5.134548697699115	15.360377614272421	3271788
+3273909	Crypto	a simple linearisation of the self-shrinking generator	2015	-4.507525012870403	15.64491172442846	3273936
+3274965	Arch	cryptanalysis of a random number generator based on a double-scroll chaotic oscillator	2016	-4.371361274711576	15.436110971220515	3274992
+3275317	Security	trace-driven cache attacks on aes	2006	-4.77415396587715	15.773185525363331	3275344
+3277006	Security	on the approximation resiliency of logic locking and ic camouflaging schemes	2019	-5.008953765755728	15.258412287944985	3277033
+3279656	Crypto	a new simple technique to attack filter generators and related ciphers	2004	-4.583354361524095	16.066057947452062	3279683
+3279789	EDA	on physical obfuscation of cryptographic algorithms	2009	-5.223372949756022	15.30933764287651	3279816
+3281212	Security	breaking redundancy-based countermeasures with random faults and power side channel	2018	-5.123751838732376	15.440757150288725	3281239
+3283726	Security	constructive side-channel analysis and secure design	2012	-5.1986353411825315	15.37659671263716	3283753
+3284133	Arch	icetd: an improved tag generation design for memory data authentication in embedded processor systems	2017	-5.177664857606269	15.148991448996782	3284160
+3285125	EDA	research on a piecewise linear chaotic map and its cryptographical application	2007	-4.610075118431976	15.579965627327333	3285152
+3287148	Crypto	a methodology for the characterisation of leakages in combinatorial logic	2016	-4.753276582155237	15.754765381321835	3287175
+3287422	Crypto	a comparison of cryptanalytic principles based on iterative error-correction	1991	-4.527959110979668	15.966155390567438	3287449
+3287450	Security	design and optimization of the input modules of a dpa toolbox	2016	-4.925511380704358	15.44227897605267	3287477
+3289847	Theory	balanced shrinking generators	2002	-4.799286255600395	15.911379259451447	3289874
+3290313	Security	efficient template attacks	2013	-4.862996798378575	15.684987981050467	3290340
+3291956	Security	a novel differential scan attack on advanced dft structures	2013	-5.174293962837621	15.191744753528766	3291983
+3292087	EDA	evaluation of white-box and grey-box noekeon implementations in fpga	2010	-5.030667156996082	15.734441687229106	3292114
+3294824	Crypto	analysis and improvement of the random delay countermeasure of ches 2009	2010	-5.100244382470847	15.561618534823674	3294851
+3295029	Crypto	a first-order leak-free masking countermeasure	2012	-4.966793130069865	15.695845896167915	3295056
+3296838	Security	fpga side-channel receivers	2011	-5.291543064425687	15.47466626508932	3296865
+3302895	EDA	chaotic encoder-decoder on fpga for crypto system	2014	-4.764867866675119	15.522575792581973	3302922
+3303959	Security	differential fault attacks on deterministic lattice signatures	2018	-5.080301102831892	15.97218769222608	3303986
+3304795	EDA	configurable computing for high-security/high-performance ambient systems	2005	-5.155785628504594	15.320818501650775	3304822
+3305148	Crypto	towards efficient second-order power analysis	2004	-4.779011919109325	15.886188226895412	3305175
+3305759	Security	trng (true random number generator) method using visible spectrum for secure communication on 5g network	2018	-5.060266131119015	15.618131530350547	3305786
+3306467	Security	spread: a new layer for profiled deep-learning side-channel attacks	2018	-4.582802172769844	15.571449036005461	3306494
+3307824	EDA	design for secure test - a case study on pipelined advanced encryption standard	2007	-5.159844575943472	15.129766314547755	3307851
+3308275	Security	constructive side-channel analysis and secure design	2016	-5.295878404690262	15.506843049457558	3308302
+3308418	EDA	an inside job: remote power analysis attacks on fpgas	2018	-5.221944749436494	15.145322678838792	3308445
+3309286	Security	an improved trace driven instruction cache timing attack on rsa	2011	-5.097628290216323	15.814603231178033	3309313
+3309411	Security	a synthesis of side-channel attacks on elliptic curve cryptography in smart-cards	2013	-5.102532681853186	15.68324173716809	3309438
+3312243	Security	modeling attacks on physical unclonable functions	2010	-5.20999453485088	15.395330714991605	3312270
+3312798	Security	standardizing bad cryptographic practice: a teardown of the ieee standard for protecting electronic-design intellectual property	2017	-4.908418109632746	15.661962991170387	3312825
+3313090	Crypto	ecdh key-extraction via low-bandwidth electromagnetic attacks on pcs	2016	-5.082633237606203	15.631690282526632	3313117
+3320201	Security	side-channel information characterisation based on cascade-forward back-propagation neural network	2016	-4.8570043735324315	15.453623735286374	3320228
+3320536	Crypto	a cautionary note: side-channel leakage implications of deterministic signature schemes	2016	-4.686277558168982	16.058542038440212	3320563
+3321845	Crypto	on the importance of checking cryptographic protocols for faults (extended abstract).	1997	-4.862877895598102	16.031227718301597	3321872
+3331854	Theory	robust cryptographic ciphers with on-line statistical properties validation	2010	-5.180023029810228	15.398240187703465	3331881
+3332625	Security	robust codes and robust, fault-tolerant architectures of the advanced encryption standard	2007	-5.124708270394366	15.643107389174185	3332652
+3337098	Security	security analysis of logic encryption against the most effective side-channel attack: dpa	2015	-5.090905918767193	15.52521962742282	3337125
+3337577	Crypto	bitstream encryption and authentication using aes-gcm in dynamically reconfigurable systems	2008	-5.27215714378097	15.315944561311724	3337604
+3337747	Security	galois lfsr, embedded devices and side channel weaknesses	2006	-5.07123507035861	15.892332703271297	3337774
+3341233	Security	novel algorithmic countermeasures for differential power analysis attacks on smart cards	2010	-5.193516405067798	15.731344381977511	3341260
+3343829	Security	side-channel attack on substitution blocks	2003	-4.975660998138778	16.03905350745329	3343856
+3345820	Security	parti: towards combined hardware countermeasures against side-channeland fault-injection attacks	2016	-5.054855484004177	15.573500449308073	3345847
+3346806	Security	fault rate analysis: breaking masked aes hardware implementations efficiently	2013	-5.258855840055314	15.730320304705913	3346833
+3348449	Security	side-channel analysis of mac-keccak hardware implementations	2015	-5.157909243676574	15.786958496035096	3348476
+3349134	Security	fault attacks on the montgomery powering ladder	2010	-5.207853199669152	15.914502371875491	3349161
+3351334	Security	improved low-entropy masking scheme for led with mitigation against correlation-enhanced collision attacks	2017	-4.949873828941371	16.043193886524307	3351361
+3356474	Crypto	randomness analysis and generation of key-derived s-boxes	2016	-4.523318483121017	15.813189965457573	3356501
+3357513	EDA	spatial em jamming: a countermeasure against em analysis?	2010	-5.275179427906217	15.145960598745663	3357540
+3360370	EDA	a new zero value attack combined fault sensitivity analysis on masked aes	2016	-5.219528575876226	15.780104370447342	3360397
+3364033	Crypto	information theoretical analysis of side-channel attack	2013	-4.889063696941249	15.635321426713435	3364060
+3369252	Security	infective computation and dummy rounds: fault protection for block ciphers without check-before-output	2012	-5.006073301671767	15.771575691134643	3369279
+3374240	Crypto	investigations of power analysis attacks and countermeasures for aria	2006	-5.071080041618536	15.936903349138769	3374267
+3374550	NLP	highly accurate key extraction method for access-driven cache attacks using correlation coefficient	2013	-4.910137765981943	15.752963533995972	3374577
+3374966	Security	the secrets of profiling for side-channel analysis: feature selection matters	2017	-4.592696168138216	15.463074080902171	3374993
+3381891	DB	a student information management system based on fingerprint identification and data security transmission	2017	-4.3641681415271565	15.983037375555005	3381918
+3383485	Theory	random number generation using multi-mode chaotic attractor	2013	-5.034643870493097	15.29172600403041	3383512
+3384662	Crypto	a new differential fault attack on spn structure, with application to aes cipher	2011	-5.0179228117093135	15.93020145793129	3384689
+3388079	Security	a formal proof of countermeasures against fault injection attacks on crt-rsa	2013	-4.843202884411744	15.976720253025587	3388106
+3388740	Crypto	caes cryptosystem: advanced security tests and results.	2018	-4.6672943460333975	16.028447573369046	3388767
+3392060	Crypto	leak point locating in hardware implementations of higher-order masking schemes	2018	-5.095811615693026	15.975674539640755	3392087
+3392837	Security	circuit level defences against fault attacks in pipelined ncl circuits	2015	-5.274131935511469	15.391793370577913	3392864
+3396362	Crypto	new differential fault analysis on present	2013	-5.018225813660823	16.038777907313143	3396389
+3397145	Security	on the vulnerability of fpga bitstream encryption against power analysis attacks: extracting keys from xilinx virtex-ii fpgas	2011	-5.1148695154167365	15.182178799134018	3397172
+3399069	EDA	correlation-based electromagnetic analysis attack using haar wavelet reconstruction with low-pass filtering on an fpga implementaion of aes	2018	-5.125357116365163	15.651521686685758	3399096
+3403346	Crypto	a fault attack robust trng	2012	-5.1613639832038825	15.419028173435848	3403373
+3406874	Security	from improved leakage detection to the detection of points of interests in leakage traces	2015	-4.780191128306068	15.647537509761221	3406901
+3407678	EDA	modeling attacks on strong physical unclonable functions strengthened by random number and weak puf	2018	-5.211352609217559	15.932458247516402	3407705
+3409629	Embedded	temporal synchronization in video watermarking	2002	-4.570579044690729	15.657024283466685	3409656
+3411202	Security	circuit-based approaches to simpl systems	2011	-4.860424072189879	15.645911682744211	3411229
+3411232	Arch	a high-speed and long-period combined pseudo-random number generator	2009	-4.386775363204667	15.460430703111017	3411259
+3413464	Security	countermeasures against high-order fault-injection attacks on crt-rsa	2014	-4.923707811825897	15.92873942688798	3413491
+3415420	Crypto	higher-order glitches free implementation of the aes using secure multi-party computation	2011	-4.611838152644972	16.07110997410661	3415447
+3415704	Security	encoding the state of integrated circuits: a proactive and reactive protection against hardware trojans horses	2014	-5.070154747468803	15.171772243595846	3415731
+3421827	Crypto	fault based cryptanalysis of the advanced encryption standard	2002	-5.056932346690567	15.939880732764516	3421854
+3425647	Security	a framework for the analysis and evaluation of algebraic fault attacks on lightweight block ciphers	2016	-5.023559609041484	15.79969369724591	3425674
+3425830	Arch	cycle-accurate information assurance by proof-carrying based signal sensitivity tracing	2013	-5.10305235930555	15.18008889954597	3425857
+3426085	Security	a secure and practical crt-based rsa to resist side channel attacks	2004	-4.891274503293133	15.957592710727706	3426112
+3430926	Security	an operation-based metric for cpa resistance	2008	-4.9467848187831605	15.637495468759294	3430953
+3432235	Crypto	faster randomness testing with the nist statistical test suite	2014	-4.9244694006074665	15.797483948084366	3432262
+3434766	SE	a new difference method for side-channel analysis with high-dimensional leakage models	2012	-5.0861034370260825	15.691216814321358	3434793
+3436131	Mobile	block permutation cipher in chaos with feistel structure for wireless sensor networks	2011	-4.489522202398572	15.895825722599056	3436158
+3438582	Arch	key extraction from the primary side of a switched-mode power supply	2015	-5.173754719745827	15.41431595655418	3438609
+3440193	Arch	tantra: a fast prng algorithm and its implementation	2009	-4.720437369010747	15.21388469524434	3440220
+3441746	Logic	on layout randomization for arrays and functions	2013	-4.799933454955854	15.589474513487996	3441773
+3442832	Security	fpga trojans through detecting and weakening of cryptographic primitives	2014	-5.012433083420892	15.421086288125048	3442859
+3445781	Arch	the genetic algorithm for rng in the crypto module of ubiquitous computing environment	2007	-4.719368368708507	15.516312740246027	3445808
+3446960	Crypto	on the optimality and practicability of mutual information analysis in some scenarios	2017	-4.847456995290957	15.638828315311274	3446987
+3447102	Crypto	template attacks	2002	-4.998277402248647	15.658411515348927	3447129
+3447334	Security	special section on secure computer architectures	2018	-5.100345688999826	15.348026343494967	3447361
+3448394	EDA	successful attack on an fpga-based wddl des cryptoprocessor without place and route constraints	2009	-5.276821691077807	15.568935678177773	3448421
+3450134	Security	on the security of partially masked software implementations	2014	-4.656495951112858	15.923835675749539	3450161
+3451552	Crypto	improved algebraic side-channel attack on aes	2012	-4.878763943001948	16.013084433671438	3451579
+3452971	Security	experimental analysis of guess-and-determine attacks on clock-controlled stream ciphers	2005	-5.155657362634455	15.522992794938595	3452998
+3454601	Security	secure memories resistant to both random errors and fault injection attacks using nonlinear error correction codes	2013	-5.147129336417362	15.561366510805119	3454628
+3457601	Security	statistical meta-analysis of presentation attacks for secure multibiometric systems	2017	-4.6827136845256225	15.453763645984447	3457628
+3458978	Crypto	vliv nelinearity na vybraná kryptografická kritéria 8x8 s-boxů	2017	-5.113185831674701	15.552315854684124	3459005
+3459642	Embedded	a note on error detection in an rsa architecture by means of residue codes	2006	-4.832783657356225	15.633282275936525	3459669
+3461462	Security	enhancing passive side-channel attack resilience through schedulability analysis of data-dependency graphs	2013	-4.643234297731576	15.39383208332552	3461489
+3462120	EDA	cpa secured data-dependent delay-assignment methodology	2017	-5.209187595844728	15.494912332195824	3462147
+3463724	Security	implementation and comparative analysis of the fault attacks on aes	2013	-4.907834188135389	15.815281215589366	3463751
+3466628	Security	the gap between promise and reality: on the insecurity of xor arbiter pufs	2015	-5.218125070696309	15.373919444823782	3466655
+3471265	Logic	an apparatus for pseudo-deterministic testing	1995	-5.055280690309919	15.760073681929562	3471292
+3476508	EDA	low-cost and universal secure scan: a design- architecture for crypto chips	2006	-5.181876325519197	15.319296346682947	3476535
+3477288	Crypto	acceleration of differential fault analysis of the advanced encryption standard using single fault	2010	-4.951800860656349	15.723771992586247	3477315
+3479280	Crypto	a collision resistant deterministic random bit generator with fault attack detection possibilities	2014	-5.030523089063981	15.845521455386482	3479307
+3480173	EDA	a photonic-based random number generator for cryptographic application	2008	-5.243239340666581	15.389751344688046	3480200
+3481505	Crypto	design of tree filter algorithm for random number generator in crypto module	2005	-5.153158188811293	15.74719477543149	3481532
+3481748	Security	the switching generator: new clock-controlled generator with resistance against the algebraic and side channel attacks	2015	-4.902708070056758	15.914548611860102	3481775
+3482491	Robotics	a secure voice communication system based on dsp	2004	-4.5941746897410205	15.368437063355909	3482518
+3484456	Crypto	chaos-based information security	2010	-4.591244019039644	15.453909441765143	3484483
+3485173	Crypto	a different algebraic analysis of the zuc stream cipher	2011	-4.863239519779273	16.03418440065171	3485200
+3485767	Security	improving cross-device attacks using zero-mean unit-variance normalization	2012	-5.037292398828966	15.542051946450226	3485794
+3486818	Security	a practical fault attack on square and multiply	2008	-5.242400130321731	15.491133758428958	3486845
+3487370	Security	robust final-round cache-trace attacks against aes	2006	-4.846712015927878	15.735327823330225	3487397
+3487640	Crypto	a new pseudo-random generator based on gollmann cascades of baker-register-machines	2005	-4.682177257872661	15.830191312163516	3487667
+3490468	Security	5gen-c: multi-input functional encryption and program obfuscation for arithmetic circuits	2017	-5.150849480612846	16.066981194634966	3490495
+3494079	EDA	power variance analysis breaks a masked asic implementation of aes	2010	-5.251822766931436	15.307959308091304	3494106
+3494544	Crypto	probabilistic block cipher	2018	-4.687829731857288	16.056910975501804	3494571
+3496870	Security	early detection and analysis of leakage abuse vulnerabilities	2017	-4.562799393434238	15.839284744301338	3496897
+3496968	Mobile	bench-marking of traditional cryptographic algorithms and chaos-based algorithms with dna operations	2015	-5.022842969306842	15.802673067378226	3496995
+3504543	Security	mistakes are proof that you are trying: on verifying software encoding schemes' resistance to fault injection attacks	2016	-5.112898185179137	15.53391344631973	3504570
+3506351	Arch	power analysis of hardware implementations protected with secret sharing	2012	-4.901371896692217	15.894862767379552	3506378
+3506473	Crypto	improving the diffusion of the stream cipher salsa20 by employing a chaotic logistic map	2015	-4.408009096823072	15.999062706687555	3506500
+3508485	EDA	updates on the potential of clock-less logics to strengthen cryptographic circuits against side-channel attacks	2009	-5.163639585032099	15.42495744690434	3508512
+3512672	Crypto	statistical analysis of the chaos-driven elliptic curve pseudo-random number generators	2014	-4.4816819564495285	15.682153284958869	3512699
+3512812	Security	practical improvements of side-channel attacks on aes: feedback from the 2nd dpa contest	2014	-4.912391036649006	15.894269099539788	3512839
+3517025	EDA	secure scan-based design using blum blum shub algorithm	2016	-5.163887408459279	15.23401055940552	3517052
+3517438	Security	the use of physical unclonable functions for true random number sequences generation	2013	-5.003010200203229	15.476218384175372	3517465
+3518260	Crypto	affine equivalence and its application to tightening threshold implementations	2015	-4.938243197911961	15.92358973923548	3518287
+3519250	EDA	theoretical design and fpga-based implementation of higher-dimensional digital chaotic systems	2016	-4.61799888363274	15.315392072588734	3519277
+3519962	Graphics	implementation of symmetric encryption by state standard 28147–89 algorithm on a graphical processor	2016	-4.514471434577874	15.825691193188634	3519989
+3521222	Crypto	a study of lightweight block ciphers in tls: the case of speck	2016	-5.0852249462675365	16.061555833148592	3521249
+3523400	HCI	aaot: lightweight attestation and authentication of low-resource things in iot and cps	2018	-5.066959854310753	15.141135886843767	3523427
+3525412	Crypto	bounded, yet sufficient? how to determine whether limited side channel information enables key recovery	2014	-4.842415365307122	16.02309245609107	3525439
+3527389	Crypto	machine learning cryptanalysis of a quantum random number generator	2019	-4.8137055938990985	15.565329429742956	3527416
+3528203	EDA	electromagnetic analysis and fault injection onto secure circuits	2014	-4.898799279751073	15.37133986429732	3528230
+3530884	Theory	improvements for gate-hiding garbled circuits	2017	-4.971098620675998	15.825855557233519	3530911
+3532552	Security	the frequency injection attack on ring-oscillator-based true random number generators	2009	-5.230000855596165	15.3968698615906	3532579
+3534060	Security	the role of the fault model in dfa against aes	2014	-4.941002453374079	15.537799557767165	3534087
+3536135	Crypto	orthogonal direct sum masking: a smartcard friendly computation paradigm in a code, with builtin protection against side-channel and fault attacks	2014	-4.861191894047212	16.072962038875392	3536162
+3536921	Crypto	a simple power analysis attack on the twofish key schedule	2016	-4.593095351422923	16.025533701180425	3536948
+3540118	EDA	an efficient leakage characterization method for profiled power analysis attacks	2011	-4.858517940694943	15.627491033107676	3540145
+3544127	Security	combined attack on crt-rsa - why public verification must not be public?	2013	-5.065235323133508	15.842783183344611	3544154
+3546741	EDA	a study on the msnr cryptographic processor design appropriate for the rfid/usn environment	2011	-4.389996527894808	15.365136387710766	3546768
+3549178	Crypto	leak resistant arithmetic	2004	-5.0857296600718565	16.075091869630512	3549205
+3551003	Logic	power analysis by exploiting chosen message and internal collisions - vulnerability of checking mechanism for rsa-decryption	2005	-5.0136993626676745	15.927770347734981	3551030
+3555456	Crypto	crt rsa algorithm protected against fault attacks	2007	-5.0892742701241325	15.99547581012358	3555483
+3559861	Security	a statistics-based fundamental model for side-channel attack analysis	2014	-5.028821337599472	15.575458226514675	3559888
+3560527	EDA	obfuscation of fault secured dsp design through hybrid transformation	2018	-5.249647357171708	15.121033215455187	3560554
+3561380	Security	high-resolution side-channel attack using phase-based waveform matching	2006	-5.274899846223559	15.534435085976277	3561407
+3565048	EDA	poster: using improved singular value decomposition to enhance correlation power analysis	2015	-4.984310137520928	15.617089846591105	3565075
+3568068	EDA	design-for-secure-test for crypto cores	2009	-5.123526946707225	15.161473420714874	3568095
+3570609	Security	on second-order fault analysis resistance for crt-rsa implementations	2009	-4.730407895507366	16.021179555129535	3570636
+3570756	Security	poster: is active electromagnetic side-channel attack practical?	2017	-5.234550524247873	15.309772923412346	3570783
+3573532	Security	generic side-channel distinguishers: improvements and limitations	2011	-4.83061870977539	15.567734999373398	3573559
+3575120	Crypto	state space cryptanalysis of the mickey cipher	2013	-4.667954913089225	15.929655816528893	3575147
+3575577	Embedded	experimental evaluation of two software countermeasures against fault attacks	2014	-5.180751724341682	15.171898300310007	3575604
+3578602	Crypto	designing a side channel resistant random number generator	2010	-5.151791035011672	15.470528375468025	3578629
+3579875	Vision	a general formulation of algebraic and fast correlation attacks based on dedicated sample decimation	2006	-4.7167516363100175	15.94316411817186	3579902
+3580473	EDA	constant time encryption as a countermeasure against remote cache timing attacks	2012	-5.167609494256316	16.057220484579204	3580500
+3585804	Crypto	analysis of variance and cpa in sca	2014	-4.955113308488201	15.618867445436235	3585831
+3590973	Crypto	leakage bounds for gaussian side channels	2017	-4.901612069166021	15.792796802172	3591000
+3594234	Crypto	on significance of the least significant bits for differential privacy	2012	-4.572342358920301	15.856542852964106	3594261
+3595481	Crypto	ipa: a new class of power attacks	1999	-4.92539093834128	15.790563730206735	3595508
+3595563	EDA	a robust scan-based side-channel attack method against hmac-sha-256 circuits	2017	-5.192131380818172	15.3645991975995	3595590
+3595750	Crypto	on selection of optimal parameters for the wg stream cipher family	2013	-4.494676303978784	15.893569981213432	3595777
+3597386	EDA	early analysis of fault-based attack effects in secure circuits	2007	-5.016757356597905	15.234674507014727	3597413
+3601323	EDA	scan-based attack against trivium stream cipher independent of scan structure	2013	-5.178645406843243	15.703655339123975	3601350
+3602487	EDA	secure scan design using shift register equivalents against differential behavior attack	2011	-5.128808642777139	15.234186753410466	3602514
+3604811	Crypto	resistance of the point randomisation countermeasure for pairings against side-channel attack	2017	-4.978111164786407	16.001123089403148	3604838
+3605427	Security	an overview of side channel analysis attacks	2008	-4.82660639628712	15.500924931705114	3605454
+3607585	Security	fault injection attacks: attack methodologies, injection techniques and protection mechanisms - a tutorial	2016	-4.9849474453494835	15.210051862122347	3607612
+3607759	EDA	arithmetic logic units with high error detection rates to counteract fault attacks	2011	-5.231835519567902	15.349069786830322	3607786
+3608828	EDA	xfc: a framework for exploitable fault characterization in block ciphers	2017	-5.015596302891514	15.86281975341065	3608855
+3614435	Security	return of the hidden number problem. a widespread and novel key extraction attack on ecdsa and dsa	2019	-5.106229327159119	15.640711769367194	3614462
+3614598	Arch	side-channel countermeasure for sha-3 at almost-zero area overhead	2014	-5.2773598102215935	15.891054721876724	3614625
+3616762	Security	a structure-independent approach for fault detection hardware implementations of the advanced encryption standard	2007	-5.19514737308796	15.631237552558513	3616789
+3616845	Security	all-optical cryptographic device for secure communication	2010	-4.567237663960603	15.465030149931545	3616872
+3618089	EDA	improving random number generators by chaotic iterations application in data hiding	2010	-4.38103994027187	15.542158677903926	3618116
+3618748	Crypto	reconstructing the nonlinear filter function of lili-128 stream cipher based on complexity	2007	-4.679428628790023	15.657301808222	3618775
+3620450	Crypto	theoretical and practical aspects of mutual information based side channel analysis	2009	-4.412226493263142	15.827079978450305	3620477
+3620451	Security	asca, sasca and dpa with enumeration: which one beats the other and when?	2015	-4.6627021954672525	16.046746731777663	3620478
+3620871	Crypto	research on plaintext restoration of aes based on neural network	2018	-4.3461154297703635	15.970909695726455	3620898
+3621705	Arch	fase: finding amplitude-modulated side-channel emanations	2015	-5.165591440441165	15.200690484039528	3621732
+3621872	EDA	experimental investigation on impulsive synchronization of chaotic pn sequences based on fpga	2008	-5.152847429802317	15.389298906917126	3621899
+3622408	Crypto	secret external encodings do not prevent transient fault analysis	2007	-4.782187637224297	16.018421304772346	3622435
+3623696	Logic	differential fault analysis on the aria algorithm	2008	-4.7396462618468735	15.997859490200574	3623723
+3623701	Crypto	an architectural countermeasure against power analysis attacks for fsr-based stream ciphers	2012	-5.2600331684351564	15.358370768882727	3623728
+3624804	Theory	common defects in initialization of pseudorandom number generators	2007	-4.5070406023603535	15.570372721980913	3624831
+3628280	Crypto	from 5-pass mq -based identification to mq -based signatures	2016	-5.003245362601576	16.069147477651864	3628307
+3630596	Crypto	stochastic collision attack	2017	-4.80082326882109	15.950186580863841	3630623
+3631260	EDA	dual-rail active protection system against side-channel analysis in fpgas	2015	-5.207238942020296	15.14386001534717	3631287
+3633902	Crypto	fault attacks on aes with faulty ciphertexts only	2013	-5.010069592852809	15.878515539567148	3633929
+3636844	Crypto	the design and implementation of a 2048-bit rsa encryption/decryption chip.	2003	-4.7007974631701135	15.51739689031106	3636871
+3638934	Crypto	an improvement of both security and reliability for keccak implementations on smart card	2016	-5.295313375969829	15.656093533331287	3638961
+3641081	Crypto	secure and efficient masking of aes - a mission impossible?	2004	-5.0929871674292615	15.864856437690266	3641108
+3641768	Arch	a practical dpa on grain v1 using ls-svm	2015	-4.993803671956919	15.744973915280655	3641795
+3642903	EDA	multiple sequence families with efficient hardware architecture for use in spread spectrum watermarking	2002	-4.91003032720599	15.685610606742921	3642930
+3646496	Crypto	profiling good leakage models for masked implementations	2017	-4.964276224495585	15.801466782705074	3646523
+3647348	Crypto	first-order collision attack on protected ntru cryptosystem	2013	-4.921448373277157	16.010496767324348	3647375
+3648085	Crypto	non-reversible vhdl source-source encryption	1994	-4.9021584547223895	15.750438576433167	3648112
+3649029	Crypto	on the security of the dekart primitive	2004	-4.96597020649095	15.880289152311486	3649056
+3652944	Crypto	fame: a 3rd generation coprocessor for optimising public key cryptosystems in smart card applications	1996	-4.952768027391533	15.572613609243323	3652971
+3654436	Crypto	fpga implementation of a coupled-map-lattice-based cryptosystem	2010	-4.726911021414907	15.475391878099522	3654463
+3655298	Crypto	secure hardware implementation of non-linear functions in the presence of glitches	2008	-5.040041918890191	15.922380547143133	3655325
+3656977	Crypto	optimal model search for hardware-trojan-based bit-level fault attacks on block ciphers	2017	-5.027970408527837	16.057910122550677	3657004
+3660962	Crypto	stream cipher based on gss sequences	2004	-4.343736832480514	16.063606006363848	3660989
+3661402	Security	channel equalization for side channel attacks	2014	-5.056586457466737	15.76355984790766	3661429
+3662697	Crypto	blind fault attack against spn ciphers	2014	-4.743259797064108	16.05848821349328	3662724
+3662722	Crypto	sliding-window correlation attacks against encryption devices with an unstable clock	2018	-4.879695821225161	16.011356795734333	3662749
+3663515	DB	methods for testing subblock patterns	1999	-4.70086926506045	15.75573566771257	3663542
+3666158	Crypto	wire-tap codes as side-channel countermeasure	2014	-4.898481028844488	15.975384950478412	3666185
+3667367	Crypto	fault analysis of the piccolo block cipher	2012	-5.00650393979779	16.0380488018826	3667394
+3669752	Security	conditional estimators: an effective attack on a5/1	2005	-4.9696772445510815	16.040776785525928	3669779
+3670331	Crypto	improved trace-driven cache-collision attacks against embedded aes implementations	2010	-5.143652222903549	15.818832933264995	3670358
+3673667	Security	side-channel analysis of sm2: a late-stage featurization case study	2018	-5.002640508565559	15.961001022631047	3673694
+3676165	Crypto	the design of random number generator in an embedded crypto module	2006	-5.1695207368259695	15.524766371219393	3676192
+3678134	Security	security analysis of quantization schemes for channel-based key extraction	2015	-4.539321563959881	15.765814359856055	3678161
+3682616	Crypto	probing attacks on tamper-resistant devices	1999	-4.986555236180297	15.917498285718185	3682643
+3685595	Security	distributed time-memory tradeoff attacks on ciphers (with application to stream ciphers and counter mode)	2018	-4.920683484715541	15.944092008619997	3685622
+3686513	Security	ending piracy of integrated circuits	2010	-4.971987706847092	15.137350746320019	3686540
+3688161	Security	robust profiling for dpa-style attacks	2015	-4.7144243256667915	15.555148799678733	3688188
+3689006	Theory	digitized chaos for pseudo-random number generation in cryptography	2011	-4.427048850982943	15.51438161613215	3689033
+3689106	Security	efficient power and timing side channels for physical unclonable functions	2014	-5.246728482456224	15.714093398231109	3689133
+3689792	Crypto	lightweight and secure pufs: a survey (invited paper)	2014	-4.338002877994986	15.499625571521321	3689819
+3691726	EDA	triple rail logic robustness against dpa	2008	-4.899226237458722	15.284407865852256	3691753
+3691932	Security	secure evolutionary hardware for public-key cryptosystems	2004	-4.733248123815423	15.699458632845836	3691959
+3692741	Security	a built-in-self-test scheme for online evaluation of physical unclonable functions and true random number generators	2016	-5.289099879956423	15.132731191114594	3692768
+3695139	Crypto	a systematic approach for encryption and authentication with fault tolerance	2004	-5.209638064148068	15.50807139141205	3695166
+3706927	EDA	a new correlation frequency analysis of the side channel	2010	-5.225245706597894	15.450516465475351	3706954
+3710978	SE	an efficient sca leakage model construction method under predictable evaluation	2018	-4.906492557803249	15.635506100246069	3711005
+3716643	Security	circuit obfuscation and oracle-guided attacks: who can prevail?	2017	-4.739682574717539	15.203628374130854	3716670
+3717653	Crypto	modifying authentication techniques in mobile communication systems	2014	-4.70565530450999	15.724346083787351	3717680
+3718801	Security	time-independent discrete gaussian sampling for post-quantum cryptography	2016	-5.245432163954903	16.007231230335073	3718828
+3719209	Crypto	fault analysis of the stream cipher snow 3g	2009	-5.008933099126648	15.874149899836581	3719236
+3720245	Crypto	randomness analysis on led block ciphers	2012	-4.792797116226062	16.02295706303499	3720272
+3722299	EDA	an efficient secure scan design for an soc embedding aes core	2008	-5.257998565993511	15.239428511850555	3722326
+3723885	Crypto	three ways to mount distinguishing attacks on irregularly clocked stream ciphers	2006	-4.863512665667704	15.972790439182825	3723912
+3724197	Security	on masked galois-field multiplication for authenticated encryption resistant to side channel analysis	2018	-5.0895638340097085	15.978460520071433	3724224
+3724523	Crypto	impact of sboxes size upon side channel resistance and block cipher design	2013	-5.087585499983827	15.842196207974538	3724550
+3731485	Security	exploiting the difference of side-channel leakages	2012	-5.141215715539128	15.413016232597695	3731512
+3731615	EDA	secure non-volatile memory with scratch pad memory using dual encryption mode: work-in-progress	2018	-5.254296837992368	15.648966190498527	3731642
+3731895	Crypto	a new and efficient approach to protect aes against differential power analysis	2011	-5.106258500262903	16.060352576824044	3731922
+3732346	Security	generic approach for hardening state machines against strong adversaries	2010	-5.131381820652613	15.315544164457275	3732373
+3732701	ML	a fast digital chaotic generator for secure communication	2010	-5.091018193302918	15.739861905696097	3732728
+3734746	Crypto	scan-based side-channel attack against rsa cryptosystems using scan signatures	2010	-5.2458962245539835	15.814224274098567	3734773
+3738984	Security	cryptanalysis of a provably secure crt-rsa algorithm	2004	-4.8030007247281725	16.07415355987743	3739011
+3739721	Security	an overview of dram-based security primitives	2018	-5.126837791651172	15.207087946289613	3739748
+3740010	EDA	hardening aes hardware implementations against fault and error inject attacks	2018	-5.281752561188232	15.588267948592101	3740037
+3742092	Crypto	electromagnetic analysis on rsa algorithm based on rns	2013	-5.221111753570732	15.807755042719831	3742119
+3742388	Crypto	on the simplicity of converting leakages from multivariate to univariate - case study of a glitch-resistant masking scheme -	2012	-5.108936500972449	15.7814949425518	3742415
+3743056	Logic	case study of a fault attack on asynchronous des crypto-processors	2006	-5.015175028588148	15.64330048217574	3743083
+3743916	Security	novel puf-based error detection methods in finite state machines	2008	-5.119328294791184	15.331995199249976	3743943
+3744502	Security	a feasibility study of radio-frequency retroreflector attack	2018	-5.2547107228317165	15.323809540785355	3744529
+3745300	Security	algorithmic countermeasures against fault attacks and power analysis for rsa-crt	2016	-5.065275490232026	15.669918817627847	3745327
+3749100	AI	a chaos-based random number generator for eight-bit micro-controller system	2008	-4.514954371885705	15.370990326166234	3749127
+3749419	Security	évaluation par simulation de la sécurité des circuits face aux attaques par faute. (evaluation by simulation of circuits security against fault attacks)	2008	-5.141623217630282	15.376721040056347	3749446
+3749712	Arch	detection of counterfeit ics using public identification sequences	2017	-5.116356481817376	15.272456065258028	3749739
+3751022	EDA	correlation power analysis distinguisher based on the correlation trace derivative	2018	-4.8267923053252595	15.812304556855915	3751049
+3752002	Crypto	a robust image encryption technique using dual chaotic map	2015	-4.371864766719268	15.820194699496325	3752029
+3752168	Security	template attacks based on priori knowledge	2014	-4.925819719872687	15.58383363478582	3752195
+3753226	ML	more powerful and reliable second-level statistical randomness tests for nist sp 800-22	2016	-4.765916174939574	15.626380194001767	3753253
+3753847	EDA	a secure architecture for the design for testability structures	2015	-5.216739358043646	15.139178625591875	3753874
+3755406	Security	fault analysis in cryptography	2012	-4.93725587833045	15.370671037407527	3755433
+3755443	Security	practical dpa attacks on mdpl	2009	-5.121171668229223	15.407338670327112	3755470
+3756294	Security	glitch-resistant masking schemes as countermeasure against fault sensitivity analysis	2018	-5.198110789005142	15.267391880887336	3756321
+3757292	EDA	improved practical differential fault analysis of grain-128	2015	-5.080281499353012	15.853667097220486	3757319
+3758181	Crypto	formal analysis of the entropy / security trade-off in first-order masking countermeasures against side-channel attacks	2011	-4.953850651302535	15.811665275683554	3758208
+3760743	EDA	epc class 1 gen 2 uhf rfid tag emulator for robustness evaluation and improvement	2013	-5.12114236318535	15.120994555325199	3760770
+3763200	Crypto	an exploration of the kolmogorov-smirnov test as competitor to mutual information analysis	2011	-4.553525134338281	15.674932280656268	3763227
+3765878	Security	mitigating sat attack on logic locking	2016	-5.13185446669527	15.302931797066204	3765905
+3774665	NLP	secret key classification based on electromagnetic analysis and feature extraction using machine-learning approach	2018	-5.034137579192271	15.430956123332932	3774692
+3775294	Security	dissecting leakage resilient prfs with multivariate localized em attacks - a practical security evaluation on fpga	2017	-5.2028275951927325	15.613667731508233	3775321
+3776053	EDA	a new countermeasure against side channel attack for hmac-sm3 hardware	2017	-5.205713782975479	15.122538618551786	3776080
+3779254	EDA	are advanced dft structures sufficient for preventing scan-attacks?	2012	-5.110734620844717	15.285566809254801	3779281
+3779957	Logic	on fibonacci keystream generators	1994	-4.423291714144748	16.054826484360518	3779984
+3783741	Security	fault attacks on secure embedded software: threats, design, and evaluation	2018	-4.888424992685043	15.315733995730875	3783768
+3783818	Crypto	information-theoretic approach to optimal differential fault analysis	2012	-4.846327336295129	15.958751940527673	3783845
+3785054	Crypto	safe cryptographic random number generation using untrusted generators	2014	-5.0181393044710525	15.611064941670726	3785081
+3788592	EDA	scan-based attack against elliptic curve cryptosystems	2010	-5.217978284679287	15.832591807887797	3788619
+3790805	Security	computer security – esorics 2016	2016	-5.196949855093263	15.760499589937725	3790832
+3790949	EDA	composite fields against side channel analysis for the advanced encryption standard	2014	-5.282827317791825	15.567514787517636	3790976
+3792631	Crypto	techniques for random masking in hardware	2007	-5.258161160710039	16.066681542922055	3792658
+3793982	Security	rt-ocfb: real-time based optimized cipher feedback mode	2016	-5.1562429657899544	15.924750974759938	3794009
+3797896	Crypto	a fats correlation attack on nonlinearly feedforward filtered shift-register sequences	1989	-4.603506775490889	15.895057735972333	3797923
+3799163	Embedded	new hardware cryptosystem based chaos for the secure real-time of embedded applications	2011	-5.136964746195812	15.563911064689572	3799190
+3800713	Security	nicv: normalized inter-class variance for detection of side-channel leakage	2013	-4.964289180826401	15.659535141379983	3800740
+3801841	Security	hardware trojans in wireless cryptographic ics	2010	-4.983950690950733	15.222067722563414	3801868
+3803171	Security	categorising and comparing cluster-based dpa distinguishers	2017	-4.6069904749758654	15.577295328799364	3803198
+3804149	Security	countermeasures against a side-channel attack in a kernel memory	2018	-5.09855797166334	15.231986570446029	3804176
+3805218	Arch	a totally self-checking s-box architecture for the advanced encryption standard	2006	-5.2738891743489935	15.173777065981815	3805245
+3805718	Security	single-trace side-channel attacks on masked lattice-based encryption	2017	-5.005857308305318	15.876350160610388	3805745
+3809475	Crypto	exploring the resilience of some lightweight ciphers against pro led single trace attacks	2015	-4.468295205820574	15.999135943480224	3809502
+3809687	Crypto	pragmatism vs. elegance: comparing two approaches to simple power attacks on aes	2014	-4.435678551415409	16.022880687805017	3809714
+3813843	EDA	evaluation of concurrent error detection techniques on the advanced encryption standard	2010	-5.248149917774674	15.143565634454053	3813870
+3813885	Vision	probability of a unique crypto key generation based on finger's different images with two scanners	2011	-4.627982801639297	15.195622853507654	3813912
+3816388	Crypto	defeating classical hardware countermeasures: a new processing for side channel analysis	2008	-4.977073312946438	15.688741199150696	3816415
+3817386	Crypto	entropy loss in puf-based key generation schemes: the repetition code pitfall	2014	-5.228843845557983	15.545547073629448	3817413
+3818421	Crypto	design and analysis of two stream ciphers based on chaotic coupling and multiplexing techniques	2017	-5.049956607399566	15.475406286759648	3818448
+3824816	Arch	lightweight security hardware architecture using dwt and aes algorithms	2018	-4.804938493903839	15.308310461990388	3824843
+3826959	Crypto	side channel cryptanalysis of a higher order masking scheme	2007	-4.738866401657378	15.953022693205021	3826986
+3827178	EDA	a random number generator based on particle dynamical evolutionary algorithm	2008	-4.452820379698472	15.569198931165335	3827205
+3830922	EDA	efficient attacks on robust ring oscillator puf with enhanced challenge-response set	2015	-5.252111948908583	15.39848791178892	3830949
+3832134	Robotics	hardware-efficient prbgs based on 1-d piecewise linear chaotic maps	2004	-5.217452538084737	15.227729564208168	3832161
+3832716	Crypto	a new stream cipher using two nonlinear functions	2005	-4.464978232948879	15.841515727040852	3832743
+3833446	Crypto	dfa on aes	2003	-5.064075424586769	15.911692894463394	3833473
+3834110	EDA	watermarking and authentication of quantum images based on restricted geometric transformations	2012	-4.902599758721785	15.956617754110887	3834137
+3834269	AI	identifying encryption algorithms in ecb and cbc modes using computational intelligence	2018	-4.73523945248129	16.04735059192313	3834296
+3837853	Security	a new scheme to extract puf information by scan chain	2018	-5.170459334838604	15.163936606073054	3837880
+3840805	Crypto	practical second-order dpa attacks for masked smart card implementations of block ciphers	2006	-4.833135142065665	15.996415266229937	3840832
+3844599	EDA	adaptive characterization and emulation of delay-based physical unclonable functions using statistical models	2015	-5.2832339594248365	15.242296326473038	3844626
+3847414	HPC	a chaotic convolutional encryption scheme based on multiple chaos mapping	2017	-4.727922863396817	15.457098614792118	3847441
+3847798	SE	em analysis of rijndael and ecc on a wireless java-based pda	2005	-5.2473381047271035	15.426826465477392	3847825
+3848717	SE	multiple bytes differential fault analysis on clefia	2010	-5.108509524633945	15.653011167103609	3848744
+3855090	Crypto	same value analysis on edwards curves	2015	-5.015322969762157	16.00576878182149	3855117
+3855791	Security	towards leakage exploitation optimality in profiled side-channel attacks	2013	-4.787532119867693	15.759314599780069	3855818
+3859503	Security	constructive side-channel analysis and secure design	2015	-4.916068481948085	15.59359069995636	3859530
+3859960	Security	chosen ciphertext simple power analysis on software 8-bit implementation of ring-lwe encryption	2016	-5.234433245927159	15.918578248610336	3859987
+3859966	Robotics	guest editors' introduction: special section on fault diagnosis and tolerance in cryptography	2006	-4.802385267866566	15.848663447331226	3859993
+3861578	Crypto	blind cartography for side channel attacks: cross-correlation cartography	2012	-5.121494518332572	15.294057988276913	3861605
+3861644	HPC	optimization of power analysis using neural network	2013	-4.969141303383255	15.596324274272714	3861671
+3863946	Crypto	fault analysis on the stream ciphers lili-128 and achterbahn	2015	-5.029028114365594	15.90463581554788	3863973
+3864313	Crypto	improved digital chaotic sequence generator utilized in encryption communication	2012	-4.376569109875884	15.394675037336116	3864340
+3864459	Crypto	integrative acceleration of first-order boolean masking for embedded iot devices	2018	-5.259107793336294	16.07847048558233	3864486
+3864821	Crypto	fault cryptanalysis and the shrinking generator	2006	-4.9092179278062815	15.988690106229177	3864848
+3866341	Crypto	a comparison of computer-based technologies suitable for cryptographic attacks	2016	-4.502492915528207	15.193650701854192	3866368
+3866931	EDA	embedded hyperchaotic lorenz generator for secure communications	2013	-5.045256176915612	15.548554019176988	3866958
+3868411	Crypto	a heuristic approach to assist side channel analysis of the data encryption standard	2016	-4.591721053512324	15.878147601068568	3868438
+3868473	AI	why attackers win: on the learnability of xor arbiter pufs	2015	-4.972116835061142	15.587026082913034	3868500
+3868890	EDA	a vlsi implementation of an sm4 algorithm resistant to power analysis	2016	-5.175748123495674	15.692990845833545	3868917
+3871766	EDA	power consumption traces realignment to improve differential power analysis	2011	-5.1644856196782785	15.522697826320233	3871793
+3872017	EDA	a new active ic metering technique based on locking scan cells	2017	-5.264166672729037	15.122429750167411	3872044
+3875316	Crypto	side channel attacks on message authentication codes	2005	-5.09921004499118	15.866987976214455	3875343
+3876366	Crypto	optimal first-order masking with linear and non-linear bijections	2012	-4.8500974851191625	16.009728758294337	3876393
+3877264	Crypto	masking vs. multiparty computation: how large is the gap for aes?	2014	-4.910152188197174	16.043951198189777	3877291
+3878213	Crypto	bandwidth-optimal kleptographic attacks	2001	-5.076905072231068	15.829312455780224	3878240
+3878802	Security	adaptive chosen-message side-channel attacks	2010	-4.8382840561322356	15.65695331485222	3878829
+3879271	Security	an evaluation of an aes implementation protected against em analysis	2013	-4.725000383818261	15.405026285630894	3879298
+3879622	Crypto	all-or-nothing transforms as a countermeasure to differential side-channel analysis	2009	-4.81489159251622	16.039124306027094	3879649
+3887383	EDA	key-sensitivity improvement of block cipher systems based on nonlinear feedback shift registers	2012	-4.93285311889097	15.644456320097751	3887410
+3887443	Crypto	differential fault analysis on grøstl	2012	-5.061867934880012	16.06289765648402	3887470
+3888920	Security	first-order differential power analysis on the duplication method	2007	-4.983647132366137	15.795090793425205	3888947
+3889020	OS	fast and reliable puf response evaluation from unsettled bistable rings	2016	-5.046959515328067	15.428653656049974	3889047
+3890539	Crypto	a quasigroup based random number generator for resource constrained environments	2012	-4.9547060346444765	15.886785744181509	3890566
+3890709	Crypto	side channel cube attacks on block ciphers	2009	-4.8610081520684405	15.912408219474594	3890736
+3891362	Crypto	side channel analysis on biometric-based key generation algorithms on resource constrained devices	2006	-4.883032292409743	15.702818606550359	3891389
+3891448	Crypto	differential power analysis attack on simon and led block ciphers	2014	-5.261004979780832	16.003590387513984	3891475
+3891585	EDA	a chaos based method for efficient cryptographic s-box design	2013	-4.365555030458226	15.776228962686606	3891612
+3892487	Crypto	improved scan-chain based attacks and related countermeasures	2013	-5.066437849422026	15.445288917993553	3892514
+3893549	Crypto	on the construction of side-channel attack resilient s-boxes	2017	-4.722014085474337	15.95566831609944	3893576
+3893689	Security	smart card research and advanced applications	2015	-5.146869946053909	15.171758196800251	3893716
+3895893	EDA	fault analysis and evaluation of a true random number generator embedded in a processor	2013	-4.924509945763126	15.554335044527864	3895920
+3896020	Security	a study on analyzing side-channel resistant encoding schemes with respect to fault attacks	2017	-5.1122522434648845	15.236840754110949	3896047
+3898430	EDA	silk: high level of abstraction leakage simulator for side channel analysis	2014	-4.995844233231584	15.314918657757506	3898457
+3898467	Security	a practical fault attack on arx-like ciphers with a case study on chacha20	2017	-5.214838661260131	15.585583591635642	3898494
+3898557	EDA	a stegosystem with advanced security features - simulated in matlab	2012	-4.58689434985696	15.411110002885131	3898584
+3904057	EDA	power analysis resistant hardware implementations of aes	2007	-5.131419074647197	15.798906030798552	3904084
+3906093	Crypto	pseudo-random number generation applied to robust modern cryptography: a new technique for block ciphers	2009	-5.108690405662268	15.508713730577279	3906120
+3910168	Arch	low latency 256-bit $mathbb{f}_p$ ecdsa signature generation crypto processor	2018	-4.7090500474336086	15.808757598743082	3910195
+3911233	Security	exploiting ineffective fault inductions on symmetric cryptography	2018	-5.067188245265946	15.715922896653035	3911260
+3913406	EDA	decoy circuits for fpga design protection	2006	-5.210058327524559	15.124453561579466	3913433
+3913433	EDA	a block cipher based on a hybrid of chaotic system and feistel network	2009	-4.419055918939663	15.75784653628603	3913460
+3913655	Crypto	lda-based clustering as a side-channel distinguisher	2016	-4.799067547052225	15.674754938215358	3913682
+3913931	Crypto	variable-length bit mapping and error-correcting codes for higher-order alphabet pufs	2017	-4.673340698675598	15.961666647929547	3913958
+3919333	Embedded	em alignment using phase for secure embedded systems	2008	-5.1159619783848065	15.476119781996296	3919360
+3919801	Security	combined side-channel and fault analysis attack on protected grain family of stream ciphers	2015	-5.030425090393728	15.772831984823835	3919828
+3921411	Embedded	implementation of an encrypted wireless communication system using nested chaotic maps	2010	-4.908168704979254	15.547448274828579	3921438
+3922169	Crypto	an optimized algebraic method for higher order differential attack	2003	-4.337372665974104	16.008974460132855	3922196
+3922244	Security	itsuku: a memory-hardened proof-of-work scheme	2017	-5.132583017650705	16.056194234847798	3922271
+3926598	Security	cache-timing template attacks	2009	-4.613840362119691	15.631127554217555	3926625
+3927700	Arch	towards trace-driven cache attacks on systems-on-chips — exploiting bus communication	2017	-5.081710512806718	15.170222350076704	3927727
+3927993	EDA	a template attack-resistant masking scheme for rc4 based on fpga	2015	-5.195578124178355	15.857591810445975	3928020
+3928236	Security	fault attacks on the authenticated encryption stream cipher morus	2018	-5.085693677444097	15.657616089832231	3928263
+3931136	EDA	identification and authentication of integrated circuits	2004	-4.904468948351459	15.413778955658694	3931163
+3939024	EDA	biometrie keys based on pseudorandom sequences	2012	-4.7891563231191485	15.731609069774265	3939051
+3939068	Security	on the security of rfid devices against implementation attacks	2010	-5.239296144627544	15.375319972083455	3939095
+3941699	Embedded	nis05-1: performance analysis of advanced encryption standard (aes)	2006	-5.185133537178531	15.90089948858682	3941726
+3946021	Crypto	a fast and light stream cipher for smartphones	2013	-4.467856400924641	15.865242915014687	3946048
+3946671	Crypto	blinded fault resistant exponentiation revisited	2009	-5.081911638329225	15.950324493382066	3946698
+3947586	Crypto	automatic insertion of dpa countermeasures	2011	-4.94588831619829	15.595343303146903	3947613
+3948074	Security	representations and rijndael descriptions	2004	-4.3291997549131205	16.005987097178437	3948101
+3948388	EDA	image encryption and decryption using scan methodology	2006	-4.38920774159097	15.83497126950108	3948415
+3951965	Crypto	univariate side channel attacks and leakage modeling	2011	-4.5483262386856165	15.88161603700064	3951992
+3952017	EDA	electromagnetic security tests for soc	2016	-5.000231869869885	15.305693283652715	3952044
+3952310	Crypto	practical attack on the shrinking generator	2006	-4.423284046516747	15.731438117777262	3952337
+3956875	Crypto	threshold implementation in software - case study of present	2018	-4.966576295349864	15.663830871894646	3956902
+3966429	Theory	fault analysis of trivium	2012	-5.012189135542513	15.977943792190153	3966456
+3966644	Security	efficient removal of random delays from embedded software implementations using hidden markov models	2012	-5.014011843897005	15.747905957029085	3966671
+3968377	EDA	physical attacks, introduction and application to embedded processors	2015	-4.929978936477037	15.23227011096628	3968404
+3970864	Security	strongly secure scan design using generalized feed forward shift registers	2015	-5.0069760000733465	15.479193748140519	3970891
+3973756	Theory	neural network based min-entropy estimation for random number generators	2018	-4.700711228752492	15.754626936127481	3973783
+3974139	Embedded	randomized windows for secure scalar multiplication on elliptic curves	2014	-5.16286537981467	15.861503290672498	3974166
+3974246	Security	sidetrail: verifying time-balancing of cryptosystems	2018	-5.005258678318911	15.657443798111148	3974273
+3975367	EDA	correcting noise in block ciphers	2009	-4.440806699311598	15.995350833557177	3975394
+3978249	Crypto	masking vs. multiparty computation: how large is the gap for aes?	2013	-4.968019495284416	16.02074853739427	3978276
+3978756	EDA	algebraic fault analysis of sha-3	2017	-4.969552844448407	15.955858489801516	3978783
+3984740	Theory	a novel design of secure and private circuits	2012	-5.038718122603052	15.566640145581848	3984767
+3985626	Security	efficient evaluation of physical unclonable functions using entropy measures	2016	-4.878724161110441	15.506709945336214	3985653
+3985880	Crypto	design and analysis of a highly secure stream cipher based on linear feedback shift register	2009	-4.909954074554797	15.953670818857587	3985907
+3991959	Crypto	cryptanalysis of the atmel cipher in securememory, cryptomemory and cryptorf	2011	-5.062677418566047	15.911067878994846	3991986
+3992095	Crypto	register leakage masking using gray code	2012	-4.96866191445282	15.910210474513967	3992122
+3994504	Arch	suitable representation of values on the logistic map with finite precision	2010	-4.50766100050422	15.495264795961402	3994531
+3996755	Security	safedrp: yet another way toward power-equalized designs in fpga	2017	-5.221443124795436	15.587101950218067	3996782
+4000303	Crypto	improved differential fault attack on mickey 2.0	2014	-5.095144137301811	16.046181286668833	4000330
+4001908	EDA	lut-lock: a novel lut-based logic obfuscation for fpga-bitstream and asic-hardware protection	2018	-5.208325925154191	15.181393432687724	4001935
+4003462	Crypto	simulatable leakage: analysis, pitfalls, and new constructions	2014	-4.818447266055325	15.738062315923216	4003489
+4004097	Security	using state space encoding to counter biased fault attacks on aes countermeasures	2015	-5.080162671654227	15.697945928538784	4004124
+4007457	Security	software implementation level countermeasures against the cache timing attack on advanced encryption standard	2013	-5.09179369020862	15.993878894462194	4007484
+4009856	EDA	improved power analysis attack based on the preprocessed power traces	2016	-5.099038967013113	15.574052838981311	4009883
+4018669	Crypto	elliptic curve cryptosystems and side-channel attacks	2011	-4.8592649915024655	15.670036428298426	4018696
+4019413	Logic	differential fault analysis of aes: toward reducing number of faults	2011	-4.965312342144559	15.997267356971824	4019440
+4020397	Arch	a new technique for improving the security of chaos based cryptosystems	2018	-4.921231102969654	15.726630578019234	4020424
+4021323	Crypto	key-dependent weakness of aes-based ciphers under clockwise collision distinguisher	2012	-4.910028314073865	15.869802768306467	4021350
+4021631	Crypto	a modified stream generator for the gsm encryption algorithms a5/1 and a5/2	2005	-5.220573551475546	15.99500934687177	4021658
+4024421	EDA	protecting the noekeon cipher against scare attacks in fpgas by using dynamic implementations	2009	-5.121942688226723	15.474434350529704	4024448
+4033305	Security	persistent fault analysis on block ciphers	2018	-5.076194264381011	15.802989455969039	4033332
+4033707	Crypto	sharing independence & relabeling: efficient formal verification of higher-order masking	2018	-4.8909181021945685	15.729608427192991	4033734
+4035590	Security	the e-derivative of boolean functions and its application in the fault detection and cryptographic system	2011	-4.973157692811778	15.279345584013901	4035617
+4036720	Crypto	physical uncloneable function hardware keys utilizing kirchhoff-law-johnson-noise secure key exchange and noise-based logic	2013	-5.269620445917559	15.277653205640734	4036747
+4038346	Crypto	chaotic multimedia stream cipher scheme based on true random sequence combined with tree parity machine	2016	-4.497670481205948	15.993717281206193	4038373
+4038374	Security	towards optimal leakage exploitation rate in template attacks	2016	-4.7787843870208695	15.80512877708476	4038401
+4038917	SE	improved nonce construction scheme for aes ccmp to evade initial counter prediction	2008	-5.103152751192309	15.980148414028687	4038944
+4042031	Arch	non deterministic caches: a simple and effective defense against side channel attacks	2008	-4.950153016069509	15.797735848565464	4042058
+4042734	Crypto	quantum cloning attacks against puf-based quantum authentication systems	2016	-4.696799520523044	15.98061130660493	4042761
+4042839	Theory	faster leakage detection and exploitation	2015	-4.900331477268488	15.929061940482404	4042866
+4043258	Security	attacking state-of-the-art software countermeasures--a case study for aes	2008	-5.254499882080252	15.735755784466912	4043285
+4043261	Crypto	key-dependent s-box generation in aes block cipher system	2009	-4.500331083605729	16.007678510349688	4043288
+4044055	Security	a generic fault countermeasure providing data and program flow integrity	2008	-4.974014363831404	15.909530367380144	4044082
+4046364	EDA	low-cost implementations of on-the-fly tests for random number generators	2012	-5.2223824635990255	15.318665529909394	4046391
+4046417	Crypto	low randomness masking and shuffling: an evaluation using mutual information	2018	-5.160221166028959	15.618612969136546	4046444
+4052896	Security	using subspace-based template attacks to compare and combine power and electromagnetic information leakages	2008	-4.7910933667315785	15.57479451283262	4052923
+4055052	Security	a fault-resistant aes implementation using differential characteristic of input and output.	2012	-5.139955767864494	15.702006508948124	4055079
+4059109	Crypto	advanced modes in aes: are they safe from power analysis based side channel attacks?	2014	-5.067041418898609	16.012972311927808	4059136
+4059360	Logic	the complexity of dpa type side channel attacks and their dependency on the algorithm design	2006	-4.737450107432028	15.797788763208379	4059387
+4060136	Crypto	algorithmic tamper proof (atp) counter units for authentication devices using pin	2009	-4.938290125847458	15.966598857300387	4060163
+4061050	Security	on the systematic drift of physically unclonable functions due to aging	2015	-4.8941361294354255	15.579181821374593	4061077
+4061587	Arch	chaotic laser based physical random bit streaming system with a computer application interface	2017	-4.8082965718350055	15.23357182482435	4061614
+4063210	Crypto	biometric random number generators	2004	-4.659831750053809	15.413938531455848	4063237
+4063654	Security	exploiting collisions in addition chain-based exponentiation algorithms	2012	-5.1543008441474685	15.807495656032168	4063681
+4065231	Crypto	a secure d flip-flop against side channel attacks	2011	-5.289495273058745	15.44692305619637	4065258
+4068490	Crypto	improved algebraic fault analysis: a case study on piccolo and applications to other lightweight block ciphers	2013	-5.019115002557088	15.930480356026152	4068517
+4079927	ML	designing cryptographically strong s-boxes with the use of cellular automata	2008	-4.3769951137848535	15.858745756277303	4079954
+4081505	EDA	secure scan design with dynamically configurable connection	2013	-5.187454320428953	15.155107122582905	4081532
+4081766	Logic	an improved key stream generator based on the programmable cellular automata	1997	-4.55536696469368	15.892936977555461	4081793
+4082750	Crypto	graph-based approach to the edit distance cryptanalysis of irregularly clocked linear feedback shift registers	2009	-4.412923016868581	15.781746915898006	4082777
+4083178	EDA	emission analysis of hardware implementations	2014	-5.147152137291772	15.181195954821565	4083205
+4085553	Security	a generic method for secure sbox implementation	2007	-4.963646323901349	15.907560706139927	4085580
+4086487	Logic	how to compare selections of points of interest for side-channel distinguishers in practice?	2014	-4.8028016038573815	15.713758707424743	4086514
+4087239	Crypto	bitslice ciphers and power analysis attacks	2000	-4.919912605837718	15.988959165213105	4087266
+4088055	Crypto	an improved second-order power analysis attack based on a new refined expecter - - case study on protected aes -	2015	-4.958521400658814	16.071894254856815	4088082
+4089434	Security	smartly analyzing the simplicity and the power of simple power analysis on smartcards	2000	-5.101881361718088	15.735128963891926	4089461
+4090536	Logic	synthesis of masking countermeasures against side channel attacks	2014	-5.198270157843153	15.621863596163786	4090563
+4091320	Security	passive and active combined attacks: combining fault attacks and side channel analysis	2007	-4.858668368164985	15.720135242659467	4091347
+4092156	Crypto	cryptanalysis of rijndael s-box and improvement	2005	-4.5907207509266845	16.05016453613173	4092183
+4101759	Security	side channel attacks: vulnerability analysis of prince and rectangle using dpa	2014	-5.055836186906592	15.972364576413536	4101786
+4102534	Security	vulnerability analysis of prince and rectangle using cpa	2015	-5.212450666684007	15.939896946086753	4102561
+4102770	EDA	partial scan approach for secret information protection	2009	-5.171067121090304	15.157628463230582	4102797
+4103670	Security	passive and active combined attacks on aes combining fault attacks and side channel analysis	2010	-4.991038922208743	15.69175180795116	4103697

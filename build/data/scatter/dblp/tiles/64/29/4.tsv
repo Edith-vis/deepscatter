@@ -1,0 +1,205 @@
+id	area	title	year	x	y	ix
+3745198	Theory	graph theoretical approach to recognition of structural similarity in molecules	1979	-1.8832991137670263	-26.79449864745892	3745225
+3745295	Comp.	gpu-based point cloud superpositioning for structural comparisons of protein binding sites	2018	-1.4573342987928302	-26.305783459992615	3745322
+3746119	Comp.	protein design using continuous rotamers	2012	-1.7630093237072275	-27.0523160180166	3746146
+3746750	Comp.	poli: a virtual screening pipeline based on template pocket and ligand similarity	2015	-2.348954194000498	-26.884284145408827	3746777
+3746926	Comp.	a tool for structure alignment of molecules	2004	-1.9745157793356405	-26.876609790935067	3746953
+3748147	Theory	on finding nonisomorphic connected subgraphs and distinct molecular substructures	2001	-1.5966537761642214	-26.949811410511163	3748174
+3749049	Graphics	an improved algorithm for nucleic acid secondary structure display	1988	-1.4698477113032236	-26.260097470873184	3749076
+3751131	NLP	protein secondary structure prediction based on stochastic-rule learning	1992	-2.210226668865891	-26.164315097130928	3751158
+3751890	Comp.	application of spectrophores™ to map vendor chemical space using self-organising maps	2011	-1.8072248336875631	-27.038492712799073	3751917
+3755379	Comp.	local functional descriptors for surface comparison based binding prediction	2012	-2.3171499633388715	-26.97636331288616	3755406
+3756078	EDA	design of compound libraries for fragment screening	2009	-1.85571796076256	-27.05041305816792	3756105
+3758016	ML	automatic workflow for the classification of local dna conformations	2012	-2.101762896724172	-26.14502617104517	3758043
+3758700	ML	dataset overlap density analysis	2013	-2.126582318006613	-26.8121000285704	3758727
+3759831	Comp.	towards reliable automatic protein structure alignment	2013	-1.5829120019776153	-26.61837315906693	3759858
+3761279	Comp.	automated evaluation of quaternary structures from protein crystals	2018	-1.6973602491450548	-26.941768436822585	3761306
+3763600	Robotics	protein closed loop prediction from contact probabilities	2013	-1.934852602194231	-26.703615984578057	3763627
+3765629	AI	probabilistic constraint satisfaction with non-gaussian noise	1994	-1.4780069952613837	-26.70513950518745	3765656
+3765876	Comp.	galaxytbm: template-based modeling by building a reliable core and refining unreliable local regions	2012	-2.046742981305373	-26.77458033498753	3765903
+3766218	SE	nupack: analysis and design of nucleic acid systems	2011	-2.0182414021500166	-26.678199196467318	3766245
+3776601	Comp.	automatic classification of protein structures using low-dimensional structure space mappings	2014	-1.58472397481756	-26.56015510691793	3776628
+3777527	Comp.	a reference dataset for the analyses of membrane protein secondary structures and transmembrane residues using circular dichroism spectroscopy	2011	-2.3855029081321764	-26.200365530952286	3777554
+3778846	Comp.	a novel computational method for deriving protein secondary structure topologies using cryo-em density maps and multiple secondary structure predictions	2015	-1.6373799899050925	-26.50403933599175	3778873
+3780411	Comp.	fpop: footprinting functional pockets of proteins by comparative spatial patterns	2010	-1.8940979940918752	-26.925440144000454	3780438
+3781821	Robotics	optimizing gpcr two-dimensional topology from contact map	2018	-2.300622862076629	-26.904799394836193	3781848
+3783483	SE	a lattice-based approach for chemical structural retrieval	2015	-1.647936139796018	-26.75812110779385	3783510
+3784195	Comp.	binary formal inference-based recursive modeling using multiple atom and physicochemical property class pair and torsion descriptors as decision criteria	2000	-1.56798067438437	-26.46437510337679	3784222
+3786393	Theory	on the similarity of dna primary sequences	2000	-1.544597783222219	-26.662838503094026	3786420
+3786550	Comp.	contemplate: exploiting the protein databank to propose ensemble of conformations of a query protein of known structure	2014	-1.7733975051593098	-26.235586099244536	3786577
+3787069	Comp.	a systematic statistical analysis of ion trap tandem mass spectra in view of peptide scoring	2003	-1.5463461785024997	-26.160459590658807	3787096
+3787763	Comp.	computing wiener-type indices for virtual combinatorial libraries generated from heteroatom-containing building blocks	2002	-1.7039561286429628	-26.87367049633696	3787790
+3793791	AI	computer-assisted structure generation from a gross formula. 6. reducing the structural redundancy by the employment of 2d nmr spectral information	1994	-1.7558778986249364	-26.726407577699124	3793818
+3795847	ML	features-based deisotoping method for tandem mass spectra	2011	-1.8625055071225467	-26.352196274664262	3795874
+3798848	Comp.	procos: computational analysis of protein-protein complexes	2011	-1.7127755363173616	-26.483119300184192	3798875
+3799540	Comp.	constructing patch-based ligand-binding pocket database for predicting function of proteins	2012	-2.198603681694844	-26.74935719904956	3799567
+3800635	HPC	biological meaning of nonlinear mapping of substitution matrices in metric spaces	2009	-1.6700406812298496	-26.30554100390481	3800662
+3801035	ML	prediction of molecular packing motifs in organic crystals by neural graph fingerprints	2018	-2.3192123437375165	-26.272090305621482	3801062
+3802607	Comp.	"""motif discovery with data mining in 3d protein structure databases: discovery, validation and prediction of the u-shape zinc binding (""""huf-zinc"""") motif"""	2013	-1.6066083628638308	-26.442426895255394	3802634
+3803791	Comp.	chemical database mining through entropy-based molecular similarity assessment of randomly generated structural fragment populations	2007	-1.9028708431511825	-26.484950489042372	3803818
+3805550	Comp.	jmetalcpp: optimizing molecular docking problems with a c++ metaheuristic framework	2014	-1.9186690272383973	-26.81900667544613	3805577
+3810951	NLP	recursive protein modeling: a divide and conquer strategy for protein structure prediction and its case study in casp9	2011	-1.7624174224499194	-26.939399361645783	3810978
+3811309	Comp.	self-consistent knowledge-based approach to protein design	2001	-2.115692802393394	-26.56575371177054	3811336
+3811578	ML	analysis and display of the size dependence of chemical similarity coefficients	2003	-1.8897078975838149	-26.53645071595575	3811605
+3811951	Comp.	pairwise structure alignment specifically tuned for surface pockets and interaction interfaces	2015	-1.8947977552990618	-26.97140211730539	3811978
+3812192	Comp.	an image-matching approach to protein similarity analysis	2004	-1.7724077578174882	-26.94884754223242	3812219
+3814110	Comp.	prediction of quaternary structure from primary structure	2001	-1.754911517252313	-26.454881364001487	3814137
+3814637	Comp.	extraction of useful bioisostere replacments from the pdb	2011	-2.2521166467882736	-27.027180437086077	3814664
+3814787	Comp.	an analysis of information content present in protein-dna interactions	2008	-1.9188087485757699	-26.182578878286208	3814814
+3816720	Comp.	initial cluster analysis	2018	-1.7575488887767654	-26.1564009516263	3816747
+3816912	Comp.	carbbuilder: software for building molecular models of complex oligo- and polysaccharide structures	2016	-1.7449762167220788	-26.87830575905819	3816939
+3818349	Comp.	biasviz: visualization of amino acid biased regions in protein alignments	2007	-1.9720303900451923	-26.28663273986637	3818376
+3819226	Comp.	efficient searching and annotation of metabolic networks using chemical similarity	2015	-1.6085089738279177	-26.57514356295103	3819253
+3819593	Comp.	graph-based molecular alignment (gma)	2007	-2.2292064075230518	-27.039899736265394	3819620
+3819997	Comp.	integrating linear optimization with structural modeling to increase hiv neutralization breadth	2018	-2.2581609645860325	-26.414393532419282	3820024
+3823162	ML	consensus diversity plots: a global diversity analysis of chemical libraries	2016	-1.9969790818063375	-26.748219641950282	3823189
+3823769	Comp.	ligsift: an open-source tool for ligand structural alignment and virtual screening	2015	-2.32963596327775	-26.67906021995655	3823796
+3824095	SE	local clique merging: an extension of the maximum common subgraph measure with applications in structural bioinformatics	2013	-1.6145366671229986	-26.631935319008374	3824122
+3827962	EDA	automated conformational analysis: algorithms for the efficient construction of low-energy conformations	1990	-2.1893594494510205	-26.81151515836082	3827989
+3829008	DB	representation of the molecular topology of cyclical structures by means of cycle graphs. 2. application to clustering of chemical databases	2004	-1.4585470598436314	-26.296862883815656	3829035
+3830431	Comp.	comparing voronoi and laguerre tessellations in the protein-protein docking context	2009	-2.0366411528103714	-26.52567834727891	3830458
+3831070	Comp.	prediction of enzyme function based on 3d templates of evolutionarily important amino acids	2007	-2.1020271374733515	-26.83324331483841	3831097
+3832123	Comp.	a new approach for displaying identities and differences among aligned amino acid sequences	1992	-2.0092335607809297	-26.109431608705073	3832150
+3833645	ML	classification of biologically active compounds by median partitioning	2002	-2.191210004759709	-26.37335537622809	3833672
+3835626	Comp.	an optimization approach to the problem of protein structure prediction	2004	-2.2061699561015846	-26.959839386353398	3835653
+3842202	Comp.	cphmodels-3.0—remote homology modeling using structure-guided sequence profiles	2010	-1.8921906145754182	-27.03167767582942	3842229
+3842577	Comp.	similarity based docking	2008	-2.1088497010337512	-26.61974779787737	3842604
+3846252	Comp.	pkd: re-designing protein pka values	2006	-2.382177275196456	-26.880272651361427	3846279
+3846582	Comp.	design of libraries to explore receptor sites	1999	-2.3623769276446254	-26.682495966320484	3846609
+3848262	Comp.	asymmetric genome organization in an rna virus revealed via graph-theoretical analysis of tomographic data	2015	-2.3092226084504057	-26.973352171634712	3848289
+3848621	ML	analyzing the topology of active sites: on the prediction of pockets and subpockets	2010	-2.3028782652323336	-26.391217709869448	3848648
+3849275	Comp.	a3n: an artificial neural network n-gram-based method to approximate 3-d polypeptides structure prediction	2010	-2.1408063081528934	-26.885434558412157	3849302
+3850254	Theory	lead discovery using stochastic cluster analysis (sca): a new method for clustering structurally similar compounds	1998	-1.9096115443137107	-26.28220023883296	3850281
+3850743	Comp.	inter-domain linker prediction using amino acid compositional index	2015	-1.7740310736971203	-26.34402254887396	3850770
+3852176	Logic	dna-templated synthesis optimization	2018	-1.9119493533607612	-26.639932150380808	3852203
+3852745	Comp.	support vector machines for prediction of dihedral angle regions	2006	-1.6854348350528134	-26.553298891197148	3852772
+3853075	Comp.	searching for patterns of amino acids in 3d protein structures	2003	-1.5658534979839196	-26.869572238237073	3853102
+3854319	Comp.	paul: protein structural alignment using integer linear programming and lagrangian relaxation	2009	-1.4797023247419954	-26.784602637677988	3854346
+3855003	Comp.	pressapro: a software for the prediction of secondary structure by amino acid properties	2007	-1.6220971523075458	-26.211711013835693	3855030
+3856193	Comp.	spatial clustering of protein binding sites for template based protein docking	2011	-1.5245630143821345	-26.604135673424672	3856220
+3856385	Comp.	a physicochemical model for analyzing dna sequences	2006	-2.0556819239536925	-26.536226484213163	3856412
+3856523	Comp.	rnapredict—an evolutionary algorithm for rna secondary structure prediction	2008	-2.0310405666322198	-26.159253295919374	3856550
+3857307	Comp.	svm based approaches for classifying protein tertiary structures	2011	-1.8685503014035392	-26.58966484795471	3857334
+3859437	Comp.	computing the protein binding sites	2012	-1.487731273466981	-26.57611026608083	3859464
+3861452	Comp.	the alpha/beta fold family of proteins database and the cholinesterase gene server esther	1997	-1.5555371317283804	-26.78951748176677	3861479
+3861848	ML	enhanced virtual screening by combined use of two docking methods: getting the most on a limited budget	2005	-1.6404555669783194	-26.86672629380852	3861875
+3866098	Comp.	a study of structural properties on profiles hmms	2007	-1.6983864288840458	-26.29227300738119	3866125
+3866638	Comp.	testing and analysis of an algorithm for protein structure comparison	2008	-1.5642865061367095	-26.166897440427388	3866665
+3866748	Visualization	mining graph patterns in the protein-rna interfaces	2015	-2.158204467259229	-26.196601914377464	3866775
+3867297	Comp.	efficient similarity retrieval of protein binding sites based on histogram comparison	2010	-1.6917422742356456	-26.827372737850286	3867324
+3869646	Comp.	improved greedy algorithm for protein structure reconstruction	2005	-2.2119147157452432	-26.894125460900412	3869673
+3871876	Comp.	compasites - computer-aided active site analysis of protein structures	2013	-1.815347999988831	-26.96003095118319	3871903
+3872509	Comp.	similarity searching in large combinatorial chemistry spaces	2001	-1.5846553869000788	-26.87698216065012	3872536
+3874839	Comp.	flexsnap: flexible non-sequential protein structure alignment	2009	-1.7845462660389806	-26.77853318694233	3874866
+3874999	Visualization	dihedral angle based dimensionality reduction for protein structural comparison	2005	-1.8899751421938928	-26.82451173292172	3875026
+3882836	Web+IR	stigmata: an algorithm to determine structural commonalities in diverse datasets	1996	-1.9621184875016315	-26.435657441086626	3882863
+3884364	Logic	spectral graph partitioning analysis of in vitro synthesized rna structural folding	2006	-1.6839616914638182	-26.377554768356443	3884391
+3884792	Comp.	modelling interaction sites in protein domains with interaction profile hidden markov models	2006	-1.4545869835677476	-26.217010525509515	3884819
+3885340	Comp.	lessons learned from molecular scaffold analysis	2011	-2.209498933913137	-26.72703277810493	3885367
+3893575	Comp.	improved alignment quality by combining evolutionary information, predicted secondary structure and self-organizing maps	2006	-1.7318144881092854	-26.342486810708557	3893602
+3894660	Comp.	prediction of disulfide connectivity in proteins	2001	-2.335606121350532	-26.529670223597478	3894687
+3895413	Comp.	geometric similarity between protein-rna interfaces	2009	-1.932433203831492	-26.887139554625325	3895440
+3899297	EDA	the atom assignment problem in automated de novo drug design. 4. tests for site-directed fragment placement based on molecular complementarity	1995	-2.296820787434138	-27.019001481616808	3899324
+3900887	Robotics	multiple docking for protein structure prediction	2005	-1.8336079307427011	-27.02187429204433	3900914
+3904007	Comp.	ffas-3d: improving fold recognition by including optimized structural features and template re-ranking	2014	-2.0610832642864763	-26.370396201220828	3904034
+3905020	Comp.	determining candidate binding site locations using conserved features	2003	-1.898109784060076	-26.648445357166853	3905047
+3907367	Comp.	toward novel universal descriptors: charge fingerprints	2009	-1.9751647700194743	-26.71251285788517	3907394
+3907403	Comp.	a fast algorithm for searching for molecules containing a pharmacophore in very large virtual combinatorial libraries	2001	-1.5928494968874674	-26.94724111768946	3907430
+3907780	ML	prism 3: expanded prediction of natural product chemical structures from microbial genomes	2017	-2.3304683109471345	-26.41505320718732	3907807
+3909490	Comp.	airing the word on pollution.	1996	-1.7903542614176131	-26.19852161524044	3909517
+3911476	Comp.	seraphic: a benchmark for in silico fragment-based drug design	2011	-1.6130430697484577	-26.616576683838968	3911503
+3911776	Comp.	finding consensus stable local optimal structures for aligned rna sequences	2012	-1.6040407414861018	-26.616965695663765	3911803
+3912972	Comp.	stereo signature molecular descriptor	2013	-1.531247251198398	-26.902364356375355	3912999
+3913207	Theory	connection topology of proteins	1993	-1.9451008611071623	-26.82786963156016	3913234
+3915665	ML	clustering multi-represented objects with noise	2004	-1.7191591352069862	-26.621767038884677	3915692
+3917708	ML	a comparative study on the application of hierarchical-agglomerative clustering approaches to organize outputs of reiterated docking runs	2006	-2.329376210812954	-26.684731406327142	3917735
+3922260	Web+IR	chemoinformatics: an application domain for information retrieval techniques	2004	-1.7575533648454051	-26.73254307334111	3922287
+3925403	Comp.	cabs-dock web server for the flexible docking of peptides to proteins without prior knowledge of the binding site	2015	-2.0347424208542733	-26.948725086117587	3925430
+3926401	Visualization	a discussion of measures of enrichment in virtual screening: comparing the information content of descriptors with increasing levels of sophistication	2005	-2.3512267539196885	-26.508966307708825	3926428
+3927034	Comp.	optimal contact definition for reconstruction of contact maps	2009	-2.2031206217358568	-26.988017081080052	3927061
+3928160	SE	second-generation de novo design: a view from a medicinal chemist perspective	2009	-2.2150455602136194	-26.751953048113318	3928187
+3929242	ML	aida: ab initio domain assembly server	2014	-1.5800792566968282	-26.986350459218635	3929269
+3930339	Comp.	can molecular dynamics simulations help in discriminating correct from erroneous protein 3d models?	2007	-1.9222768566971962	-26.485900316388197	3930366
+3937228	ML	characterising the geometric diversity of functional groups in chemical databases	1995	-2.0297975944294366	-26.607522466551924	3937255
+3937838	Web+IR	survey on index based homology search algorithms	2006	-1.5109898087563087	-26.534189827806273	3937865
+3939732	Comp.	computer methods to locate signals in nucleic acid sequences	1984	-1.7024962946023356	-26.241248195814237	3939759
+3942183	Comp.	a basic protein comparative three-dimensional modeling methodological workflow theory and practice	2014	-1.442053110466317	-26.791747115397477	3942210
+3943164	Visualization	visualization and virtual screening in molecular property spaces	2011	-1.883679864496882	-26.88833159743107	3943191
+3944695	Theory	optimum utilization of a compound collection or chemical library for drug discovery	1997	-2.0413330638320133	-26.27085503658348	3944722
+3945373	Comp.	setter - rna secondary structure-based tertiary structure similarity algorithm	2011	-1.5102564709702908	-26.815625555604104	3945400
+3945425	DB	ligand and decoy sets for docking to g protein-coupled receptors	2012	-2.2676536273624137	-26.838069763062524	3945452
+3945782	ML	discrimination of native folds using network properties of protein structures	2008	-2.055197280211676	-26.139707737727534	3945809
+3946504	Comp.	new computer aided methods for revealing structural features of unknown compounds using low resolution mass spectra	1998	-1.998414783928471	-26.95718296062541	3946531
+3948712	Comp.	compare local pocket and global protein structure models by small structure patterns	2015	-1.8690279330359407	-26.783637766280886	3948739
+3949581	Comp.	orientation-dependent backbone-only residue pair scoring functions for fixed backbone protein design	2009	-2.104087712810061	-26.86180807892741	3949608
+3949815	ML	discrimination of proteins using graph theoretic properties	2007	-2.077381554903205	-26.156470406856016	3949842
+3950867	Comp.	dna-bar: distinguisher selection for dna barcoding	2005	-1.6316547768603251	-26.13784677420383	3950894
+3952471	Comp.	domain size distributions can predict domain boundaries	2000	-1.568770901585537	-26.354613628443012	3952498
+3958518	Comp.	deepsite: protein-binding site predictor using 3d-convolutional neural networks	2017	-1.6430353901528827	-27.01990216696808	3958545
+3960257	Comp.	the effect of using different thermodynamic models with harmony search algorithm in the accuracy of rna secondary structure prediction	2009	-2.2315963040833653	-26.142501659923486	3960284
+3963590	Theory	identifying good predictions of rna secondary structure	2004	-1.456342120524855	-26.380418775582136	3963617
+3964691	HPC	alphasum: a score matrix based on low identity all-alpha proteins	2008	-1.4503647109018147	-26.207781896511932	3964718
+3965353	ML	a new algorithm to predict the active sites using amino acid vectors and biochemical features of surface patches	2006	-2.2886170849622007	-26.74732251645587	3965380
+3968128	ML	design of an activity landscape view taking compound-based feature probabilities into account	2014	-1.9881177959508782	-26.52613442639423	3968155
+3968264	Visualization	large-scale systematic analysis of 2d fingerprint methods and parameters to improve virtual screening enrichments	2010	-2.3064837617534875	-26.818269126268266	3968291
+3968556	Comp.	library fingerprints: a novel approach to the screening of virtual libraries	2007	-2.093845526128013	-26.33783491574955	3968583
+3971472	Comp.	noise tolerance of the universal similarity metric applied to protein contact map comparison in two dimensions	2008	-1.5422309921719883	-26.92962155750713	3971499
+3973945	Comp.	the bralibase dent—a tale of benchmark design and interpretation	2017	-2.051662770071578	-26.43127453771645	3973972
+3977346	Comp.	the antigenic index: a novel algorithm for predicting antigenic determinants	1988	-1.9413963002831824	-26.312366670156784	3977373
+3985239	Comp.	ligand-binding site prediction of proteins based on known fragment–fragment interactions	2010	-2.318267938397501	-26.35272892586839	3985266
+3987632	Comp.	"""automated docking with protein flexibility in the design of femtomolar """"click chemistry"""" inhibitors of acetylcholinesterase"""	2013	-2.359580617526233	-26.82198173173868	3987659
+3987765	Comp.	shannon entropy-based fingerprint similarity search strategy	2009	-1.9850627468454718	-26.640199032626807	3987792
+3992145	Comp.	enhanced structure elucidation	1996	-1.7038051557585157	-26.991322207215713	3992172
+3993477	Logic	identifying repeated structural elements in folded proteins	1994	-1.4868730320627728	-26.689639707886148	3993504
+3995575	Comp.	identification of amino acid latent periodicity within 94 protein families	2006	-1.5083941964434755	-26.10672266638693	3995602
+3998156	EDA	towards the automatic design of synthetically accessible protein ligands: peptides, amides and peptidomimetics	1996	-2.0663838317167347	-26.727839159650546	3998183
+3999269	ECom	on permuted super-secondary structures of transmembrane β-barrel proteins	2014	-1.4347005941334845	-26.259037903631878	3999296
+4005526	ML	weighting features to recognize 3d patterns of electron density in x-ray protein crystallography	2004	-1.9435914323346184	-27.053617386268808	4005553
+4007948	Comp.	splitpocket: identification of protein functional surfaces and characterization of their spatial patterns	2009	-1.98246329818402	-26.9571592494685	4007975
+4009156	Comp.	3d structural homology detection via nmr resonance assignment	2004	-2.1895137310459902	-26.783105580309595	4009183
+4017169	PL	satis: atom typing from chemical connectivity	1999	-2.227316595059813	-26.854193809232374	4017196
+4018043	Robotics	decoy clustering through graded possibilistic c-medoids	2017	-1.5831658038815408	-26.411604960040012	4018070
+4019445	Theory	searching for a single mathematical function to address the nonlinear retention time shifts problem in nanolc-ms data: a fuzzy-evolutionary computational proteomics approach	2010	-2.2685254603417198	-26.14650255758783	4019472
+4023272	Comp.	predicting designability of small proteins from graph features of contact maps	2016	-2.288881618301664	-26.859197896143023	4023299
+4025835	Comp.	on the reconstruction of three-dimensional protein structures from contact maps	2009	-1.94820901600726	-26.67531884337385	4025862
+4027164	Visualization	visualization of multi-property landscapes for compound selection and optimization	2015	-2.047645858607574	-27.0482905035243	4027191
+4030061	Comp.	detection of distant structural similarities in a set of proteins using a fast graph-based method	1997	-1.5258912149950747	-26.81664840783617	4030088
+4033233	Comp.	automated protein nmr resonance assignments	2003	-1.6343402686417454	-27.009401331656523	4033260
+4037028	DB	similarity and dissimilarity methods for processing chemical structure databases	1998	-1.7757734747395315	-26.617297267548032	4037055
+4039207	Comp.	comparison of non-sequential sets of protein residues	2016	-2.109899599156916	-26.787390007033785	4039234
+4040685	Visualization	measuring camd technique performance: a virtual screening case study in the design of validation experiments	2004	-2.2124056128366663	-26.769284403072625	4040712
+4043740	Visualization	extending the incorporation of superfamily structural information in the process of flexible fitting in 3d-em	2005	-1.655299149362937	-26.434053210169626	4043767
+4045532	Web+IR	comparative study of probability models for compound similarity searching	2005	-1.981403444856828	-26.681871430954644	4045559
+4045983	Comp.	a promising method for fast evaluating protein structure similarity	2012	-2.1095294704379866	-26.563918071674877	4046010
+4046684	ML	a distance function for retrieval of active molecules from complex chemical space representations	2006	-1.9013189746120156	-26.574896353121982	4046711
+4047991	Comp.	a sampling approach for protein backbone fragment conformations	2013	-1.7929780597011926	-27.00141515796104	4048018
+4052388	Comp.	progress in predicting protein function from structure: unique features of o-glycosidases	2002	-1.5462291112312834	-26.897053817070518	4052415
+4057376	Comp.	comprehensive inventory of protein complexes in the protein data bank from consistent classification of interfaces	2008	-1.7954878963406835	-26.315691315090827	4057403
+4058744	Comp.	nmr analysis of rna bulged structures: tabu search application in noe signal assignment	2005	-1.8215461843304732	-26.963200501963414	4058771
+4060078	Visualization	avalanche for shape and feature-based virtual screening with 3d alignment	2015	-2.127761177358962	-27.046106680406485	4060105
+4060536	Comp.	comparison of structure-based tools for the prediction of ligand binding site residues in apo-structures	2012	-1.9226484544548044	-26.82728672630232	4060563
+4068202	Comp.	computational fragment-based approach at pdb scale by protein local similarity	2009	-1.8243095573695505	-26.96291425577743	4068229
+4069469	Comp.	maximum common substructure-based tversky index: an asymmetric hybrid similarity measure	2016	-2.027408261043965	-26.630031417555145	4069496
+4069773	ML	efficient path kernels for reaction function prediction	2012	-1.5430210507312412	-26.25906219108737	4069800
+4070155	Comp.	sahg, a comprehensive database of predicted structures of all human proteins	2011	-1.8134709855771636	-26.997870053594635	4070182
+4071429	Comp.	findgeo: a tool for determining metal coordination geometry	2012	-2.331142158448451	-26.893546784172116	4071456
+4074206	Comp.	search for folding nuclei in native protein structures	2005	-1.5885147518541542	-26.105386812347568	4074233
+4075847	Comp.	a nonredundant structure dataset for benchmarking protein-rna computational docking	2013	-2.229887027811144	-26.44635378173405	4075874
+4077065	ML	scanning structure-activity relationships with structure-activity similarity and related maps: from consensus activity cliffs to selectivity switches	2012	-1.7144346630028404	-26.71526158843021	4077092
+4081552	Comp.	ialign: a method for the structural comparison of protein-protein interfaces	2010	-2.206996233391604	-26.35097396428232	4081579
+4081893	ML	histone deacetylase inhibitors: structure-based modeling and isoform-selectivity prediction	2012	-1.812003287054752	-26.82113018220085	4081920
+4085124	Comp.	large-scale binding ligand prediction by improved patch-based method patch-surfer2.0	2015	-2.1769975927039527	-26.92506587403461	4085151
+4087772	Comp.	three-stage prediction of protein ?-sheets by neural networks, alignments and graph algorithms	2005	-1.7293349472994248	-26.842845833776646	4087799
+4088339	Comp.	engineering a more thermostable blue light photo receptor bacillus subtilis ytva lov domain by a computer aided rational design method	2013	-2.299041959587	-26.48645525545655	4088366
+4089644	ML	on 3-d graphical representation of proteomics maps and their numerical characterization	2001	-1.572266307828608	-26.89423554355568	4089671
+4090555	Theory	detection of three-dimensional patterns of atoms in chemical structures	1979	-1.7929052528288452	-27.014518178025266	4090582
+4091761	Comp.	a study of quality measures for protein threading models	2001	-2.2060946778790265	-26.718753816605805	4091788
+4092825	Comp.	plic: protein–ligand interaction clusters	2014	-2.354444308074481	-26.40925522252853	4092852
+4093168	Comp.	ash structure alignment package: sensitivity and selectivity in domain classification	2007	-2.2504768887453888	-26.50728467042691	4093195
+4093445	ML	extraction of protein binding pockets in close neighborhood of bound ligands makes comparisons simple due to inherent shape similarity	2014	-2.224816243118053	-26.52766400225992	4093472
+4095061	Comp.	towards fully automated structure-based nmr resonance assignment of 15n-labeled proteins from automatically picked peaks	2011	-1.7296466747499009	-26.825420516230007	4095088
+4099575	Comp.	towards automated structure-based nmr resonance assignment	2010	-1.8638809589926597	-26.6797248953062	4099602
+4100074	Graphics	the molecule evoluator: an interactive evolutionary algorithm for designing drug molecules	2005	-2.047909112312811	-26.989418151779407	4100101
+4100214	Comp.	decoy database improvement for protein folding	2015	-1.8530991054475996	-26.67485727773753	4100241
+4100831	Comp.	a combinatorial optimization approach for determining composition and sequence of polymers	2008	-2.1762627661363028	-26.955235396635018	4100858
+4101296	Comp.	membranome 2.0: database for proteome-wide profiling of bitopic proteins and their dimers	2018	-2.0640015348251226	-26.401499270456892	4101323

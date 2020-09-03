@@ -1,0 +1,396 @@
+id	area	title	year	x	y	ix
+3693440	EDA	optimal voltage scaling, repeater insertion, and wire sizing for wave-pipelined global interconnects	2008	-6.829982664655494	13.775522492555734	3693467
+3693493	Networks	a high-speed range-matching tcam for storage-efficient packet classification	2009	-7.012092676358086	14.093922151841063	3693520
+3695134	Arch	capacitively-biased floating-gate cmos: a new logic family	2007	-6.306278962077572	13.487621725933463	3695161
+3696186	Arch	90 nm 32 $\times$  32 bit tunneling sram memory array with 0.5 ns write access time, 1 ns read access time and 0.5 v operation	2011	-6.674576056577804	14.095396108317905	3696213
+3697098	EDA	enhanced arbiter pufs using custom sized structures for reduced noise sensitivity	2016	-6.8187831328353115	13.657812765617294	3697125
+3697700	EDA	sram-based nbti/pbti sensor system design	2010	-6.401484511526396	14.085816002738627	3697727
+3699304	EDA	pareto points in sram design using the sleepy stack approach	2005	-6.782471087636447	13.96066573005487	3699331
+3702063	EDA	segmented virtual ground architecture for low-power embedded sram	2007	-6.760800058574997	13.83720133777215	3702090
+3702559	EDA	17.3 a reconfigurable dual-port memory with error detection and correction in 28nm fdsoi	2016	-6.443827496501927	14.016260149554824	3702586
+3703609	EDA	low voltage srams and the scalability of the 9t supply feedback sram	2011	-6.271892963995695	13.935171367537045	3703636
+3706062	EDA	asynchronous datapath with software-controlled on-chip adaptive voltage scaling for multirate signal processing application	2003	-6.34089597313072	14.1517783961249	3706089
+3706340	EDA	design and analysis of low power dynamic bus based on rlc simulation	2007	-6.795508478488134	13.323397349481446	3706367
+3706631	EDA	the effect of multi-bit based connections on the area efficiency of fpgas utilizing unidirectional routing resources	2010	-6.617769862587938	13.477520180256553	3706658
+3706734	EDA	design automation methodology for improving the variability of synthesized digital circuits operating in the sub/near-threshold regime	2011	-6.51662386981305	13.51223335694442	3706761
+3706896	EDA	19.6 voltage-scalable frequency-independent quasi-resonant clocking implementation of a 0.7-to-1.2v dvfs system	2016	-6.3560859343401805	13.963917520895336	3706923
+3707604	EDA	feedback techniques for dual-rail self-timed circuits	2004	-7.023253570251423	13.318021498222349	3707631
+3710317	HCI	low-power resonant clocking using soft error robust energy recovery flip-flops	2018	-6.824077716598994	14.156885173959706	3710344
+3712092	EDA	power reduction by integrated within_clock_power gating and power gating (wcpg_in_pg)	2013	-6.669948645676111	13.254729798840591	3712119
+3713348	EDA	-1.1v to +1.1v 3:1 power switch architecture for controlling body bias of sram array in 28nm utbb cmos fdsoi	2016	-6.713611788380648	14.098549538996865	3713375
+3714531	EDA	a novel sram cell design with a body-bias controller circuit for low leakage, high speed and improved stability	2017	-6.805162222165994	14.060442772679789	3714558
+3715298	EDA	accurate energy breakeven time estimation for run-time power gating	2008	-6.422048095106597	13.256508190855778	3715325
+3715898	EDA	extended comparative analysis of flip-flop architectures for subthreshold applications in 28 nm fd-soi ☆	2017	-6.980167860585659	13.965205754616434	3715925
+3715993	EDA	improving tolerance to power-supply and temperature variations in synchronous circuits	2007	-6.335146244447698	13.598405196282707	3716020
+3716311	EDA	optimal choice of finfet devices for energy minimization in deeply-scaled technologies	2015	-6.457090654157878	13.889315022780394	3716338
+3717088	EDA	ring-oscillator-based timing generator for ultralow-power applications	2017	-6.88725573609885	13.448969015679634	3717115
+3717249	Arch	a carbon nanotube transistor based risc-v processor using pass transistor logic	2017	-6.4102338775765775	13.658094701767885	3717276
+3718067	Arch	low power sub-threshold asynchronous qdi static logic transistor-level implementation (slti) 32-bit alu	2013	-7.219132572124321	13.80055721050641	3718094
+3718449	AI	double-precision dual mode logic carry-save multiplier	2019	-7.065835706202543	13.848519294967627	3718476
+3718634	EDA	a clock delayed sleep mode domino logic for wide dynamic or gate	2003	-6.972407494447277	13.874699304828734	3718661
+3719111	EDA	low-voltage low-power cmos true-single-phase clocking scheme with locally asynchronous logic circuits	1995	-7.007989017470742	13.760289869034555	3719138
+3719590	EDA	testing mram for write disturbance fault	2006	-6.510573853675556	13.965882871093305	3719617
+3720368	EDA	variability-aware design of energy-delay optimal linear pipelines operating in the near-threshold regime and above	2013	-6.465009285105571	13.773014428541329	3720395
+3721491	EDA	fine-grained supply gating through hypergraph partitioning and shannon decomposition for active power reduction	2008	-6.3147782357651066	13.653492235037866	3721518
+3722537	EDA	a 45nm self-aligned-contact process 1gb nor flash with 5mb/s program speed	2008	-6.542460299691036	14.10993034655454	3722564
+3723380	EDA	why hybridize nems with cmos?	2014	-6.612133698783468	13.441771397579927	3723407
+3724020	EDA	two phase write scheme to improve low voltage write-ability in medium-density srams	2015	-6.540630208840946	13.966001844052371	3724047
+3725072	EDA	fault model for on-chip communication and joint equalization and special spacing rules for on-chip bus design	2012	-7.204708326900097	13.991602133540828	3725099
+3725227	EDA	dual-edge triggered static pulsed flip-flops	2005	-7.04502894869654	13.774142067025295	3725254
+3728673	EDA	a new single ended sense amplifier for low voltage embedded eeprom non volatile memories	2002	-6.623853336647728	14.034100536400715	3728700
+3729074	EDA	unconventional layout techniques for a high performance, low variability subthreshold standard cell library	2017	-6.650189482362482	13.35017313841484	3729101
+3730523	EDA	novel memory bus driver/receiver architecture for higher throughput	1998	-6.501943694571977	13.640255176087008	3730550
+3732027	EDA	impact of eccs on simultaneously switching output noise for on-chip busses of high reliability systems [error correcting codes]	2004	-6.55615703108231	13.665004235848036	3732054
+3733875	EDA	enhanced statistical blockade approaches for fast robustness estimation and compensation of nano-cmos circuits	2012	-6.466780704189772	13.269602093409645	3733902
+3734693	EDA	novel timing yield improvement circuits for high-performance low-power wide fan-in dynamic or gates	2011	-6.3188665160259125	13.441419172664249	3734720
+3735976	EDA	high performance complementary pass transistor logic full adder	2011	-7.1608080240653775	13.469155986390033	3736003
+3740659	EDA	a low-overhead virtual rail technique for sram leakage power reduction	2005	-6.688895212947682	14.038828666644658	3740686
+3741619	EDA	an efficient wake-up schedule during power mode transition considering spurious glitches phenomenon	2007	-6.651437284086173	13.786495385628196	3741646
+3743407	EDA	emitter-coupled spin-transistor logic	2012	-6.6173871242173705	13.501126245201151	3743434
+3744338	HPC	a framework for high-speed parallel-prefix adder performance evaluation and comparison	2015	-7.196183316096655	13.51160541276332	3744365
+3746757	EDA	design methodology for area and energy efficient oxram-based non-volatile flip-flop	2017	-6.53574005529754	14.14225881523443	3746784
+3748237	Arch	a memristor-based compressive sensing architecture	2016	-6.476425921575228	14.068014096840336	3748264
+3748423	Arch	innovative power gating for leakage reduction	2008	-6.467945260628501	13.733901078667465	3748450
+3750078	EDA	a three-port adiabatic register file suitable for embedded applications	1998	-6.767498040763097	13.857193396795571	3750105
+3750660	EDA	pmos-only sleep switch dual-threshold voltage domino logic in sub-65-nm cmos technologies	2007	-6.883535283712808	14.00753138550768	3750687
+3751047	Robotics	single-ended sub-threshold finfet 7t sram cell without boosted supply	2014	-6.731309669359412	14.022172452841588	3751074
+3751575	Arch	low-leakage repeaters for noc interconnects	2005	-6.9175470562679555	13.724393670241895	3751602
+3752291	EDA	multi-swarm optimization of a graphene fet based voltage controlled oscillator circuit	2015	-6.586559800924055	13.638469475794402	3752318
+3754516	EDA	a novel robust and low-leakage sram cell with nine carbon nanotube transistors	2015	-6.663851301933758	14.051073251118893	3754543
+3754566	EDA	enhanced bus invert encodings for low-power	2002	-7.151626021347215	13.548061007102811	3754593
+3755078	EDA	soft error rates with inertial and logical masking	2009	-6.290438350648669	13.303659612345786	3755105
+3755210	Arch	power gating with multiple sleep modes	2006	-6.541359243795758	13.808484984752456	3755237
+3757143	Arch	8t1r: a novel low-power high-speed rram-based non-volatile sram design	2016	-6.488019229602619	14.125790887838855	3757170
+3757543	Arch	low power low leakage clock gated static pulsed flip-flop	2006	-6.924623359400612	13.748683378943026	3757570
+3758279	EDA	sram read-assist scheme for high performanc low power applications	2011	-6.529115854242503	14.109992218277984	3758306
+3759141	Arch	array architecture for a nonvolatile 3-dimensional cross-point resistance-change memory	2011	-6.614935605630397	14.046285946221474	3759168
+3759860	EDA	a 32kb sram cache using current mode operation and asynchronous wave-pipelined decoders	2004	-6.463100061830177	14.041097346917038	3759887
+3760643	Arch	architecture of a multi-context fpga using a hybrid multiple-valued/binary context switching signal	2006	-6.617117350312704	13.667980627436073	3760670
+3761739	EDA	quasi delay-insensitive high speed two-phase protocol asynchronous wrapper for network on chips	2010	-7.098342771001756	13.936788561105368	3761766
+3763014	EDA	asynchronous asymmetrical write termination (aawt) for a low power stt-mram	2014	-6.608459559061592	14.12108558310956	3763041
+3763326	EDA	a framework for energy and transient power reduction during behavioral synthesis	2004	-6.4668934486190395	13.377700488196744	3763353
+3763489	ML	a new cmac neural network architecture and its asic realization	2000	-7.091375516397132	13.772339183151717	3763516
+3764706	EDA	crosstalk-insensitive via-programming roms using content-aware design framework	2006	-6.846753297445642	14.076779356345	3764733
+3765141	Arch	mtcmos low-power design technique (lpdt) for low-voltage pipelined microprocessor circuits	2014	-6.976303593285615	13.933707397091787	3765168
+3768394	EDA	a 0.6v retention vmin ultra-low leakage high density 6t sram in 40nm cmos technology using adaptive source bias	2018	-6.723767890159444	14.160735447121265	3768421
+3768784	EDA	transistor and pin reordering for gate oxide leakage reduction in dual t/sub ox/ circuits	2004	-6.50081701680603	13.424944442868929	3768811
+3769369	EDA	rewritable progammable logic array of current mode logic	1981	-6.679045252808441	13.307758771285194	3769396
+3769410	EDA	a high speed and energy efficient full adder design using complementary & level restoring carry logic	2006	-7.2045871889547515	13.918913480432735	3769437
+3770187	EDA	robustness-driven energy-efficient ultra-low voltage standard cell design with intra-cell mixed-vt methodology	2013	-6.729361610922848	13.862758903769887	3770214
+3771495	EDA	nonvolatile sram (nv-sram) using functional mosfet merged with resistive switching devices	2009	-6.812439213553388	13.403242318752374	3771522
+3772548	EDA	evaluation of low-leakage design techniques for field programmable gate arrays	2004	-6.4642765865841785	13.52853388965179	3772575
+3772599	Arch	supply and power optimization in leakage-dominant technologies	2005	-6.647705562345379	13.463637307667875	3772626
+3773957	EDA	robust soft error tolerant cmos latch configurations	2016	-6.841292626506218	13.31340205626648	3773984
+3773987	EDA	exploration of si/ge tunnel fet bit cells for ultra-low power embedded memory	2016	-6.394152475317664	13.886262831668393	3774014
+3774568	EDA	exploring efficiency of ring oscillator- based temperature sensor networks on fpgas	2015	-6.2796813551139605	13.950150568637964	3774595
+3777075	EDA	pulse controlled memristor-based delay element	2017	-6.394357640697995	13.91474978711302	3777102
+3777232	Arch	ftcam: an area-efficient flash-based ternary cam design	2016	-6.493673180423842	14.137924822508538	3777259
+3778177	EDA	improving performance and reliability of nor-flash arrays by using pulsed operation	2006	-6.473374807839247	13.870316611427972	3778204
+3779016	Arch	impact of cell distance and well-contact density on neutron-induced multiple cell upsets	2013	-6.359658018260412	13.874202187521439	3779043
+3779915	EDA	high performance cnfet-based ternary full adders	2017	-6.906568098937755	13.564276934358352	3779942
+3782625	EDA	control circuit templates for asynchronous bundled-data pipelines	2002	-7.118588314123977	13.300440810983195	3782652
+3782957	AI	mflp: most frequent least power encoding	2013	-6.794758631335628	13.582749056050444	3782984
+3785078	EDA	a look-ahead clock gating based on auto-gated flip-flops	2014	-6.3899508415770985	13.225664418001704	3785105
+3786443	Arch	subthreshold pass transistor logic for ultra-low power operation	2007	-7.008639723389628	13.774508585855973	3786470
+3787185	EDA	power-delay product minimization in high-performance 64-bit carry-select adders	2004	-7.0653309112546925	13.87678053865422	3787212
+3787568	EDA	variable tapered pareto buffer design and implementation allowing run-time configuration for low-power embedded srams	2005	-6.42456477886258	13.309232457628276	3787595
+3787893	EDA	cmos design and analysis of low-voltage signaling methodology for energy efficient on-chip interconnects	2009	-7.01282748603951	13.828570380499645	3787920
+3788856	Arch	pd/soi sram performance in presence of gate-to-body tunneling current	2003	-6.3429538152698735	13.732708821608353	3788883
+3788971	EDA	a 2kb built-in row-controlled dynamic voltage scaling near-/sub-threshold fifo memory for wbans	2012	-6.738166365171425	14.015280572160382	3788998
+3791252	Arch	cmos interface circuits for reading and writing memristor crossbar array	2011	-6.756071606370843	14.086184690547904	3791279
+3791657	EDA	hybrid crossbar architecture for a memristor based cache	2015	-6.4809123258508405	14.059683287483294	3791684
+3792923	EDA	error correction encoding for tightly coupled on-chip buses	2014	-6.734484074833063	13.496770850921404	3792950
+3793498	Arch	a tunable bus encoder for off-chip data buses	2005	-6.923868216415381	13.833322261092501	3793525
+3793696	EDA	level-converting retention flip-flop for reducing standby power in zigbee socs	2015	-6.905551803508748	14.043692696846053	3793723
+3794238	EDA	performance comparisons between 7-nm finfet and conventional bulk cmos standard cell libraries	2015	-6.351697808374753	13.694509024624818	3794265
+3795463	EDA	a new asymmetric skewed buffer design for runtime leakage power reduction	2005	-6.811148912244454	14.022510524230649	3795490
+3795563	Visualization	level converting flip-flops for high-speed and low-power applications	2006	-7.1291434571940195	13.815535223272164	3795590
+3796727	Arch	novel video memory reduces 45% of bitline power using majority logic and data-bit reordering	2008	-7.1557936330523875	13.934348370729255	3796754
+3797137	EDA	design of a branch-based 64-bit carry-select adder in 0.18 µm partially depleted soi cmos	2002	-6.775470917377849	13.884035503160751	3797164
+3797459	EDA	phase change ram operated with 1.5-v cmos as low cost embedded memory	2005	-6.647591902295799	14.133487782275212	3797486
+3797812	EDA	selective shielding: a crosstalk-free bus encoding technique	2007	-6.881920108267994	13.332380282985964	3797839
+3797895	EDA	transient power management through high level synthesis	2001	-6.31750211273201	13.376903147097865	3797922
+3798067	EDA	towards dark silicon era in fpgas using complementary hard logic design	2014	-6.394858046266859	13.934474177255593	3798094
+3798905	Arch	verify level control criteria for multi-level cell flash memories and their applications	2012	-6.84829031276276	14.088021351693142	3798932
+3802267	EDA	exploring the energy efficiency of multispeculative adders	2013	-7.2197729993370965	13.830128273511288	3802294
+3802773	EDA	avgs-mux style: a novel technology and device independent technique for reducing power and compensating process variations in fpga fabrics	2010	-6.469823038725648	13.762159874385125	3802800
+3806046	EDA	post-silicon calibration of analog cmos using phase-change memory cells	2011	-6.752189679896289	13.886029600292394	3806073
+3807412	EDA	design techniques of a delay-line content-addressed memory	1966	-6.565084944252952	13.217540703143134	3807439
+3807569	Arch	high-performance low-power sensing scheme for nanoscale srams	2012	-6.674046242444444	14.131901311118881	3807596
+3808315	EDA	power-aware fpga technology mapping for programmable-vt architectures (abstract only)	2012	-6.5553653673073935	13.548334742989244	3808342
+3808815	EDA	a new threshold voltage assignment scheme for runtime leakage reduction in on-chip repeaters	2004	-6.634178462205162	13.605308408112712	3808842
+3811613	EDA	novel cross-transition elimination technique improving delay and power consumption for on-chip buses	2008	-6.638112656962178	13.3459729187415	3811640
+3812264	Arch	protected, low-latency message passing in the snow prototype	1997	-6.431338313836656	13.996728893868307	3812291
+3815554	EDA	spatio-temporal coding to improve speed and noise tolerance of on-chip interconnect	2010	-7.00252596512675	13.508409793570705	3815581
+3817420	EDA	a compact soft-error tolerant asynchronous tcam based on a transistor/magnetic-tunnel-junction hybrid dual-rail word structure	2014	-6.295981627861818	13.967561427254706	3817447
+3819987	EDA	sleepy stack reduction of leakage power	2004	-6.371372757746628	13.867584598506225	3820014
+3820086	EDA	temperature-adaptive energy reduction for ultra-low power-supply-voltage subthreshold logic circuits	2007	-6.480991559955895	13.865298972902968	3820113
+3821655	EDA	low-voltage soi cmos dtmos/mtcmos circuit technique for design optimization of low-power soc applications	2010	-7.100824782359089	13.752529640078844	3821682
+3821872	Arch	content addressable memory—early predict and terminate precharge of match-line	2017	-6.936790914617494	13.3782630899021	3821899
+3824845	EDA	characteristics of prototype cmos quaternary logic encoder-decoder circuits	1986	-6.50769004914184	13.585263093861268	3824872
+3825345	Arch	static and dynamic power reduction by architecture selection	2006	-6.2639608358053	13.433274583123168	3825372
+3827957	EDA	a low-power charge sharing hierarchical bitline and voltage-latched sense amplifier for sram macro in 28 nm cmos technology	2014	-6.815345697239495	14.049006907357823	3827984
+3828159	Arch	asymmetric 6t sram with two-phase write and split bitline differential sensing for low voltage operation	2010	-6.744820308361753	14.137459375865701	3828186
+3828160	EDA	design of a low-power non-volatile programmable inverter cell for cogre-based circuits	2017	-6.985849464510013	13.79390932847763	3828187
+3828308	Embedded	sram portless bitcell and current-mode reading	2010	-6.6772609179391855	14.031752769307115	3828335
+3831491	EDA	a 1ghz embedded dram macro and fully programmable bist with at-speed bitmap capability	2005	-6.320950861754167	13.7658655492035	3831518
+3833602	EDA	full-swing gate diffusion input logic - case-study of low-power cla adder design	2014	-7.1404462619571225	13.768569712471294	3833629
+3835653	EDA	device and technology optimizations for low power design in deep sub-micron regime	1997	-6.278280587542935	13.551843551197724	3835680
+3835748	EDA	optimal design of 6t sram bitcells for ultra low-voltage operation	2015	-6.444464162577393	13.840783749833989	3835775
+3836266	EDA	flex-pass-gate sram design for static noise margin enhancement using finfet-based technology	2007	-6.3573084424624415	13.839566976726044	3836293
+3837113	EDA	design of sequential circuits using single-clocked energy efficient adiabatic logic for ultra low power application	2014	-6.970360506728066	13.699291300897471	3837140
+3837303	Arch	multi clock flooded ldpc decoding architecture with reduced memory and interconnect	2016	-6.501760011790693	13.805304494590052	3837330
+3837386	EDA	a novel approach for power reduction in asynchronous circuits by using afpt	2014	-6.876494085391914	13.76975553987813	3837413
+3839449	EDA	a single-event upset hardening technique for high speed mos current mode logic	2010	-6.9349966325513375	13.89769857020937	3839476
+3841441	EDA	a high performance gated voltage level translator with integrated multiplexer	2018	-6.610856332158837	13.690443760149693	3841468
+3841961	EDA	an analog dynamic memory array for neuromorphic hardware	2013	-6.440158795159645	13.984934467879885	3841988
+3842220	EDA	two-dimensional analysis of a merged bipmos device	1989	-6.86153696301085	13.71846182572076	3842247
+3843032	EDA	the optimum design of ram cell based on the modified-gdi method using non-dominated sorting genetic algorithm ii (nsga-ii)	2017	-7.172532141252372	13.389348579034838	3843059
+3843259	Robotics	orthogonal transpose-ram cell array architecture with alternate bit-line to bit-line contact scheme	2001	-6.6064724157482	13.8578019180136	3843286
+3843525	ML	design of mtj-based nonvolatile logic gates for quantized neural networks	2018	-6.436119100854282	13.756373823168206	3843552
+3845418	Arch	power-optimal pipelining in deep submicron technology	2004	-6.798245653787881	13.6293842727797	3845445
+3846032	Arch	energy recovery for the design of high-speed, low-power static rams	1996	-6.818718189909959	13.947630617753944	3846059
+3846573	EDA	delay optimal low-power circuit clustering for fpgas with dual supply voltages	2004	-6.888788041473551	13.294553210614975	3846600
+3848585	EDA	asynchronous dsp for low-power energy-efficient embedded systems	2011	-6.868113420011213	13.856153760060375	3848612
+3849274	EDA	on-chip pvt compensation techniques for low-voltage cmos digital lsis	2009	-6.494000029671573	13.635865669910226	3849301
+3849763	EDA	design and application of adaptive delay sequential elements	2006	-6.353930636556743	13.78173278649852	3849790
+3850143	EDA	dcpg: double-control power gating technique for a 28 nm cortex™-a9 mpcore quad-core processor	2015	-6.501888311376157	14.081079006046266	3850170
+3850327	EDA	selective-capacitance constant-charge-injection programming scheme for high-speed multilevel ag-and flash memories	2005	-6.663854866478938	13.810764182637381	3850354
+3850677	EDA	analysis on sensing yield of voltage latched sense amplifier for low power dram	2018	-6.282203736977393	13.926936358537333	3850704
+3850709	EDA	cmos logic design with independent-gate finfets	2007	-6.725165965922662	13.898781666524295	3850736
+3850717	Arch	a novel cmos double-edge triggered flip-flop for low-power applications	2004	-6.863539006889683	13.758421463289926	3850744
+3851068	EDA	process variation tolerant sram cell design	2011	-6.534300346614944	14.094640814664155	3851095
+3851777	EDA	a novel deep submicron low power bus coding technique	2005	-6.705778963972275	13.49217293477774	3851804
+3854990	EDA	rama: a self-assembled multiferroic magnetic qca for low power systems	2011	-6.285252782192033	13.65266098504215	3855017
+3858832	EDA	low-power high-level synthesis using latches	2001	-6.6279954351728225	13.628659629318225	3858859
+3859284	Arch	a segmented gray code for low-power microcontroller address buses	1999	-6.765627549408952	13.24471909562642	3859311
+3859505	EDA	energy efficient and hign bandwidth embedded memory implementation	2013	-6.543757531810952	13.940243997973244	3859532
+3861535	EDA	narrow bus encoding for low-power dsp systems	2001	-7.143271153685834	13.464686048738711	3861562
+3863698	EDA	selective body biasing for post-silicon tuning of sub-threshold designs: an adaptive filtering approach	2015	-6.280741535736464	13.425213497218001	3863725
+3863891	Arch	minimal-power, delay-balanced smart repeaters for global interconnects in the nanometer regime	2008	-6.845955537237217	13.76445884778932	3863918
+3865388	EDA	analysis of universal logic gates using carbon nanotube field effect transistor	2010	-6.594115069991356	13.660243810297734	3865415
+3865429	EDA	area and energy efficient magnetic full adder based on differential spin hall mram	2018	-6.765799984946298	14.111129154347493	3865456
+3868446	EDA	a 45-nm dual-port sram utilizing write-assist cells against simultaneous access disturbances	2012	-6.744544586946889	14.081010488682507	3868473
+3871406	EDA	low swing dual threshold voltage domino logic	2002	-6.807032735040394	13.858476115556504	3871433
+3871731	Mobile	a high-density 45 nm sram using small-signal non-strobed regenerative sensing	2008	-6.688849760724323	14.139457621755161	3871758
+3872039	Arch	synthesis of dual-vt dynamic cmos circuits	2003	-6.326752900286003	13.675356171795835	3872066
+3872103	EDA	power reduction technique using multiple supply voltage and switching activity analysis	2013	-6.689573159644677	13.490481228929776	3872130
+3872221	EDA	built-in self-test for phase-locked loops	2005	-7.192958871073237	13.298817505239539	3872248
+3872437	EDA	low-power field-programmable vlsi using multiple supply voltages	2005	-6.903716978413719	13.613757883139096	3872464
+3873390	EDA	a new dual asymmetric bit-line sense amplifier for low-voltage dynamic random access memory	2013	-6.775965481667748	14.141043721776333	3873417
+3874635	EDA	the effect of sparse switch patterns on the area efficiency of multi-bit routing resources in field-programmable gate arrays	2008	-6.523685886343683	13.283282354825252	3874662
+3876483	EDA	evaluation of read- and write-assist circuits for geoi finfet 6t sram cells	2014	-6.5875590931082675	14.019275878245606	3876510
+3877892	HCI	active mode leakage reduction using fine-grained forward body biasing strategy	2007	-6.826147214385222	13.373320595666462	3877919
+3878510	EDA	a low-power robust easily cascaded pentamtj-based combinational and sequential circuits	2016	-6.355811482766764	13.928978108923118	3878537
+3878659	EDA	design & study of a low power high speed full adder using gdi multiplexer	2015	-7.162947750061868	13.523138664726545	3878686
+3878879	EDA	from the quantum moore's law toward silicon based universal quantum computing	2017	-6.424162432563118	13.367769190007932	3878906
+3879817	EDA	a low-voltage 13t latch-type sense amplifier with regenerative feedback for ultra speed memory access	2017	-6.699540105288718	14.146670584399864	3879844
+3882923	EDA	2mb spin-transfer torque ram (spram) with bit-by-bit bidirectional current write and parallelizing-direction current read	2007	-6.5284839765704215	14.047564399930707	3882950
+3883068	Arch	sneak paths effects in cbram memristive devices arrays for spiking neural networks	2014	-6.522612775807322	13.940196145275964	3883095
+3883780	EDA	a general design methodology for synchronous early-completion-prediction adders in nano-cmos dsp architectures	2013	-7.0392206219167255	13.454020519099705	3883807
+3886155	HPC	multilevel sot-mram cell with a novel sensing scheme for high-density memory applications	2017	-6.300060449817866	14.079395480369355	3886182
+3886504	EDA	exploiting programmable temperature compensation devices to manage temperature-induced delay uncertainty	2012	-6.373076641262144	13.77971753197317	3886531
+3886733	EDA	spin-hall assisted stt-ram design and discussion	2015	-6.333160286184036	14.122161447454829	3886760
+3887450	EDA	ultra-low voltage adders in 28 nm fdsoi exploring poly-biasing for device sizing	2016	-7.085666131079148	14.04071137867261	3887477
+3888371	EDA	impact of voltage scaling on stt-mrams through a variability-aware simulation framework	2017	-6.451973294732331	13.684819561528569	3888398
+3888581	Arch	dynamic voltage and frequency scaling for low-power multi-precision reconfigurable multiplier	2010	-6.4900544970635226	14.015373812997927	3888608
+3891884	EDA	multi-level memristive memory with resistive networks	2017	-7.0008925690062025	13.31496801823172	3891911
+3893819	EDA	a novel design of low power and high read stability ternary sram (t-sram), memory based on the modified gate diffusion input (m-gdi) method in nanotechnology	2016	-6.558641327690453	13.91761718102098	3893846
+3893952	EDA	8t-sram cell with improved read and write margins in 65 nm cmos technology	2014	-6.706597978244683	14.11409760796221	3893979
+3894575	Theory	ultra-low-voltage self-body biasing scheme and its application to basic arithmetic circuits	2015	-7.052875860276543	13.727708211738836	3894602
+3895290	EDA	a 40 nm dual-width standard cell library for near/sub-threshold operation	2012	-6.802880517700206	13.669410518739786	3895317
+3898785	EDA	a 16.07pj/cycle 31mhz fully differential transmission gate logic arm cortex m0 core in 40nm cmos	2016	-6.7933540604102625	13.971089335580931	3898812
+3899720	Arch	a low-power ternary content addressable memory with pai-sigma matchlines	2012	-6.620935774846889	13.964172087018456	3899747
+3899957	Arch	differential pair sense amplifier for a robust reading scheme for memristor-based memories	2013	-6.414592806917006	13.8463407394873	3899984
+3899997	EDA	adapting a c-element design flow for low power	2011	-6.609061084139596	13.52325046837349	3900024
+3900824	EDA	optimization of an on-chip active cooling system based on thin-film thermoelectric coolers	2010	-6.28251394819543	13.354913358203188	3900851
+3901153	EDA	a low-power design method using multiple supply voltages	1997	-6.733766039772263	13.209563542134635	3901180
+3903325	EDA	parameter variation aware hybrid tfet-cmos based power gating technique with a temperature variation tolerant sleep mode	2014	-6.456933577838143	13.809607573068767	3903352
+3905915	Arch	using the dynamic power source technique to reduce tcam leakage power	2010	-6.740517598070941	13.805170883934286	3905942
+3906229	Arch	power supply optimization in sub-130 nm leakage dominant technologies	2004	-6.635326369036895	13.501131350546055	3906256
+3907593	Arch	multi-context fpga using fine-grained interconnection blocks and its cad environment	2008	-6.592372505459149	13.913325433300546	3907620
+3908994	EDA	device- and system-level performance modeling for graphene p-n junction logic	2012	-6.520674078728784	13.72599009043026	3909021
+3910147	EDA	finfet domino logic with independent gate keepers	2009	-6.584389664093102	13.836192037019803	3910174
+3912734	EDA	theoretical model of endp to achieve energy-efficient sram	2017	-6.728431804309701	13.800549925496323	3912761
+3913161	Arch	a leakage-tolerant low-leakage register file with conditional sleep transistor	2004	-6.760451045379036	13.867912281397905	3913188
+3913454	EDA	optimization of overdrive signoff	2013	-6.477823196477578	13.261642107119009	3913481
+3915758	Visualization	energy-efficient dual-edge-triggered level converting flip flops with symmetry in setup times and insensitivity to output parasitics	2009	-6.763875493745125	13.851918024749489	3915785
+3919696	EDA	low-power dual-supply clock networks with clock gating and frequency doubling	2012	-7.033404648700459	13.941060762357711	3919723
+3919864	EDA	low power pulse generator design using hybrid logic	2010	-7.226419658284723	13.772963563067709	3919891
+3921254	EDA	low-dynamic-power and low-leakage-power techniques for cmos square-root circuit	2009	-7.169420735488777	13.695084493532324	3921281
+3922343	EDA	low-power sequential circuit design using work-function engineered finfets	2017	-6.649128343605423	13.690297678662793	3922370
+3922574	EDA	power/ground supply voltage variation-aware delay test pattern generation	2014	-7.0312570033183	13.601024240104305	3922601
+3923957	Arch	a double data rate 8t-cell sram architecture for systems-on-chip	2012	-6.515938627721543	14.123827582762546	3923984
+3925907	Arch	design of a low-energy nonvolatile fully-parallel ternary cam using a two-level segmented match-line scheme	2011	-6.883795325189007	14.094833000034573	3925934
+3927099	EDA	nanocmos-molecular realization of rijndael	2006	-6.4452028887389465	13.342338681317706	3927126
+3928891	EDA	performance analysis of subthreshold 32-bit kogge-stone adder for worst-case-delay and power in sub-micron technology	2013	-7.054037361103848	13.749743459764533	3928918
+3930744	EDA	a medradio receiver front-end with wide energy-quality scalability through circuit and architecture-level reconfigurations	2018	-6.295046486390871	14.05416814921866	3930771
+3931655	EDA	input space adaptive design: a high-level methodology for optimizing energy and performance	2004	-6.377713271222153	13.268870100260004	3931682
+3932181	EDA	self adaptive body biasing scheme for leakage power reduction in nanoscale cmos circuit	2012	-6.552454750562661	13.661259758949996	3932208
+3936693	Arch	analog-to-stochastic converter using magnetic-tunnel junction devices	2014	-7.1563815158160615	13.638700769166169	3936720
+3938038	EDA	modeling and comparing cmos implementations of the c-element	1998	-6.550843784295402	13.31046004274636	3938065
+3940209	EDA	spram (spin-transfer torque ram) design and its impact on digital systems	2007	-6.44528840204314	14.059101872574654	3940236
+3940988	Vision	serial-parallel content addressable memory with a conditional driver (spcwcd)	2009	-7.084275512795408	13.57201097579228	3941015
+3944037	EDA	nanobridge-based fpga in high-temperature environments	2017	-6.286769980379566	13.94831072759813	3944064
+3946825	Arch	asymmetric drain underlap schottky barrier soi mosfet for low-power high performance nanoscale cmos circuits	2011	-6.8290057226577465	14.015262469516788	3946852
+3947013	SE	layout-oriented look up table-based dual threshold approach to reduce leakage	2015	-6.790310717133272	13.752007708511707	3947040
+3947415	EDA	design of ultra-low power combinational standard library cells using a novel leakage reduction methodology	2006	-6.688121805369544	13.872219730326247	3947442
+3948170	EDA	bias temperature instability analysis of finfet based sram cells	2014	-6.2805213844475976	13.698413168688884	3948197
+3948480	EDA	on logic depth per pipelining stage with power aware flop, wave and hybrid pipelining with gate size and area constraints	2015	-6.9457726801627375	13.525307279546974	3948507
+3948781	EDA	a disturb-free 10t sram cell with high read stability and write ability for ultra-low voltage operations	2018	-6.646184097752701	14.113676291825714	3948808
+3950117	Arch	a cost-effective 45nm 6t-sram reducing 50mv vmin and 53% standby leakage with multi-vt asymmetric halo mos and write assist circuitry	2013	-6.715769874432005	14.11557781580984	3950144
+3950303	Robotics	a large scale, flip-flop ram imitating a logic lsi for fast development of process technology	2007	-6.47594711395537	13.462848722348506	3950330
+3950562	EDA	a current-recycling technique for shadow-match-line sensing in content-addressable memories	2008	-7.1071506565023315	14.052466226717806	3950589
+3950790	EDA	a bulk 65nm cortex-m0+ soc with all-digital forward body bias for 4.3x subthreshold speedup	2018	-6.57531141508081	14.0071164516243	3950817
+3952019	Embedded	transition inversion based low power data coding scheme for synchronous serial communication	2009	-6.9107192535315045	13.67411246476886	3952046
+3953969	EDA	evaluation of rtd-cmos logic gates	2010	-6.526060409113147	13.387195938723053	3953996
+3954180	EDA	timing analysis and optimization of voltage scaled cmos digital circuits with dual-vth devices	2014	-6.479904794418777	13.420521787857814	3954207
+3954533	EDA	a novel 15t-4mtj based non-volatile ternary content-addressable memory cell for high-speed, low-power and high-reliable search operation	2018	-6.942694753270204	14.143965985749846	3954560
+3956078	EDA	power efficiency optimization of charge pumps in embedded low voltage nor flash memory	2017	-6.957098773528536	14.029612822839718	3956105
+3956570	Arch	post-synthesis circuit techniques for runtime leakage reduction	2011	-6.7666990054066725	13.3526488131901	3956597
+3957566	EDA	body bias driven design synthesis for optimum performance per area	2010	-6.297456826988405	13.628616051353722	3957593
+3958055	EDA	nbti/pbti-aware wordline voltage control with no boosted supply for stability improvement of half-selected sram cells	2012	-6.295814152873987	13.857357800507446	3958082
+3960328	EDA	a 64-kb 0.37v 28nm 10t-sram with mixed-vth read-port and boosted wl scheme for iot applications	2016	-6.740673948349	14.107058875116564	3960355
+3960917	Arch	novel low voltage current-mirror sense amplifier based flip-flop with reduced delay time	2009	-7.0221548910330895	13.738953087542464	3960944
+3961077	EDA	a 2-port 6t sram bitcell design with multi-port capabilities at reduced area overhead	2010	-6.574237895969532	13.973028827674634	3961104
+3963878	Arch	in-memory multiplication engine with sot-mram based stochastic computing	2018	-6.600819142631651	13.514838345544335	3963905
+3965291	Arch	high performance circuit techniques for dynamic or gates	2006	-7.009527213115794	13.667351166672034	3965318
+3965504	EDA	optimization of a voltage sense amplifier operating in ultra wide voltage range with back bias design techniques in 28nm utbb fd-soi technology	2013	-6.389758306982608	14.083013758960984	3965531
+3965735	EDA	technology mapping for soi domino logic incorporating solutions for the parasitic bipolar effect	2003	-6.95485629735672	13.252935719375452	3965762
+3967102	EDA	paces: a partition-centering-based symmetry placement for binary-weighted unit capacitor arrays	2017	-6.678088342934916	13.53735126756644	3967129
+3967304	Arch	on-chip detection methodology for break-even time of power gated function units	2011	-6.4232642228941215	13.636192858372159	3967331
+3969081	EDA	a 126 mm2 4-gb multilevel ag-and flash memory with inversion-layer-bit-line technology	2007	-6.660606242982074	14.16024904628203	3969108
+3969744	Arch	a forward body-biased low-leakage sram cache: device and architecture considerations	2003	-6.4585909683530645	14.135935058697463	3969771
+3971103	EDA	a novel high-speed sense-amplifier-based flip-flop	2005	-7.009739528580336	13.345805235161777	3971130
+3971139	EDA	design technology co-optimization for enabling 5nm gate-all-around nanowire 6t sram	2015	-6.460017007333827	14.044568380569446	3971166
+3972218	EDA	multi-objective optimization domino techniques for vlsi circuit	2016	-6.937959357986713	13.420161708852145	3972245
+3974737	EDA	design of resistant dpa three-valued counter based on sabl	2011	-7.22598561297507	13.74433618582073	3974764
+3974907	EDA	pns-fcr: flexible charge recycling dynamic circuit technique for low-power microprocessors	2016	-6.809297807729123	13.820597681758725	3974934
+3976791	EDA	a novel low power 8t-cell sub-threshold sram with improved read-snm	2013	-6.674684483063638	14.156871198180161	3976818
+3977335	EDA	capacitive coupling based transient negative bit-line voltage (tran-nbl) scheme for improving write-ability of sram design in nanometer technologies	2008	-6.40349904774646	13.709769013521994	3977362
+3978101	Arch	re-addressing sram design and measurement for sub-threshold operation in view of classic 6t vs. standard cell based implementations	2017	-6.686764234565826	13.939099625285769	3978128
+3978603	EDA	low-power level converting flip-flop with a conditional clock technique in dual supply systems	2014	-6.929054002064601	13.676360192935169	3978630
+3978730		charge recovery on a databus	1995	-6.8361386421506545	14.046531058258926	3978757
+3978873	EDA	process variation aware sram/cache for aggressive voltage-frequency scaling	2009	-6.378686219619207	14.11514356352572	3978900
+3979130	EDA	using cache to reduce power in content-addressable memories (cams)	2005	-6.809172783634126	14.099407506569689	3979157
+3979726	EDA	double-gate finfet process variation aware 10t sram cell topology design and analysis	2013	-6.294588120432563	13.713977136220706	3979753
+3980096	EDA	the selective pull-up (sp) noise immunity scheme for dynamic circuits	2002	-6.871208258210395	13.892463070389846	3980123
+3980679	EDA	high speed soft-error-tolerant latch and flip-flop design for multiple vdd circuit	2007	-6.574695562561659	13.945925548025825	3980706
+3981185	Arch	muller c-elements based on minority-3 functions for ultra low voltage supplies	2011	-7.163027633576161	13.708599910487061	3981212
+3981974	Arch	read bitline sensing and fast local write-back techniques in hierarchical bitline architecture for ultralow-voltage srams	2016	-6.593962247781949	14.133808639253699	3982001
+3982751	EDA	a 16kb column-based split cell-vss, data-aware write-assisted 9t ultra-low voltage sram with enhanced read sensing margin in 28nm fdsoi	2017	-6.800599682385148	14.155457676440658	3982778
+3983115	EDA	a 35 fj/bit-access sub-vt memory using a dual-bit area-optimized standard-cell in 65 nm cmos	2014	-6.792612099382651	14.077495176462223	3983142
+3983238	EDA	analysis of a novel full adder designed for implementing in carbone nanotube technology	2012	-6.688689985412832	13.611725897624764	3983265
+3985076	EDA	threshold triggers and accelerator for deep submicron interconnection	2002	-7.075166775815616	13.647503331060689	3985103
+3985594	EDA	power consumption of logic circuits in ambipolar carbon nanotube technology	2010	-6.816424637603303	13.43884299301725	3985621
+3985655	EDA	pvt-tolerant 7-transistor sram optimization via polynomial regression	2011	-6.710247668248984	13.317862430799492	3985682
+3986581	EDA	power reduction of asynchronous logic circuits using activity detection	2009	-6.51919155654894	13.594684865527167	3986608
+3986847	EDA	a 0.3v-to-1.1v standard cell library in 40nm cmos	2015	-6.569272584494223	13.43258632441207	3986874
+3986908	EDA	pipelined non-strobed sensing scheme for lowering bl swing in nano-scale memories	2014	-6.667594696725385	14.099726197366936	3986935
+3988213	Arch	novel time-based sensing scheme for stt-mrams	2018	-6.739938566369175	14.154601956996396	3988240
+3988495	EDA	analysis and design of an efficient complementary energy path adiabatic logic for low-power system applications	2007	-6.98775316918203	13.782011747180073	3988522
+3989361	EDA	standby supply voltage minimization for deep sub-micron sram	2005	-6.707147758538013	13.774744364526404	3989388
+3990273	Mobile	finfet-based tcams with matchline-accelerating sense amplifiers	2016	-6.66936482617094	13.989245579723587	3990300
+3990454	EDA	nanoelectromechanical (nem) relays integrated with cmos sram for improved stability and low leakage	2009	-6.777916487976668	14.109509303611171	3990481
+3992100	EDA	variability-aware 7t sram circuit with low leakage high data stability sleep mode	2016	-6.614063013604943	14.115961314538586	3992127
+3993040	EDA	a variation-tolerant mram-backed-sram cell for a nonvolatile dynamically reconfigurable fpga	2015	-6.5672075447267915	13.932325855691063	3993067
+3993919	EDA	minimizing the dynamic and sub-threshold leakage power consumption using least leakage vector-assisted technology mapping	2008	-6.712812285718815	13.246732405625227	3993946
+3996038	Arch	comparative analysis and study of metastability on high-performance flip-flops	2010	-6.939454801296004	13.557964467596392	3996065
+3996050	EDA	low-power crosstalk avoidance encoding for on-chip data buses	2006	-6.69456892629916	13.467157886388115	3996077
+3997737	EDA	standby and active leakage current control and minimization in cmos vlsi circuits	2005	-6.494553335294975	13.361087503257682	3997764
+3998214	EDA	a comparative study of stt-mtj based non-volatile flip-flops	2013	-6.883458364407037	13.97816377801806	3998241
+3998641	EDA	threshold voltage control through multiple supply voltages for power-efficient finfet interconnects	2008	-6.560735056387862	13.380293973164962	3998668
+4002977	EDA	mismatch resilient 3.5-bit mdac with mcs-cfcs	2018	-6.384535770746565	13.50624125191692	4003004
+4005176	EDA	variability modeling in near-threshold cmos digital circuits	2015	-6.452334352716795	13.528251639875267	4005203
+4005860	Arch	performance evaluation of stacked gate-all-around mosfets at 7 and 10 nm technology nodes	2016	-6.552702868696122	13.451010692180331	4005887
+4007645	EDA	circuit designs of high-performance and low-power rram-based multiplexers based on 4t(ransistor)1r(ram) programming structure	2017	-6.933203529878964	13.559756597877278	4007672
+4008277	EDA	a process-variation-tolerant dual-power-supply sram with 0.179µm2 cell in 40nm cmos using level-programmable wordline driver	2009	-6.680511445085106	14.084212569198806	4008304
+4010187	EDA	minimizing total power by simultaneous v/sub dd//v/sub th/ assignment	2003	-6.594890034696715	13.387309658089857	4010214
+4010723	Arch	low-latency quasi-synchronous transmission technique for multiple-clock-domain ip modules	2007	-7.209213216896522	14.137120860837687	4010750
+4013106	EDA	a power and cluster-aware technology mapping and clustering scheme for dual-vt fpgas	2012	-6.596457902419783	13.438941478326306	4013133
+4013668	EDA	a design methodology using flip-flops controlled by pvt variation detection	2015	-6.705542059684168	13.869155847959853	4013695
+4015691	EDA	low-power clock distribution in a multilayer core 3d microprocessor	2008	-6.730780056364026	13.23985164896863	4015718
+4016979	EDA	a 32 kb 0.35–1.2 v, 50 mhz–2.5 ghz bit-interleaved sram with 8 t sram cell and data dependent write assist in 28-nm utbb-fdsoi cmos	2017	-6.801599600697467	14.096932061728921	4017006
+4017189	Arch	high-speed addition in cmos	1992	-6.900184866029197	13.364781467778261	4017216
+4018819	Arch	a noise-tolerant matchline scheme with xor-based conditional keeper for energy-efficient tcam	2006	-7.205485284723178	14.067021568757713	4018846
+4019368	Arch	power protocol: reducing power dissipation on off-chip data buses	2002	-6.534050945795338	14.010421166581025	4019395
+4021694	EDA	designing robust asynchronous circuits based on finfet technology	2011	-6.599484188466262	13.787309516199693	4021721
+4022653	Arch	time-borrowing multi-cycle on-chip interconnects for delay variation tolerance	2006	-6.39706729129642	13.207894806661534	4022680
+4022835	EDA	efficient low power/low swing bus design architectures	2001	-6.997185679677608	13.740371180333725	4022862
+4023305	EDA	a near-threshold soft error resilient 7t sram cell with low read time for 20 nm finfet technology	2017	-6.347821257871795	13.961620450287928	4023332
+4023307	Robotics	a low-power reduced swing single clock flip-flop	2001	-6.799831934592552	13.61362649745868	4023334
+4024752	EDA	compensating for sneak currents in multi-level crosspoint resistive memories	2015	-6.620075542883928	14.066423780881689	4024779
+4024755	EDA	power complexity of multiplexer-based optoelectronic crossbar switches	2005	-6.954500130817009	13.44740343397594	4024782
+4025167	EDA	an on-chip pvt compensation technique with current monitoring circuit for low-voltage cmos digital lsis	2010	-6.561693608442253	13.631319614906234	4025194
+4025364	Arch	high-speed dynamic asynchronous pipeline: self-precharging style	2014	-7.105224340903689	13.609025499432141	4025391
+4026951	EDA	a leakage-aware low power technology mapping algorithm considering the hot-carrier effect	2005	-6.6833386823552665	13.678016718088848	4026978
+4027195	EDA	28 nm utbb-fdsoi energy efficient and variation tolerant custom digital-cell library with application to a subthreshold mac block	2016	-7.1105814297088905	13.941288608132286	4027222
+4028052	EDA	a 250 mv 8 kb 40 nm ultra-low power 9t supply feedback sram (sf-sram)	2011	-6.750349034944429	14.13450272048216	4028079
+4028208	EDA	divided backend duplication methodology for balanced dual rail routing	2008	-7.1886117154250995	13.887559111863025	4028235
+4028681	EDA	a 1pj/cycle processing engine in ldpc application with charge recovery logic	2011	-7.074920991254549	13.94788567876225	4028708
+4030372	EDA	on characterizing near-threshold sram failures in finfet technology	2017	-6.425679836522861	13.866802743239276	4030399
+4032084	Arch	adder implementation in reconfigurable resistive switching crossbar	2017	-6.989642402227561	13.281453820834589	4032111
+4032411	Arch	high-performance, low-power design techniques for dynamic to static logic interface	1997	-7.088229289724518	13.646350510298815	4032438
+4032667	HPC	a process for high yield and high performance carbon nanotube field effect transistors	2010	-6.972768505647501	13.787000931095186	4032694
+4033746	EDA	sram cell optimization for ultra-low power standby	2006	-6.602048565066631	13.71188898553845	4033773
+4034375	EDA	bus encoding to prevent crosstalk delay	2001	-6.674417646555938	13.454570616737714	4034402
+4037485	EDA	power optimization of system-level address buses based on software profiling	2000	-6.324180322299001	13.30771083643614	4037512
+4038667	EDA	match line sense amplifiers with positive feedback for low-power content addressable memories	2006	-6.927867786523588	13.999710475585005	4038694
+4038678	Arch	feedback-switch logic (fsl): a high-speed low-power differential dynamic-like static cmos circuit family	2008	-7.0763182419578055	13.743082050647304	4038705
+4038841	EDA	a 16 nm 128 mb sram in high- $\kappa$ metal-gate finfet technology with write-assist circuitry for low-vmin applications	2015	-6.752893708910436	14.143167264029394	4038868
+4040057	EDA	variable-latency adder (vl-adder) designs for low power and nbti tolerance	2010	-6.561132051796322	13.6148582493524	4040084
+4040072	Arch	0.5-v 4-mb variation-aware cache architecture using 7t/14t sram and its testing scheme	2012	-6.574658411706546	13.975412839003294	4040099
+4041217	Arch	sensing margin analysis of mlc flash memories using a novel unified statistical model	2006	-6.2743056758626246	13.569516358949835	4041244
+4041379	EDA	memristors and crossbar latches	2010	-6.267878130394366	13.833046734902547	4041406
+4042011	EDA	a novel leakage reduction doind approach for nanoscale domino logic circuits	2015	-6.610198440064937	13.674588312093274	4042038
+4043361	HCI	an adder using charge sharing and its application in drams	2000	-6.306995712823446	13.852976119752807	4043388
+4045465	Arch	contention-free high-speed clock-gate based on set/reset latch for wide voltage scaling	2018	-6.698294079290742	13.952219992285624	4045492
+4045630	Arch	analytic models for crossbar write operation	2016	-6.3652687975984765	13.382362302650654	4045657
+4047518	Arch	scan-controlled pulse flip-flops for mobile application processors	2013	-6.937749458323292	13.882665406618356	4047545
+4048002	EDA	a high speed low power cam with a parity bit and power-gated ml sensing	2013	-7.112895626902572	13.808362186782045	4048029
+4051761	EDA	low-power register file based on adiabatic logic circuits	2006	-6.792397692488652	14.087198624724765	4051788
+4052322	Arch	a new row decoding architecture for fast wordline charging in nor type flash memories	2015	-7.080405544132942	13.922670274077886	4052349
+4054821	EDA	a 128 kb single-bitline 8.4 fj/bit 90mhz at 0.3v 7t sense-amplifierless sram in 28 nm fd-soi	2016	-6.682142419058779	14.129013785930153	4054848
+4055359	Arch	a 4 kb metal-fuse otp-rom macro featuring a 2 v programmable 1.37 $\mu$ m$^{2}$  1t1r bit cell in 32 nm high-k metal-gate cmos	2010	-6.504895870985893	14.09218613377867	4055386
+4055790	EDA	a low-power double-edge-triggered address pointer circuit for fifo memory design	2008	-7.04230049924726	13.523626387102802	4055817
+4056361	EDA	a 500mhz random-access embedded 1mb dram macro in bulk cmos	2008	-6.676913664578946	14.157975472065635	4056388
+4056447	EDA	temperature-adaptive voltage scaling for enhanced energy efficiency in subthreshold memory arrays	2009	-6.450600428474834	13.876118343793289	4056474
+4056715	EDA	noise-tolerant high fan-in dynamic cmos circuit design	2005	-6.637359080522825	13.70404195302534	4056742
+4059301	EDA	reliable and high performance stt-mram architectures based on controllable-polarity devices	2015	-6.709090160609874	14.144781178397801	4059328
+4059466	EDA	a low power high-speed 8-bit pipelining cla design using dual-threshold voltage domino logic	2008	-7.2191975859725375	13.736880200967256	4059493
+4060456	EDA	an algorithm for improving partitions of pin-limited multi-chip systems	1993	-6.947530808233829	13.480234484259306	4060483
+4061336	EDA	designing leakage tolerant, low power wide-or dominos for sub-130nm cmos technologies	2005	-6.380988770746755	13.731848954334334	4061363
+4062037	EDA	threshold logic circuit design of parallel adders using resonant tunneling devices	2000	-6.789035343302438	13.50272951869189	4062064
+4062097	EDA	a context dependent clock control mechanism for dynamically reconfigurable processors	2006	-6.611351148636671	13.345535317191734	4062124
+4064268	EDA	leakage reduction techniques for finfet datapath circuits	2016	-6.641963944725307	13.652949771585007	4064295
+4064361	EDA	design and analysis of hybrid nems-cmos circuits for ultra low-power applications	2007	-6.527815679780117	13.979741525449542	4064388
+4065564	EDA	impact of gate leakage on efficiency of circuit block switch-off schemes	2003	-6.4492964145100125	13.373754656534631	4065591
+4066353	Arch	cmos sram scaling limits under optimum stability constraints	2013	-6.509602797496952	13.822078855374222	4066380
+4066857	EDA	high speed multiple valued logic full adder using carbon nano tube field effect transistor	2011	-6.880029110941501	13.645172535410962	4066884
+4067951	EDA	a soft error robust 32kb sram macro featuring access transistor-less 8t cell in 65-nm	2012	-6.533723274502585	13.961380040040247	4067978
+4069951	EDA	on the restore operation in mtj-based nonvolatile sram cells	2015	-6.5957774794849655	13.94263451450902	4069978
+4070177	EDA	methods for true power minimization	2002	-6.42257024184555	13.457929284974774	4070204
+4072260	EDA	a read-disturb-free, differential sensing 1r/1w port, 8t bitcell array	2011	-6.6786204646932195	14.158229850885023	4072287
+4073323	EDA	simultaneous peak and average power minimization during datapath scheduling	2005	-6.471131120882587	13.31042621933136	4073350
+4073795	EDA	an output node split cmos logic for high-performance and large capacitive-load driving scenarios	2018	-7.12895428882671	13.595909016506555	4073822
+4074608	EDA	energy-efficient high-level synthesis for hdr architectures with clock gating based on concurrency-oriented scheduling	2013	-6.2967420404952525	13.556130708351054	4074635
+4074966	EDA	high-speed low-power mcml nanometer circuits with near-threshold computing	2013	-7.059547475849063	13.727740173294373	4074993
+4075143	EDA	a comprehensive comparison of data stability enhancement techniques with novel nanoscale sram cells under parameter fluctuations	2014	-6.401245096987063	14.140817017044695	4075170
+4075925	EDA	leakage power analysis and reduction during behavioral synthesis	2000	-6.598554347762383	13.593286506193564	4075952
+4077744	EDA	design technologies for a 1.2v 2.4gb/s/pin high capacity ddr4 sdram with tsvs	2014	-6.578560258175327	14.096140736336956	4077771
+4080109	Arch	power optimization in a parallel multiplier using voltage islands	2013	-6.692423482471229	13.240504130226155	4080136
+4080532	EDA	an optimized s-box circuit architecture for low power aes design	2002	-7.161872476631893	13.956263506256926	4080559
+4081431	EDA	a clock gated successive approximation register for a/d conversions	2014	-7.0923398381628475	13.661210599748108	4081458
+4083882	Vision	single-ended, robust 8t sram cell for low-voltage operation	2013	-6.728815172343871	14.151135766073274	4083909
+4084724	EDA	low power design using double edge triggered flip-flops	1994	-6.936951794539044	13.479934082124435	4084751
+4088023	EDA	non-resistance metric based read scheme for multi-level pcram in 25 nm technology	2015	-6.761615245625378	13.944899481287976	4088050
+4089816	Arch	decoupled dynamic ternary content addressable memories	2005	-6.7403413864375095	14.047568082309091	4089843
+4090515	EDA	high-speed, high-frequency and low-pdp, cnfet full adder cells	2015	-6.822713114645159	13.382286739821811	4090542
+4090990	EDA	data-dependant sense-amplifier flip-flop for low power applications	2010	-6.829452962146072	13.424002226208346	4091017
+4092882	Arch	circuit architecture for low-power race-free programmable logic arrays	2006	-6.976041871687577	13.233168359809866	4092909
+4093662	EDA	design margin elimination in a near-threshold timing error masking-aware 32-bit arm cortex m0 in 40nm cmos	2017	-6.325330601386932	13.908058626321932	4093689
+4095815	EDA	optimization of area and power in multi-mode power gating scheme for static memory elements	2016	-6.809682082274008	13.833626253998004	4095842
+4095978	EDA	a new sensitivity-driven process variation aware self-repairing low-power sram design	2014	-6.341795137332783	13.933930439973455	4096005
+4096499	EDA	low-power scan design using first-level supply gating	2005	-6.8245053678837335	13.255655063409195	4096526
+4099420	EDA	a conditional isolation technique for low-energy and high-performance wide domino gates	2007	-6.744812600434032	13.758493506720296	4099447
+4101289	EDA	fully digital on-chip memory using minimum height standard cells for near-threshold voltage computing	2016	-6.740398170785523	14.072607831706483	4101316

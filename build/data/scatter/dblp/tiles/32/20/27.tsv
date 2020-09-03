@@ -1,0 +1,540 @@
+id	area	title	year	x	y	ix
+1849485	Security	x.25: recommendation versus implementation	1984	8.261715182612301	21.746694905328912	1849512
+1851749	HCI	architectural principles of uniform resource name resolution	1998	8.347833924662016	21.420563790067295	1851776
+1854343	Web+IR	u.s. government internet domain names	1995	8.410317504100185	22.095982523602988	1854370
+1862325	Security	cfrg elliptic curve diffie-hellman (ecdh) and signatures in json object signing and encryption (jose)	2017	8.762649813067997	22.2555154434523	1862352
+1863864	Web+IR	approximative filtering of xml documents in a publish/subscribe system	2006	8.30246701009407	21.367932016421285	1863891
+1864236	Networks	drpd: architecture for intelligent interaction with rdf prefixes	2018	8.376802493417701	21.073091787027934	1864263
+1864314	Security	access control in distributed object systems: problems with access control lists	2001	8.575944618827522	21.07893549524742	1864341
+1864619	Vision	international standard audiovisual number (isan) urn definition	2006	8.247396196133908	21.647728756384502	1864646
+1865501	AI	the roman standards process - revision iii	1999	8.282040755181672	21.791375660344638	1865528
+1866400	Security	rationale for the structure of the model and protocol for the internet printing protocol	1999	8.331852018228853	22.18964551272709	1866427
+1870918	Security	rtp and the datagram congestion control protocol (dccp)	2010	8.304062937533224	22.639371018422064	1870945
+1871555	Networks	feed paging and archiving	2007	8.304317806589095	21.569941590580672	1871582
+1875139	Crypto	advanced encryption standard (aes) ciphersuites for transport layer security (tls)	2002	9.182993149871645	22.157475675749765	1875166
+1878230	Security	internationalized resource identifiers (iris)	2005	8.419732935124001	21.901705659426074	1878257
+1884609	HCI	oids: how can i express you? let me count the ways	2010	8.323198234007785	21.55699310628756	1884636
+1885788	Web+IR	http mailbox - asynchronous restful communication	1995	8.253565837000638	21.758577803779488	1885815
+1887681	NLP	guidelines for writing an iana considerations section in rfcs	2017	8.454054191002742	21.855568368740997	1887708
+1894173	ECom	iris: a domain registry (dreg) type for the internet registry information service (iris)	2005	8.351002486752785	21.34772054677321	1894200
+1895924	DB	mime encapsulation of aggregate documents, such as html (mhtml)	1999	8.347588931612952	21.43816070285161	1895951
+1903332	Web+IR	privacy considerations for internet protocols	2013	8.26675882710065	22.36157474258048	1903359
+1909006	Security	update to directorystring processing in the internet x.509 public key infrastructure certificate and certificate revocation list (crl) profile	2006	8.610440779276189	22.054481698311253	1909033
+1914544	Networks	implementing the media fragments uri specification	2010	8.335676627802075	21.510178891740022	1914571
+1915324	Web+IR	mapping yang to document schema definition languages and validating netconf content	2011	8.387326636319282	21.777122221736327	1915351
+1916439	SE	the unicode code points and internationalized domain names for applications (idna) - unicode 6.0	2011	8.39547597078994	22.1412390785808	1916466
+1917004	NLP	http usage in the registration data access protocol (rdap)	2015	8.275446208108736	22.122074664678685	1917031
+1920107	Web+IR	imap extensions: quick flag changes resynchronization (condstore) and quick mailbox resynchronization (qresync)	2014	8.369429509559502	22.273993067301664	1920134
+1927798	Web+IR	the multipart/report media type for the reporting of mail system administrative messages	2012	8.366736125927734	22.53774292125852	1927825
+1935804	Vision	expozé: semantic fusion layer for interoperability in jbi	2009	8.62644023312134	21.67811493914281	1935831
+1940954	Security	datagram transport layer security (dtls) extension to establish keys for the secure real-time transport protocol (srtp)	2010	8.35551826261856	22.611093160711388	1940981
+1941598	Web+IR	pics: internet access controls without censorship	1996	8.403988545708401	21.966112793207756	1941625
+1942371	Web+IR	universal resource identifiers in www: a unifying syntax for the expression of names and addresses of objects on the network as used in the world-wide web	1994	8.296839541881187	21.586045843735075	1942398
+1943710	Web+IR	extensions to bgp-signaled pseudowires to support flow-aware transport labels	2018	8.273305397526071	22.528908429165444	1943737
+1946430	Web+IR	delay-tolerant networking metadata extension block	2011	8.317602270511548	22.148248740093923	1946457
+1966927	Theory	smtp 521 and 556 reply codes	2015	8.295050590372817	21.924638761903488	1966954
+1968052	Web+IR	extensions to domainkeys identified mail (dkim) for failure reporting	2012	8.36370056982313	22.18996946680691	1968079
+1979246	NLP	additional media type structured syntax suffixes	2013	8.417574501899908	21.58207128207605	1979273
+1980438	Web+IR	defining the role and function of ietf protocol parameter registry operators	2011	8.266071268846693	22.33183242082028	1980465
+1986679	Security	transport subsystem for the simple network management protocol (snmp)	2009	8.25620333102156	22.396593162115263	1986706
+1990160	Security	wrapped encapsulating security payload (esp) for traffic visibility	2010	8.389025654563744	22.592642735538334	1990187
+1990312	HCI	the guide: (graphical user interface designed for education)	1993	8.293533381399296	21.152021890129348	1990339
+1991767	Crypto	surf'n'sign: client signatures on web documents	1998	8.590034215684192	21.00768092234876	1991794
+1996946	Web+IR	experiment: hash functions with parameters in the cryptographic message syntax (cms) and s/mime	2011	8.619637769981892	22.262352156996798	1996973
+1998380	Web+IR	using self-delimiting numeric values in protocols	2011	8.334179530694758	21.951367052203665	1998407
+2010701	Security	chacha20-poly1305 cipher suites for transport layer security (tls)	2016	8.671244058927144	22.27752786757979	2010728
+2017867	Security	message submission for mail	2011	8.32447329563464	22.253353612031045	2017894
+2019753	Web+IR	the javascript object notation (json) data interchange format	2014	8.37701895378915	22.57999914544025	2019780
+2024547	Robotics	mark and signed mark objects mapping	2016	8.437662978884704	21.694915629369213	2024574
+2038113	Web+IR	adding acronyms to simplify conversations about dns-based authentication of named entities (dane)	2014	8.373946020917773	22.552092113508948	2038140
+2040215	Crypto	rip version 2 - carrying additional information	1994	8.249525740691558	22.147540739910113	2040242
+2043050	Web+IR	internet x.509 public key infrastructure - http transfer for the certificate management protocol (cmp)	2012	8.37059060858626	22.55094571475864	2043077
+2046909	DB	a uniform resource name namespace for the epcglobal electronic product code (epc) and related standards	2008	8.376342617692549	21.29041462433819	2046936
+2054041	Web+IR	ipsec anti-replay algorithm without bit shifting	2012	8.459886375433141	22.214462566416575	2054068
+2054080	Web+IR	mime encapsulation of edi objects	1995	8.310799032299775	22.117358699195925	2054107
+2067165	Security	certificate management messages over cms (cmc): compliance requirements	2008	8.362316881935346	21.98298457249421	2067192
+2069159	Security	internet x.509 public key infrastructure certificate and certificate revocation list (crl) profile	2002	8.524352987852742	22.166415789834037	2069186
+2071272	Web+IR	mime parameter value and encoded word extensions: character sets, languages, and continuations	1997	8.322925962519385	22.205352682875525	2071299
+2071413	Security	the myproxy gateway	2014	8.456424800892721	21.661884165555204	2071440
+2081774	Networks	privacy enhancement for internet electronic mail: part ii: certificate-based key management	1993	8.571994126779785	21.9614969726842	2081801
+2093595	Security	named subordinate references in lightweight directory access protocol (ldap) directories	2002	8.41194999406591	21.935534421089365	2093622
+2100295	Security	analysis of ospf security according to the keying and authentication for routing protocols (karp) design guide	2013	8.286530540511405	22.407410765332603	2100322
+2102585	Web+IR	lightweight directory access protocol (v3): attribute syntax definitions	1997	8.35609555160114	22.19031607950213	2102612
+2102595	Web+IR	multipurpose internet mail extensions (mime) part one: format of internet message bodies	1996	8.33710037022629	22.223496819241625	2102622
+2115437	Web+IR	distributed authoring on the web with the bscw shared workspace system	1997	8.397032392932314	21.440343689433394	2115464
+2125724	Web+IR	digital imaging and communications in medicine (dicom) - application/dicom mime sub-type registration	2002	8.297830142465363	21.976332199974923	2125751
+2127440	Networks	ebcdic/ascii mapping for network rje	1972	8.270210535528287	22.1573268041568	2127467
+2133995	Theory	finding the authoritative registration data (rdap) service	2015	8.246064175126179	21.431660136369878	2134022
+2136555	Crypto	memo: a hybrid approach to encrypted electronic mail.	1981	8.294522516555157	20.95791815530318	2136582
+2136858	Web+IR	collective choice theory in collaborative computing	1999	8.290150293514781	21.439735330142764	2136885
+2137040	Web+IR	internet printing protocol (ipp) over https transport binding and the 'ipps' uri scheme	2015	8.361925664594471	22.627828562748288	2137067
+2141132	Theory	utf-7 - a mail-safe transformation format of unicode	1994	8.355874286615316	21.927184762620048	2141159
+2147046	AI	the locator/id separation protocol (lisp) for multicast environments	2013	8.245879750383741	22.51546422776724	2147073
+2155143	Security	simple authentication schemes for the asynchronous layered coding (alc) and nack-oriented reliable multicast (norm) protocols	2012	8.674185567687267	22.08509984256433	2155170
+2155324	Web+IR	json responses for the registration data access protocol (rdap)	2015	8.351456393343	21.686577333522195	2155351
+2158539	DB	a tagged index object for use in the common indexing protocol	1999	8.306515299005282	21.34944221146859	2158566
+2160713	Web+IR	versioning extensions to webdav (web distributed authoring and versioning)	2002	8.317186133683533	21.49244482855649	2160740
+2161088	Crypto	internet security glossary, version 2	2007	8.408391119472643	21.795518680758683	2161115
+2169326	Security	signaling cryptographic algorithm understanding in dns security extensions (dnssec)	2013	8.68914725785349	22.202652335179696	2169353
+2169512	Security	openpgp message format	1998	8.710739038101972	22.22546909957422	2169539
+2178295	NLP	sieve email filtering: mime part tests, iteration, extraction, replacement, and enclosure	2009	8.257202323456196	21.686543601275464	2178322
+2178400	Security	http authentication: basic and digest access authentication	1999	8.694103193123206	22.29648867052916	2178427
+2178596	Web+IR	novel business uses of independently created hyperlinks in the world wide web: basic mechanism and examples	1996	8.288185169483654	21.924356912653927	2178623
+2182846	Web+IR	suite b profile for transport layer security (tls)	2012	8.42018994869968	22.58993962447537	2182873
+2190841	Security	applicability statement: dns security (dnssec) dnskey algorithm implementation status	2013	8.576503506534412	22.22637450984655	2190868
+2197717	AI	using national bibliography numbers as uniform resource names	2018	8.314868728702889	21.614814644311448	2197744
+2198119	Networks	using the osi directory to achieve user friendly naming	1995	8.27906611591087	21.907866556881686	2198146
+2198929	Security	algorithms for cryptographic message syntax (cms) protection of symmetric key package content types	2011	8.862995328710555	22.129792320437478	2198956
+2199215	Logic	internet printing protocol/1.1: model and semantics	2000	8.326971623246614	21.603085852129823	2199242
+2199524	Web+IR	"""retirement of the """"internet official protocol standards"""" summary document"""	2013	8.284413761646741	21.923711660351806	2199551
+2205079	Security	example call flows using session initiation protocol (sip) security mechanisms	2011	8.351212043204201	22.385801040575565	2205106
+2205670	NLP	a uniform resource name (urn) namespace for the open geospatial consortium (ogc)	2008	8.296089473276549	21.406373872107835	2205697
+2207432	Security	multicast security protocol over satellite dvb based on chaotic sequences	2011	8.892678817379185	21.016133465250736	2207459
+2210939	AI	anti-spam mail system	2006	8.30582542928484	21.14927847439455	2210966
+2211301	Web+IR	a uniform resource name (urn) namespace for the motion picture experts group (mpeg)	2003	8.360100512429192	21.278005280908182	2211328
+2213008	Security	network news transfer protocol (nntp) extension for authentication	2006	8.467294300874181	22.057965792274622	2213035
+2216974	Web+IR	writing i-ds and rfcs using pandoc and a bit of xml	2014	8.343322513042517	22.049633196688966	2217001
+2223581	Web+IR	requirements for distributed authoring and versioning on the world wide web	1997	8.508617911009512	21.33086602252078	2223608
+2230795	Security	web distributed authoring and versioning (webdav) access control protocol	2004	8.332507975265043	21.54474895325449	2230822
+2239856	DB	extended prefix hash trees for a distributed phone book application	2009	9.41075073857077	21.771807808942114	2239883
+2243550	Web+IR	naming and structuring guidelines for x.500 directory pilots	1994	8.25584463962076	21.86305700722185	2243577
+2245787	Web+IR	korean character encoding for internet messages	1993	8.368368721862925	21.994567820917453	2245814
+2257401	DB	extending internet services via ldap	2000	8.46530982914186	21.014337499369603	2257428
+2260479	Theory	deficiencies in ldap when used to support pki	2003	8.246252912849167	20.877545581951658	2260506
+2261455	Security	babel hashed message authentication code (hmac) cryptographic authentication	2014	8.774940203732092	22.161919537345128	2261482
+2262892	Security	using the domain name system to store arbitrary string attributes	1993	8.296206122153439	21.577884086555986	2262919
+2272429	Web+IR	prefix exclude option for dhcpv6-based prefix delegation	2012	8.351220360908544	22.244509780717035	2272456
+2278764	Vision	the x.500 string representation of standard attribute syntaxes	1993	8.467845280619734	21.359900804503976	2278791
+2282108	Crypto	post-delivery message downgrading for internationalized email messages	2013	8.288523100523571	21.894997874053427	2282135
+2283056	HCI	dynamic delegation discovery system (ddds) part five: uri.arpa assignment procedures	2002	8.439430250740262	21.52230843444268	2283083
+2287833	NLP	zero text length eof message	1969	8.331448933657219	21.89334162019435	2287860
+2296652	HCI	entertainment identifier registry (eidr) urn namespace definition	2016	8.287853184901506	21.489871094712008	2296679
+2298769	OS	iana considerations for remote procedure call (rpc) network identifiers and universal address formats	2010	8.256323407536586	22.125188946100195	2298796
+2300875	OS	the entity registry system. from concept to deployment	2016	8.295817450054457	20.99349712310521	2300902
+2314875	Web+IR	session initiation protocol event package for voice quality reporting	2010	8.355113774511345	22.629816019135067	2314902
+2319268	Web+IR	extensible markup language (xml) formats for representing resource lists	2007	8.338360180369325	22.22506496033661	2319295
+2326092	OS	telnet data entry terminal option	1977	8.375131415350317	21.720982908452395	2326119
+2331937	Security	protocol for carrying authentication for network access (pana) relay element	2011	8.269990596400342	22.22059058363851	2331964
+2332592	Web+IR	sieve email filtering: use of presence information with auto-responder functionality	2011	8.333782681528948	22.42934140253789	2332619
+2345370	Security	privacy enhancement for internet electronic mail: part iii: algorithms	1992	8.707605112120554	22.06700024995379	2345397
+2345676	Security	lightweight directory access protocol (ldap): schema for user applications	2006	8.338320133367679	21.564847055566677	2345703
+2350997	SE	modeling and testing implementations of protocols with complex messages	2018	8.294358556137201	21.225147251726284	2351024
+2353868	DB	the csnet information server: automatic document distribution using electronic mail	1987	8.447815487899716	20.98853016046768	2353895
+2354307	Web+IR	sender policy framework (spf) for authorizing use of domains in e-mail, version 1	2006	8.266816433693595	22.10464499706347	2354334
+2361913	Security	elliptic curve cryptography (ecc) cipher suites for transport layer security (tls) versions 1.2 and earlier	2018	8.694876504157572	22.314267669715978	2361940
+2370755	Web+IR	mounting web distributed authoring and versioning (webdav) servers	2006	8.340845342893896	21.487144448428502	2370782
+2373352	Security	information model for packet sampling exports	2009	8.323941826484907	22.516261173865885	2373379
+2374846	Security	issues with existing cryptographic protection methods for routing protocols	2010	8.456255234118006	22.334331363843045	2374873
+2378514	HCI	ietf guidelines for conduct	2014	8.368782082246442	22.552470502660732	2378541
+2382024	Networks	smtp and mime extensions for content conversion	2005	8.280922553030043	22.08562955085156	2382051
+2383179	Security	saslprep: stringprep profile for user names and passwords	2005	8.609106433313762	21.777298415659615	2383206
+2385140	Networks	the tcp authentication option	2010	8.332286287713629	22.11163824443777	2385167
+2393198	Web+IR	translation of structure of management information version 2 (smiv2) mib modules to yang modules	2012	8.392907366873088	22.47540547509	2393225
+2403236	Web+IR	anti-spam recommendations for smtp mtas	1999	8.413590101163384	22.184297357342057	2403263
+2410990	DB	uri fragment identifiers for the text/plain media type	2008	8.410982001008584	21.534282690034686	2411017
+2424540	Mobile	secure hop-count based localization in wireless sensor networks	2007	8.897387672098878	22.51231650175064	2424567
+2427327	Security	elliptic curve digital signature algorithm (dsa) for dnssec	2012	8.676134117857337	22.20498861158407	2427354
+2431300	AI	relative uniform resource locators	1995	8.375158260705474	21.697714112748848	2431327
+2432023	PL	copying structured objects in a distributed system	1981	8.457967987888594	20.92040099322465	2432050
+2432906	Robotics	paper withdrawn by the authors before the issue release	2012	9.43234717641872	21.083797022892888	2432933
+2437702	Security	extensible provisioning protocol (epp) and registration data access protocol (rdap) status mapping	2017	8.323375785851418	22.43972555406149	2437729
+2438643	Security	a secure directory service based on exclusive encryption	2002	9.184582461318357	21.347224176204506	2438670
+2440544	DB	high-speed tools for global information management, ii: specifications and uses of the transparent query language (tql)	1998	8.485266044434939	21.344928593221272	2440571
+2447249	Web+IR	iab thoughts on encodings for internationalized domain names	2011	8.346230947805571	22.141603939277893	2447276
+2481876	Security	best current practices	1995	8.256862780078986	22.251792986883068	2481903
+2487286	Security	a simple authentication and security layer (sasl) and generic security service application program interface (gss-api) mechanism for openid	2012	8.781101596924435	22.09259359491362	2487313
+2488965	Comp.	efficient implementation of the osi transport protocol checksum algorithm using 8/16-bit arithmetic	1987	8.51104406399607	21.50757495846359	2488992
+2497891	Security	tls fallback signaling cipher suite value (scsv) for preventing protocol downgrade attacks	2015	8.357406453624717	22.26814010679678	2497918
+2502060	DB	a summary of the x.500(96) user schema for use with ldapv3	1997	8.331557485776061	21.520041491221253	2502087
+2504819	HCI	creation and use of email feedback reports: an applicability statement for the abuse reporting format (arf)	2012	8.400338046837154	22.208829194129265	2504846
+2505731	Security	mobile ipv6 security framework using transport layer security for communication between the mobile node and home agent	2012	8.415666403718166	22.365916265190616	2505758
+2511678	Web+IR	keying material exporters for transport layer security (tls)	2010	8.566671862122414	22.270017049020424	2511705
+2514977	Security	lightweight directory access protocol (ldap) schema for storing salted challenge response authentication mechanism (scram) secrets	2010	8.512331293724907	22.385133388533877	2515004
+2526903	Web+IR	provisioning, auto-discovery, and signaling in layer 2 virtual private networks (l2vpns)	2011	8.29363579374708	22.594910701101004	2526930
+2531735	Crypto	authentication mechanisms for onc rpc	1999	8.75781582754743	22.094288293404578	2531762
+2532698	Logic	intellectual property rights in ietf technology	2005	8.321922153909473	22.291292967502752	2532725
+2545068	OS	comments on file access protocol	1973	8.306346437376362	21.56918890994331	2545095
+2546413	HCI	iana registries for the remote direct data placement (rddp) protocols	2012	8.304041427301648	21.635901346522704	2546440
+2547033	Vision	inventory and analysis of whois registration objects	2015	8.287613943924226	21.449539837125013	2547060
+2547832	Web+IR	iana rules for the protocol for carrying authentication for network access (pana)	2010	8.307955678483442	22.2590002908698	2547859
+2550210	Web+IR	creation of a registry for smime-type parameter values	2014	8.28295902420513	22.16280425994808	2550237
+2553503	ML	web pages classification using domain ontology and clustering	2007	8.905955292759712	22.49183187712114	2553530
+2555794	Web+IR	mime e-mail encapsulation of aggregate documents, such as html (mhtml)	1997	8.314544433324427	21.612206938155893	2555821
+2556447	Web+IR	the metalex document server - legal documents as versioned linked data	2011	8.520060832020995	21.331117112264327	2556474
+2557804	Security	generic security service application program interface (gss-api): delegate if approved by policy	2010	8.549952443783557	22.04374340503343	2557831
+2558705	Security	extensions to the path computation element communication protocol (pcep) for route exclusions	2009	8.246754798867594	22.544112964928843	2558732
+2563555	Web+IR	internationalized domain names for applications (idna): definitions and document framework	2010	8.3763353451517	22.54908674984787	2563582
+2574956	Web+IR	conclusion of fyi rfc sub-series	2011	8.28885609178576	22.263550051258125	2574983
+2576082	Web+IR	diversion indication in sip	2010	8.335088792763393	22.35458997392171	2576109
+2579419	Security	telnet output formfeed disposition option	1974	8.583940998267936	21.900487238083954	2579446
+2587208	Security	suite b cryptographic suites for secure shell (ssh)	2011	8.758390765700867	22.287438405839673	2587235
+2587296	Web+IR	namespace database (nsdb) protocol for federated file systems	2015	8.382488531633243	22.286852162579226	2587323
+2589087	Web+IR	sockets application program interface (api) for multihoming shim	2011	8.358056364844149	22.59507742674796	2589114
+2590521	Web+IR	radius attributes for ieee 802.16 privacy key management version 1 (pkmv1) protocol support	2010	8.350893117833332	22.58515641804991	2590548
+2595868	Web+IR	resource public key infrastructure (rpki) trust anchor locator	2016	8.413797568255083	22.262100334527155	2595895
+2597398	Security	file format for internet fax	1998	8.255757446092064	22.004081112806965	2597425
+2607150	Web+IR	network file system (nfs) version 4 external data representation standard (xdr) description	2015	8.356021393466184	22.061097720382623	2607177
+2608029	HPC	displaying downgraded messages for email address internationalization	2010	8.246106916295812	21.54246732057672	2608056
+2609057	Security	authentication for dhcp messages	2001	8.29429718601399	21.864048711172	2609084
+2615273	Security	cryptographic message syntax (cms) algorithm identifier protection attribute	2011	8.828144876003574	22.171321233296496	2615300
+2616917	Web+IR	guidelines and template for defining extensions to the incident object description exchange format (iodef)	2012	8.285929830978233	22.313581927424828	2616944
+2617101	Networks	internet printing protocol/1.1: model and semantics	2017	8.259333507648853	21.973559640848364	2617128
+2627048	Web+IR	xml media types	1998	8.331291000216467	21.893939664604467	2627075
+2629945	Web+IR	recommended simple security capabilities in customer premises equipment (cpe) for providing residential ipv6 internet service	2011	8.275972637059636	22.497830080287823	2629972
+2632404	Theory	lightweight directory access protocol (ldap) entryuuid operational attribute	2006	8.381152622424995	21.33626417605967	2632431
+2637347	HCI	bidirectional forwarding detection (bfd) for the pseudowire virtual circuit connectivity verification (vccv)	2010	8.278677604756723	22.583201149873123	2637374
+2660934	Security	object identifier registry for the s/mime mail security working group	2014	8.389259092297515	22.418305764144737	2660961
+2661250	ML	dynamic delegation discovery system (ddds) part two: the algorithm	2002	8.486416547491075	21.45462062747284	2661277
+2663456	Web+IR	format for literal ipv6 addresses in url's	1999	8.263972885454	21.96807127646708	2663483
+2665955	Security	internet x.509 public key infrastructure certificate policy and certification practices framework	1999	8.394150098359333	22.227808479252683	2665982
+2667212	Networks	mib textual conventions for uniform resource identifiers (uris)	2007	8.297496193411781	21.769593007594214	2667239
+2672317	Web+IR	mime (multipurpose internet mail extensions) part one: mechanisms for specifying and describing the format of internet message bodies	1993	8.315646413359762	21.970089336801113	2672344
+2673531	NLP	conceptual graphs for semantic email addressing	2010	8.570392897616955	21.26245064362392	2673558
+2680646	Security	transport layer security (tls) extensions	2006	8.28720251419312	22.167741645413237	2680673
+2682272	NLP	the tei header and the documentation of electronic texts	1995	8.385025213203175	21.87331378123209	2682299
+2683780	Web+IR	quality criteria for cultural sites accessible over the web	2002	8.398817592733751	22.117868436279913	2683807
+2684855	Security	resource reservation protocol (rsvp) extensions for path-triggered rsvp receiver proxy	2010	8.276425425358571	22.60206908013365	2684882
+2685134	Web+IR	problems with session traversal utilities for nat (stun) long-term authentication for traversal using relays around nat (turn)	2014	8.254947067430821	22.379220259058133	2685161
+2686842	Metrics	adding 100.64.0.0/10 prefixes to the ipv4 locally-served dns zones registry	2016	8.264235256577777	21.43673599700678	2686869
+2686844	Web+IR	trusted translation services	2008	8.620881346345644	21.100773086597627	2686871
+2692035	Web+IR	"""update to mime regarding """"charset"""" parameter handling in textual media types"""	2012	8.339254546073382	22.51328975568461	2692062
+2692527	Web+IR	domainkeys identified mail (dkim) service overview	2009	8.56183929776863	22.286030906984287	2692554
+2700369	Security	keying and authentication for routing protocols (karp) overview, threats, and requirements	2013	8.422762266647327	22.40134987960885	2700396
+2708201	Security	integration of robust header compression over ipsec security associations	2010	8.310592190566236	22.359012455918247	2708228
+2715615	Networks	tag image file format fax extended (tiff-fx) - image/tiff-fx mime sub-type registration	2005	8.262518603831197	22.017531957585124	2715642
+2718631	Web+IR	sender policy framework (spf) authentication failure reporting using the abuse reporting format	2012	8.40144191411559	22.26446406135139	2718658
+2720103	Security	an extension for eap-only authentication in ikev2	2010	8.463368456032297	22.60313840304077	2720130
+2720411	Theory	quantum networking and internetworking	2012	10.063253778211935	21.048542440052714	2720438
+2728103	Vision	the tv-anytime content reference identifier (crid)	2005	8.267661027143363	21.747828386312708	2728130
+2732080	Security	authentication-results registration for differentiating among cryptographic results	2010	8.586073721131424	22.23144948343214	2732107
+2734690	HCI	definition of a uniform resource name (urn) namespace for the schema for academia (schac)	2011	8.372951319243416	21.482919103147893	2734717
+2741302	NLP	an iana registry for level of assurance (loa) profiles	2012	8.433934706797997	21.834970783746424	2741329
+2746052	Web+IR	test vectors for session traversal utilities for nat (stun)	2010	8.24336450345943	22.303553064524774	2746079
+2748565	Security	internet message access protocol (imap) - url access identifier extension	2009	8.273010414743906	21.841630909251922	2748592
+2749937	Web+IR	certificate management service for the session initiation protocol (sip)	2011	8.406137940065394	22.60073747595851	2749964
+2752071	Web+IR	session initiation protocol (sip) torture test messages	2006	8.368030037382736	22.101930547523654	2752098
+2753189	Security	ecdhe_psk with aes-gcm and aes-ccm cipher suites for tls 1.2 and dtls 1.2	2018	8.75223751370261	22.29148570258788	2753216
+2759832	HPC	on the impact of quantum computing technology on future developments in high-performance scientific computing	2017	10.162931434173	21.209508767087645	2759859
+2764228	Metrics	resolving ip aliases with prespecified timestamps	2010	8.344133953633822	20.99310031923681	2764255
+2764239	Security	deprecate des, rc4-hmac-exp, and other weak cryptographic algorithms in kerberos	2012	9.074336349169206	22.135670466356267	2764266
+2768803	HCI	generating routing table for free roaming mobile agent in distributed environment	2009	8.918968965282113	21.378882991527714	2768830
+2783387	OS	tenex interface to ucsb's simple-minded file system	1972	8.491990553696212	21.405760819210176	2783414
+2784776	DB	registration data access protocol (rdap) query format	2015	8.295161231845242	21.360864348667363	2784803
+2784815	Security	basic password exchange within the flexible authentication via secure tunneling extensible authentication protocol (eap-fast)	2009	8.425351298117324	22.537783795495745	2784842
+2791096	Web+IR	requirements for archiving ietf email lists and for providing web-based browsing and searching	2012	8.318308809261591	22.038416122358832	2791123
+2792399	Web+IR	cryptographic message syntax (cms) symmetric key package content type	2010	8.846721066480004	22.12042813973137	2792426
+2795649	Security	the lightweight directory access protocol (ldap) don't use copy control	2011	8.28618741053528	21.91373524052628	2795676
+2818251	Security	routing backus-naur form (rbnf): a syntax used to form encoding rules in various routing protocol specifications	2009	8.36946051507797	22.54888485603013	2818278
+2823753	Security	extracting randomness from the trend of ipi for cryptographic operators in implantable medical devices.	2018	10.13997435146117	21.47349014729522	2823780
+2829534	DB	procedures for maintaining the time zone database	2012	8.287430992829865	21.716047429123307	2829561
+2830717	Web+IR	microcosm (abstract): an open hypermedia system	1993	8.427225499435984	21.893168369852685	2830744
+2831499	Web+IR	using the web for document versioning: an implementation report for delta v	2001	8.301112821585907	21.486533985681948	2831526
+2831720	Security	internet message access protocol - version 4rev1	2003	8.319879296243814	21.94036190561335	2831747
+2832638	Web+IR	using plain base32 ascii-compatible encoding in the local part of e-mail addresses	2002	8.359194753851073	21.929983320069557	2832665
+2833048	Security	internet message access protocol - version 4	1994	8.309915347954455	21.95525077841139	2833075
+2834454	Security	transport layer security (tls) transport model for the simple network management protocol (snmp)	2011	8.334699005643014	22.469533815751504	2834481
+2837794	NLP	a uniform resource name (urn) namespace for the liberty alliance project	2004	8.34873346984043	21.298804346299818	2837821
+2842178	HCI	using international standard book numbers as uniform resource names	2001	8.332975905589628	21.735805071170784	2842205
+2844024	Security	secure automated document delivery	1989	8.43870756071565	21.37297256394454	2844051
+2844413	Crypto	a description of the aria encryption algorithm	2010	8.672458314609761	22.13237556649587	2844440
+2849699	Web+IR	relational schema protocol (rsp)	2011	8.366662289628593	22.068455126944407	2849726
+2851369	Security	storage of diffie-hellman keys in the domain name system (dns)	1999	8.453467496595046	22.179751332429838	2851396
+2861397	Security	the seed cipher algorithm and its use with the secure real-time transport protocol (srtp)	2010	8.389247256398598	22.58846759868968	2861424
+2861582	Security	internet assigned numbers authority (iana) considerations for the lightweight directory access protocol (ldap)	2002	8.272982984606163	21.38226901285281	2861609
+2864846	SE	composition of service and protocol specifications	2001	8.360687595305077	22.370203257333156	2864873
+2865978	Web+IR	an ldap control and schema for holding operation signatures	1999	8.412637363641117	21.579575590954924	2866005
+2873323	Web+IR	definition of the uuid-based dhcpv6 unique identifier (duid-uuid)	2011	8.331198468905509	21.93814069836161	2873350
+2875078	Web+IR	cryptographic algorithms for the tcp authentication option (tcp-ao)	2010	8.572082360970517	22.215854158835658	2875105
+2879808	DB	schema for representing corba object references in an ldap directory	1999	8.250833549395564	21.276358370321415	2879835
+2880084	Security	security threats and requirements for emergency call marking and mapping	2008	8.249546529101005	22.309316373056443	2880111
+2881198	NLP	a uniform resource name (urn) namespace for the open iptv forum (oipf)	2013	8.310844352306624	21.22621766995961	2881225
+2882838	Web+IR	link server aggregation with beacon	2011	8.428504879233099	21.95605593669879	2882865
+2883159	Security	internet printing protocol/1.0: encoding and transport	1999	8.299289931464271	22.12935291559349	2883186
+2883500	Mobile	adtn - undetectable communication in wireless delay-tolerant networks (working draft)	2015	8.615041984603426	21.889090349076767	2883527
+2884987	OS	imap extension for referencing the last search result	2008	8.290503541437413	21.46067853860274	2885014
+2887773	Web+IR	generic security service application programming interface (gss-api) naming extensions	2012	8.384087722003127	22.56499286445622	2887800
+2893183	Metrics	ietf policy on character sets and languages	1998	8.341529447033546	22.034458888520643	2893210
+2893681	Security	use of elliptic curve cryptography (ecc) algorithms in cryptographic message syntax (cms)	2002	8.801261114807136	22.266218127853662	2893708
+2894957	Mobile	tesla with flute over satellite networks	2008	8.295919661717997	21.43186808956628	2894984
+2898450	Web+IR	representing multi-value time in mobile ad hoc networks (manets)	2009	8.280189070644765	22.532849105975266	2898477
+2898846	Security	additional cryptographic message syntax (cms) revocation information choices	2010	8.678676019858731	22.27066966843884	2898873
+2902204	Web+IR	urn namespace definition mechanisms	1999	8.25039699190079	21.43472754443481	2902231
+2903846	OS	a uniform resource name (urn) namespace for the commission for the management and application of geoscience information (cgi)	2008	8.368830832339112	21.56608612011613	2903873
+2905728	NLP	deprecating unicode language tag characters: rfc 2482 is historic	2010	8.44064505468145	21.864269852143465	2905755
+2910121	HCI	a session initiation protocol (sip) media feature tag for mime application subtypes	2010	8.358772457154378	22.563024993137983	2910148
+2910964	Robotics	dynamic delegation discovery system (ddds) part four: the uniform resource identifiers (uri)	2002	8.271000116486679	21.205466212940465	2910991
+2912473	NLP	rfc editor model (version 2)	2012	8.299067346922259	22.13975611265132	2912500
+2912864	Security	the naming authority pointer (naptr) dns resource record	2000	8.403219856068269	21.730873763066672	2912891
+2915545	AI	inferring automata with state-local alphabet abstractions	2013	9.554012131051127	22.31128125932224	2915572
+2915767	DB	the ldap data interchange format (ldif) - technical specification	2000	8.366297705275914	21.932506576664238	2915794
+2917310	Security	algorithms for cryptographic message syntax (cms) key package receipt and error content types	2014	8.75295681718206	22.236059816001774	2917337
+2920370	Web+IR	html format for rfcs	2016	8.355294804034322	21.758583588298023	2920397
+2926962	Networks	definition of the inetorgperson ldap object class	2000	8.326582195303143	21.534383874772445	2926989
+2935915	HCI	the session initiation protocol (sip) refer method	2003	8.308348218135224	22.173091973867503	2935942
+2949425	Security	datagram transport layer security (dtls) as a transport layer for radius	2014	8.447407014040332	22.28075127081421	2949452
+2952419	Security	requirements for consent-based communications in the session initiation protocol (sip)	2006	8.417035769586548	22.040730812463032	2952446
+2953386	Web+IR	description option for the port control protocol (pcp)	2014	8.27285495213486	22.216992504772627	2953413
+2957186	Web+IR	processing and delivery of multimedia metadata for multimedia content streaming	2007	8.453806518224338	21.184441388147512	2957213
+2957338	Web+IR	an interface identifier (id) hello option for pim	2011	8.25234947904786	22.259015732530656	2957365
+2973350	HCI	message authorizing email header field and its use for the draft and release procedure	2016	8.521542714991979	21.92938553219973	2973377
+2981203	HCI	a uniform resource name (urn) namespace for the digital video broadcasting project (dvb)	2008	8.298463892162491	21.24722663163352	2981230
+2981571	Web+IR	hypertext transfer protocol (http/1.1): range requests	2014	8.329556406755449	22.53065188663993	2981598
+2984677	HCI	internationalized access to domain names: a review of methods and issues	2007	8.323679888796162	21.704049084170546	2984704
+2987591	Web+IR	lightweight directory access protocol (v3): extension for transport layer security	2000	8.284968449756613	22.10890545201653	2987618
+2990711	Web+IR	source-specific media attributes in the session description protocol (sdp)	2009	8.308558245110268	22.581997641125394	2990738
+2990853	AI	the q method of implementing telnet option negotiation	1990	8.317405998131568	21.941685435486022	2990880
+2998554	Crypto	an ietf urn sub-namespace for registered protocol parameters	2003	8.243578675836654	21.49116154778757	2998581
+3000463	Security	imap extension for simple authentication and security layer (sasl) initial client response	2007	8.379627693930932	22.018777645110983	3000490
+3004207	Web+IR	two-way active measurement protocol (twamp) reflect octets and symmetrical size features	2010	8.330197019719211	22.60273277133088	3004234
+3005421	Graphics	standards and protocols: the european videotex standard	1982	8.281922645874022	21.688891198704468	3005448
+3006727	Web+IR	advertising a router's local addresses in ospf traffic engineering (te) extensions	2010	8.249327035345932	22.569265207684836	3006754
+3009251	HCI	communicating presentation information in internet messages: the content-disposition header field	1997	8.291383313086804	22.047595165814815	3009278
+3018403	Web+IR	datatracker states and annotations for the iab, irtf, and independent submission streams	2011	8.338517818954495	22.52325227725996	3018430
+3019552	Web+IR	http authentication-info and proxy-authentication-info response header fields	2015	8.358478700436393	22.56749194281677	3019579
+3030357	Security	limiting the scope of the key resource record (rr)	2002	8.331810670320348	21.77948318878708	3030384
+3031812	Crypto	internet printing protocol (ipp): job and printer set operations	2002	8.276478323332812	21.62466692678688	3031839
+3038434	Web+IR	calendar availability	2016	8.26279872933243	22.16828050478522	3038461
+3052087	Web+IR	standardizing hypertext: where next for ohp?	2000	8.383177289491448	21.680769206223907	3052114
+3053479	Security	the session initiation protocol (sip) referred-by mechanism	2004	8.38389927272368	22.255851907941206	3053506
+3060299	Theory	japanese character encoding for internet messages	1993	8.25399294673419	21.744834472808844	3060326
+3068733	DB	enumeration reference format for the incident object description exchange format (iodef)	2015	8.409681896206482	22.151086122273327	3068760
+3079281	Web+IR	internationalized domain names registration and administration guidelines for european languages using cyrillic	2010	8.410337443860666	22.08492944246513	3079308
+3079972	Mobile	phyvos: physical layer voting for secure and fast cooperation	2015	9.38180181585776	21.70410062825049	3079999
+3082368	Web+IR	use of gost signature algorithms in dnskey and rrsig resource records for dnssec	2010	8.487217048999801	22.21296834918764	3082395
+3082965	Metrics	iris: an address registry (areg) type for the internet registry information service	2006	8.259224272116814	21.30932581884794	3082992
+3084021	HCI	the internet standards process -- revision 3	1996	8.284411524894649	22.0877712181138	3084048
+3092184	HCI	enhancements for authenticated identity management in the session initiation protocol (sip)	2006	8.554892281196437	22.29461328061551	3092211
+3093375	Vision	using the z39.50 information retrieval protocol	1994	8.280272683660327	21.462709362560073	3093402
+3093459	Security	encryption of header extensions in the secure real-time transport protocol (srtp)	2013	8.730153125981515	22.24462091614295	3093486
+3102957	Web+IR	support for internet message access protocol (imap) events in sieve	2012	8.273645468172592	22.06883446619537	3102984
+3104466	Mobile	the atom publishing protocol	2007	8.267253230188487	21.794859058813227	3104493
+3111311	Web+IR	identifying composite media features	2000	8.256496045507841	21.89364496976827	3111338
+3113674	Networks	idn server proxy architecture for internationalized domain name resolution and experiences with providing web services	2006	8.252809655285146	21.678769581739743	3113701
+3115657	DB	descriptive names in x.500	1989	8.436113068803472	21.306669324836463	3115684
+3115825	Security	domain names: hierarchy in need of organization (panel session, abstract only)	1985	8.510292532836177	21.265606795224592	3115852
+3117731	Web+IR	extended key usage (eku) for session initiation protocol (sip) x.509 certificates	2010	8.27155117685195	22.341919544994465	3117758
+3118341	Security	security architecture for the internet protocol	1998	8.31194382669872	22.227349225749407	3118368
+3126036	Security	operation of the ip flow information export (ipfix) protocol on ipfix mediators	2014	8.267372918308514	22.134051289892646	3126063
+3142629	Web+IR	extensible access control markup language (xacml) xml media type	2013	8.385534583553241	22.07434755656309	3142656
+3142794	NLP	definition of the url mime external-body access-type	1996	8.269061884297022	21.53235769030972	3142821
+3145474	Web+IR	securing xml documents with author-x	2001	8.724683181982256	21.608069717862357	3145501
+3147078	Security	the common log format (clf) for the session initiation protocol (sip): framework and information model	2013	8.276456735565844	21.592064632906972	3147105
+3152862	Web+IR	pseudowire (pw) over mpls psn management information base (mib)	2009	8.242377395544343	22.54219919608037	3152889
+3155583	OS	a small and secure submission system for unix systems	2005	8.247464283657749	21.39560367307105	3155610
+3155727	OS	web distributed authoring and versioning (webdav) redirect reference resources	2006	8.325849323758591	21.554576390871606	3155754
+3160266	Security	the post office protocol (pop3) simple authentication and security layer (sasl) authentication mechanism	2007	8.448029246727979	21.964954781034155	3160293
+3163310	ECom	an idea bag strategy to discourage selfish behavior under random token mac protocols for wireless lans	2006	8.522150249777784	22.147477530547466	3163337
+3167231	Security	lightweight directory access protocol (ldap): schema for printer services	2004	8.379699833085589	21.725403218657824	3167258
+3172368	Networks	facsimile using internet mail (ifax) service of enum	2005	8.276925489236326	21.825840771091862	3172395
+3173955	Web+IR	test plan and results for advancing rfc 2680 on the standards track	2014	8.324616995927848	22.583010514547052	3173982
+3175153	Networks	exchanging sgml documents using internet mail and mime	1996	8.339205357516509	21.836071976418317	3175180
+3175565	Web+IR	a uniform resource name (urn) namespace for federated content	2005	8.327304212004963	21.36190508637908	3175592
+3176307	Web+IR	dynamic definition of entries and attributes in the directory service	1988	8.341955273256179	21.719340465709877	3176334
+3185447	Web+IR	multiprotocol label switching (mpls) traffic engineering management information base for fast reroute	2011	8.248537739365387	22.55691911618241	3185474
+3193588	Web+IR	description of cisco systems' subnet allocation option for dhcpv4	2012	8.30288547559859	22.53264452380636	3193615
+3195420	Web+IR	xml-signature syntax and processing	2001	8.591376119516957	22.152058183743616	3195447
+3204031	OS	libsearch: a window-based frontend to remote bibliographic databases on the internet	1996	8.532096613803088	21.018846065194605	3204058
+3206992	Web+IR	moving the undeployed tcp extensions rfc 1072, rfc 1106, rfc 1110, rfc 1145, rfc 1146, rfc 1379, rfc 1644, and rfc 1693 to historic status	2011	8.29455789523293	22.50464860946924	3207019
+3210249	Theory	lightweight directory access protocol (ldap): syntaxes and matching rules	2006	8.494078041185023	21.23013908352358	3210276
+3211174	Crypto	gateways and mime security multiparts	1999	8.252746163193192	22.143001850405803	3211201
+3213421	OS	binarytime: an alternate format for representing date and time in asn.1	2005	8.437073191426638	21.525416205560447	3213448
+3219423	Security	japanese character encoding for internet messages	1997	8.3457687691944	21.917196215422603	3219450
+3223780	Networks	the use of urls as meta-syntax for core mail list commands and their transport through message header fields	1998	8.312604959121227	22.035586947288703	3223807
+3225954	SE	bringing web time travel to mediawiki: an assessment of the memento mediawiki extension	2014	8.301839828928253	21.770024202119263	3225981
+3236460	Security	the resource public key infrastructure (rpki) to router protocol	2013	8.491057409503988	22.208333991009717	3236487
+3242081	Theory	"""registration of second-level urn namespaces under """"ietf"""""""	2013	8.26766766915345	21.481102488514303	3242108
+3242824	Security	use of sha-2 algorithms with rsa in dnskey and rrsig resource records for dnssec	2009	8.45448284494889	22.19075513210173	3242851
+3243634	Security	use cases and requirements for json object signing and encryption (jose)	2014	8.548198317268392	22.325311403837986	3243661
+3253314	HPC	domain administrative data in lightweight directory access protocol (ldap)	2003	8.325239459809232	21.209625045685705	3253341
+3253375	Web+IR	open hypermedia systems and structural computing	2000	8.384384160881448	21.68168747650567	3253402
+3254854	Web+IR	the sieve mail-filtering language - extensions for checking mailbox status and accessing mailbox metadata	2009	8.35173171996888	22.452413881076325	3254881
+3255227	Security	elliptic curve cryptography (ecc) brainpool curves for transport layer security (tls)	2013	8.524453365446547	22.353234992306277	3255254
+3256033	Web+IR	call processing language framework and requirements	2000	8.246505376559105	22.006024546295556	3256060
+3265935	Web+IR	the unicode code points and internationalized domain names for applications (idna)	2010	8.364381914546076	22.073801789059114	3265962
+3267964	Networks	towards an optimum authentication service allocation and availability in vanets	2017	8.249306605844113	22.725454122785397	3267991
+3273588	Web+IR	extensions to the iodef-document class for reporting phishing	2010	8.422667093422064	22.13884047005413	3273615
+3286559	DB	a mime content-type for directory information	1998	8.402315496708459	21.789188637738466	3286586
+3291993	Web+IR	rama: an architecture for internet information filtering	1995	8.397063977758844	21.223511882805212	3292020
+3302557	Networks	lightweight directory access protocol (ldap): string representation of search filters	2006	8.315104394638034	21.860867993170785	3302584
+3315154	Security	using openpgp keys for transport layer security (tls) authentication	2011	8.414139091194233	22.38869415836195	3315181
+3316624	DB	the string representation of standard attribute syntaxes	1995	8.573708893556402	21.53963298261166	3316651
+3325884	Web+IR	json web token (jwt)	2015	8.823854903092908	21.744813371551377	3325911
+3328783	DB	a secure perspective of data. including authentication in the newsml dtd.	2002	8.639711541458563	21.888113288569933	3328810
+3329141	ECom	"""publishing the """"tao of the ietf"""" as a web page"""	2012	8.2546247872499	21.859816973081013	3329168
+3337631	Security	guest editorial: security and dependability in soa and business processes	2011	8.629187138638798	22.142068810194893	3337658
+3345893	Web+IR	totp: time-based one-time password algorithm	2011	8.676068926169457	22.09468510663629	3345920
+3354803	Web+IR	uri fragment identifiers for the text/csv media type	2014	8.362020059664196	22.262849490292133	3354830
+3356337	Security	gss-api authentication method for socks version 5	1996	8.517716302356172	21.724662417985293	3356364
+3356844	Security	elliptic curve algorithm integration in the secure shell transport layer	2009	8.892988722144002	22.134966802859797	3356871
+3359145	HCI	interoperability issues between domain-based message authentication, reporting, and conformance (dmarc) and indirect email flows	2016	8.351428061940235	22.43653415897009	3359172
+3360040	Web+IR	a method for mitigating namespace collisions	2014	8.271044378501887	22.212870964874178	3360067
+3361285	HCI	uri scheme for global system for mobile communications (gsm) short message service (sms)	2010	8.253879008343588	22.16673355364193	3361312
+3361719	OS	using dns srv to specify a global file namespace with nfs version 4	2012	8.25021436984877	20.942404574744398	3361746
+3363129	ECom	multipurpose internet mail extensions (mime) part four: registration procedures	1996	8.295503770726253	21.89613456135923	3363156
+3363908	Graphics	iana charset registration procedures	1998	8.339605330659879	22.32861681153222	3363935
+3368816	Security	a simple authentication and security layer (sasl) and gss-api mechanism for the security assertion markup language (saml)	2012	8.764365585225255	22.14447538139436	3368843
+3369330	Networks	internet printing protocol/1.1: encoding and transport	2000	8.245901860684409	21.981176637691675	3369357
+3374191	DB	lightweight directory access protocol (ldap) schema for supporting the extensible messaging and presence protocol (xmpp) in white pages	2017	8.257612853273166	21.25414483963984	3374218
+3389613	Logic	fault-tolerant oblivious assignment with m slots in synchronous systems	2014	9.939558273511054	21.456625161188057	3389640
+3392788	Web+IR	use cases and interpretations of resource public key infrastructure (rpki) objects for issuers and relying parties	2013	8.411244530956692	22.328428224086828	3392815
+3396725	Web+IR	webdav: versatile collaboration multiprotocol	2005	8.34385497775645	21.474475291679394	3396752
+3402622	Web+IR	a uniform resource name namespace for the global system for mobile communications association (gsma) and the international mobile station equipment identity (imei)	2014	8.244009515946402	22.553912003937693	3402649
+3409981	Metrics	impact of primary user emulation attacks on dynamic spectrum access networks	2012	9.330195799982901	21.386243752955693	3410008
+3411661	Networks	bibliography of recent publications on computer communication	1994	8.264139377736205	21.327570140604273	3411688
+3413341	OS	some experiences in implementing network graphics protocol level 0	1972	8.268098453233923	21.897529345810565	3413368
+3424034	Web+IR	initial hypertext transfer protocol (http) authentication scheme registrations	2014	8.419841608640791	22.400841477291394	3424061
+3428791	Web+IR	s/mime and sympa mailing lists manager / using signature and encryption with a mailing list manager	2001	8.550482937027969	20.874754366151144	3428818
+3430608	Web+IR	session initiation protocol service example - music on hold	2014	8.27220833480188	22.256906289990372	3430635
+3434718	Web+IR	using advanced encryption standard counter mode (aes-ctr) with the internet key exchange version 02 (ikev2) protocol	2010	8.598125463260128	22.32664044985309	3434745
+3435540	Security	a common schema for the internet white pages service	1997	8.331029185189308	21.62690444076469	3435567
+3438830	Web+IR	pim multi-topology id (mt-id) join attribute	2011	8.26646805373644	22.178402323261448	3438857
+3440171	PL	lightweight directory access protocol (v3): utf-8 string representation of distinguished names	1997	8.437932618712928	21.985927835211662	3440198
+3442943	Networks	imap extension for conditional store operation or quick flag changes resynchronization	2006	8.25481938193864	21.745156113454172	3442970
+3444723	HCI	a location dereference protocol using http-enabled location delivery (held)	2012	8.321191202054706	22.30463128677196	3444750
+3444756	HPC	patch and fetch methods for the constrained application protocol (coap)	2017	8.302242652054995	22.377693495932736	3444783
+3445882	Security	webdav current principal extension	2008	8.314424287107988	21.67835439410837	3445909
+3456237	Security	on the use of channel bindings to secure channels	2007	8.445515707693081	22.161037232061897	3456264
+3456550	Metrics	performance analysis of dynamic spectrum access networks under primary user emulation attacks	2010	9.320397246321539	21.444491989927627	3456577
+3461995	Crypto	the secure shell (ssh) session channel break extension	2006	8.284378507193765	21.283464885567245	3462022
+3462196	Web+IR	dynamic delegation discovery system (ddds) part one: the comprehensive ddds	2002	8.366439458394003	21.770264809537068	3462223
+3463343	Web+IR	building directories from dns: experiences from wwwseeker	1999	8.264800772192869	21.888991599123926	3463370
+3475704	Security	mixed security mode for the two-way active measurement protocol (twamp)	2009	8.299403089277371	22.51685208390652	3475731
+3479926	Web+IR	a urn namespace for ucode	2012	8.284753648575522	22.312435807183586	3479953
+3485665	Security	subject key identifier (ski) secure neighbor discovery (send) name type fields	2012	8.368851822698693	22.246482842945966	3485692
+3486486	Web+IR	quota and size properties for distributed authoring and versioning (dav) collections	2006	8.302069988498843	21.557850658072095	3486513
+3497313	DB	interfacing online bibliographic databases with z39.50	1997	8.51432519782042	21.090279578921805	3497340
+3500503	Theory	principles for unicode code point inclusion in labels in the dns	2013	8.358228168234191	21.572600062923502	3500530
+3505191	NLP	"""sieve vacation extension: """"seconds"""" parameter"""	2011	8.243436033631777	22.284756077656688	3505218
+3506865	EDA	internationalizing domain names in applications (idna)	2003	8.31607946245008	21.605476292483353	3506892
+3508063	Robotics	a uniform resource name (urn) namespace for the international press telecommunications council (iptc)	2004	8.401281948943144	21.48658011871592	3508090
+3513536	DB	x-500 directory schema management	1994	8.633313550630486	21.50188611760253	3513563
+3517089	Security	internet x.509 public key infrastructure certificate and crl profile	1999	8.686838591629575	22.274104990547787	3517116
+3518034	Web+IR	cisco vendor-specific radius attributes for the delivery of keying material	2011	8.282919946029534	22.268418421514983	3518061
+3526917	Web+IR	independent submissions to the rfc editor	2007	8.265461536032479	22.22445673013813	3526944
+3530058	Security	internet security dictionary	2002	8.847391719188783	21.85471712584208	3530085
+3539632	DB	aspf: adaptive anti-spit policy-based framework	2011	8.302057687586528	21.16894951006156	3539659
+3559918	Web+IR	how to implement web-based groupware systems based on webdav	1999	8.356869669358218	21.292280326710426	3559945
+3571472	Web+IR	message submission	1998	8.35901611067523	22.207445759205733	3571499
+3580374	Security	extended generic security service mechanism inquiry apis	2009	8.260098639479084	21.561281127139242	3580401
+3583042	Security	lightweight directory access protocol (ldap): string representation of distinguished names	2006	8.341576567510309	21.665908764341307	3583069
+3584173	Security	panel discussion — mix cascades versus peer-to-peer: is one concept superior?	2004	8.375641390526742	21.5957067631798	3584200
+3585437	Web+IR	constraints on processes: essential elements for the validation and execution of processes	1999	8.484800160252629	22.05870595033459	3585464
+3588967	DB	utf-7 a mail-safe transformation format of unicode	1997	8.288733614394458	21.972710518677086	3588994
+3591004	Mobile	detection of selfish manipulation of carrier sensing in 802.11 networks	2012	9.225737378084084	21.14325226060954	3591031
+3595184	HCI	imap4 extension for returning status information in extended list	2010	8.286663474294844	22.017383567459497	3595211
+3595592	Web+IR	datagram transport layer security (dtls) transport mapping for syslog	2010	8.32260997321179	22.576371701719445	3595619
+3598374	HCI	additional methods for generating key identifiers values	2013	8.395306070234312	22.23696055711681	3598401
+3601510	Security	a differentiated services code point (dscp) for capacity-admitted traffic	2010	8.29799330545381	22.506982685076384	3601537
+3604412	Visualization	http adaptive streaming with media fragment uris	2011	8.379841591691418	21.28467971011332	3604439
+3606107	Security	eap re-authentication protocol extensions for authenticated anticipatory keying (erp/aak)	2012	8.583778086503932	22.105188141444646	3606134
+3616200	Security	definitions of managed objects for ip storage user identity authorization	2006	8.258491510265177	21.644568181521763	3616227
+3619212	Crypto	protecting multiple contents with the cryptographic message syntax (cms)	2005	8.595091058349968	21.411297699250998	3619239
+3620965	Arch	an efficient method to find invalid loops in a communication protocol and its application to hdlc	1986	8.310043471042492	21.685957460546213	3620992
+3621495	ECom	an enum registry type for the internet registry information service (iris)	2006	8.379321591845315	21.27375225552861	3621522
+3625320	Web+IR	hypertext transfer protocol (http) client-initiated content-encoding	2015	8.268343655674151	22.59800793349878	3625347
+3630469	DB	an extensible markup language (xml) patch operations framework utilizing xml path language (xpath) selectors	2008	8.436136166024179	21.531623223320093	3630496
+3642010	Web+IR	character set and language encoding for hypertext transfer protocol (http) header field parameters	2010	8.33840338181434	22.53005344029656	3642037
+3644184	Networks	synchronizing namespaces with invertible bloom filters	2015	9.511530391417411	20.879371090984552	3644211
+3645296	NLP	sieve extension for converting messages before delivery	2012	8.288983482496908	22.16993342765469	3645323
+3654615	Web+IR	http framework for time-based access to resource states - memento	2013	8.243922511052094	22.094177969002512	3654642
+3655803	Security	lightweight directory access protocol (ldap) authorization identity request and response controls	2004	8.387375134117269	21.0558101933598	3655830
+3658802	Security	authentication and confidentiality in protocol independent multicast sparse mode (pim-sm) link-local messages	2010	8.712383380146699	22.165589625952173	3658829
+3661808	DB	secure tcp/ip communications over dvb-s/dvb-rcs using chaotic sequences	2009	8.908235420424836	21.01295857355529	3661835
+3669067	Security	security architecture for the internet protocol	1995	8.342030928552273	22.241861977379468	3669094
+3671961	Vision	identity federation for voip systems	2010	8.361116835523536	21.69968078539025	3671988
+3673955	Networks	u.s. government internet domain names	1995	8.408221083913812	22.105307307726086	3673982
+3681320	DB	protecting xml documents	2000	8.410784502795616	21.27763145893929	3681347
+3682876	ECom	"""paytree: """"amortized signature"""" for flexible micro-payments"""	2012	9.771307181203277	21.73856524187417	3682903
+3683573	Web+IR	document and author promotion strategies in the secure wiki model	2012	8.50372661461771	22.06639184554166	3683600
+3688847	Security	cryptographic token key initialization protocol (ct-kip) version 1.0 revision 1	2006	8.749265069631896	22.14372690729446	3688874
+3690790	OS	internet calendaring and scheduling core object specification (icalendar)	2009	8.271925599518697	21.843150115120864	3690817
+3696039	Security	security architecture for the internet protocol	2005	8.31925722373045	22.25402812024385	3696066
+3698542	HCI	building automation routing requirements in low-power and lossy networks	2010	8.294053303071747	22.52113846472577	3698569
+3712333	Security	suite b profile of certificate management over cms	2011	8.462842788984794	22.438391709999923	3712360
+3713844	Web+IR	the organizations involved in the ietf standards process	1996	8.303470108586767	22.130304464341787	3713871
+3713853	HCI	session initiation protocol (sip) call control - transfer	2009	8.338850295954884	22.561929440817607	3713880
+3717069	Web+IR	http immutable responses	2016	8.336016816318779	22.450318587742423	3717096
+3721018	HCI	platajanus: an audio annotation watermarking framework	2001	8.639782116648941	21.31006376653799	3721045
+3723445	HCI	urn namespace for the defence geospatial information working group (dgiwg)	2011	8.340090863627955	21.504100189462925	3723472
+3733087	HCI	message header field for indicating message authentication status	2009	8.48112985119933	21.579063993831426	3733114
+3743776	Web+IR	essential correction for ipv6 abnf and uri comparison in rfc 3261	2010	8.317987577959293	22.12808157953541	3743803
+3749178	Web+IR	use of the content-disposition header field in the hypertext transfer protocol (http)	2011	8.33510872238983	22.514588981521115	3749205
+3753501	Vision	sieve email filtering: relational extension	2008	8.267989082252038	21.516896970032025	3753528
+3760366	Networks	cross registry internet service protocol (crisp) requirements	2004	8.283589104120654	21.23729819539763	3760393
+3766594	Web+IR	security services for the registration data access protocol (rdap)	2015	8.326867160875715	21.96402104466466	3766621
+3769376	Web+IR	exploiting result equivalence in caching dynamic web content	1999	8.252748044329461	21.359407222289754	3769403
+3769679	Web+IR	guidelines for authors and reviewers of yang data model documents	2011	8.283444483202576	22.40784565165322	3769706
+3770615	Networks	lightweight directory access protocol (ldap) absolute true and false filters	2006	8.360034001810678	21.233919050628867	3770642
+3772584	Web+IR	rebind capability in dhcpv6 reconfigure messages	2012	8.347466319648275	22.563125197840673	3772611
+3772925	Mobile	a uniform resource name (urn) namespace for the open mobile alliance (oma)	2006	8.313762920153529	21.338116072925924	3772952
+3775593	Mobile	mac contention in a wireless lan with noncooperative anonymous stations	2006	8.461615404722666	22.34418400092996	3775620
+3776083	Networks	the jini architecture: dynamic services in a flexible network	1999	8.323643773710787	21.268657623426524	3776110
+3785628	Web+IR	origin validation operation based on the resource public key infrastructure (rpki)	2014	8.54430347450621	22.167086276494352	3785655
+3786027	Security	iana registry update for support of the seed cipher algorithm in multimedia internet keying (mikey)	2010	8.395523700512799	22.378393512061443	3786054
+3797628	Web+IR	use of the x.500 directory to support mapping between x.400 and rfc 822 addresses	1995	8.316196865083125	22.1524306532533	3797655
+3800919	Crypto	resource public key infrastructure (rpki) validation reconsidered	2018	8.750828368060683	21.79828606143701	3800946
+3802068	Security	use cases and requirements for dns-based authentication of named entities (dane)	2011	8.513719629736789	22.34662874892351	3802095
+3802358	Web+IR	reducing the time-wait state using tcp timestamps	2011	8.276432184592442	22.511930319106764	3802385
+3811316	Security	an internet key exchange protocol version 2 (ikev2) extension to support eap re-authentication protocol (erp)	2013	8.51041808975824	22.328415709224	3811343
+3813224	Security	adobe's rtmfp profile for flash communication	2014	8.460240030654148	22.271269303743207	3813251
+3817882	NLP	natural language interface for a multi agent system	2004	8.295588417169125	21.25155072799017	3817909
+3819552	Security	secure pre-shared key (psk) authentication for the internet key exchange protocol (ike)	2012	8.736237905598294	22.290234666409425	3819579
+3821940	HCI	pdf/a-3u as an archival format for accessible mathematics	2014	8.459850873210234	21.855266024345173	3821967
+3828855	DB	lightweight directory access protocol (ldap) schema definitions for x.509 certificates	2006	8.621233261397505	21.13627798171773	3828882
+3829508	Web+IR	caching documents with active properties	1999	8.328355271209201	21.074480153191182	3829535
+3837743	Web+IR	pb-tnc: a posture broker (pb) protocol compatible with trusted network connect (tnc)	2010	8.400626556445566	22.542738199360407	3837770
+3852825	Web+IR	linguistic guidelines for the use of the arabic language in internet domains	2010	8.402941877311344	22.20275104003067	3852852
+3856767	Security	password authenticated connection establishment with the internet key exchange protocol version 2 (ikev2)	2012	8.503715506253478	22.30352865531411	3856794
+3857683	NLP	binding extensions to web distributed authoring and versioning (webdav)	2010	8.358616290110216	22.15782377818112	3857710
+3861904	ECom	sieve email filtering: spamtest and virustest extensions	2008	8.458674854618213	21.29215460976818	3861931
+3866812	Web+IR	a secure world-wide-web daemon	1996	8.445539003795778	21.549722916761777	3866839
+3868398	Web+IR	basic host identity protocol (hip) extensions for traversal of network address translators	2010	8.287617818941932	22.589950953463703	3868425
+3869681	Web+IR	media description for the internet key exchange protocol (ike) in the session description protocol (sdp)	2011	8.320863788075263	22.25310345381069	3869708
+3879460	Security	using generic security service application program interface (gss-api) mechanisms in simple authentication and security layer (sasl): the gs2 mechanism family	2010	8.551529891366865	22.437117407699084	3879487
+3880291	Embedded	"""response to rfc 607: """"comments on the file transfer protocol"""""""	1974	8.270214145661749	21.791840009969288	3880318
+3882060	Security	suite b profile for internet protocol security (ipsec)	2011	8.4203734063957	22.59245003069848	3882087
+3886649	Web+IR	authentication-results registration for s/mime signature verification	2014	8.50202333599973	22.257026466746765	3886676
+3898185	Crypto	registration procedures for url scheme names	1999	8.338391382336521	22.012710284681695	3898212
+3904904	DB	lightweight directory access protocol (ldap): schema for printer services	2015	8.377270477886482	21.712371677672323	3904931
+3905227	Security	the secure sockets layer (ssl) protocol version 3.0	2011	8.689806713050709	22.048440506957256	3905254
+3912687	SE	right-to-left scripts for internationalized domain names for applications (idna)	2010	8.367856955018066	22.07451687444594	3912714
+3916749	PL	a uniform resource name (urn) namespace for the common language equipment identifier (clei) code	2005	8.333884852691474	21.706244127747677	3916776
+3921896	DB	a general distributed event model	1998	8.262029055404401	21.780963340501856	3921923
+3929341	SE	"""corrections to """"a syntax for describing media feature sets"""""""	1999	8.26710335694465	21.961895843263783	3929368
+3932087	OS	an overview of version 0.9.5 proposed scsi device locks	2000	8.263529804140273	21.662038894028235	3932114
+3934466	Security	aes-ccm elliptic curve cryptography (ecc) cipher suites for tls	2014	8.726698911124032	22.22088804304161	3934493
+3940224	Logic	intellectual property rights in ietf technology	2017	8.323184383422374	22.315820490579835	3940251
+3940750	Security	use of static-static elliptic curve diffie-hellman key agreement in cryptographic message syntax	2011	8.562711356712951	22.3332488419978	3940777
+3941303	Web+IR	mime content type for binhex encoded files	1994	8.307998292020503	21.939631737312226	3941330
+3945094	Web+IR	the unimarc metadata registry	2005	8.440862445809442	21.715387943498182	3945121
+3945400	Security	connection-oriented media transport over the transport layer security (tls) protocol in the session description protocol (sdp)	2006	8.447165555005686	22.148498230968094	3945427
+3950905	HCI	electronic signature formats for long term electronic signatures	2001	8.344626467983684	22.32343571739957	3950932
+3952071	Web+IR	clarifications and implementation notes for dns security (dnssec)	2013	8.415381893829723	22.580119703829798	3952098
+3967022	Security	datagram transport layer security (dtls) for stream control transmission protocol (sctp)	2011	8.577913018168505	22.222410207999307	3967049
+3967682	Web+IR	to embed or not to embed	1995	8.444623742529366	21.29802117453087	3967709
+3991166	Security	an internet attribute certificate profile for authorization	2002	8.255260413223844	21.719865264270094	3991193
+3993287	Security	cryptographic message syntax	1999	8.777664709940103	22.17177522355876	3993314
+3996920	HCI	advertising digital identifier (ad-id) urn namespace definition	2017	8.301836131210038	21.36605289311393	3996947
+3997986	Vision	tag image file format (tiff) - image/tiff mime sub-type registration	1998	8.27443293066134	21.905261419737396	3998013
+4001615	DB	migrants: self-moving object clusters	1996	8.293041456649489	21.407460205166746	4001642
+4004211	Security	lightweight directory access protocol (ldap): the binary encoding option	2006	8.477177289874874	21.551764540208143	4004238
+4004920	HCI	a uniform resource name (urn) namespace for examples	2013	8.29925230866001	22.111123954340616	4004947
+4009010	DB	policy core extension lightweight directory access protocol schema (pcels)	2005	8.388993152159879	21.348731754086238	4009037
+4019436	Web+IR	remedies for common user-agent problems	2002	8.411460160380322	21.732578207478852	4019463
+4025176	Web+IR	reducing redundancy in ip flow information export (ipfix) and packet sampling (psamp) reports	2009	8.345977512293045	22.441615704496687	4025203
+4028049	Networks	lightweight directory access protocol (ldap) assertion control	2006	8.28556977720567	21.19586648507902	4028076
+4033257	Web+IR	individual session control feature for the two-way active measurement protocol (twamp)	2010	8.335525095020216	22.586900615278157	4033284
+4034274	Arch	remote controlled transmission and echoing telnet option	1977	8.389483892138227	21.75359884467371	4034301
+4037609	Web+IR	a framework for dnssec policies and dnssec practice statements	2013	8.33851958423895	22.276167824541503	4037636
+4050326	Security	encrypt-then-mac for transport layer security (tls) and datagram transport layer security (dtls)	2014	8.479536067647455	22.212428334726038	4050353
+4051953	SE	requirements for plain-text rfcs	2016	8.394926986336978	21.81759278987679	4051980
+4054509	Web+IR	using post to add members to web distributed authoring and versioning (webdav) collections	2010	8.35624202501678	22.40683731550991	4054536
+4057263	Security	naming things with hashes	2013	8.51724919477799	21.512845733530103	4057290
+4065366	Security	summarizing known attacks on transport layer security (tls) and datagram tls (dtls)	2015	8.494458218239767	22.339824795141638	4065393
+4073349	DB	high-speed tools for global information management, ii: specifications and uses of the transparent query language (tql)	1998	8.502550993742107	21.332770093659942	4073376
+4077234	Security	dynamic delegation discovery system (ddds) part three: the domain name system (dns) database	2002	8.41101788767161	21.64214661740008	4077261
+4080833	Web+IR	http extensions for web distributed authoring and versioning (webdav)	2007	8.302694387703417	21.62163747410352	4080860
+4090644	Security	copyright notice	2007	8.60731618148713	22.32211541298555	4090671
+4096323	Networks	design of multicast protocols robust against inflated subscription	2006	8.438802150946687	21.155780516421128	4096350
+4101691	Crypto	attaching meaning to solicitation class keywords	2005	8.321660427219719	22.043256361652823	4101718
+4102437	Security	fast-track session establishment for tls	2002	8.264025007157242	20.935824626525978	4102464

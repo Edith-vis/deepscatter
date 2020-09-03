@@ -1,0 +1,120 @@
+id	area	title	year	x	y	ix
+3811517	Theory	data migration to minimize the total completion time	2005	4.941177015239282	16.307582406676946	3811544
+3814228	HPC	capacity estimation in hpc systems: simulation approach	2011	4.479968342156792	16.09126670273017	3814255
+3816508	HPC	an energy-efficient load balancing algorithm for virtual machine environments to perform communication type application processes	2016	5.146979818197826	16.782937856964438	3816535
+3818028	Networks	software replication in three-tiers architectures: is it a real challenge?	2001	4.46992005125121	16.201361462239834	3818055
+3818474	Mobile	non-preemptive coflow scheduling and routing	2016	4.970314203543926	16.732248963979607	3818501
+3820407	HPC	performance analysis of gang scheduling in a grid	2014	4.6050083161581785	16.263607369699162	3820434
+3823366	Mobile	history, an intelligent load sharing filter	1990	4.500857341295234	16.88878267579051	3823393
+3826723	HPC	how to avoid herd: a novel stochastic algorithm in grid scheduling	2006	4.941876948678879	16.391136901570167	3826750
+3828545	Embedded	rush: a robust scheduler to manage uncertain completion-times in shared clouds	2016	4.929105275637271	16.15034955117064	3828572
+3828921	HPC	towards decentralized load balancing in a computational grid environment	2006	4.759262672452467	16.174809555758205	3828948
+3830453	HPC	preemptive resource management for dynamically arriving tasks in an oversubscribed heterogeneous computing system	2017	5.111512228989362	16.504328108028545	3830480
+3831447	Arch	civsched: communication-aware inter-vm scheduling in virtual machine monitor based on the process	2013	5.216533961591028	16.47799817147962	3831474
+3833106	HPC	a two-level fuzzy value-based replica replacement algorithm in data grids	2016	4.498453290208965	16.2307024343703	3833133
+3834000	HPC	an adaptive framework for improving quality of service in industrial systems	2015	4.779089546279164	16.298662028320006	3834027
+3834131	HPC	towards the design of optimal data redundancy schemes for heterogeneous cloud storage infrastructures	2011	5.179272236148528	16.5797843178755	3834158
+3835032	Web+IR	balancing web server workload using genetic algorithms	2000	4.811761562564599	16.639105101504295	3835059
+3835489	DB	distributed data placement to minimize communication costs via graph partitioning	2014	4.945511872733656	16.19509217026297	3835516
+3835503	OS	a scalable multi-tier task assignment policy with minimum excess load	2010	5.2603781096419535	16.58653235311413	3835530
+3836201	HPC	using overlays for efficient data transfer over shared wide-area networks	2008	4.6453778503806635	16.812254104743108	3836228
+3845842	HPC	scheduling real-time divisible loads with advance reservations	2011	5.138056509222473	16.406604015640912	3845869
+3847284	HPC	replica pre-adjustment strategy based on trend analysis of file popularity within cloud environment	2012	4.753094129380392	16.301638589455052	3847311
+3849064	HPC	the effects of two replacement strategies on a genetic algorithm for scheduling jobs on computational grids	2006	5.262629805920797	16.33387075054953	3849091
+3855623	HPC	workload dependent io scheduling for fairness and efficiency in shared storage systems	2012	5.088827906409497	16.402553486920947	3855650
+3857140	HPC	granularity-based workflow scheduling algorithm for cloud computing	2017	5.267682481418382	16.269254480083575	3857167
+3857977	HPC	adaptive load distribution strategies for divisible load processing on resource unaware multilevel tree networks	2007	4.509514309014492	16.73143548127332	3858004
+3871859	Embedded	a mapreduce task scheduling algorithm for deadline constraints	2012	4.829874398894239	16.091406426184356	3871886
+3872284	HPC	scheduling independent tasks sharing large data distributed with bittorrent	2005	5.060513669268195	16.151089098011596	3872311
+3873406	OS	dealing with performance unpredictability in an asymmetric multicore processor cloud	2017	5.326130135833757	16.214958738918494	3873433
+3875127	HPC	hybrid replication schemes of processes in energy-efficient server clusters	2017	4.658018534063087	16.594952195406062	3875154
+3875288	EDA	energy-efficient quorum selection algorithm for distributed object-based systems	2017	4.643641111829154	16.62826327460682	3875315
+3875451	HPC	job communication characterization and its impact on meta-scheduling co-allocated jobs in a mini-grid	2004	4.563788348980282	16.16520519160936	3875478
+3876685	HPC	spider mesh overlay for task load balancing in cloud computing	2015	5.264267314433425	16.612599877500788	3876712
+3879534	DB	optimal approximation algorithm of virtual machine placement for data latency minimization in cloud systems	2014	4.917257589856769	16.540593082429215	3879561
+3881008	Networks	towards self-optimizing collaborative systems	2012	4.469387118209724	16.935856346846766	3881035
+3882002	HPC	an adaptive job allocation strategy for heterogeneous multi-cluster systems	2010	4.876524172920334	16.171111114185027	3882029
+3884393	HPC	dynamic and adaptive fault tolerant scheduling with qos consideration in computational grid	2017	5.049980240872687	16.287349636113824	3884420
+3891621	HPC	a generalized model for investigating scheduling schemes in computational clusters	2013	5.145039245207639	16.421009026786592	3891648
+3896048	Arch	fair scheduling of bag-of-tasks applications on large-scale platforms	2015	4.593623910765747	16.391782989373187	3896075
+3897600	DB	acceleration and monitoring of data center-hosted distributed database-driven web applications	2004	5.16888657850556	16.949038294302515	3897627
+3898623	DB	data sharing model for sequence alignment to reduce database retrieve	2003	4.550987411246472	16.34022263300308	3898650
+3898967	HPC	yosemite: efficient scheduling of weighted coflows in data centers	2017	4.8287528461208185	16.412789617440847	3898994
+3901124	DB	a study of caching strategies for web service discovery	2015	4.516136151727325	16.74089465461282	3901151
+3903256	HPC	dynamic scheduling algorithm for heterogeneous environments with regular task input from multiple requests	2009	4.9044689978699125	16.081181010836882	3903283
+3904239	DB	a multi-installment scheduling optimization model considering processor order	2018	5.197648971808583	16.380222129137067	3904266
+3917969	HPC	data specific ranking in cloud	2014	4.770462783415316	16.121972668600222	3917996
+3921486	HPC	autonomic load balancing mechanisms in the p2p desktop grid	2013	5.115757512717729	16.446214508491636	3921513
+3922656	HPC	performance analyzing and predicting of network i/o in xen system	2013	5.171957284789458	16.219238098048653	3922683
+3922856	HPC	on-line task granularity adaptation for dynamic grid applications	2010	5.186250354786036	16.227610425019268	3922883
+3926685	HPC	binary-tree based estimation of file requests for efficient data replication	2017	4.3792115585349265	16.207458746231726	3926712
+3926955	Robotics	managing data using neighbour replication on a triangular-grid structure	2009	4.421710074580949	16.1012624733182	3926982
+3927650	Visualization	differentiating the starting time of computation process replicas in the improved redundant delay time-based (irdtb) algorithm	2017	4.626426776795966	16.65284303592733	3927677
+3929663	HPC	evaluation of the algorithms for selecting an energy-efficient storage server in storage and computation oriented applications	2012	5.190186941127519	16.821748742856073	3929690
+3938250	OS	a study of i/o performance of virtual machines	2018	4.801003078164931	16.77407276434232	3938277
+3943733	HPC	dynamic load balancing and job replication in a global-scale grid environment: a comparison	2009	4.8665336255838865	16.2223094183731	3943760
+3944337	Embedded	efficient web requests scheduling considering resources sharing	2010	4.6094298647803935	16.260653115917258	3944364
+3945245	HPC	analysis of the power and hardware resource consumption of servers under different load balancing policies	2012	4.7401696042804025	16.821169426083113	3945272
+3947557	Mobile	energy-aware replication models of mobile agents	2014	4.644601450438689	16.69285391728159	3947584
+3947847	OS	qos-aware admission control in heterogeneous datacenters	2013	4.439363541784178	16.673754185383025	3947874
+3947934	HPC	pb-lru: a self-tuning power aware storage cache replacement algorithm for conserving disk energy	2004	4.9105980666038045	16.651601365553468	3947961
+3952382	HPC	gvts: global virtual time fair scheduling to support strict fairness on many cores	2019	4.773524734057485	16.251052474370358	3952409
+3952802	HPC	autonomous protocols for bandwidth-centric scheduling of independent-task applications	2003	4.4289517291226765	16.42320432245801	3952829
+3954403	Arch	qos-aware scheduling in heterogeneous datacenters with paragon	2013	4.887981407855678	16.56417794877782	3954430
+3954918	HPC	load-balancing ssl cluster using session migration	2007	4.746536850554917	16.96520831025466	3954945
+3955288	HPC	rasa-a new grid task scheduling algorithm	2009	5.055439191181804	16.322867420792882	3955315
+3955706	HPC	assessing mapreduce for internet computing: a comparison of hadoop and bitdew-mapreduce	2012	4.3947442020539835	16.27887165006193	3955733
+3956949	Networks	skipping congestion-links for coflow scheduling	2017	4.7593483412823865	16.936183022691598	3956976
+3958120	HPC	grid jobs scheduling improvement using priority rules and backfilling	2011	5.301699952498289	16.41436595067528	3958147
+3963454	DB	online job scheduling in distributed machine learning clusters	2018	5.008066374944524	16.44493898517748	3963481
+3965367	HPC	evaluating the robustness of the alienated ant algorithm in grids	2010	4.470391057634632	16.29767502127722	3965394
+3970350	OS	improving the virtualization of rich applications by combining vnc and streaming protocols at the hypervisor layer	2016	4.738478875423639	16.485284494037618	3970377
+3971989	Embedded	dynamic fuzzy load balancing on lam/mpi clusters with applications in parallel master-slave implementations of an evolutionary neuro-fuzzy learning system	2008	4.380382937392549	16.122618299917093	3972016
+3973185	DB	distributing and searching concept hierarchies: an adaptive dht-based system	2010	4.532413596857892	16.922775506374542	3973212
+3973300	HPC	estimating makespan using double trust thresholds for workflow applications	2012	5.320419657690205	16.283980207056135	3973327
+3976531	HPC	a virtual machine server aggregation algorithm based on hierarchical clustering	2009	5.322346665033817	16.167478290958453	3976558
+3978430	OS	vmcd: a virtual multi-channel disk i/o scheduling method for virtual machines	2016	4.9973422428127074	16.389676285360686	3978457
+3982634	HPC	qos-aware, access-efficient, and storage-efficient replica placement in grid environments	2008	5.180285129144852	16.986631923217484	3982661
+3986833	Metrics	a measurement-based characterization of the energy consumption in data center servers	2015	5.092018602355332	16.687395515574735	3986860
+3988595	OS	virtual i/o scheduler: a scheduler of schedulers for performance virtualization	2007	4.952026467471673	16.32021960466414	3988622
+3994911	HPC	a dynamic replication management strategy in distributed gis	2018	4.4219718584533325	16.949528437819705	3994938
+3996214	Networks	spgm: an efficient algorithm for mapping mapreduce-like data-intensive applications in data centre network	2013	4.804664006307717	16.63710742494167	3996241
+3999837	Vision	the tertiary level in a functional cluster-based hierarchical vod server	2001	4.902408421629983	16.46416660110198	3999864
+4004398	HPC	a power-aware job scheduling algorithm	2012	5.0545431736344115	16.792962288303276	4004425
+4004418	HPC	scheduling of computing services on intranet networks	2011	4.4380505860777495	16.351649228964845	4004445
+4005549	HPC	energy-efficient computation models for distributed systems	2009	5.188526567838369	16.69057860464661	4005576
+4005907	HPC	end-to-end distance computation in grid environment by nds, the network distance service	2007	5.156770449896542	16.862034632032863	4005934
+4006974	HPC	multihybrid job scheduling for fault-tolerant distributed computing in policy-constrained resource networks	2015	4.613263303331436	16.321851027543968	4007001
+4009049	HPC	performance of probing and coordinated load sharing	2005	4.385967341426713	16.393940861559322	4009076
+4009687	HPC	space: a lightweight collaborative caching for clusters	2010	5.034536780505882	16.193146683904402	4009714
+4019669	Networks	rapier: integrating routing and scheduling for coflow-aware data center networks	2015	4.9675688010611685	16.659600372875506	4019696
+4024119	DB	continuous skyline monitoring over distributed data streams	2010	4.773180949734688	16.089472050470892	4024146
+4028625	SE	dynamic user-level cpu allocation for volunteer computing in cfs-based scheduler environment	2015	4.863504807232579	16.240922927313143	4028652
+4030037	OS	hcube: routing and similarity search in data centers	2016	4.5479598868390525	16.88975050186464	4030064
+4031638	HPC	a redundant power consumption laxity-based (rpclb) algorithm for computation type applications	2012	4.6888614194369165	16.75041762025952	4031665
+4035668	HPC	wide area tentative scaling (wats) for quick response in distributed cloud computing	2014	5.247226278875284	16.15732874096834	4035695
+4036593	DB	bandwidth-limited optimal deployment of eventually-serializable data services	2009	4.375723986405301	16.375523239227498	4036620
+4036764	HPC	laxity based algorithm for reducing power consumption in distributed systems	2010	5.245799409534981	16.731202121146882	4036791
+4039407	HPC	adaptive popularity-driven replica placement in hierarchical data grids	2009	4.568014598399085	16.467074907590963	4039434
+4040163	OS	vpipe: piped i/o offloading for efficient data movement in virtualized clouds	2014	4.843233697812256	16.213578361238113	4040190
+4044401	HPC	efficient scheduling of task graph collections on heterogeneous resources	2009	5.099316489732678	16.24902548614314	4044428
+4048761	HPC	replica placement in data grid: a multi-objective approach	2005	4.890303682407229	16.764930715123427	4048788
+4055465	DB	replica placement in multi-tenant database environments	2015	4.691783102350719	16.335313923361724	4055492
+4057680	HPC	the delay time-based (dtb) algorithm for energy-efficient server cluster systems	2014	4.7164032390830215	16.769904832121707	4057707
+4057690	EDA	estimating deadline-miss probabilities of tasks in large distributed systems	2012	4.587927941920865	16.469620080005665	4057717
+4058840	HPC	a threshold-based load balancing algorithm for grid computing systems	2015	5.219501021524121	16.41689368592541	4058867
+4066044	HPC	a fountain codes-based hybrid p2p and cloud storage system	2013	4.663471607961847	16.416724605107724	4066071
+4066820	HPC	supporting computing element heterogeneity in p2p grids	2011	4.677907855697209	16.119122532085914	4066847
+4069322	HPC	on the design of adaptive and decentralized load balancing algorithms with load estimation for computational grid environments	2007	4.582513453084122	16.163766358614144	4069349
+4069654	Theory	hardness of virtual network embedding with replica selection	2015	4.474991871159338	16.932100786877935	4069681
+4070371	OS	i/o scheduling schemes for better i/o proportionality on flash-based ssds	2016	5.1473629446717455	16.162177095220066	4070398
+4073318	DB	performance evaluation of a hybrid run-time management policy for data intensive web sites	2003	4.602751940217276	16.525423358248744	4073345
+4073477	Embedded	an adaptive dynamic feedback load balancing algorithm based on qos in distributed file system	2017	4.39559084076855	16.443384938811395	4073504
+4074052	Embedded	adaptive resource management algorithms for periodic tasks in dynamic real-time distributed systems	2002	4.486450902356659	16.27023308662127	4074079
+4074111	EDA	minimize coflow completion time via joint optimization of flow scheduling and processor placement	2017	5.146983295947865	16.922301997742807	4074138
+4075536	Embedded	online scheduling of spark workloads with mesos using different fair allocation algorithms	2018	4.757831610793993	16.307879739649607	4075563
+4084669	HPC	a dynamic weighted data replication strategy in data grids	2008	4.488977510993252	16.349025995411758	4084696
+4090881	HPC	grid resource management policies for load-balancing and energy-saving by vacation queuing theory	2009	5.099058568064252	16.818772421051616	4090908
+4092041	DB	effect of database server arrangement to the performance of load balancing systems	2009	4.444784407584741	16.95181928932484	4092068
+4094060	OS	epyfq: a novel scheduling algorithm for performance virtualization in shared storage environment	2005	5.308990890607704	16.429373747602053	4094087
+4098452	HPC	a small world based overlay network for improving dynamic load-balancing	2015	4.699417326425454	17.024934181621866	4098479

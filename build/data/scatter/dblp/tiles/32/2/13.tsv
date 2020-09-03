@@ -1,0 +1,254 @@
+id	area	title	year	x	y	ix
+1790244	Theory	an iterative substructuring algorithm for two-dimensional problems in h(curl)	2012	-24.72062957614744	-5.235141729769269	1790271
+1791100	HPC	higher-order adaptive finite-element methods for kohn-sham density functional theory	2013	-24.70041829402398	-5.738904317605742	1791127
+1799471	ML	construction of nearly orthogonal nedelec bases for rapid convergence with multilevel preconditioned solvers	2001	-24.693233984998287	-5.111973269985769	1799498
+1829509	HPC	a convergence theory of multilevel additive schwarz methods on unstructured meshes	1996	-24.84567583436965	-5.059854050642235	1829536
+1831605	HPC	domain decomposition with local mesh refinement	1992	-24.95817257514255	-5.6953805980608125	1831632
+1837680	HPC	solving two- dimensional partial differential equations on vector and scalar machines	1989	-24.87575201023836	-5.2199690314912095	1837707
+1906756	Theory	lower bounds for three-dimensional nonoverlapping domain decomposition algorithms	2003	-24.65234474846085	-4.7012604833611515	1906783
+1934581	HPC	substructuring preconditioners for saddle-point problems arising from maxwell's equations in three dimensions	2004	-24.67303956092803	-5.057187950343919	1934608
+1937781	ML	a three-level bddc algorithm for mortar discretizations	2009	-24.638168168917858	-4.988388745914068	1937808
+1944378	HPC	non-galerkin multigrid based on sparsified smoothed aggregation	2015	-24.67361869331879	-5.239097089712351	1944405
+1948537	HPC	multiscale linear solvers for very large systems derived from pdes	2000	-24.75240416593205	-5.696077266982572	1948564
+1950086	Comp.	multilevel additive schwarz preconditioner for nonconforming mortar finite element methods	2004	-24.666242166736367	-5.02378915495159	1950113
+1966885	ML	a semi-lagrangian two-level preconditioned newton-krylov solver for constrained diffeomorphic image registration	2017	-24.711095256600057	-5.693671582006298	1966912
+1980903	EDA	parallel netwon-krylov methods for pde-constrained optimization	1999	-25.017803330154205	-4.472188846008353	1980930
+2003486	HPC	high accuracy solution of three-dimensional biharmonic equations	2002	-24.641843898975033	-5.154335330055709	2003513
+2015150	Theory	a fast poisson solver of arbitrary order accuracy in rectangular regions	1998	-24.76423676512187	-4.940604765407164	2015177
+2042517	Robotics	using high-order methods on adaptively refined block-structured meshes: derivatives, interpolations, and filters	2007	-24.676850251360808	-5.622210058002853	2042544
+2042650	Vision	from box filtering to fast explicit diffusion	2010	-24.769558199325513	-5.2730175226838245	2042677
+2045457	Visualization	level set and pde methods for visualization	2005	-24.868834863680227	-5.555832045215211	2045484
+2054780	ML	cgmn revisited: robust and efficient solution of stiff linear systems derived from elliptic partial differential equations	2008	-24.64077241309051	-5.227542176273682	2054807
+2057708	HPC	artificial damping in multigrid methods	2001	-24.6782143005928	-5.321727071436297	2057735
+2073946	Theory	null space correction and adaptive model order reduction in multi-frequency maxwell's problem	2017	-24.68270717494117	-4.411658043483778	2073973
+2074494	Theory	uniformly accurate discontinuous galerkin fast sweeping methods for eikonal equations	2011	-24.719998533498387	-4.070579212966521	2074521
+2087359	AI	fast directional algorithms for the helmholtz kernel	2010	-25.074062083557877	-5.2810020425363655	2087386
+2095980	HPC	efficient solution of elliptic partial differential equations via effective combination of mesh quality metrics, preconditioners, and sparse linear solvers	2010	-24.765885744057226	-5.132047410190295	2096007
+2099116	Theory	fourier embedded domain methods: periodic and cinfinity extension of a function defined on an irregular region to a rectangle via convolution with gaussian kernels	2006	-24.866090923058213	-5.062757430014922	2099143
+2102606	Graphics	one-dimensional fully automatic h-adaptive isogeometric finite element method package	2016	-24.708319328191738	-5.435542477028567	2102633
+2139605	ML	multilevel algorithms considered as iterative methods on semidefinite systems	1994	-24.71909536217249	-4.734513961073249	2139632
+2140991	Theory	restricted additive schwarz preconditioners with harmonic overlap for symmetric positive definite linear systems	2003	-24.86574157301723	-5.093707265477233	2141018
+2147367	HPC	fourier matrix decomposition methods for the least squares solution of singular neumann and periodic hermite bicubic collocation problems	1995	-24.698682464682697	-4.940551355403785	2147394
+2170712	Theory	parallel mic(0) preconditioning of 3d elliptic problems discretized by rannacher-turek finite elements	2008	-24.691525343585592	-5.180958013191142	2170739
+2174805	HPC	optimal solvers for linear systems with fractional powers of sparse spd matrices	2018	-24.68107261605679	-4.5484030253396535	2174832
+2189157	HPC	a new extrapolation cascadic multigrid method for three dimensional elliptic boundary value problems	2017	-24.703982328147273	-5.458672926162891	2189184
+2189231	HPC	an efficient algebraic multigrid method for quadratic discretizations of linear elasticity problems on some typical anisotropic meshes in three dimensions	2015	-24.69536429961252	-5.005505927451448	2189258
+2202417	HPC	multilevel block factorizations in generalized hierarchical bases	2003	-24.70164828445195	-4.885136515808968	2202444
+2221180	Theory	a compression technique for the boundary integral equation reduced from helmholtz equation	2013	-24.645413734082986	-4.830854199369294	2221207
+2222833	Theory	the eigenvalue problem for the 2d laplacian in ℋ-matrix arithmetic and application to the heat and wave equation	2003	-24.73532564538372	-4.770316673979453	2222860
+2223816	AI	a variable-step double-integration multi-step integrator	2004	-24.796686559901172	-4.1804891055480775	2223843
+2226278	HPC	amg by element agglomeration and constrained energy minimization interpolation	2006	-24.762593544898014	-5.428567610785343	2226305
+2226481	Theory	fifth order multi-moment weno schemes for hyperbolic conservation laws	2015	-24.70497159718285	-4.606719948083193	2226508
+2229744	Graphics	multigrid technique for biharmonic interpolation with application to dual and multiple reciprocity method	1999	-24.643459043146372	-5.3011841320480295	2229771
+2243483	Theory	nested bddc for a saddle-point problem	2013	-24.660999134216517	-5.725780764552168	2243510
+2246645	HPC	parallel multilevel preconditioners for thin smooth shell finite element analysis	1998	-24.702775790771817	-5.660108798431942	2246672
+2248829	Vision	a hierarchical preconditioner for the electric field integral equation on unstructured meshes based on primal and dual haar bases	2017	-24.646257229284725	-4.998212231346281	2248856
+2253047	HPC	efficient relaxed-jacobi smoothers for multigrid on parallel computers	2017	-24.737607055576497	-4.818180875236691	2253074
+2261826	HPC	multigrid approaches to non-linear diffusion problems on unstructured meshes	2001	-24.71258107534229	-5.279325913688131	2261853
+2269070	HPC	factored sparse approximate inverse of block tridiagonal and block pentadiagonal matricies	2007	-24.739096877035998	-4.564446279912875	2269097
+2297759	HPC	adaptive reduction-based amg	2006	-24.65531809588656	-4.712572396015421	2297786
+2315220	Graphics	implicit extrapolation methods for variable coefficient problems	1998	-24.647620655713386	-4.954341637572852	2315247
+2316179	Vision	a reduced basis localized orthogonal decomposition	2015	-24.688401049277225	-5.591831186546206	2316206
+2319590	HPC	data structures for the distributed iterative solution of non-conventional finite element models	2007	-24.666429557330225	-4.39706871548925	2319617
+2328438	EDA	research on potential problem based on singular decomposition and boundary fm-bem algorithm	2014	-24.711158486327395	-5.674175971773048	2328465
+2347345	ML	wave atoms and time upscaling of wave equations	2009	-24.82652768598676	-5.326171771342391	2347372
+2351145	HPC	recent numerical methods - a challenge for efficient visualization	1999	-24.84013229688657	-5.402010059744531	2351172
+2355808	Theory	parallel lod scheme for 3d parabolic problem with nonlocal boundary condition	2006	-24.673531271425734	-5.467047116871077	2355835
+2361383	Theory	two-level additive schwarz preconditioners for the h-p version of the galerkin boundary element method for 2-d problems	2001	-24.682319918652606	-4.89078829355444	2361410
+2366031	HPC	high accuracy multigrid solution of the 3d convection-diffusion equation	2000	-24.693287020480188	-5.155587165131499	2366058
+2405004	HPC	optimizing the evaluation of finite element matrices	2005	-24.85264777892	-4.894789139357644	2405031
+2414719	SE	computing subdominant unstable modes of turbulent plasma with a parallel jacobi-davidson eigensolver	2011	-24.671781239537268	-5.736325824158909	2414746
+2426002	Theory	multilevel hierarchical matrices	2006	-24.69817949243093	-4.7574309150965	2426029
+2480156	EDA	iterative solution of spark methods applied to daes	2002	-24.697540570342394	-4.210047814520649	2480183
+2487988	HPC	domain decomposition methods for pde constrained optimization problems	2004	-24.83634133090308	-4.569403085790869	2488015
+2492087	HPC	parallel collocation solution of constrained optimal control problems	2015	-24.714206289319677	-4.2952122938943536	2492114
+2493132	Theory	nonrigid embeddings for dimensionality reduction	2005	-25.182153962140642	-5.3938820436737505	2493159
+2506669	ML	an extended basis inexact shift-invert lanczos for the efficient solution of large-scale generalized eigenproblems	2013	-24.674405209506826	-5.692884232694099	2506696
+2506940	HPC	rotated krylov preconditioned iterative schemes in the solution of convection-diffusion equations	2008	-24.68291653774207	-4.656835139693419	2506967
+2532524	Theory	on the design of small coarse spaces for domain decomposition algorithms	2017	-24.84733701952033	-5.2803656013096685	2532551
+2535045	Theory	algebraic multilevel preconditioning of anisotropic elliptic problems	1994	-24.65859625344949	-4.2647904457233	2535072
+2538623	Graphics	implementation of the mortar method in the wavelet context	2006	-24.669486496399802	-5.2238212846355925	2538650
+2543197	ML	a massively parallel nonoverlapping additive schwarz method for discontinuous galerkin discretization of elliptic problems	2016	-24.70689634530129	-5.395763797936559	2543224
+2554813	HPC	h(curl) auxiliary mesh preconditioning	2008	-24.65569149177676	-4.9708053203429055	2554840
+2562120	Theory	bddc and feti-dp preconditioners with adaptive coarse spaces for three-dimensional elliptic problems with oscillatory and high contrast coefficients	2017	-24.795942194117885	-5.077225731245512	2562147
+2580884	HPC	a newton-type method with nonequivalence deflation for nonlinear eigenvalue problems arising in photonic crystal modeling	2016	-24.690339593554672	-5.549859340489211	2580911
+2581138	Theory	bivariate product cubature using peano kernels for local error estimates	2008	-24.68714016893889	-4.229476638018791	2581165
+2591317	HPC	an element-based spectrally optimized approximate inverse preconditioner for the euler equations	2012	-24.84384907605363	-5.165618816796574	2591344
+2628849	HPC	an extrapolation cascadic multigrid method combined with a fourth-order compact scheme for 3d poisson equation	2017	-24.664715266339165	-5.113475323005511	2628876
+2640933	Theory	a splitting extrapolation for solving nonlinear elliptic equations with d-quadratic finite elements	2009	-24.640486585941073	-5.2692202803899315	2640960
+2651477	HPC	parallel multigrid methods for the calculation of unsteady flows on unstructured grids: algorithmic aspects and parallel performances on clusters of pcs	2004	-24.86737110320292	-5.139128567786997	2651504
+2654109	ML	a bddc algorithm with enriched coarse spaces for two-dimensional elliptic problems with oscillatory and high contrast coefficients	2015	-24.770344472977317	-5.106383021955475	2654136
+2655160	HPC	robust amli methods for parabolic crouzeix-raviart fem systems	2010	-24.650123321588488	-5.128831010928604	2655187
+2658996	Theory	an approximate jacobian nonlinear solver for multiphase flow and transport	2018	-24.66449501493718	-5.742356611766919	2659023
+2665626	Theory	the discretely-discontinuous galerkin coarse grid for domain decomposition	2015	-24.846733736325145	-5.092773786818791	2665653
+2670161	HPC	fast parallel iterative solution of poisson's and the biharmonic equations on irregular regions	1992	-24.772150938497496	-5.216021245896154	2670188
+2673483	Theory	additive schur complement approximation and application to multilevel preconditioning	2012	-24.665314264637786	-4.867187336548622	2673510
+2680545	HPC	a parallel space-time algorithm	2012	-24.80130278056004	-5.5846319747026465	2680572
+2693739	HPC	iterative substructuring methods for spectral element discretizations of elliptic systems i: compressible linear elasticity	1999	-24.867565069719035	-4.788972783895952	2693766
+2702793	HPC	multigrid waveform relaxation for the time-fractional heat equation	2017	-24.657042174834363	-4.801422375375704	2702820
+2705549	HPC	cyclic reduction and facr methods for piecewise hermite bicubic orthogonal spline collocation	1994	-24.68767134095685	-4.657618867360414	2705576
+2720907	Vision	a kernel-free boundary integral method for elliptic boundary value problems	2007	-24.65445705223834	-5.385648118440951	2720934
+2723374	HPC	robust and scalable domain decomposition solvers for unfitted finite element methods	2018	-24.740806372291498	-5.443308823508122	2723401
+2727444	HPC	a nearly optimal multigrid method for general unstructured grids	2016	-24.87137084128036	-5.067425402126728	2727471
+2733176	Graphics	geodesics using waves: computing distances using wave propagation	2016	-24.72783914593955	-5.629006677935383	2733203
+2736895	ML	preconditioning for modal discontinuous galerkin methods for unsteady 3d navier-stokes equations	2013	-24.690363541590557	-5.233287169401065	2736922
+2745154	HPC	two-level local refinement preconditioners for nonsymmetric and indefinite elliptic problems	1994	-24.68355293087361	-4.4927280981721305	2745181
+2786918	Theory	timely communication: diagonal edge preconditioners in p-version and spectral element methods	1997	-24.908776675586253	-4.778696504127809	2786945
+2798848	EDA	an algebraic preconditioning method for m-matrices: linear versus non-linear multilevel iteration	2002	-24.677830156421475	-4.578109433833501	2798875
+2801990	HPC	additive and multiplicative two-level spectral preconditioning for general linear systems	2007	-24.668109265559693	-4.976426952717358	2802017
+2804934	EDA	preconditioning strategies for linear systems arising in tire design	2000	-24.673285387816573	-4.6995400879242775	2804961
+2830685	HPC	a parallel solver for large scale dfn flow simulations	2015	-24.681773058790718	-5.29673885938163	2830712
+2836531	Graphics	algorithm 732; solvers for self-adjoint elliptic problems in irregular two-dimensional domains	1994	-24.79964247250317	-5.233707297181794	2836558
+2847229	HPC	parallel numerical algorithms for 3d parabolic problem with nonlocal boundary condition	2006	-24.71960354603787	-5.481318161838084	2847256
+2851085	HPC	on a system for adaptive, parallel finite element computations	1978	-24.90964170292309	-4.937050005494577	2851112
+2853314	HPC	newton-gmres preconditioning for discontinuous galerkin discretizations of the navier--stokes equations	2008	-24.689808783740094	-5.449951162142968	2853341
+2857270	HPC	on the stability and performance of the solution of sparse linear systems by partitioned procedures	2016	-24.831845215437585	-5.489427983212958	2857297
+2869198	Comp.	efficient implementation of the truncated-newton algorithm for large-scale chemistry applications	1999	-24.91687873695117	-5.212547870204442	2869225
+2871133	ML	schwarz methods for a preconditioned wopsip method for elliptic problems	2012	-24.64141765318284	-5.176509873342205	2871160
+2890912	Graphics	a reduced unconstrained system for the cloth dynamics solver	2008	-24.686676406009003	-5.862912979281074	2890939
+2893091	ML	a circulant preconditioner for fractional diffusion equations	2013	-24.694329037456242	-4.719361878610116	2893118
+2894118	Theory	multigrid and multilevel methods for nonconforming q1 elements	1998	-24.701605224899488	-5.108007893932767	2894145
+2919097	Robotics	méthode de décomposition de domaines pour l'équation de schrödinger. (domain decomposition method for schrödinger equation)	2014	-24.660866813189784	-5.690680170889612	2919124
+2932858	HPC	a fast direct solver for a class of elliptic partial differential equations	2009	-24.888410045541434	-5.387594600385561	2932885
+2946357	HPC	novel multilevel preconditioners for the systems arising from plane wave discretization of helmholtz equations with large wave numbers	2017	-24.683029373259984	-5.309928039808992	2946384
+2957607	Vision	diffusion smoothing on brain surface via finite element method	2004	-24.64837592978587	-5.313151845827953	2957634
+2959477	HPC	iterative solvers for the stochastic finite element method	2010	-24.657597585297164	-4.885856640035212	2959504
+2959967	EDA	a general interpolation strategy for algebraic multigrid using energy minimization	2011	-24.833792115912708	-5.179009100237791	2959994
+2992887	Theory	local bisection refinement for n-simplicial grids generated by reflection	1995	-24.65898372814309	-4.391671868115807	2992914
+3000456	Vision	a multigrid method for anisotropic pdes in elastic image registration	2006	-24.80845066542546	-5.201318537089411	3000483
+3009672	HPC	an algebraic multigrid method for higher-order finite element discretizations	2006	-24.67062275578888	-5.099878850280323	3009699
+3017370	HPC	voftools - a software package of calculation tools for volume of fluid methods using general convex grids	2018	-24.90795378456551	-5.613806959223163	3017397
+3032474	HPC	a highly parallel multigrid-like method for the solution of the euler equations	1992	-24.76649715810296	-5.554393491702997	3032501
+3045202	Theory	optimal solvers for fourth-order pdes discretized on unstructured grids	2014	-24.68487411242627	-4.976324100914712	3045229
+3049794	HPC	a multigrid method for adaptive sparse grids	2015	-24.70188862689156	-4.891699692652791	3049821
+3054064	Theory	symmetric solution in m3d	2004	-24.914496635151483	-5.136426001820639	3054091
+3063471	Theory	optimal good-aspect-ratio coarsening for unstructured meshes	1997	-24.638013335738826	-5.630152697885345	3063498
+3082313	HPC	an efficient hierarchical preconditioner for quadratic discretizations of finite element problems	2011	-24.653721128143328	-5.337765923177517	3082340
+3091429	ML	energy-minimizing coarse spaces for two-level schwarz methods for multiscale pdes	2009	-24.77057816105275	-5.244001411291631	3091456
+3108662	Graphics	minimal multi-element stochastic collocation for uncertainty quantification of discontinuous functions	2013	-24.68176001387372	-5.354542294890143	3108689
+3118763	EDA	a mortar finite element method using dual spaces for the lagrange multiplier	2000	-24.67781891792687	-5.002498011133617	3118790
+3120948	HPC	preconditioning of indefinite and almost singular finite element elliptic equations	1998	-24.776869435472523	-4.666695230029903	3120975
+3123276	HPC	optimized schwarz and 2-lagrange multiplier methods for multiscale elliptic pdes	2015	-24.685448007468285	-5.0725312779341705	3123303
+3126000	EDA	electromagnetic scattering using the iterative multiregion technique	2007	-24.754100030508127	-5.646292956060309	3126027
+3155007	HPC	computing with functions in spherical and polar geometries i. the sphere	2016	-24.719040714728628	-5.104686908489723	3155034
+3161157	HPC	a nearly optimal preconditioning based on recursive red-black orderings	1997	-24.712475405294587	-4.7035867798826105	3161184
+3186341	Theory	approximate schur complement preconditioning of the lowest-order nodal discretizations	1998	-24.655198708645624	-4.814743947693766	3186368
+3194862	Theory	parallel dd-mic(0) preconditioning of nonconforming rotated trilinear fem elasticity systems	2007	-24.72492186927913	-5.21734335760264	3194889
+3197072	HPC	partial spectral information from linear systems to speed-up numerical simulations in computational fluid dynamics	2004	-24.69846003612573	-5.300774463683036	3197099
+3204611	HPC	parallel domain decomposition methods for stochastic elliptic equations	2007	-24.70562807130558	-4.718573691671369	3204638
+3205562	HPC	domain decomposition methods for problems with partial refinement	1992	-24.655861929621764	-4.832472839141356	3205589
+3228228	Vision	adaptive amg with coarsening based on compatible weighted matching	2013	-24.64505264415409	-5.171020272752403	3228255
+3233464	Theory	fourier-based fast multipole method for the helmholtz equation	2013	-24.652257370302106	-5.1949973632989535	3233491
+3236033	Theory	the fftrr-based fast direct algorithms for complex inhomogeneous biharmonic problems with applications to incompressible flows	2016	-24.71955162650139	-4.932643152375387	3236060
+3252127	Graphics	a hierarchical 3-d direct helmholtz solver by domain decomposition and modified fourier method	2005	-24.898952409523037	-5.39053135482191	3252154
+3256687	Graphics	design and data structure of fully adaptive, multigrid, finite-element software	1984	-24.647596263660738	-5.643698131906578	3256714
+3288276	HPC	a semi-algebraic approach that enables the design of inter-grid operators to optimize multigrid convergence	2008	-24.63872516410277	-4.5913776420878	3288303
+3296005	EDA	a fast algorithm based on partial basic solution vectors domain decomposition method for scattering analysis of electrically large cylinders	2006	-24.804122407722375	-5.5913671219470595	3296032
+3301240	HPC	an adjoint-based scalable algorithm for time-parallel integration	2014	-24.75517675518671	-4.7298179823183535	3301267
+3301736	AI	semi-implicit krylov deferred correction methods for differential algebraic equations	2012	-24.642230900428252	-5.259580431005618	3301763
+3322484	Theory	aggregation-based multilevel preconditioning of non-conforming fem elasticity problems	2004	-24.640705203714628	-5.034490395380017	3322511
+3323545	HPC	hybrid finite difference weighted essentially non-oscillatory schemes for the compressible ideal magnetohydrodynamics equation	2018	-24.64782042311597	-4.812291571191748	3323572
+3331723	HPC	stabilization of algebraic multilevel iteration methods; additive methods	1999	-24.645352672634353	-4.750738040804242	3331750
+3342779	Graphics	the bernstein basis and its applications in solving geometric constraint systems	2012	-24.743115992995673	-5.158044466999668	3342806
+3350057	ML	advanced operator splitting-based semi-implicit spectral method to solve the binary phase-field crystal equations with variable coefficients	2009	-24.695240723500103	-5.470644749741554	3350084
+3351987	Theory	parallel domain-decomposition preconditioning for computational fluid dynamics	1998	-24.692665936955105	-5.730142962413511	3352014
+3352671	Theory	nonsymmetric black box multigrid with coarsening by three	2012	-24.651923772411198	-5.225507935092477	3352698
+3355805	Theory	additive schwarz domain decomposition methods for elliptic problems on unstructured meshes	1994	-24.757579954342923	-5.2835470483156195	3355832
+3361180	Robotics	path planning with divergence-based distance functions	2018	-24.799143678476486	-5.352357757083014	3361207
+3364154	HPC	a parallel implementation of dual-primal feti methods for three-dimensional linear elasticity using a transformation of basis	2006	-24.66604780936748	-5.484724439339434	3364181
+3369071	ML	on the stability of the hyperbolic cross discrete fourier transform	2011	-24.66798331974237	-5.177193540092516	3369098
+3375711	Theory	the meshless approach for the cell method: a new way for the numerical solution of discrete conservation laws	2003	-24.63898603635213	-5.837050383574913	3375738
+3380888	Graphics	data structures and requirements for hp finite element software	2009	-24.65566697808	-5.457468786955126	3380915
+3404858	ML	fast directional multilevel algorithms for oscillatory kernels	2007	-25.06970775773828	-5.3314254574120925	3404885
+3419416	HPC	stable, globally non-iterative, non-overlapping domain decomposition parallel solvers for parabolic problems	2001	-24.8311345454956	-5.638131190328507	3419443
+3420168	HPC	a physics-motivated centroidal voronoi particle domain decomposition method	2017	-24.80700444740725	-5.210974120777265	3420195
+3422132	ML	robust and highly scalable parallel solution of the helmholtz equation with large wave numbers	2013	-24.684408482618423	-5.402607415214781	3422159
+3422220	Vision	a parallel preconditioned bi-conjugate gradient algorithm for two-dimensional elliptic and parabolic equations using hermite collocation	1997	-24.942133741155054	-4.7832044543490735	3422247
+3424412	Vision	robust parameter-free algebraic multilevel preconditioning	2002	-24.706744086801024	-4.959874383033976	3424439
+3426259	ML	black-box hartree-fock solver by tensor numerical methods	2014	-24.68945719306889	-4.984204813914016	3426286
+3426379	ML	modified nodal cubic spline collocation for three-dimensional variable coefficient second order partial differential equations	2012	-24.637815851614004	-4.7626642471073115	3426406
+3432353	HPC	a non-intrusive parallel-in-time adjoint solver with the xbraid library	2018	-24.85980719577005	-5.363385140297926	3432380
+3442432	HPC	preconditioned richardson and minimal residual iterative methods for piecewise hermite bicubic orthogonal spline collocation equations	1994	-24.662633367989454	-4.576072544219175	3442459
+3453649	Theory	lossy data compression reduces communication time in hybrid time-parallel integrators	2018	-24.715561670128547	-5.060266219931433	3453676
+3457297	ML	eigenvalue solvers for three dimensional photonic crystals with face-centered cubic lattice	2014	-24.658694835784868	-5.357825322258214	3457324
+3461107	HPC	iterative solution of cyclically reduced systems arising from discretization of the three-dimensional convection-diffusion equation	1998	-24.643988698833013	-4.673691786026182	3461134
+3471540	Logic	multilevel finite element preconditioning for √3 refinement	2009	-24.85261643196128	-4.836399459539755	3471567
+3482572	Robotics	fast iterative boundary element methods for high-frequency scattering problems in 3d elastodynamics	2017	-24.657057242859672	-5.571783539375829	3482599
+3483808	Theory	on parallel solution of linear elasticity problems. part ii: methods and some computer experiments	2002	-24.83662060071753	-4.7336973864686005	3483835
+3490366	Theory	semi-coarsening amli preconditioning of anisotropic trilinear fem systems	2014	-24.706900881663216	-4.828577285580941	3490393
+3492552	HPC	a direct solver for elliptic pdes in three dimensions based on hierarchical merging of poincaré-steklov operators	2016	-24.852390579271088	-5.4068731674528765	3492579
+3504930	Visualization	smooth surface constructions via a higher-order level-set method	2007	-24.648469899286994	-5.890686141019084	3504957
+3512165	HPC	the use of inexact ode solver in waveform relaxation methods on a massively parallel computer	1995	-24.744011086809333	-4.5584440649866655	3512192
+3512238	HPC	optimization of the deflated conjugate gradient algorithm for the solving of elliptic equations on massively parallel machines	2013	-24.75144993010495	-5.805523494448623	3512265
+3522992	ML	condition numbers of approximate schur complements in two- and three-dimensional discretizations on hierarchically ordered grids	2000	-24.866220463618784	-4.930739397428671	3523019
+3527487	HPC	iterative line cubic spline collocation methods for elliptic partial differential equations in several dimensions	1993	-24.64791187820152	-5.051748013761662	3527514
+3531485	Vision	a recursive skeletonization factorization based on strong admissibility	2017	-24.828146096734386	-4.963043178404222	3531512
+3531796	Theory	spectral analysis and spectral symbol of matrices in isogeometric galerkin methods	2017	-24.685299393222927	-4.3649411675832885	3531823
+3532937	HPC	nested iterations for symmetric eigenproblems	1995	-24.894762807487236	-5.006228570448681	3532964
+3536903	HPC	a new method based on som network to generate coarse meshes for overlapping unstructured multigrid algorithm	2003	-24.70005481184293	-5.489567242817088	3536930
+3555473	EDA	scalability studies of an implicit shallow water solver for the rossby-haurwitz problem	2010	-24.682262252435823	-5.9638374571290775	3555500
+3564115	HPC	a parallel directional fast multipole method	2014	-24.865799940762386	-5.519027782306167	3564142
+3570906	Theory	parallel preconditioning methods with selective fill-ins and selective overlapping for ill-conditioned problems in finite-element methods	2007	-24.693449438928862	-5.6487095706462265	3570933
+3579832	HPC	non-galerkin coarse grids for algebraic multigrid	2014	-25.0055455187451	-5.442611347996918	3579859
+3584045	Theory	fast alternating-direction finite difference methods for three-dimensional space-fractional diffusion equations	2014	-24.89679501327856	-5.057755809389578	3584072
+3592696	Theory	fast sweeping methods for eikonal equations on triangular meshes	2007	-24.72145123221407	-4.8694606120105135	3592723
+3595811	HPC	fast summation by interval clustering for an evolution equation with memory	2012	-24.642229909347463	-4.764481906880537	3595838
+3603273	Robotics	a second order virtual node method for elliptic problems with interfaces and irregular domains	2010	-24.64751006165404	-5.717888690200171	3603300
+3604710	ML	eigenvalue translation based preconditioners for the gmres(k) method	1995	-24.641096211480725	-4.75852557000716	3604737
+3645583	ML	application des méthodes multigrilles à l'assimilation variationnelle de données en géophysique. (multigrids methods applied to variationnal data assimilation in geophysics models)	2011	-24.797769109526392	-4.734244816261407	3645610
+3654813	Robotics	adaptive cell-centered finite volume method for diffusion equations on a consistent quadtree grid	2016	-24.765898290509533	-5.745264009690487	3654840
+3660487	Theory	multilevel preconditioning of rotated trilinear non-conforming finite element problems	2007	-24.776710985802197	-4.983811114330202	3660514
+3660574	HPC	a parallel implementation of the jacobi-davidson eigensolver and its application in a plasma turbulence code	2010	-24.672908983961047	-5.834391566103196	3660601
+3670317	HPC	multiscale bases for the sparse representation of boundary integral operators on complex geometry	2003	-24.960854178787738	-5.266289055782973	3670344
+3677084	Vision	cyclic schemes for pde-based image analysis	2015	-24.808189609134892	-5.216059785278418	3677111
+3678731	HPC	performance of preconditioned iterative solvers in mfix-trilinos for fluidized beds	2018	-24.658752610200008	-5.70455861362925	3678758
+3680730	Theory	a superfast-preconditioned iterative method for steady-state space-fractional diffusion equations	2013	-24.79092746779113	-4.973543801726678	3680757
+3686622	Theory	double sweep preconditioner for optimized schwarz methods applied to the helmholtz problem	2014	-24.678916916197075	-5.632450507779633	3686649
+3697451	HPC	comparison of multigrid algorithms for high-order continuous finite element discretizations	2015	-24.66317880680997	-5.07926348821368	3697478
+3698028	HPC	performance of multi level parallel direct solver for hpfinite element method	2007	-24.69865946105813	-5.494246004692039	3698055
+3698348	Theory	nonequispaced hyperbolic cross fast fourier transform	2010	-24.722194307387586	-5.197334354920693	3698375
+3709000	AI	a high-order fast method for computing convolution integral with smooth kernel	2010	-24.652227572703932	-5.14882345848164	3709027
+3713874	Theory	an asymptotically optimal schur complement reduction for the stokes equation	1999	-24.740399226326453	-4.8053730626194735	3713901
+3714289	Theory	spectral analysis and spectral symbol of matrices in isogeometric collocation methods	2016	-24.69781766594841	-4.326064217479051	3714316
+3716533	HPC	parallel performance of domain-decomposed preconditioned krylov methods for pdes with locally uniform refinement	1992	-24.786874889192823	-5.0234865775391535	3716560
+3717561	ML	smash: structured matrix approximation by separation and hierarchy	2018	-24.945587131782194	-4.875121390401038	3717588
+3725481	HPC	compatible coarse nodal and edge elements through energy functionals	2007	-24.715625458648628	-5.300992526563331	3725508
+3726965	AI	theoretical bounds for algebraic multigrid performance: review and analysis	2014	-24.705816197167202	-4.692943884160378	3726992
+3739563	ML	optimization of schwarz waveform relaxation over short time windows	2012	-24.69856441258728	-4.742287702444704	3739590
+3755657	Vision	preconditioning of the coarse problem in the method of balanced domain decomposition by constraints	2012	-24.7232293907551	-5.255071767329039	3755684
+3756614	Theory	generalized aggregation-based multilevel preconditioning of crouzeix-raviart fem elliptic problems	2006	-24.687487798009528	-4.923001064053767	3756641
+3757725	HPC	rapid prolate pseudospectral differentiation and interpolation with the fast multipole method	2006	-24.676521863655605	-5.126566521551101	3757752
+3758412	HPC	a hybrid geometric + algebraic multigrid method with semi-iterative smoothers	2014	-24.65858728173611	-5.204396970947013	3758439
+3760297	Vision	development of a stokes flow solver robust to large viscosity jumps using a schur complement approach with mixed precision arithmetic	2011	-24.75710673720543	-5.808789907903078	3760324
+3762055	Theory	time-decoupled high order continuous space-time finite element schemes for the heat equation	2014	-24.65937760707748	-5.066048731449307	3762082
+3764096	Theory	a fast galerkin method with efficient matrix assembly and storage for a peridynamic model	2012	-24.804265238116077	-5.779538281077811	3764123
+3766588	HPC	optimal superconvergent one step nodal cubic spline collocation methods	2005	-24.73721302922197	-4.732194292228946	3766615
+3783091	HPC	an o(n log2n) alternating-direction finite difference method for two-dimensional fractional diffusion equations	2011	-24.668686153748606	-4.967006135164128	3783118
+3785471	HPC	reduced-order preconditioning for bidomain simulations	2007	-24.79250763788814	-5.050660452383821	3785498
+3790281	HPC	an optimal domain decomposition preconditioner for the finite element solution of linear elasticity problems	1992	-24.76916581667349	-5.078150557452122	3790308
+3795577	HPC	fast multipole method for the biharmonic equation in three dimensions	2006	-24.65311873808281	-5.052419126050446	3795604
+3801277	HPC	parallel two-grid semismooth newton-krylov-schwarz method for nonlinear complementarity problems	2011	-24.922215644385446	-5.268804376048541	3801304
+3809352	ML	a fast butterfly algorithm for the computation of fourier integral operators	2009	-24.700069817858395	-4.803388041995576	3809379
+3809428	Theory	a full multigrid method for eigenvalue problems	2016	-24.656049130181593	-4.982332399043993	3809455
+3814962	ML	graphics processing unit (gpu) accelerated fast multipole bem with level-skip m2l for 3d elasticity problems	2015	-24.760797081631363	-5.898007502456051	3814989
+3835789	Theory	a sparse spectral method for homogenization multiscale problems	2007	-24.7043418964233	-4.6193383541009565	3835816
+3853157	HPC	implementation of the vanka-type multigrid solver for the finite element approximation of the navier-stokes equations on gpu	2016	-24.718595416113896	-5.818327748198688	3853184
+3874132	Graphics	high-performance evaluation of finite element variational forms via commuting diagrams and duality	2014	-24.650286552972972	-4.906741793512567	3874159
+3886839	Visualization	fast evaluation of vector splines in three dimensions	1998	-24.65514741944243	-5.1781308009690665	3886866
+3901621	Theory	the effect of a minimum angle condition on the preconditioning of the pivot block arising from 2-level-splittings of crouzeix-raviart fe-spaces	2007	-24.637527571182122	-5.094661781595291	3901648
+3911670	HPC	variable-step multilevel preconditioning methods, i: self-adjoint and positive definite elliptic problems	1994	-24.679427477191986	-4.711744249544659	3911697
+3913830	Theory	the uselessness of the fast gauss transform for summing gaussian radial basis function series	2010	-24.71301595305055	-5.280475151343229	3913857
+3925841	Theory	deflation-accelerated preconditioning of the poisson-neumann schur problem on long domains with a high-order discontinuous element-based collocation method	2016	-24.75412365737608	-5.2735841141156685	3925868
+3943314	Robotics	efficient multigrid methods for solving upwind-biased discretizations of the convection equation	2001	-24.6683815976464	-5.614782285012048	3943341
+3955099	Embedded	reduction of nonlinear embedded boundary models for problems with evolving interfaces	2014	-24.63908732207557	-5.505242198362045	3955126
+3972065	HPC	stabilized explicit-implicit domain decomposition methods for the numerical solution of parabolic equations	2002	-24.71729551807525	-5.63221800787955	3972092
+4004831	HPC	balancing domain decomposition by constraints and perturbation	2016	-24.64230126126313	-5.291296848859422	4004858
+4024600	HPC	performance of block-ilu factorization preconditioners based on block-size reduction for 2d elasticity systems	1997	-24.67708727459475	-4.600178369494602	4024627
+4055079	EDA	the gnat method for nonlinear model reduction: effective implementation and application to computational fluid dynamics and turbulent flows	2013	-24.67315188976423	-5.199177494696345	4055106
+4062160	HPC	a multigrid solver for the three dimensional monge-ampère equation	2014	-24.644343676952246	-5.6819353241570685	4062187
+4062380	Theory	an eigen-based high-order expansion basis for structured spectral elements	2011	-24.75765528500441	-4.952464582898752	4062407
+4066206	HPC	impact of far-field interactions on performance of multipole-based preconditioners for sparse linear systems	2004	-24.790934049335604	-5.525722726709233	4066233
+4081559	Robotics	on fast computations with the inverse to harmonic potential operators via domain decomposition	1996	-24.81805080221463	-5.0165212971639015	4081586
+4081925	Logic	a matrix-exponential decomposition based time-domain method for calculating the defect states of scalar waves in two-dimensional periodic structures	2017	-24.658415724225048	-5.548940705779791	4081952
+4087099	Theory	a simple bound-preserving sweeping technique for conservative numerical approximations	2017	-24.640256293890534	-4.3232021988630285	4087126
+4087200	HPC	matrix decomposition algorithms for modified spline collocation for helmholtz problems	2003	-24.68734341351597	-4.791476355611462	4087227

@@ -1,0 +1,182 @@
+id	area	title	year	x	y	ix
+3844222	HPC	dynamic gpu parallel sparse lu factorization for fast circuit simulation	2018	-1.0475880486891018	11.247545280913506	3844249
+3844861	HPC	the actual complexity of parallel evaluation of low degree polynomials	1990	-0.5023058274796318	10.42117570725872	3844888
+3845295	HPC	hyper-systolic routing for simd systems	1997	-0.96500075801731	10.783094905815775	3845322
+3845758	ML	an efficient implementation of a backpropagation learning algorithm on a quadrics parallel supercomputer	1995	-1.0999256337120038	10.879135914079034	3845785
+3847552	HPC	an extended compression format for the optimization of sparse matrix-vector multiplication	2013	-0.6024417593800185	10.919147245082273	3847579
+3849179	HPC	an implicitly parallel eda based on restricted boltzmann machines	2014	-0.4939575294092472	10.872319520847194	3849206
+3850603	HPC	sparse matrix multiplication: the distributed block-compressed sparse row library	2014	-0.7447389176310719	10.516549886383084	3850630
+3851128	Theory	itanium's new basic operation of fused multiply-add: theoretical explanation and theoretical challenge	2001	-1.1646528584714635	11.087350250516954	3851155
+3853713	Theory	gpu-based parallel algorithms for transformations of quantum states expressed as vectors and density matrices	2011	-1.3307255973745151	10.464404697124571	3853740
+3854788	DB	sorting on a cell broadband engine spu	2009	-0.6289112362254725	10.740810281324437	3854815
+3855072	HPC	optimizing communications of dynamic data redistribution on symmetrical matrices in parallelizing compilers	2006	-0.8621415733423488	10.462060748203236	3855099
+3855417	HPC	threaded accurate matrix-matrix multiplications with sparse matrix-vector multiplications	2018	-0.4820249533613156	10.8356195851072	3855444
+3855955	HPC	blas-3 for the quadrics parallel computer	1997	-1.0455857883202764	10.592212370184539	3855982
+3856563	HPC	combating i-o bottleneck using prefetching: model, algorithms, and ramifications	2007	-0.6999144460396666	10.964952906225953	3856590
+3856785	HPC	odchp: a new effective mechanism to maximize parallelism of nested loops with non-uniform dependences	2001	-0.7842908203633545	10.373721151274276	3856812
+3857401	HPC	reconstructing householder vectors from tall-skinny qr	2014	-0.9979830537042852	10.35895764737691	3857428
+3858085	Arch	performance estimates for the dual scalar architecture	1992	-1.0493642882855372	10.451198477715774	3858112
+3859729	HPC	megacell machine	1988	-1.1569878499321538	10.363216650022267	3859756
+3860612	HPC	solving systems of linear equations on the cell processor using cholesky factorization	2008	-0.5950130331542793	10.960105847293546	3860639
+3860671	HPC	modeling set associative caches behavior for irregular computations	1998	-0.6194433162129319	10.677378889905835	3860698
+3860915	Robotics	hardware-based parallel computing for real-time haptic rendering of deformable objects	2008	-0.9152552100083036	10.68365586560896	3860942
+3863747	DB	vskyline: vectorization for efficient skyline computation	2010	-0.4660161176276732	10.75742276727715	3863774
+3864137	HPC	an efficient implementation of parallel eigenvalue computation for massively parallel processing	2001	-1.0128500822633546	10.444999657574558	3864164
+3866391	HPC	neville elimination on multi- and many-core systems: openmp, mpi and cuda	2009	-0.6341994173682078	10.549098226143359	3866418
+3871509	HPC	unleashing gpu acceleration for symmetric band linear algebra kernels and model reduction	2015	-0.5031244971390951	10.893755353091477	3871536
+3872467	HPC	implementation and performance of a complex vision system on a systolic array machine	1988	-1.2415370050943686	11.062130168302943	3872494
+3873792	HPC	cache friendly sparse matrix-vector multiplication	2010	-0.7970325196756142	10.674001591515085	3873819
+3874517	HPC	real-time simulation of a medium scale distribution network: decoupling method for multi-cpu computation	2012	-1.4169083043247193	10.399089669998672	3874544
+3874737	Theory	basic linear algebra operations in sli arithmetic	1996	-1.164768712834939	10.66081776618531	3874764
+3875085	HPC	loop optimization for a class of memory-constrained computations	2001	-0.6169206254808104	10.527791080073822	3875112
+3879756	AI	cuda-enabled sparse matrix-vector multiplication on gpus using atomic operations	2013	-0.4742007522431928	11.132514100032372	3879783
+3880057	HPC	hardware implementation of the exponent based computational core for an exchange-correlation potential matrix generation	2009	-0.9817203592143716	11.021377091313703	3880084
+3880560	DB	buffer assignment for data driven architectures	1993	-1.206894758169236	11.11798437596246	3880587
+3880896	ML	parallel processing with cuda in ceramic tiles classification	2010	-0.4725605242273433	11.129145518700575	3880923
+3881256	HPC	gbla: gröbner basis linear algebra package	2016	-0.9738417268724686	10.654309539681826	3881283
+3883821	HPC	the impact of multicore on math software and exploiting single precision computing to obtain double precision results	2006	-0.7312787753798868	11.071359251398444	3883848
+3883888	HPC	reducing the communication cost via chain pattern scheduling	2005	-0.6540731710615563	10.485454288977394	3883915
+3885651	EDA	an out-of-core branch and bound method for solving the 0-1 knapsack problem on a gpu	2017	-1.1307481401218047	10.507065312044217	3885678
+3886614	PL	cache-friendly implementations of transitive closure	2001	-0.6660419616904959	10.725882654953834	3886641
+3888195	HPC	parallel sparse matrix vector multiplication using greedy extraction of boxes	2010	-0.7861137219606803	10.63857517192872	3888222
+3891491	Arch	a reduction architecture for the optimal scheduling of binary trees	1988	-1.0421186755850198	10.842281761005983	3891518
+3893244	HPC	towards automating multi-dimensional data decomposition for executing a single-gpu code on a multi-gpu system	2016	-0.6888198907734143	10.830735272241443	3893271
+3893666	Arch	adaptive quadrature algorithms for the illiac iv	1980	-1.04167038684983	10.680982275746636	3893693
+3894427	HPC	a hierarchical sparse matrix storage format for vector processors	2003	-1.008022692775055	10.866462119837523	3894454
+3894986	HPC	mixed-tool performance analysis on hybrid multicore architectures	2010	-0.6799881098311221	11.006596344711898	3895013
+3895436	HPC	parallelize bubble sort algorithm using openmp	2014	-0.5390221507753481	10.762411232264943	3895463
+3898517	HPC	parallel option pricing on gpu: barrier options and realized variance options	2012	-0.7898886835005173	10.859158025468911	3898544
+3903863	Arch	on the design and analysis of irregular algorithms on the cell processor: a case study of list ranking	2007	-0.504685651338939	11.25202635909282	3903890
+3905004	Graphics	selecting multiple order statistics with a graphics processing unit	2016	-0.703869433615163	10.775492596053166	3905031
+3909249	HPC	applying ooc techniques in the reduction to condensed form for very large symmetric eigenproblems on gpus	2012	-0.9942307443028416	10.524069369107858	3909276
+3912157	Arch	image understanding architecture: exploiting potential parallelism in machine vision	1992	-1.3119240454321108	10.968528836399992	3912184
+3915490	HPC	accelerating the svd bi-diagonalization of a batch of small matrices using gpus	2018	-0.5525929698842212	10.795706838453665	3915517
+3917348	Arch	sympatix: a simd computer performing the low and intermediate levels of image processing	1994	-1.2033733231388153	11.106632170460989	3917375
+3917434	Vision	the design and evaluation of a multiprocessor system for computer vision	2000	-1.0725746985922255	11.066731049273242	3917461
+3919738	HPC	the use of configurable computing for computational kernels in scientific simulations	2006	-1.295779433563037	11.195937552225818	3919765
+3920049	HPC	efficient sparse lu factorization with lazy space allocation	1999	-0.8177704955067537	10.515682447047606	3920076
+3921436	HPC	matrix multiplication by diagonals on a vector/parallel processor	1976	-0.9825390813253516	10.492823079396018	3921463
+3922715	HPC	accelerating band linear algebra operations on gpus with application in model reduction	2014	-0.5618704410494858	10.746890880635483	3922742
+3924405	DB	external sorting: run formation revisited	2003	-0.8737399118455471	10.786275459515808	3924432
+3925011	Arch	small discrete fourier transforms on gpus	2011	-0.6654981548581349	10.816426080038452	3925038
+3925067	EDA	on mapping and scheduling tasks with synchronization on clusters of machines	2003	-0.8585962676058345	10.57005404678278	3925094
+3926147	Visualization	integer ray tracing	2009	-0.7316277110519785	11.215173021666546	3926174
+3926259	Arch	morphological hough transform on the instruction systolic array	1997	-1.4260717809380603	10.361601081281446	3926286
+3928481	HPC	a fast batched cholesky factorization on a gpu	2014	-0.5944566584958656	10.781466447531251	3928508
+3928984	PL	address register allocation for arrays in loops of embedded programs	2003	-0.5043097784331211	11.195725732225618	3929011
+3930084	Visualization	modeling image processing systems with homogeneous parameterized dataflow graphs	2005	-0.9994525346372568	11.019524959594726	3930111
+3930696	Theory	bit reversal on uniprocessors	1996	-1.073198190355678	10.935520735782488	3930723
+3931969	HPC	packed storage extension for scalapack	1998	-0.7985650779883057	10.404527123502675	3931996
+3933255	HPC	a medium-grained algorithm for sparse tensor factorization	2016	-0.7918808147859479	10.377656982596475	3933282
+3933965	HPC	a hierarchical tridiagonal system solver for heterogenous supercomputers	2014	-0.6077694327879151	10.825226733118004	3933992
+3934334	HPC	parallel, iterative solution of sparse linear systems: models and architectures	1985	-1.042608125726399	10.331351127732276	3934361
+3934874	HPC	an implementation of parallel 1-d fft using sse3 instructions on dual-core processors	2006	-0.9090942464822857	11.095130340127422	3934901
+3934987	HPC	exploiting matrix symmetry to improve fpga-accelerated conjugate gradient	2009	-1.169634126090227	10.683065061911003	3935014
+3938066	HPC	memory-constrained data locality optimization for tensor contractions	2003	-0.5553579815726626	10.507654630875956	3938093
+3938972	HPC	automatic thread decomposition for pipelined multithreading	2010	-0.6027215931097638	11.112676266146735	3938999
+3939226	HPC	new level-3 blas kernels for cholesky factorization	2011	-0.9545092530078176	10.353480539713557	3939253
+3940266	HPC	matrix bidiagonalization on the trident processor	2003	-1.0500855753049607	10.64293759891499	3940293
+3941479	EDA	gpump: a multiple-precision integer library for gpus	2010	-0.4940793517643152	11.136016115641926	3941506
+3941521	EDA	extending software pipelining techniques for scheduling nested loops	1993	-1.3008366933886757	10.390453558986703	3941548
+3942534	HPC	storing sparse matrices to files in the adaptive-blocking hierarchical storage format	2013	-0.8192806749664829	10.479450289388677	3942561
+3943141	HPC	householder qr factorization with randomization for column pivoting (hqrrp)	2017	-1.026471546681915	10.343487462810742	3943168
+3943633	HPC	an analytical evaluation of tiling for stencil codes with time loop	2002	-0.8584490590035468	10.372899219245127	3943660
+3943645	EDA	a method to optimize performance/energy consumption relation for heterogeneous multi-core architectures on fpga	2016	-0.7920062508869292	10.364877540135133	3943672
+3943900	HPC	parallel floating-point expansions for extended-precision gpu computations	2016	-1.1630778981305558	10.788792608947523	3943927
+3943981	Arch	performance evaluation of instruction systolic array processors	2002	-1.1705828129652405	10.685746278505107	3944008
+3944070	HPC	auto-tuning gemv on many-core gpu	2012	-0.7364051785438038	10.744994365977002	3944097
+3945856	HPC	high performance computing for computational science -- vecpar 2014	2014	-0.7640824512331776	10.613131374192868	3945883
+3948638	HPC	efficient fcm computations using sparse matrix-vector multiplication	2016	-1.093876470123856	10.443697511096245	3948665
+3951805	HPC	fast implementation of general matrix-vector multiplication (gemv) on kepler gpus	2015	-0.4862768972901198	11.183259968395665	3951832
+3952322	PL	communication-free parallelization via affine transformations	1994	-0.4975058959557878	10.372601277972528	3952349
+3953570	HPC	a distributed approach for accelerating sparse matrix arithmetic operations for high-dimensional feature selection	2016	-0.5927583147869908	10.646987006366336	3953597
+3955663	Theory	massively parallel hash algorithms and performance	1991	-0.9464792763957672	10.378203788232165	3955690
+3956790	HPC	concurrent number cruncher: an efficient sparse linear solver on the gpu	2007	-0.671522862277624	10.695901290206388	3956817
+3957805	Arch	automatic partitioning and virtual scheduling for efficient parallel execution	1992	-0.8302176317906076	10.59278376529386	3957832
+3959105	Arch	mpp: a supersystem for satellite image processing	1982	-0.7000875943189102	11.158304045833683	3959132
+3960140	Arch	a fast approximate string matching algorithm on gpu	2015	-1.1663376113999029	10.326434602187367	3960167
+3960168	HPC	concurrent number cruncher: a gpu implementation of a general sparse linear solver	2009	-0.6491324049090308	10.746379875973265	3960195
+3960870	Logic	blocking neville elimination algorithm for exploiting cache memories	2009	-1.1013679913662535	10.366068862739564	3960897
+3972082	Arch	a distributed workstation architecture: the convergent cluster	1984	-0.70040782154699	10.919266409951515	3972109
+3972302	Arch	a strategy for determining a jacobi specific dataflow processor	1997	-0.7434871861534003	10.61223674317484	3972329
+3973726	HPC	"""intel cilk plus for complex parallel algorithms: """"enormous fast fourier transforms"""" (efft) library"""	2015	-0.5357764041806573	10.977068848562043	3973753
+3975417	Graphics	using mixed precision for sparse matrix computations to enhance the performance while achieving 64-bit accuracy	2008	-0.852594380317889	10.959165388288566	3975444
+3976042	HPC	improving the accuracy of high performance blas implementations using adaptive blocked algorithms	2011	-0.6864281242031193	10.77142392574191	3976069
+3977526	HPC	mpi reduction operations for sparse floating-point data	2008	-0.5062994749335392	11.160380174263107	3977553
+3978250	PL	acyclic orientation graph coloring for software-managed memory allocation	2014	-0.7765971846511089	11.21094392348793	3978277
+3979665	HPC	simple, fast and practicable algorithms for cholesky, lu and qr decomposition using fast rectangular matrix multiplication	2018	-1.1052674890892458	10.42205910390356	3979692
+3980411	EDA	maximize parallelism minimize overhead for nested loops via loop striping	2007	-0.9517124041736432	10.616558960858793	3980438
+3984208	HPC	parallel algorithm for quasi-band matrix-matrix multiplication	2015	-0.9126534049514068	10.545486569181456	3984235
+3984908	HPC	performance optimizations and bounds for sparse matrix-vector multiply	2002	-0.8358128101508804	10.691469163430684	3984935
+3986500	HPC	hash-based algorithms for discretized data	2013	-0.8382269435877865	10.50828450512862	3986527
+3986580	HPC	pricing derivatives on graphics processing units using monte carlo simulation	2014	-0.8062224120535131	10.846407594503438	3986607
+3986762	HPC	a simple and efficient parallel fft algorithm using the bsp model	2001	-1.1467806997038796	10.406789884713856	3986789
+3989034	HPC	full parallelism in uniform nested loops using multi-dimensional retiming	1994	-1.2000386874564155	10.386136937874484	3989061
+3991159	DB	accelerating multiple string matching by using cache-efficient strategy	2008	-0.8024739049254905	10.995622130785053	3991186
+3993642	Arch	the multistage cube: a versatile interconnection network	1981	-0.8826157215454483	10.492790485208324	3993669
+3994078	ML	solving irregular inter-processor data dependency in image understanding tasks	1999	-0.5756335155990111	10.426392900818328	3994105
+3995160	EDA	a transputer based vehicle simulator	1995	-1.4064504116886671	11.180632491862994	3995187
+3995345	Theory	extensible sparse functional arrays with circuit parallelism	2013	-0.8193875788228422	11.055646881890617	3995372
+3995684	Arch	minimal data copy for dense linear algebra factorization	2006	-0.7478418587041371	10.648391742627048	3995711
+3997717	HPC	accelerating non-negative matrix factorization for audio source separation on multi-core and many-core architectures	2009	-0.9282741846585166	10.59958602282016	3997744
+3998122	HPC	hybrid-wsi: a massively parallel computing technology?	1993	-1.1145060711140795	11.272458564671854	3998149
+3999596	Arch	a pipelined processor suitable for a bus-based parallel architecture	2001	-1.243352075296439	10.873464856241801	3999623
+3999874	HPC	optimizing lzss compression on gpgpus	2014	-0.9008999145640492	10.984243677145724	3999901
+4000002	HPC	optimization of a statically partitioned hypermatrix sparse cholesky factorization	2004	-0.7607518503743508	10.639015362282803	4000029
+4000978	HPC	two parallel implementations of ehrlich-aberth algorithm for root-finding of polynomials on multiple gpus with openmp and mpi	2016	-1.2186039321743591	10.333119195917352	4001005
+4001246	Arch	intel microprocessors&#8211;8008 to 8086	1980	-1.4125848304339923	10.769053648357394	4001273
+4002510	EDA	investigation into energy-efficient co-synthesis of distributed embedded systems	2004	-0.4840236522055586	11.053121074693863	4002537
+4002903	Arch	scan line array processors for image computation	1986	-1.2209784805671904	11.079802236253254	4002930
+4004052	Theory	a fast algorithm for scheduling time-constrained instructions on processors with ilp	1998	-1.4051214379114578	10.913979251845277	4004079
+4008563	PL	data-dependency graph transformations for instruction scheduling	2005	-1.3962781291533737	11.083087777377463	4008590
+4008960	SE	redistribution strategies for portable parallel fft: a case study	2001	-0.8550929540149612	10.437120905902695	4008987
+4011494	Arch	extending summation precision for network reduction operations	2013	-1.2741609719620934	10.854740178771305	4011521
+4013496	Vision	eigen-g: gpu-based eigenvalue solver for real-symmetric dense matrices	2013	-0.7902008468357987	10.723292566583039	4013523
+4014337	Embedded	parallel design of feedback control systems utilizing dead time for embedded multicore processors	2016	-0.9655076740509831	10.642299763166593	4014364
+4022258	HPC	regularity versus load-balancing on gpu for treefix computations	2013	-0.6822658005032989	10.805672080711709	4022285
+4032110	HPC	machine learning for optimal compression format prediction on multiprocessor platform	2018	-0.6770267490830284	10.833047069984703	4032137
+4032547	Arch	siprol: a high level language for digital signal processing	1980	-1.1987522341263046	10.87693564962172	4032574
+4033051	PL	scheduling expression trees with reusable registers on delayed-load architectures	1995	-1.1936018364487873	10.860195275354656	4033078
+4033597	DB	grs — gpu radix sort for multifield records	2010	-0.5289733935084177	11.054965946465027	4033624
+4033726	EDA	reconfigurable acceleration for monte carlo based financial simulation	2005	-1.1275252414992636	11.136954630513516	4033753
+4038339	HPC	simd processor based implementation of recursive filtering equations	2009	-1.1664435720486688	10.8096577782029	4038366
+4041420	HPC	parallel algorithm for swfft using 3d data structure	2012	-0.6444488352224382	10.659742139553988	4041447
+4044931	HPC	a parallel solution method for large sparse systems of equations	1987	-0.6719882965082133	10.490858193160776	4044958
+4045357	HPC	parallel accurate linear algebra subroutines	1995	-0.6934670286559866	10.53963513314258	4045384
+4045556	EDA	a parameterized ordering for cache-, register- and pipeline-efficient givens qr decomposition	1999	-0.6920619877774239	10.61922837306644	4045583
+4048293	HPC	towards improved parallelism through order reduction of accessing data in nd matrices	2014	-0.6979100841767871	10.7276133822561	4048320
+4048410	HPC	sparsifying synchronization for high-performance shared-memory sparse triangular solver	2014	-0.4633423436896562	10.992402386340547	4048437
+4053524	HPC	pastix: a parallel sparse direct solver based on a static scheduling for mixed 1d/2d block distributions	2000	-1.145179392690682	10.367886152848287	4053551
+4054078	EDA	efficient fpga implementation of conjugate gradient methods for laplacian system using hls	2018	-0.9946490240654362	10.718860869058414	4054105
+4055995	Embedded	evaluating conditional statements in embedded system software: systematic methodologies for reducing energy consumption	2004	-0.9460788991184068	10.711571456209576	4056022
+4056418	HPC	solving dense linear systems on graphics processors	2008	-0.941391555352824	10.542339239979338	4056445
+4058259	EDA	a study on gpu-enabled lambert's problem solution for space targeting missions	2018	-1.2443521762560477	10.750758607827848	4058286
+4063067	HPC	shear sort: a true two-dimensional sorting techniques for vlsi networks.	1986	-0.6779254136510428	10.493961276304537	4063094
+4064640	HPC	efficient overlapped fft algorithms for hypercube-connected multicomputers	1994	-0.9524464324926162	10.439427287945508	4064667
+4065911	HPC	block householder computation of sparse matrix singular values	2010	-1.1693330386077008	10.399437958275678	4065938
+4070247	EDA	transpose-free sar imaging on fpga platform	2012	-1.1061397767458565	11.20250120963988	4070274
+4071256	ML	accelerating large-scale data analysis by offloading to high-performance computing libraries using alchemist	2018	-0.4860432728883262	10.847561252901077	4071283
+4073802	HPC	recursive blocked algorithms for solving triangular systems - part ii: two-sided and generalized sylvester and lyapunov matrix equations	2002	-0.923026285628615	10.472061392844862	4073829
+4075153	HPC	a performance analysis of computing the lu and the qr matrix decompositions on the cpu and the gpu	2017	-0.7571312142353936	10.762179922291217	4075180
+4075178	ML	memory-usage advantageous block recursive matrix inverse	2018	-1.1483821940209331	10.375409555300187	4075205
+4076099	HPC	associative processing of line drawings	1971	-0.7256827553428011	10.348298385240396	4076126
+4076106	HPC	efficient parallel out-of-core matrix transposition	2004	-0.8197425673797378	10.603923585336895	4076133
+4077288	Embedded	achieving high reliable and timely task execution in mobile embedded applications	2009	-1.1488911459544957	10.754847997469993	4077315
+4078957	HPC	a symbolic substitution based parallel architecture and algorithms for high-speed parallel processing	1990	-1.4276885763220215	10.726532608341273	4078984
+4079004	HPC	implementation of the prodigy parallel ai machine and performance evaluation of communication	1992	-1.0435392643411854	10.919896130327942	4079031
+4082257	DB	fast sorted-set intersection using simd instructions	2011	-0.6868826693978279	10.599112308369028	4082284
+4083758	DB	towards a high precision massively parallel computer	1994	-0.8273698876062874	10.662503926275066	4083785
+4084667	Vision	factorizations of band matrices using level 3 blas	1990	-0.8379505005988614	10.55513370001938	4084694
+4084876	OS	network processors: prospects for practical deployment [panel 2]	2004	-0.5982275566938102	10.427708071966682	4084903
+4085482	Theory	ffti: fast in-place fft on the cell broadband engine.	2010	-1.0457003881024307	10.437345388079537	4085509
+4085805	HPC	cache-oblivious polygon indecomposability testing	2010	-0.5612274669191245	10.41977459449744	4085832
+4089659	PL	gurpr - a method for global software pipelining	1987	-1.2240885563788977	10.712659645609227	4089686
+4091159	Arch	high-precision anchored accumulators for reproducible floating-point summation	2017	-1.1536393518983608	11.198499554244798	4091186
+4092493	EDA	unifying finite difference option-pricing for hardware acceleration	2011	-0.463631328614484	11.099172022969174	4092520
+4093002	HPC	recsy - a high performance library for sylvester-type matrix equations	2003	-0.8171787767552702	10.546771576199456	4093029
+4094624	HPC	increasing the efficiency of sparse matrix-matrix multiplication with a 2.5d algorithm and one-sided mpi	2017	-0.8101385811972882	10.55448921549494	4094651
+4097860	HPC	an optimized mass storage fft for vector computers	1995	-1.1068948964659335	10.677285147903401	4097887
+4100904	Arch	an fpga-based floating-point jacobi iterative solver	2005	-0.6771435008696444	11.229400046865658	4100931
+4101628	EDA	the jacobi method in reconfigurable hardware	2007	-1.0455129877328162	10.941061451151139	4101655
+4102600	DB	algorithms for sorting and sort-based database operations using a special-function unit	1987	-0.9931815662030816	10.492835129472557	4102627
+4103217	Arch	a comparison of compiler tiling algorithms	1999	-0.475393246777654	10.795089179507112	4103244

@@ -1,0 +1,493 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"></meta>
+<title>Creating Data: A guided tour of the digital library</title>
+
+<script src="/js/commonjs/d3-selection.v1.min.js"></script>
+<script>
+  var select = d3.select;
+</script>
+
+<link rel="stylesheet" href="/mapNarrative.css">
+
+<body>
+  <nav class="navbar navbar-expand-md navbar-light bg-light fixed-top">
+
+    <a class="navbar-brand" href="/">Creating Data</a>
+    <a class="d-none d-xl-block">The Invention of Information in the American State, 1850-1950</a>
+    <a class="nav-link" href="http://benschmidt.org">By Ben Schmidt</a>
+    
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown1" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Sections</a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown1">
+            <a class="nav-link" href="#">No content here yet.</a>
+            <a class="nav-link" href="#">Oceans</>
+            <a class="nav-link" href="#">Population</a>
+            <a class="nav-link" href="#">Knowledge</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Datasets</a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <a class="dropdown-item" href="/datasets/US-cities/">City Populations</a>
+            <a class="dropdown-item" href="#">Land plots</a>
+            <div class="dropdown-divider"></div>
+            <a class="dropdown-item" href="/datasets/hathi-vectors/">Hathi Library Vectors</a>
+          </div>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/acknowledgements">Acknowledgements</a>
+        </li>
+      </ul>
+    </form>
+</div>
+<div class="btn-group" role="group" aria-label="Basic example">
+  <button class="btn btn-outline-primary mode-setter my-2 my-sm-0" type="submit" mode="narrative"
+          id="narrative-label">
+    <span>📖</span>
+    <span class="d-none d-md-inline">Read</span>
+  </button>
+  <button class="btn btn-outline-success mode-setter my-2 my-sm-0" mode="interactive" type="submit"
+          id="interactive-label">
+    <span>✎</span>
+    <span class="d-none d-md-inline">Interact</span>
+  </button>
+</div>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+</nav>
+
+<div id="prologue">
+  <h1>A guided tour of the digital library</h1>
+</div>
+
+<div id="body">
+  <p>In the last 20 years, librarians and technology companies have scanned millions upon millions of books from research libraries. This is a significant portion of all the intellectual work published in the West before the rise of the Internet. What, actually, is <em>in</em> this vast new archive? How big is it? What kinds of books does it contain, and which ones are worth looking at again? Librarians and information scientists have been working for the past decade to make a substantial proportion of these books accessible through the <a href="http://hathitrust.org">Hathi Trust</a>. But we lack ways–even bad ways–to see the entire digital library at once.</p>
+  <p>You’re probably used to browsing books by one of the various library classification systems in common use; the best known is the Dewey Decimal system. But especially at the research level, different libraries use different classification systems. Many research libraries organize using the Library of Congress Classification (LCC); but only about a third of the books in Hathi even have a LCC number associated with them.</p>
+  <p>The only thing we have for all of these books is their text. The visualization here provides a new way of exploring this vast digital library using a new method that makes a visual arrangement of books possible based on the vocabulary they use, using the method from <a href="http://culturalanalytics.org/2018/09/stable-random-projection-lightweight-general-purpose-dimensionality-reduction-for-digitized-libraries/">my new paper on “Stable Random Projection.”</a><a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a> I’ve taken inspiration in this from some other other maps of large collections of books and images, but this tries to take on a considerably more diverse and important set of cultural artifacts.<a href="#fn2" class="footnote-ref" id="fnref2"><sup>2</sup></a></p>
+  <p>You can visually browse through a library of 14 million volumes (about as many as there are books in the Library of Congress) and click on any one to see the original in the HathiTrust digital library.</p>
+  <div class="scrollership" data-scroller-type="scatterplot">
+  <div class="chunk">
+  <p>Either navigate directly using a touch screen or mouse–the “interact” button above will hide the narration–or scroll down in this panel to get a guided tour. You can click on any title to view it in the Hathi Trust catalog, and read it if it’s in the public domain.</p>
+  <pre class="api"><code>{
+  &quot;base_dir&quot;: &quot;/data/scatter/hathi&quot;,
+  &quot;colors&quot;: {&quot;language&quot;:&quot;&quot;,&quot;Classification&quot;:&quot;&quot;,&quot;Subclassification&quot;:&quot;&quot;,&quot;date&quot;:&quot;&quot;,&quot;Principal Author&quot;:&quot;&quot;},
+  &quot;labels&quot;: [&quot;Classification&quot;, &quot;Subclassification&quot;,&quot;id&quot;,&quot;title&quot;,&quot;date&quot;,&quot;Principal Author&quot;, &quot;language&quot;, &quot;library&quot;],
+  &quot;point_size&quot;: 2,
+  &quot;point_threshold&quot;: 10,
+  &quot;label_threshold&quot;: 0,
+  &quot;variable_point_size&quot;: false,
+  &quot;filters&quot;: null,
+  &quot;hide_uncolored&quot;: false,
+  &quot;zoom&quot;: [1, 0, 0, 1000],
+  &quot;colorize_by&quot;: &quot;language&quot;,
+  &quot;label_field&quot;: &quot;title&quot;,
+  &quot;scheme&quot;: &quot;dark&quot;,
+  &quot;guides&quot;: [&quot;legend&quot;, &quot;color_legend&quot;, &quot;label_legend&quot;, &quot;filter_legend&quot;],
+  &quot;keys&quot;: {&quot;Subclassification&quot;: &quot;LCC.txt&quot;, &quot;Classification&quot;: &quot;LCC.txt&quot;}
+  }</code></pre>
+  </div>
+  <div class="chunk">
+  <p>This visualization updates to include more books as we zoom in. Although there are about 14,000,000 books in the Hathi Trust, you’re only seeing <span id="pointcount">about 17,000</span> out of <span id="regioncount">about 12,000,000</span> right now.</p>
+  <p>As you’d expect, the greatest differences in words used are created by the language of a text.</p>
+  <p>Since a large proportion of the Hathi Trust is in English, the single biggest cluster is a central grouping of English-language books.</p>
+  <pre class="api"><code>{
+  &quot;hide_uncolored&quot;: true,
+  &quot;zoom&quot;: [1.494462502704141,5.514914338661423,-3.7660311151101347]
+  }</code></pre>
+  <button class="color_legend_button" onclick="map.color_legend_toggle()">
+  Show color legend
+  </button>
+  </div>
+  <div class="chunk">
+  <p>So; let’s look then <em>only</em> at English (<span id="pointcount">about 17,000</span> books visible) to see the patterns of use there.</p>
+  <pre class="api"><code>{
+  &quot;filters&quot;: {&quot;English&quot;: &quot;d.language == &#39;English&#39;&quot;},
+  &quot;hide_uncolored&quot;: true,
+  &quot;slowly&quot;: [
+  {&quot;field&quot;: &quot;point_threshold&quot;, &quot;value&quot;: 12},
+  {&quot;field&quot;: &quot;point_size&quot;, &quot;value&quot;: 2.0}
+  ],
+  &quot;zoom&quot;: [1.994462502704141,5.514914338661423,-3.7660311151101347]
+  }</code></pre>
+  </div>
+  <div class="chunk">
+  <p>The biggest organizing principal at this level is in the general subject matter of the book. I’ve colorized here by Library of Congress Classification; I’m using the top-level classes, which are things like “Q” for science or “L” for education. To see the full names of the classes, click the button below.</p>
+  <p>While many disparate books are positioned alongside each other, there is fairly strong separation in these various areas between different subject subject headings. When two radically different methods–librarians reading, and vectorized document representations–coincide even this much, you can safely conclude that both are tapping into something real.</p>
+  <p>But I should say for the machine-credulous: this doesn’t mean that this particular clustering is the be-all and end-all of machine reading. If I ran the algorithm again or with different parameters, the layout could be quite different. The point is simply; if a pattern emerges in this low-dimensional representation, it probably also exists in the space defined by a book’s vocabulary.</p>
+  <pre class="api"><code>{
+  &quot;colorize_by&quot;: &quot;Classification&quot;,
+  &quot;label_field&quot;: &quot;Classification&quot;,
+  &quot;hide_uncolored&quot;: true,
+  &quot;label_threshold&quot;: 0.1,
+  &quot;slowly&quot;: [
+  {
+    &quot;field&quot;: &quot;point_threshold&quot;,
+    &quot;value&quot;: 20
+  }
+  ],
+  &quot;filters&quot;: {&quot;English&quot;: &quot;d.language==&#39;English&#39;&quot;}
+  }</code></pre>
+  <button class="color_legend_button" onclick="map.color_legend_toggle()">
+  Show color legend
+  </button>
+  </div>
+  <div class="chunk">
+  <p>Many sciences are located up towards the top of the map: the way the algorithm shakes out puts chemistry and physics are the far extremes of a peninsula including mathematics and a variety of publications dealing with technologies and materials.</p>
+  <pre class="api"><code>{
+  &quot;zoom&quot;: [10.526836200232077,10.287032865090978,-21.887397213962267],
+  &quot;colorize_by&quot;: &quot;Subclassification&quot;,
+  &quot;filters&quot;: {&quot;English&quot;: &quot;d.language==&#39;English&#39;&quot;,
+  &quot;Classification&quot;: &quot;/[QRST]/&quot;},
+  &quot;hide_uncolored&quot;: true,
+  &quot;label_field&quot;: &quot;Subclassification&quot;
+  }</code></pre>
+  <button class="color_legend_button" onclick="map.color_legend_toggle()">
+  Show color legend
+  </button>
+  </div>
+  <div class="chunk">
+  <p>A second cluster lives towards the eastern side. Here, the far eastern promontory is formed by works about medicine (LC classification “R”); the biological sciences help form the bridge that links medicine to the rest of scholarship, with texts about agriculture mingling most easily with works in the social sciences.</p>
+  <pre class="api"><code>{
+  &quot;zoom&quot;: [12.074376483081286,27.02329499000892,-2.941268304187396,8000],
+  &quot;colorize_by&quot;: &quot;Subclassification&quot;,
+  &quot;filters&quot;: {&quot;English&quot;: &quot;d.language == &#39;English&#39;&quot;,
+  &quot;Classification&quot;: &quot;/[QRST]/&quot;},
+  &quot;point_threshold&quot;: 12
+  }</code></pre>
+  <button class="color_legend_button" onclick="map.color_legend_toggle()">
+  Show color legend
+  </button>
+  </div>
+  <div class="chunk">
+  <p>Just to the northwest are works about botany, plants, and parts of zoology; they have less to do with medicine in their language, but cluster back into with the bulk of the biological sciences. At the far promontory opposite medicine is the bulk of class “SB,” plant culture, which stands in the same relation to botany as medicine does to zoology.</p>
+  <p>The S classes–agriculture, general–are one of the major areas where the historical origins of the LC classification in the early 20th century are evident. Agriculture–a major area of study at US universities, and the employment area of a third of the population–seemed to logically command a top-level heading. But later bibliographers have shelved relatively few books in the ‘S’ classes.</p>
+  <pre class="api"><code>{
+  &quot;label_threshold&quot;: 0.05,
+  &quot;zoom&quot;: [14.063431825509644,23.720800638482515,-7.285157063465448],
+  &quot;colorize_by&quot;: &quot;Subclassification&quot;,
+  &quot;point_threshold&quot;: 13,
+  &quot;show_only_n_categories&quot;: 0
+  }</code></pre>
+  <button class="color_legend_button" onclick="map.color_legend_toggle()">
+  Show color legend
+  </button>
+  </div>
+  <div class="chunk">
+  <p>But other works classed as “science” or “technology” are scattered throughout the map. For instance, way on the other side of literary history is a relatively self contained set of science clusters that consist mostly of <em>textbooks</em> for various science classes. Unlike the original works of science above, down here chemistry, math, and physics are quite distinct from each other.</p>
+  <button class="map.color_legend_button" onclick="map.color_legend_toggle()">
+  Show color legend
+  </button>
+  <pre class="api"><code>{
+  &quot;label_threshold&quot;: 0.1,
+  &quot;label_field&quot;: &quot;Subclassification&quot;,
+  &quot;show_only_n_categories&quot;: 5,
+  &quot;filters&quot;: {
+      &quot;English&quot;: &quot;d.language==&#39;English&#39;&quot;,
+      &quot;Science&quot;: &quot;d.Classification==&#39;Q&#39;&quot;
+      },
+      &quot;zoom&quot;: [11.918685221980581, 2.3099582169341026, 20.52232542157204]
+  }
+   </code></pre>
+  </div>
+  <div class="chunk">
+  <p>To see what other kinds of patterns exist here, look at a different section of the library: LC classification “P”, for literature.</p>
+  <pre class="api"><code>{
+    &quot;zoom&quot;: [1.994462502704141,5.514914338661423,-3.7660311151101347],
+    &quot;point_threshold&quot;: 20,
+    &quot;label_field&quot;: &quot;Subclassification&quot;,
+    &quot;filters&quot;: {
+    &quot;English&quot;: &quot;d.language==&#39;English&#39;&quot;,
+    &quot;Fiction&quot;: &quot;d.Classification==&#39;P&#39;&quot;
+    },&quot;color_legend_toggle&quot;:&quot;off&quot;,&quot;show_only_n_categories&quot;:0
+    }
+  </code></pre>
+  </div>
+  <div class="chunk">
+  <p>P is divided into two large macro chunks. One contains scholarly work <em>about</em> literature; much of this has lexical similarities to history and biography.</p>
+  <p>The inability to distinguish between these two chunks from library metadata is something that’s frequently frustrating to scholars of digital literature.</p>
+  <p>That they show up in clearly distinct chunks here is a good thing; it suggests that it will be relatively easily to use machine learning tools to tell them apart in cases where the metadata isn’t clear. (This conforms with what Ted Underwood’s white paper on the subject has found, but using a considerably smaller dataset.)<span class="citation" data-cites="underwood_understanding_2014"><a href="#fn3" class="footnote-ref" id="fnref3"><sup>3</sup></a></span></p>
+  <pre class="api"><code>{
+      &quot;point_threshold&quot;: 20,
+      &quot;zoom&quot;: [5.077083544079225,-2.4696966121767225,11.296810764084036]
+  }</code></pre>
+  </div>
+  <div class="chunk">
+  <p>The other chunk is actual literature, which occupies one wing off the side of the full English-Language set. We are now past the point where metadata is especially good at describing the structuring that the library uses, but fortunately there’s an easy way to describe what’s going on here.</p>
+  <pre class="api"><code>{
+  &quot;zoom&quot;: [9.037977716560997,23.85478326645137,12.026148406645955]
+  }</code></pre>
+  </div>
+  <div class="chunk">
+  <p>The major chunks in this cluster are literary <em>genre</em>. Although most works don’t have metadata, we can use a heuristic to tell genre; I’m simply going to look at whether a work has the word “novel,” “play,” or “poetry/poem” in its title. Not all that many works are helpful enough to identity themselves. But even with most literature removed, enough remain to make it clear that the main areas here represent poetry, prose, and plays.</p>
+  <p>(You may see several big chunks of ‘plays’ hovering around the edges of poetry; many of these are 18th-century plays in verse. The diction in these in some ways resembles poetry more than it does, say, Tennessee Williams.)</p>
+  <pre class="api"><code>{
+  &quot;colorize_by&quot;: &quot;genre&quot;,
+  &quot;slowly&quot;: [{&quot;field&quot;: &quot;point_threshold&quot;, &quot;value&quot;:35}],
+  &quot;label_field&quot;:&quot;title&quot;,
+  &quot;point_threshold&quot;: 20,
+  &quot;label_threshold&quot;: 0.05,
+  &quot;filters&quot;: {&quot;English&quot;: &quot;d.language==&#39;English&#39;&quot;,
+        &quot;Literature&quot;: &quot;d.Classification==&#39;P&#39;&quot;
+    },
+  &quot;zoom&quot;: [9.037977716560997,23.85478326645137,12.026148406645955]
+  }</code></pre>
+  </div>
+  <div class="chunk">
+  <p>Zooming in further, we can look at yet a smalller subset of the library: poetry alone. What kind of library metadata explains the organization of poetry within itself?</p>
+  <pre class="api"><code>{
+  &quot;zoom&quot;: [15.823534662094913,22.601605328038602,15.15921208910164],
+  &quot;colorize_by&quot;: &quot;genre&quot;,
+  &quot;filters&quot;: {
+      &quot;English&quot;: &quot;d.language==&#39;English&#39;&quot;,
+      &quot;Literature&quot;: &quot;d.Classification==&#39;P&#39;&quot; }
+  }</code></pre>
+  </div>
+  <div class="chunk">
+  <p>The answer has something to do with <em>style</em>. Or, at least, date of composition. Here the chart is colored by date, and poems fade in by date of composition. Around 1800, most poems cluster in the bottom half of the cluster; as time goes on, new poetry is written closer to 2000.</p>
+  <pre class="api"><code>{
+  &quot;show_only_n_categories&quot;: 0,
+  &quot;point_threshold&quot;: 24,
+  &quot;filters&quot;: {
+      &quot;English&quot;: &quot;d.language==&#39;English&#39;&quot;,
+      &quot;Literature&quot;: &quot;d.Classification==&#39;P&#39;&quot;,
+      &quot;year&quot;: &quot;d.date &lt;= 1800&quot;
+      },
+      &quot;slowly&quot;: [
+      {&quot;field&quot;: &quot;filters&quot;, &quot;value&quot;: {
+          &quot;English&quot;: &quot;d.language==&#39;English&#39;&quot;,
+              &quot;year&quot;: &quot;d.date &lt;= 2020&quot;,
+          &quot;Literature&quot;: &quot;d.Classification==&#39;P&#39;&quot;
+      }}],
+      &quot;colorize_by&quot;: &quot;date&quot;,
+      &quot;duration&quot;: 10000,
+      &quot;label_field&quot;: &quot;date&quot;,
+      &quot;label_threshold&quot;: 0.1,
+  &quot;zoom&quot;: [15.823534662094913,22.601605328038602,15.15921208910164]
+  }</code></pre>
+  <p>You can filter to a single decade of books at a time using the slider below.</p>
+  <p><label for="yearRanger">Filter</label> <input width="100%" type="range" min="1800" max="2020" value="1922" id="yearRanger" step="1" oninput="map.plotAPI({'+filters': {year : 'Math.abs(d.date - ' + value + ' ) <= 10'}})"></p>
+  </div>
+  <div class="chunk">
+  <p>Zooming in on early poetry gives you a bunch of books mostly written before 1850. You can click on any of these points to read them if you like. But even at this tight scale, there are forms of local textual organization.</p>
+  <pre class="api"><code>{
+   &quot;zoom&quot;: [42.263183432150086,23.14051290748467,18.23463191774931],
+   &quot;label_threshold&quot;: 0.05,
+   &quot;filters&quot;: {
+      &quot;English&quot;: &quot;d.language==&#39;English&#39;&quot;,
+      &quot;Literature&quot;: &quot;d.Classification==&#39;P&#39;&quot; },
+   &quot;slowly&quot;: [{&quot;field&quot;: &quot;point_size&quot;,&quot;value&quot;: 3},{&quot;field&quot;:&quot;label_threshold&quot;,&quot;value&quot;:0}]
+  }</code></pre>
+  </div>
+  <div class="chunk">
+  <p>Within the early poetry, one of the forms of clustering takes place by authorship. Walter Scott, William Cowper, Shakespeare, and other poets each occupy a distinct area of the chart. Homer, author of the <em>Odyssey</em> appears classed as an English poet because so many different poets translated him to English in this period.</p>
+  <pre class="api"><code>{
+    &quot;filters&quot;: {},
+    &quot;colorize_by&quot;: &quot;first_author_name&quot;,
+    &quot;label_field&quot;: &quot;first_author_name&quot;,
+    &quot;label_threshold&quot;: 0.05,
+    &quot;show_only_n_categories&quot;: 15,
+    &quot;color_legend_toggle&quot;: &quot;off&quot;,
+    &quot;slowly&quot;: [{&quot;field&quot;: &quot;point_size&quot;,&quot;value&quot;: 3},{&quot;field&quot;:&quot;label_threshold&quot;,&quot;value&quot;:0.2},{&quot;field&quot;:&quot;point_threshold&quot;, &quot;value&quot;:13}],
+    &quot;zoom&quot;: [52.263183432150086,23.14051290748467,18.23463191774931]
+    }</code></pre>
+  <button class="map.color_legend_button" onclick="map.color_legend_toggle()">
+  Show color legend
+  </button>
+  </div>
+  <div class="chunk">
+  <p>At the full level of magnification, we’re just looking at a few hundred books by Walter Scott, salted with a few other books either about him or imitating him.</p>
+  <pre class="api"><code>{
+      &quot;show_only_n_categories&quot;: 0, &quot;hide_uncolored&quot;: false,
+      &quot;color_legend_toggle&quot;: &quot;off&quot;,
+      &quot;label_field&quot;: &quot;title&quot;,
+      &quot;label_threshold&quot;:0.08,
+      &quot;slowly&quot;: [{&quot;field&quot;:&quot;point_threshold&quot;, &quot;value&quot;: 15}, {&quot;field&quot;:&quot;label_threshold&quot;, &quot;value&quot;:0.3}],
+      &quot;zoom&quot;: [250, 24.23846452408224, 18.761868433830934]
+  }</code></pre>
+  </div>
+  <div class="chunk">
+  <p>But while this resembles a library classification in certain ways, using full text also lets us play <em>against</em> the decisions about where a book belongs that constrain where it falls on the shelf. While almost all poetry is classed as literature, there are also rare works of history, biography, and economics in the libraries that are themselves in verse.</p>
+  <p>Looking at the poetry cluster but hiding literature surfaces these oddball works like <em>A Metrical History of the Life and Times of Napoleon Bonaparte</em> and historical poems about William Penn or the Spanish conquest of the new world.</p>
+  <p>Using these kind of filters produces, at times, some spectacularly convoluted verse, as when <a href="https://babel.hathitrust.org/cgi/pt?id=uc2.ark%3A%2F13960%2Ft3rv0h75t;view=plaintext;seq=251;page=root;size=100;orient=0">Thomas Dibdin tries to make the British national debt rhyme in his history of England</a>: <img src="/images/poemsAboutDebt.jpg" alt="An image of a poem: text reading War with the Dutch adds to our troubles, 1781. And trade’s embarrassment redoubles. If I mistake, ^tis your’s to judge it, But only overhaul the Budget Which, for the service of the year, Will millions, twenty-three appear ; Thousands^ seven hundred fifty-six, And hundreds, (as accountants fix,) Some one or two ; a sum so great Had ne’er before disturb’d the state" /></p>
+  <pre class="api"><code>{
+      &quot;show_only_n_categories&quot;: 0,
+      &quot;color_legend_toggle&quot;:&quot;off&quot;,
+      &quot;label_field&quot;: &quot;title&quot;,
+      &quot;slowly&quot;: [{&quot;field&quot;:&quot;point_threshold&quot;, &quot;value&quot;: 20}],
+      &quot;label_threshold&quot;:0.7,
+      &quot;filters&quot;:{
+        &quot;Classification&quot;:&quot;/[^P]/&quot;
+      },
+      &quot;zoom&quot;: [200, 24.14437272604416, 17.57975452085781]
+  }</code></pre>
+  </div>
+  <div class="chunk">
+  <p>Within the whole of poetry, these works can fade away. But the ability to surface them is one of the ways even a mediocre machine-ordering of the digital library can be useful. As we zoom back out to the scale of poetry generally, you can see a large number of works that–although librarians correctly class them as something other than poetry–still share something in their language with the genre. This suggests one of the ways that this visualization can do is to look at places where the substance of texts does not match up with the ordering placed on them in a classification system.</p>
+  <p>Another thing it can help us with is understanding the <em>scale</em> of the library. Within the poetry cluster here are tens of thousands of books. Scholars in the humanities who are thought to work with “Big Data” operate, for the most part, at the upper limits of this scale. One of the foundational texts in Digital Humanities for thinking about how to deal with large libraries was Gregory Crane’s article “What do you do with a million books.”<span class="citation" data-cites="jockers_macroanalysis:_2013 crane_what_2006 underwood_transformation_2018"><a href="#fn4" class="footnote-ref" id="fnref4"><sup>4</sup></a></span></p>
+  <pre class="api"><code>{
+    &quot;point_threshold&quot;: 12,
+    &quot;colorize_by&quot;: &quot;Classification&quot;,
+    &quot;label_field&quot;: &quot;Classification&quot;,
+    &quot;label_threshold&quot;: 0.05,
+    &quot;filters&quot;: {&quot;English&quot;: &quot;d.language==&#39;English&#39;&quot;},
+  &quot;zoom&quot;: [6.849506276371657, 23.349639551810583, 13.840330233777106, 5000]
+  }</code></pre>
+  </div>
+  <div class="chunk">
+  <p>But Google, Microsoft, the Internet Archive, and the rest have scanned not 100,000 novels, nor 1,000,000 books, but something approaching 10,000,000 volumes <em>just in English</em>. Even if you’ve had the privilege of browsing one of the great open-stack research libraries in the country that begin to approach this size, you probably don’t have a great sense of what the big subcollections of books in it are.</p>
+  <pre class="api"><code>{
+    &quot;point_threshold&quot;: 12,
+    &quot;colorize_by&quot;: &quot;Classification&quot;,
+    &quot;label_field&quot;: &quot;Subclassification&quot;,
+    &quot;label_threshold&quot;: 0.05,
+    &quot;filters&quot;: {&quot;English&quot;: &quot;d.language==&#39;English&#39;&quot;},
+    &quot;zoom&quot;: [1.5,5.514914338661423,-3.7660311151101347, 10000]
+  }</code></pre>
+  </div>
+  <div class="chunk">
+  <p>Look, for example, at this part of fine arts (class N). Most of the books here are things like NC (drawing), ND (painting), and NK (decorative arts). Note all the little flecks of “technology” (starting with T) here. That’s predominantly because works about photography are classed as technology, not as art; when the Library of Congress created its classification system in the early 20th century, the idea of photography as a fine arts was far from their mind.</p>
+  <pre class="api"><code>{
+   &quot;colorize_by&quot;: &quot;Classification&quot;,
+   &quot;label&quot;: &quot;Subclassification&quot;,
+   &quot;label_field&quot;: &quot;Subclassification&quot;,
+   &quot;slowly&quot;: [{&quot;field&quot;: &quot;label_threshold&quot;,&quot;value&quot;: 0.3, &quot;duration&quot;: 750}],
+   &quot;+filters&quot;: {&quot;English&quot;: &quot;d.language==&#39;English&#39;&quot;},
+   &quot;zoom&quot;: [901.385229888668,1.1110842093088635,15.694344168624554]
+  }</code></pre>
+  </div>
+  <div class="chunk">
+  <p>But just as with poetry, the language of art history diffuses gently through the entire library. There are <a href="http://babel.hathitrust.org/cgi/pt?id=mdp.39015064966396">bibliographical (Z) works about printers</a>; <a href="http://babel.hathitrust.org/cgi/pt?id=mdp.39015060091363">recreational (G) works about the Disney company</a>; and <a href="http://babel.hathitrust.org/cgi/pt?id=uc1.32106017872190">literary (P) works about puppetry</a>.</p>
+  <pre class="api"><code>{
+   &quot;colorize_by&quot;: &quot;Classification&quot;,
+   &quot;label&quot;: &quot;Subclassification&quot;,
+  &quot;hide_uncolored&quot;: true, 
+   &quot;label_field&quot;: &quot;title&quot;,
+   &quot;label_threshold&quot;: 0,
+   &quot;slowly&quot;: [{&quot;field&quot;: &quot;label_threshold&quot;,&quot;value&quot;: 0.3}],
+   &quot;+filters&quot;: {&quot;English&quot;: &quot;d.language==&#39;English&#39;&quot;},
+   &quot;zoom&quot;: [901.385229888668,1.1110842093088635,15.694344168624554, 8000]
+  }</code></pre>
+  </div>
+  <div class="chunk">
+  <p>This doesn’t mean that the original classifications are wrong. If the library profession started over they would certainly not come up with the same ordering of knowledge as in the Library of Congress Classification; but the system has many principles (class by subject ahead of place; follow the intent of the author when choosing between plausible alternatives) that are sensible, useful, and unlikely to be easily reproduced algorithmically.</p>
+  <p>The point is, rather, that the ways computer classifies can sometimes reflect reality more sensitively than a rigid set of rules. Computers can be more flexible than bureaucracies.</p>
+  <p>Here, for instance, is a set of books that, for the most part, mix Spanish and English together in their contents. Some are classified in the metadata as Spanish, some as English, and some as multiple languages. But they share a linguistic commonality.</p>
+  <pre class="api"><code>{
+  &quot;filters&quot;: {},
+  &quot;colorize_by&quot;:&quot;language&quot;,
+  &quot;label_field&quot;: &quot;title&quot;,
+  &quot;zoom&quot;: [49.72846520217916, 30.876259733930837, 3.5597142144718923, 9000]
+  }
+  </code></pre>
+  </div>
+  <div class="chunk">
+  <p>One section like this shows the importance of non-academic writing in academic libraries. Libraries are full of instructional manuals about how to do things. The section here is riddled with instructions on how to throw a football, how to golf, how to bowl, and any other sports skill you might wish to pick up.</p>
+  <p>In the library, sports is shelved in a distinct section of class G (recreation). But clustering purely on language, these works stand near not anthropology and geography, but instead in the broader neighborhood of a library of self-improvement for non-experts.</p>
+  <pre class="api"><code>{
+  &quot;zoom&quot;: [   520.2827513827069, 1.933, -12.4567]
+  ,
+  &quot;label_threshold&quot;: 0.3,&quot;label_field&quot;:&quot;title&quot;,&quot;filters&quot;:{}
+  }
+  </code></pre>
+  </div>
+  <div class="chunk">
+  <p>Just to the south, for example, is a similarly large section focusing on building skills for farming.</p>
+  <pre class="api"><code>{
+  &quot;zoom&quot;: [516.7049822363766, 2.4654468758139316, -11.22443283821256],
+    &quot;label_threshold&quot;: 0.05,&quot;label_field&quot;:&quot;title&quot;,&quot;filters&quot;:{}
+  
+  }</code></pre>
+  </div>
+  <div class="chunk">
+  <p>While this might seem like an esoterically unimportant slice of the library, it provides context for other areas that we know to be important. To the west of farming, for example, just past the guides to improving photographic technique, is an important set of artifacts of important early digital culture; computer magazines from the 1970s through the 1990s. The most famous is probably <em>Byte</em>, one of the leading magazines through which code, tricks, and stories were shared before the Internet.</p>
+  <p>If you want to understand the early rise of the computer industry in the United States–and especially if you want to understand who it excluded, and how it differed from other countries–it might make sense to take a longer look at how it tapped into existing forms, rhetorics, and practices established by other American hobbyist movements.</p>
+  <pre class="api"><code>{&quot;zoom&quot;:[929.34,6.174,-12.197]
+    ,&quot;label_threshold&quot;:0.05
+    ,&quot;label_field&quot;:&quot;title&quot;
+    ,&quot;filters&quot;:{}}</code></pre>
+  </div>
+  <div class="chunk">
+  <p>Look around and you’ll find all sorts of other odd clusters of texts you might not realize have been stored in libraries. Here, for example, is a set of books as a statistics that are misread as Greek.</p>
+  <pre class="api"><code>{&quot;colorize_by&quot;: &quot;Classification&quot;,
+  &quot;label_field&quot;: &quot;Subclassification&quot;,
+  &quot;label_threshold&quot;:0.05,
+  &quot;show_only_n_categories&quot;: 0, &quot;hide_uncolored&quot;: false, 
+  &quot;zoom&quot;: [115.20024701356954,5.54516604014923,-36.85146021576969]
+  }</code></pre>
+  <p>This serves as a useful reminder that the digital library scholars work with is itself the production of a strange set of machine hallucinations of text. Most of the library books in Hathi were converted to digital files by Google; libraries serve the Google scans. Google’s optical character recognition (OCR) seems to work not a word or even a paragraph at a time, but over spans of several pages; it uses best estimates to make an assumption about the general character set of a book, and then tries to read it consistently in that light.</p>
+  </div>
+  <div class="chunk">
+  <p>As an example of what constitutes this cluster, look at what happens when Google’s OCR encounters a page like this one, in <a href="https://babel.hathitrust.org/cgi/pt?id=chi.11795930;view=plaintext;seq=166;page=root;size=100;orient=0">one of the volumes of the famous Framingham Heart Study,</a> which is flipped onto its side.<a href="#fn5" class="footnote-ref" id="fnref5"><sup>5</sup></a></p>
+  <figure>
+  <img src="/images/Framingham.png" alt="Image of statistics on a page scanned oriented at 90 degrees" /><figcaption>Image of statistics on a page scanned oriented at 90 degrees</figcaption>
+  </figure>
+  <p>Google’s program seems to fail to recognize the correct orientation and, instead, encodes it as a series of nonsense numbers and Greek letters. (Even letters that appear to be Roman, here, like “Μ” are, for the most part, their Greek equivalents.)</p>
+  <pre><code>11Ι1510Η0 3Π015Α5 Μ «3 . ΧΙΜίνΗ 30ΝνΐΗνΛΟ0-30ΝνΐΜνΛ 03&quot;Ι00&lt;1
+  10816*16*1 εΖ189*εΐ Ζ855**6Ζ ΊΜ1510Η0 . εΖ189·εΐ 6111£*8β* *151Ζ*Ζ9
+  011Ο15Α5 Ζ855**6Ζ *151Ζ*Ζ9 Ε185ΖΊ51 Μ»3 535Ϊ0-ΝΟΝ Μ03
+  30Ν»I«νΛ00-30Ν*ΙΜΥΛ</code></pre>
+  <p>When this is applied to title pages with the correct orientation, it produces ‘words’ that try to use greek characters to spell out English. So “Fertilizer use in the United States .. United States Department of Agriculture .. Bulletin No. 408” <a href="https://babel.hathitrust.org/cgi/pt?id=umn.31951d02888101x">emerges looking like this</a>:</p>
+  <blockquote>
+  <p>ΓΕΚΤΙΙΙΖΕΚ υ$Ε ΙΝ ΤΗΕ υΝΙΤΕϋ 5ΤΑΤΕ5 … υΝΙΤΕϋ 5ΤΑΤΕ5 ϋΕΡΑΚΤΛΑΕΝΤ ΟΡ ΑΟΚΙΟυίΤΙΙΚΕ .. ΒυΙΙβΗη Νο. 408</p>
+  </blockquote>
+  </div>
+  <div class="chunk">
+  <p>This gets to the heart of what it means for a book to be findable in the digital library, and why we need new forms of exploration.</p>
+  <p>In the physical libraries of the past, a book is found or lost through human interpretations. If a book is misshelved or miscataloged, it can be functionally lost for weeks or years. To find a book lost in the stacks requires persistent manipulationns around the types of decisions human librarians might make.</p>
+  <p>In a digital library, the kiss of death sometimes relies on understanding not human mistakes but <em>computer</em> mistakes. (Of course all computer mistakes are human mistakes, originally.) While subject headings rely on a human reading of a text, OCR is, essentially, a computer reading of a text. And if the computer reads the text disastrously wrong (like “υΝΙΤΕϋ 5ΤΑΤΕ5” for “UNITED STATES”), you might think the book is, fundamentally lost. No keyword search will ever find the Framingham Heart Study.</p>
+  </div>
+  <div class="chunk">
+  <p>But it’s too easy to leave things there; because all these volumes <em>are</em> clustered together based on the character strings that occur in them, which means that even if the relationships can’t be found by people using human terms, we can tease something out of the full-scale relations.</p>
+  <p>Spend some more time browsing around this map, and you’ll this same pattern again and again; here, for example, is a big set of musical scores.</p>
+  <pre class="api"><code>{&quot;zoom&quot;:[32.72,-14.648,8.411]
+  ,&quot;label_threshold&quot;:0.05
+    ,&quot;label_field&quot;:&quot;first_author_name&quot;
+    ,&quot;filters&quot;:{}
+    ,&quot;show_only_n_categories&quot;:8}
+  </code></pre>
+  </div>
+  </div>
+  <div id="refs" class="references">
+  <div id="ref-crane_what_2006">
+  <p>Crane, Gregory. “What Do You Do with a Million Books?” <em>D-Lib Magazine</em> 12, no. 3. Accessed January 23, 2012. <a href="https://doi.org/10.1045/march2006-crane" class="uri">https://doi.org/10.1045/march2006-crane</a>.</p>
+  </div>
+  <div id="ref-jockers_macroanalysis:_2013">
+  <p>Jockers, Matthew L. <em>Macroanalysis: Digital Methods and Literary History</em>. University of Illinois Press, 2013.</p>
+  </div>
+  <div id="ref-richardson_fundamental_2012">
+  <p>Richardson, Matthew, Judith Kamalski, Sarah Huggett, and Andrew Plume. “The Fundamental Interconnectedness of All Things. Places &amp; Spaces: Mapping Science. Courtesy of Elsevier Ltd. In ‘8th Iteration (2012): Science Maps for Kids,’ Places &amp; Spaces: Mapping Science, Edited by Katy Börner and Michael J. Stamper,” 2012. <a href="http://www.scimaps.org/detailMap/index/the_fundamental_inte_145" class="uri">http://www.scimaps.org/detailMap/index/the_fundamental_inte_145</a>.</p>
+  </div>
+  <div id="ref-schmidt_stable_2018">
+  <p>Schmidt, Benjamin. “Stable Random Projection: Lightweight, General-Purpose Dimensionality Reduction for Digitized Libraries.” <em>Journal of Cultural Analytics</em>, 2018. <a href="https://doi.org/10.22148/16.025" class="uri">https://doi.org/10.22148/16.025</a>.</p>
+  </div>
+  <div id="ref-tang_visualizing_2016">
+  <p>Tang, Jian, Jingzhou Liu, Ming Zhang, and Qiaozhu Mei. “Visualizing Large-Scale and High-Dimensional Data.” <em>arXiv:1602.00370 [Cs]</em>, 2016, 287–97. <a href="https://doi.org/10.1145/2872427.2883041" class="uri">https://doi.org/10.1145/2872427.2883041</a>.</p>
+  </div>
+  <div id="ref-underwood_understanding_2014">
+  <p>Underwood, Ted. “Understanding Genre in a Collection of a Million Volumes, Interim Report.” Accessed December 29, 2014. <a href="http://figshare.com/articles/Understanding_Genre_in_a_Collection_of_a_Million_Volumes_Interim_Report/1281251" class="uri">http://figshare.com/articles/Understanding_Genre_in_a_Collection_of_a_Million_Volumes_Interim_Report/1281251</a>.</p>
+  </div>
+  <div id="ref-underwood_transformation_2018">
+  <p>Underwood, Ted, David Bamman, and Sabrina Lee. “The Transformation of Gender in English-Language Fiction.” <em>Journal of Cultural Analytics</em>, 2018. <a href="https://doi.org/10.22148/16.019" class="uri">https://doi.org/10.22148/16.019</a>.</p>
+  </div>
+  </div>
+  <section class="footnotes">
+  <hr />
+  <ol>
+  <li id="fn1"><p>The principles of that corpus are detailed in the paper. The basic idea is that books which are similar to each other <em>in the words they contain</em> should be close to each other. This form of so-called “bag-of-words” effective at describing what words are about; the point of that paper is to show that it can be effectively used on even massive, multilingual digital libraries with relatively small representations of individual books. The particular visualization of that high-dimensional space is done here using the LargeVis algorithm. <span class="citation" data-cites="tang_visualizing_2016">Jian Tang et al., “Visualizing Large-Scale and High-Dimensional Data,” <em>arXiv:1602.00370 [Cs]</em>, 2016, 287–97, <a href="https://doi.org/10.1145/2872427.2883041" class="uri">https://doi.org/10.1145/2872427.2883041</a></span>, <span class="citation" data-cites="schmidt_stable_2018">Benjamin Schmidt, “Stable Random Projection: Lightweight, General-Purpose Dimensionality Reduction for Digitized Libraries,” <em>Journal of Cultural Analytics</em>, 2018, <a href="https://doi.org/10.22148/16.025" class="uri">https://doi.org/10.22148/16.025</a></span>.<a href="#fnref1" class="footnote-back">↩</a></p></li>
+  <li id="fn2"><p>For interface, I’m especially drawing from https://artsexperiments.withgoogle.com/tsnemap/. Similar maps exist of scientific research using network placement algorithms–e.g., <span class="citation" data-cites="richardson_fundamental_2012">Matthew Richardson et al., “The Fundamental Interconnectedness of All Things. Places &amp; Spaces: Mapping Science. Courtesy of Elsevier Ltd. In ‘8th Iteration (2012): Science Maps for Kids,’ Places &amp; Spaces: Mapping Science, Edited by Katy Börner and Michael J. Stamper,” 2012, <a href="http://www.scimaps.org/detailMap/index/the_fundamental_inte_145" class="uri">http://www.scimaps.org/detailMap/index/the_fundamental_inte_145</a></span> and http://paperscape.org/–but they rely on citation metrics.<a href="#fnref2" class="footnote-back">↩</a></p></li>
+  <li id="fn3"><p>Ted Underwood, “Understanding Genre in a Collection of a Million Volumes, Interim Report,” accessed December 29, 2014, <a href="http://figshare.com/articles/Understanding_Genre_in_a_Collection_of_a_Million_Volumes_Interim_Report/1281251" class="uri">http://figshare.com/articles/Understanding_Genre_in_a_Collection_of_a_Million_Volumes_Interim_Report/1281251</a>.<a href="#fnref3" class="footnote-back">↩</a></p></li>
+  <li id="fn4"><p>Matthew L. Jockers, <em>Macroanalysis: Digital Methods and Literary History</em> (University of Illinois Press, 2013); Gregory Crane, “What Do You Do with a Million Books?” <em>D-Lib Magazine</em> 12, no. 3, accessed January 23, 2012, <a href="https://doi.org/10.1045/march2006-crane" class="uri">https://doi.org/10.1045/march2006-crane</a>; Ted Underwood, David Bamman, and Sabrina Lee, “The Transformation of Gender in English-Language Fiction,” <em>Journal of Cultural Analytics</em>, 2018, <a href="https://doi.org/10.22148/16.019" class="uri">https://doi.org/10.22148/16.019</a>.<a href="#fnref4" class="footnote-back">↩</a></p></li>
+  <li id="fn5"><p>These transcriptions are accurate as of 2018-08-29. Google periodically updates its OCR and pushes the new versions to the libraries; things may have changed by the time you see it.<a href="#fnref5" class="footnote-back">↩</a></p></li>
+  </ol>
+  </section>
+</div>
+
+<script src="/js/commonjs/polyfill-intersection.js"></script>
+<script src="/js/mapNarrative.min.js"></script>
+
+</body>

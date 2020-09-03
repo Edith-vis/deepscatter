@@ -1,0 +1,555 @@
+id	area	title	year	x	y	ix
+3258025	SE	visual requirements validation: case study in a corba-supported environment	2002	8.908716128467091	7.577755701461812	3258052
+3259907	SE	a formal metamodel for problem frames	2008	8.4715714578092	8.001548846031685	3259934
+3261366	SE	achieving both model and code coverage with automated gray-box testing	2007	8.308956832515191	7.8229833870583025	3261393
+3263512	Embedded	a practical ontology framework for static model analysis	2011	8.79703175595212	8.064151375186514	3263539
+3268876	SE	modeling and testing of guis using iolts	2014	8.441023360021868	7.610708951549048	3268903
+3269455	SE	adding change impact analysis to the formal verification of c programs	2010	8.687435425753797	8.296617661851574	3269482
+3271413	SE	towards a test specification language for information systems: focus on data entity and state machine tests	2018	8.748969779311379	8.028690687452892	3271440
+3271749	SE	model-level integration of the ocl standard library using a pivot model with generics support	2007	8.97912191811722	7.798948510613608	3271776
+3273268	SE	using microsoft solver foundation to analyse feature models and configurations	2016	8.519732839304133	7.5390074412957935	3273295
+3275716	SE	influencing factors in model-based testing with uml state machines: report on an industrial cooperation	2009	8.46897116972905	8.403913809369575	3275743
+3277093	SE	controlling reuse in pattern-based model-to-model transformations	2010	8.998244686989324	8.182624655985851	3277120
+3277795	AI	checking properties of business process models with logic programming	2007	8.483999557082697	8.13829280839785	3277822
+3278866	SE	towards unambiguous model fragments	2006	9.151235989495314	8.067705505764389	3278893
+3281007	DB	algebraic modelling of educational workflows	2012	8.830967892829648	7.8703284645694085	3281034
+3281780	PL	increasing the testability of object-oriented frameworks with built-in tests	2002	8.89122786570946	7.553653688068239	3281807
+3287629	SE	approaches to semantic mutation of behavioral state machines in model-driven software development	2018	8.425522728154148	7.853078773173772	3287656
+3293897	SE	czt support for z extensions	2005	8.975364133696894	7.800515444947108	3293924
+3293997	SE	an algebra for features and feature composition	2008	9.113090109833658	7.5641078802791455	3294024
+3296672	SE	a proposal for a lightweight rigorous uml-based development method for reliable systems	2001	8.927028294669501	8.321446709724206	3296699
+3300422	SE	incremental change in object-oriented programming	2004	9.195684371591014	7.579367669651539	3300449
+3302083	PL	on the use of an internal dsl for enriching emf models	2012	8.314311521609088	7.696710658306505	3302110
+3304637	SE	detecting and resolving semantic pathologies in uml sequence diagrams	2005	8.560330986507154	8.32511076884153	3304664
+3305669	SE	utgen: a black-box method-level unit-test generator for junit test-platform	2015	8.385830307112629	7.61423995504187	3305696
+3306530	SE	tutorial introduction to graph transformation: a software engineering perspective	2004	8.392226536263086	7.852749555331077	3306557
+3307813	PL	solving the ttc'15 train benchmark case study with sigma	2015	8.413770107909832	7.750370856076696	3307840
+3308788	PL	graph transformation semantics for a qvt language	2008	8.550475445376902	8.270046575993401	3308815
+3309482	SE	using mutation to design tests for aspect-oriented models	2017	8.563138799794741	7.458618250045422	3309509
+3309853	SE	improving the automatic test generation process for coverage analysis using cbmc	2009	8.326528954086504	7.4773298380572015	3309880
+3309866	SE	toward formalizing structured analysis	1998	8.834412539485493	7.641821902340318	3309893
+3311632	SE	presence-condition simplification in highly configurable systems	2015	8.268656724983519	7.58243222452473	3311659
+3311634	SE	a state-based approach to testing aspect-oriented programs	2005	8.392651687492705	7.918093240298378	3311661
+3311672	SE	use case level pointcuts	2004	9.139515744694094	7.999473546720121	3311699
+3314124	PL	montiarc - architectural modeling of interactive distributed and cyber-physical systems	2012	8.65978170620986	8.264407511696042	3314151
+3314259	SE	aspect-oriented solutions to feature interaction concerns using aspectj	2003	8.962197777875994	8.16152383382745	3314286
+3314639	SE	a framework for the checking and refactoring of crosscutting concepts	2012	8.823049293761613	7.7608613426527375	3314666
+3316263	Logic	reasoning about multi-lingual exception handling using ripls	2008	9.048960731135104	7.872090094592436	3316290
+3317972	PL	modularity and optimization in synergy	2016	8.46104198112888	8.149564014989513	3317999
+3318313	SE	software reuse for dynamic systems in the cloud and beyond	2014	9.093144706660963	7.839437052138518	3318340
+3319073	SE	on the executable nature of models	2016	8.31185644474966	7.495108085960566	3319100
+3320471	SE	testing randomized software by means of statistical hypothesis tests	2007	8.245022756034661	7.730201913752094	3320498
+3323909	NLP	modularizing triple graph grammars using rule refinement	2014	8.98881995429668	8.176619476810549	3323936
+3325048	SE	using bdd and sbvr to refine business goals into an event-b model: a research idea	2017	8.847778730599913	8.294070630662041	3325075
+3325242	Logic	pattern library for use-case-based application logic reuse	2018	8.830627101790364	7.652331887200691	3325269
+3325389	SE	on a reference model for the formalization and integration of software specification languages	1999	8.264751726540362	7.841284105814791	3325416
+3328726	SE	coo approach to support cooperation in software developments	1998	9.122366015127334	8.296079769424367	3328753
+3328920	SE	problem structure and dependable architecture	2004	8.648740973255492	7.6343579742528345	3328947
+3332845	AI	on the semantic foundations of standard uml 2.0	2004	8.752421084073397	7.894514599559388	3332872
+3333189	SE	high-level test generation for hardware testing and software validation	2003	8.742340872007548	7.963330383964835	3333216
+3334845	SE	the action language: refining a behavioral modeling language	2005	8.945895248918164	8.104416169937862	3334872
+3335763	SE	rascal: a domain specific language for source code analysis and manipulation	2009	8.594595018696436	7.581822012554301	3335790
+3336157	SE	an executable uml with ocl-based action semantics language	2007	9.035734268989376	8.270166065620709	3336184
+3338125	SE	automated software quality assurance	1985	9.14643686907142	8.334264366835146	3338152
+3339981	SE	fdmm: a formalism for describing adoxx meta models and models	2012	9.185951316948536	7.884432773484653	3340008
+3341391	PL	utilizing design information in aspect-oriented programming	2005	9.113677759894298	7.928431655589121	3341418
+3344096	PL	generating programs plus proofs by refinement	2005	8.290388758550764	7.939965343111501	3344123
+3348058	Web+IR	defining a subset of ocl for expressing swrl rules	2008	8.37973915716657	7.991900195022605	3348085
+3350683	AI	integrating formal qualitative analysis techniques within a procedural narrative generation system.	2013	8.87064741367957	7.812456197774805	3350710
+3353403	SE	abstract requirements specification: a new approach and its application	1983	8.872825048211046	8.044940440163332	3353430
+3353754	SE	iterative generation of diverse models for testing specifications of dsl tools	2018	8.706473337180057	7.527927616255265	3353781
+3355451	SE	aseha: a framework for modelling and verification ofweb services protocols	2006	9.106908526220609	8.19557205104205	3355478
+3356484	SE	synthesizing software models: generating train station models automatically	2011	8.743308588278634	8.202546676958468	3356511
+3356684	SE	behavior protocols for software components	2002	8.30590318778455	8.334675681224931	3356711
+3356820	SE	extending deep meta-modelling for practical model-driven engineering	2014	9.109511722672783	8.230025044722836	3356847
+3356993	Robotics	issues in automatic software manufacturing in the presence of generators	1998	8.40381364534044	8.157728578356519	3357020
+3360756	SE	an active method to building dynamic dependency model for distributed components	2005	9.108105773823018	7.505866306682114	3360783
+3363068	SE	a tool suite for diagnosis and testing of software design specifications	2000	9.034377613213078	7.680941782845602	3363095
+3363901	SE	a search-based framework for automatic testing of matlab/simulink models	2008	8.381772835727201	7.7223407151565615	3363928
+3364844	PL	modular language implementation in rascal - experience report	2015	8.402211051044588	7.8095998459136124	3364871
+3372915	PL	dsl evolution through composition	2010	8.975599618187935	7.733920727913518	3372942
+3372978	SE	on the discovery of business processes orchestration patterns	2008	9.121539433243084	7.918164344034728	3373005
+3373788	PL	heuristics on the definition of uml refinement patterns	2006	9.17118668695768	7.863232498006711	3373815
+3375770	SE	behaviour-driven development of foundational uml components	2010	8.516109303290982	8.217276928836197	3375797
+3378739	HCI	integrating behavior driven development and programming by contract	2013	8.643849832062575	7.544044200126484	3378766
+3379308	SE	design and evaluation of a generic method for creating xml schema	2006	9.058493003413547	7.813519658606589	3379335
+3379722	Logic	a metamodel-based language and a simulation engine for abstract state machines	2008	8.659778549211978	8.377875086419301	3379749
+3380479	SE	efsm-based testing strategy for apis test of embedded os	2004	8.338361313353925	7.456759696311753	3380506
+3384346	Logic	abstract delta modelling	2015	8.419020224478261	8.119942693385163	3384373
+3384487	Robotics	rpist: required and provided interface specification-based test case generation and execution methodology for robot software component	2011	8.63459718826344	8.128067610119366	3384514
+3384667	SE	test data generation for web applications: a constraint and knowledge-based approach	2014	8.951881084223865	7.582283131819468	3384694
+3385322	PL	solving the fixml2code-case study with henshintgg	2014	8.679536524261978	7.81374660525904	3385349
+3385885	HCI	an initial user study comparing the readability of a graphical coordination model with event-b notation	2017	8.350043772511818	7.790429880260992	3385912
+3388999	Embedded	on uml2.0's abandonment of the actors-call-use-cases conjecture	2005	8.36881581417485	8.024938122847178	3389026
+3389779	DB	a generic framework for target-specific transformation operators in xml transformation languages	2007	9.093082984980908	8.033179451894455	3389806
+3395540	SE	the automated generation of test cases for compilers	1994	8.519392205664051	7.696700379935076	3395567
+3395686	SE	specifying trace directives for uml attributes and state machines	2014	8.459375550589282	7.963771699378762	3395713
+3395781	SE	tatoo: testing and analysis tool for object- oriented software	2001	9.051809242832435	7.560879789387015	3395808
+3396303	HCI	xml in formal specification, verification and generation of mobile hci	2011	9.097489379363797	8.057007378318287	3396330
+3398388	SE	on the concurrent object model of uml	1999	8.834791671695587	8.166380330598571	3398415
+3404689	SE	a systematic capture and replay strategy for testing complex gui based java applications	2010	9.095722767010468	7.493713424652211	3404716
+3405553	EDA	automatic generation of cyber-physical software applications based on physical to cyber transformation using ontologies	2016	8.643753617272399	8.128023628426986	3405580
+3406190	NLP	more precise descriptions of temporal relations within task models	2000	8.760031242165809	7.520371118067728	3406217
+3407813	SE	using refinement checking as system testing	2008	8.592814033107425	8.354515139453751	3407840
+3409330	SE	abat: an approach for building maintainable automated functional software tests	2007	9.135146134351077	7.998747707473796	3409357
+3411652	SE	pattern-based gui testing: bridging the gap between design and quality assurance	2017	9.035094149015189	8.037736171977977	3411679
+3411927	SE	directives for composing aspect-oriented design class models	2006	9.041034455349477	8.326401179178584	3411954
+3414866	SE	supporting model-driven development of object-relational database schemas: a case study	2009	8.786227513953321	7.719894207841168	3414893
+3418245	DB	a tool for modeling form type check constraints and complex functionalities of business applications	2010	8.394340433155682	7.6668520882770785	3418272
+3418943	SE	detecting interferences in aspect oriented programs	2011	8.475906700352514	8.214505657854787	3418970
+3420137	SE	interpretation of linguistic architecture	2014	9.09627773505532	7.8308405266266785	3420164
+3422641	DB	semantic quality attributes for big-step modelling languages	2011	8.672746112632293	8.128612629272551	3422668
+3426377	SE	improving the consistency of spem-based software processes	2011	8.438156308245503	7.909326425148988	3426404
+3428693	NLP	motl: a textual language for trace specification of state machines and associations	2015	8.750175516886356	7.657915740687883	3428720
+3429143	SE	cross-cutting commentary: narratives for multi-party mechanisms and concerns	2018	9.018211398546002	7.885566268840883	3429170
+3430236	PL	rigorous object-oriented analysis	1994	8.440848099921737	8.16789974156779	3430263
+3433194	SE	evolutionary approach to coverage testing of iec 61499 function block applications	2015	8.487525371517645	7.964161170965222	3433221
+3433209	PL	editorial for special section on dependencies and interactions with aspects	2009	9.079526424821493	8.224544673498501	3433236
+3434388	SE	translating z to alloy	2010	8.725135936261035	7.824660189120125	3434415
+3435890	Logic	modeling and analysis of software product line variability in clafer	2013	9.096789983091254	8.18079130007564	3435917
+3438780	SE	the integration of software specification, verification, and testing techniques with software requirements and design processes.	1995	8.538961134267451	8.311724527025778	3438807
+3440973	PL	aspectj: the language and support tools	2000	8.297897237450838	7.983113457127803	3441000
+3445116	SE	domain-specific model checking using the bogor framework	2006	8.452078305648888	7.9153408645367405	3445143
+3445693	SE	integration of semiformal and formal methods for specifying knowledge-based systems	1994	8.853944913805053	7.6079472106460795	3445720
+3446870	SE	towards an institutional framework for heterogeneous formal development in uml - - a position paper -	2015	8.538465676695415	8.388656829878142	3446897
+3447531	PL	the meta-object facility typed	2006	8.769873222684183	8.295251091346563	3447558
+3453157	PL	weaving executability into object-oriented meta-languages	2005	8.965569886262696	8.257241509691449	3453184
+3455818	PL	compiling model transformations to ejb3-specific transformer plugins	2006	8.845042302979696	7.759824219023589	3455845
+3456500	PL	essay on semantics definition in mde - an instrumented approach for model verification	2009	8.603509427591897	8.344873186694949	3456527
+3457497	EDA	constraint-based platform variants specification for early system verification	2014	9.174559365944617	8.181753443023313	3457524
+3461271	SE	on the usage of tggs for automated model transformation testing	2014	8.842714777217338	8.162981068102598	3461298
+3461492	SE	repairing software style using graph grammars	1997	9.137945434401994	7.772136792546139	3461519
+3462118	SE	formal specification and testing of model transformations	2012	8.582663020689926	8.2914944252776	3462145
+3462257	PL	towards combinators for bidirectional model transformations in scala	2011	8.360528280884106	7.743678031239116	3462284
+3462369	SE	combining model-based and risk-based testing for effective test case generation	2015	8.434480074354255	7.593328600800035	3462396
+3462411	SE	comprehending aspect-oriented programs: challenges and open issues	2007	8.934813821115444	7.622544151212233	3462438
+3462568	SE	towards non-intrusive composition of executable models	2015	9.18458990237712	8.342394124008534	3462595
+3463850	Logic	contrast - a configurable sdl transpiler and runtime environment	2006	8.72704083011397	8.120327324118719	3463877
+3463910	SE	handcrafting a triple graph transformation system to realize round-trip engineering between uml class models and java source code	2016	9.118495309572491	8.1992591552012	3463937
+3464926	SE	using models of partial knowledge to test model transformations	2012	8.811605188027961	7.890036627531928	3464953
+3466503	PL	analyzing security architectures	2010	8.793570317684717	8.266748236886674	3466530
+3466953	SE	supporting application framework selection based on labeled transition systems	2006	9.132271113019174	8.076638601645218	3466980
+3467489	SE	software tracks	2010	8.250537731176836	7.934230797055961	3467516
+3468646	SE	an ocl-based approach to derive constraint test cases for database applications	2011	8.413763544102716	8.120425952711788	3468673
+3470957	SE	tool support for architecture stratification.	2006	8.770839316481727	8.158794455090923	3470984
+3471320	NLP	analysis of uml stereotypes within the uml metamodel	2002	8.762540474053509	7.6751719975210655	3471347
+3472382	SE	test templates: a specification-based testing framework	1993	8.249121822973184	8.11370619872332	3472409
+3472647	SE	generation of simulation views for domain specific modeling languages based on the eclipse modeling framework	2009	9.067140893439902	7.975574605587544	3472674
+3473042	SE	setheo goes software engineering: application of atp to software reuse	1997	8.850640039952461	8.174179593939757	3473069
+3473540	SE	unified control and data flow diagrams applied to software engineering and other systems	2016	8.31163276278013	7.513389958108039	3473567
+3473759	DB	semantic correct transformation of iec 61131-3 models into the iec 61499 standard	2009	8.878529862257698	8.222843885889361	3473786
+3475449	SE	citlab: a laboratory for combinatorial interaction testing	2012	9.204546328983435	7.770448220942334	3475476
+3477696	SE	on graphical user interface verification	2018	8.423887267370441	7.6595192248219455	3477723
+3480647	SE	transactions on aspect-oriented software development ix	2012	8.942738306958644	8.027509315007004	3480674
+3480681	SE	a problem-oriented analysis of basic uml static requirements modeling concepts	1999	8.930942687719172	7.863619108520559	3480708
+3480884	SE	testing with functions as specifications	2004	8.302499802416069	7.537399318955838	3480911
+3482997	PL	analysing object-oriented application frameworks using concept analysis	2002	8.593006045871423	7.952558397922994	3483024
+3487220	PL	enhancing the jtl tool for bidirectional transformations	2018	8.709676312306579	8.393275259651574	3487247
+3487225	DB	an approach to declaring data types for formal specifications	2013	9.019103356720409	7.907125677555318	3487252
+3490907	Robotics	a generic process and its tool support towards combining uml and b for safety critical systems	2007	8.940599634458929	8.191717700957257	3490934
+3492018	PL	use of e-lotos in adding formality to uml	2000	8.523757595352299	8.021604416975405	3492045
+3492267	SE	a new method for automated gui modeling of mobile applications	2013	8.414406663075649	7.681290271529872	3492294
+3492434	SE	investigating the use of analysis contracts to improve the testability of object-oriented code	2003	8.49719829251562	8.1583609510009	3492461
+3492528	SE	synchronizing model and program refactoring	2010	8.956977599106109	8.078390740912875	3492555
+3493456	SE	a methodology for the generation of efficient error detection mechanisms	2011	8.374107321409506	7.521309729792786	3493483
+3493859	SE	specification slicing in formal methods of software development	1993	8.686789913025143	7.542074365838245	3493886
+3495377	Embedded	composing domain-specific physical models with general-purpose software modules in embedded control software	2012	8.347408465223431	8.401591945303705	3495404
+3495767	SE	"""towards tracking """"guilty"""" transformation rules: a requirements perspective"""	2012	9.036837162810777	8.154311941989452	3495794
+3496363	SE	case study on the use of sdl for specifying an ietf micro mobility protocol	2006	8.643481195487645	8.299009344003844	3496390
+3496881	SE	a toolset for gui testing of android applications	2012	8.44327435880849	7.497949056129732	3496908
+3497137	Embedded	a stepwise approach to behavior design for real-time software	1990	8.833217060449874	7.746588844117316	3497164
+3498063	SE	a metamodel-based transformation between uml and object-z	2001	8.504048230225049	8.127385628396523	3498090
+3502472	SE	managing the coupled evolution of metamodels and textual concrete syntax specifications	2013	8.931171220427544	7.882603239394218	3502499
+3502761	SE	graph-based verification of static program constraints	2010	9.1582869276037	7.8067376999452875	3502788
+3505460	SE	inducing metaassociations and induced relationships	2009	8.524068070698828	7.715742517610156	3505487
+3509967	SE	model synchronization for software evolution	2011	8.694161687746028	8.217522737591644	3509994
+3510399	SE	computing repair trees for resolving inconsistencies in design models	2012	8.66237526307365	7.671768159063588	3510426
+3511024	SE	automated traceability analysis for uml model refinements	2009	9.094393296134587	8.385611109146616	3511051
+3511202	SE	software reliability testing covering subsystem interactions	2012	8.756650126129713	7.965092285962335	3511229
+3513748	SE	documentation integrity for safety-critical applications: the cohere project	1998	8.535942761242572	7.891332669390367	3513775
+3515105	SE	fault trees vs. component fault trees: an empirical study	2018	9.197934997824149	8.226284505298999	3515132
+3515955	SE	design tests: an approach to programmatically check your code against design rules	2009	8.891385219600075	7.568863970140612	3515982
+3516060	SE	onspect: ontology based aspects	2008	9.099056645312462	7.72703985300593	3516087
+3518000	SE	evaluating specification-level mc/dc criterion in model-based testing of safety critical systems	2017	9.17270261626748	8.306527919866276	3518027
+3521391	SE	a model-driven framework for guided design space exploration	2011	8.333364553025186	7.915587633994224	3521418
+3522419	SE	enhancing a real-time distributed computing component model through cross-fertilization	2007	9.132370592432725	8.017372812004764	3522446
+3523108	SE	enabling reuse with a configuration language	1996	8.429390048080439	7.746189070977823	3523135
+3526384	SE	support for managing design-time decisions	2006	8.343804384346809	7.873630853134436	3526411
+3527290	PL	composition analysis of multiple aspects in aspect-oriented programs	2009	9.181018185188202	8.24688380637961	3527317
+3529256	Logic	ambiguities in iec 61131-3 st and il expression semantics	2015	8.523534260389745	8.028452575640804	3529283
+3530081	SE	on the execution of deep models	2015	9.186837235459514	8.273978411212934	3530108
+3530423	Logic	agent-oriented model-driven development for jade with the jadel programming language	2017	8.958131406744055	8.182435391550161	3530450
+3530656	SE	logical construction of software	1980	9.145225657935148	7.586574310739923	3530683
+3531532	SE	checking the conformance between models based on scenario synchronization	2010	8.45103119132969	8.38855261327399	3531559
+3533092	PL	synthesizing objects	1999	9.140363101585184	8.072060029095956	3533119
+3533964	SE	a model-based testing method for dynamic aspect-oriented software	2017	9.137207571377656	7.998054756046544	3533991
+3534231	SE	formal mof metamodeling and tool support	2016	8.90361895727074	8.140256954707432	3534258
+3536006	PL	industrial experience report on the formal specification of a packet filtering language using the k framework	2016	8.83099072400729	8.33134395057955	3536033
+3536031	SE	empirical evaluation on fbd model-based test coverage criteria using mutation analysis	2012	8.606890661984568	7.513483899260702	3536058
+3538264	DB	join point patterns: a high-level join point selection mechanism	2006	9.059367239168276	7.7741811827481735	3538291
+3542242	SE	model-based traces	2008	8.53279808457203	7.794292354729298	3542269
+3543928	SE	automated structural analysis of scr-style software requirements specifications using pvs	2001	8.242566545370508	8.396475068524925	3543955
+3543983	PL	itasks 2: itasks for end-users	2009	8.867409752866932	7.8613623654718925	3544010
+3544344	Embedded	experiences from industrial wcet analysis case studies	2005	8.810384070240463	7.981287929367647	3544371
+3544699	Logic	domain-specific model verification with qvt	2011	8.86990442106077	8.025587407671058	3544726
+3544836	SE	design pattern evolution and verification using graph transformation	2007	8.820632714263043	7.866277027475327	3544863
+3546995	SE	towards automated formal analysis of model transformation specifications	2013	9.12167198284057	8.24002660783156	3547022
+3548954	SE	automated functional scenarios-based formal specification animation	2012	8.543925893231236	7.787999481145071	3548981
+3550021	SE	tool support for live formal verification	2017	8.511706875930734	8.299264098796293	3550048
+3550654	SE	developing java applications for a nuclear fusion experiment: a test case for java applicability in a demanding environment	2001	9.101991673303749	7.7332461000855455	3550681
+3550962	PL	aspect-oriented programming	1997	9.08589876020942	7.7848361648080715	3550989
+3551776	SE	a methodology for building effective test models with function nets	2012	8.468650978807814	8.398356176645233	3551803
+3553029	AI	unit testing in aspide	2011	8.48738910803154	7.613025794149928	3553056
+3553128	SE	an automated approach to specification animation for validation	2007	8.541126071580816	8.009949496132831	3553155
+3556443	SE	umlant: an eclipse plugin for animating and testing uml designs	2005	8.913258407605342	7.482195559617108	3556470
+3560339	SE	triple graph grammars or triple graph transformation systems	2008	8.843059005244172	8.072630099682517	3560366
+3564877	SE	the state-based testing of object-oriented programs	1993	8.494536387487283	7.976615572575008	3564904
+3567211	PL	a component model for architectural programming	2006	8.279467946661715	8.394609459983853	3567238
+3570175	SE	formal semantics and verification for feature modeling	2005	8.301734173595415	8.17249518128157	3570202
+3570285	SE	user assistance characteristics of the use model checking tool	2016	8.323336049625768	8.108123705935704	3570312
+3570704	SE	a software tool to support scenario-based formal specification for error prevention	2017	8.769773673464936	8.229634861613539	3570731
+3572166	SE	an integrated data model verifier with property templates	2013	8.337682971077223	7.975794375832428	3572193
+3576971	SE	generating uml models from domain patterns	2005	9.123891353905424	8.100310881220109	3576998
+3578452	SE	declarative specifications	1996	9.02368892740685	7.850059125283054	3578479
+3579666	Graphics	a systematic approach to constructing incremental topology control algorithms using graph transformation	2017	8.371348920069446	8.401131400958985	3579693
+3580219	NLP	fuml as an assembly language for model transformation	2014	8.754808025069831	7.998948449722363	3580246
+3582898	SE	metamodeling vs metaprogramming: a case study on developing client libraries for rest apis	2016	9.138011806468834	7.899413529158246	3582925
+3583360	SE	bridging the gap between natural language requirements and formal specifications	2016	8.973918046825535	7.862145688125702	3583387
+3585308	SE	injecting execution traces into a model-driven framework for program analysis	2017	8.600094433443518	7.6786597740607245	3585335
+3585874	SE	modelling of features and feature interactions in nokia mobile phones using coloured petri nets	2002	8.54094342714402	7.9540728365791455	3585901
+3588914	SE	multi-objective optimization in rule-based design space exploration	2014	8.957229590368971	7.6095285531584755	3588941
+3595049	SE	an implementation approach to achieve metamodel independence in domain specific model manipulation languages	2012	8.951338155741908	8.073576329541142	3595076
+3595248	SE	automatic generation of model traversals from metamodel definitions	2010	8.338282603486688	7.638891276374947	3595275
+3596370	SE	maximizing the amount of information not modelled in mde	2015	8.837554555668909	7.601117631176557	3596397
+3606885	SE	measuring class coupling and cohesion: a formal metamodel approach	1997	8.97755323302407	8.052656443786454	3606912
+3611212	PL	automatic verification of design patterns in java	2005	8.862882449855107	7.8001295531007315	3611239
+3612074	SE	viewpoint-based test requirement analaysis modeling	2014	9.135671973720594	8.11758976775361	3612101
+3616874	SE	pushing requirements changes through to changes in specifications	2008	8.649378249985167	8.3362197952942	3616901
+3617205	SE	software and systems modeling with graph transformations theme issue of the journal on software and systems modeling	2012	8.700959294038329	7.887053469948034	3617232
+3617714	Vision	missing in action: information hiding	1996	9.089837711048288	7.535589233860775	3617741
+3619422	SE	towards a fault model for aspectj programs: step 1 -- pointcut faults	2006	8.515175807151719	7.482195461887532	3619449
+3622284	SE	component specialization	2004	9.004570781744107	7.948092343577494	3622311
+3622375	SE	automated generation of test cases using model-driven architecture	2007	8.54784994313485	8.405092303130662	3622402
+3623608	SE	transformation rules for platform independent testing: an empirical study	2013	8.310704898666094	8.361947987436679	3623635
+3625084	SE	psilight: a lightweight programming language to explore multiple program execution and data-binding in a web-client dsl evaluation engine	2017	8.892732279643429	7.5093225558012495	3625111
+3625970	DB	modeling a persistent graph	2017	8.36070075507255	7.5815017216086655	3625997
+3626825	SE	integration and transformation of uml models	2002	8.79721045040674	7.703125474944835	3626852
+3627151	DB	pml: a language for platform modeling	2006	8.808799475108883	8.158982687251482	3627178
+3629834	SE	an approach for testing model transformations	2018	8.735365911148504	8.131265326204046	3629861
+3634390	DB	using invariants of an extended conceptual model to generate reusabe consistency control	1997	8.411781750241047	7.696696805581904	3634417
+3642971	SE	using extended event traces to describe communication in software architectures	1997	8.701141023792665	7.8115949906319955	3642998
+3643231	SE	modeling interactions in feature oriented software designs	2005	9.120605677030971	7.754301582848997	3643258
+3647313	SE	an extensible aspect-oriented modeling environment for constructing domain-specific languages	2012	8.896506749804537	8.342486120865399	3647340
+3647812	AI	from natural language to formal proof goal	2006	8.661798609943295	8.113982749056218	3647839
+3648493	SE	online model-based behavioral fuzzing	2013	8.847226023600252	7.4622898554085575	3648520
+3653477	SE	feature-based testing by using model synthesis, test generation and parameterizable test prioritization	2018	8.741636353645164	7.5287367835529615	3653504
+3654060	SE	augmented dynamic symbolic execution	2012	8.285236823134229	7.458972200352656	3654087
+3655778	SE	automated test data generation using mea-graph planning	2004	9.043662085476113	7.893029862034303	3655805
+3656631	SE	cocotest: a tool for model-in-the-loop testing of continuous controllers	2014	8.983199514074451	7.495746515381431	3656658
+3658830	SE	a method for creating the operational profile of tv/stb device to be used for statistical testing	2013	8.429154700645686	8.093521488545749	3658857
+3659596	AI	mda-based architecture of a description logics reasoner	2006	8.532057640830734	7.6855974022244995	3659623
+3660928	SE	asil decomposition using smt	2017	8.37751375358728	7.785661438424465	3660955
+3661047	SE	an interactive method for validating stage configuration	2010	9.01779883520983	7.681834652954622	3661074
+3661386	PL	the aspect-oriented design of the puma c/c++ parser framework	2010	8.436227964559244	7.511307168903477	3661413
+3661551	SE	refactoring formal specifications in object-z	2008	8.616659166444236	8.220526373477888	3661578
+3663225	SE	learning finite state machine specifications from test cases	2010	8.511758308015935	8.371216628882394	3663252
+3663328	SE	an approach to safety and correctness verification of software design specification	1995	8.264961551162456	8.329020373857322	3663355
+3666742	SE	aspect-oriented modeling: applying aspect-oriented uml use cases and extending aspect-z	2013	8.53180759485235	8.355855403193983	3666769
+3667376	SE	automated gui testing for j2me software based on fsm	2009	8.824923667344473	8.07409065864708	3667403
+3667540	SE	a method of checking errors and consistency in the process of object-oriented analysis	1996	8.792689224623931	8.32954790670896	3667567
+3669333	AI	testing asp programs in aspide	2011	8.478224722247107	7.577689787031593	3669360
+3670201	SE	a language for specifying type contracts in erlang and its interaction with success typings	2007	8.404936613195346	7.910843221979485	3670228
+3670245	PL	lazy evaluation for ocl	2015	8.68531000424686	8.029693265159581	3670272
+3671442	SE	test coverage analysis for object oriented programs - structural testing through aspect oriented instrumentation	2007	8.269373483018544	7.473266473950685	3671469
+3671688	Logic	on well-formedness rules for uml use case diagram	2010	8.441925620576923	8.22101662155478	3671715
+3673635	SE	precise specification to compound patterns with exlepus	2003	8.36285934475299	8.021741262826609	3673662
+3673875	SE	inverse compilation feasibility	1974	8.77948225940953	7.973526071328732	3673902
+3675282	PL	separation of concerns in multi-language specifications	2002	8.783497636706935	7.992001696738727	3675309
+3675848	SE	modeling and formally checking workflow properties using uml and ocl	2010	8.833716205783517	8.344984524135258	3675875
+3678844	PL	towards functional model transformations with ocl	2015	8.546330967333107	8.130376069835263	3678871
+3678862	SE	visual modeling and analysis of emf model transformations based on triple graph grammars	2012	8.631378229321841	7.708500840785412	3678889
+3681622	SE	semantic equations for formal models in the model-driven architecture	2010	8.263438602344955	8.335664359225655	3681649
+3685636	SE	abstract syntax trees - and their role in model driven software development	2007	8.78194220032603	7.782622839994682	3685663
+3687683	SE	uml/analyzer: a tool for the instant consistency checking of uml models	2007	8.896777418487071	7.61407519369356	3687710
+3689745	SE	model-driven development using uml 2.0: promises and pitfalls	2006	9.060414861706043	7.963853311173994	3689772
+3690312	SE	backward propagation of code refinements on transformational code generation environments	2013	8.92169366842507	8.274757855923905	3690339
+3690906	SE	towards instant automatic model refinement based on ocl	2007	8.393270735593559	7.630869729974848	3690933
+3693314	Logic	safe model polymorphism for flexible modeling	2017	8.58176891688175	8.23221415765328	3693341
+3695552	SE	manipulating models using internal domain-specific languages	2014	9.157300616519818	7.856609361125442	3695579
+3696194	SE	exploiting the asm method within the model-driven engineering paradigm	2007	9.205044596013556	8.19937055567052	3696221
+3698569	SE	jfortes: java formal unit test generation	2016	8.926430682439971	7.617980562432806	3698596
+3703049	SE	using atl for checking models	2006	8.418382361915173	8.213792227047168	3703076
+3703662	SE	transformation of alloy notation into a semantic notation	2018	8.363642449195327	8.120569916680518	3703689
+3706053	SE	mapping features to models: a template approach based on superimposed variants	2005	9.044022108514527	7.9748995358922095	3706080
+3709910	SE	pattern-based transformation of sequence diagrams using qvt	2015	9.074312204113378	8.25020251143986	3709937
+3710459	PL	extending grammars and metamodels for reuse: the reuseware approach	2008	9.20201330825962	7.777649764393214	3710486
+3711689	SE	a new approach to combine models and code in model driven development.	2005	8.77457377627251	7.976638848511072	3711716
+3712187	Logic	on formal specification of software components and systems	2006	8.380104575249915	8.141112443586435	3712214
+3712618	SE	component-based support for knowledge-based systems	2008	8.893753557642789	7.826234553780723	3712645
+3715356	DB	the realisation of jsd specifications in object oriented languages	1991	8.521106596243975	7.867401812767746	3715383
+3715956	SE	language-independent and automated software composition: the featurehouse experience	2013	8.73217862990247	7.664364856378625	3715983
+3718993	SE	a framework for an integrated tool set for object-oriented analysis of application software development	1996	8.97994766649604	7.650634327936932	3719020
+3719070	SE	a formal oo method inspired by fusion and object-z	1997	8.474240719875246	7.89732214723074	3719097
+3719864	AI	using aspect oriented methods to add behaviour to x3d documents	2006	9.187334658852595	8.041233430388381	3719891
+3721623	SE	improving testsuites via instrumentation	2000	8.943982578465986	7.5202689753816925	3721650
+3723954	SE	usl: towards precise specification of use cases for model-driven development	2017	8.867422005810633	8.182594462543813	3723981
+3724012	SE	specifying structural properties and their constraints formally, visually and modularly using vcl	2010	8.309901373049804	7.906669113115332	3724039
+3725049	SE	saying hello world with viatra2 - a solution to the ttc 2011 instructive case	2011	8.947428198012839	8.157367691620745	3725076
+3726990	DB	incremental detection of model inconsistencies based on model operations	2009	8.750503551568164	7.83659441961479	3727017
+3727794	Logic	automated verification of design patterns: a case study	2014	8.436219160949213	8.093166874443071	3727821
+3728183	SE	domain hierarchies: a basic theoretical framework for integrating software domains	2009	8.571117703456025	8.016712416486147	3728210
+3728485	Logic	a formal framework for analyzing reusability complexity in component-based systems	2004	9.157565168628343	8.010115550829479	3728512
+3729851	SE	comprehensive analysis of fbd test coverage criteria using mutants	2014	8.567641140414668	7.456203215147567	3729878
+3730732	PL	language engineering as an enabler for incrementally defined formal analyses	2012	8.511400913533585	7.895491925529862	3730759
+3731786	ML	an introduction to aspect-oriented music representation	2007	8.729455204984024	7.937451730805063	3731813
+3732139	SE	a declarative executable model for object-based systems based on functional decomposition	2006	8.841370553751322	7.774344294817298	3732166
+3733844	AI	using coupling-based weights for the class integration and test order problem	2009	8.96193706204942	7.744300870364585	3733871
+3734959	SE	tool support for managing method clones	2015	8.617667476011983	7.5979565439814065	3734986
+3735061	Robotics	towards a practical formal method for object oriented modelling	1996	8.540856253578688	8.052093095878536	3735088
+3735418	SE	test data generation for complex data types using imprecise model constraints and constraint solving techniques	2013	8.984937034106109	8.03354420836629	3735445
+3736747	SE	mc/dc-like structural coverage criteria for function block diagrams	2014	8.382841606879152	8.292894396583348	3736774
+3739381	PL	a graphical environment for formally developing object-oriented software	1994	8.6243052062863	8.028984908512884	3739408
+3739682	AI	automatic decomposition and allocation of safety integrity levels using a penalty-based genetic algorithm	2013	8.406317676835473	7.780943858870777	3739709
+3740543	SE	architectural point mapping for design traceability	2012	8.663983715635114	8.357418095020003	3740570
+3743552	DB	analysing graph transformation rules through ocl	2008	8.998438779288538	8.252630298880478	3743579
+3744659	SE	active coevolutionary learning of requirements specifications from examples	2017	8.371308753400587	7.468725645942852	3744686
+3746146	SE	reba : re factoring-aware b inary a daptation of evolving libraries	2008	8.306953618160419	7.518647854627309	3746173
+3747689	Embedded	reuse in requirements engineering: discovery and application of a real-time requirement pattern	1998	8.84367919674536	8.325354755451817	3747716
+3758360	SE	specification-based test oracles for reactive systems	1992	8.573713177144713	8.114543472284991	3758387
+3764412	SE	data-driven modelling and probabilistic analysis of interactive software usage	2018	8.300158822116543	7.7841696664011435	3764439
+3765098	Logic	a set of metrics of non-locality complexity in uml state machines	2014	9.022285614080186	8.382426444861473	3765125
+3765186	SE	a rigorous approach to requirements validation	2006	8.965075281957363	8.285842249289036	3765213
+3765195	SE	automation of avionic systems testing	2007	8.481738222831272	7.726044352451409	3765222
+3766486	SE	formalizing and integrating the dynamic model within omt	1997	8.29244399332599	8.279300874582278	3766513
+3768088	DB	verified bidirectional transformations by construction	2016	8.763628266761874	8.389336253800883	3768115
+3769820	SE	a domain specific language for the development of collaborative systems	2008	8.448501177833217	7.682495064054122	3769847
+3770338	SE	conceve: conceptual modeling and formal validation for everyone	2014	8.26061673067007	8.35631857835866	3770365
+3771658	PL	formalizing artifacts of object-oriented analysis & design methods	1998	8.849491379095527	7.928728212039558	3771685
+3773675	Robotics	testing applications using domain based testing and sleuth	1994	8.280834301393805	7.573821811071914	3773702
+3774162	Web+IR	using xml schema to improve writing, validation, and structure of ws-policies	2010	8.569163324181128	8.087061505733171	3774189
+3774399	SE	developing complex systems with object-process methodology using opcat	2003	9.065898029508006	7.8421465267802155	3774426
+3777165	SE	daeh: a tool for specifying and monitoring the exception handling policy	2015	8.920839903648636	7.9128607636387684	3777192
+3781146	Robotics	formal methods applied to plywood production	2003	8.781558019531952	8.379331554466702	3781173
+3781170	SE	an approach for model-driven test generation	2009	9.195087547070688	7.82124738637394	3781197
+3783241	SE	consistent adaptation and evolution of class diagrams during refinement	2004	8.620300612597443	8.111103403888672	3783268
+3783709	HCI	contributing to safety and due diligence in safety-critical interactive systems development by generating and analyzing finite state models	2009	8.539825732035391	7.924444182819062	3783736
+3784245	SE	a quality requirements model and verification approach for system of systems based on description logic	2017	8.990943408882641	8.223658885105197	3784272
+3785206	SE	towards automatic repair of access control policies	2016	8.673265254051154	7.630922160557594	3785233
+3787704	SE	java refactoring case: a viatra solution	2015	8.544685564474204	7.682054705811992	3787731
+3788917	SE	a tool-supported approach to testing uml design models	2005	8.993349145730857	8.354555050103945	3788944
+3789545	Embedded	tailor-made operating systems for embedded parallel applications	1999	8.250658891597418	7.55261694597049	3789572
+3790363	SE	a study of test coverage adequacy in the presence of stubs	2005	9.018657416037977	7.691353512965412	3790390
+3792656	PL	improving design and source code modularity using aspectj (tutorial session)	2000	8.919491677951187	7.698261033067628	3792683
+3792824	SE	capturing complete and accurate requirements by refinement	2002	8.518595091513937	8.26559690860787	3792851
+3795419	AI	an open extensible tool environment for event-b	2006	8.455935141126691	8.047167087696224	3795446
+3800875	SE	functional and user interface model for generating test cases	2012	8.842898115022399	8.404123499476928	3800902
+3800943	SE	a categorical model of model merging and weaving	2012	8.727434587653503	8.207602434047752	3800970
+3802741	SE	efficient object-oriented integration and regression testing	2000	8.409821120432454	7.450736582915039	3802768
+3804127	SE	randomized model generation for performance testing of model transformations	2014	8.455140060017019	7.800880996040587	3804154
+3804313	PL	maintaining coherence between models with distributed rules: from theory to eclipse	2008	8.79610394471791	7.555168578457326	3804340
+3808552	PL	ocl 2.0 - implementing the standard for multiple metamodels	2004	8.660488430478111	7.719757738560406	3808579
+3811414	SE	integrating formal specification and software verification and validation	2004	8.427919762265638	8.187624864158781	3811441
+3815580	SE	a generic framework for realizing semantic model differencing operators	2014	9.00395042229795	8.181876727513927	3815607
+3816021	SE	first-class change objects for feature-oriented programming	2008	9.016128325258123	8.130475836901173	3816048
+3816443	AI	management of correctness problems in uml class diagrams towards a pattern-based approach	2010	8.549848792393233	7.8875406297113155	3816470
+3817842	SE	dsl composition for model-based test generation	2009	9.072978222326585	8.324199114843148	3817869
+3821537	NLP	bidirectional model transformations using a handcrafted triple graph transformation system	2016	8.951590253602989	8.272426675853124	3821564
+3822147	SE	adding correctness checking to test automation platform	2017	8.874303914946767	7.873118051419342	3822174
+3822376	SE	extracting traceability between predicates in event-b refinement	2017	8.332531178728505	7.991188814216143	3822403
+3823805	SE	a coalgebraic semantic framework for component-based development in uml	2005	8.466390629915002	8.36109764029133	3823832
+3824796	HCI	model-driven development for multi-platform mobile applications	2015	8.411297737661119	7.604843519786446	3824823
+3826154	SE	derivation of uml class diagrams as static views of formal b developments	2005	9.090535283126837	7.506635195565408	3826181
+3828965	SE	exploration games for uml software design	2006	8.72795162604568	7.919289518990205	3828992
+3830242	SE	nl2 alloy: a tool to generate alloy from nl constraints	2012	8.710038024124353	7.894952385192147	3830269
+3830372	SE	state-based incremental testing of aspect-oriented programs	2006	8.718520553287291	8.010121233406155	3830399
+3830609	SE	object-oriented natural language requirements specification	2000	8.550448959188923	7.656578019552572	3830636
+3830841	PL	into the depths of c: elaborating the de facto standards	2016	8.591449851431468	7.704040608160179	3830868
+3831372	SE	agile validation of higher order transformations using f-alloy	2016	8.297816164086282	8.30847600449665	3831399
+3832796	SE	a critical look upon uml 1.0	1997	8.246980364714412	7.934478674444712	3832823
+3833042	PL	sourceweave.net: cross-language aspect-oriented programming	2004	8.98296681571425	7.633676295942088	3833069
+3833701	PL	traceability mappings as a fundamental instrument in model transformations	2017	8.792550254755296	8.036630777918438	3833728
+3833711	SE	automated analysis, validation and suboptimal code detection in model management programs	2014	8.92305065351497	8.172769866860591	3833738
+3833950	SE	using genetic programming for software reliability	2016	8.34872457073738	7.532076511368232	3833977
+3835553	SE	creating models of interactive systems with the support of lightweight reverse-engineering tools	2015	8.7860123427519	8.349842310661161	3835580
+3838479	SE	generating tools from graph-based specifications	2000	8.693452796250607	7.718118155052174	3838506
+3839282	PL	formal integration of inheritance with typed attributed graph transformation for efficient vl definition and model manipulation	2005	8.44342751556945	7.833323810039375	3839309
+3839761	PL	extensible languages for flexible and principled domain abstraction	2013	8.922633914287006	8.044171349468257	3839788
+3841159	SE	case study of test case generation based on metamodel for model transformations	2017	9.04438054397509	7.9910636708722045	3841186
+3841346	Vision	refinement and consistency in component models with multiple views	2004	8.365649012893796	8.295958216713474	3841373
+3842777	SE	genericity for model management operations	2011	8.89688895292248	7.959780169224218	3842804
+3843037	SE	aspect-oriented analysis and design - the theme approach	2005	8.824239536857387	7.907840995953282	3843064
+3843424	SE	automatic translation from uml specifications to b	2001	8.741098481498787	8.089721001691844	3843451
+3848309	AI	extensive validation of ocl models by integrating sat solving into use	2011	8.245632726159622	8.238466090483126	3848336
+3849198	SE	software numerical instability detection and diagnosis by combining stochastic and infinite-precision testing	2017	8.521833764687855	7.9678328368009215	3849225
+3849332	Logic	deduction-based formal verification of requirements models with automatic generation of logical specifications	2012	8.84826426323797	8.247135545699491	3849359
+3849546	AI	data-flow based model analysis	2010	8.34026372846579	8.38005887546535	3849573
+3851654	SE	architecting specifications for test case generation	2003	8.511586266372102	8.243213631401284	3851681
+3851908	SE	cpp2xmi: reverse engineering of uml class, sequence, and activity diagrams from c++ source code	2006	8.366938995890145	7.939984212419366	3851935
+3852904	SE	qvt based model transformation from sequence diagram to csp	2010	8.458361834741513	8.353731095710364	3852931
+3855148	SE	the automatic assessment of formal specification coursework	1999	8.465033089555055	7.457652473422872	3855175
+3855781	SE	uml-based design test generation	2008	8.621631805154411	8.13521630376465	3855808
+3859513	SE	reuse in replaying database design	1998	8.588475061482017	7.788744186651223	3859540
+3859652	SE	data flow oriented ui testing: exploiting data flows and ui elements to test android applications	2017	8.754050670515193	7.6521905017790415	3859679
+3860280	SE	formal specification of object systems	1991	8.687531006758286	7.8543055868865155	3860307
+3860712	EDA	nanoverse: a constraints-based declarative framework for rapid agent-based modeling	2015	8.393791941025745	8.394914571486112	3860739
+3860984	SE	asystemc: an aop extension for hardware description language	2011	9.065444631759553	7.933781210182603	3861011
+3862607	SE	automated repairing of variability models	2017	8.911349082902207	8.081167359501604	3862634
+3863023	PL	a formal semantics for use case diagram via event-b	2017	8.317017440162731	8.39152487594857	3863050
+3863403	SE	model transformation testing: oracle issue	2008	8.678805584173574	7.9726961658202695	3863430
+3863416	SE	a comparison of state-based modelling tools for model validation	2008	8.34857909170898	8.387388841000586	3863443
+3864825	PL	using grammarware languages to define operational semantics of modelled languages	2009	8.296188688575098	8.336513608997466	3864852
+3866518	SE	investigating inconsistency detection as a validation operation in software product line	2009	9.09015915793892	7.859042649474291	3866545
+3866924	SE	iterative planning in the context of automated code synthesis	2007	9.103396947017572	7.644505368070511	3866951
+3867053	SE	how to make apples from oranges in uml	2001	8.518538546897698	8.348121142625974	3867080
+3868141	SE	on the duality of aspect-oriented and feature-oriented design patterns	2007	9.135214034115288	7.933716001149093	3868168
+3869715	SE	dynamic replacement of active objects in the gilgul programming language	2002	8.766490348702979	7.820318279641032	3869742
+3869797	SE	a parameterized interpreter for modeling different aop mechanisms	2005	8.920121588671618	7.953300494673037	3869824
+3869936	NLP	formal semantic meanings of architecture-centric model mapping	2007	8.993536352334333	8.27589951951	3869963
+3873135	HPC	formal modeling and reconfiguration of user interfaces for reduction of errors in failure handling of complex systems	2012	9.174946072946067	8.304398722609314	3873162
+3874234	Robotics	rcos: refinement of component and object systems	2004	8.368945775518807	8.295935142575214	3874261
+3875495	NLP	automatic generation of potentially pathological instances for validating alloy models	2016	8.482096223816619	7.965133130016596	3875522
+3875946	SE	ann: a domain-specific language for the effective design and validation of java annotations	2016	8.948108220126851	7.714366577490407	3875973
+3876510	SE	formal executable semantics for conformance in the mde framework	2009	8.544022616742724	8.20082788813487	3876537
+3877316	SE	a methodological process for the design of a large system: two industrial case-studies	2002	8.906165145863413	7.789858785290897	3877343
+3880587	PL	interactive analysis of object architectures	1997	9.139554658576957	7.765695451925907	3880614
+3882205	SE	modeling and checking for non-functional attributes in extended uml class diagram	2008	8.818799121998229	8.147370734929925	3882232
+3882545	SE	a bdd-based approach to verifying clone-enabled feature models' constraints and customization	2008	8.953236249586107	7.899713651420803	3882572
+3882952	SE	ensuring consistency in relational repository of uml models	2007	8.259692357911431	8.133127372189255	3882979
+3884815	PL	encapsulating objects with confined types	2007	8.392741844220778	8.33291653682253	3884842
+3890491	SE	metamodeling the enhanced entity-relationship model	2013	8.485375551103846	7.562920298301009	3890518
+3891436	PL	generic advice: on the combination of aop with generative programming in aspectc++	2004	8.809695537690416	7.900614940623324	3891463
+3892249	SE	attribute handling for bidirectional model transformations: the triple graph grammar case	2012	8.719006216592572	7.973058058349407	3892276
+3895257	SE	experiments in automated analysis of concurrent software systems	1989	8.298050514227286	8.273188041556555	3895284
+3895762	SE	bwdm: test cases automatic generation tool based on boundary value analysis with vdm++	2017	8.498456440533326	8.293129980954166	3895789
+3896748	SE	tractable model transformation testing	2011	8.566611876506919	8.195874897963149	3896775
+3898193	EDA	computational design synthesis using model-driven engineering and constraint programming	2016	8.840983988954234	8.258412514959199	3898220
+3899835	Vision	towards a more fundamental explanation of constraints in feature models: a requirement-oriented approach	2011	8.652696553844775	7.7779390499694685	3899862
+3900492	HCI	guide: games with uml for interactive design exploration	2005	8.646611569983275	7.632357141020418	3900519
+3901358	SE	metric-driven reengineering for static concurrency analysis	1993	8.407257276170215	8.371620581561643	3901385
+3902729	SE	concolic test generation for plc programs using coverage metrics	2016	8.311640010844656	7.545303637184459	3902756
+3906211	SE	from sysml/kaos domain models to b system specifications	2018	8.503572412303901	8.399942411574807	3906238
+3906274	SE	automatic translation of ocl meta-level constraints into java meta-programs	2015	8.401344728272155	8.030165750217106	3906301
+3906295	PL	an algebraic semantics for mof	2009	8.688062215860597	8.352205178084056	3906322
+3907478	SE	proposal of testing diagrams for visualizing test cases	2013	8.965592313274373	7.5970002048387615	3907505
+3908522	SE	static and dynamic quality assurance by aspect oriented techniques	2010	8.889470299608684	8.072418639734266	3908549
+3909736	SE	role-based refactoring of crosscutting concerns	2005	9.187822833017856	7.474493342847161	3909763
+3912599	HCI	formal definition of mof 2.0 metamodel components and composition	2008	9.198346946579424	8.288054466643093	3912626
+3913188	SE	for more understandable uml diagrams	2010	8.548793018849576	8.395649595112872	3913215
+3913391	DB	prescriptive semantics for big-step modelling languages	2010	8.285488832587466	8.362867219035039	3913418
+3914199	SE	a practical approach to model extension	2007	9.194770054173686	8.04102554927874	3914226
+3914287	SE	automatic model driven animation of scr specifications	2003	8.415724262359454	8.026607437432903	3914314
+3916876	SE	abstracting data and image processing systems using a component-based domain specific language	2016	8.940154592291792	7.454020550531354	3916903
+3917989	SE	umloquent expression of awacs software design	1999	8.289866461302191	7.8853471649536475	3918016
+3920070	SE	model-based generation of natural language specifications	2016	8.495510587474337	7.738368463404195	3920097
+3924969	PL	assuring property conformance of code generators via model checking	2010	9.203762132844798	8.311833073498432	3924996
+3926176	SE	applying software metrics to formal specifications: a cognitive approach	1998	8.737780619037148	7.735606343573775	3926203
+3928240	SE	concept representation and its role in artifact development	2015	8.683103974614456	7.672789402225471	3928267
+3928925	SE	regression testing for visual models	2017	9.110025351298267	8.203685471055191	3928952
+3929161	AI	self-describing agents	2008	8.601805862349439	8.244253128564162	3929188
+3929529	SE	automated inference of models for black box systems based on interface descriptions	2012	8.394022098980189	7.786697433999096	3929556
+3931075	SE	an approach to automatically enforce object-oriented constraints	2014	9.148768972303843	7.722695438040594	3931102
+3931537	SE	requirements specification-by-example using a multi-objective evolutionary algorithm	2016	8.373935807120603	7.4639921120639805	3931564
+3935896	SE	building your own software development environment	1991	8.6012974417748	7.897750016728085	3935923
+3935925	SE	a systematic approach for designing mutation operators for mde languages	2016	8.948166387137341	7.558520058549236	3935952
+3939264	PL	from c++ refactorings to graph transformations	2006	8.779346984512479	7.945701235181762	3939291
+3939895	SE	an input space modeling methodology for combinatorial testing	2013	8.416117933294151	7.6702846810441665	3939922
+3940020	SE	design patterns for models of interactive systems	2015	9.02050281038414	7.4521110116393245	3940047
+3940428	HCI	inter-association constraints in uml2: comparative analysis, usage recommendations, and modeling guidelines	2012	8.951282555139594	7.761093869004897	3940455
+3941455	SE	a conceptual modeling technique for discrete event simulation of operational processes	2007	8.472387780832063	8.331876209846607	3941482
+3942811	Robotics	par: a practicable formal method and its supporting platform	2018	8.92591164524133	8.373056291733095	3942838
+3943305	SE	translation rules of sysml state machine diagrams into csp# toward formal model checking	2014	8.251402760789112	8.397416201146761	3943332
+3945661	SE	safe clone-based refactoring through stereotype identification and iso-generation	2012	8.933993407325387	7.590883139912628	3945688
+3946706	SE	open integrated development and analysis environments	2007	8.865751974821361	7.671341911922423	3946733
+3946762	SE	a regression testing approach for lustre/scade programs	2015	8.726949297865628	7.587979097398423	3946789
+3948080	NLP	de-/re-constructing model transformation languages	2010	8.458511510464389	8.336580830211076	3948107
+3948853	SE	architectural test coverage for component-based integration testing	2007	8.39207087294219	8.338250686626978	3948880
+3949059	SE	dts - a software defects testing system	2008	8.580332210023803	7.5671959537489455	3949086
+3949123	Security	automatic decomposition of safety integrity levels: optimization by tabu search	2013	8.399988693397862	8.055335385895477	3949150
+3951840	SE	a uml/ocl framework for the analysis of graph transformation rules	2009	8.879172647831494	8.19675514947787	3951867
+3952864	SE	specification-based testing for software product lines	2008	9.109340108941863	8.317314847412208	3952891
+3953402	SE	automatic test case generation through collaboration diagram: a case study	2018	8.530053086150591	7.763668286935603	3953429
+3954895	EDA	analytical design of evolutionary control flow components	1997	9.188282840979378	7.606832277719074	3954922
+3955499	SE	java implementation verification using reverse engineering	2004	9.03779849458376	7.914656266667629	3955526
+3955546	SE	system prototype and verification using metamodel-based transformations	2007	8.62830252890236	8.31121668804814	3955573
+3957549	PL	an ocl semantics specified with qvt	2006	8.406510846947729	7.985947130190952	3957576
+3958594	SE	test purposes: adapting the notion of specification to testing	2001	8.542067544402178	8.082954552812929	3958621
+3958778	SE	advanced management of data integrity: property-based testing for business rules	2014	8.252309789284814	8.338282653144097	3958805
+3964061	SE	on the design of software composition : mechanisms and the analysis of composition conflicts	2009	9.143523875221948	8.131052016754463	3964088
+3966277	SE	simulation-based model mapping approach	2007	8.626945523556385	8.155648660696691	3966304
+3966816	Embedded	gomulu yazilim testinde farkli bir yaklasim: scalatest ile test otomasyon araci	2016	8.824643123275829	7.907855681590373	3966843
+3970591	PL	the asm refinement method	2003	8.491231293894613	8.123428546844988	3970618
+3971143	SE	theory and practice of model transformations	2013	8.701202740891098	7.760307123973099	3971170
+3972683	SE	automatic revision of formal test procedures	1978	8.393499833843926	7.818629105535075	3972710
+3972764	SE	consistent specification of interface suites in uml	2002	9.1274234147647	7.665145281082783	3972791
+3973163	SE	detection of feature interactions using feature-aware verification	2011	8.607187132039256	8.244162373144674	3973190
+3976093	SE	automotive behavioral requirements expressed in a specification pattern system: a case study at bosch	2011	8.550363702728179	8.204272223504413	3976120
+3980953	SE	sound merging and differencing for class diagrams	2014	8.505245033949896	8.037059372181439	3980980
+3982911	EDA	investigating the integration of two formal methods	1998	8.586473023686786	8.270072364767241	3982938
+3985769	Logic	environment-model based testing with differential evolution in an industrial setting	2016	8.518829287656946	7.606461720164044	3985796
+3985786	PL	instance generation from type graphs with arbitrary multiplicities	2012	9.172263059195199	7.784572451217317	3985813
+3987664	SE	type inference using concrete syntax properties in flexible model-driven engineering	2015	8.895919646686226	7.7971807768907855	3987691
+3988758	SE	the x-create framework - a comparison of xacml policy testing strategies	2012	8.426018332648827	7.638187050352911	3988785
+3988769	Logic	local confluence analysis of consistent emf transformations	2011	8.815603324026426	8.334017711130004	3988796
+3989109	SE	lifting transformational models of product lines: a case study	2009	8.917160476505396	8.012867345879664	3989136
+3990557	SE	cost-related interface for software product lines	2016	9.031226500913194	8.168645354382187	3990584
+3991395	EDA	an evaluation of devs simulation tools	2017	8.841470953748749	8.056739729775789	3991422
+3992475	SE	scenario path identification for distributed systems: a graph based approach	2010	8.974198086250972	8.019337637272136	3992502
+3996222	AI	ant colony algorithm for automotive safety integrity level allocation	2017	8.422630025463379	7.615608759861564	3996249
+3996333	SE	modeling of discrete event systems: a holistic and incremental approach using petri nets	2004	8.867688441085912	8.028868940942681	3996360
+3997675	SE	model consistency in the object oriented software development process	2003	8.575219712731974	7.854275260271248	3997702
+3998751	SE	a software development environment based on graph technology	1986	9.024621712506327	8.087343405849266	3998778
+4000519	SE	a visual framework for formal systems development using interval temporal logic	2002	8.516797300180661	7.876171456759122	4000546
+4001800	SE	static reference analysis for gui objects in android software	2014	8.45316288061293	7.704280191094303	4001827
+4004623	PL	pattern language verification in model driven design	2013	9.20421405913007	8.118102249928842	4004650
+4004929	SE	memocenterng - a full-featured modeling environment for organization modeling and model-driven software development	2010	9.132450122030788	7.833584320590366	4004956
+4007806	SE	on the role of basic design concepts in behaviour structuring	1995	8.292288145622592	8.306642076503444	4007833
+4010122	NLP	formal modelling of a coordination system: from practice to theory, and back again	2006	9.170740214054288	8.347892467978475	4010149
+4011024	EDA	mutation-based test generation for plc embedded software using model checking	2016	8.337919746322703	7.925433828225257	4011051
+4011093	SE	change impact analysis for requirements: a metamodeling approach	2014	9.182567920336052	8.19049669702086	4011120
+4011310	SE	applying the test template framework to aerospace software	2011	8.693665642416285	8.002613842418297	4011337
+4016997	SE	evaluation of test case generation based on a software product line for model transformation	2018	9.00405085372185	7.940342391603477	4017024
+4019013	SE	realizing use cases for full code generation in the context of fuml	2010	8.54809631211017	8.339724741812791	4019040
+4019421	SE	an approach and tool for synchronous refactoring of uml diagrams and models using model-to-model transformations	2012	8.811985120894876	8.095087989496179	4019448
+4020940	SE	using macromodels to manage collections of related models	2009	9.029512453944164	8.199467876298746	4020967
+4023869	SE	tool-supported refactoring of aspect-oriented programs	2007	9.200597455897359	7.522231067524621	4023896
+4023986	PL	generic validation of structural content with parametric modules	2000	8.305625295119839	7.886421068608452	4024013
+4025793	SE	towards design pattern definition language	2013	9.190856260941628	7.7785990703236365	4025820
+4027636	SE	comparison of five black-box testing methods for object-oriented software	2006	9.04267196772544	7.918401340554166	4027663
+4028689	EDA	optimal test suite generation for modified condition decision coverage using sat solving	2018	8.392680152773687	7.637345621277525	4028716
+4029331	PL	approaches and tools for implementing type systems in xtext	2012	8.646882169039399	7.6625616673627155	4029358
+4032493	SE	automated inference of likely metamorphic relations for model transformations	2018	8.577066244482294	7.4763580273245855	4032520
+4035579	SE	analysis and testing of notifications in android wear applications	2017	8.881879189209302	7.773580932910651	4035606
+4036031	SE	test automation with ttcn-3 - state of the art and a future perspective	2010	9.034754510321592	8.38460857280959	4036058
+4036828	AI	ocl as a constraint generation language	2013	8.491680785552202	8.212113382863782	4036855
+4039922	Theory	documenting and designing qvto model transformations through mathematics	2015	9.113716730778613	7.932472949311025	4039949
+4043618	SE	utilizing dynamic executable models for user interface development	2008	8.542034532482925	8.06733933094418	4043645
+4044632	SE	software requirements validation via task analysis	2002	8.334807561843732	8.218292361448949	4044659
+4047101	Logic	towards refinement strategy planning for event-b	2012	8.983162759562036	8.383182396901555	4047128
+4047589	SE	an extensible meta-model for program analysis	2006	9.070119302066724	7.936097781193341	4047616
+4048060	SE	formal approaches to software testing	2003	8.32418340367278	7.841317764393708	4048087
+4051820	SE	formal approach to assertion-based code generation	2017	8.868000183942902	8.230525455449259	4051847
+4053492	SE	reasoning about feature models in higher-order logic	2007	8.319633491430357	8.110837404175673	4053519
+4054765	EDA	re-engineering of the internet stream protocol st2+ with formalized design patterns	1998	9.11544076881166	8.340022694390813	4054792
+4057671	NLP	making aspects natural: events and composition	2011	8.972290464221514	8.028525114186968	4057698
+4060822	DB	metrics for quality and concurrency in object-based systems	1996	8.515120470904442	7.741864889084005	4060849
+4063526	SE	defining a test coverage criterion for model-level testing of fbd programs	2013	8.300359424812104	8.118615459877162	4063553
+4066194	SE	requirements capture and evaluation in nimbus: the light-control case study	2000	8.401321238092253	8.319301986511151	4066221
+4069903	PL	a domain specific transformation language	2011	8.674110508718853	7.7184654487728075	4069930
+4070855	PL	kapsel - programming within boundaries	1997	8.885899450327821	7.846865770393463	4070882
+4073461	Embedded	formalizing cosmic-ffp using room	2001	8.625969970767684	8.179144859242616	4073488
+4075623	PL	language composition untangled	2012	8.977941780227937	7.583663411269537	4075650
+4077123	SE	integrating model-based testing with evolutionary functional testing	2010	9.078338488946695	7.595751425076343	4077150
+4077748	SE	befactoring: preserving non-functional properties under behavioural change	2013	8.294319705107972	8.210952447420457	4077775
+4081658	SE	opportunities and challenges of static code analysis of iec 61131-3 programs	2012	8.70978210847286	7.959955902845367	4081685
+4084195	PL	an agent-based programming model for developing client-side concurrent web 2.0 applications	2009	8.370734763782151	8.127659357472309	4084222
+4085077	EDA	style-based architectural reconfigurations	2008	8.336389249320696	8.276786937767946	4085104
+4086910	PL	applying object-oriented design to finite element programming	1993	8.909433429368773	7.501505620993612	4086937
+4089337	EDA	a novel intelligent verification platform based on a structured analysis model	2013	9.017126375893953	8.0914346508379	4089364
+4091218	SE	formal verification of a space system's user interface with the ivy workbench	2016	8.767497247930264	7.991329917248676	4091245
+4091687	SE	signal generation for search-based testing of continuous systems	2009	8.268164892039362	7.526688112773168	4091714
+4094492	SE	mutation analysis testing for model transformations	2006	8.567914407279485	7.947688697653805	4094519
+4095197	SE	architectural reasoning in archjava	2002	8.971674440584506	8.378468390118863	4095224
+4095371	PL	do actors call use cases? - solving the problems of oose/uml use-case relationships	2002	8.331810346770924	7.9928663387187875	4095398
+4097751	SE	a pragmatic, rigorous integration of structural and behavioral modeling notations	1997	8.382449077724347	8.081112492767364	4097778
+4099946	Logic	visual analytics for soundness verification of process models	2017	8.867842790199305	7.966980054246372	4099973
+4100112	PL	rapidly prototyping implementation infrastructure of domain specific languages: a semantics-based approach	2005	8.396227460542105	7.946654962366325	4100139

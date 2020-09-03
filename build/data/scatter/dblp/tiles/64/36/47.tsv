@@ -1,0 +1,310 @@
+id	area	title	year	x	y	ix
+3596272	DB	a comparative analysis of materialized views selection and concurrency control mechanisms in nosql databases	2017	4.616256280338597	14.381546364455852	3596299
+3602542	DB	benchmarking hybrid oltp&olap database systems	2011	4.979592691742457	14.186844027586096	3602569
+3604522	Metrics	metrics for measuring the performance of the mixed workload ch-benchmark	2011	4.7567294305081305	14.617462204927854	3604549
+3607303	HPC	exploiting network locality in a decentralized read-write peer-to-peer file system	2004	4.689443492420415	14.174621814414587	3607330
+3610815	DB	on-the-fly sharing for streamed aggregation	2006	5.214694649396536	14.613085243075464	3610842
+3612734	DB	cinhba: a secondary index with hotscore caching policy on key-value data store	2014	4.661396214526949	14.735106504154375	3612761
+3612910	DB	scalable distributed data structures for high-performance databases	2000	4.695180829363527	14.294098047725539	3612937
+3616012	OS	redundancy does not imply fault tolerance: analysis of distributed storage reactions to single errors and corruptions	2017	4.471319285597085	14.379843823944638	3616039
+3616644	DB	automated and transparent model fragmentation for persisting large models	2012	4.619629858080464	14.509843636193311	3616671
+3616665	DB	dynamic-distributed load balancing for highly-performance and responsiveness distributed-gis (d-gis)	2011	5.280785898750202	14.650735098641615	3616692
+3616991	DB	a unified olap/oltp big data processing framework in telecom industry	2016	5.289008854198928	14.236152149901313	3617018
+3617254	HPC	reading between the lines of failure logs: understanding how hpc systems fail	2013	5.262540460029525	14.754800701768634	3617281
+3617893	DB	prepared scan: efficient retrieval of structured data from hbase	2017	5.254093091916599	14.503746658282225	3617920
+3617959	HPC	data reservoir: a new approach to data-intensive scientific computation	2002	4.688713281207519	14.438466661744805	3617986
+3618390	OS	coda: a highly available file system for a distributed workstation environment	1990	5.217492666488775	14.205239846028498	3618417
+3618577	DB	running with scissors: fast queries on just-in-time databases	2014	4.8395365368825525	14.209776148173486	3618604
+3618739	OS	sailfish: a framework for large scale data processing	2012	4.802370805681696	14.196464233997045	3618766
+3618982	DB	vertical partitioning algorithms in distributed databases	1999	4.716213967871319	14.342348974142196	3619009
+3619210	HPC	big data analytics on hpc architectures: performance and cost	2016	5.274378582250571	14.89117079978418	3619237
+3619932	DB	mapreduce: a flexible data processing tool	2010	4.905211872191665	14.194173512283045	3619959
+3620199	DB	elastic pipelining in an in-memory database cluster	2016	4.627270294717309	15.110876982592563	3620226
+3621000	OS	hamfs file system	1999	4.3848244919292965	14.770413783116062	3621027
+3621530	HPC	implementation and performance evaluation of a hybrid distributed system for storing and processing images from the web	2010	5.285635577006311	14.668815711088168	3621557
+3622260	DB	combining query performance with data integrity in the cloud: a hybrid cloud storage framework to enhance data access on the windows azure platform	2012	4.761309366919479	15.04724991844593	3622287
+3623965	DB	big data multi-query optimisation with apache flink	2018	4.997021050252222	14.303126872856344	3623992
+3625584	DB	fault detection for byzantine quorum systems	1999	4.476020597398054	14.194397265046835	3625611
+3625659	Arch	reliability challenges in large systems	2006	5.105684951413122	14.54169827134215	3625686
+3626289	DB	distributed caching for complex querying of raw arrays	2018	4.419272075988491	14.542391583963964	3626316
+3627770	DB	a comparison of two physical data designs for interactive social networking actions	2013	4.556141109573282	14.908413530649849	3627797
+3630553	DB	a fast algorithm for online placement and reorganization of replicated data	2003	4.3752956240727645	14.80675132586711	3630580
+3633490	HPC	a flexible gridftp client for scheduling of big data transfers	2013	5.248589194982364	15.042062488643547	3633517
+3635407	DB	web-enabling cache daemon for complex data	2008	5.206273256781356	14.212656618087273	3635434
+3637122	HPC	distributed metaserver mechanism and recovery mechanism support in quantcast file system	2015	4.851583421288169	15.069414255106413	3637149
+3637814	HPC	an alternate multiplicity-2 task assignment scheme for distributed computations.	2005	4.377677791347547	14.584787735302953	3637841
+3640087	HPC	a new multi-objective optimal programming model for task scheduling using genetic gray wolf optimization in cloud computing	2018	4.975781676507795	14.42245645395586	3640114
+3640228	DB	improving the performance of hadoop hive by sharing scan and computation tasks	2014	4.523235225316733	14.351625169245422	3640255
+3643065	Mobile	vbam - byzantine atomic multicast in lan based on virtualization technology	2013	4.787208539862415	14.958141400653904	3643092
+3647537	HPC	boldio: a hybrid and resilient burst-buffer over lustre for accelerating big data i/o	2016	4.375077027972972	14.757043102352572	3647564
+3647589	DB	skew-aware automatic database partitioning in shared-nothing, parallel oltp systems	2012	4.528625384824295	14.452938711301535	3647616
+3650081	Arch	simulating large-scale p2p systems with the wids toolkit	2005	5.101729719212448	14.711070074200974	3650108
+3650708	OS	research of massive data caching strategy based on key-value storage model	2015	4.669404088520948	14.819199575930837	3650735
+3650933	DB	holistic indexing: offline, online and adaptive indexing in the same kernel	2012	5.073784302711219	14.463515331041755	3650960
+3654738	HPC	a server side caching scheme for corba	2004	5.05743230115729	14.236892682814348	3654765
+3656773	DB	scalable byzantine fault-tolerant storage	2011	4.564799556441456	14.420032564305375	3656800
+3657736	DB	high speed data loading for large sized rdbms tables	2011	4.48511427743408	14.243583620075727	3657763
+3658623	HPC	evaluating mapreduce for profiling application traffic	2013	5.171620702922286	15.039849608815052	3658650
+3661232	DB	evaluating data handling performance of issei data management method	2009	4.489658589577741	14.285749819329936	3661259
+3661708	Crypto	research on light-weight compression schemes based on simulative column-store	2015	4.793016287839957	14.299722618063551	3661735
+3662779	OS	designing a causally consistent protocol for geo-distributed partial replication	2015	4.694975181670189	14.20527260589057	3662806
+3664144	DB	innesto: a searchable key/value store for highly dimensional data	2013	5.155268073928263	14.245599931569906	3664171
+3664991	HPC	an adaptive skeletal task farm for grids	2005	5.108441372387551	14.983250672691145	3665018
+3667487	DB	data allocation of large-scale key-value store system using kinetic drives	2017	4.879772106172124	14.963877525370547	3667514
+3667516	Metrics	an integrated hierarchical temporal memory network for real-time continuous multi-interval prediction of data streams	2014	4.722371882888101	14.515563436585893	3667543
+3667805	AI	verification of partitioning and allocation techniques on teradata dbms	2011	5.010949158542026	14.268455609743018	3667832
+3669564	DB	hb+tree: use hadoop and hbase even your data isn't that big	2015	4.757617628456063	15.03306781380276	3669591
+3669643	DB	parallel sorted neighborhood blocking with mapreduce.	2011	4.663677370033125	14.275329433067382	3669670
+3669705	DB	on the design and scalability of distributed shared-data databases	2015	5.011448729407906	14.287559421106785	3669732
+3670271	HPC	locality-driven high-level i/o aggregation for processing scientific datasets	2013	4.717875311005772	14.460506657152	3670298
+3674500	DB	scheduling refresh queries for keeping results from a sparql endpoint up-to-date (short paper)	2016	4.779633208908335	15.116582745597265	3674527
+3682802	DB	hip: information passing for optimizing join-intensive data processing workloads on hadoop	2012	5.027023283025649	14.722776394204491	3682829
+3692494	DB	scalable web services interface for sd-sql server	2008	5.0428853985416255	14.414661172065694	3692521
+3692850	DB	ibex - an intelligent storage engine with support for advanced sql off-loading	2014	4.394129779425414	14.503619971404321	3692877
+3694167	HPC	a cleanup algorithm for implementing storage constraints in scientific workflow executions	2014	5.174556048834297	14.92700708404078	3694194
+3706897	DB	src: tornado: a distributed spatio-textual stream processing system	2017	5.2177609851791855	14.911025225067608	3706924
+3708852	DB	load balancing for hybrid nosql database management systems	2015	4.743746218425377	14.956841510366418	3708879
+3710859	HPC	dedu: building a deduplication storage system over cloud computing	2011	4.547674904896118	15.047558401970372	3710886
+3710956	DB	adaptively reordering joins during query execution	2007	4.668455728189957	14.361634456099484	3710983
+3712760	DB	xml fragment caching for small mobile internet devices	2002	5.282142088020096	14.31266502896863	3712787
+3714137	HPC	mr-advisor: a comprehensive tuning, profiling, and prediction tool for mapreduce execution frameworks on hpc clusters	2018	4.874711898472771	14.4504271153298	3714164
+3715872	DB	tata kelola database perguruan tinggi yang optimal dengan data warehouse	2010	4.466940060528224	14.350397719213646	3715899
+3719632	HPC	high-performance design of yarn mapreduce on modern hpc clusters with lustre and rdma	2015	4.496623706441039	14.849976194931276	3719659
+3720415	HPC	cogset: a unified engine for reliable storage and parallel processing	2009	4.658253437611566	14.239330345022776	3720442
+3721387	DB	cruncher: distributed in-memory processing for location-based services	2016	5.022345179342026	14.271502435720064	3721414
+3722396	DB	secure dynamic fragment and replica allocation in large-scale distributed file systems	2003	4.530579561265309	14.959253924484154	3722423
+3723590	HPC	distributed computing with load-managed active storage	2002	4.88300074774995	14.200998175482374	3723617
+3725297	OS	δ-crdts: making δ-crdts delta-based	2016	4.709726684340671	14.470200188561765	3725324
+3726871	DB	towards quality of service based resource management for cluster-based image database	2004	4.795533478764034	15.015083093463565	3726898
+3727221	DB	integrity-preserving replica coordination for byzantine fault tolerant systems	2008	4.801928108315517	14.324668642543585	3727248
+3727520	OS	agile store: experience with quorum-based data replication techniques for adaptive byzantine fault tolerance	2005	4.396051624644813	14.461719983116	3727547
+3728616	Networks	leader set selection for low-latency geo-replicated state machine	2017	4.479939629104189	14.21926938285325	3728643
+3728743	DB	scalable matching and ranking for network search	2013	5.322351813781589	14.170974441431074	3728770
+3730154	DB	generating databases for query workloads	2010	5.110964219686634	14.242668376577285	3730181
+3730761	OS	efficient shuffle management with scache for dag computing frameworks	2018	4.377213529949998	14.847014063044467	3730788
+3731481	DB	a case study in distributed locking protocol on linux clusters	2005	4.6761718989634655	14.168306149911015	3731508
+3732337	DB	understanding query performance in accumulo	2013	5.26940743170819	14.315552956483653	3732364
+3733600	HPC	memetic algorithms for energy-aware computation and communications optimization in computing clusters	2012	4.67534345140345	14.437277695070506	3733627
+3733624	HPC	flexanalytics: a flexible data analytics framework for big data applications with i/o performance improvement☆	2014	5.036791144179189	14.449648942640357	3733651
+3734444	DB	efficient entity maching over multiple data sources with mapreduce	2013	4.9311561279432645	14.852537014935258	3734471
+3735741	DB	deferred lightweight indexing for log-structured key-value stores	2015	4.8248756881905095	14.248204694216287	3735768
+3739889	OS	personalraid: mobile storage for distributed and disconnected computers	2002	4.775669618590578	14.228439074181573	3739916
+3740113	EDA	dynamic reconfiguration algorithm: dynamically tuning multiple buffer pools	2000	4.574842277461055	14.87652146882058	3740140
+3741598	DB	a hybrid cache architecture of shared memory and meta-table used in big multimedia query	2016	4.4610018636496775	14.523257095244649	3741625
+3743779	HPC	a scalable queuing service based on an in-memory data grid	2010	4.9609909865608985	14.980800662777224	3743806
+3744640	HPC	analysis of large-scale grid-based monte carlo applications	2003	5.309367377677528	14.503190247830828	3744667
+3746506	OS	silver: a scalable, distributed, multi-versioning, always growing (ag) file system	2016	4.896464924651455	14.220080930897007	3746533
+3747915	OS	concurrent execution of mixed enterprise workloads on in-memory databases	2014	4.629150423279738	14.786705444342545	3747942
+3748863	Arch	nas switch: a novel cifs server virtualization	2003	4.6956917739715145	15.113830755456915	3748890
+3749223	HPC	proactive fault tolerance for hpc with xen virtualization	2007	4.425913693619675	14.782226172879211	3749250
+3750086	DB	vectorh: taking sql-on-hadoop to the next level	2016	4.399815632796689	14.837708808474117	3750113
+3750927	OS	revisiting software zero-copy for web-caching applications with twin memory allocation	2012	4.755298496444821	14.879378050294378	3750954
+3752738	DB	ihome: index-based join query optimization for limited big data storage	2018	4.4670342607618885	14.69748910490792	3752765
+3757026	DB	algorithmic approaches for storage networks	2002	4.506210798923211	14.171439231434414	3757053
+3757541	DB	cross join operation over large quantities of data considering data locality and data replication	2016	4.67524423275027	14.886889996709645	3757568
+3762112	Networks	distributed upcalls: a mechanism for layering asynchronous abstractions	1988	4.495091576262128	14.635136159364068	3762139
+3762435	DB	filtering duplicate items over distributed data streams	2005	5.176405804511226	14.964498939602786	3762462
+3762927	DB	challenges and new avenues in existing replication techniques	2016	4.8974557957064615	14.460291092148823	3762954
+3764032	DB	smopd-c: an autonomous vertical partitioning technique for distributed databases on cluster computers	2014	4.4672066000044195	14.410423716710223	3764059
+3764295	OS	durability with bookkeeper	2013	4.687285926523781	14.31456479034338	3764322
+3765165	OS	quality-of-service for consistency of data geo-replication in cloud computing	2012	5.29535106740315	14.460657171592171	3765192
+3765832	HPC	propeller: a scalable real-time file-search service in distributed systems	2014	4.847496650962877	14.297046080099626	3765859
+3768443	Embedded	performance and availability modeling of hybrid storage systems	2017	4.4025963820953935	15.099533581089688	3768470
+3769250	HPC	mlock: building delegable metadata service for the parallel file systems	2014	4.4410235483883325	14.787984616388426	3769277
+3772155	OS	scalable sql and nosql data stores	2010	5.2439807429044105	14.202165056495126	3772182
+3774460	HPC	fault tolerance in p2p-grid environments	2012	4.987957391537711	14.916255517193095	3774487
+3774984	HPC	stdchk: a checkpoint storage system for desktop grid computing	2008	4.890869917151434	14.92214377352189	3775011
+3776835	DB	an experimental analysis of different key-value stores and relational databases	2017	4.928708190975316	14.191037954188676	3776862
+3777134	HPC	steal-a-gc: framework to trigger gc during idle periods in distributed systems	2016	4.480553020287854	15.110183999619961	3777161
+3780848	DB	distributed snapshot maintenance in wide-column nosql databases using partitioned incremental etl pipelines	2017	5.053573612274384	14.244675048063725	3780875
+3781168	DB	indexing for large scale data querying based on spark sql	2017	4.583986123368948	14.240032330388665	3781195
+3781812	HPC	towards the efficient parallelization of multi-pass adaptive blocking for entity matching	2017	4.492333490748063	14.709768873177884	3781839
+3785765	DB	using space and attribute partitioned partial replicas for data subsetting and aggregation queries	2006	4.5476317947857465	14.830323231057664	3785792
+3789291	DB	partial update: efficient materialized view maintenance in a distributed graph database	2018	5.026779486490744	14.443871933890874	3789318
+3792451	OS	a new disk i/o model of virtualized cloud environment	2013	4.4402839283907	14.553067593010557	3792478
+3794414	DB	smart query execution for event-driven stream processing	2016	5.205977713490391	14.54261820482649	3794441
+3796963	Networks	design and implementation of a consistent data store for a distributed sdn control plane	2016	4.7374488065521305	14.652094805604275	3796990
+3801441	HPC	failure detection in p2p-grid environments	2012	4.857612659127946	14.543634194960509	3801468
+3802075	Embedded	co-analysis of ras log and job log on blue gene/p	2011	5.07240314831195	14.337914025826896	3802102
+3806845	HPC	in-staging data placement for asynchronous coupling of task-based scientific workflows	2016	5.322438303189416	14.19631851088054	3806872
+3808719	DB	real-time data stream partitioning over a sliding window in real-time spatial big data	2018	5.0939271922204075	14.880156100006962	3808746
+3811215	DB	mjoin: a metadata-aware stream join operator	2003	4.790532253926922	14.264885496820936	3811242
+3811552	DB	query processing in a dbms for cluster systems	2010	4.547703717437278	14.788779723658015	3811579
+3812408	DB	adaptive mapreduce using situation-aware mappers	2012	4.765715029497653	14.820714262243493	3812435
+3812689	DB	interaction-aware scheduling of report-generation workloads	2011	5.076848404048069	14.511062393865178	3812716
+3813028	HPC	supporting fault-tolerance in streaming grid applications	2007	4.549951873970934	14.73536207965985	3813055
+3814879	DB	parallel main-memory indexing for moving-object query and update workloads	2012	4.390489706045842	14.503275844070794	3814906
+3815103	Arch	approxhadoop: bringing approximations to mapreduce frameworks	2015	5.308791975423334	14.885313700604279	3815130
+3815685	Metrics	stochastic petri net analysis of a replicated file system	1987	4.658432607050119	14.306793444081135	3815712
+3816099	DB	data structures for storing file namespace in distributed file system	2008	4.6986929587066095	14.381507266743784	3816126
+3816469	Networks	just say no to paxos overhead: replacing consensus with network ordering	2016	4.714516567805342	14.63932069010026	3816496
+3817953	DB	join processing using bloom filter in mapreduce	2012	4.400434276823428	14.461270211977315	3817980
+3818343	DB	clash of the titans: mapreduce vs. spark for large scale data analytics	2015	4.685038959987515	14.550030389072347	3818370
+3819128	DB	a data reusing strategy based on hive	2014	4.890008742009181	14.347923676096704	3819155
+3822167	DB	stateful scalable stream processing at linkedin	2017	4.379055656499391	14.941690653457885	3822194
+3822507	HPC	adaptive sorted neighborhood blocking for entity matching with mapreduce	2015	4.5665452088947776	14.512088729583972	3822534
+3822951	DB	database analytics acceleration using fpgas	2012	4.688807608666696	14.191682977553107	3822978
+3824681	Networks	rcanopus: making canopus resilient to failures and byzantine faults	2018	4.557209594941791	14.549407150263994	3824708
+3825064	DB	insure: an integrated load reduction framework for xml stream processing	2015	4.615895807840563	14.592336029237687	3825091
+3826720	Networks	online aggregation and continuous query support in mapreduce	2010	4.6365030681311294	14.596392255314884	3826747
+3828093	DB	continuous timestamping for efficient replication management in dhts	2010	4.830158441853073	14.36374736604877	3828120
+3828739	DB	a remote data disaster recovery system model based on undo	2010	5.15980736882738	14.797335167480314	3828766
+3830432	DB	the hibench benchmark suite: characterization of the mapreduce-based data analysis	2010	5.018330009924665	14.744397292130175	3830459
+3832931	Arch	improving server performance on transaction processing workloads by enhanced data placement	2004	4.424997937714134	14.582033857835322	3832958
+3836599	DB	towards dynamic data placement for polystore ingestion	2017	5.221340976950294	14.297545685820362	3836626
+3837174	OS	hyperbolic caching: flexible caching for web applications	2017	4.409486366109772	14.88204347487959	3837201
+3837598	Arch	state machine replication for wide area networks	2010	4.724446819629302	14.495774682755972	3837625
+3839118	DB	intelligent statistics management in sybase ase 15.0	2006	5.3204636535296395	14.220661753443931	3839145
+3840323	OS	dhfs: a high-throughput heterogeneous file system based on mainframe for cloud storage	2011	5.155446964078135	14.570200051544433	3840350
+3840751	OS	scaling up iot stream processing	2017	5.121639922240428	14.382721224044573	3840778
+3842554	DB	quality-driven continuous query execution over out-of-order data streams	2015	5.2630729840758566	15.090647974562346	3842581
+3842644	DB	an fpga-based low-latency network processing for spark streaming	2016	4.632226155584769	14.699624663582387	3842671
+3842743	DB	incremental elasticity for nosql data stores	2017	5.196184337487642	14.761352967701482	3842770
+3843322	HPC	eon mode: bringing the vertica columnar database to the cloud	2018	4.9905811816600805	14.689706973341035	3843349
+3850684	HPC	portable topology-aware mpi-i/o	2017	4.684571566106314	14.514755166841226	3850711
+3854306	OS	distributed schedule management in the tiger video fileserver	1997	4.872345737088584	14.190651172237574	3854333
+3861190	HPC	a coflow-based co-optimization framework for high-performance data analytics	2017	4.705018602693488	14.798941119313461	3861217
+3864228	HPC	exploring energy and performance behaviors of data-intensive scientific workflows on systems with deep memory hierarchies	2013	4.4860618601717235	14.259505109166126	3864255
+3864515	DB	exploiting coarse-grained reused-based opportunities in big data multi-query optimization	2018	4.880353770629093	14.54769063607233	3864542
+3867490	HPC	a high performance object-oriented destributed parallel database architecture	1998	4.713318266250638	14.733355737494517	3867517
+3870472	DB	cassandra's performance and scalability evaluation	2016	5.3120247460029635	14.359443304972393	3870499
+3871591	DB	asynchronous view maintenance for vlsd databases	2009	4.436966471350439	14.275864766250574	3871618
+3872748	DB	efficient data distribution for dws	2008	4.417445335129661	14.390139918272558	3872775
+3876023	DB	persistence and recovery for in-memory nosql services: a measurement study	2016	4.996425034333219	14.866333675814836	3876050
+3876541	OS	cloudvs: enabling version control for virtual machines in an open-source cloud under commodity settings	2012	5.02529824229977	14.78622311588191	3876568
+3878895	DB	an update-risk based approach to ttl estimation in web caching	2002	4.673368803688802	14.918543659070876	3878922
+3880260	DB	processing distributed compoud-data streams	2004	4.895652831066598	15.101776209337196	3880287
+3881357	DB	a cache-based semi-stream join to deal with unmatched stream data	2015	4.767975913800787	14.632098695527107	3881384
+3885934	DB	cloud-scale transaction processing with paradb system: a demonstration	2014	5.191238473165813	14.340599299270036	3885961
+3886411	HPC	benchmarking key-value stores on high-performance storage and interconnects for web-scale workloads	2015	4.8876119779175164	14.564154932205675	3886438
+3888177	OS	malacology: a programmable storage system	2017	4.778570684156638	14.88607457507574	3888204
+3890373	Arch	hypervisor-based efficient proactive recovery	2007	4.931852552397583	14.496314801777297	3890400
+3891045	OS	amazon aurora: on avoiding distributed consensus for i/os, commits, and membership changes	2018	5.244826607878632	14.568654226263686	3891072
+3891061	DB	adaptive prejoin approach for performance optimization in mapreduce-based warehouses	2013	4.910541701516776	14.308477896822733	3891088
+3892057	HPC	taming massive distributed datasets: data sampling using bitmap indices	2013	4.592793466530508	14.363507558937615	3892084
+3892664	HPC	trillion operations key-value storage engine: revisiting the mission critical analytics storage software stack	2017	5.290948787537284	14.551827559167402	3892691
+3894230	OS	elasticizing linux via joint disaggregation of memory and computation	2018	4.456131008383417	14.83909516594307	3894257
+3895028	OS	atomicity, serialization and recovery in the island-based file system	2000	5.045031415208376	14.191198105709931	3895055
+3896238	HPC	workload resampling for performance evaluation of parallel job schedulers	2013	5.0318030771827225	15.068600056085927	3896265
+3901187	DB	aras: a method with uniform distributed dataset to solve data warehouse problems for big data	2017	4.824384628104679	15.04046071286843	3901214
+3905038	Arch	improving efficiency and performance of distributed file-systems	2008	5.315835165904726	14.798969153580327	3905065
+3906119	Robotics	parallelized mobility-aware complex event processing	2017	5.097812078190421	14.333311261991305	3906146
+3907060	HPC	snappvfs: snapshot-able parallel virtual file system	2008	4.646032221551512	14.55662947061362	3907087
+3907169	ML	an adaptive skew handling join algorithm for large-scale data analysis	2015	4.392728633760053	14.99735801348228	3907196
+3910355	OS	cntr: lightweight os containers	2018	4.998714453122288	14.221333915826435	3910382
+3910611	OS	towards a semantic, deep archival file system	2003	5.202334340367585	14.162201004931493	3910638
+3913572	HPC	ame: an anyscale many-task computing engine	2011	4.4732762463529685	14.498874123593753	3913599
+3917284	DB	a comparison of platforms for implementing and running very large scale machine learning algorithms	2014	5.252800366377958	14.3211346086018	3917311
+3920692	DB	prefetchguide: capturing navigational access patterns for prefetching in client/server object-oriented/object-relational dbmss	2003	4.376379040297608	14.607803740458738	3920719
+3922501	DB	scaling up the preventive replication of autonomous databases in cluster systems	2004	4.5818132435507755	14.202542211455492	3922528
+3923489	OS	making geo-replicated systems fast as possible, consistent when necessary	2012	4.648442723025563	14.657186102641038	3923516
+3925584	HPC	spkv: a multi-dimensional index system for large scale key-value stores	2014	4.9795435666725565	14.489074943910547	3925611
+3927506	DB	measuring the effects of distributed database models on transaction availability measures	1992	4.400158474624846	14.274524981378205	3927533
+3928714	OS	kvzone and the search for a write-optimized key-value store	2010	4.604530284615269	14.369900320128044	3928741
+3930504	DB	dl-store: a distributed hybrid oltp and olap data processing engine	2016	5.224265448537893	14.2521005911231	3930531
+3931789	DB	superman: a novel system for storing and retrieving scientific-simulation provenance for efficient job executions on computing clusters	2017	5.160536339034317	14.703790092893444	3931816
+3932195	DB	on improving user response times in tableau	2015	4.858401883117983	14.181689833393955	3932222
+3936188	DB	data replication and availability	2001	4.751516421256536	14.536595281586015	3936215
+3936309	HPC	hpc system lifetime story: workload characterization and evolutionary analyses on nersc systems	2015	5.249629200910613	14.554346720571756	3936336
+3937723	DB	delite: database support for embedded lightweight devices	2004	4.6062524550520525	15.03305373334919	3937750
+3939256	HPC	the scalability of volunteer computing for mapreduce big data applications	2017	5.182588779211386	15.090497998423286	3939283
+3939739	HPC	maheve: an efficient reliable mapping of asynchronous iterative applications on volatile and heterogeneous environments	2010	4.66104526685398	14.839692474865988	3939766
+3942733	DB	msdb: a massive sensor data processing middleware for hbase	2017	4.956450549359956	14.618427438832873	3942760
+3945501	DB	a data distribution platform based on event-driven mechanism	2011	5.074972532950444	14.194248793864102	3945528
+3945674	DB	parallel database join operations in heterogeneous grids	2007	4.401924466907428	14.590492583238897	3945701
+3946750	HPC	zeno: a straggler diagnosis system for distributed computing using machine learning	2018	5.164651808682158	14.22888806845318	3946777
+3947880	DB	global query management in heterogeneous distributed database systems	1993	5.306313643233401	14.517633026702075	3947907
+3952245	HPC	mpi-io/gfarm: an optimized implementation of mpi-io for the gfarm file system	2011	4.469136009026347	14.366881476016374	3952272
+3955066	DB	scalable and distributed key-value store-based data management using rdma-memcached	2017	5.169080591141799	14.456854781446353	3955093
+3955203	DB	efficient spark-based framework for big geospatial data query processing and analysis	2017	5.0012528701576064	14.571793090270676	3955230
+3958103	DB	subsuming multiple sliding windows for shared stream computation	2011	4.760257051089579	14.461543456851347	3958130
+3959489	DB	a scalable data chunk similarity based compression approach for efficient big sensing data processing on cloud	2017	5.103525196984385	14.368799889780044	3959516
+3959949	HPC	analyzing the impact of computational heterogeneity on runtime performance of parallel scientific components	2007	5.2853297216359225	14.384281322802668	3959976
+3960031	DB	tertiary storage organization for large multidimensional datasets	2000	4.5918462632348005	14.69421550053325	3960058
+3960050	DB	addressing resource usage in stream processing systems: sizing window effect	2011	5.256285093686903	14.982709039351167	3960077
+3960921	HPC	big data analytics on traditional hpc infrastructure using two-level storage	2015	4.875009409352302	14.769092539220985	3960948
+3960981	DB	dynamic block sizing for data stream processing systems	2016	4.890247965888324	15.018424373172493	3961008
+3961589	OS	refuse to crash with re-fuse	2011	4.507661009885436	14.24642020038791	3961616
+3961814	OS	lightweight asynchronous snapshots for distributed dataflows	2015	4.536990001582973	14.397032035457249	3961841
+3961905	OS	a file is not a file: understanding the i/o behavior of apple desktop applications	2011	4.978250080142911	14.6429925881636	3961932
+3964107	HPC	efficient failure detection and recovery scheme for hierarchical distributed monitoring	2007	5.1771368645268465	14.457191067286079	3964134
+3964694	HPC	assigning local fixed-time constraints in grid workflow systems	2006	4.8976548114290965	14.410471515208124	3964721
+3964916	DB	binary vote assignment grid quorum for managing fragmented database	2012	4.6885245548307095	14.235839586425866	3964943
+3966800	HPC	an adaptive memory tuning strategy with high performance for spark	2017	4.633527170400519	14.99052958209091	3966827
+3967015	DB	data interface all-in-a-place (diana) for big data	2014	4.703251507623066	14.228281240004211	3967042
+3969277	DB	on-line index selection for shifting workloads	2007	5.174130064502926	14.652343918168965	3969304
+3969394	DB	alternative query optimization for workload management	2012	4.916375913798707	14.989774398584439	3969421
+3969587	DB	an architecture for recycling intermediates in a column-store	2010	4.5489241295855	14.686178647725113	3969614
+3969679	OS	layer: a cost-efficient mechanism to support multi-tenant database as a service in cloud	2015	5.075494454231935	14.734943021855454	3969706
+3970378	OS	"""putting the """"micro"""" back in microservice"""	2018	4.6272070161881445	15.04894287040085	3970405
+3972247	DB	dynamic plan migration for continuous queries over data streams	2004	4.978050263789372	14.567042581468579	3972274
+3973164	OS	panache: a parallel wan cache for clustered filesystems	2008	4.812965800907143	14.413045386924288	3973191
+3978392	HPC	performance characterization of hadoop and data mpi based on amdahl's second law	2014	4.53503803812679	14.559034386007873	3978419
+3984046	DB	an implementation of gpu-based parallel optimization for an extended uncertain data query algorithm	2011	4.7842896274810425	14.729447217037865	3984073
+3984448	DB	oracle secureiles - a filesystem architecture in oracle database server	2008	4.9068990111619435	14.296509761462527	3984475
+3987994	DB	efficiently processing temporal queries on hyperledger fabric	2018	4.677503769211622	14.507080625696569	3988021
+3989290	HPC	data management in cloud, grid and p2p systems	2013	4.536040712183503	15.039963295713743	3989317
+3990642	DB	efficient invocation of transaction sequences triggered by data streams	2011	5.301319929414532	14.492039857504395	3990669
+3990901	HPC	gpu-in-hadoop: enabling mapreduce across distributed heterogeneous platforms	2014	4.520821485099863	14.998251294772285	3990928
+3995072	DB	opportunistic prioritised clustering framework for improving oodbms performance	2007	4.613215737638749	14.384644519776328	3995099
+3997388	HPC	analytical model for binding refresh request to reduce storage and communication overhead in mipv6 network	2014	4.386960353940877	14.53996752759524	3997415
+3998881	DB	adding data analytics capabilities to scaled-out object store	2016	4.725709028624509	14.833742653096627	3998908
+4000414	HPC	leveraging coding techniques for speeding up distributed computing	2018	4.438270993062276	15.113814798928306	4000441
+4002384	HPC	improving shuffle i/o performance for big data processing using hybrid storage	2017	4.657145979870162	14.739733812173743	4002411
+4004251	Arch	performance evaluation of a remote memory system with commodity hardware for large-memory data processing	2011	4.556673572012246	14.456313914577526	4004278
+4009307	DB	dbms techniques for lightweight computing devices	2011	4.4850936784756374	14.942175078096168	4009334
+4014381	Visualization	increasing the availability of multi-object tasks on multi-region distributed system	2017	4.843907196513303	14.608813326445578	4014408
+4018121	NLP	two architectures for parallel processing of huge amounts of text	2016	5.203723831277942	14.338494201595006	4018148
+4019848	HPC	a random walk topology management solution for grid	2005	4.424731522329414	14.601738434594774	4019875
+4023311	DB	fast follower recovery for state machine replication	2017	4.414426535450729	14.629474612169046	4023338
+4025143	OS	storage-based intrusion detection for storage area networks (sans)	2005	4.950489794657835	14.86268484849218	4025170
+4026578	Arch	on soft error reliability of virtualization infrastructure	2016	4.571609769791864	14.308073402201794	4026605
+4029460	OS	tersecades: efficient data compression in stream processing	2018	4.8529329450761605	14.191341439362276	4029487
+4034817	DB	a content-based indexing scheme for large-scale unstructured data	2017	4.401654780530942	14.563444422278303	4034844
+4035494	DB	a study of building a database system based on issei data management method	2010	5.120222112211954	14.481976869750426	4035521
+4035689	OS	dynamo: design, implementation, and evaluation of cooperative persistent object management in a local area network	2000	4.726492976982301	14.784585884156373	4035716
+4037491	HPC	the feasibility research of cloud storage based on global file system	2012	4.942738991191964	15.009856617514215	4037518
+4038948	DB	object-nosql database mappers: a benchmark study on the performance overhead	2016	5.257301177451155	14.367951774967553	4038975
+4039745	DB	towards an efficient fault-tolerance scheme for glb	2015	4.7555315334905135	14.273975899703164	4039772
+4043486	HPC	reducing the energy footprint of a distributed consensus algorithm	2015	4.480582110567832	14.262749501243567	4043513
+4043588	DB	otpm: failure handling in data-intensive analytical processing	2011	4.403538478775669	14.410892735071275	4043615
+4044710	DB	cohadoop: flexible data placement and its exploitation in hadoop	2011	4.720859808004591	14.647854743378351	4044737
+4045578	Embedded	cloud tree: a library to extend cloud services for trees	2015	4.775267525081474	15.024234417780333	4045605
+4046729	HPC	high reliability and flexibility storage cluster in decentralized organization	2006	4.921866730502269	15.067462477064655	4046756
+4047281	DB	transactional multi-row access guarantee in the key-value store	2012	5.001387426232066	14.431755685349431	4047308
+4047602	Arch	taurus: a holistic language runtime system for coordinating distributed managed-language applications	2016	5.267349880660302	14.197834596043409	4047629
+4048970	Theory	zookeeper+: the optimization of election algorithm in complex network circumstance	2016	4.7584888159566185	14.355180933424599	4048997
+4049572	DB	enabling effective utilization of gpus for data management systems	2017	5.269450623815915	14.427863524261019	4049599
+4050176	Metrics	improving cluster availability using workstation validation	2002	5.011282049353783	15.011331966494556	4050203
+4052131	DB	adaptive filters for continuous queries over distributed data streams	2003	5.105708207573824	14.980689570568911	4052158
+4053191	HPC	gmate: dynamic tuning of parallel applications in grid environment	2013	5.199818718832579	15.071597704462626	4053218
+4054248	DB	fidoop: parallel mining of frequent itemsets using mapreduce	2016	4.411569466843139	14.360417558022435	4054275
+4054545	DB	an adaptive join strategy in distributed data stream management system	2007	4.716472645070724	14.844888378137927	4054572
+4055998	DB	an efficient and transparent transaction management based on the data workflow of hvem datagrid	2008	5.0144324022930125	14.324862045253733	4056025
+4056880	DB	spass: scalable event stream processing leveraging sharing opportunities: poster	2016	5.234206122013816	14.96570950206456	4056907
+4057632	HPC	massive high-performance global file systems for grid computing	2005	5.060891460757724	14.709634193481055	4057659
+4062656	HPC	data-replicas scheduler for heterogeneous mapreduce cluster	2013	4.592282645564342	15.117240417872095	4062683
+4062843	ML	designing parallel relational data warehouses: a global, comprehensive approach	2013	4.480795060313462	14.498010868391287	4062870
+4062965	DB	high-performance priority queues for parallel crawlers	2008	5.156658198349791	14.790571014381865	4062992
+4064114	OS	flipstone: managing storage with fail-in-place and deferred maintenance service models	2008	4.897598908665368	15.055783218046491	4064141
+4065358	OS	machine fault tolerance for reliable datacenter systems	2014	4.473863964301582	14.473866515724193	4065385
+4066917	OS	piccolo: building fast, distributed programs with partitioned tables	2010	4.506665879506064	14.499774143327533	4066944
+4067398	OS	seesaw - similarity exploiting storage for accelerating analytics workflows	2016	5.071218822520637	14.353315835850875	4067425
+4068650	HPC	evaluation of mapreduce in a large cluster	2015	5.157382618844574	14.78119838315582	4068677
+4070036	HPC	reconfiguration of raid-like data layouts in distributed storage systems	2004	4.496911159858764	14.972764557778255	4070063
+4070829	DB	holistic indexing in main-memory column-stores	2015	4.975055458547135	14.514484758776845	4070856
+4071806	DB	adapting microsoft sql server for cloud computing	2011	5.311097311680402	14.2887351149948	4071833
+4074865	OS	costore: a reliable and highly available storage system using clusters	2002	5.07714390642776	14.805412451968346	4074892
+4076173	DB	improving the performance of continuous queries on fast data streams: time series case	2002	5.340803719456784	14.886675491066105	4076200
+4078027	OS	rollup: non-disruptive rolling upgrade with fast consensus-based dynamic reconfigurations	2016	5.086786857059738	14.811459077337634	4078054
+4080654	HPC	a replication software architecture(rsa) for supporting irregular applications on wide-area distributed computing environments	2007	5.17523099090878	14.485695282802732	4080681
+4084363	DB	time-decaying bloom filters for efficient middle-tier data management	2010	5.1430802166279035	14.639686489113258	4084390
+4087923	HPC	performance characterization and acceleration of in-memory file systems for hadoop and spark applications on hpc clusters	2015	4.379969707685787	14.638619711134302	4087950
+4088274	DB	a novel checkpointing scheme for distributed database systems	1990	4.490935564326173	14.213240962878515	4088301
+4096226	OS	active file systems for data mining and multimedia	2002	4.644245132659403	14.305545840896823	4096253
+4096707	OS	a high performance and reliable distributed file facility	1994	4.6932056724552895	14.845791797938313	4096734
+4097896	Arch	cutting the tail: designing high performance message brokers to reduce tail latencies in stream processing	2018	5.249160243906943	14.537063760578446	4097923
+4098033	DB	transparent mid-tier database caching in sql server	2003	4.583670839956695	15.071334701761328	4098060
+4098423	HPC	lunar crater rims detection from chang's orbiter data based on a grid environment	2009	5.1663466416875234	14.444233380703606	4098450
+4100364	DB	benchmarking in-memory database	2016	4.9223300185614605	14.202233197495275	4100391
+4101034	HPC	scalable, fault tolerant membership for mpi tasks on hpc systems	2006	4.6910931774692335	14.551939216878116	4101061

@@ -1,0 +1,734 @@
+id	area	title	year	x	y	ix
+2837513	Theory	greedy algorithms for the test selection problem in protocol conformance testing	2002	-6.875788015559362	4.10114432215199	2837540
+2838882	Theory	a genetic algorithm and two hill-climbers for the minimum routing cost spanning tree problem	2002	-6.938980897599014	4.038246331516158	2838909
+2839110	EDA	optimizing the vehicle routing problem with time windows: a discrete particle swarm optimization approach	2012	-6.6255392793285965	3.7347645932840696	2839137
+2839586	Theory	exploiting sets of independent moves in vrp	2018	-6.407599851966755	4.242140634284524	2839613
+2841132	Theory	the travelling salesman problem for finite-sized cities	2010	-7.021595303410299	4.33991584918006	2841159
+2841444	AI	iterative flattening search for resource constrained scheduling	2010	-6.535662388097747	4.275370078363824	2841471
+2842254	AI	a multi-objective simulated annealing algorithm for permutation flow shop scheduling problem	2011	-6.3013156283109275	4.130793541193253	2842281
+2846899	PL	a novel reduction algorithm for the generalized traveling salesman problem	2017	-7.051470603145153	3.968593061101902	2846926
+2847717	Theory	a linear algorithm for computing the optimum university timetable	1973	-6.274309102589804	3.769556138464455	2847744
+2851256	Embedded	hybrid monkey search algorithm for flow shop scheduling problem under makespan and total flow time	2017	-6.5791347506165865	3.631600522765333	2851283
+2851409	AI	increasing the efficiency of selected grid search procedures through the introduction of a best step mechanism	1999	-6.7445776249748	3.844085107862453	2851436
+2858170	EDA	a multi-objective optimization approach for the integration and test order problem	2014	-6.839408413442341	4.4965358031391816	2858197
+2859254	AI	a hybrid tp+pls algorithm for bi-objective flow-shop scheduling problems	2011	-6.539079464750889	3.874070875759605	2859281
+2860273	EDA	a population algorithm based on randomized tabu thresholding for the multi-commodity pickup-and-delivery traveling salesman problem	2019	-6.4221604517985424	4.4798953861268105	2860300
+2862170	AI	discrete optimal view path planning	2015	-7.074363777193677	4.517867918302881	2862197
+2867917	AI	heuristic approaches for the probabilistic traveling salesman problem	2015	-7.048529331996307	3.92129472430544	2867944
+2867971	AI	parallel local search	2018	-6.466333227673401	4.2683318976859566	2867998
+2870445	Robotics	a simulated annealing heuristic for the multiconstraint team orienteering problem with multiple time windows	2015	-6.294201168270949	4.359129156252399	2870472
+2870516	Theory	ant colony systems for the single-machine total weighted earliness tardiness scheduling problem	2016	-6.268521473246138	3.953059946669168	2870543
+2870773	AI	solving the traveling tournament problem with iterative-deepening a	2012	-6.399552150321192	4.431673822409307	2870800
+2875142	ML	towards solving tspn with arbitrary neighborhoods: a hybrid solution	2017	-6.97835829453134	4.38331312813308	2875169
+2875188	AI	grasp with path-relinking for the generalized quadratic assignment problem	2011	-6.7891008975087725	4.105407850601253	2875215
+2875297	AI	solving the multidimensional maximum bisection problem by a genetic algorithm and variable neighborhood search	2018	-6.941969033003256	3.8671909664313975	2875324
+2881181	Robotics	evolutionary algorithms for the resource constrained scheduling problem	2008	-6.316053776669133	3.76394216040626	2881208
+2881207	ML	doubly-rooted stem-and-cycle ejection chain algorithm for the asymmetric traveling salesman problem	2016	-7.119518431949799	4.4844193496299	2881234
+2883717	DB	global optimization and constraint satisfaction	2002	-6.8629745552516175	4.498370493183973	2883744
+2887293	EDA	hybrid approaches based on simulated annealing and an exact algorithm for mixed integer programming problems	2012	-6.634350920930957	4.366561198729575	2887320
+2888191	Logic	a new polynomial time algorithm for 0-1 multiple knapsack problem based on dominant principles	2008	-7.063001834748933	3.8517042895467983	2888218
+2888569	Theory	multilevel refinement for combinatorial optimisation problems	2004	-7.197564651391361	3.737440666116432	2888596
+2888594	AI	a novel local search algorithm with configuration checking and scoring mechanism for the set k-covering problem	2017	-6.736648169288428	3.711885835873269	2888621
+2889581	ML	routing optimization algorithms based on node compression in big data environment	2017	-6.901659274764285	4.1930560857898245	2889608
+2893726	EDA	research on optimization of transportation-loading	2011	-6.72324644854274	4.325411428840478	2893753
+2894380	AI	organizing a social event - a difficult problem of combinatorial optimization	1996	-6.545661074681298	4.436237335129139	2894407
+2900445	AI	a survey of local search methods for graph coloring	2006	-7.048841689258626	4.275665607056469	2900472
+2900877	Vision	a fast large neighborhood search for disjunctively constrained knapsack problems	2014	-6.828247063405149	4.338421247343159	2900904
+2901346	Theory	a simulated annealing for reconstructing hv-convex binary matrices	2010	-7.105234642530677	4.4143326705335095	2901373
+2903361	ML	intensification and diversification strategies with tabu search: one-machine problem with weighted tardiness objective	2000	-6.477548020738403	3.715348932291026	2903388
+2905854	AI	solving the task assignment problem using harmony search algorithm	2013	-6.314948156125894	3.8096436396722932	2905881
+2907266	AI	three approximation algorithms for solving the generalized segregated storage problem	2004	-6.665781921060543	3.879850797552742	2907293
+2912809	AI	a new approach for multi-criteria scheduling	2015	-6.463381044774583	4.106303664968282	2912836
+2913290	Robotics	justification and rcpsp: a technique that pays	2005	-6.419457851873799	3.847599946618173	2913317
+2915446	AI	pruning search spaces by dominance rules: a case study in the job shop scheduling	2010	-6.327618785127119	4.1978359766501985	2915473
+2919037	Theory	solving unbounded knapsack problem based on quantum genetic algorithms	2010	-6.346570882858454	4.061414613871101	2919064
+2921404	Theory	a comparison of two methods for solving 0-1 integer programs using a general purpose simulated annealing algorithm	1996	-6.878326009854324	4.396995610339475	2921431
+2922596	Theory	beware the parameters: estimation of distribution algorithms applied to circles in a square packing	2012	-7.09246036622967	4.47531317234735	2922623
+2922846	AI	greedy randomized adaptive search procedure with exterior path relinking for differential dispersion minimization	2015	-6.857567298982962	3.819158763505007	2922873
+2925691	Theory	methods for the one-dimensional space allocation problem	1990	-6.8909193023599515	4.268155675339859	2925718
+2926582	DB	an efficient memetic algorithm for themax-bisection problem	2014	-7.208826797901981	3.9808848767454377	2926609
+2927055	Theory	mathematical programming algorithms for bin packing problems with item fragmentation	2014	-6.271259628672667	4.4757916857048325	2927082
+2928795	AI	a memetic algorithm with a large neighborhood crossover operator for the generalized traveling salesman problem	2010	-6.918152461825461	3.7859674935206686	2928822
+2932220	ML	binarization methods for shuffled frog leaping algorithms that solve set covering problems	2015	-7.101653236038689	3.769382906282958	2932247
+2933667	AI	an assignment-based local search method for solving vehicle routing problems	2005	-6.43064398544905	3.909157704691048	2933694
+2935072	AI	tabu search algorithm with neural tabu mechanism for the cyclic job shop problem	2016	-6.317721735379374	4.2114577835457325	2935099
+2936151	Theory	a heuristic algorithm for finding cost-effective solutions to real-world school bus routing problems	2018	-7.025189565091088	4.40728538682347	2936178
+2936518	Logic	a genetic algorithm for solving rcpsp	2008	-6.267634611800362	3.9240862348900984	2936545
+2939375	AI	a hybrid genetic algorithm for the distributed permutation flowshop scheduling problem	2011	-6.274355661029291	3.9266798305960937	2939402
+2941637	Arch	integrating list heuristics into genetic algorithms for multiprocessor scheduling	1996	-6.340333601599783	4.163456067078207	2941664
+2942228	AI	efficient cuts for generating the non-dominated vectors for multiple objective integer linear programming	2012	-6.965809047405004	4.478979370725313	2942255
+2944184	AI	algorithms for single machine total tardiness scheduling with sequence dependent setups	2006	-6.5315122628552045	3.648922550146584	2944211
+2944455	AI	triangulation of bayesian networks by retriangulation	2003	-7.164509390673309	4.086292556364395	2944482
+2948559	AI	the orienteering problem: a survey	2011	-6.288988924399898	4.544307583756661	2948586
+2948966	AI	design of heat exchanger networks using randomized algorithm	2006	-6.968334116552457	4.565613360640018	2948993
+2949095	Theory	a memetic algorithm for the biobjective minimum spanning tree problem	2006	-6.971363401989829	3.6596775120226734	2949122
+2950401	Theory	parallel taboo search techniques for the job shop scheduling problem	1994	-6.7781062033161446	4.506986152454821	2950428
+2951158	AI	ant colony system with characterization-based heuristics for a bottled-products distribution logistics system	2014	-6.408915445856303	3.8276113024580143	2951185
+2951785	PL	target-oriented branch and bound method for global optimization	2003	-7.132417666800885	4.36864218502451	2951812
+2954644	AI	new benchmark instances for the capacitated vehicle routing problem	2017	-6.719708224029826	3.6162565111698437	2954671
+2958081	AI	tabu search algorithm combined with global perturbation for packing arbitrary sized circles into a circular container	2011	-6.912831564879031	3.884407383094899	2958108
+2958338	ECom	pre-processing and linear-decomposition algorithm to solve the k-colorability problem	2004	-7.0148958412836695	3.8428400605823865	2958365
+2959421	AI	introduction to dimacs workshop on constraint programming and large scale discrete optimization	1998	-6.658334482789549	4.232725319313426	2959448
+2961146	AI	path relinking for bandwidth coloring problem	2014	-7.128120714322248	3.7569228282927436	2961173
+2962134	DB	metaheuristics for the job-shop scheduling problem with machine availability constraints	2018	-6.3659322760160535	4.2438000211796165	2962161
+2963880	Robotics	a multiple-neighborhoods-based simulated annealing algorithm for timetable problem	2003	-6.590891282055129	3.707947998814695	2963907
+2967238	Theory	a simulated annealing algorithm with the random compound move for the sequential partitioning problem of directed acyclic graphs	1999	-7.111847730939792	4.267298742257664	2967265
+2968131	EDA	a gismoo algorithm for a multi-objective permutation flowshop with sequence-dependent setup times	2015	-6.2804966892929075	4.090056213030583	2968158
+2968304	Logic	an adaptive meta-heuiristic approach using partial optimization to non-convex polygons allocation problem	2001	-6.896259614945487	4.323968539278969	2968331
+2968506	Logic	the application of multilevel refinement to the vehicle routing problem	2007	-6.6393828334019895	3.9246898485797135	2968533
+2969571	AI	local search metaheuristics for the critical node problem	2016	-7.06717127820797	4.4396400139562004	2969598
+2970915	AI	counting-based search: branching heuristics for constraint satisfaction problems	2012	-6.584397067053713	3.7191755586779283	2970942
+2973904	Theory	performance evaluation of vector implementations of combinatorial algorithms	1984	-6.74427744421434	4.401023223373499	2973931
+2973962	Robotics	multiobjective 0/1 knapsack problem using adaptive epsilon-dominance	2004	-6.823472778870161	4.002640044782858	2973989
+2974459	EDA	max-flow min-cut algorithm with application to road networks: max-flow min-cut algorithm for large scale road networks	2017	-6.308452773266053	4.455903181346631	2974486
+2975856	ML	an application of the neural network energy function to machine sequencing	2005	-6.356198279370277	4.565262943049048	2975883
+2980631	Theory	on finding representative non-dominated points for bi-objective integer network flow problems	2014	-6.956786302802824	4.269590805719485	2980658
+2983722	AI	the quadratic multiple knapsack problem and three heuristic approaches to it	2006	-7.03882223484034	3.9388070248125553	2983749
+2983850	DB	improving the performance of independenttask assignment heuristics minmin,maxmin and sufferage	2014	-6.692413674103268	4.21911556735537	2983877
+2984022	HPC	counting and enumeration complexity with application to multicriteria scheduling	2005	-6.904373730175692	3.962842198915181	2984049
+2989678	AI	an efficient local search heuristic with row weighting for the unicost set covering problem	2015	-6.578515428845392	3.92705205846898	2989705
+2992413	AI	an improved ant colony optimisation heuristic for graph colouring	2008	-6.968962250096803	3.712495530408989	2992440
+2992738	Crypto	parallel random search and tabu search for the minimal consistent subset selection problem	1998	-6.782400410724641	3.926386998294663	2992765
+2995199	AI	a genetic algorithm for the permutation flow shop-problem: a parametric study	2016	-6.3558852611267005	4.040572279510712	2995226
+2995522	Robotics	a simulated annealing and hill-climbing algorithm for the traveling tournament problem	2006	-6.796463003123952	3.728219306853497	2995549
+2998911	Arch	assignment of frequency lists in frequency hopping networks	2005	-6.851598804567372	4.028467986673674	2998938
+2999964	Logic	a branch and bound algorithm for a class of biobjective mixed integer programs	2014	-6.5934501502185725	4.477455135932196	2999991
+3000714	AI	introduction to the special issue on variable neighborhood search	2008	-6.663730820067519	4.00629256841635	3000741
+3002177	ML	an examination scheduling model to maximize students' study time	1997	-6.5251278762366836	4.046792386625814	3002204
+3003890	AI	improving the efficiency of dynamic programming on tree decompositions via machine learning	2015	-7.074283823899901	4.107868358300518	3003917
+3005659	Robotics	efficient iterated greedy algorithm to minimize makespan for the no-wait flowshop with sequence dependent setup times	2012	-6.564751020277253	4.023030278648009	3005686
+3005793	AI	simultaneous mixed-integer dynamic optimization for integrated design and control	2007	-6.283899249586749	4.056265629273566	3005820
+3007074	AI	stochastic local search for the optimal winner determination problem in combinatorial auctions	2008	-6.528176795820594	3.6919552745383055	3007101
+3008259	Robotics	a modified harmony search for flow shop scheduling problem	2016	-6.5168595923402926	3.66903932384857	3008286
+3015584	AI	a new hybrid multi-objective pareto archive pso algorithm for a bi-objective job shop scheduling problem	2011	-6.404808073594049	3.760538336752	3015611
+3016331	Robotics	a note on heuristic approach based on ubqp formulation of the maximum diversity problem	2017	-6.7452836465875645	4.1003243850189035	3016358
+3016518	AI	an efficient implementation for the 0-1 multi-objective knapsack problem	2007	-6.905240904339684	3.9433998181238077	3016545
+3016614	Vision	an action-space-based global optimization algorithm for packing circles into a square container	2015	-7.116193243524974	4.249086081435804	3016641
+3016662	AI	competitive genetic algorithms for the open-shop scheduling problem	2000	-6.948808074196641	3.6859829515104208	3016689
+3017303	AI	a heuristic two-phase solution approach for the multi-objective dial-a-ride problem	2009	-6.632372438622832	4.507693554751595	3017330
+3017900	AI	combining heuristics for optimizing a neural net solution to the traveling salesman problem	1990	-7.155267832729869	3.855881063763173	3017927
+3019315	DB	a discrete differential evolution algorithm for the permutation flowshop scheduling problem	2008	-6.746368645958201	3.773882197400469	3019342
+3021294	SE	minimizing the total flow time for lot streaming flow shop using an effective discrete harmony search algorithm	2011	-6.364200696875047	3.9035773101021065	3021321
+3024041	AI	a novel grasp solution approach for the orienteering problem	2016	-6.728594997692076	3.6828347806759703	3024068
+3024667	AI	an extended mathematical programming framework	2009	-6.956007327183767	4.356877492674034	3024694
+3029455	AI	a tabu search algorithm for solving the extended maximal availability location problem	2011	-6.510377601211707	4.2571101108280365	3029482
+3029752	AI	space defragmentation heuristic for 2d and 3d bin packing problems	2011	-6.914738521830688	4.484822388744728	3029779
+3029800	HPC	an improved discrete particle swarm optimization algorithm for a single batch-processing machine with non-identical job sizes	2009	-6.271295049883838	3.9730750873663054	3029827
+3031162	ML	variable neighborhood search for google machine reassignment problem	2012	-6.584578032794982	3.650953011279612	3031189
+3032529	Robotics	the matroid team surviving orienteers problem: constrained routing of heterogeneous teams with risky traversal	2017	-6.376287889054936	4.4239636340472135	3032556
+3035073	AI	search for all d-mincuts of a limited-flow network	2002	-7.121675632610719	4.130506079454399	3035100
+3044806	AI	an improved binary particle swarm optimization for unit commitment problem	2009	-6.298872427980088	3.7342854287366833	3044833
+3046833	AI	concrete planning in planics framework by combining smt with geo and simulated annealing	2016	-7.098267755973956	4.290379475018764	3046860
+3050483	Robotics	goods distribution based on simulation annealing and dynamic programming	2013	-6.763578703282735	4.028128986078564	3050510
+3050518	Logic	iterative relaxation-based heuristics for the multiple-choice multidimensional knapsack problem	2009	-6.726496228997662	3.732432283379557	3050545
+3050617	AI	an minlp solution method for a water network problem	2006	-6.894101409489481	4.522635612122427	3050644
+3055387	AI	an empirical study of meta-heuristics applied to 2d rectangular bin packing - part i	2002	-6.322877338258837	3.623738565810047	3055414
+3056142	Theory	hybrid genetic algorithm for permutation flowshop scheduling problems with total flowtime minimization	2009	-6.721395097423907	3.812706511398975	3056169
+3056823	AI	simulated annealing approach for the constrained shortest path with fuzzy arc and node weights	2009	-6.353896539640242	3.9292888093616702	3056850
+3061949	Theory	computing the metric dimension of graphs by genetic algorithms	2009	-6.962274224528001	4.448732245363157	3061976
+3064070	AI	a genetic algorithm with priority rules for solving job-shop scheduling problems	2009	-6.413296890875249	4.224158580262657	3064097
+3065545	EDA	a novel grouping heuristic algorithm for the switch location problem based on a hybrid dual harmony search technique	2011	-6.3939583843208325	3.6970158005514984	3065572
+3065969	Robotics	variable neighborhood scatter search for the incremental graph drawing problem	2017	-6.958008717409352	4.446199730588322	3065996
+3066888	AI	popmusic for the world location-routing problem	2013	-6.967739762532517	4.2944521613336715	3066915
+3069237	DB	solving binary-state multi-objective reliability redundancy allocation series-parallel problem using efficient epsilon-constraint, multi-start partial bound enumeration algorithm, and dea	2012	-6.432626607696289	3.872577199256913	3069264
+3074044	AI	roulette wheel graph colouring for solving examination timetabling problems	2009	-6.3189004304082514	4.109689583406467	3074071
+3076864	AI	solving the winner determination problem via a weighted maximum clique heuristic	2015	-6.560189052711022	4.439224908177712	3076891
+3077292	Logic	solving the equality generalized traveling salesman problem using the lin-kernighan-helsgaun algorithm	2015	-7.000624671292425	4.421298923412683	3077319
+3078275	AI	local search intensified: very large-scale variable neighborhood search for the multi-resource generalized assignment problem	2009	-6.631729634515343	4.553108625188538	3078302
+3079610	EDA	a java implementation of the branch and bound algorithm : the probabilistic traveling salesman problem	2015	-6.939575590025058	4.076930277202441	3079637
+3081191	AI	solving the job shop scheduling problem with operators by depth-first heuristic search enhanced with global pruning rules	2015	-6.648743645192669	3.773870581355951	3081218
+3083610	Robotics	variable neighborhood search for a colored traveling salesman problem	2018	-6.519389371665131	4.309887524439274	3083637
+3087938	AI	boolean lexicographic optimization: algorithms & applications	2011	-6.897016242750043	4.437647212096848	3087965
+3088776	AI	design and evaluation of tabu search algorithms formultiprocessor scheduling	1998	-6.35125265592659	4.2444580969000345	3088803
+3089019	AI	on improved least flexibility first heuristics superior for packing and stock cutting problems	2005	-6.835825952069117	4.39505250262142	3089046
+3103145	AI	large neighbourhood search with adaptive guided ejection search for the pickup and delivery problem with time windows	2018	-6.44137259376351	3.802562927427656	3103172
+3104316	ML	neural network architecture optimization through submodularity and supermodularity	2016	-7.033949261585934	3.6197188769111097	3104343
+3105670	AI	a hybrid variable neighborhood search algorithm for solving multi-objective flexible job shop problems	2010	-6.322572970158298	3.880923537279324	3105697
+3108032	AI	greedy randomized adaptive search procedure with path-relinking for the vertex p-center problem	2017	-7.029619100591292	3.9747580953139856	3108059
+3108735	Robotics	stochastic offline programming	2009	-6.3429678287572715	4.443727632793535	3108762
+3111506	Vision	simulated annealing for the unconstrained quadratic pseudo-boolean function	1998	-6.889543995121322	4.140316655660038	3111533
+3115900	AI	on investigation of interdependence between sub-problems of the travelling thief problem	2016	-6.374334023906687	3.773150677527884	3115927
+3119332	AI	minsat versus maxsat for optimization problems	2013	-6.922309862856585	3.7750590624436255	3119359
+3121120	AI	a new grouping genetic algorithm for the quadratic multiple knapsack problem	2007	-6.6419652288677575	4.2008306569523635	3121147
+3121168	AI	an ant colony system for permutation flow-shop sequencing	2004	-6.616444457745982	3.7850182882156194	3121195
+3123867	Robotics	comparison of three algorithms for solving the convergent demand responsive transportation problem	2006	-6.601363621850893	4.504478948534709	3123894
+3124726	Theory	single machine weighted tardiness problem: an algorithm and experimentation system	2018	-6.301877061206371	3.7080328381886662	3124753
+3125271	Theory	neighborhood search algorithms for guaranteeing optimal traveling salesman tours must be inefficient	1976	-6.888073652155094	4.449783587878566	3125298
+3126209	ML	ibrahim h. osman and james p. kelly (eds.), meta-heuristics: theory and applications	1999	-6.846406206723972	4.411829713060087	3126236
+3127269	Theory	libcoopt: a library for combinatorial optimization on partial permutation matrices	2017	-7.032019644935005	4.199551931541243	3127296
+3128907	AI	bounds-consistent local search	2005	-6.600840906460968	3.663093557565537	3128934
+3130788	Theory	a genetic algorithm applied to the maximum flow problem	1993	-7.0703052098361585	4.180802537229407	3130815
+3131315	AI	improving the initialization and repair heuristics to effectively solve the pickup and delivery problems with time windows	2004	-6.304511679729553	4.1271070921874795	3131342
+3132228	AI	an improved branch-and-bound clustering approach for data partitioning	2011	-7.068255506923298	3.729676026215656	3132255
+3132292	AI	fuzzy integer linear programming mathematical models for examination timetable problem.	2013	-6.2679118714016475	3.7148319688900937	3132319
+3133441	AI	cost impact guided lns	2014	-6.608328734644583	3.721045837970085	3133468
+3134060	AI	heuristics of the branch-cut-and-price-framework scip	2007	-6.749151924632741	4.443532543522016	3134087
+3134617	ML	a comprehensive benchmark set and heuristics for the traveling thief problem	2014	-6.500034609014052	3.805189960979578	3134644
+3136466	AI	a guided local search approach for the travelling thief problem	2018	-6.302874015025214	3.867599236609665	3136493
+3136503	AI	a framework for analyzing sub-optimal performance of local search algorithms	2011	-6.833697392917352	4.560636348453472	3136530
+3142351	Vision	an improved differential evolution algorithm for mixed-model assembly sequencing	2011	-6.476991322395581	3.8702305996484263	3142378
+3143789	Embedded	performance guarantees of local search for multiprocessor scheduling	2001	-7.1199583399893855	4.222424360061344	3143816
+3153618	Robotics	a discrete particle swarm optimization algorithm with self-adaptive diversity control for the permutation flowshop problem with blocking	2012	-6.608177315522612	3.6404521346227545	3153645
+3153633	AI	an iterated tabu search heuristic for the single source capacitated facility location problem	2015	-6.481049963305326	4.0402020046496325	3153660
+3154308	Theory	heuristic and exact approaches for the open capacitated arc routing problem	2012	-6.740197174114837	4.12420566727519	3154335
+3156849	EDA	particle swarm algorithm for weighted rectangle placement	2007	-6.677236042563888	4.162117641981489	3156876
+3160127	AI	a local search based approach for solving the travelling thief problem: the pros and cons	2017	-6.540654178680063	3.6735231992966	3160154
+3160342	DB	formation of a near optimal solution for raster region having min/max cell value	2012	-6.586532109965853	4.547984272867232	3160369
+3163609	Embedded	near optimal assembly sequence generation	2016	-6.850489647091777	3.947561806380561	3163636
+3163899	Robotics	a new approach for workshop design	2011	-6.477137494966925	4.362588414988796	3163926
+3164038	AI	an efficient local search algorithm for the winner determination problem	2017	-6.561507937192752	4.371223017365227	3164065
+3172366	AI	construction of mixed covering arrays using a combination of simulated annealing and variable neighborhood search	2015	-6.810126308344111	3.736028669618853	3172393
+3175659	Theory	an ant colony optimization approach to the probabilistic traveling salesman problem	2002	-6.651762014291309	4.01376530365767	3175686
+3180854	Theory	analysis and solution of university examination arrangement problems	2017	-6.8407478829555	4.098248542077116	3180881
+3181269	AI	branch and bound method for multiobjective pairing selection	2010	-6.421978736787086	3.8657714298193824	3181296
+3182496	Logic	difficulties of exact methods for solving the quadratic assignment problem	1993	-7.067538351458316	3.7599585222174867	3182523
+3183158	AI	ga with priority rules for solving job-shop scheduling problems	2008	-6.311445904150041	4.383403912588408	3183185
+3183913	Robotics	design aspects of a convert routine for a large scale mathematical programming system	1981	-7.171333133394357	4.096046838272387	3183940
+3184670	AI	a knowledge-based heuristic particle swarm optimization approach with the adjustment strategy for the weighted circle packing problem	2013	-6.896683183810425	3.781103439518972	3184697
+3185166	Theory	heuristic approach for displaying chemical structures	1983	-7.1360763047888485	3.935683508114801	3185193
+3186489	AI	beam-aco based on stochastic sampling for makespan optimization concerning the tsp with time windows	2009	-6.3896669129336745	3.854927161502249	3186516
+3186882	AI	restart strategies for grasp with path-relinking heuristics	2011	-7.14796310168931	3.8285300329167216	3186909
+3187765	AI	adjacency constraints in forestry - a simulated annealing approach comparing different candidate solution generators	2014	-6.561014323044745	3.668908490561964	3187792
+3189098	ML	a binary integer programming model for global optimization of learning path discovery	2014	-6.898207136664207	4.270482525973956	3189125
+3190423	AI	learning sequential and parallel runtime distributions for randomized algorithms	2016	-6.808725116147533	3.8922337648548937	3190450
+3191614	Theory	packing equal circles in a square: a deterministic global optimization approach	2002	-7.151327650563737	4.5676535617671785	3191641
+3193196	AI	application of genetic algorithms to bin packing optimization problem	2010	-6.303866950264486	3.829464783126761	3193223
+3195666	AI	local search heuristics for the multidimensional assignment problem	2011	-7.218172615748839	3.7072001289318175	3195693
+3198079	ECom	optimization of resource location in hierarchical computer networks	1990	-6.56885952206891	4.571709237136634	3198106
+3201038	AI	a hybrid genetic search for graph partitioning based on lock gain	2000	-7.069707282263455	3.7712145777296184	3201065
+3201257	Logic	core instances for testing: a case study	2005	-7.079782642456781	4.05389815433335	3201284
+3203077	AI	multi-dimensional packing by tabu search	2002	-6.445616652714556	4.231608859126207	3203104
+3203675	Logic	new hybrid heuristic algorithm for the clustered traveling salesman problem	2018	-7.174706214874147	3.740903965610737	3203702
+3209770	AI	a nonmonotone grasp	2016	-6.868855690124152	3.815183995733675	3209797
+3210149	AI	experimental results on quadratic assignment problem	1999	-6.990269569599478	3.800367148179433	3210176
+3216385	ML	speeding up local search for the insert neighborhood in the weighted tardiness permutation flowshop problem	2017	-6.8067768946377685	3.8324649288546264	3216412
+3216959	HCI	a multi-phase covering pareto-optimal front method to multi-objective scheduling in a realistic hybrid flowshop using a hybrid metaheuristic	2009	-6.346826193377029	3.8468172279877417	3216986
+3219381	Theory	a combinatorial optimization problem arising from text classification	2003	-7.026936849017727	4.19916340465378	3219408
+3223735	AI	advances in artificial intelligence	2013	-6.3758480769667765	3.705021101715544	3223762
+3230464	Theory	building an iterative heuristic solver for a quantum annealer	2016	-7.1297295941130105	4.539933872265738	3230491
+3230974	Robotics	a hybrid genetic algorithm for the open shop scheduling problem	2000	-6.531596098981337	4.059930565471127	3231001
+3237461	AI	effective local and guided variable neighbourhood search methods for the asymmetric travelling salesman problem	2001	-6.883768451575762	3.789538188897492	3237488
+3238494	ML	an efficient memetic algorithm for the graph partitioning problem	2011	-7.226124466129247	3.8368690510018073	3238521
+3238517	EDA	a reliable solver of euclidean traveling salesman problems with microsoft excel add-in tools for small-size systems	2010	-6.691786425733782	4.502356701497011	3238544
+3240074	Robotics	tabu search and simulated annealing algorithms for lot-streaming in two-machine flowshop	2004	-6.4660902923301276	3.946792267053735	3240101
+3243910	EDA	genetic algorithm based heuristics for the mapping problem	1995	-6.56851745572698	3.838587774904497	3243937
+3244725	AI	a customized particle swarm method to solve highway alignment optimization problem	2013	-6.320274145419277	3.9790373304743905	3244752
+3246772	Robotics	simulated annealing and tabu search approaches to unidirectional flowpath design for automated guided vehicle systems	1994	-6.468481502153276	4.344485321769998	3246799
+3248083	AI	solving the resource-constrained project scheduling problem using filter-and-fan approach	2008	-6.74298772893171	3.807555423555428	3248110
+3249821	EDA	sensitivity analysis in neural net solutions	1989	-7.229633306716071	3.656450774795129	3249848
+3249922	EDA	a multi-thread branch-and-bound algorithm for the traveling salesperson problem	1999	-7.013171738512582	4.064382096753774	3249949
+3253767	Vision	computational algorithmic generation of high-quality colour patterns	2013	-6.9350713640789925	3.6646253914030296	3253794
+3253864	AI	job shop scheduling by local search	1992	-7.024936373008926	3.921083456797285	3253891
+3254582	Robotics	a particle swarm optimization for resource-constrained multi-project scheduling problem	2007	-6.331231057824267	3.7122597292049813	3254609
+3256684	Theory	a multistage evolutionary algorithm for the timetable problem	1999	-6.469802591972591	3.620992097584189	3256711
+3258675	EDA	an ant colony optimization algorithm for solving group steiner problem	2013	-6.949312985922545	4.513516113208986	3258702
+3261407	EDA	classification of various neighborhood operations for the nurse scheduling problem	2000	-6.921616973318771	4.4590026412658865	3261434
+3262931	AI	a tabu search method guided by shifting bottleneck for the job shop scheduling problem	2000	-6.382275473114975	4.285836918448313	3262958
+3263582	Theory	parallel search algorithms for discrete optimization problems	1995	-6.666091549462355	4.4175493534269386	3263609
+3266458	EDA	optimization over the efficient set	1995	-7.194348807444374	4.442558541970059	3266485
+3266610	Theory	permutation flowshop scheduling problem using classical neh, ils-esp operator	2013	-6.473681287724241	3.7890060392576137	3266637
+3267850	AI	foundations of the pareto iterated local search metaheuristic	2008	-6.5540803394419775	3.658389557604418	3267877
+3269766	PL	search tree-based approach for the p-median problem using the ant colony optimization algorithm	2014	-6.835748691601133	3.6960777555006548	3269793
+3271101	AI	randomized heuristics for the family traveling salesperson problem	2014	-6.843347351736359	4.0218028448279	3271128
+3274849	AI	lateness minimization with tabu search for job shop scheduling problem with sequence dependent setup times	2013	-6.354148749583199	4.248567903127353	3274876
+3275113	Theory	an efficient gvns for solving traveling salesman problem with time windows	2012	-6.6969717438913845	4.31870674052006	3275140
+3275245	Robotics	disciplined convex-concave programming	2016	-7.119248158444918	4.415010246990871	3275272
+3277789	Robotics	building university timetables using constraint logic programming	1995	-6.742895284422332	4.358965410324531	3277816
+3279184	NLP	solving an arc-routing problem using artificial ants with a graph transformation	2010	-7.09313794128178	4.071959062121246	3279211
+3279832	Robotics	a tabu search algorithm for frequency assignment	1996	-6.418885770128611	4.494166050797818	3279859
+3284724	AI	multi-objective optimization through pareto minimal correction subsets	2018	-6.805118075081509	4.232738583679299	3284751
+3285420	AI	an immune evolutionary approach for the label printing problem	2014	-6.324920499500712	3.62354186282165	3285447
+3285990	Theory	rapid physarum algorithm for shortest path problem	2014	-6.562444381275627	3.6448224238491953	3286017
+3286228	AI	constraint programming and hybrid formula-tions for three life designs	2002	-6.972302006304457	4.2989727005190295	3286255
+3292350	DB	"""corrigendum to """"new rigorous one-step milp formulation for heat exchanger network synthesis"""" [computers & chemical engineering 29 (2005) 1945-1976]"""	2006	-6.788913092357001	4.1706358751980135	3292377
+3296972	Robotics	an information theoretic feature selection framework based on integer programming	2016	-7.228613044788021	3.767734343084224	3296999
+3298382	SE	hybrid algorithms based on integer programming for the search of prioritized test data in software product lines	2017	-7.152753491767718	3.773383339007669	3298409
+3300394	AI	text summarization model based on redundancy-constrained knapsack problem	2012	-7.135672639614512	4.364236967987189	3300421
+3301412	AI	multi-objective particle swarm optimization algorithm for scheduling in flowshops to minimize makespan, total flowtime and completion time variance	2007	-6.352864939144112	3.79112990229266	3301439
+3302842	AI	airp: a heuristic algorithm for solving the unrelated parallel machine scheduling problem	2014	-6.460476083947924	4.149072552187114	3302869
+3306308	Crypto	faster mip solutions via new node selection rules	2010	-6.708791384434482	4.218716024057786	3306335
+3307102	NLP	the genetic algorithm based route finding method for alternative paths	1998	-6.7286298299300284	3.616390048174383	3307129
+3308368	Theory	set partitioning based heuristics for interactive routing	1981	-6.643152603371742	4.443788709579873	3308395
+3308387	AI	heuristic algorithm for min-max vehicle routing problems	2012	-6.471418736386188	3.6685391499262456	3308414
+3309679	AI	solving pattern nesting problems with genetic algorithms employing task decomposition and contact detection	1995	-6.715653666287336	4.366784469044811	3309706
+3310268	AI	an approximation approach for solving the subpath planning problem	2016	-6.552113411208223	4.186451963313915	3310295
+3313948	AI	a hybrid quantum-classical approach to solving scheduling problems	2016	-6.8009508022867	3.704404521300834	3313975
+3314353	Robotics	combinatorial optimization problems in wireless switch design	2007	-6.349026649334442	3.7964250614653112	3314380
+3318176	AI	sequential quadratic programming method with a global search strategy on the cutting-stock problem with rotatable polygons	2012	-6.467354018439883	4.391086027097856	3318203
+3318794	AI	local search heuristics for quadratic unconstrained binary optimization (qubo)	2007	-6.756945555114132	4.086944482420274	3318821
+3321203	AI	minimizing total earliness and tardiness penalties with a common due date on a single-machine using a discrete particle swarm optimization algorithm	2006	-6.4551514616890175	4.241139316394866	3321230
+3322985	AI	multi-neighborhood based path relinking for two-sided assembly line balancing problem	2016	-6.288804958570268	4.559812070829908	3323012
+3325619	Theory	heuristically aided set-covering algorithms	1974	-6.817853608755423	4.143452669334047	3325646
+3326589	ML	a tabu search approach to automated map generalisation	2002	-7.087353746159582	4.382744337623952	3326616
+3327454	AI	variable block insertion heuristic for the quadratic assignment problem	2017	-6.7496850220962985	4.189658302599085	3327481
+3328777	AI	a hybrid evolutionary approach for the single-machine total weighted tardiness problem	2017	-6.539687274694432	4.134691037839364	3328804
+3328868	AI	new graph-based algorithms to efficiently solve large scale open pit mining optimisation problems	2016	-6.77296507549826	3.6657352738806575	3328895
+3329856	AI	diversification-driven tabu search for unconstrained binary quadratic problems	2010	-6.950074179383093	3.6511486719349615	3329883
+3333577	AI	harmony search with greedy shuffle for nurse rostering	2012	-6.705957478289504	3.6800912475917014	3333604
+3335096	Theory	comparison of mathematical programming software: a case study using discrete l1 approximation codes	1987	-7.108806190692722	4.3295424073812825	3335123
+3337401	Robotics	adaptation of ant supercolony behavior to solve route assignment problem in integers	2018	-6.632796141578893	3.6477169509107368	3337428
+3339053	AI	an adaptive multi-population genetic algorithm to solve the multi-objective group scheduling problem in hybrid flexible flowshop with sequence-dependent setup times	2011	-6.332820579497793	3.9359215365814695	3339080
+3341927	Theory	perturbation heuristics for the pickup and delivery traveling salesman problem	2002	-6.674798176234004	4.067129856428462	3341954
+3348259	AI	a variable depth sequential search heuristic for the quadratic assignment problem	2009	-6.825832420896872	4.450709091197798	3348286
+3348264	AI	a constraint programming framework for local search methods	1999	-6.616240548387688	3.622825600955049	3348291
+3348322	HPC	hardware configuration selection through discretizing a continuous variable solution	1980	-6.324256399861056	4.481630329132996	3348349
+3349103	AI	consistency checking within local search applied to the frequency assignment with polarization problem	2003	-6.557384758779457	4.468324972454692	3349130
+3349616	Theory	a grasp algorithm to solve the unicost set covering problem	2007	-6.842985348693638	3.6939080163780034	3349643
+3353489	AI	further extension of the tsp assign neighborhood	2005	-6.742321121860432	4.3857906225060495	3353516
+3353645	Vision	a study on greedy search to improve simulated annealing for large-scale traveling salesman problem	2017	-6.67710497246509	3.7166605202277263	3353672
+3355253	AI	an enhanced dynasearch neighborhood for the single-machine total weighted tardiness scheduling problem	2004	-6.848369100183025	4.5136657357780665	3355280
+3356756	AI	a lévy flight embedded particle swarm optimization for multi-objective parallel-machine scheduling with learning and adapting considerations	2016	-6.5686745145220256	3.665787368573279	3356783
+3356814	EDA	heuristic method of forming up the schemes of layouts of industrial complexes.	1971	-7.072808340051032	3.9764315507840187	3356841
+3357036	AI	the travelling salesperson problem with hotel selection	2012	-6.288496675828716	4.277371455462616	3357063
+3357111	Robotics	ant colony optimization for winner determination in combinatorial auctions	2007	-6.706607655469076	3.6951224106632106	3357138
+3359508	AI	a genetic algorithm for packing in three dimensions	1992	-7.069589668041656	4.131387016797921	3359535
+3361920	Robotics	an event grouping based algorithm for university course timetabling problem	2016	-6.3793672370467975	3.893572107231221	3361947
+3363085	EDA	a biased random-key genetic algorithm for the unequal area facility layout problem	2015	-6.534627202113312	4.2747124242173715	3363112
+3363622	AI	extended artificial chromosomes genetic algorithm for permutation flowshop scheduling problems	2012	-6.53594176478385	3.7305829770562937	3363649
+3365807	ML	a branch-and-bound algorithm for the time-dependent travelling salesman problem	2018	-6.491254526644638	4.157659076165423	3365834
+3370069	AI	theoretical and experimental analysis of the jurema branch-and-bound method	2011	-6.918704238573531	3.641771015172593	3370096
+3370781	AI	an adaptive learning approach for no-wait flowshop scheduling problems to minimize makespan	2011	-6.280212508103152	4.5674452305412485	3370808
+3371265	Robotics	a genetic algorithm approach to the simultaneous scheduling of machines and automated guided vehicles	1997	-6.462737949186634	4.217474481000991	3371292
+3371840	AI	worst-case study of local search for max-k-sat	2003	-7.076333937136733	4.3577016491304414	3371867
+3373081	Theory	a penalty-based edge assembly memetic algorithm for the vehicle routing problem with time windows	2010	-6.609989984350643	3.9443491123073846	3373108
+3374744	SE	evolutionary based heuristic for bin packing problem	2008	-7.138446471599503	3.8932144401192783	3374771
+3374959	EDA	a brain storm optimization approach for the cumulative capacitated vehicle routing problem	2018	-6.543419694962304	3.998506446822418	3374986
+3376338	Theory	the lock scheduling problem (het sluisplanningsprobleem)	2013	-7.052551269808557	4.335867490632474	3376365
+3376551	Robotics	hybridizing grasp, probe and path relinking	2004	-6.503742393584328	3.749909584429888	3376578
+3376983	Theory	using bound sets in multiobjective optimization: application to the biobjective binary knapsack problem	2010	-6.846164607639572	4.1272760585931785	3377010
+3378074	DB	benchmarking and data envelopment analysis. an approach based on metaheuristics	2014	-6.3654645836819	4.0418954351961585	3378101
+3378694	AI	search space reduction and russian doll search	2007	-6.641814606604407	4.052056299065535	3378721
+3380589	Theory	a relaxation-based pruning technique for a class of stochastic shortest path problems	1996	-7.0353819271055285	3.95595488853427	3380616
+3381055	ML	option-based monte carlo algorithm with conditioned updating to learn conflict-free task allocation in transport applications	2011	-6.576681490097162	4.0984285636376825	3381082
+3381385	NLP	an evolutionary approach for tuning parametric esau and williams heuristics	2012	-7.004499162335616	3.633151673849461	3381412
+3382936	ML	constructing classification trees using column generation	2018	-6.745378911344418	4.401155932144372	3382963
+3382939	Logic	an iterated-tabu-search heuristic for a variant of the partial set covering problem	2014	-6.4255781217621175	3.680757682141754	3382966
+3383112	Theory	a general framework for nested variable neighborhood search	2017	-6.637293993858737	3.7701231457389537	3383139
+3386287	EDA	a generic branch-and-cut algorithm for multiobjective optimization problems: application to the multilabel traveling salesman problem	2012	-7.116753234796045	4.460864393145002	3386314
+3387007	Robotics	a tabu search procedure for the resource-constrained project scheduling problem with alternative subgraphs	2019	-6.409132758803049	3.642515135081532	3387034
+3391264	AI	pipelining memetic algorithms, constraint satisfaction, and local search for course timetabling	2009	-6.311084301144012	3.6692969308295686	3391291
+3392691	AI	data mining-based decomposition for solving the maxsat problem: toward a new approach	2017	-6.755269995962584	3.663351211169768	3392718
+3395743	AI	hybrid multi-objective methods to solve reentrant shops	2012	-6.477757621898737	4.1978206012455335	3395770
+3398445	AI	a new stochastic local search approach for computing preferred extensions of abstract argumentation.	2016	-7.096336894777053	4.477011702179486	3398472
+3400800	AI	a family of stochastic programming test problems based on a model for tactical manpower planning	2005	-6.34234054719708	4.3339525587326095	3400827
+3401232	Theory	a biased random key genetic algorithm applied to the electric distribution network reconfiguration problem	2017	-6.4424870291116285	3.791573777369776	3401259
+3402455	DB	randomized adaptive spatial decoupling for large-scale vehicle routing with time windows	2007	-6.268336275609269	4.178903561221763	3402482
+3403507	Theory	an effective implementation of the lin-kernighan traveling salesman heuristic	2000	-7.158122545513222	3.792708480267714	3403534
+3404363	Metrics	efficient nested pricing in the simplex algorithm	2008	-6.2987164574770125	4.389157646317417	3404390
+3405884	DB	"""erratum to """"optimization of multipurpose process plant operations: a multi-time-scale maintenance and production scheduling approach"""" [comput. chem. eng., 99 (2017) 325-339]"""	2017	-6.6097071020358165	4.385114824897989	3405911
+3406902	PL	experimental examination of facilities layout problems in logistics systems including objects with diverse sizes and shapes	2015	-7.092522959789264	4.005011933127491	3406929
+3409421	EDA	limited-damage a*: a path search algorithm that considers damage as a feasibility criterion	2011	-6.9880541248329715	4.025517643880791	3409448
+3411892	AI	solving the balanced academic curriculum problem with an hybridization of genetic algorithm and constraint propagation	2006	-6.491578936077793	4.4562219183676595	3411919
+3412119	Logic	a new heuristic for solving the p-median problem in the plane	2013	-7.095375688913945	3.9852419971467263	3412146
+3412310	EDA	a novel trust-tech guided branch-and-bound method for nonlinear integer programming	2015	-6.9682599079151695	4.523443108824374	3412337
+3412536	ML	multilevel refinement for combinatorial optimisation: boosting metaheuristic performance	2008	-7.217494059807548	3.782988718540484	3412563
+3415783	EDA	optimising network design for micro-seismic/acoustic emission around excavations of arbitrary shape	1994	-7.217632727481412	4.164322004172699	3415810
+3416344	Theory	a compressed annealing approach with pre-process for the asymmetric traveling salesman problem with time windows	2011	-6.739857728673992	3.900775414314686	3416371
+3418542	AI	a large neighborhood search heuristic for graph coloring	2007	-7.193985563359817	4.338318534858998	3418569
+3419696	AI	on bridging the gap between stochastic integer programming and mip solver technologies	2004	-6.816026478434278	4.254761751866804	3419723
+3420963	Robotics	a two-phase genetic and set partitioning approach for the vehicle routing problem with time windows	2004	-6.914811627553779	4.358754509897307	3420990
+3423413	AI	solving the multidimensional multiple-choice knapsack problem by constructing convex hulls	2006	-6.738346236754914	4.308981248514598	3423440
+3423696	ML	planning with uncertainty in action outcomes as linear programming problem	2009	-6.54742486398099	4.531678957130153	3423723
+3426021	AI	a tabu search approach to the constraint satisfaction problem as a general problem solver	1998	-6.423957090439579	3.664700383880592	3426048
+3429975	AI	iterated local search algorithm for the linear ordering problem with cumulative costs (lopcc)	2011	-6.489145916275598	3.8862461527897914	3430002
+3430042	AI	a hybrid genetic algorithm for the quadratic assignment problem	2000	-6.937114133171847	3.779721399078943	3430069
+3431659	Theory	a multiperiod minimal spanning tree problem	2006	-7.221624127909732	4.259415798788002	3431686
+3431830	EDA	grasp with path relinking for the symmetric euclidean clustered traveling salesman problem	2013	-7.19528629254094	4.241208274803928	3431857
+3432102	AI	heuristic subset selection in classical planning	2016	-6.728395202562642	4.27304055737382	3432129
+3432417	Theory	differential evolution algorithm with local search for capacitated vehicle routing problem	2015	-6.428538924727	3.686456453824946	3432444
+3432687	DB	a distributed multilevel ant-colony algorithm for the multi-way graph partitioning	2011	-6.637631002562625	3.696882363012658	3432714
+3433565	AI	a general variable neighborhood search algorithm for the no-idle permutation flowshop scheduling problem	2013	-6.614204656743438	3.825554219282786	3433592
+3443382	AI	reactive grasp for the strip-packing problem	2008	-6.8437469822615675	4.547745987427127	3443409
+3444148	HPC	a new weighted pathfinding algorithms to reduce the search time on grid maps	2017	-6.59602397451205	4.240366340801547	3444175
+3445454	HPC	a genetic algorithm for file and task placement in a distributed system	1994	-6.64886032516005	4.415959269754483	3445481
+3446801	EDA	research on limited buffer scheduling problems in flexible flow shops with setup times	2018	-6.347188007725316	3.7160030030138147	3446828
+3447613	AI	genetic algorithm for the one-commodity pickup-and-delivery traveling salesman problem	2009	-6.334040170453732	3.9656093599255664	3447640
+3448168	AI	gsa: scheduling and allocation using genetic algorithm	1994	-6.274741230916714	3.987861048977332	3448195
+3448263	AI	a variable iterated greedy algorithm for the traveling salesman problem with time windows	2014	-6.554975725580528	3.6629269378253984	3448290
+3453058	AI	a heuristic algorithm for the job shop scheduling problem	2004	-6.5170898236126655	4.46887026484978	3453085
+3454369	Logic	neighborhood synthesis from an ensemble of mip and cp models	2016	-6.764967574084424	3.948810752872202	3454396
+3456596	AI	local search in histogram construction	2010	-7.215056607431038	3.9542199865603727	3456623
+3456990	Robotics	a hybrid heuristic for the 0–1 knapsack problem with items of irregular shape	2012	-6.969982202698088	4.219313882676986	3457017
+3458420	AI	a comparison of heuristics for the discrete cost multicommodity network optimization problem	2003	-6.965236445871974	4.346211279115767	3458447
+3459657	DB	resource leveling based on line of balance and constraint programming	2018	-7.051877622435174	4.249587220485027	3459684
+3460018	AI	discussion on: 'solving transient scheduling problems with constraint programming' by o. korbaa, p. yim, and j.-c. gentina	2000	-7.070504899117348	4.3790557614892975	3460045
+3460763	HCI	how does different algorithm work when applied on the different road networks when optimal location of facilities is searched for in rural areas	2013	-6.456286451998855	4.364172317244481	3460790
+3460765	AI	enhancements to the localized genetic algorithm for large scale capacitated vehicle routing problems	2013	-6.568122056969153	4.192499301385023	3460792
+3460795	AI	a hierarchical algorithm based on density peaks clustering and ant colony optimization for traveling salesman problem	2018	-6.748772850909448	3.8780638983704687	3460822
+3461751	AI	experimental complexity analysis of continuous constraint satisfaction problems	2003	-6.934009771298424	4.033737185372966	3461778
+3461981	DB	algorithm engineering (dagstuhl seminar 13391)	2013	-6.73644611964809	4.473379861034684	3462008
+3463136	Theory	parallel simulated annealing for the vehicle routing problem with time windows	2002	-6.559612675982634	3.7812516481444436	3463163
+3463722	ML	popmusic for the point feature label placement problem	2009	-6.798046880703702	4.411065918185909	3463749
+3464210	AI	new hybrid genetic algorithm for solving optimal communication spanning tree problem	2011	-6.922732684481635	3.811066143215154	3464237
+3465342	AI	comparison of stochastic and approximation algorithms for one-dimensional cutting problems	2005	-6.647899523547152	4.23189132401437	3465369
+3466822	AI	local search genetic algorithm for optimal design of reliable networks	1997	-6.912716842617612	3.6215412058919503	3466849
+3467585	AI	minimal perturbation problem in course timetabling	2004	-6.742801758169985	3.66145242739062	3467612
+3468205	Robotics	adaptive and opportunistic exploitation of tree-decompositions for weighted csps	2017	-7.0386035862398915	3.757785825866588	3468232
+3469515	Theory	a genetic algorithm for the unequal area facility layout problem	2012	-6.8465157533740095	4.298129999015753	3469542
+3473419	Robotics	adaptive tabu search and variable neighborhood descent for packing unequal circles into a square	2018	-6.504473201341487	3.6788089651844222	3473446
+3474902	EDA	a new heuristic for the period traveling salesman problem	1995	-6.797326453919541	3.6727590870367344	3474929
+3475570	Robotics	the multiple traveling salesmen problem with moving targets and nonlinear trajectories	2017	-7.123278351370642	4.0504456215256806	3475597
+3476529	Robotics	solving combinatorial optimization problems with fuzzy weights	2008	-6.630580824009748	3.9333764684304815	3476556
+3482540	EDA	a novel genetic algorithm for the layout optimization problem	2007	-6.640558757999684	3.8464279953045377	3482567
+3485114	ML	airline crew scheduling with potts neurons	1997	-6.50877874957834	4.557889621526792	3485141
+3486671	Theory	a hybrid genetic algorithm for constrained combinatorial problems: an application to promotion planning problems	2010	-6.484075181904457	3.799876531009682	3486698
+3486993	AI	infrastructure network design with a multi-model approach: comparing geometric graph theory with an agent-based implementation of an ant colony optimization	2014	-6.4211951328895225	3.668270681147791	3487020
+3487174	Web+IR	tabu search techniques for examination timetabling	2000	-6.2997951211831404	3.7522332807141487	3487201
+3487215	EDA	a new heuristic for solving the multichoice multidimensional knapsack problem	2005	-6.6859244141242105	4.173989301863463	3487242
+3488221	DB	a heuristic for the maximum value region problem in raster space	2011	-6.472063304885977	4.491653969189307	3488248
+3489484	AI	construction and reduction of the pareto set in asymmetric travelling salesman problem with two criteria	2018	-6.938113779221999	3.77543430155724	3489511
+3489532	AI	very large-scale neighborhood search for the k-constraint multiple knapsack problem	2005	-6.57428213227133	4.043773774163293	3489559
+3490008	HCI	toward effective group formation in computer-supported collaborative learning	2016	-6.989124083227988	4.33991111321732	3490035
+3491998	Robotics	heuristic-search-based light positioning according to irradiance intervals	2009	-6.8223408087276605	4.185219886326366	3492025
+3495592	AI	a hybrid multiple populations evolutionary algorithm for two-stage stochastic mixed-integer disjunctive programs	2009	-6.561757249412669	4.024800155738917	3495619
+3496532	AI	exact algorithms for k sat based on local search	2016	-7.077120566571248	4.277108298902165	3496559
+3496957	AI	iterated variable neighborhood search for the capacitated clustering problem	2016	-6.942704797485296	3.7485030236696453	3496984
+3497002	Theory	an order based memetic evolutionary algorithm for set partitioning problems	2008	-7.119861823566746	3.8427919118792855	3497029
+3498819	HCI	pathfinding strategy for multiple non-playing characters in 2.5 d game worlds	2009	-7.100475126159385	4.174375978404348	3498846
+3499818	AI	min-conflicts heuristic for multi-mode resource-constrained projects scheduling	2018	-6.397109964421373	3.914353697240323	3499845
+3499876	AI	incorporating great deluge with kempe chain neighbourhood structure for the enrolment-based course timetabling problem	2010	-6.333404975731879	3.794463751273638	3499903
+3500388	Theory	using column generation to compute lower bound sets for bi-objective combinatorial optimization problems	2015	-6.729545553044404	4.388776246130226	3500415
+3505126	AI	applying self-adaptive evolutionary algorithms to two-dimensional packing problems using a four corners' heuristic	2007	-7.067922925423718	4.005707830018987	3505153
+3509534	AI	a heuristic for solving the maximum dispersion problem	2016	-6.745373576342124	4.2741285140423	3509561
+3512437	EDA	a genetic algorithm for switchbox routing problem	1998	-7.039651899035173	3.754646023812208	3512464
+3515384	AI	limiting behavior of the target-dependent stochastic sequential assignment problem	2014	-7.073727172917455	4.276420058506567	3515411
+3515877	HCI	detecting iis in infeasible linear programmes using techniques from goal programming	1996	-7.161099853869356	4.507209070779923	3515904
+3518200	AI	bi-objective scheduling for reentrant hybrid flow shop using pareto genetic algorithm	2011	-6.299552183472309	3.8568379874681424	3518227
+3519589	Logic	a hybrid 'bee(s) algorithm' for solving container loading problems	2011	-6.734667716199268	4.12904397069296	3519616
+3520795	Robotics	an improved bl-algorithm for genetic algorithm of the orthogonal packing of rectangles	1999	-7.217107198799215	4.071454701812008	3520822
+3520821	AI	a hybrid multi-objective evolutionary optimization approach for the robust vehicle routing problem	2018	-6.279259518607984	3.9242591255602695	3520848
+3522207	NLP	a simulated annealing algorithm with a new neighborhood structure for the timetabling problem	2009	-6.694715847030758	3.6705714261745737	3522234
+3526775	Vision	local clustering organization (lco) solving a large-scale tsp	2005	-7.029079675636108	3.8331848719438746	3526802
+3527159	Robotics	hybrid approach for 2d strip packing problem using genetic algorithm	2013	-6.554798336768753	4.4180209691788415	3527186
+3534618	AI	a multi-agent algorithm for vehicle routing problem with time window	2006	-6.456817300088888	3.6314952000374143	3534645
+3538821	Crypto	benders' decomposition for curriculum-based course timetabling	2018	-6.302863436437526	4.11178985508291	3538848
+3539872	AI	breaking the billion-variable barrier in real-world optimization using a customized evolutionary algorithm	2016	-6.774268957181847	4.327441383740412	3539899
+3540013	Theory	exact hybrid algorithms for solving a bi-objective vehicle routing problem	2012	-6.335767082360033	3.790834565745708	3540040
+3541564	AI	solving dynamic single-runway aircraft landing problems with extremal optimisation	2007	-6.539265091301181	3.8934619727760578	3541591
+3543046	AI	an improved integer local search for complex scheduling problems	2004	-6.2846369265952395	4.31151179554834	3543073
+3548057	AI	a hybrid discrete differential evolution algorithm for the no-idle permutation flow shop scheduling problem with makespan criterion	2012	-6.321966164383294	4.227001425466737	3548084
+3550760	ML	an algorithm for optimizing a linear function over an integer efficient set	2009	-6.689097005799935	4.564834233339663	3550787
+3550887	Theory	an algorithm for the biobjective integer minimum cost flow problem	2001	-6.6362560212053525	4.512700262691791	3550914
+3551050	AI	a comprehensive review and evaluation of permutation flowshop heuristics to minimize flowtime	2013	-6.702896421766711	3.724684766911692	3551077
+3551177	AI	improved ant colony optimization for one-dimensional bin packing problem with precedence constraints	2007	-6.627179562855463	3.9692429898675514	3551204
+3552861	AI	a dynamic tabu search for large-scale generalised assignment problems	2001	-6.604315961687676	4.375344289388748	3552888
+3553319	ML	risk optimization with p-order conic constraints: a linear programming approach	2010	-6.704212138493062	3.9665920418386316	3553346
+3553892	DB	constrained two-dimensional non-guillotine cutting problem an evolutionary approach	2004	-6.303462349746099	4.2173768205222535	3553919
+3554586	AI	a tabu search algorithm with a new neighborhood structure for the job shop scheduling problem	2007	-6.903551735547131	4.1191806740263415	3554613
+3555652	ML	heuristic for maximizing grouping efficiency in the cell formation problem	2017	-6.426824069585249	4.27863640506183	3555679
+3556140	AI	iterated tabu search for the maximum diversity problem	2007	-6.891981125906841	3.985994617863744	3556167
+3559155	Robotics	a short note on a simple search heuristic for the diskspacking problem	2004	-7.095126073821588	4.318876524199172	3559182
+3559304	SE	relative generic computational forensic techniques	2004	-7.135066226118754	4.488350282594651	3559331
+3560869	DB	incorporating great deluge approach with kempe chain neighbourhood structure for curriculum-based course timetabling problems	2009	-6.308525531448039	3.7405597130438535	3560896
+3561290	DB	a heuristic approach for ranking items based on inputs from multiple experts	2018	-7.213797224110028	4.017747410789489	3561317
+3562038	DB	an evolutionary algorithm for no-wait flowshop problems with flowtime minimization	2011	-6.645469767795856	3.8902246758562273	3562065
+3563207	Arch	randomized heuristics for the mapping problem	1992	-7.129468388783651	3.984594384960924	3563234
+3563976	AI	evolutionary algorithms for scheduling a flowshop manufacturing cell with sequence dependent family setups	2005	-6.419652281704284	4.158116081427033	3564003
+3564849	Theory	a node current-based 2-index formulation for the fixed-destination multi-depot travelling salesman problem	2018	-6.331055579329443	3.898057395107524	3564876
+3569870	AI	generalized intelligent water drops algorithm by fuzzy local search and intersection operators on partitioning graph for path planning problem	2015	-6.680651869917026	3.769251177606176	3569897
+3573154	Vision	a new meta-method for graph partitioning	2008	-7.1254258645335	3.7438418219967766	3573181
+3573191	NLP	the traveling salesman problem: a report on the state of the art	1994	-6.946737520542003	3.798242798250597	3573218
+3573442	AI	an efficient genetic algorithm for the traveling salesman problem with precedence constraints	2002	-7.073366702540244	4.163219907601688	3573469
+3574691	EDA	a discrete artificial bee colony algorithm for the permutation flowshop scheduling problem with sequence-dependent setup times	2016	-6.294146416812652	3.812105435983726	3574718
+3578003	AI	an experimental analysis of evolutionary heuristics for the biobjective traveling purchaser problem	2012	-6.525240413281988	3.9999943578816737	3578030
+3578459	Logic	a hybrid evolutionary approach for solving the traveling thief problem	2016	-6.522585443654642	3.727153530694897	3578486
+3580026	AI	fuzzy c-means-based scenario bundling for stochastic service network design	2017	-6.427179818743356	4.511942370117778	3580053
+3580671	Theory	the mexican magical towns traveling salesman problem: preliminary results	2017	-6.586627655091529	3.618939629409589	3580698
+3581390	AI	evolutionary local search for the super-peer selection problem and the p -hub median problem	2007	-6.464167912145348	4.4675507613205685	3581417
+3581613	AI	a novel artificial immune system for solving multiobjective scheduling problems subject to special process constraint	2010	-6.35635616908129	3.7596451502879713	3581640
+3581716	Robotics	a grid-based heuristic for two-dimensional packing problems	2011	-6.915541997815146	4.324151845513531	3581743
+3583945	AI	an interactive bi-objective shortest path approach: searching for unsupported nondominated solutions	1999	-7.1090935162917015	3.775118337210365	3583972
+3584276	AI	on a two-phase solution approach for the bi-objective k-dissimilar vehicle routing problem	2018	-6.961449953397527	3.8076914592352122	3584303
+3584886	AI	a population-based fast algorithm for a billion-dimensional resource allocation problem with integer variables	2017	-6.740477132921496	4.517217655689186	3584913
+3586299	ML	density based problem space search for the capacitated clustering p-median problem	2004	-6.9541363349835175	3.8570048825436785	3586326
+3588284	DB	"""corrigendum to """"computational studies using a novel simplical-approximation based algorithm for minlp optimization"""" [computers and chemical engineering 28 (2004) 1771-1780]*"""	2005	-6.788992812388012	4.1935198017724105	3588311
+3588727	PL	jános d. pintér, ed. (2006), global optimization: scientific and engineering case studies, springer verlag nonconvex optimization and its applications series, 546 pp., isbn 0-387-30408-8	2007	-6.350854209691554	3.8653077825368	3588754
+3589399	AI	security based bi-objective flow shop scheduling model and its hybrid genetic algorithm	2014	-6.504904764149454	3.703721807807848	3589426
+3590047	AI	a simple filter-and-fan approach to the facility location problem	2006	-6.943803308086468	3.7895828443211688	3590074
+3591697	EDA	simulated annealing: a fast heuristic for some generic layout problems	1988	-7.139756139961488	3.9428766368379127	3591724
+3595694	Mobile	multi-dimensional information space view of wireless sensor networks with optimization applications	2011	-7.059168435944887	3.9830007027878307	3595721
+3598070	AI	genetic beam search for gate matrix layout	1993	-7.111739711545215	4.085636476559299	3598097
+3599735	AI	stochastic local search algorithms for abstract argumentation under stable semantics	2018	-7.160391859950415	4.424930232728611	3599762
+3601772	AI	evolutionary computation plus dynamic programming for the bi-objective travelling thief problem	2018	-6.482775843219462	3.7969521263653703	3601799
+3602755	AI	a new genetic algorithm for the asymmetric traveling salesman problem	2012	-6.650179854979534	4.519933861147249	3602782
+3602795	Theory	effective invasive weed optimization algorithms for distributed assembly permutation flowshop problem with total flowtime criterion	2019	-6.388226131352602	4.020718192457608	3602822
+3602892	AI	an ejection chain approach for the generalized assignment problem	2004	-6.891182091040897	4.133208895726882	3602919
+3607568	Theory	genetic algorithms applied to workshop problems	1998	-6.424500760970393	4.107368191069575	3607595
+3609409	DB	a novel two-level optimization approach for clustered vehicle routing problem	2018	-6.2811401673569645	4.312455877244759	3609436
+3614731	Robotics	a hybrid simulated annealing with kempe chain neighborhood for the university timetabling problem	2007	-6.845311343817295	3.8544724394027967	3614758
+3615226	AI	the problem of assigning evaluators to the articles submitted in an academic event: a practical solution incorporating constraint programming and heuristics	2004	-6.502377620046854	4.572651695199957	3615253
+3615366	HPC	parallel hybrid adventures with simulated annealing and genetic algorithms	2002	-6.4043283682840215	3.6606309299293818	3615393
+3617665	AI	a procedure-based heuristic for 0-1 multiple knapsack problems	2012	-6.5175297088862	4.546085724606967	3617692
+3617859	Theory	an evolutionary algorithm for the resource-constrained project scheduling problem with minimum and maximum time lags	2011	-6.6025507898591425	3.706654211866213	3617886
+3620315	Theory	the quadratic assignment problem: a survey and recent developments	1993	-6.521104938135596	3.7863286599430253	3620342
+3621324	AI	a decomposable self-adaptive projection-based prediction-correction algorithm for convex time space network flow problem	2014	-7.027947891304862	4.509754390712391	3621351
+3621473	AI	multi-way graph partition by stochastic probe	1993	-7.158616185526495	4.288388952957366	3621500
+3621638	EDA	two hybrid compaction algorithms for the layout optimization problem	2007	-6.624305076882037	4.221069076520204	3621665
+3622714	EDA	an intelligent approach to the irregular polygon layout problem based on adaptive artificial bee colony algorithm	2012	-6.668765076103517	4.053792715314224	3622741
+3623842	AI	iterated search methods for earliness and tardiness minimization in hybrid flowshops with due windows	2017	-6.370420559620656	4.0890508597479975	3623869
+3627216	Robotics	a pair of new positive definite-coupling operators and their algorithms	2009	-6.931755284723739	4.49655439326282	3627243
+3630148	AI	socially inspired algorithms for the travelling thief problem	2014	-6.458535994892122	3.770061431749415	3630175
+3630942	Theory	"""erratum to """"mathematical programming techniques in water network optimization"""" [eur. j. oper. res. 243(2015) 774-788]"""	2015	-6.383315102047545	4.5285728955609965	3630969
+3631106	AI	finite disjunctive programming methods for general mixed integer linear programs	2011	-7.190046118509387	4.111657418761488	3631133
+3631233	AI	population-based incremental learning algorithm for a serial colored traveling salesman problem	2018	-6.290732972791821	3.9279730140347087	3631260
+3636190	AI	dimma-implemented metaheuristics for finding shortest hamiltonian path between iranian cities using sequential doe approach for parameters tuning	2011	-6.319057809466687	3.8441443327216236	3636217
+3636661	AI	width beam and hill-climbing strategies for the three-dimensional sphere packing problem	2014	-7.083719624948442	4.51662736376773	3636688
+3637675	AI	solving the constrained p-center problem using heuristic algorithms	2011	-6.959161177478454	3.9799841315820768	3637702
+3637925	AI	an iterated local search algorithm for the lot-streaming flow shop scheduling problem	2014	-6.362562421562651	3.812533899596684	3637952
+3639597	Theory	guided ejection search for the pickup and delivery problem with time windows	2010	-6.60647324159243	4.155137801166268	3639624
+3640937	Theory	scoop: solving combinatorial optimization problems in parallel	1996	-6.978192755576256	3.892181525161009	3640964
+3641278	AI	theory and principled methods for the design of metaheuristics	2014	-6.609596880201268	3.8393295763329918	3641305
+3641485	Web+IR	least-cost network topology design for a new service - an application of tabu search	1991	-6.8154743826599695	4.312846665458953	3641512
+3642320	AI	polynomial formulation and heuristic based approach for the k-travelling repairman problem	2012	-6.3347078663191425	4.5626661249112335	3642347
+3646440	EDA	a multiobjective evolutionary algorithm for the 2d guillotine strip packing problem	2012	-6.52982370058547	4.127537507254207	3646467
+3647036	ML	a guide to conic optimisation and its applications	2018	-7.044531575424402	4.534648418470007	3647063
+3647039	ECom	solving the p-median bilevel problem with order through a hybrid heuristic	2017	-6.4783300455670805	3.9871404174575984	3647066
+3648512	AI	heuristics for vehicle routing problems: sequence or set optimization?	2018	-6.902543997879852	3.7599853591640913	3648539
+3649557	AI	on multiset selection with size constraints	2018	-7.067666618276005	3.8519955877375938	3649584
+3651345	Robotics	grasp with path relinking for the manufacturing cell formation problem considering part processing sequence	2018	-6.302599479123166	3.8928857497207145	3651372
+3652105	AI	extended guided tabu search and a new packing algorithm for the two-dimensional loading vehicle routing problem	2011	-6.829403790547693	3.6803703658226983	3652132
+3654224	ML	on the empirical scaling of run-time for finding optimal solutions to the travelling salesman problem	2014	-7.077140053584423	4.016658729785099	3654251
+3657317	AI	motion planning algorithms for the dubins travelling salesperson problem	2015	-6.959871210388394	4.473180788087205	3657344
+3657714	EDA	dependencies and configurations of solutions in multicriteria optimization in nets	2009	-7.051636968240302	4.064507549520829	3657741
+3658879	AI	restricted swap-based neighborhood search for the minimum connected dominating set problem	2017	-6.771992625267486	3.7579781764010742	3658906
+3659153	Robotics	a genetic algorithm approach for the cutting stock problem	2003	-6.316857560682001	3.9380295868564734	3659180
+3660135	Robotics	asymmetric path-relinking based heuristics for large-scale job scheduling problem in tdrss	2014	-6.425539506292133	3.6631921237442016	3660162
+3661073	Theory	ant colony optimization for resource-constrained project scheduling with generalized precedence relations	2003	-6.283959819071058	3.661720921083333	3661100
+3661341	HPC	parallel numerical optimization: current status and an annotated bibliography	1989	-6.59761816136631	3.853855948043466	3661368
+3661670	Theory	iterated tabu search for the circular open dimension problem	2013	-6.7388005984501635	4.279384124406842	3661697
+3662256	ML	learning fast optimizers for contextual stochastic integer programs	2018	-6.805635668163832	4.542390131482639	3662283
+3664210	NLP	tabu search hybridized with multiple neighborhood structures for the frequency assignment problem	2016	-6.898264344084064	3.814556189117536	3664237
+3664390	EDA	a kohonen-like decomposition method for the euclidean traveling salesman problem-knies_decompose	2003	-6.965310318195281	3.825610573937152	3664417
+3664580	ECom	algorithms for the generalized weighted frequency assignment problem	2012	-6.727667634731157	3.8129865451510634	3664607
+3667757	AI	efficient local search limitation strategies for vehicle routing problems	2008	-6.307774856268081	3.9631732182428383	3667784
+3669280	Theory	parametric enhancements of the esau-williams heuristic for the capacitated minimum spanning tree problem	2009	-6.9496285779629625	3.9314177364008542	3669307
+3672964	DB	constraint programming for high school timetabling: a scheduling-based model with hot starts	2018	-6.269649071176449	3.8653768601718697	3672991
+3673604	ECom	a multi-criteria approach to approximate solution of multiple-choice knapsack problem	2018	-7.084137765284778	4.549886145723703	3673631
+3674820	Theory	a genetic algorithm approach for set covering problems	1994	-6.996068455315885	4.029427543107813	3674847
+3675649	AI	a hybridization of simulated annealing and electromagnetism-like mechanism for a periodic job shop scheduling problem	2011	-6.435230991605973	3.6921928082199686	3675676
+3675889	Robotics	flow shop scheduling with no-wait flexible lot streaming using adaptive genetic algorithm	2007	-6.3348340050512615	3.649792434760289	3675916
+3676555	AI	efficient simulation-based discrete optimization	2004	-6.960034833859152	3.717196677482066	3676582
+3678260	NLP	heuristic concentration for the p-median: an example demonstrating how and why it works	2002	-6.3292714276223485	4.350519003443673	3678287
+3678717	Embedded	a genetic approach to statistical disclosure control	2012	-6.875929372364606	4.236408252887502	3678744
+3679967	AI	job scheduling using genetic matrix crossover operator with 2-opt inversion	1997	-6.410842438492105	3.67934865574056	3679994
+3683326	AI	local search for shift design	2004	-6.294766966233148	3.9360074932613967	3683353
+3685646	AI	a new approach to two-location joint inventory and transshipment control via l♮-convexity	2015	-6.996497469226768	4.47752335190372	3685673
+3689356	Robotics	a ga-based routing method with an upper bound constraint	2003	-7.048602845465973	3.856066650165932	3689383
+3695547	EDA	an extension to the p-median group technology algorithm	1994	-7.123018474920548	3.9515821267681694	3695574
+3696358	Theory	a note of reduced dimension optimization algorithm of assignment problem	2015	-6.8419847712207496	4.287134418095038	3696385
+3698918	AI	a reactive grasp with path relinking for capacitated clustering	2011	-6.894724996015593	4.253650212307712	3698945
+3699531	Theory	on the use of human-guided evolutionary algorithms for tackling 2d packing problems	2011	-7.117433948381053	3.8036804488224742	3699558
+3699778	Theory	a new algorithm for generating all nondominated solutions of multiobjective discrete optimization problems	2014	-6.594609044937723	4.455107105443338	3699805
+3700531	AI	an ant colony optimization algorithm for shop scheduling problems	2004	-6.310443139237963	4.273154461465055	3700558
+3700608	Robotics	matheuristic algorithms for minimizing total tardiness in the m-machine flow-shop scheduling problem	2018	-6.29354143709325	4.097819010700942	3700635
+3703269	AI	hgvprlb: a hybrid algorithm for solving binary problems	2015	-6.559810021052762	4.009637684525568	3703296
+3704805	AI	a heuristic-based bee colony algorithm for the multiprocessor scheduling problem	2010	-6.321001749750787	4.230836346541071	3704832
+3705239	Robotics	shuffled frog leaping algorithm for a bi-objective no-idle permutation flow shop	2013	-6.6287335197058095	3.622790425203843	3705266
+3706443	DB	tabu search for the cyclic bandwidth problem	2015	-7.127313156666428	4.088102035307546	3706470
+3706672	Theory	scatter search for the bandpass problem	2016	-7.076320235707137	3.6773299734919465	3706699
+3718164	AI	search space filling and shrinking based to solve constraint optimization problems	2005	-6.917414827463842	4.019852963435808	3718191
+3718793	AI	variable neighborhood search for the orienteering problem	2006	-6.518662985438398	3.720347527969779	3718820
+3722445	AI	solving bus terminal location problems using evolutionary algorithms	2011	-6.3136956842454515	3.8243568071459504	3722472
+3723009	AI	a hybrid iterated local search and variable neighborhood descent heuristic applied to the cell formation problem	2015	-6.857759225388137	3.6831314921523015	3723036
+3726082	AI	coupling stochastic and deterministic local search in examination timetabling	2007	-6.403908638251907	4.174768738593268	3726109
+3726266	AI	a polynomial time algorithm for the n-queens problem	1990	-7.218301946799696	4.061999363489612	3726293
+3726912	AI	two phased hybrid local search for the periodic capacitated arc routing problem	2018	-6.26695505359217	4.258471647543456	3726939
+3727167	AI	a genetic ant colony optimization based algorithm for solid multiple travelling salesmen problem in fuzzy rough environment	2017	-6.281442582679428	3.955864426696431	3727194
+3729302	Vision	improved branch-and-bound algorithm for u-curve optimization	2013	-6.982684103408192	3.9759353808873024	3729329
+3732754	AI	cooperative coevolution with route distance grouping for large-scale capacitated arc routing problems	2014	-7.162296496114235	3.6352568048465166	3732781
+3733117	AI	an evolutionary algorithm for an optimization model of edge bundling	2018	-6.7435086190982005	3.7682351769264217	3733144
+3735409	ML	the interplay of optimization and machine learning research	2006	-7.168200354882186	4.217425879121334	3735436
+3735448	AI	a hybrid genetic approach for garment cutting in the clothing industry	2003	-6.393793191780115	4.2214614357594265	3735475
+3738161	AI	kernel search: a general heuristic for the multi-dimensional knapsack problem	2010	-6.695607413599771	4.2176351675720785	3738188
+3738931	AI	heuristics for matrix bandwidth reduction	2006	-6.684308875313119	3.869386297556988	3738958
+3741129	ML	a simulated annealing approach to the traveling tournament problem	2003	-6.266161817887423	3.9788189684122255	3741156
+3741163	Theory	deterministic algorithms for multi-criteria max-tsp	2012	-7.105107339755081	3.9631296868151424	3741190
+3741214	EDA	a solution to the strongly correlated 0-1 knapsack problem by a binary branch and bound algorithm	2012	-7.2003440127699045	3.881590677325703	3741241
+3743952	AI	bin packing under multiple objectives - a heuristic approximation approach	2008	-6.621327790933052	3.9286819765398455	3743979
+3747669	AI	a local search approach for binary programming: feasibility search	2014	-6.629411098682625	4.388523889245306	3747696
+3750616	AI	applied partial constraint satisfaction using weighted iterative repair	1997	-6.377038286298371	3.932704719734217	3750643
+3757402	EDA	a minimum area (ma) targeting scheme for single component men and hen synthesis	2004	-6.732801904480982	4.568203954467662	3757429
+3757904	Robotics	$k$-survivability: diversity and survival of expendable robots	2016	-6.727417956859175	4.508658864547199	3757931
+3761078	Robotics	performance of simulated annealing-based heuristic for the unconstrained binary quadratic programming problem	2001	-7.073547266403693	3.6428107508707375	3761105
+3761260	EDA	constricting insertion heuristic for traveling salesman problem with neighborhoods	2013	-6.564459806377116	3.8595710581463867	3761287
+3766879	AI	a genetic algorithm for the quadratic multiple knapsack problem	2007	-6.441253982360594	3.867566645625552	3766906
+3768003	DB	the use of simulated annealing for clustering data in databases	1990	-6.8961134448620225	3.7875138351802655	3768030
+3770531	AI	a non-greedy local search heuristic for facility layout problem	2011	-6.674922143987017	4.170490972750959	3770558
+3772095	Robotics	a memetic algorithm for the orienteering problem with mandatory visits and exclusionary constraints	2018	-6.577204169685108	4.17453975614598	3772122
+3772691	Theory	a hybrid of max-min ant system and linear programming for the k-covering problem	2016	-7.0358533059563655	4.165750410418997	3772718
+3775035	EDA	using memory to improve the vns metaheuristic for the design of sdh/wdm networks	2006	-6.403170072529222	3.9470088952755296	3775062
+3775224	AI	a beam search implementation for the irregular shape packing problem	2010	-6.904705853068408	4.189038552947412	3775251
+3775531	DB	a robust and scalable algorithm for the steiner problem in graphs	2018	-7.190495133108742	4.219734633993533	3775558
+3786469	AI	a hybrid approach of genetic algorithms and local optimizers in cell loading	2005	-6.386044987148773	3.916472221261321	3786496
+3787165	Graphics	on reporting computational experiments with mathematical software	1979	-6.715489162021849	4.346910581400533	3787192
+3790319	AI	matheuristics for the capacitated p-median problem	2015	-6.436181554571811	4.105323058521829	3790346
+3791559	Logic	optimal control of hybrid systems by logic-based benders decomposition	2009	-6.7953154996179626	4.476850113497618	3791586
+3791800	AI	using experimental design to find effective parameter settings for heuristics	2001	-6.3035479264445105	3.7117522637777474	3791827
+3794531	AI	a hybrid discrete firefly algorithm for solving multi-objective flexible job shop scheduling problems	2015	-6.450622685566458	3.6273112400332006	3794558
+3798196	AI	a new neuro-dominance rule for single machine tardiness problem	2005	-6.369509557183888	4.16288630029546	3798223
+3799235	AI	a two-level diploid genetic based algorithm for solving the family traveling salesman problem	2018	-6.950847913544163	3.63879582170717	3799262
+3801770	AI	beam-aco for the travelling salesman problem with time windows	2010	-6.309953835008982	3.9751173879732917	3801797
+3802252	Vision	variable neighborhood search	2008	-7.201647669247662	4.4540694302918915	3802279
+3804396	NLP	packing circles in the smallest circle: an adaptive hybrid algorithm	2011	-7.023135637308712	4.427222106732678	3804423
+3804588	AI	a variable neighborhood search with an effective local search for uncapacitated multilevel lot-sizing problems	2014	-7.0244336480833605	3.654095903436029	3804615
+3810530	DB	a fast randomized algorithm for multi-objective query optimization	2016	-7.221244346480831	3.8283700833051184	3810557
+3813530	Robotics	a spectral clustering algorithm for manufacturing cell formation	2009	-6.960841904632107	4.230404287010845	3813557
+3815435	ML	combining variable neighborhood search with integer linear programming for the generalized minimum spanning tree problem	2008	-7.217645170800092	4.451869159623022	3815462
+3816011	ML	new ideas for applying ant colony optimization to the probabilistic tsp	2003	-6.278218777621668	4.008767036113377	3816038
+3818805	NLP	mixed integer nonlinear programming tools: an updated practical overview	2013	-7.166256308228919	4.078667394690652	3818832
+3819594	AI	new reduction strategy in the biobjective knapsack problem	2018	-6.679319249995867	3.9001237237422544	3819621
+3822731	AI	an effective evolutionary algorithm for the practical capacitated vehicle routing problems	2010	-6.544528154486418	3.6550163100290547	3822758
+3823275	Theory	the next release problem: complexity, exact algorithms and computations	2018	-6.8849127216412285	4.421185437105184	3823302
+3824959	Theory	evolving human-competitive reusable 2d strip packing heuristics	2009	-6.512160756034022	4.181473231738655	3824986
+3825731	HPC	data structures and ejection chains for solving large-scale traveling salesman problems	2005	-7.141980247184378	3.9057450491687287	3825758
+3826939	AI	co-evolutionary genetic algorithm for fuzzy flexible job shop scheduling	2012	-6.463097092303535	3.7148765249683504	3826966
+3827091	AI	a tabu search algorithm for the flowshop scheduling problem with changing neighborhoods	2008	-6.340554727602326	4.0341014303152365	3827118
+3827428	ML	bounded dual simplex algorithm: definition and structure	2013	-6.617762912636543	4.383448959877732	3827455
+3827900	AI	efficiently solving: a large-scale integer linear program using a customized genetic algorithm	2004	-6.823776009233193	3.916718788289924	3827927
+3827908	Theory	a note on the bertsimas & sim algorithm for robust combinatorial optimization problems	2013	-6.9589223190865885	4.520037140889672	3827935
+3828535	AI	a multilevel algorithm for large unconstrained binary quadratic optimization	2012	-7.177469873783048	4.069068847959505	3828562
+3838228	AI	a variable neighborhood search for the generalized vehicle routing problem with stochastic demands	2015	-6.379272539305277	4.294992707305612	3838255
+3838844	Robotics	performance enhancements to tabu search for the early/tardy scheduling problem	1998	-6.409033183074607	3.9569419352965016	3838871
+3842263	Robotics	grasp with path relinking for three-index assignment	2005	-6.869715082902768	4.266549283291591	3842290
+3845441	Vision	$\hbox{mawa}^{\ast}$—a memory-bounded anytime heuristic-search algorithm	2011	-6.83016087481532	4.373596345449863	3845468
+3849409	EDA	a heuristic particle swarm optimization with quasi-human strategy for weighted circles packing problem	2012	-7.10914567889264	3.9860859810991	3849436
+3853975	AI	connectedness and local search for bicriteria knapsack problems	2011	-7.220002612611219	3.955287792810643	3854002
+3855367	Theory	a two-phase algorithm for the biobjective integer minimum cost flow problem	2009	-6.810777134095843	4.506749220175988	3855394
+3856126	AI	an efficient iterated greedy algorithm for the makespan blocking flow shop scheduling problem	2016	-6.389928011057657	4.153612894965273	3856153
+3859337	AI	solving the steiner tree problem in graphs with variable neighborhood descent	2018	-7.073192815301009	3.791827498102312	3859364
+3859599	Theory	setting parameters by example	2003	-7.161762392283412	4.5084974475861195	3859626
+3861689	Embedded	optimization of university course scheduling problem with a hybrid artificial bee colony algorithm	2011	-6.387164166130309	3.621007532240037	3861716
+3862350	ML	one-dimensional cutting stock problem to minimize the number of different patterns	2003	-6.377662762815982	4.545944501554173	3862377
+3863218	AI	comparing two evolutionary algorithm based methods for layout generation: dense packing versus subdivision	2014	-6.979346214109628	4.225408243606526	3863245
+3864415	AI	flexible job-shop scheduling problems	2005	-6.516993049187884	4.415323374383768	3864442
+3864608	Theory	constrained circles packing test problems: all the optimal solutions known	2010	-7.164336612025214	4.331568021997305	3864635
+3864729	AI	hybrid adaptive large neighborhood search for the optimal statistic median problem	2012	-6.5822527426076185	4.287710579518417	3864756
+3864887	AI	optimization of one-dimensional bin packing problem with island parallel grouping genetic algorithms	2014	-6.6585536336780216	3.8786113892375176	3864914
+3865579	SE	an efficient implementation of a static move descriptor-based local search heuristic	2013	-7.031357036539244	3.6305496948442917	3865606
+3866663	Theory	complexity and stop conditions for np as general assignment problems, the travel salesman problem in r2, knight tour problem and boolean satisfiability problem	2016	-6.930276313277577	4.562231421764609	3866690
+3868119	EDA	local search and combinatorial optimization: from structural analysis of a problem to efficient algorithms design	2013	-7.094948073601298	4.245813540862473	3868146
+3870595	AI	a combinatorial algorithm for the cardinality constrained portfolio optimization problem	2014	-6.589349045204885	4.201904707220096	3870622
+3872492	AI	variable neighborhood search for the vertex weighted k	2006	-6.988019103226277	4.093485092254253	3872519
+3874072	AI	an effective memetic algorithm with population management for the split delivery vehicle routing problem	2007	-6.6699002183932965	3.738882808372167	3874099
+3875999	SE	analysis of commercial and free and open source solvers for the cell suppression problem	2013	-6.467232823559537	4.482744895797074	3876026
+3878409	AI	an empirical investigation of meta-heuristic and heuristic algorithms for a 2d packing problem	2001	-6.4603419799576915	4.167307376230197	3878436
+3879661	Vision	a simple and efficient multi-component algorithm for solving dynamic function optimisation problems	2007	-7.153221144317527	4.05105728658018	3879688
+3880242	Theory	simulated n-body: new particle physics-based heuristics for a euclidean location-allocation problem	2001	-6.821523305174832	4.447387931812493	3880269
+3880753	AI	the balanced academic curriculum problem revisited	2012	-6.416387890712727	4.2710225032909	3880780
+3882544	HCI	an efficient evolutionary algorithm for locating long-term care facilities	2012	-6.381589716233082	4.120969475789062	3882571
+3889333	ML	a new method for optimizing a linear function over the efficient set of a multiobjective integer program	2017	-7.020904835448865	4.370028948966247	3889360
+3896155	Theory	experimental evaluation of two approaches to optimal recombination for permutation problems	2016	-6.482518450804388	4.509491286705877	3896182
+3901405	Theory	an exact constraint logic programming algorithm for the traveling salesman problem with time windows	1998	-6.450455662242106	4.375930244773418	3901432
+3902622	AI	scatter search for mixed blocking flowshop scheduling	2017	-6.612754708961699	4.15170886963832	3902649
+3903201	Theory	transformation of the generalized traveling-salesman problem into the standard traveling-salesman problem	1993	-6.839367583311322	4.5670265439169935	3903228
+3903217	Vision	solving the problem of packing equal and unequal circles in a circular container	2010	-7.1203968426745945	4.083144351293072	3903244
+3903277	EDA	a genetic algorithm for the optimization of cable routing	2006	-6.391604167634952	4.1663442174602325	3903304
+3905523	AI	flexible job-shop scheduling with parallel variable neighborhood search algorithm	2010	-6.2860305273912624	4.046337698015114	3905550
+3908162	Theory	a new approach for bicriteria partitioning problem	2015	-7.002121570158027	4.419989313354788	3908189
+3910744	EDA	on finding most optimal rectangular package plans	1982	-6.8985273807166525	4.270979388326319	3910771
+3911497	AI	global solution approach for a nonconvex minlp problem in product portfolio optimization	2005	-6.346186570615934	4.337492364983091	3911524
+3915473	AI	an evolutionary approach to generalized biobjective traveling salesperson problem	2017	-7.226978899707887	4.448186922156794	3915500
+3916211	HPC	dna computing and its application	2008	-6.803188550325865	4.159079009023669	3916238
+3919075	AI	a meta-heuristic with orthogonal experiment for the set covering problem	2004	-6.282400436178308	3.7399163469591903	3919102
+3919728	Networks	primal simplex network codes: state-of-the-art implementation technology	1978	-7.1651023696251865	4.451247620594564	3919755
+3920412	EDA	distributed evolutionary algorithms with adaptive migration period	2011	-6.2931318333466795	3.677530790117733	3920439
+3923166	Theory	resolution of the 0-1 knapsack problem: comparison of methods	1975	-6.656689104594566	4.130858575214556	3923193
+3927408	AI	a simple tabu search for warehouse location	2004	-6.624538544999031	4.033506090653434	3927435
+3928380	DB	an efficient procedure for finding best compromise solutions to the multi-objective assignment problem	2014	-6.790801829625157	3.619091375641559	3928407
+3935425	AI	repetitive branch-and-bound using constraint programming for constrained minimum sum-of-squares clustering	2016	-7.0839993046378185	4.228310201611197	3935452
+3936241	ML	area aggregation in map generalisation by mixed-integer programming	2010	-6.7154507372265275	4.433953908800029	3936268
+3936506	Embedded	an improved scatter search algorithm for the single machine total weighted tardiness scheduling problem with sequence-dependent setup times	2015	-6.686107176253454	3.995408401039815	3936533
+3937943	AI	hybrid paco with enhanced pheromone initialization for solving the vehicle routing problem with time windows	2015	-6.428474357491312	3.667740168110936	3937970
+3938264	AI	common feature techniques for discrete optimization	1976	-6.879044386251793	4.000705229643	3938291
+3940264	Theory	cut-first branch-and-price second for the capacitated arc-routing problem	2014	-6.369608421022988	4.310206427273816	3940291
+3941159	EDA	a relaxation scheme for tsp-based 3d printing path optimizer	2016	-6.505054670495117	3.7063467074901517	3941186
+3942029	DB	a genetic approach to statistical disclosure control	2009	-6.84758756648441	4.224526835795737	3942056
+3944065	Robotics	some heuristic methods for solving p-median problems with a coverage constraint	2012	-6.351749448354108	4.55666315438496	3944092
+3944357	AI	an adaptive large neighborhood search with learning automata for the unrelated parallel machine scheduling problem	2017	-6.457428413020443	4.146290740696751	3944384
+3945241	AI	nlptoolbox: an open-source nonlinear programming tool	2009	-7.188205179643339	4.2374325457559685	3945268
+3945871	AI	ant colony optimization for the ship berthing problem	1999	-7.193701490782659	3.65464354277521	3945898
+3947038	EDA	ant-colony algorithms for permutation flowshop scheduling to minimize makespan/total flowtime of jobs	2004	-6.735688441425547	3.907557668093895	3947065
+3949567	EDA	a novel minimal exposure path problem in wireless sensor networks and its solution algorithm	2016	-6.620724174214399	3.9849205235162284	3949594
+3952327	ML	a branch-and-cut algorithm for the continuous error localization problem in data cleaning	2007	-6.781801754788461	4.4940740441560525	3952354
+3954879	AI	construct, merge, solve and adapt: application to unbalanced minimum common string partition	2016	-7.137416911444722	4.394005820255556	3954906
+3956226	AI	approximate backbone based multilevel algorithm for next release problem	2010	-6.876214608067027	3.89231788533818	3956253
+3957115	AI	a multiobjective genetic algorithm for automatic orthogonal graph drawing	2011	-7.098006896911357	3.9856845903402975	3957142
+3959713	Theory	a genetic algorithm for job shop scheduling problems with alternate routing	1998	-6.405175866120463	4.411625305542453	3959740
+3960424	AI	using local search to speed up filtering algorithms for some np-hard constraints	2011	-7.1236025609579405	4.266542868694785	3960451
+3960899	HPC	parallel search-based methods in optimization	1996	-6.530667938754507	3.744219616611415	3960926
+3964971	Theory	a better step-off algorithm for the knapsack problem	1980	-6.772469766468094	4.365076620898617	3964998
+3965400	AI	a problem of finding an acceptable variant in generalized project networks	2005	-7.0129524102874194	4.131336361176748	3965427
+3965746	NLP	evolutionary codings and operators for the terminal assignment problem	2009	-7.163519761007388	3.984121272398207	3965773
+3967088	AI	mixed neighbourhood local search for customer order scheduling problem.	2018	-6.6325019476599625	3.979731695304883	3967115
+3967683	ML	stochastic offline programming	2009	-6.323637216378758	4.502005589643208	3967710
+3967993	Robotics	an improved decomposition-based heuristic to design a water distribution network for an irrigation system	2014	-6.433772605714911	4.189127857902027	3968020
+3973758	AI	genetic local search algorithms for single machine scheduling problems with release time	2006	-6.440232926174088	4.347395968712105	3973785
+3977291	Robotics	multiobjective heuristic search in and/or graphs	1995	-7.214015597629567	3.820685583486597	3977318
+3977906	Robotics	an efficient discrete particle swarm algorithm for task assignment problems	2009	-6.596311745382311	3.684686967469339	3977933
+3979257	AI	a tabu search heuristic for the team orienteering problem	2005	-6.340003624392434	4.096636319994313	3979284
+3979291	Vision	uniting probabilistic methods for optimization	1992	-6.609399717058753	3.8730576467508038	3979318
+3982135	Arch	knowledge-based successive linear programming for linearly constrained optimization	1988	-6.728767070632273	4.2750906380934115	3982162
+3983001	Robotics	grasp for set packing problems	2004	-6.462928828429535	3.663172800272769	3983028
+3986327	HCI	'hang on a minute': investigations on the effects of delayed objective functions in multiobjective optimization	2013	-6.397600783833338	3.8014882423972214	3986354
+3987341	Robotics	meals: a multiobjective evolutionary algorithm with local search for solving the bi-objective ring star problem	2016	-6.516642623273287	3.9254370550430178	3987368
+3989045	AI	an iterated greedy heuristic for no-wait flow shops with sequence dependent setup times, learning and forgetting effects	2018	-6.6852455140350004	3.7175759051089794	3989072
+3990735	Robotics	a decomposition-based genetic algorithm for the resource-constrained project-scheduling problem	2007	-6.407069237477795	4.2505095710105465	3990762
+3991704	EDA	comparison of two distributed fault diagnosis approaches based on binary integer linear programming (bilp) optimization	2018	-7.226858193468567	4.1579770897951365	3991731
+3991797	Robotics	implemental techniques and their effectives for evolutionary algorithms used to solve multilevel lot sizing problems	2010	-6.3134793928826864	3.731778654394216	3991824
+3993676	EDA	synthesis of industrial systems based on value analysis	2007	-6.5802710128876605	4.53061214992204	3993703
+3993699	ML	the boolean quadratic programming problem with generalized upper bound constraints	2017	-7.143689325295599	4.062148444033566	3993726
+3994152	AI	simultaneously construct irt-based parallel tests based on an adapted clonalg algorithm	2011	-6.6323655750179125	4.119069447117046	3994179
+3994190	EDA	parallel genetic algorithm for the uncapacited single allocation hub location problem on gpu	2016	-6.938407275512557	3.9211793834732096	3994217
+3994268	Theory	new upper bounds for the permutation flowshop scheduling problem	2005	-6.677565232942794	3.772287840304686	3994295
+3994636	Theory	optimization problems in computer network design	1981	-6.833976183277152	3.828091414942128	3994663
+3995618	AI	boolean lexicographic optimization	2010	-6.92191605710442	4.405443135697341	3995645
+4002602	AI	single-point stochastic search algorithms for the multi-level lot-sizing problem	2005	-6.564458811401216	3.9273076954431163	4002629
+4004420	Theory	hybrid evolutionary algorithms for the rectilinear steiner tree problem using fitness estimation	2006	-7.203191293978811	4.212351936863207	4004447
+4009310	AI	fast pareto front approximation for cloud instance pool optimization	2015	-6.524830349560845	3.738041626463913	4009337
+4013787	AI	a metaheuristic framework for stochastic combinatorial optimization problems based on gpgpu with a case study on the probabilistic traveling salesman problem with deadlines	2013	-6.4340808334488795	3.826195389054612	4013814
+4013827	AI	a computational study of the pseudo-boolean approach to the p-median problem applied to cell formation	2011	-6.351298076397151	4.451311104376165	4013854
+4014156	PL	icos: a branch and bound based solver for rigorous global optimization	2009	-6.52215770943238	4.3732659560009335	4014183
+4017664	AI	a new modeling and solution approach for the number partitioning problem	2005	-7.1623775839955135	4.516965336217434	4017691
+4018878	AI	an iterated greedy algorithm for the large-scale unrelated parallel machines scheduling problem	2013	-6.674707862689316	3.675232979263217	4018905
+4021067	AI	product design optimization using ant colony and bee algorithms: a comparison	2013	-6.402561192853334	3.6538743000543783	4021094
+4022247	AI	solving the uncapacitated facility location problem using tabu search	2006	-6.309748107442073	4.4708780619862445	4022274
+4028137	AI	parallel hybrid genetic algorithms for solving q3ap on computational grid	2012	-6.354789126422403	4.204575923325497	4028164
+4028852	AI	an effective estimation of distribution algorithm for solving uniform parallel machine scheduling problem with precedence constraints	2016	-6.441548312287062	3.698885307829741	4028879
+4030735	AI	an imperialist competitive algorithm for multi-objective u-type assembly line design	2013	-6.381546563198143	3.7387116894260366	4030762
+4042686	Theory	optimal priority rating of resources-allocation by dynamic programming	1967	-6.987602701028438	4.235624687485907	4042713
+4044766	Robotics	the network programming method in control over target programs	2014	-6.348643763807907	4.4585705508958	4044793
+4044955	AI	efficiently packing unequal disks in a circle	2008	-7.042426496444357	4.096497666407192	4044982
+4046024	AI	a learning-based probabilistic tabu search for the uncapacitated single allocation hub location problem	2018	-6.308520557980484	4.038159531488013	4046051
+4046186	ML	the undirected rural postman problem solved by the max-min ant system	2009	-6.999482987334442	4.293269029375788	4046213
+4046795	AI	a clustering search metaheuristic for the point-feature cartographic label placement problem	2014	-6.889482786193856	3.9910568257012433	4046822
+4047388	AI	an efficient memetic algorithm for the flexible job shop with setup times	2013	-6.469922813690988	3.8349381704758976	4047415
+4047712	Theory	a probabilistic traveling salesman problem: a survey.	2014	-6.673656177408192	4.430322056774856	4047739
+4049676	AI	a comparison of optimization techniques for integrated manufacturing planning and scheduling	1996	-6.532283293083945	3.679656816840801	4049703
+4050239	AI	solving the uncapacitated hub location problem using genetic algorithms	2005	-6.480623548737537	4.5531346348259785	4050266
+4050675	AI	simulation optimization with the linear move and exchange move optimization algorithm	1999	-6.265672682358131	3.817875839567843	4050702
+4050775	AI	a computational study of local search algorithms for job shop scheduling	1994	-6.8141974235032885	4.3384978719266885	4050802
+4051538	Robotics	an immune genetic algorithm for inter-cell layout problem in cellular manufacturing system	2016	-6.61951637003792	3.748910599815573	4051565
+4055078	AI	scheduling cellular manufacturing systems using aco and ga	2012	-6.275671914870192	4.477532545228082	4055105
+4055562	Robotics	a novel ant colony optimization algorithm for u-shaped line balancing problem	2008	-6.369157333762787	4.117926450097279	4055589
+4055807	Logic	comparing a weiszfeld's-based procedure and (1+1)-es for solving the planar single-facility location-routing problem	2015	-7.13276869634317	3.9093506090037202	4055834
+4057370	AI	solving the 3-staged 2-dimensional cutting stock problem by dynamic programming and variable neighborhood search	2015	-6.775577724717152	4.384725879572195	4057397
+4063354	AI	an efficient genetic algorithm for solving the multi-level uncapacitated facility location problem	2010	-6.423952517681937	4.201663105239567	4063381
+4067350	Theory	tabu search for graph partitioning	1996	-6.651751398280838	4.186173014392862	4067377
+4068289	AI	strategic oscillation for the capacitated hub location problem with modular links	2016	-6.417156414364069	4.128390111833818	4068316
+4070255	Robotics	a hybrid algorithm for the capacitated vehicle routing problem with three-dimensional loading constraints	2012	-6.430521607779377	4.544367577758191	4070282
+4071786	ECom	an efficient memetic algorithm for the uncapacitated single allocation hub location problem	2013	-6.510908248314857	4.370691122573678	4071813
+4073231	PL	reformulations in mathematical programming: a computational approach	2009	-7.058069911980272	4.419638110056901	4073258
+4083179	Theory	knapsack problems: algorithms and computer implementations (s. martello and p. toth)	1993	-7.1687733199587225	4.1556620626427545	4083206
+4083522	AI	a novel hybrid multi-objective artificial bee colony algorithm for blocking lot-streaming flow shop scheduling problems	2018	-6.395278775509325	3.8724246700744263	4083549
+4088231	Logic	an improved method for solving multiobjective integer linear fractional programming problem	2014	-7.039355592942349	4.256671440312748	4088258
+4088364	Theory	using cluster barycenters for the generalized traveling salesman problem	2016	-6.689528748052803	3.7864291717182734	4088391
+4088672	Visualization	high-quality ultra-compact grid layout of grouped networks	2016	-6.993464818660946	4.162190104359507	4088699
+4088931	AI	achieving super-linear performance in parallel multi-objective evolutionary algorithms by means of cooperative coevolution	2013	-6.407422742250732	3.917032059549608	4088958
+4091097	AI	solving periodic event scheduling problems with sat	2012	-6.836005575792083	4.473551268007499	4091124
+4091977	Theory	efficient approximation of melting temperature in simulated annealing algorithms applied to chebyshev travelling salesman problem	2012	-6.609753404882571	3.809720997430664	4092004
+4098296	AI	guided construction search metaheuristics for the capacitated p-median problem with single source constraint	2007	-6.447909583215264	4.4660388395614055	4098323
+4099188	HPC	a two-level parallel genetic algorithm for the uncapacitated warehouse  location problem	2008	-6.473996984575983	3.871158413461143	4099215
+4101309	AI	a hybrid biased random key genetic algorithm approach for the unit commitment problem	2014	-6.4744555874197705	3.852449817175529	4101336
+4102523	AI	a hybrid three-phase approach for the max-mean dispersion problem	2016	-6.570686462742934	4.397518652867078	4102550
+4103078	AI	bio-inspired and heuristic methods applied to a benchmark of the task scheduling problem	2018	-6.445968474132619	3.7243890273375864	4103105
+4103669	EDA	a concise guide to the traveling salesman problem	2010	-6.9285315135426675	3.7896102769519326	4103696

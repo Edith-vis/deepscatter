@@ -1,0 +1,687 @@
+id	area	title	year	x	y	ix
+2948546	Vision	discriminative feature learning from big data for visual recognition	2015	-2.2731397579632078	-11.998422050128102	2948573
+2949845	Vision	tile art image generation using conditional generative adversarial networks	2018	-2.360241001307413	-12.361504839356707	2949872
+2950274	Vision	hamming embedding similarity-based image classification	2012	-1.555229313275743	-12.07531808293209	2950301
+2951824	Vision	if we did not have imagenet: comparison of fisher encodings and convolutional neural networks on limited training data	2015	-1.9158941546682664	-12.367847630213182	2951851
+2953926	Vision	low-shot learning from imaginary data	2018	-1.8009743068128667	-11.913777272785875	2953953
+2956576	Vision	unsupervised learning for image classification based on distribution of hierarchical feature tree	2008	-2.1593239168034324	-12.274352498526964	2956603
+2956900	AI	a systematic mapping study of computer vision approaches based on deep learning and neural network	2017	-1.750849208291061	-12.060799870061393	2956927
+2960822	Vision	unsupervised domain adaptation for semantic segmentation with gans	2017	-2.0791328910827995	-11.765756404249911	2960849
+2964548	Vision	spatially regularized latent topic model for simultaneous object discovery and segmentation	2015	-1.4675765035541624	-11.85743207199016	2964575
+2965284	ML	learning with hierarchical-deep models	2013	-1.8309088559623	-12.106151617479716	2965311
+2967927	Robotics	perception driven texture generation	2017	-2.1127272190080517	-12.638742033750106	2967954
+2970121	Vision	automatic data augmentation from massive web images for deep visual recognition	2018	-1.96352695031572	-12.385828133722056	2970148
+2970662	Vision	laplacian sparse coding of scenes for video classification	2016	-1.4693851974815366	-12.347015804908269	2970689
+2973045	Vision	dense sampling low-level statistics of local features	2009	-1.705238264072747	-12.22871495108849	2973072
+2974034	Vision	deep multi-level hashing codes for image retrieval	2016	-1.5923890113623116	-12.520893696637833	2974061
+2974525	Vision	optimol: automatic online picture collection via incremental model learning	2007	-1.5690971385986108	-12.254525230080596	2974552
+2975162	Vision	end-to-end binary representation learning via direct binary embedding	2017	-1.9768885892808832	-11.740611117217355	2975189
+2975424	Vision	human action recognition with 3d convolutional neural network	2017	-1.9115913764217651	-12.490920123207346	2975451
+2975799	Vision	exploiting negative evidence for deep latent structured models	2018	-2.3285302340052096	-12.343962963636553	2975826
+2976427	Vision	end-to-end text recognition with convolutional neural networks	2012	-2.0627648923312223	-12.657495527830884	2976454
+2977923	Vision	text to game characterization: a starting point for generative adversarial video composition	2018	-1.8350784598711225	-11.945504711569686	2977950
+2978164	Vision	fashion style in 128 floats: joint ranking and classification using weak data for feature extraction	2016	-2.1237039499111323	-12.019642393624306	2978191
+2979224	Vision	spatial markov kernels for image categorization and annotation	2011	-1.4296201915033	-12.445957698438615	2979251
+2979562	Vision	document image classification and labeling using multiple instance learning	2011	-1.671013755738615	-12.095312993100393	2979589
+2981766	ML	discriminative convolutional fisher vector network for action recognition	2017	-2.242312956546184	-11.866231910708054	2981793
+2982223	Vision	supervised learning of bag-of-features shape descriptors using sparse coding	2014	-1.5141897924856704	-12.056587926405374	2982250
+2982259	Vision	learning a recurrent residual fusion network for multimodal matching	2017	-2.204677965981627	-12.139890194840484	2982286
+2983726	Vision	action representation using classifier decision boundaries	2017	-2.1893411781649954	-11.866711290822105	2983753
+2984477	Vision	deep hashing with category mask for fast video retrieval	2017	-1.5600271991246524	-12.269302529134677	2984504
+2988541	Vision	spherical soft assignment: improving image representation in content-based image retrieval	2012	-1.7165619372585206	-12.10335927788172	2988568
+2991084	Vision	hmeanmax: placing hmax and hog into a unified framework	2013	-2.3041068227783104	-12.326084172264164	2991111
+2992052	ML	multiple-task learning and knowledge transfer using generative adversarial capsule nets	2018	-1.5464355120877709	-12.576235389667765	2992079
+2993724	Vision	learning deep descriptors with scale-aware triplet networks	2018	-2.352683812102372	-12.094985285444373	2993751
+2999841	Vision	human action recognition by fusing the outputs of individual classifiers	2016	-2.1807522807708315	-11.821916321714426	2999868
+3000443	ML	texture synthesis using convolutional neural networks	2015	-2.3858162434487227	-12.402432102987516	3000470
+3002319	Vision	exploiting relationship between attributes for improved face verification	2014	-1.7054554665370665	-12.040518897075472	3002346
+3003072	AI	semi-supervised adaptive label distribution learning for facial age estimation	2017	-2.3607392407768666	-12.578790846181388	3003099
+3003285	ML	learning task-specific similarity	2005	-1.5187492552978787	-12.051045077578975	3003312
+3007094	Vision	nearest neighbor with multi-feature metric for image annotation	2015	-1.98952004016218	-12.37511224871973	3007121
+3008315	Vision	image style transfer using convolutional neural networks	2016	-2.1478351164135234	-12.612082920566149	3008342
+3012669	Vision	improved artgan for conditional synthesis of natural image and artwork	2018	-2.158178396408196	-12.157463406742208	3012696
+3013184	Vision	domain-specific human-inspired binarized statistical image features for iris recognition	2018	-2.1131537425106166	-12.343315201934125	3013211
+3017659	Vision	multi-agent diverse generative adversarial networks	2018	-1.8707193617836424	-11.737691246027177	3017686
+3018224	AI	exploring inter-feature and inter-class relationships with deep neural networks for video classification	2014	-2.16609205964611	-12.598405301239591	3018251
+3018770	Vision	structural kernel learning for large scale multiclass object co-detection	2015	-2.1194755276798345	-12.233508736251235	3018797
+3020736	Vision	spatial-disclda for visual recognition	2011	-1.8481318786788108	-12.30763429527666	3020763
+3021429	Vision	single template object detector based on histogram of oriented gradients	2015	-2.0963274249248305	-12.221755205817818	3021456
+3021592	Vision	associative embeddings for large-scale knowledge transfer with self-assessment	2014	-1.689708234391512	-12.561149993686914	3021619
+3023251	AI	dropregion training of inception font network for high-performance chinese font recognition	2018	-2.3025975780355217	-11.761355940962513	3023278
+3024073	Robotics	design of a very compact cnn classifier for online handwritten chinese character recognition using dropweight and global pooling	2017	-2.235244312206443	-11.899589662578945	3024100
+3028918	Vision	cost-sensitive deep metric learning for fine-grained image classification	2018	-2.105761830050331	-11.869799237625232	3028945
+3032419	Vision	improving image categorization by using multiple instance learning with spatial relation	2011	-2.3639686779015303	-12.404138685588114	3032446
+3032526	Vision	kinship classification through latent adaptive subspace	2018	-2.0874437545505686	-12.007738671119414	3032553
+3034006	Vision	finding beans in burgers: deep semantic-visual embedding with localization	2018	-1.7644541265502829	-12.454609072804107	3034033
+3034362	Vision	semantic-shift for unsupervised object detection	2006	-1.5395046982974714	-12.423660170383306	3034389
+3042315	Vision	deep feature representation via multiple stack auto-encoders	2015	-2.1557911540224346	-11.88075974069902	3042342
+3043632	ML	a sparse ensemble learning system for efficient semantic indexing	2015	-1.4709806222172193	-12.056359440630159	3043659
+3047621	Vision	interpretable visual models for human perception-based object retrieval	2011	-1.7571217681460076	-12.165139115237064	3047648
+3055751	Vision	weakly supervised summarization of web videos	2017	-1.4515636176951556	-11.84308999358582	3055778
+3058535	AI	gas classification using deep convolutional neural networks	2018	-2.325839989083112	-11.816809717122064	3058562
+3060991	Vision	memory efficient large-scale image-based localization	2014	-1.499240408837049	-11.796395211228404	3061018
+3065022	Vision	cross-domain image-based 3d shape retrieval by view sequence learning	2018	-2.0445405525097007	-12.321428758171294	3065049
+3069528	AI	self-supervised deep multiple choice learning network for blind image quality assessment	2018	-2.268833035909498	-12.003438890614653	3069555
+3069980	AI	combining fisher vector and convolutional neural networks for image retrieval	2016	-1.726956529276492	-12.489386337996375	3070007
+3070117	Vision	weakly supervised learning of mid-level features with beta-bernoulli process restricted boltzmann machines	2013	-1.9161836467568347	-12.08461307285025	3070144
+3070547	Vision	simple triplet loss based on intra/inter-class metric learning for face verification	2017	-2.169284608382829	-11.996908231726938	3070574
+3071115	AI	gdmn: group decision-making network for person re-identification	2018	-2.214610369441977	-12.39701187843933	3071142
+3071243	Vision	convolution neural networks with two pathways for image style recognition	2017	-2.163481955299415	-12.674088628890278	3071270
+3073230	Vision	image decomposition with multilabel context: algorithms and applications	2011	-1.5895105194300192	-12.325721626137348	3073257
+3076517	Vision	toward high-performance online hccr: a cnn approach with dropdistortion, path signature and spatial stochastic max-pooling	2017	-2.3890062884520282	-12.004480032791989	3076544
+3079231	Vision	constructing hierarchical visual tree for discriminative image representation and classification	2013	-1.8759469754186688	-12.571490335880014	3079258
+3079340	ML	semantic kernel forests from multiple taxonomies	2012	-1.7701437454058189	-12.230987260347431	3079367
+3086227	Vision	photographic text-to-image synthesis with a hierarchically-nested adversarial network	2018	-1.9344231434105104	-12.38637515691432	3086254
+3093812	Robotics	filling the gaps: reducing the complexity of networks for multi-attribute image aesthetic prediction	2017	-1.9453578408727783	-11.941211547898787	3093839
+3094838	Vision	exploring the optimal visual vocabulary sizes for semantic concept detection	2013	-1.6783179320255062	-11.960896405591324	3094865
+3095429	Vision	objects, actions, places	2014	-1.6501218993191211	-11.930433255951685	3095456
+3097417	Vision	visual word ambiguity	2010	-1.836771111044988	-12.019906667208044	3097444
+3099327	Vision	constructing category hierarchies for visual recognition	2008	-1.810652738402832	-11.854063223612364	3099354
+3099936	Vision	higher-order integration of hierarchical convolutional activations for fine-grained visual categorization	2017	-2.238718137493126	-12.265545197550368	3099963
+3101199	Vision	boosting kernel combination for multi-class image categorization	2012	-2.1329598223777992	-12.383566127969846	3101226
+3103722	AI	learning hierarchical visual representations in deep neural networks using hierarchical linguistic labels	2018	-1.4363868962594573	-12.128841021985659	3103749
+3103948	Vision	efficient and compact visual feature descriptors hashing using hierarchical multiple assignment k-means	2017	-1.4877660239075965	-12.427620631235348	3103975
+3107193	Vision	effects of degradations on deep neural network architectures	2018	-2.3713118557625763	-12.150373759786383	3107220
+3109102	Vision	object classification using a semantic hierarchy	2014	-1.8972680878023287	-12.49787670047752	3109129
+3109268	Vision	deep self-taught hashing for image retrieval	2015	-1.4811995644890712	-11.748803591768134	3109295
+3110086	Vision	real-time convolutional neural networks for emotion and gender classification	2017	-2.2351688256650295	-12.301741244211831	3110113
+3110296	AI	exploring the cross-domain action recognition problem by deep feature learning and cross-domain learning	2018	-1.9277601795656167	-12.078587057714154	3110323
+3111432	Vision	generalized sparselet models for real-time multiclass object recognition	2015	-2.392595232678112	-11.892872403991671	3111459
+3111461	ML	scene text analysis using deep belief networks	2014	-1.9778230710322309	-12.493591143740044	3111488
+3113454	Vision	a semi-supervised incremental learning framework for sports video view classification	2006	-1.6125457110974906	-12.587457079414918	3113481
+3123828	Vision	deep attributes for one-shot face recognition	2016	-2.0795185144196147	-12.047065355563893	3123855
+3126108	Vision	mapping low-level features to high-level semantic concepts in region-based image retrieval	2005	-1.7476203476396328	-12.50517068924976	3126135
+3126558	Vision	discriminative relational representation learning for rgb-d action recognition	2016	-2.3652119787234223	-11.82881369502141	3126585
+3128400	Robotics	learning and transferring representations for image steganalysis using convolutional neural network	2016	-2.086440269146306	-11.726753827830196	3128427
+3128444	Vision	boosting vlad with double assignment using deep features for action recognition in videos	2016	-2.1063201693443	-12.272818863791873	3128471
+3129697	Vision	semantic softmax loss for zero-shot learning	2018	-2.123902599971281	-12.233223507997634	3129724
+3130662	Vision	cnn training with graph-based sample preselection: application to handwritten character recognition	2018	-1.7858779573997825	-11.957522864181774	3130689
+3131787	Vision	facenet: a unified embedding for face recognition and clustering	2015	-2.1424262070624365	-12.335872622639187	3131814
+3132115	ML	devise: a deep visual-semantic embedding model	2013	-1.5182335924981605	-12.418999000198331	3132142
+3136032	Vision	voting based video classification using clustering and learning	2009	-1.903953129159478	-12.485740359512686	3136059
+3137009	Vision	unsupervised structure learning: hierarchical recursive composition, suspicious coincidence and competitive exclusion	2008	-1.9757660355641609	-12.213893390883108	3137036
+3139408	AI	an unsupervised hierarchical feature learning framework for one-shot image recognition	2013	-1.9593763260414443	-11.8507918257601	3139435
+3145068	Vision	facenet2expnet: regularizing a deep face recognition net for expression recognition	2017	-2.3066842369452147	-11.848632510223679	3145095
+3147774	Vision	learning semantic visual vocabularies using diffusion distance	2009	-1.4527599245381893	-12.552208251503695	3147801
+3148765	Vision	hierarchical combination of semantic visual words for image classification and clustering	2015	-1.4734148639288958	-12.296148514663221	3148792
+3148901	Vision	auto-painter: cartoon image generation from sketch by using conditional wasserstein generative adversarial networks	2018	-2.171226617230549	-12.532772019130867	3148928
+3150402	AI	image classification using ensemble algorithms with deep learning and hand-crafted features	2018	-2.2244983188017704	-11.842055304732368	3150429
+3150415	Vision	self-explanatory deep salient object detection	2017	-1.950053532811228	-12.137053960581298	3150442
+3150567	Vision	evaluation of output embeddings for fine-grained image classification	2015	-1.639645086944033	-11.965717196763249	3150594
+3151529	Robotics	recognizing objects in-the-wild: where do we stand?	2018	-2.04315921296548	-12.579889320588936	3151556
+3152010	Graphics	explanatory graphs for cnns	2018	-1.7242048832036143	-11.971990243055089	3152037
+3152560	ML	content-based classification of images using centroid neural network with divergence measure	2006	-1.5417125953320294	-12.413476313245607	3152587
+3152568	AI	semantic driven hierarchical learning for energy-efficient image classification	2017	-1.916565964420736	-11.947521966856025	3152595
+3152970	Vision	object detection networks on convolutional feature maps	2017	-2.2078372527016783	-11.946011666743972	3152997
+3154593	Vision	textonboost: joint appearance, shape and context modeling for multi-class object recognition and segmentation	2006	-2.326784229039331	-12.488730484316187	3154620
+3155224	Vision	randomized max-margin compositions for visual recognition	2014	-1.9232973220371243	-11.887272719029234	3155251
+3158695	Vision	modality distillation with multiple stream networks for action recognition	2018	-2.2839621650780053	-12.039839748389767	3158722
+3159018	Vision	image style classification based on learnt deep correlation features	2018	-2.1683065180932117	-12.566101204175173	3159045
+3159876	ML	scenic: language-based scene generation	2018	-1.568247949564262	-12.435178997154464	3159903
+3160146	Vision	comparing visual feature coding for learning disjoint camera dependencies	2012	-2.3915958627968084	-11.864889861241432	3160173
+3161553	Vision	image descriptor: a genetic programming approach to multiclass texture classification	2015	-2.1667677072177485	-11.904409855644445	3161580
+3161743	Vision	convolutional recurrent neural networks for better image understanding	2016	-2.2879715789867605	-12.233418396633494	3161770
+3162090	Vision	novel modular weightless neural architectures for biometrics-based recognition	2009	-2.13242035800248	-11.736833435025822	3162117
+3164444	AI	adadnns: adaptive ensemble of deep neural networks for scene text recognition	2017	-2.2372562263362465	-12.204457629481096	3164471
+3165023	ML	aclnet: efficient end-to-end audio classification cnn.	2018	-2.0457960635959767	-12.010830382295751	3165050
+3167990	Vision	transfer learning of structured representation for face recognition	2014	-2.2474843418129704	-12.554628955028196	3168017
+3168348	Vision	detecting avocados to zucchinis: what have we done, and where are we going?	2013	-2.0461001714398432	-12.531463097328643	3168375
+3173749	Vision	unsupervised network pretraining via encoding human design	2016	-2.2482294087212304	-12.35065868753605	3173776
+3175351	Vision	multi-view pairwise relationship learning for sketch based 3d shape retrieval	2017	-2.055183506616579	-12.55896927968706	3175378
+3178245	ML	on identifying leaves: a comparison of cnn with classical ml methods	2017	-2.158146260843502	-11.894372062555316	3178272
+3180087	Vision	combining randomization and discrimination for fine-grained image categorization	2011	-1.8994313742927984	-12.34002811982768	3180114
+3180855	Vision	mid-level deep pattern mining	2015	-1.8162673139474457	-12.588019855829954	3180882
+3181747	Vision	generative semantic manipulation with contrasting gan	2017	-2.2229841949234435	-12.463128531883134	3181774
+3182160	Vision	classification of foods by transferring knowledge from imagenet dataset	2016	-1.986856942873952	-12.344824705804491	3182187
+3183110	Vision	learning attribute-aware dictionary for image classification and search	2013	-1.448142333258261	-11.951164275366022	3183137
+3185830	Vision	transferring common-sense knowledge for object detection	2018	-1.6141067317079916	-12.645593072122884	3185857
+3186950	Vision	joint bayesian guided metric learning for end-to-end face verification	2018	-2.3449085900572832	-12.297596000872819	3186977
+3187497	AI	comparing and combining unimodal methods for multimodal recognition	2016	-1.8121057283719049	-12.121187902061484	3187524
+3189307	Vision	multi-feature max-margin hierarchical bayesian model for action recognition	2015	-1.9077307709469289	-12.059593190004515	3189334
+3191861	Vision	object coding on the semantic graph for scene classification	2013	-1.8844638017976652	-12.53008692308685	3191888
+3191913	ML	real-time bag of words, approximately	2009	-1.5770018913591113	-12.632044105345097	3191940
+3192640	AI	a hybrid deep learning cnn-elm for age and gender classification	2018	-2.2114929828446783	-12.526962276694016	3192667
+3192785	NLP	extracting categories by hierarchical clustering using global relational features	2015	-1.8623917131754844	-12.304371050925095	3192812
+3193445	Vision	learning hierarchical feature extractors for image recognition	2012	-2.071320064107514	-12.095436043990164	3193472
+3193641	Vision	global-and-local attention networks for visual recognition	2018	-2.332455423682059	-12.520463885183945	3193668
+3196096	Vision	multi-level adaptive active learning for scene classification	2014	-1.6172246671727384	-12.069900968315833	3196123
+3196391	ML	deep convolutional and recurrent writer	2017	-2.264918507385996	-11.961417850428589	3196418
+3198554	ML	inducing discrimination in biologically inspired models of visual scene recognition	2013	-2.113391275755878	-11.738569993218622	3198581
+3199770	Vision	pyramid pooling of convolutional feature maps for image retrieval	2018	-1.6982365764794418	-12.566573592512471	3199797
+3199953	Vision	multi-label learning with fused multimodal bi-relational graph	2014	-1.5712795610698969	-11.751070076392422	3199980
+3201046	Vision	salient deconvolutional networks	2016	-2.2383650783626865	-12.601093522319898	3201073
+3202925	Robotics	adaptive deep learning through visual domain localization	2018	-2.000768911722733	-12.44080996147834	3202952
+3204124	AI	deep template matching for offline handwritten chinese character recognition	2018	-2.2479895345644714	-12.551132575609119	3204151
+3205010	Vision	unsupervised domain adaptation for facial expression recognition using generative adversarial networks	2018	-2.1788613371114782	-12.298277275706914	3205037
+3205237	Vision	bubblenet: foveated imaging for visual discovery	2015	-1.7570098946390602	-12.55725291452852	3205264
+3206123	ML	learning semantic representations of objects and their parts	2013	-1.4662926352498304	-12.21095346909688	3206150
+3207079	Vision	ask the image: supervised pooling to preserve feature locality	2014	-2.2851717849308377	-12.617659238134117	3207106
+3209175	Vision	a way to improve precision of face recognition in sipp without retrain of the deep neural network model	2017	-1.77567734998744	-12.641777138000686	3209202
+3211293	Vision	study on image classification with convolution neural networks	2015	-2.270158696935101	-12.062947839014079	3211320
+3211536	Vision	hyper-class augmented and regularized deep learning for fine-grained image classification	2015	-2.041015188297979	-12.236447512468756	3211563
+3212616	Vision	combining local feature histograms of different granularities	2009	-1.52174141584661	-12.37742902279445	3212643
+3216772	Vision	large-margin multi-modal deep learning for rgb-d object recognition	2015	-2.3720106400713687	-12.322043522636108	3216799
+3217963	Vision	multi-task, multi-domain learning: application to semantic segmentation and pose regression	2017	-2.2184580087505945	-11.81746696323081	3217990
+3218693	Vision	learning scalable discriminative dictionary with sample relatedness	2014	-1.7908973122498784	-12.149388580382485	3218720
+3219663	Robotics	human activity recognition using an ensemble of support vector machines	2016	-2.1216257902451767	-11.787991897015743	3219690
+3220929	ML	deepchart: combining deep convolutional networks and deep belief networks in chart classification	2016	-2.1599792750578963	-12.158672314089522	3220956
+3221250	ML	multifaceted feature visualization: uncovering the different types of features learned by each neuron in deep neural networks	2016	-1.5577882155563412	-11.855599671056414	3221277
+3221792	Vision	unsupervised cross-dataset person re-identification by transfer learning of spatial-temporal patterns	2018	-2.3849816809499664	-12.153792073596561	3221819
+3222598	ML	unsupervised learning of artistic styles with archetypal style analysis	2018	-1.8236340855732676	-12.472060753395988	3222625
+3223733	ML	probability matrix svm+ learning for complex action recognition	2017	-2.0872548577476953	-12.090410513417218	3223760
+3225100	Vision	bam: bottleneck attention module	2018	-2.010935385346483	-11.732409063399956	3225127
+3227104	Vision	using gan to augment the synthesizing images from 3d models	2018	-2.3013808723913063	-12.596316195756	3227131
+3227244	Vision	hierarchical object classification using imagenet domain ontologies	2010	-1.4695043673701147	-12.244666754585529	3227271
+3227738	Vision	retrieval oriented deep feature learning with complementary supervision mining	2018	-1.8507868011757187	-12.207245536233694	3227765
+3228381	Vision	megdet: a large mini-batch object detector	2018	-2.3869594833390564	-11.729309604519178	3228408
+3229383	ML	object bank: a high-level image representation for scene classification & semantic feature sparsification	2010	-2.3007755639591974	-12.421053891997655	3229410
+3230167	ML	semantic multinomial representation for scene images using cnn-based pseudo-concepts and concept neural network	2017	-1.91562646649914	-12.624083281299301	3230194
+3230427	Vision	efui: an ensemble framework using uncertain inference for pornographic image recognition	2018	-2.1253911558846332	-12.679049861833198	3230454
+3233193	ML	matching networks for one shot learning	2016	-1.8928136693424364	-11.771829975022357	3233220
+3233598	Vision	scene graph generation by iterative message passing	2017	-2.123468055580513	-12.578988909761712	3233625
+3235538	Vision	zero-shot recognition via structured prediction	2016	-1.977169489389756	-11.848692213163162	3235565
+3236591	Vision	image aesthetics assessment using composite features from off-the-shelf deep models	2018	-2.1551377554837208	-12.621248839582504	3236618
+3238002	AI	an efficient concept detection system via sparse ensemble learning	2015	-1.491524767475837	-12.004238906382936	3238029
+3241413	Vision	visual scene recognition with biologically relevant generative models	2014	-2.135031615752373	-11.897906488531802	3241440
+3242494	AI	character recognition based on pcanet	2016	-2.3284488586898786	-12.654046491814578	3242521
+3242593	Vision	biologically inspired online learning of visual autonomous driving	2014	-2.324967677216165	-12.447202323458686	3242620
+3244016	Robotics	hierarchical elm ensembles for visual descriptor fusion	2018	-2.0290996528428087	-11.760011053861463	3244043
+3244745	Vision	compact binary feature for open set recognition	2018	-2.181891365206293	-11.996843605634597	3244772
+3246289	Vision	fine-grained image classification by visual-semantic embedding	2018	-1.5844498527966384	-12.379392633714163	3246316
+3248830	Vision	a framework of extracting multi-scale features using multiple convolutional neural networks	2015	-2.3118041281883435	-12.46906739100338	3248857
+3249081	Vision	borrowing treasures from the wealthy: deep transfer learning through selective joint fine-tuning	2017	-2.033433585572575	-11.982186030613127	3249108
+3258919	Vision	a new image classification model based on brain parallel interaction mechanism	2018	-2.123201150814191	-11.8560734276737	3258946
+3260795	Vision	style decomposition for improved neural style transfer	2018	-2.0436182751375958	-12.39214001766983	3260822
+3265117	Vision	transfer learning and deep feature extraction for planktonic image data sets	2017	-1.4587327816506523	-11.944377280941195	3265144
+3267056	AI	a hybrid supervised-unsupervised vocabulary generation algorithm for visual concept recognition	2010	-1.4572791211711749	-12.10716938774122	3267083
+3267286	Vision	image descriptors from convnets: comparing global pooling methods for image retrieval	2016	-1.962116663404885	-12.155949555590595	3267313
+3267870	Vision	indexing ensembles of exemplar-svms with rejecting taxonomies	2016	-1.5991305043243105	-12.6281995034391	3267897
+3268144	Vision	rgb-d object recognition via incorporating latent data structure and prior knowledge	2015	-2.2960539872678893	-12.258673971324232	3268171
+3270350	AI	relation based bayesian network for nbnn	2015	-1.738448345402496	-11.849723926683748	3270377
+3274513	AI	xnet+sc: classifying places based on images by incorporating spatial contexts	2018	-1.6994453466177928	-12.229413031846418	3274540
+3277447	AI	seven: deep semi-supervised verification networks	2017	-1.9690079625599328	-11.902340384045875	3277474
+3283761	Vision	automatic semantic style transfer using deep convolutional neural networks and soft masks	2017	-2.1739145153101656	-12.66541518379517	3283788
+3285386	Robotics	learning discriminative and shareable patches for scene classification	2016	-1.7427061744959074	-12.545297870381392	3285413
+3286281	Vision	learning structured prediction models for interactive image labeling	2011	-1.4748268013119412	-11.765393406418278	3286308
+3291693	Vision	zero-shot deep domain adaptation	2018	-2.0907838813875617	-11.982491479550722	3291720
+3292804	Robotics	deep multi-context network for fine-grained visual recognition	2016	-1.9043387099507072	-12.432508512177774	3292831
+3295829	AI	extremely fast unsupervised codebook learning for landmark recognition	2014	-1.5273888305362735	-11.990540970112836	3295856
+3296592	AI	a baseline for multi-label image classification using ensemble deep cnn.	2018	-2.006976245811482	-11.954937032958954	3296619
+3297626	Vision	bap: bimodal attribute prediction for zero-shot image categorization	2014	-1.7490417067297228	-12.343164482968064	3297653
+3297768	ML	metric learning with adaptive density discrimination	2015	-2.2023426397355887	-11.783902716246574	3297795
+3297963	Vision	handcrafted vs. non-handcrafted features for computer vision classification	2017	-2.2877811139407793	-12.481010968713965	3297990
+3298060	Vision	vlad is not necessary for cnn	2016	-2.3895805698590498	-12.522822552680655	3298087
+3298808	Vision	learning mid-level features from object hierarchy for image classification	2014	-1.9342001630973151	-12.681332074969644	3298835
+3298918	AI	adaptive learning algorithms for transferable visual recognition	2016	-2.066137121693855	-12.228344129777724	3298945
+3299223	Vision	unlabeled samples generated by gan improve the person re-identification baseline in vitro	2017	-2.271954210584963	-12.64820217232213	3299250
+3301434	Vision	hierarchical concept score postprocessing and concept-wise normalization in cnn-based video event recognition	2019	-1.4844607677854276	-12.50749756575774	3301461
+3302999	NLP	tile-level annotation of satellite images using multi-level max-margin discriminative random field	2013	-1.7000805142189896	-12.397210626950395	3303026
+3303289	Vision	image generation from layout	2018	-2.387974720521235	-12.092964836333726	3303316
+3304630	Vision	semi-supervised object detection in remote sensing images using generative adversarial networks	2018	-2.279730101605795	-12.063204555149088	3304657
+3306033	Vision	deep attentional structured representation learning for visual recognition	2018	-1.918214070795364	-12.069210436521956	3306060
+3306304	ML	multi-channel convolutional neural networks with multi-level feature fusion for environmental sound classification	2019	-1.9592622881246118	-12.604891612545796	3306331
+3306500	ML	why do deep neural networks still not recognize these images?: a qualitative analysis on failure cases of imagenet classification	2017	-1.8143080275838297	-12.014363038469147	3306527
+3307890	Vision	dictionary pair classifier driven convolutional neural networks for object detection	2016	-2.187776760044473	-11.841288404055016	3307917
+3310981	ML	deepfood: automatic multi-class classification of food ingredients using deep learning	2017	-2.1649003983828634	-11.971487136960983	3311008
+3311881	Vision	a survey on in-domain and cross-domain image classification using surf features	2017	-1.5524034486998444	-12.364504464084954	3311908
+3312319	Vision	boosting vlad with supervised dictionary learning and high-order statistics	2014	-2.0526738584111417	-12.46113892657798	3312346
+3314383	Vision	probabilistic models for supervised dictionary learning	2010	-1.8000884125186598	-11.82429360012073	3314410
+3319204	Vision	shallow and deep convolutional networks for saliency prediction	2016	-2.222570055504998	-12.045218475316807	3319231
+3319723	Vision	hierarchical feature map characterization in fashion interpretation	2018	-1.9337707265317925	-12.492722304016823	3319750
+3320739	AI	deep hierarchical representation from classifying logo-405	2017	-2.2545979671021428	-12.605374326504656	3320766
+3323120	Vision	cnn with coarse-to-fine layer for hierarchical classification	2018	-2.3010019227277527	-11.974017924883444	3323147
+3324176	Vision	efficient label collection for unlabeled image datasets	2015	-1.8516171575271705	-11.963570377678256	3324203
+3325758	Vision	deep correlated holistic metric learning for sketch-based 3d shape retrieval	2018	-2.2847103091736622	-12.350269618907046	3325785
+3326904	Vision	combining firefly algorithm and bayesian classifier: new direction for automatic multilabel image annotation	2016	-2.024358873926883	-12.06872778058987	3326931
+3328168	Vision	deep convolutional neural network to detect j-uniward	2017	-2.3894635875550163	-12.113933181474525	3328195
+3332661	Vision	old fashioned state-of-the-art image classification	2003	-2.3240962035487547	-12.224439820600262	3332688
+3338884	Vision	on the relationship between visual attributes and convolutional networks	2015	-1.7859558143786811	-12.526323177741075	3338911
+3340369	Vision	local learning with deep and handcrafted features for facial expression recognition	2018	-2.32960230279706	-12.608698025567188	3340396
+3340571	Vision	memory matching networks for one-shot image recognition	2018	-2.0808415640930957	-11.743610120390404	3340598
+3341024	AI	training deep networks for facial expression recognition with crowd-sourced label distribution	2016	-1.946825748904531	-11.992994973243489	3341051
+3342095	Vision	the semantic multinomial representation of images obtained using dynamic kernel based pseudo-concept svms	2017	-1.7606499551257409	-12.598601793118295	3342122
+3343832	AI	food image recognition using very deep convolutional networks	2016	-2.200521344387662	-12.484507407057086	3343859
+3344448	Vision	part level transfer regularization for enhancing exemplar svms	2015	-2.1287343440342275	-12.256176786970205	3344475
+3345833	Vision	rapid object detection in vhr optical remote sensing images based on rotation-invariant discrete hashing	2017	-1.6376946536134143	-11.897804056024757	3345860
+3345964	ML	understanding deep neural networks using topological data analysis	2018	-2.052230985670517	-11.890964380641234	3345991
+3347073	Vision	supervised committee of convolutional neural networks in automated facial expression analysis	2018	-2.2391951634276746	-12.557248662595994	3347100
+3347908	Vision	evaluation of random forests on large-scale classification problems using a bag-of-visual-words representation	2014	-2.389362762456305	-12.455952203573736	3347935
+3348229	AI	ensemble of deep models for event recognition	2018	-2.2682552817912347	-12.621383498615923	3348256
+3349142	AI	weakly supervised codebook learning by iterative label propagation with graph quantization	2013	-1.9398425912694768	-12.219944249234214	3349169
+3351413	Vision	multi-class co-training learning for object and scene recognition	2011	-2.0420145136069525	-11.849546223113716	3351440
+3353769	Robotics	learning to recognition from bing clickture data	2016	-1.9576507481946923	-12.595455890927735	3353796
+3358002	ML	weakly supervised one-shot detection with attention siamese networks	2018	-2.14154421851955	-12.449827309660352	3358029
+3358035	Vision	learning semantic concepts and order for image and sentence matching	2018	-1.5622419060761592	-12.633229888788366	3358062
+3359254	Vision	semi-supervised face image retrieval using sparse coding with identity constraint	2011	-1.4605275088832017	-12.183268131484256	3359281
+3361803	Vision	a deep multi-modal cnn for multi-instance multi-label image classification	2018	-1.790227180037801	-11.818932715672846	3361830
+3367458	Vision	chinese typeface transformation with hierarchical adversarial network	2017	-2.235242518162549	-11.836733577218904	3367485
+3367554	Vision	interpretable convolutional neural networks	2018	-1.6648062190168997	-11.846199945160695	3367581
+3368433	Vision	adaptive face recognition system using fast incremental principal component analysis	2007	-1.8823026944025532	-11.91616627637292	3368460
+3373545	Vision	a novel feature selection based semi-supervised method for image classification	2008	-1.938136876765849	-11.99755869390435	3373572
+3373958	Vision	face sketch synthesis using conditional adversarial networks	2017	-2.197770809334465	-12.493929498672435	3373985
+3378983	Vision	on feature combination for multiclass object classification	2009	-1.993192545992449	-12.322124905985724	3379010
+3380553	Vision	deep convolutional image retrieval: a general framework	2018	-1.4834494042254318	-12.2435945113966	3380580
+3380793	AI	object recognition from short videos for robotic perception	2015	-2.3633642082559323	-12.054029353010565	3380820
+3384130	Vision	convolutional neural network-based place recognition	2014	-1.885861823493674	-12.421254149164234	3384157
+3386784	ML	spatiotemporal representation of driving scenarios and classification using neural networks	2017	-1.6600367220486656	-12.356318138875272	3386811
+3389100	Vision	feature coding via vector difference for image classification	2012	-1.7010754247491664	-12.276389746741268	3389127
+3389300	Vision	comprehensive study of multiple cnns fusion for fine-grained dog breed categorization	2018	-2.3517353023916736	-12.482472739617222	3389327
+3390942	Vision	scene labeling using kernel codebook encoding	2017	-1.8447898857582996	-12.61640720629174	3390969
+3392299	Vision	efficient on-the-fly category retrieval using convnets and gpus	2014	-1.7967834719062163	-12.31145249437242	3392326
+3393634	AI	ccl: cross-modal correlation learning with multigrained fusion by hierarchical network	2018	-1.7038782380743824	-12.07178159468245	3393661
+3401829	Vision	image representation and recognition based on directed complex network model	2013	-2.2573945056914435	-12.307193787766366	3401856
+3409070	Vision	object detectors emerge in deep scene cnns	2014	-2.3295685827253894	-12.659637450781954	3409097
+3412799	Vision	play and rewind: optimizing binary representations of videos by self-supervised temporal hashing	2016	-1.4913063481161946	-12.206665501820154	3412826
+3417057	AI	multimodal feature fusion for 3d shape recognition and retrieval	2014	-1.9743944948052767	-12.470091030227346	3417084
+3418909	ML	kernel deep regression network for touch-stroke dynamics authentication	2018	-1.8519768672554764	-11.871382521092494	3418936
+3418925	AI	attention driven multi-modal similarity learning	2018	-1.8746569198762573	-11.734857278592894	3418952
+3421457	Vision	weighted sift feature learning with hamming distance for face recognition	2014	-1.7272682800225672	-12.331834714815555	3421484
+3422017	Robotics	a generative model for spatial color image databases categorization	2008	-1.4672327470141284	-12.261157271519654	3422044
+3426033	AI	an investigation of deep tracking methods	2017	-1.6724682138409055	-12.622364445161484	3426060
+3426125	Vision	deep visual domain adaptation: a survey	2018	-1.887606738657186	-12.33025504639934	3426152
+3427297	Vision	a review of image recognition with deep convolutional neural network	2017	-2.090675467880436	-12.064078474814632	3427324
+3427330	Robotics	biomedical compound figure detection using deep learning and fusion techniques	2018	-1.7055953025265571	-12.4663975227574	3427357
+3428432	Vision	cross-domain matching with squared-loss mutual information	2015	-1.4767512626398236	-12.518500293055187	3428459
+3428745	Vision	from handcrafted to learned representations for human action recognition: a survey	2016	-2.134343701592808	-12.549557049850874	3428772
+3429145	Vision	dual many-to-one-encoder-based transfer learning for cross-dataset human action recognition	2016	-2.0696634699652656	-12.097398242853947	3429172
+3429688	Vision	a compact spatial feature representation for image classification	2013	-2.001915793316652	-12.406611284250046	3429715
+3430282	ML	evaluating the feasibility of deep learning for action recognition in small datasets	2018	-2.041264836344574	-11.98658309669517	3430309
+3432676	AI	dual-path convolutional image-text embedding	2017	-1.8015096561114268	-12.183570904547707	3432703
+3433003	Vision	towards a unified compositional model for visual pattern modeling	2017	-1.920290166523065	-11.912875254071848	3433030
+3436472	Robotics	multiple instance learning based method for similar handwritten chinese characters discrimination	2011	-2.0012999838855903	-12.184097864014285	3436499
+3437415	Vision	spatial graph for image classification	2012	-1.809249135764144	-12.473286880498176	3437442
+3440886	Vision	webly supervised learning of convolutional networks	2015	-1.485465200330829	-12.301711635509546	3440913
+3441565	AI	image classification using label constrained sparse coding	2015	-1.8507583551785936	-12.240446768563787	3441592
+3442808	ML	graph-based isometry invariant representation learning	2017	-2.342423161282435	-11.877626540411727	3442835
+3443825	Vision	generative semantic manipulation with mask-contrasting gan	2018	-2.2688802073504397	-12.442069819394462	3443852
+3445466	Robotics	learned and designed features for sparse coding in image classification	2013	-2.35526311357227	-12.42633433831694	3445493
+3446719	Vision	a multi-modal spm model for image classification	2017	-2.15413768250825	-12.315424650900704	3446746
+3448979	ML	attentive recurrent comparators	2017	-2.2734276850209514	-12.041749565156069	3449006
+3450375	Vision	subcategory-aware object classification	2013	-2.2850629869185872	-12.51156230192615	3450402
+3453427	Vision	scene recognition by manifold regularized deep learning architecture	2015	-2.0404191900188	-12.470107361780306	3453454
+3454917	AI	feature learning for steganalysis using convolutional neural networks	2017	-2.2111064439587587	-12.14043198735317	3454944
+3457250	NLP	object hallucination in image captioning	2018	-1.548521079187949	-12.562301567633293	3457277
+3459671	Vision	fine-grained object recognition and zero-shot learning in remote sensing imagery	2018	-1.8757801685539024	-12.271239677923814	3459698
+3459996	Vision	deep bottleneck feature for image classification	2015	-2.1763136277133213	-12.094133887015586	3460023
+3462979	Vision	multi-modal multi-scale deep learning for large-scale image annotation	2019	-1.67903243350588	-12.115069812180574	3463006
+3464547	AI	boosting deformable part model by sample sharing and outlier ablation	2013	-2.087992204593505	-12.079966111676647	3464574
+3468047	Vision	ricap: random image cropping and patching data augmentation for deep cnns	2018	-2.3535836503157017	-11.798274362150785	3468074
+3468601	Vision	zero-shot object recognition system based on topic model	2015	-2.0190699585052925	-12.148903489744233	3468628
+3470077	Vision	supervised lda for image annotation	2011	-2.074344313764863	-12.475798843257065	3470104
+3471658	Vision	exemplar based deep discriminative and shareable feature learning for scene image classification	2015	-2.1481415747039536	-12.141307636321955	3471685
+3472430	Vision	multi-task learning using multi-modal encoder-decoder networks with shared skip connections	2017	-2.078457959532244	-12.240893673571467	3472457
+3472586	Vision	open-vocabulary phrase detection	2018	-1.6027183049931342	-12.400776353436425	3472613
+3474270	Vision	image classification based on deep local feature coding	2017	-1.886946467240182	-12.371685553623625	3474297
+3476457	Vision	auto-painter: cartoon image generation from sketch by using conditional generative adversarial networks	2017	-2.1104067438502483	-12.64636380649179	3476484
+3476695	Vision	quadruplet networks for sketch-based image retrieval	2017	-1.7972203018642219	-12.663865277584474	3476722
+3478112	Vision	action recognition using nonnegative action component representation and sparse basis selection	2014	-2.0764266611109883	-12.447720248913644	3478139
+3478977	ML	pathgan: visual scanpath prediction with generative adversarial networks	2018	-1.7758349824842408	-12.046973654367054	3479004
+3479783	Vision	modeling neuron selectivity over simple midlevel features for image classification	2015	-2.0582288953561245	-11.900193317182836	3479810
+3481615	HCI	empirical evaluation on deep learning of depth feature for human activity recognition	2013	-1.6548459982677637	-12.49873775479837	3481642
+3481999	Robotics	selecting cnn features for online learning of 3d objects	2017	-2.337058732423388	-12.129603021312118	3482026
+3483277	Vision	facial expression recognition via a boosted deep belief network	2014	-2.3111623284044893	-11.953724094949827	3483304
+3483896	Vision	enhancing action recognition by cross-domain dictionary learning	2013	-2.015219244966385	-12.375448091741882	3483923
+3485001	AI	dual-layer kernel extreme learning machine for action recognition	2017	-2.322076143107251	-11.8387154314628	3485028
+3487630	AI	scene character recognition using coupled spatial learning	2017	-1.8676736511289525	-12.386457717142402	3487657
+3489478	Vision	crafting a multi-task cnn for viewpoint estimation	2016	-2.286672936890524	-12.206231855904065	3489505
+3490511	Vision	multi-graph multi-instance learning for object-based image and video retrieval	2012	-1.6052962765528582	-12.587375939344616	3490538
+3490900	AI	a study on unsupervised dictionary learning and feature encoding for action classification	2013	-2.0861822809768102	-12.411469540762267	3490927
+3494774	Vision	hierarchical training for large scale face recognition with few samples per subject	2018	-2.3903724122389964	-12.039347927961774	3494801
+3497224	Vision	fisher vectors over random density forests for object recognition	2014	-2.064689661317753	-12.056788391480492	3497251
+3497251	Vision	mucale-net: multi categorical-level networks to generate more discriminating features	2017	-1.9008347927127265	-12.124617565805151	3497278
+3497940	Vision	early and late level fusion of deep convolutional neural networks for visual concept recognition	2016	-2.1713898928716	-12.371190205889814	3497967
+3498729	Robotics	hypergraph regularized autoencoder for image-based 3d human pose recovery	2016	-2.3640144801690703	-11.938963429508489	3498756
+3502812	Vision	open issues on codebook generation in image classification tasks	2014	-1.6837842337822182	-12.511705002352835	3502839
+3504687	Vision	hierarchical cnn for traffic sign recognition	2016	-2.186724020760861	-11.834524501313558	3504714
+3512464	ML	painting image classification using online learning algorithm	2017	-2.088329516467188	-12.373208276839323	3512491
+3512490	Vision	learning mid-level features for recognition	2010	-1.8929023793568824	-12.502815503118544	3512517
+3513088	ML	patternnet: visual pattern mining with deep neural network	2018	-2.3154368202234674	-12.600525021410114	3513115
+3513578	AI	deep ensemble effectively and efficiently for vehicle instance retrieval	2017	-1.9554222418417824	-12.36250308447279	3513605
+3514923	Vision	towards universal representation for unseen action recognition	2018	-1.8474753074239845	-11.900023952925286	3514950
+3517291	AI	interpreting cnn knowledge via an explanatory graph	2018	-1.7701990531203502	-11.991512451318224	3517318
+3518790	Vision	factorizable net: an efficient subgraph-based framework for scene graph generation	2018	-1.7663619301172813	-12.257553674221267	3518817
+3518940	Vision	rethinking spatiotemporal feature learning: speed-accuracy trade-offs in video classification	2018	-2.3586338348294955	-12.086118226953777	3518967
+3522222	Vision	fully unsupervised convolutional learning for fast image retrieval	2018	-1.7163676629143032	-12.223113223762804	3522249
+3525878	Vision	cross-view action recognition via a transferable dictionary pair	2012	-2.3600967265537243	-11.849819212703448	3525905
+3528192	ML	interpretable discovery in large image data sets	2017	-1.6544241044155703	-12.153835668312352	3528219
+3530229	Vision	the contextual loss for image transformation with non-aligned data	2018	-2.311623157950061	-12.63448094177	3530256
+3530806	Vision	image spam classification based on convolutional neural network	2016	-2.2537965511344082	-12.620182507173855	3530833
+3530949	Vision	exemplar svms as visual feature encoders	2015	-1.8074838464123444	-11.946181113534072	3530976
+3531661	Vision	weakly supervised object detection with pointwise mutual information.	2018	-2.272749554957892	-12.298713256496624	3531688
+3531809	AI	extreme learning machine autoencoder for data augmentation	2017	-2.2250247445224702	-11.841702395478768	3531836
+3532228	AI	supervised recurrent hashing for large scale video retrieval	2016	-1.4406541167612	-12.213968373319368	3532255
+3532882	ML	transferrable feature and projection learning with class hierarchy for zero-shot learning	2018	-2.1498075657740023	-12.165698600594304	3532909
+3533694	AI	a learning-based thresholding method customizable to computer vision applications	2015	-2.2919258078191764	-11.803000705576393	3533721
+3537336	Vision	a learned representation of artist-specific colourisation	2017	-1.8200812459845768	-12.528160323316028	3537363
+3537873	Web+IR	learning from web data: the benefit of unsupervised object localization	2018	-1.7035502690274102	-12.272560963565926	3537900
+3539031	Vision	image classification using super-vector coding of local image descriptors	2010	-2.0804491029103733	-12.37970071497193	3539058
+3541249	Vision	deep image representations using caption generators	2017	-1.7887266597290747	-12.056182323962565	3541276
+3541821	Vision	multi-modal factorized bilinear pooling with co-attention learning for visual question answering	2017	-1.4925040185714655	-11.854468914601258	3541848
+3543430	Vision	learning to share latent tasks for action recognition	2013	-2.0402485102741146	-12.582469318629787	3543457
+3544032	Vision	salient coding for image classification	2011	-1.9811717493372023	-12.384168282087819	3544059
+3545145	Vision	learning human pose estimation features with convolutional networks	2014	-2.361269864707809	-12.681780207692814	3545172
+3545761	Vision	learning optimal compact codebook for efficient object categorization	2008	-1.976774312404968	-11.76360781635202	3545788
+3548088	Vision	image search re-ranking with an improved visualrank algorithm and multi-layer dcnn features	2017	-1.4864699089478168	-12.375051002854795	3548115
+3548449	Vision	attribute learning for ship category recognition in remote sensing imagery	2016	-2.3407808854011893	-12.527382532885074	3548476
+3551208	ML	attentional pooling for action recognition	2017	-2.203654319350689	-12.287817573037612	3551235
+3551457	Vision	similarity-preserving image-image domain adaptation for person re-identification	2018	-2.0640053710773447	-12.063055147371747	3551484
+3551959	Vision	learning from massive noisy labeled data for image classification	2015	-2.1445380873034767	-11.890602649540858	3551986
+3553356	Vision	adaptive scene category discovery with generative learning and compositional sampling	2015	-2.1252625553700093	-12.31751305517738	3553383
+3555288	Vision	bag of recurrence patterns representation for time-series classification	2018	-2.0450901239581656	-11.738528715812075	3555315
+3562420	Vision	learning attentive fusion of multiple bayesian network classifiers	2012	-1.4898161501514318	-12.045276818327837	3562447
+3562938	Vision	markov random field based convolutional neural networks for image classification	2017	-2.3812622361349702	-12.575288088742385	3562965
+3566212	AI	text2shape: generating shapes from natural language by learning joint embeddings	2018	-2.1461083209470466	-12.651060903759456	3566239
+3567089	Vision	towards scalable representations of object categories: learning a hierarchy of parts	2007	-1.7253217644741137	-12.515586160704308	3567116
+3567143	Vision	ranking on cross-domain manifold for sketch-based 3d model retrieval	2013	-1.6872786763747043	-12.533905901516814	3567170
+3567587	Vision	deep image retrieval: learning global representations for image search	2016	-1.8832092175480968	-12.177414364453805	3567614
+3569600	Vision	crf-cnn: modeling structured information in human pose estimation	2016	-2.2817338053279914	-11.777735186653338	3569627
+3569917	Vision	exploring bag of words architectures in the facial expression domain	2012	-2.30671381222377	-12.577328430263405	3569944
+3570416	Vision	segment 2d and 3d filaments by learning structured and contextual features	2017	-2.3269293529436106	-12.072516481714539	3570443
+3573496	Vision	discriminative multi-instance multitask learning for 3d action recognition	2017	-2.2027385508040926	-12.625572396252267	3573523
+3580557	AI	deepindex for accurate and efficient image retrieval	2015	-1.7392357252344153	-12.439762385776515	3580584
+3585639	AI	scene image classification using locality-constrained linear coding based on histogram intersection	2017	-1.8975837857563669	-12.365027298878756	3585666
+3586393	ML	generating images with perceptual similarity metrics based on deep networks	2016	-2.13058966463352	-12.084757661601534	3586420
+3587980	Vision	an efficient dual dimensionality reduction scheme of features for image classification	2016	-2.387343726446242	-12.069047232395196	3588007
+3589506	Vision	view-based 3d object retrieval with discriminative views	2017	-1.6912594605470577	-12.650421451146553	3589533
+3589664	AI	eml-net: an expandable multi-layer network for saliency prediction	2018	-2.3274358709535856	-11.940012353288534	3589691
+3595754	Vision	scene classification based on category-specific representations created through prototype feature selection	2012	-2.057851403254544	-12.661273438982317	3595781
+3597339	Vision	nonparametric scene parsing with adaptive feature relevance and semantic context	2013	-1.8152835625549488	-12.256313242610542	3597366
+3597682	Vision	optimization framework for learning a hierarchical shape vocabulary for object class detection	2009	-2.0887957142156925	-12.501612668609171	3597709
+3598364	Vision	finding original image of a sub image using cnns	2018	-1.94698055959654	-11.788717635127625	3598391
+3599553	Vision	image similarity using deep cnn and curriculum learning	2017	-1.4638265812715212	-12.609251011070626	3599580
+3600757	ML	image recommendation based on a novel biologically inspired hierarchical model	2017	-2.0622141763048805	-12.324282937029714	3600784
+3601479	Vision	exploring visual dictionaries: a model driven perspective	2017	-2.0137482812360297	-12.524411513165493	3601506
+3603128	ML	plant leaf identification via a growing convolution neural network with progressive sample learning	2014	-2.2342896479135645	-12.053096998042795	3603155
+3603213	AI	using multiple windows to track concept drift	2004	-1.5571050611108324	-12.66137751766949	3603240
+3608571	Vision	tabula rasa: model transfer for object category detection	2011	-2.3608642843301797	-12.125618322594367	3608598
+3609433	Robotics	bootstrapping deep feature hierarchy for pornographic image recognition	2016	-2.2427801593423755	-12.558090519283242	3609460
+3611690	Vision	making residual vector distribution uniform for distinctive image representation	2016	-2.3153001874145027	-12.43131133823036	3611717
+3612545	Vision	sampling techniques for large-scale object detection from sparsely annotated objects	2018	-2.121908770808957	-12.480968703533977	3612572
+3613347	ML	text to image synthesis using generative adversarial networks	2018	-1.5932155126221588	-12.112263664889364	3613374
+3618643	Vision	unsupervised learning of probabilistic grammar-markov models for object categories	2009	-2.2993772912498156	-11.936627149016145	3618670
+3618928	Vision	learning structured inference neural networks with label relations	2016	-1.6630625940432413	-11.87336567488911	3618955
+3622687	Vision	convolutional network representation for visual recognition	2017	-1.8086462482390384	-12.080486167760393	3622714
+3626049	Vision	compositional models and structured learning for visual recognition	2016	-1.4338826115937138	-12.342974708244665	3626076
+3626816	Vision	learning discriminative and shareable features for scene classification	2014	-2.1713921693664866	-12.153724565622955	3626843
+3628498	Vision	pattern recognition	2016	-1.9813646707580663	-12.681671852428137	3628525
+3628982	Vision	learning hierarchical features using sparse self-organizing map coding for image classification	2014	-2.3207551820301093	-11.804173671539123	3629009
+3629066	Vision	genetic programming for multiclass texture classification using a small number of instances	2014	-2.2023788923833143	-11.920097606980276	3629093
+3629589	Vision	content-adaptive sketch portrait generation by decompositional representation learning	2017	-2.2794470119915333	-12.629742190913346	3629616
+3629768	AI	why do linear svms trained on hog features perform so well?	2014	-2.3200645949187453	-12.445615376673857	3629795
+3630711	Vision	da-vlad: discriminative action vector of locally aggregated descriptors for action recognition	2018	-1.9565930256435724	-12.573758888564305	3630738
+3631335	ML	multi-modal local receptive field extreme learning machine for object recognition	2016	-2.3481588180314383	-12.606602208029818	3631362
+3631508	Vision	synthesized classifiers for zero-shot learning	2016	-2.0899698076367583	-12.164600830531366	3631535
+3631764	Vision	trace transform based method for color image domain identification	2014	-1.6459168834054494	-12.150408314108331	3631791
+3632917	Vision	style transfer for anime sketches with enhanced residual u-net and auxiliary classifier gan	2017	-2.2442681428311166	-12.645634293928676	3632944
+3636602	Vision	can a biologically-plausible hierarchy effectively replace face detection, alignment, and recognition pipelines?	2013	-2.3725235535715647	-12.328374519377752	3636629
+3640180	AI	deep metric learning with false positive probability - trade off hard levels in a weighted way	2017	-2.1363293013440128	-12.092602409811835	3640207
+3640625	Vision	tell me where to look: guided attention inference network	2018	-2.1226721334119754	-11.74482973985191	3640652
+3641329	AI	drlnet: deep difference representation learning network and an unsupervised optimization framework	2017	-1.4386944248681897	-12.588415926649946	3641356
+3641437	Vision	recent advances and opportunities in scene classification of aerial images with deep models	2018	-2.385784698236107	-12.098904478115044	3641464
+3641555	Vision	temporal generative adversarial nets with singular value clipping	2017	-2.206254425362764	-12.29561820243289	3641582
+3644353	AI	where and what to eat: simultaneous restaurant and dish recognition from food image	2016	-1.6020472762121898	-12.386183688451734	3644380
+3644924	Logic	intra-class structure aware networks for screen defect detection	2018	-2.2703749933321635	-11.900790600474242	3644951
+3646462	ML	integrating domain knowledge: using hierarchies to improve deep classifiers	2018	-1.5736839832893992	-11.965623459630056	3646489
+3648843	ML	adapting deep network features to capture psychological representations	2016	-1.5404985796628825	-12.498483791153523	3648870
+3648871	Vision	zero-shot learning — the good, the bad and the ugly	2017	-1.9497769427328413	-12.175572516119507	3648898
+3650101	ML	direct modeling of complex invariances for visual object features	2013	-2.330255354814841	-11.928633538293425	3650128
+3651368	ML	mining mid-level visual patterns with deep cnn activations	2016	-1.7344497053771588	-12.545639300033455	3651395
+3652909	ML	recognition with local features: the kernel recipe	2003	-2.3606332569142405	-11.783014438818332	3652936
+3654402	Vision	an evaluation of trajectory prediction approaches and notes on the trajnet benchmark	2018	-1.5437043439570983	-12.680886222648098	3654429
+3654744	Vision	do textual descriptions help action recognition?	2016	-2.2015937390522127	-12.363801478902461	3654771
+3655235	Vision	learning compact visual attributes for large-scale image classification	2012	-1.6760007502344756	-12.579356309637818	3655262
+3656280	Vision	cartoongan: generative adversarial networks for photo cartoonization	2018	-2.3885376455246727	-12.597633511872992	3656307
+3656670	Vision	distinguishing text/non-text natural images with multi-dimensional recurrent neural networks	2016	-2.0010845846210317	-12.184192141910241	3656697
+3656906	Vision	evaluating shape representations for maya glyph classification	2016	-1.9825957662696982	-12.315947538232095	3656933
+3658906	ML	scene image clustering based on boosting and gmm	2011	-2.3647685005472234	-12.2035161919014	3658933
+3659843	Vision	generate novel image styles using weighted hybrid generative adversarial nets	2018	-2.072515378318628	-12.572819629705092	3659870
+3661516	AI	local receptive field constrained deep networks	2016	-2.367881621662165	-12.36607536210868	3661543
+3661763	Vision	poof: part-based one-vs.-one features for fine-grained categorization, face verification, and attribute estimation	2013	-2.1942211048289453	-12.09194769185899	3661790
+3663190	Vision	texture synthesis guided deep hashing for texture image retrieval	2018	-1.6298039516658764	-12.138988965749965	3663217
+3666622	Vision	exploring relations of visual codes for image classification	2011	-1.855276621866812	-12.444545820332847	3666649
+3675005	Vision	adaptive hierarchical classification networks	2016	-2.072455188887429	-11.93517301415486	3675032
+3676742	Vision	exploiting local features from deep networks for image retrieval	2015	-2.161316120962512	-12.192871033385332	3676769
+3678708	Vision	robust scene classification with cross-level llc coding on cnn features	2014	-2.372477778779067	-12.449172860409158	3678735
+3680609	Vision	fisher vectors: beyond bag-of-visual-words image representations	2010	-1.9454913722227871	-12.04852990835466	3680636
+3682248	Robotics	semi-supervised deep learning for object tracking and classification	2014	-2.3865859454595517	-11.822157238739324	3682275
+3683820	Vision	correlated label propagation with application to multi-label learning	2006	-2.355251522934478	-11.827845130761695	3683847
+3689141	Vision	pfdet: 2nd place solution to open images challenge 2018 object detection track	2018	-2.318901524639357	-12.347330027846308	3689168
+3689640	Vision	object-location-aware hashing for multi-label image retrieval via automatic mask learning	2018	-2.065014282295784	-12.415515576344196	3689667
+3690449	NLP	xgan: unsupervised image-to-image translation for many-to-many mappings	2017	-2.066878534330988	-12.275907914558148	3690476
+3691656	Vision	particular object retrieval with integral max-pooling of cnn activations	2015	-1.827781278408586	-12.379358954015968	3691683
+3692637	AI	the classification of traditional chinese painting based on cnn	2018	-2.1212041213614206	-12.58630957263752	3692664
+3692988	Robotics	sentence learning on deep convolutional networks for image caption generation	2016	-1.8149281055553987	-12.522951197254484	3693015
+3694814	NLP	overcoming language priors in visual question answering with adversarial regularization	2018	-1.5015042263910237	-12.146282757601087	3694841
+3695264	AI	facial beauty prediction model based on self-taught learning and convolutional restricted boltzmann machine	2014	-2.31547248542706	-12.617252340445445	3695291
+3696763	Vision	efficient image categorization with sparse fisher vector	2015	-1.8185922699489585	-11.96476034169656	3696790
+3697668	AI	sorted label classifier chains for learning images with multi-label	2010	-1.95590491797794	-12.527439595117018	3697695
+3697875	Vision	saliency aware locality-preserving coding for image classification	2012	-1.9787621588490465	-12.327311679617267	3697902
+3698510	Vision	guest editorial: machine vision applications	2017	-1.6449272797668946	-12.558494371913907	3698537
+3704003	Vision	enhancing bag-of-words models with semantics-preserving metric learning	2011	-1.4356241056572643	-12.241056436984579	3704030
+3705221	Vision	an attribute-based high-level image representation for scene classification	2019	-1.9712788660756129	-12.332651476170065	3705248
+3706509	AI	lateral representation learning in convolutional neural networks	2018	-2.2254095225578614	-12.314273404600101	3706536
+3707553	Vision	fine-grained image recognition via weakly supervised click data guided bilinear cnn model	2017	-1.9051800160412944	-12.50115719369078	3707580
+3709158	Vision	weakly supervised multiclass video segmentation	2014	-1.9224324210716937	-12.441517766152725	3709185
+3709399	Robotics	online learning for automatic segmentation of 3d data	2011	-2.2151396001946986	-12.39470884627746	3709426
+3716380	Vision	learning spherical hashing based binary codes for face recognition	2016	-2.119976487172066	-12.03905495895382	3716407
+3717530	ML	learning local feature descriptors with triplets and shallow convolutional neural networks	2016	-1.8785092890969308	-11.825755178912086	3717557
+3718675	Vision	a novel localized and second order feature coding network for image recognition	2018	-2.124082666303231	-11.744057703950427	3718702
+3722750	Vision	a probabilistic approach to cross-region matching-based image retrieval	2019	-1.5621438178149865	-11.852627838042945	3722777
+3723199	Vision	scene parsing by weakly supervised learning with image descriptions	2018	-2.0476518354602984	-12.651224663619466	3723226
+3723663	Vision	feature learning for the image retrieval task	2014	-1.7816486573060493	-11.927662140881793	3723690
+3726296	Vision	semantic image synthesis via adversarial learning	2017	-2.0513820596206633	-12.63127375970796	3726323
+3727286	Vision	an improved deep learning architecture for person re-identification	2015	-2.0204212802465675	-12.313240690689588	3727313
+3731722	Robotics	deep-based fisher vector for mobile visual search	2017	-1.8144795051914968	-12.360710780839078	3731749
+3732173	Vision	ensembles of support vector data description for active learning based annotation of affective corpora	2015	-2.2971650400238035	-12.574721562165214	3732200
+3734085	AI	in defense of fully connected layers in visual representation transfer	2017	-2.1485640665164194	-12.005896752201812	3734112
+3734237	ML	chart classification by combining deep convolutional networks and deep belief networks	2015	-2.1511642616906936	-12.11196428540843	3734264
+3734858	Vision	deep cnn based pseudo-concept selection and modeling for generation of semantic multinomial representation of scene images	2018	-1.8939613837608815	-12.340936257443984	3734885
+3734949	Vision	deep convolutional neural network with independent softmax for large scale face recognition	2016	-2.2240731782910967	-12.312700627006604	3734976
+3735006	Vision	sketch me that shoe	2016	-1.9976770006968825	-12.497325447248384	3735033
+3735454	AI	group-wise deep co-saliency detection	2017	-2.2451843159027343	-12.264391695573359	3735481
+3736055	Vision	human action recognition with attribute regularization	2012	-2.211292736847146	-12.098993914100495	3736082
+3743565	Vision	stacked overcomplete independent component analysis for action recognition	2016	-2.214932028100322	-12.019629027666733	3743592
+3743838	AI	3d object understanding with 3d convolutional neural networks	2016	-2.0569164765768577	-12.136286425484949	3743865
+3744015	Vision	weakly supervised patchnets: describing and aggregating local patches for scene recognition	2017	-2.147217968965756	-12.543773043258092	3744042
+3748876	Vision	learning feature hierarchies: a layer-wise tag-embedded approach	2015	-1.6144258888350604	-12.214489237669287	3748903
+3749456	Vision	large age-gap face verification by feature injection in deep networks	2017	-1.9769448382362256	-11.888847589223971	3749483
+3751401	Vision	generalizing a person retrieval model hetero- and homogeneously	2018	-2.191860654655025	-11.990786108603189	3751428
+3757095	AI	deep structured learning for visual relationship detection	2018	-1.6159691363765565	-11.888834693980478	3757122
+3758656	Vision	cutting the error by half: investigation of very deep cnn and advanced training strategies for document image classification	2017	-2.1559306031645744	-12.402548625568595	3758683
+3758758	ML	sketching out the details: sketch-based image retrieval using convolutional neural networks with multi-stage regression	2018	-2.0714930691390827	-12.451108426359367	3758785
+3759761	Vision	evaluating merging strategies for sampling-based uncertainty techniques in object detection	2018	-2.235163575318481	-11.887309289887975	3759788
+3763104	ML	guest editorial: deep learning	2015	-1.5915623040144515	-11.827749862081495	3763131
+3767319	Vision	editorial: special issue on probabilistic models for image understanding	2010	-1.9761627050333657	-11.899222119286009	3767346
+3767798	ML	image classification using labelled and unlabelled data	2006	-2.1899894105677267	-12.023425300733635	3767825
+3768713	Vision	scene categorization with classified codebook model	2011	-1.683255933705519	-12.509203156130418	3768740
+3777972	Vision	aggregating deep convolutional features for image retrieval	2015	-1.8920947657585236	-11.968043324797137	3777999
+3779018	Vision	hierarchical bow with segmental sparse coding for large scale image classification and retrieval	2018	-1.4340185133257632	-12.055555920026613	3779045
+3784856	Vision	window mining by clustering mid-level representation for weakly supervised object detection	2014	-1.9666173837517555	-12.620378387056231	3784883
+3785767	Vision	person re-identification meets image search	2015	-2.0093192796799904	-12.451086289304564	3785794
+3786344	Vision	hybrid cnn and dictionary-based models for scene recognition and domain adaptation	2017	-2.333612153248521	-12.008200280672359	3786371
+3790569	ML	zero-shot learning to manage a large number of place-specific compressive change classifiers	2017	-1.5419723555450795	-11.972539071754634	3790596
+3793283	Vision	improving the fisher kernel for large-scale image classification	2010	-1.6511304219958038	-12.264390700967722	3793310
+3794346	Vision	agenet: deeply learned regressor and classifier for robust apparent age estimation	2015	-2.319672512577815	-12.28891966126898	3794373
+3795922	ML	an efficient deep learning hashing neural network for mobile visual search	2017	-1.9343396182918775	-12.315102227717789	3795949
+3797662	Vision	collaborative track analysis, data cleansing, and labeling	2011	-2.0209296962873644	-12.406170525043807	3797689
+3800709	AI	a concatenating framework of shortcut convolutional neural networks	2017	-2.3532778825397402	-12.231313743751173	3800736
+3801008	Vision	unsupervised joint mining of deep features and image labels for large-scale radiology image categorization and scene recognition	2017	-1.9444331724796051	-12.53959544871869	3801035
+3801552	Vision	ontology-driven hierarchical deep learning for fashion recognition	2018	-1.649498946321068	-11.908647145578518	3801579
+3804740	Vision	understanding how deep neural networks learn face expressions	2016	-2.1729845378261383	-12.639423290466285	3804767
+3806774	AI	combining local and global hypotheses in deep neural network for multi-label image classification	2017	-2.3838036650114702	-12.15094391591337	3806801
+3808827	Vision	learning the kernel combination for object categorization	2010	-2.3520136445968443	-12.01540470203312	3808854
+3809415	Vision	infomax principle based pooling of deep convolutional activations for image retrieval	2017	-2.3069860971319445	-11.807284307633136	3809442
+3809583	Vision	deep part-based image feature for clothing retrieval	2017	-2.123536482902027	-12.620404349143325	3809610
+3813896	Vision	collaborative deep networks for pedestrian detection	2017	-2.159682281440069	-12.046108819408396	3813923
+3815746	AI	hierarchical feature coding for image classification	2014	-2.0348944685632424	-12.343483196395773	3815773
+3819117	Vision	towards good practices for multi-modal fusion in large-scale video classification	2018	-1.9406418295816728	-12.55825250016832	3819144
+3820130	NLP	can image-level labels replace pixel-level labels for image parsing	2014	-2.2418892558835606	-12.485401067178886	3820157
+3820658	Vision	learning discriminative action and context representations for action recognition in still images	2017	-2.262507643775732	-12.569948678657793	3820685
+3821007	AI	semantic graph construction for weakly-supervised image parsing	2014	-2.2547462999469023	-12.242486652887282	3821034
+3821572	ML	improved techniques for learning to dehaze and beyond: a collective study	2018	-2.1795593840322134	-12.659543833265596	3821599
+3822099	AI	jointly using deep model learned features and traditional visual features in a stacked svm for medical subfigure classification	2017	-1.5177947190982617	-12.675418673369968	3822126
+3822313	Vision	a late fusion approach for harnessing multi-cnn model high-level features	2017	-2.1442265482691107	-12.218690294155598	3822340
+3822341	Vision	a joint evaluation of dictionary learning and feature encoding for action recognition	2014	-2.10536177054242	-12.538827805991195	3822368
+3824860	Vision	netvlad: cnn architecture for weakly supervised place recognition	2016	-2.0433537952560807	-12.611817251766162	3824887
+3828640	AI	incremental learning for fine-grained image recognition	2016	-1.8947307004614995	-11.874948786737358	3828667
+3828647	Vision	subset selection for visualization of relevant image fractions for deep learning based semantic image segmentation	2018	-2.3416566681385103	-12.330069333151018	3828674
+3834506	Vision	cross-modal retrieval with cnn visual features: a new baseline	2016	-1.759567176387248	-12.382771632431787	3834533
+3835233	Robotics	all vehicles are cars: subclass preferences in container concepts	2012	-1.7311173451073891	-12.3391015959764	3835260
+3839790	ML	gaussian process classification as metric learning for forensic writer identification	2018	-1.5302482729888112	-12.078622746692025	3839817
+3847342	AI	deep crossing: web-scale modeling without manually crafted combinatorial features	2016	-1.90098836368265	-12.22576331867968	3847369
+3848115	Vision	l2-net: deep learning of discriminative patch descriptor in euclidean space	2017	-2.3401956518972904	-12.173510110558164	3848142
+3848502	Vision	image segmentation with topic random field	2010	-1.852539472121568	-12.613306782526331	3848529
+3850618	ML	improved image annotation and labelling through multi-label boosting.	2005	-1.808532632696748	-12.340911022789914	3850645
+3850641	Vision	sde: a novel selective, discriminative and equalizing feature representation for visual recognition	2017	-2.2626031866292395	-12.054742515855427	3850668
+3853512	Vision	exploiting web images for weakly supervised object detection	2017	-2.245991977584344	-12.429686737563786	3853539
+3853640	AI	attention for fine-grained categorization	2015	-2.1848557034062104	-12.472478536446822	3853667
+3853705	Vision	multi-level feature abstraction from convolutional neural networks for multimodal biometric identification	2018	-2.1840666101567656	-12.530979445596518	3853732
+3856732	Vision	collaborative learning network for face attribute prediction	2016	-2.163553672483212	-12.340264654990635	3856759
+3857394	AI	evidential grammars: a compositional approach for scene understanding. application to multimodal street data	2017	-2.0633518543957754	-12.530969125159118	3857421
+3859030	ML	a variational time series feature extractor for action prediction	2018	-1.8484904406627742	-12.246637537705604	3859057
+3859893	Vision	annotation modification for fine-grained visual recognition	2018	-1.6482737061450343	-12.187643236979484	3859920
+3860239	Vision	beyond explicit codebook generation: visual representation using implicitly transferred codebooks	2015	-1.6823685989086188	-12.049699183616012	3860266
+3861839	Vision	boosting image captioning with attributes	2017	-1.6005673423291489	-12.102610724457517	3861866
+3863469	Vision	learning to compose dynamic tree structures for visual contexts	2018	-1.4403938290363483	-12.221028965801327	3863496
+3864169	Vision	free-hand sketch recognition by multi-kernel feature learning	2015	-1.9093494200929424	-12.670427388914215	3864196
+3865863	ML	the effect of learning strategy versus inherent architecture properties on the ability of convolutional neural networks to develop transformation invariance	2018	-2.268106852195627	-12.540514452666528	3865890
+3869360	Vision	which looks like which: exploring inter-class relationships in fine-grained visual categorization	2014	-1.7125112376036582	-11.742640492521772	3869387
+3871496	Vision	activity detection with latent sub-event hierarchy learning	2018	-2.1834687720744737	-11.773940937484536	3871523
+3871543	Robotics	neural network with saliency based feature selection ability	2017	-2.1194999888191273	-11.737280802811716	3871570
+3872059	Vision	identifying spatial relations in images using convolutional neural networks	2017	-1.7701446024283358	-12.502808704326803	3872086
+3873170	Vision	large-scale product classification via spatial attention based cnn learning and multi-class regression	2017	-2.0825648913408457	-12.03372475924906	3873197
+3873495	ML	object-oriented dynamics predictor	2018	-1.82728373986726	-11.947495625068047	3873522
+3873735	NLP	computer hex algorithm using a move evaluation method based on a convolutional neural network	2017	-1.7497238695861894	-11.932868533156581	3873762
+3874441	AI	relative attributes with deep convolutional neural network	2015	-1.9190472036889883	-12.253690678761597	3874468
+3876781	AI	semantic embedding for sketch-based 3d shape retrieval	2018	-1.636046658559715	-12.145221643096068	3876808
+3879970	ML	webly-supervised fine-grained visual categorization via deep domain adaptation	2018	-1.853628125353708	-12.184182934837596	3879997
+3880323	Vision	object-proposal evaluation protocol is ‘gameable’	2016	-1.9275546532688117	-11.992005103979073	3880350
+3885529	Vision	generative attribute controller with conditional filtered generative adversarial networks	2017	-1.8724112343294836	-12.102517673137147	3885556
+3885614	Vision	hierarchical zero-shot classification with convolutional neural network features and semantic attribute learning	2017	-1.844825040357844	-12.383185050929587	3885641
+3886038	Vision	optical character recognition using transfer learning decision forests	2014	-2.23770097202018	-11.854900937541988	3886065
+3886150	Vision	hyper parameters selection for image classification in convolutional neural networks	2018	-1.8717194713036769	-12.051846334327562	3886177
+3890556	Mobile	deep convolutional neural networks for feature extraction of images generated from complex networks topologies	2018	-2.0162355732026582	-11.851815601527164	3890583
+3891118	ML	semantic feature augmentation in few-shot learning	2018	-1.7405729464220905	-11.747366695384876	3891145
+3892881	Vision	one shot similarity metric learning for action recognition	2011	-1.7601456136616946	-12.198821647832501	3892908
+3893036	Robotics	performance evaluation of an accessory category recognition system using deep neural network	2016	-2.3155096392711343	-12.494190842637458	3893063
+3893428	Vision	cost-sensitive learning of hierarchical tree classifiers for large-scale image classification and novel category detection	2015	-1.8545774829058859	-11.820935476884367	3893455
+3894816	ML	a deep structured model with radius–margin bound for 3d human activity recognition	2015	-2.094940548611106	-12.587953512916133	3894843
+3894963	Vision	miml-fcn+: multi-instance multi-label learning via fully convolutional networks with privileged information	2017	-2.0308414618132797	-11.874421128936401	3894990
+3895186	Vision	on knowledge transfer in object class recognition	2010	-2.097589497126644	-12.510475032768865	3895213
+3898561	Vision	fuzzy clustering based encoding for visual object classification	2013	-1.4616875058186594	-12.550549829183268	3898588
+3903355	Vision	a multi-layer deep fusion convolutional neural network for sketch based image retrieval	2018	-1.9074424163002852	-12.660479879746823	3903382
+3903497	AI	a 3d model recognition mechanism based on deep boltzmann machines	2015	-2.28701090236791	-12.655734921109724	3903524
+3906410	Vision	a partial least squares based ranker for fast and accurate age estimation	2016	-2.321335961498521	-11.740896938043422	3906437
+3906769	Vision	multi-task self-supervised visual learning	2017	-2.2178005516172092	-12.118473540962048	3906796
+3908245	Vision	how to train triplet networks with 100k identities?	2017	-2.251826950036927	-12.004720336956119	3908272
+3909671	Vision	scalable logo recognition based on compact sparse dictionary for mobile devices	2015	-1.4691333672235356	-12.280946813540918	3909698
+3912182	AI	latent max-margin multitask learning with skelets for 3-d action recognition	2017	-2.364864056427591	-12.476708587049645	3912209
+3913103	Vision	weldon: weakly supervised learning of deep convolutional neural networks	2016	-1.9858941552828284	-11.83987049962557	3913130
+3917065	Vision	integrating multi-level deep learning and concept ontology for large-scale visual recognition	2018	-1.9105507527087922	-11.82307613454343	3917092
+3918873	Vision	group invariant deep representations for image instance retrieval	2017	-2.088030724210701	-11.930902597855466	3918900
+3921387	AI	a novel hierarchical bag-of-words model for compact action representation	2016	-1.9065612880514595	-12.064225524526288	3921414
+3926910	Vision	reducing visual confusion with discriminative attention	2018	-2.3461930226736483	-12.179111218750867	3926937
+3929223	Vision	image-to-image translation with conditional adversarial networks	2017	-2.3250652853349103	-12.054219634226875	3929250
+3930336	Vision	facial expression recognition using transfer learning	2018	-2.0892775553606557	-12.293057497975411	3930363
+3931356	Vision	recursive recurrent nets with attention modeling for ocr in the wild	2016	-2.288007757570465	-12.598130115171488	3931383
+3931938	Vision	a relational kernel-based approach to scene classification	2013	-1.938166539368048	-12.672477318798634	3931965
+3932095	Robotics	analysis of different sparsity methods in constrained rbm for sparse representation in cognitive robotic perception	2015	-2.3808850407507305	-12.255258841039089	3932122
+3932866	Vision	the changing fortunes of pattern recognition and computer vision	2016	-1.7651627434599362	-12.278573084294234	3932893
+3937399	AI	metric embedded discriminative vocabulary learning for high-level person representation	2016	-1.5001278783127256	-12.627459501219905	3937426
+3938629	Vision	scarce face recognition via two-layer collaborative representation	2018	-2.1210211385131634	-11.773180881947903	3938656
+3938890	Vision	adversarial nets with perceptual losses for text-to-image synthesis	2017	-2.2713925522615965	-12.661508196707516	3938917
+3942805	Vision	multi-view 3d object retrieval with deep embedding network	2016	-1.7447079043119085	-12.358277714740474	3942832
+3948168	AI	an ensemble of deep learning architectures for automatic feature extraction	2016	-1.937858189680029	-11.932137956551456	3948195
+3948891	Robotics	category-specific incremental visual codebook training for scene categorization	2010	-1.5022808398710938	-12.175955461029034	3948918
+3949227	Vision	landmark classification with hierarchical multi-modal exemplar feature	2015	-1.644580015034229	-11.973918988522506	3949254
+3949441	Vision	improving ensemble learning performance with complementary neural networks for facial expression recognition	2018	-2.3504327047757507	-12.235109771561484	3949468
+3950627	AI	heterogeneous visual features integration for image recognition optimization in internet of things	2018	-2.140850089483945	-12.53479450110626	3950654
+3951931	Vision	joint classification loss and histogram loss for sketch-based image retrieval	2017	-2.1100348883725357	-12.252998836211455	3951958
+3954234	Vision	using tagged images of low visual ambiguity to boost the learning efficiency of object detectors	2013	-1.900659861360953	-12.444077772680034	3954261
+3955745	Vision	video-to-shot tag propagation by graph sparse group lasso	2013	-1.6184449526154796	-12.074569236275648	3955772
+3955859	ML	identifying style of 3d shapes using deep metric learning	2016	-1.9508588138994032	-12.487998622840252	3955886
+3958384	Vision	deep context-sensitive facial landmark detection with tree-structured modeling	2018	-2.3878544775184247	-12.513976786848376	3958411
+3960237	AI	content based image retrieval of remote sensing images based on deep features	2018	-1.7407679380424186	-12.298220155666769	3960264
+3960502	Vision	exploring discriminative views for 3d object retrieval	2016	-1.686087810342526	-12.64857855853398	3960529
+3961476	Vision	a discriminative latent model of object classes and attributes	2010	-1.6896337658718517	-12.19474912392368	3961503
+3963899	Vision	scene classification with low-dimensional semantic spaces and weak supervision	2008	-1.5518684841246433	-12.030188122759313	3963926
+3964658	Vision	spatial weighted fisher vector for image retrieval	2017	-2.028879873486908	-11.981817832943854	3964685
+3964880	Vision	compact correlation coding for visual object categorization	2011	-2.2518519861282216	-12.632024889356785	3964907
+3965420	Vision	synthesis of high-quality visible faces from polarimetric thermal faces using generative adversarial networks	2018	-2.3433889632371807	-12.56041813351149	3965447
+3965580	Vision	incorporating supervision for visual recognition and segmentation	2011	-1.8721569281939616	-12.061755451407398	3965607
+3967192	Vision	video scene classification using spatial pyramid based features	2014	-2.3564402449509085	-12.604821722784136	3967219
+3968035	Vision	a hybrid architecture based on cnn for image semantic annotation	2016	-1.5015407588865306	-12.1159537615376	3968062
+3968390	Vision	cnn fixations: an unraveling approach to visualize the discriminative image regions	2018	-2.0739249807270235	-12.638907065667569	3968417
+3971507	Vision	tutor-based learning of visual categories using different levels of supervision	2010	-1.7985103902342003	-12.555154384462874	3971534
+3971582	Vision	hierarchical learning for large-scale image classification via cnn and maximum confidence path	2015	-1.7833923653406385	-12.030883965115759	3971609
+3974644	ML	enhanced biologically inspired model for object recognition	2011	-2.1900145635539956	-12.326730242559185	3974671
+3980360	Vision	gvcnn: group-view convolutional neural networks for 3d shape recognition	2018	-2.279752418959883	-12.45603749539008	3980387
+3981439	Vision	wnd-charm: multi-purpose image classification using compound image transforms	2008	-2.191981656503355	-11.981872138992868	3981466
+3982027	ML	disentangling multiple conditional inputs in gans	2018	-2.393351473288166	-12.557592366868697	3982054
+3982136	ML	large-scale plant classification using deep convolutional neural networks	2018	-2.0430060019412704	-12.334464374871585	3982163
+3984972	Vision	adaptive detrending to accelerate convolutional gated recurrent unit training for contextual video recognition	2018	-2.177520636419472	-12.377970802929804	3984999
+3985046	AI	divide and conquer-based 1d cnn human activity recognition using test data sharpening †	2018	-2.0005933559689653	-12.14580708255489	3985073
+3986776	AI	comparison of clustering methods for pose based video summarization	2013	-1.4741819796521567	-12.573323014345073	3986803
+3988375	AI	deep neural networks - a brief history	2018	-2.1383783988932197	-12.046288269864561	3988402
+3989989	Vision	jointly learning heterogeneous features for rgb-d activity recognition	2015	-2.3414826039797765	-12.518177137133865	3990016
+3998104	Vision	learning a compact latent representation of the bag-of-parts model	2014	-2.099824140628117	-12.0939850339938	3998131
+3998642	Vision	object clique representation for scene classification	2012	-2.015250526356552	-12.618656202464859	3998669
+4002927	AI	examining cnn representations with respect to dataset bias	2018	-2.2562724369479152	-11.903548433719852	4002954
+4005314	Vision	learning from synthetic data: addressing domain shift for semantic segmentation	2018	-2.168938240035694	-11.832771066688096	4005341
+4009978	AI	doom level generation using generative adversarial networks	2018	-1.8747858578636805	-12.000874001379586	4010005
+4010142	Vision	salient object detection via multiple instance learning	2017	-2.364878871103812	-12.179898510205824	4010169
+4010198	AI	curl: co-trained unsupervised representation learning for image classification.	2015	-2.1634170717856462	-11.913637261512136	4010225
+4011518	Vision	image categorization through optimum path forest and visual words	2011	-2.017441831856173	-11.846591784950615	4011545
+4013211	AI	a semi-supervised image classification model based on improved ensemble projection algorithm	2018	-2.1661951378072444	-11.725125796467724	4013238
+4017932	Vision	deep boosting: layered feature mining for general image classification	2014	-1.969920762242155	-12.052617557278245	4017959
+4018503	Vision	class-specific binary correlograms for object recognition	2007	-1.5832236571527778	-12.677395265000262	4018530
+4018519	Vision	internal transfer learning for improving performance in human action recognition for small datasets	2017	-2.185067083358596	-12.662219578988454	4018546
+4018694	Vision	deepirisnet: deep iris representation with applications in iris recognition and cross-sensor iris recognition	2016	-2.3672823685026154	-12.377462862005586	4018721
+4019586	Vision	from semi-supervised to transfer counting of crowds	2013	-2.0558383798138764	-12.085675391609307	4019613
+4019779	NLP	two-stream convolutional neural network for multimodal matching	2018	-1.8387940211433635	-12.418443038431857	4019806
+4019901	ML	information-based learning of deep architectures for feature extraction	2013	-2.3070613589323528	-12.095453555501395	4019928
+4020475	Vision	very deep convolutional networks for large-scale image recognition	2014	-2.3032549369629334	-12.250720632543795	4020502
+4025064	Vision	a max margin framework on image annotation and multimodal image retrieval	2007	-2.1088746259558486	-12.405218521915545	4025091
+4027805	Vision	interactive: inter-layer activeness propagation	2016	-2.047574361407994	-12.30242824178084	4027832
+4032429	AI	only learn one sample: fine-grained visual categorization with one sample training	2018	-2.0131893112503083	-12.398563379631176	4032456
+4037993	Vision	toward a practical visual object recognition system	2013	-2.067417144713806	-11.913968847984519	4038020
+4039538	ML	a discriminative latent model of image region and object tag correspondence	2010	-1.5578404868594378	-12.20558642143856	4039565
+4043060	Vision	image retrieval with fisher vectors of binary features	2013	-1.5081315074770751	-12.581764345286308	4043087
+4048079	Vision	embedding label structures for fine-grained feature representation	2016	-2.0827963035625974	-12.67683053831558	4048106
+4055650	Vision	label distribution-based facial attractiveness computation by deep residual learning	2018	-2.294275449801225	-12.144102829126394	4055677
+4056077	AI	neural abstract style transfer for chinese traditional painting	2018	-2.195363501253184	-12.35304524152258	4056104
+4058435	Vision	combination of resnet and center loss based metric learning for handwritten chinese character recognition	2017	-2.360193155652353	-12.458494095861822	4058462
+4058461	AI	improving bag-of-words representation with efficient twin feature integration	2015	-1.5945565767340657	-12.475393593841751	4058488
+4060371	AI	weakly-supervised image parsing via constructing semantic graphs and hypergraphs	2014	-2.152428340954029	-12.148658930525913	4060398
+4061202	Vision	factorized distillation: training holistic person re-identification model by distilling an ensemble of partial reid models	2018	-2.2008777020415087	-12.37094248453127	4061229
+4061494	Vision	unsupervised learning of disentangled representations from video	2017	-2.2745487406980174	-12.657392307564914	4061521
+4064184	Vision	efficient object detection using convolutional neural network-based hierarchical feature modeling	2016	-2.3577626877298927	-12.66953785596836	4064211
+4065754	Vision	twin-gan - unpaired cross-domain image translation with weight-sharing gans	2018	-2.265685843557257	-11.962091675581114	4065781
+4066985	ML	inverting and visualizing features for object detection	2012	-2.006380329082885	-12.537072841591613	4067012
+4068067	Vision	towards the design of an end-to-end automated system for image and video-based recognition	2016	-2.111130329243895	-12.421913972351112	4068094
+4069895	Vision	attentive linear transformation for image captioning	2018	-1.6383827809430502	-11.95311986211447	4069922
+4070063	Vision	factors of transferability for a generic convnet representation	2016	-1.9426033095903188	-11.787855782064051	4070090
+4070641	AI	semantic segmentation with reverse attention	2017	-2.300124654161274	-11.849130451439883	4070668
+4074023	ML	pillar networks++: distributed non-parametric deep and wide networks	2017	-2.086996881088983	-11.845517278376116	4074050
+4074835	Vision	understanding human aging patterns from a machine perspective	2018	-2.2137444954217727	-12.680479435980361	4074862
+4078011	Vision	learning subcategory relevances for category recognition	2008	-1.7750715436279572	-12.523967195820733	4078038
+4078399	Vision	detecting faces from low-resolution images	2005	-1.926673092036056	-12.37968140765347	4078426
+4078690	Vision	leveraging multiple tasks to regularize fine-grained classification	2016	-2.2750192705452785	-12.171963260846924	4078717
+4079649	Vision	deepcd: learning deep complementary descriptors for patch representations	2017	-2.2667193544791164	-12.242982860869349	4079676
+4081569	ML	traversing latent space using decision ferns	2018	-1.5575328015213046	-11.898641823473602	4081596
+4083206	Vision	improving the annotation of deepfashion images for fine-grained attribute recognition	2018	-1.7235134327334767	-12.651402185305109	4083233
+4084337	Vision	data fusion through cross-modality metric learning using similarity-sensitive hashing	2010	-1.7486179949950829	-11.73386859792844	4084364
+4086143	AI	deep learning driven hypergraph representation for image-based emotion recognition	2016	-1.9181911798962483	-12.601260069069367	4086170
+4086439	Vision	unsupervised object class discovery via saliency-guided multiple class learning	2012	-2.356331267364105	-11.942130330363344	4086466
+4088705	Robotics	hierarchical dirichlet processes for unsupervised online multi-view action perception using temporal self-similarity features	2013	-1.8093472860289528	-12.355516377203704	4088732
+4091192	ML	mcboost: multiple classifier boosting for perceptual co-clustering of images and visual features	2008	-1.9097676397418992	-12.418529695023725	4091219
+4092159	Vision	kernels on bags of fuzzy regions for fast object retrieval	2007	-1.595316623940772	-12.163590116996948	4092186
+4092326	Vision	the imagenet shuffle: reorganized pre-training for video event detection	2016	-1.9996761438272657	-12.626643662317724	4092353
+4093350	Vision	discriminative hallucination for multi-modal few-shot learning	2018	-1.8843416400016595	-12.044765779625225	4093377
+4095638	AI	image classification using boosted local features with random orientation and location selection	2015	-2.0891598700559117	-12.156056691214658	4095665
+4096135	Vision	fashion parsing with weak color-category labels	2014	-2.320628325970572	-12.557523450168915	4096162
+4097820	AI	a deep two-stream network for bidirectional cross-media information retrieval	2016	-1.5927754904015976	-12.092918493256676	4097847
+4099866	Vision	image retrieval, object recognition, and discriminative models	2008	-1.549536929269861	-12.638525778783224	4099893
+4100303	ML	finegan: unsupervised hierarchical disentanglement for fine-grained object generation and discovery	2018	-1.9163359032956118	-12.600631803504443	4100330
+4102376	Vision	neural activation constellations: unsupervised part model discovery with convolutional networks	2015	-2.368220764798066	-12.596026262769824	4102403
+4102816	AI	scan: sliding convolutional attention network for scene text recognition	2018	-2.016820580378284	-12.421268892583175	4102843

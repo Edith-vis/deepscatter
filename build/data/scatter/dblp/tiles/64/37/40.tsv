@@ -1,0 +1,464 @@
+id	area	title	year	x	y	ix
+3292245	Theory	using metaprogramming to add persistence to clos	1994	5.525773828965784	8.129713705999672	3292272
+3292648	Logic	06121 executive summary -- atomicity: a unifying concept in computer science	2006	6.063351283076964	7.896003682570939	3292675
+3294387	Logic	model checking: back and forth between hardware and software	2005	5.729421023357643	8.366177967348401	3294414
+3297109	PL	refactoring in erlang, a dynamic functional language	2007	5.847024216535662	7.774203789663148	3297136
+3298426	PL	interprolog: towards a declarative embedding of logic programming in java	2004	5.544947856122973	7.865608241588169	3298453
+3299663	PL	robust trait composition for javascript	2015	6.019442722725482	7.989764916743567	3299690
+3300595	SE	practical verification of component substitutability using subtype relation	2006	5.583069704910255	7.92682690426983	3300622
+3304672	AI	a bisimulation-based approach to the analysis of human-computer interaction	2009	5.5480477212988415	8.155902829829971	3304699
+3304792	PL	a graph rewriting framework for statecharts semantics	1994	6.2145514868918985	8.295830900311431	3304819
+3306400	SE	statechart verification with istate	2006	5.542574462438755	8.309281886167227	3306427
+3308424	PL	a compiler-compiler for dsl embedding	2018	6.248251130683437	7.999065628255867	3308451
+3309247	SE	the groove simulator: a tool for state space generation	2003	5.802129534751633	8.036123444290212	3309274
+3309788	PL	the road to utopia: a future for generative programming	2003	5.54021818933787	7.486183546719108	3309815
+3310343	PL	virtual values for language extension	2011	5.719818845956122	7.835222391908005	3310370
+3311215	SE	homogeneous localization of structural interactivity dependencies in megaprograms using scripts.	1994	5.352270058765709	8.386092576857381	3311242
+3313850	SE	43 years of actors: a taxonomy of actor models and their key properties	2016	5.627170672309943	7.687566352568742	3313877
+3315369	AI	omniscient debugging for cognitive agent programs	2017	6.268259463404352	8.361255125518309	3315396
+3315664	DB	efficient computation of search computing queries	2010	5.862067339533907	7.855707078416362	3315691
+3317324	Security	debugging distributed systems with why-across-time provenance	2018	5.910819729570478	8.261885432576202	3317351
+3317441	SE	abstracting dependencies between software configuration items	1996	6.0529218109157785	7.952897276993022	3317468
+3317622	PL	arguments and results	2000	6.0024460236764146	7.844915390947508	3317649
+3317834	ML	statistical debugging: simultaneous identification of multiple bugs	2006	5.380495521185242	8.144221314487622	3317861
+3317855	EDA	design and implementation of the high-level specification language csp(lp) in prolog	2001	5.606799186842163	7.863836540194267	3317882
+3322260	PL	squid: type-safe, hygienic, and reusable quasiquotes	2017	5.450232586185651	7.525888263208263	3322287
+3325505	SE	asap - a simple assertion pre-processor	1998	6.037196546128412	7.8353362527404125	3325532
+3326509	PL	extensible modules for javascript	2016	5.545890595034091	8.029796946573002	3326536
+3327216	Robotics	generative programming and component engineering : 4th international conference, gpce 2005, tallinn, estonia, september 29 - october 1, 2005 : proceedings	2005	6.010187423356188	7.549732277197783	3327243
+3329784	SE	[engineering paper] challenges of implementing cross translation unit analysis in clang static analyzer	2018	6.13349851190294	8.384733078582412	3329811
+3330108	SE	@composite: macro annotations for java c	2009	5.622532495414483	7.535234996508124	3330135
+3330856	PL	linguistic reflection in java	1998	6.194415775286254	7.656258328599857	3330883
+3332054	PL	a framework for formal reasoning about open distributed systems	1999	5.702651836186352	8.27519178960058	3332081
+3334721	SE	cost and benefit of rigorous decoupling with context-specific interfaces	2006	5.871773256697298	7.818262515515399	3334748
+3336645	PL	code generation from specifications in higher-order logic	2009	5.3716519533580405	7.845913871944541	3336672
+3340677	SE	a controlled experiment to assess the benefits of procedure argument type checking	1998	6.017227054127245	8.024320449254674	3340704
+3342382	SE	aluminum: principled scenario exploration through minimality	2013	5.714728569080272	8.116100938855162	3342409
+3343902	PL	adaptable generic programming with required type specifications and package templates	2012	5.470257421416338	7.722553749889747	3343929
+3344827	PL	scope: an aspectj compiler for supporting user-defined analysis-based pointcuts	2007	5.511205371704191	8.244519452690545	3344854
+3345266	HPC	derivation control environment as a tool for an efficient distributed graph transformations coordination	2008	6.222052549416393	8.011518383316183	3345293
+3346170	SE	tltosql: rapid post-mortem verification using temporal logic to sql code generation in the eclipse pde	2009	5.827011380381541	8.260859261230573	3346197
+3347005	Logic	information from deduction: models and proofs (dagstuhl seminar 15381)	2015	6.028491001696223	7.976881697057243	3347032
+3348101	Logic	basic research in computer science and software engineering at sklcs	2008	6.1265201933739295	7.956308736022573	3348128
+3348787	SE	reducing the use of nullable types through non-null by default and monotonic non-null	2008	5.7797386283178	8.134083710689104	3348814
+3353193	PL	towards more generic aspect-oriented programming: rethinking the aop joinpoint concept	2012	5.84753387922172	7.634043437096658	3353220
+3353691	Web+IR	high-level server side web scripting in curry	2001	5.857838153877102	7.597294360404997	3353718
+3355284	PL	quasi-static scoping: sharing variable bindings across multiple lexical scopes	1993	5.4845416343001325	7.659940170718283	3355311
+3356321	PL	fortifying macros	2012	5.633824322927874	7.852059252328818	3356348
+3356461	SE	concurrent runtime checking of annotated ada programs	1986	5.7378732586611365	8.239705751305431	3356488
+3358933	Logic	specware: formal support for composing software	1995	5.8374395661865845	8.222231287064071	3358960
+3360856	PL	compile-time reflection and metaprogramming for java	2014	5.689703213281544	7.791022753247572	3360883
+3361124	SE	z2sal: a translation-based model checker for z	2009	5.976139286133707	8.38634742278092	3361151
+3362331	Embedded	formal verification of fault tolerance using theorem-proving techniques	1989	6.073900108409855	8.37968942484467	3362358
+3365933	Embedded	thunderstriking constraints with jupiter	2005	6.168773011396426	8.254460628929492	3365960
+3366701	SE	execution trace exploration and analysis using ontologies	2011	5.98885577769904	7.59434047220341	3366728
+3367033	PL	stratego/xt 0.16: components for transformation systems	2006	5.955501896154036	7.6523954837515475	3367060
+3368055	SE	an approach to generating and verifying complex scripts and procedures	2005	6.104532522110344	7.900046792488878	3368082
+3368700	SE	can we build an automatic program verifier? invariant proofs and other challenges	2005	5.929660548231902	8.129223934273764	3368727
+3371495	Logic	a type system for reflective program generators	2011	5.430093640066509	7.802941453339309	3371522
+3373177	PL	a constraint-weaving approach to points-to analysis for aspectj	2013	5.475364461435262	8.368266581553518	3373204
+3374163	PL	an overview of ciao and its design philosophy	2012	5.934176501403512	7.524148257455945	3374190
+3377957	SE	writing concurrent java programs based on cafeobj specifications	2017	6.03598191398189	8.260689759911196	3377984
+3382377	PL	application of formal methods to the development of a software maintenance tool	1997	5.824412704874819	7.653049478578128	3382404
+3385242	Logic	beem: benchmarks for explicit model checkers	2007	5.8234152696802175	8.276903157422495	3385269
+3387167	SE	certifiable specification and verification of c programs	2009	6.101013186454913	8.090172253278572	3387194
+3390661	Logic	formal semantics of hybrid chi	2003	6.10247629000038	8.192863779060938	3390688
+3390855	PL	pinocchio: bringing reflection to life with first-class interpreters	2010	5.517303035496858	7.8939222556066575	3390882
+3391487	Logic	coordination: reo, nets, and logic	2007	5.488429150394901	8.320153955216625	3391514
+3394795	PL	program synthesis using dual interpretation	2015	5.668143552910907	8.01942342604144	3394822
+3395216	PL	a formal foundation for trace-based jit compilers	2015	5.701736765805554	8.208629412406681	3395243
+3397219	Logic	concurrency with weak memory models (dagstuhl seminar 16471)	2016	6.002401841859089	8.360581944818037	3397246
+3397513	PL	the hermit in the machine: a plugin for the interactive transformation of ghc core language programs	2012	5.666918130935469	7.589903502081264	3397540
+3399473	PL	slicing objects using system dependence graphs	1998	6.207056708824647	7.711456996976907	3399500
+3400958	PL	aspects and polymorphism in aspectj	2003	5.59837450073444	7.736515936495192	3400985
+3402905	PL	extensible compiler construction	2006	5.880477016561322	7.666541572565481	3402932
+3403519	PL	model-driven engineering from modular monadic semantics: implementation techniques targeting hardware and software	2009	5.645189391219128	8.15772235956648	3403546
+3403546	SE	precise identification of side-effect-free methods in java	2004	5.706730322521973	8.386693645678854	3403573
+3405528	Logic	model checking: algorithmic verification and debugging	2009	5.80958574340847	8.362486996595317	3405555
+3408159	PL	automatic translation from circus to java	2006	6.0610443496170925	8.060400082320934	3408186
+3408918	NLP	software modeling language with frames and multi-abstractions: an overview	2012	6.204088042763798	7.467036762277073	3408945
+3410480	Robotics	jml4: towards an industrial grade ive for java and next generation research platform for jml	2008	6.233070721732906	8.168269143041519	3410507
+3410517	PL	mj: a rational module system for java and its applications	2003	6.019974031432102	7.838621390652769	3410544
+3412366	EDA	formal digital license language with ots/cafeobj method	2008	5.87044090812052	7.979568101267585	3412393
+3412970	NLP	macro and file structure preservation in source-to-source translation	1996	5.7027092458627004	7.522680840070862	3412997
+3414192	PL	integrating graph rewriting and standard software tools	2003	5.92081380844918	7.630865551123519	3414219
+3414445	SE	debugging without testing	2016	6.001623416852622	8.159476288374798	3414472
+3419564	Logic	prosper: a language for specification by prototyping	1989	5.80739685101671	7.498385157715568	3419591
+3421622	SE	components as coalgebras: the refinement dimension	2006	6.094303367133522	8.38519694852968	3421649
+3421798	Embedded	translating hierarchical block diagrams into composite predicate transformers	2015	5.498959254383929	8.1224348620025	3421825
+3421964	SE	formal and model-based testing of concurrent workflows	2011	5.609342555509078	8.249258933215764	3421991
+3425444	Logic	a formal model of memory peculiarities for the verification of low-level operating-system code	2008	5.477396565374393	8.209731773360707	3425471
+3426920	PL	improving type error messages for generic java	2009	5.363192553275363	8.037323212274899	3426947
+3431772	SE	automatic testing of sequential and concurrent substitutability	2013	6.034682227151508	8.283289030701978	3431799
+3436022	SE	green: reducing, reusing and recycling constraints in program analysis	2012	5.4400209967008575	8.030129107665399	3436049
+3436589	PL	adding dynamic types to c#	2010	5.429403943759824	8.066388656697201	3436616
+3436959	SE	symbiotic: synergy of instrumentation, slicing, and symbolic execution - (competition contribution)	2013	5.869295527108754	8.268367625958518	3436986
+3437090	PL	safer typing of complex api usage through java generics	2009	6.30108629695812	7.933273971886043	3437117
+3437662	PL	dependent and-parallelism revisited (poster abstract)	1996	5.441147543906154	8.271596781533013	3437689
+3438861	PL	strongly typed memory areas programming systems-level data structures in a functional language	2006	5.402773811010111	7.837464326945543	3438888
+3443486	PL	composite refactoring using fine-grained transformations	2009	5.80899495745296	7.824998844126752	3443513
+3444117	SE	a hybrid class- and prototype-based object model to support language-neutral structural intercession	2014	5.909316650244121	8.322629030071688	3444144
+3444174	SE	phys: probabilistic physical unit assignment and inconsistency detection.	2018	5.606485378477263	7.7728328649110425	3444201
+3444989	EDA	adding external iterators to an existing eiffel class library	1999	5.741165135655355	7.598245992318294	3445016
+3454168	HPC	generation of incremental indirect threaded code for language-based programming environments	1988	5.8788887351173615	7.642280471807287	3454195
+3456176	SE	a verification environment for bigraphs	2013	6.084525445792048	7.798249140526472	3456203
+3457378	AI	object-oriented system specification using defaults	1994	6.302448368917183	8.391969144065234	3457405
+3460423	PL	a semantic model of a small typed functional language using object-z	2000	5.575223876716144	7.601072572212499	3460450
+3462065	Logic	the formalization of message sequence charts	1996	6.229443351736081	8.349046050099746	3462092
+3463288	PL	genja - a new proposal for parameterised types in java	1997	5.8584462045272945	7.6602888262232804	3463315
+3463400	Theory	xpref: a preference language for p3p	2005	5.443113269283957	7.903144017896827	3463427
+3465079	PL	jeannie: granting java native interface developers their wishes	2007	5.9623520924142905	7.945169767005111	3465106
+3466210	Logic	language based verification tools for functional programs (dagstuhl seminar 16131)	2016	5.66228419615813	7.6326974656177695	3466237
+3466211	SE	using test ranges to improve symbolic execution	2018	6.023549624863543	8.381472727811971	3466238
+3468979	Security	the unix process identity crisis: a standards-driven approach to setuid	2014	5.415173071586867	7.95544596289546	3469006
+3469144	PL	external dispatch: yet another object-oriented single and multiple dispatch mechanism	2017	5.408745212401441	7.734699274412257	3469171
+3471079	PL	functional extensions to the boost metaprogram library	2011	5.349047795447967	7.6531658715482545	3471106
+3471974	EDA	a comparative study of synthesis methods for discrete event controllers	1999	6.27839612682549	8.118791892483786	3472001
+3476087	PL	lap: a little language for os emulation	2000	5.558667784823417	7.605337162636746	3476114
+3477373	NLP	a comparison of the object-oriented features of ada 2005 and javatm	2008	5.343829527452006	7.696856953738505	3477400
+3477499	PL	procedure for testing microprograms	1974	6.244364194558161	7.773018075241397	3477526
+3477804	PL	sub-method reflection	2007	5.595123135099603	8.258818698548225	3477831
+3479886	SE	tool presentation: teaching concurrency and model checking	2009	5.679266521889732	7.764889140895761	3479913
+3481522	PL	a dependence-based representation for concurrent object-oriented software maintenance	1998	5.598700029002532	7.943654996053718	3481549
+3482020	PL	viewing objects as patterns of communicating agents	1990	5.960317686132465	7.717166056969847	3482047
+3486492	Logic	formal verification	2011	6.289878280737983	7.5617977453800975	3486519
+3487312	SE	on the new application of call patterns to cpm testing of prolog programs	2006	5.895822231194786	7.757713369707067	3487339
+3487511	PL	notes on the separate compilation of modelica	2010	5.715887915403045	7.475007005098091	3487538
+3487550	Logic	object-oriented refinement and proof using behaviour functions	2000	6.144469464179668	8.011318948483375	3487577
+3489506	PL	compiling mercury to the .net common language runtime	2001	5.47620698766899	7.526652303122653	3489533
+3490055	PL	program checking with less hassle	2013	5.449442972638252	8.265883758746602	3490082
+3490860	Arch	prototyping symbolic execution engines for interpreted languages	2014	5.568455946289941	8.092445431321828	3490887
+3495932	ML	characterizing human-machine teams with process algebras	2017	5.845260098865943	7.956312391276318	3495959
+3498488	PL	generic traits in statically typed languages - how to do it?	2008	5.6142242850794455	7.5936120739119115	3498515
+3503143	PL	the jastadd extensible java compiler	2007	5.709981022541447	7.640538299243999	3503170
+3503521	AI	compiling csp	2006	5.390944778415257	7.729862919649642	3503548
+3505908	SE	recent improvements to the mcerlang model checker	2009	5.468586299261688	7.472587110271523	3505935
+3506428	PL	the standard specc language	2001	6.297412908876788	7.708203329012315	3506455
+3506643	SE	an executable formal semantics of php	2014	5.964779417349267	8.399753903659564	3506670
+3506867	PL	vector clocks in coq: an experience report	2014	5.359524837528887	7.855578296096708	3506894
+3508185	SE	mockingbird: a logical methodology for testing	1990	5.769429472646893	8.236800168654092	3508212
+3509146	PL	dynamically composable collaborations with delegation layers	2002	5.430598404586881	8.202645504482744	3509173
+3511796	PL	the modular compilation of effects	2017	5.380744920386204	7.734560351733527	3511823
+3514501	PL	smawl: a small workflow language based on ccs	2005	5.369958509187106	7.8520537025463	3514528
+3514667	PL	a discipline of error handling	1992	5.359197968123669	7.450809955754921	3514694
+3515358	Logic	testing abstract distributed programs and their implementations: a constraint-based approach	1996	5.478761856655217	8.040919068792357	3515385
+3520305	PL	a generalized commitment machine for 2cl protocols and its implementation	2012	5.960422300226809	7.941100919652038	3520332
+3520350	Logic	using tame to prove invariants of automata models: two case studies	2000	5.394530247106101	8.233377594697926	3520377
+3521200	PL	resolving feature interaction with precedence lists in the feature language extensions	2007	6.039745532867467	7.994064506977794	3521227
+3521822	Logic	a geometrical refinement of shape calculus enabling direct simulation	2012	5.7988961650814055	7.816211100193508	3521849
+3522577	PL	user-defined join point selectors -- an extension mechanism for pointcut languages	2008	5.795176299118005	7.687878563188898	3522604
+3523251	PL	traits: a mechanism for fine-grained reuse	2006	5.903952394700671	7.826172416506143	3523278
+3523720	PL	the visitor pattern as a reusable, generic, type-safe component	2008	5.427885593143823	7.7115171593854805	3523747
+3524583	SE	specification and verification of dynamics in agent models	2009	6.232097491450057	8.081879890760161	3524610
+3526250	PL	"""software verification """"across the stack"""" (invited talk)"""	2015	5.505572767294562	7.531313563138216	3526277
+3527959	Logic	translating fsp into lotos and networks of automata	2009	5.686439127965128	8.382088622261245	3527986
+3528263	PL	experience report: a do-it-yourself high-assurance compiler	2012	6.2709819944899525	8.274299003533311	3528290
+3534149	PL	objects in real-time systems: issues for language implementors	1996	5.707327770535461	7.545673431253215	3534176
+3534280	Visualization	debugging of dependability models using interactive visualization of counterexamples	2008	6.191570535282942	8.295989744475111	3534307
+3534785	NLP	practical scope recovery using bridge parsing	2008	5.517604989453349	7.768639427473347	3534812
+3542474	Robotics	from specification languages to wide-spectrum logics	2014	6.082131403852872	8.364076017846164	3542501
+3544969	Logic	probabilistic cegar	2008	6.0555312967506865	7.9409366376508785	3544996
+3545102	SE	static data flow analysis of pl/i programs with the probe system	1984	6.0302149518687065	7.859476777648128	3545129
+3547172	PL	a language-independent static checking system for coding conventions	2013	5.787661306136598	7.7826945883350325	3547199
+3548195	SE	static analysis of java dynamic proxies	2018	5.406217473141341	8.000380369104251	3548222
+3550924	PL	featherweight wrap java: wrapping objects and methods	2008	5.357021602841921	7.883618825056008	3550951
+3552271	PL	traits: composable units of behaviour	2003	5.563138148663096	7.498630146644598	3552298
+3552865	PL	attribute grammar-based language extensions for java	2007	5.849552758686174	7.453431275426362	3552892
+3554706	EDA	the first reactive synthesis competition (syntcomp 2014)	2016	6.0007775432395745	8.115354750513642	3554733
+3555682	AI	csp++: how faithful to cspm?	2005	5.871073021000266	8.370575221253281	3555709
+3555836	Logic	teaching concurrency and nondeterminism with spin	2007	6.150722132486664	7.624512860765741	3555863
+3556053	SE	compositional and relational reasoning during class abstraction	2003	5.742358045936324	8.125906136468418	3556080
+3558761	SE	new exception interfaces for java-like languages	2013	6.016727301688412	7.995993653336264	3558788
+3559551	SE	integrated formal methods	1997	5.8165022322459805	8.369026829479997	3559578
+3563118	Logic	theoretical aspects of computing - ictac 2015	2015	6.071100645714537	8.184296541736058	3563145
+3563975	Logic	complementary methodologies for developing hybrid systems with event-b	2012	6.1390196358537565	8.314746728618701	3564002
+3564883	PL	a gentle introduction to multi-stage programming	2003	5.490000314542566	8.318588270371366	3564910
+3565923	Logic	nondeterministic control structures for graph rewriting systems	1991	6.149808501608463	7.574576367981731	3565950
+3566209	PL	defining the undefinedness of c	2015	5.749849757960956	8.236676995976488	3566236
+3569482	Logic	specification, implementation, and verification of domain specific languages: a logic programming-based approach	2002	5.582968458229221	8.003154810571626	3569509
+3573236	PL	a compiler infrastructure for high-performance java	2001	5.4804613180638375	7.948346056038455	3573263
+3577115	PL	an introduction to the construction and verification of alphard programs (abstract)	1976	5.6656027243458205	7.9754944141050075	3577142
+3577694	SE	a jml compiler based on aspectj	2008	6.250928727248176	8.204354937367961	3577721
+3577884	PL	programming language elements for correctness proofs	2008	5.952717887341528	8.05065813745266	3577911
+3579995	PL	rust: from popl to practice (keynote)	2017	5.708193606535586	7.702966445787084	3580022
+3582500	Logic	tool support for learning büchi automata and linear temporal logic	2008	5.552825583493297	7.720212638427577	3582527
+3583417	Web+IR	embedding event algebras and process for eca rules for the semantic web	2008	5.508558696430683	7.5563706240260515	3583444
+3584297	HPC	linking simulation model specification and parallel execution through unity	1991	5.739954780822532	7.55318417303147	3584324
+3590406	PL	writing parsers like it is 2017	2017	5.713142302777554	8.09685597300184	3590433
+3590742	PL	reducing the number of annotations in a verification-oriented imperative language	2009	5.4542057415877565	8.140949436163607	3590769
+3591885	PL	multimethods and separate static typechecking in a language with c++-like object model	2000	5.42089452393893	7.5140063263730354	3591912
+3592915	SE	independent testing of compiler phases using a test case generator	1989	6.0600709722085275	7.996994097822917	3592942
+3593475	SE	towards improving interface modularity in legacy java software through automated refactoring	2016	6.096634535218725	7.668589755071192	3593502
+3594249	PL	static extraction of sound hierarchical runtime object graphs	2009	6.0288266148912735	8.010576814937721	3594276
+3594374	PL	component j: a component-based programming language with dynamic reconfiguration	2008	6.128629625670869	8.321015151611462	3594401
+3595095	SE	verification in the light and large: large-scale verification for fast-moving open source c projects	2007	6.141229835768644	8.148300356345606	3595122
+3597665	PL	static analysis	2015	5.370557829222545	8.208438559762085	3597692
+3599832	EDA	hierarchical development of cncurrent systems in a temporal logic framework	1984	6.105409111803413	8.323147116330537	3599859
+3601214	PL	compile-time execution structure of object-oriented programs with practical ownership domain annotations	2007	6.2387010658287885	7.676280190578662	3601241
+3602403	PL	extending an object-oriented rete network with fine-grained reactivity to property modifications	2013	5.4267420978516085	7.888311518563354	3602430
+3604173	PL	testing automation of context-oriented programs using separation logic	2014	5.771888555181068	7.864306555383085	3604200
+3605721	SE	an exercise in formalizing the description of a concurrent system	1992	6.122112099198122	7.741896772435638	3605748
+3606982	OS	relational access to unix kernel data structures	2014	5.9532489274021705	8.284362048253017	3607009
+3608114	PL	programming coordination laws of artifacts in cartago	2011	6.2901511492776665	7.5604321323645625	3608141
+3608761	SE	policy conflict filtering for call control	2007	5.669206566445391	7.573768023871492	3608788
+3609484	SE	how to transfer concepts of abstract data types to petri nets?	1997	6.299413899878969	8.326015080474447	3609511
+3610518	PL	a compiler for multiple memory models	2004	5.532387949018206	7.982838552405116	3610545
+3610973	PL	enabling expressive aspect oriented modular reasoning by translucid contracts	2010	5.447980403529061	8.195210343330432	3611000
+3611178	SE	deep semantic links of tcsp and object-z: tcoz approach	2002	6.062568906752137	8.380073818784323	3611205
+3615456	PL	towards transitory encapsulation	2015	5.505365739302975	7.651642281580365	3615483
+3618647	PL	rapid development of a program transformation system with attribute grammars and dynamic transformations	1990	5.433755984164083	7.522176065557089	3618674
+3626212	Logic	translation from lotos and estelle specifications to extended transition system and its verification	1989	5.6858012075951425	7.992475180449111	3626239
+3626866	SE	implementing an ltl-to-büchi translator in erlang: a protest experience report	2009	5.789831529978508	7.595370433344352	3626893
+3626914	Logic	specification and verification of invariants by exploiting layers in oo designs	2008	5.7475454428890504	7.757941698068974	3626941
+3628334	SE	the oracle problem for testing against quantified properties	2007	5.991051486345475	8.369886458993639	3628361
+3630220	PL	from static to dynamic process types	2006	5.679265466260466	8.366140551993425	3630247
+3632661	Logic	interopérabilité avec objective caml	2005	5.879572600595701	7.977796135273175	3632688
+3632665	PL	executing hol specifications: towards an evaluation semantics for classical higher order logic	1992	5.566038995710031	7.943276375780956	3632692
+3632895	PL	a modern objective-c runtime.	2009	5.750006119322938	8.047456727255593	3632922
+3635431	Embedded	game interpretation of the deadlock avoidance problem	1977	6.10791105278116	8.261683640964405	3635458
+3635734	PL	spoon: compile-time annotation processing for middleware	2006	5.505986757619274	7.943805198232611	3635761
+3636128	PL	implementing signatures for c	1994	5.412773341486735	7.497580550192983	3636155
+3639538	PL	jessie: an intermediate language for java and c verification	2007	5.832616171004211	8.137953627741966	3639565
+3639726	SE	from java to upgradej: an empirical study	2008	5.364636110910025	8.015813255522904	3639753
+3641616	SE	finding errors in components that exchange xml data	2007	6.073196873568082	7.557757504863058	3641643
+3643193	Web+IR	a declarative-friendly api for web document manipulation	2013	5.5682648699229365	7.931458642245468	3643220
+3645208	SE	proof techniques for adapter generation	2008	5.604642480283752	7.496292827359428	3645235
+3645736	SE	slicing functional programs by calculation	2005	5.405141255018708	7.9033739379818675	3645763
+3650182	SE	crefine: support for the circus refinement calculus	2008	5.726617655495023	8.072935780198826	3650209
+3651734	Embedded	a q-model approach to decomposition and aggregation of specifications of real-time systems	1995	5.385698245176959	8.267571698607483	3651761
+3653480	AI	an object-based aop model and its implementation	2008	6.075596610204991	8.089940033678392	3653507
+3656818	PL	the chameleon type debugger (tool demonstration)	2003	5.9226646808045365	7.650970243509146	3656845
+3663339	PL	otm: applying objects to tasks	1987	5.762579628567929	8.027988136194491	3663366
+3664069	PL	aspects - aspect-oriented programming with squeak	2002	6.049768295134285	8.237621886112885	3664096
+3667624	PL	scripting com components from haskell	1998	6.023149812506349	7.586294602649223	3667651
+3668205	SE	using kids as a tool support for vdm	1996	6.1211354132581075	7.5945409118441285	3668232
+3669698	EDA	an effective approach to model workflow process	2014	6.2410043722541815	7.852886650077479	3669725
+3670134	PL	slicing class hierarchies in c++	1996	5.38344710876285	7.718235518020222	3670161
+3672600	PL	improved tool support for machine-code decompilation in hol4	2015	5.661591391871434	8.159346976175874	3672627
+3675113	Logic	translation of intermediate language to timed automata with discrete data	2008	5.375955760256571	8.295040369123356	3675140
+3675534	PL	learning assertions to verify linked-list programs	2015	5.396148926460758	8.295008572231504	3675561
+3678263	PL	design and implementation of generics for the .net common language runtime	2001	5.3722236165889585	8.092839399716633	3678290
+3678520	PL	a simple implementation technique for mixin inheritance	1993	5.5783563171774695	7.494417538129563	3678547
+3680861	PL	functional prototypes for generic c++ libraries: a transformational approach based on higher-order, typed signatures	2014	5.375947117385441	7.567759700997624	3680888
+3681982	PL	typing context-dependent behavioural variation	2012	5.6008194562387805	8.086689386279154	3682009
+3682066	PL	automatically reasoning about metamodeling	2013	6.156803523118619	8.048462663630866	3682093
+3684544	SE	a compositional approach to active and passive components	2008	6.2680637785744775	8.190025863342898	3684571
+3687375	PL	compiling non-strict functional languages for the .net platform	2005	5.438926837339023	7.803350954370936	3687402
+3687836	SE	parameterized unit tests	2005	5.989016933449713	8.331253107509491	3687863
+3690720	SE	the method replacement indicator: a metric for analyzing behavioral substitution	2001	6.122204806671507	7.545579324704302	3690747
+3693688	PL	checking api protocol compliance in java	2008	5.999823113267024	8.024592495666209	3693715
+3697185	EDA	an approach towards the verification of expert systems using numerical petri nets	1991	5.8716755277173425	7.696552675097961	3697212
+3697801	SE	from operational to declarative specifications using a genetic algorithm	2018	6.208153936945464	8.302913801516327	3697828
+3698087	PL	automatic generation and management of interprocedural program analyses	1993	5.88627812315557	7.706169808057361	3698114
+3698424	SE	towards verifying distributed systems using object-oriented petri nets	1999	5.795312339699253	8.370319459958464	3698451
+3699319	PL	a stub generation system for c++	1995	5.656872464434044	7.732663557506196	3699346
+3699756	PL	support for dynamic binding in strongly typed languages	1987	5.544207758376022	7.751719253894181	3699783
+3703125	EDA	a formal description of vhdl-ams analogue systems	1998	6.174269778723503	8.249161246780831	3703152
+3705541	SE	awesome: an aspect co-weaving system for composing multiple aspect-oriented extensions	2007	6.2905704448161845	7.867309367834327	3705568
+3707970	SE	specification coverage for testing in circus	2010	5.608376223112994	8.120261864669349	3707997
+3708884	PL	proof hints for event-b	2012	5.9189002488127755	7.817115077604384	3708911
+3710983	PL	a unified approach to object-oriented vhdl	1998	6.0021443996119554	7.783363005703479	3711010
+3711114	SE	transparency, holophrasting, and automatic layout applied to control structures for visual dataflow programming languages	2006	5.678810886418532	8.06810967021174	3711141
+3713864	PL	adding support for persistence to clos via its metaobject protocol	1997	5.556080186761008	8.136936053792564	3713891
+3718127	HPC	methods and software tools to support combined binary code analysis	2014	5.688753248116858	7.690862198831867	3718154
+3718428	PL	babyj: from object based to class based programming via types	2003	5.783098685335553	7.732530582262018	3718455
+3726398	PL	type-safe model transformation languages as internal dsls in scala	2012	5.564455482320052	7.714248142626995	3726425
+3727254	Logic	smalltalk in a c world	2014	5.845448862160863	8.02382354393175	3727281
+3731082	PL	virtual machine framework for constructing domain-specific languages	2009	5.548078344371835	7.698064944051874	3731109
+3731937	Logic	the rewriting logic semantics project: a progress report	2011	5.691240883228938	7.773692224715185	3731964
+3733250	SE	subtype polymorphism à la carte via machine learning on dependent types	2018	5.917645071748992	7.67922597379787	3733277
+3734683	PL	large-scale configurable static analysis	2014	5.496911153864279	8.407351495509355	3734710
+3735471	Logic	similarities and reuse of proofs in formal software verification	1998	5.478597898045218	8.29042307672888	3735498
+3741130	PL	escala: modular event-driven object interactions in scala	2011	5.835802651638626	8.269836574439214	3741157
+3742243	SE	preserving properties under change	2003	5.797055306750847	8.34609208581712	3742270
+3743113	PL	high-level management of computation history for the design and implementation of a prolog system	1993	5.662053271431287	7.632577506679387	3743140
+3744011	PL	αrby - an embedding of alloy in ruby	2014	6.0591359236964175	7.587540009346325	3744038
+3744946	Logic	coverage metrics for temporal logic model checking*	2006	6.185321885004067	8.405187905261881	3744973
+3747257	Logic	assertion techniques for dynamic monitoring of linear list data structures	1980	5.501092408406286	7.8276779556791745	3747284
+3747567	PL	extensible debuggers for extensible languages	2013	6.242877344032822	7.640958754497956	3747594
+3747792	PL	implementing multi-stage languages using asts, gensym, and reflection	2003	5.429877652730502	7.767705934273349	3747819
+3749806	PL	an mde approach for modular program analyses	2017	6.305056297055375	8.063830089867034	3749833
+3750387	SE	the right choice matters! smt solving substantially improves model-based debugging of spreadsheets	2013	5.378134584324863	8.270323005963142	3750414
+3752688	SE	complete composition operators for ioco-testing theory	2015	5.834399123737503	7.902878784230622	3752715
+3754287	PL	efficiently refactoring java applications to use generic libraries	2005	5.693958486526006	8.217971114680934	3754314
+3755567	AI	all from one, one for all, failure diagnosis of discrete event systems using representatives	2003	6.197285491090874	7.768337821072005	3755594
+3756584	SE	programmer-friendly decompiled java	2006	6.1626770422762105	8.160883225956857	3756611
+3756685	PL	foreword: theoretical aspects of coordination languages	1998	6.2778962950067925	7.541317414711324	3756712
+3757129	SE	a system dependence net generator for ada programs	1999	5.6948306841022776	7.992518095046398	3757156
+3758021	PL	an isabelle proof method language	2014	5.34169781838799	7.64440242038649	3758048
+3758552	PL	kjs: a complete formal semantics of javascript	2015	6.055123603620888	8.37731734032424	3758579
+3759079	PL	interaction-based programming with classages	2005	5.8426893177884285	7.674122703402841	3759106
+3760466	PL	data interface + algorithms = efficient programs: separating logic from representation to improve performance	2014	5.5351290527266395	7.713806606220255	3760493
+3760621	SE	porting and refactoring prolog programs: the prosyn case study	2013	5.413585765666951	7.832397235630318	3760648
+3761445	PL	lcdl: an extensible framework for wrapping legacy code	2009	6.255227811767759	7.624705066052959	3761472
+3764942	PL	the use of multimethods and method combination in a clos based window system interface	1989	6.005938052069472	7.703770946484907	3764969
+3765699	PL	on the integration of smalltalk and java: practical experience with stx: libjava	2012	5.966010212014639	8.173796027311068	3765726
+3765920	SE	exploiting practical limitations of uml diagrams for model validation and execution	2005	5.5370723564880775	7.681241714941704	3765947
+3766606	PL	kevm: a complete formal semantics of the ethereum virtual machine	2018	6.206514764207717	8.26457400967751	3766633
+3767766	SE	rule-based analysis of dimensional safety	2003	6.265477670117752	8.211634516793524	3767793
+3775415	PL	demanding first-class equality for domain specific aspect languages	2015	6.257148575296494	7.501970289190829	3775442
+3779403	PL	language run-time systems: an overview	2015	6.194451126735808	7.8618372257669975	3779430
+3780044	PL	dsl implementation using staging and monads	1999	5.366656282799225	7.912528994813467	3780071
+3780945	NLP	parsing c++ despite missing declarations	1999	6.102314461386242	7.820498553078647	3780972
+3781535	SE	semantics of control-flow in uml 2.0 activities	2004	6.278254415858497	7.935210952466015	3781562
+3782129	SE	automatically refining partial specifications for heap-manipulating programs	2014	5.491964141655158	7.545839239045287	3782156
+3782392	SE	verified software. theories, tools, and experiments	2018	5.939577580155437	8.292847729932669	3782419
+3785902	PL	core-java: an expression-oriented java	2006	5.778673696061215	8.057718269759754	3785929
+3785988	DB	a transformational proof system for delta-oriented programming	2012	6.06833796530466	8.177430531052481	3786015
+3786420	NLP	past, present, and future of sra implementation of cafeobj: annex	2003	5.541678719479656	7.670513868963971	3786447
+3786491	PL	typed lua: an optional type system for lua	2014	5.641724522329778	8.128893006429852	3786518
+3787187	SE	introducing records by refactoring	2007	6.220116735688736	7.7260061549921755	3787214
+3787609	PL	verifying backwards compatibility of object-oriented libraries using boogie	2012	5.86637768034016	7.957788266881268	3787636
+3788102	PL	loopy: programmable and formally verified loop transformations	2016	5.3840208800888325	8.355754805247715	3788129
+3792836	SE	interface grammars for modular software model checking	2007	5.5069895745333755	7.884775978989898	3792863
+3793207	Logic	extending formal reasoning with support for hardware diagrams	1994	5.9594705533537695	8.146676475607046	3793234
+3795151	PL	program adaptation based on program transformation	1996	6.188808308868745	7.705362612308727	3795178
+3795894	SE	systematically refactoring inheritance to delegation in java	2008	5.596614432331053	7.907920711240989	3795921
+3796890	SE	gamaslicer: an online laboratory for program verification and analysis	2010	6.240921781370388	8.283839430915659	3796917
+3798469	PL	konoha: implementing a static scripting language with dynamic behaviors	2010	6.081856918869307	7.963707811211266	3798496
+3799094	Logic	synthia: verification and synthesis for timed automata	2011	5.901397535700661	8.338291014435834	3799121
+3799711	SE	benchmarking a model checker for algorithmic improvements and tuning for performance	2011	6.048952108071947	8.008482480085036	3799738
+3801538	SE	interfaces for modular feature verification	2002	6.251241985301268	8.099687480320373	3801565
+3806877	Logic	algebraic specification of concurrent systems	1989	6.1102157516151605	7.803212626626557	3806904
+3807404	PL	linking programs to architectures: an object-oriented hierarchical software model based on boxes	2007	6.201609601365907	7.7878857074711965	3807431
+3809424	PL	automatic monitoring of control-flow through inheritance hierarchies.	2006	6.179795919290828	7.8749810928929564	3809451
+3813344	AI	towards a theory for cyber-physical systems modeling	2014	6.261832793947043	8.39711996508795	3813371
+3813994	Logic	rapide: a language and toolset for simulation of distributed systems by partial orderings of events	1996	6.223175719160437	7.867543832738176	3814021
+3814911	PL	fault-tolerant distributed theorem proving	1999	5.471982382027693	8.111597052483727	3814938
+3815418	AI	model checking agent programming languages	2011	5.832157129426744	8.340339564886218	3815445
+3815703	Embedded	supporting cross-language exception handling when extending applications with embedded languages	2011	6.297944456575028	7.696095535062742	3815730
+3821614	PL	simplicity and executability: cornerstones of quality	2006	6.1064685337601885	7.695027285808308	3821641
+3825095	SE	data-oriented exception handling	1992	5.548999533256628	7.623973343764075	3825122
+3825270	PL	proving termination of programs automatically with aprove	2014	5.5688180067979935	8.020865455948897	3825297
+3826307	SE	extending temporal logic for capturing evolving behaviour	1997	6.307026032956188	7.933925150463862	3826334
+3831277	PL	specialization through dynamic staging	2014	5.419980161171087	7.5201478020394585	3831304
+3831947	EDA	preliminary design of bml: a behavioral interface specification language for java bytecode	2007	5.663297058555638	7.771504760726661	3831974
+3838070	PL	a language generic solution for name binding preservation in refactorings	2012	5.766777322947262	7.856300229943366	3838097
+3839756	PL	mechanising and verifying the webassembly specification	2018	5.688791813525723	8.144904619219675	3839783
+3841039	PL	the architecture and design of a malleable object-oriented prolog engine	2008	6.257238358957938	7.7670326078745715	3841066
+3841870	PL	object-oriented preprocessor fit for c++	2000	5.678698723573801	7.924730533151655	3841897
+3844770	SE	a templating system to generate provenance	2018	6.193829861668513	7.764086499496582	3844797
+3845037	SE	testing java programs using dynamic data flow analysis	2000	6.141231554282126	8.011601947783543	3845064
+3847271	PL	high-performance language interoperability in multi-language runtimes	2014	5.716187234554537	8.22330460033644	3847298
+3851590	PL	visual occam: syntax and sematics	1997	5.5958041833282905	8.084638148671397	3851617
+3852513	PL	building code with dynamic staging	2016	5.4755421468361805	7.522778208894629	3852540
+3852731	PL	implementing high-level identification specifications	1992	5.752073112756243	7.598051529928805	3852758
+3855886	PL	interactive, scalable, declarative program analysis: from prototype to implementation	2007	5.743221543007946	7.809364080054897	3855913
+3857921	PL	thorn: robust concurrent scripting on the jvm	2009	5.8956793550271955	7.9992174296794145	3857948
+3859305	PL	incremental parametric syntax for multi-language transformation	2017	5.765234862508205	7.990266972729263	3859332
+3860041	PL	extending jml specifications with temporal logic	2002	6.1730852137941215	7.930735268674022	3860068
+3862080	PL	09301 executive summary - typing, analysis, and verification of heap-manipulating programs	2009	5.926444852304036	7.9248976590612275	3862107
+3863110	PL	a program optimization for automatic database result caching	2017	5.6979964577486255	7.505420765110069	3863137
+3864590	SE	aida: a dynamic analyser for ada programs	1994	5.965946240852561	8.344927748651001	3864617
+3865991	PL	dynamic witnesses for static type errors.	2016	5.7101386698497185	7.689206206450192	3866018
+3866181	SE	reverse engineering code dependencies: converting integer-based variability to propositional logic	2018	6.089795152527581	8.171974939486697	3866208
+3866545	PL	superposition: composition vs refinement of non-deterministic, action-based systems	2003	6.080393950010711	8.37596657671895	3866572
+3866907	HPC	irpf90: a programming environment for high performance computing	2009	5.539773978689804	7.473714868350567	3866934
+3870975	SE	algebraic imperative specifications	1999	6.200222275795674	7.935798682727237	3871002
+3874678	SE	a direct symbolic execution of sql code for testing of data-oriented applications	2015	5.861398497381369	7.874509162185043	3874705
+3875368	Logic	modular static analysis of string manipulations in c programs	2018	6.306351139663462	7.544782882588692	3875395
+3877944	Logic	reconnet: a tool for modeling and simulating with reconfigurable place/transition nets	2012	5.9493726564376255	7.56422193282337	3877971
+3879814	HCI	multiple instantiation in a dynamic workflow environment	2004	6.242978817996906	7.634471261123331	3879841
+3880230	Logic	exploiting attributed type graphs to generate metamodel instances using an smt solver	2013	5.586706826812255	7.814334722715476	3880257
+3881484	SE	a case study of run-time errors in pascal programs	1982	6.12985819196702	7.882173478253014	3881511
+3883077	AI	applications and rewriting of omnigraphs - exemplified in the domain of mdd	2007	6.258289712683044	7.552589665703005	3883104
+3883508	Logic	temporal verification of behavioral descriptions in vhdl	1992	6.228841284454447	8.346266532098676	3883535
+3884794	Logic	meta-level features in an industrial-strength theorem prover	2012	5.758078924419472	8.011445028829392	3884821
+3888050	PL	expressing contract monitors as patterns of communication	2015	5.381286609434791	7.919624456648389	3888077
+3888361	PL	a theory of generic interpreters	1993	5.549887403688854	8.033401252357633	3888388
+3890427	SE	flattening code for metrics measurement and analysis	2017	5.746430153879819	8.180192187035596	3890454
+3891216	AI	from functions to object-orientation by abstraction	2012	5.648095266786162	8.286244926430514	3891243
+3897007	ECom	labelled port graph - a formal structure for models and computations	2018	5.759561594559634	8.113285220147834	3897034
+3901619	NLP	chameleon: a workstation of a different colour	1992	5.637350469103737	7.559233578299731	3901646
+3903479	SE	research summary for dynamic detection of program invariants	1999	6.091206580258504	7.588413513748644	3903506
+3903682	SE	identifying and introducing interfaces and callbacks using wrangler	2016	6.246231493536206	8.340411012243424	3903709
+3905757	PL	a hierarchical view of gcspns and its impact on qualitative and quantitative analysis	1992	5.619034133504488	7.770262466759437	3905784
+3905926	SE	hardware/software synthesis and verification using esterel	2007	5.787585869189925	8.301401284322617	3905953
+3909328	AI	a formal semantics for the odp computational model	1995	6.2074758363086735	7.662124928785696	3909355
+3911643	PL	a type system for prototyping languages	1994	5.950368793010623	7.948998931274144	3911670
+3913329	PL	cil + metadata > executable program	2004	6.02579805851934	7.693506601184032	3913356
+3915315	DB	formal semantics for ward & mellor's transformation schemas and the specification of faul tolerant systems	1994	6.0797408297786895	7.705364794179026	3915342
+3915994	PL	pin++: an object-oriented framework for writing pintools	2014	5.714436314749385	8.002195710067848	3916021
+3917385	Robotics	some issues about petri net application to manufacturing and process supervisory control	1997	5.898055185729295	7.95225344534397	3917412
+3920162	PL	bringing dynamic languages to .net with the dlr	2007	5.9661721351044426	8.373251309041956	3920189
+3920785	PL	a semantics for context-oriented programming with layers	2009	5.576819803328498	7.997305221351827	3920812
+3924068	PL	voc: a translation validator for optimizing compilers	2002	5.800913305670514	8.369267062603658	3924095
+3926905	OS	visual modelling of complex systems: towards an abstract machine for porgy	2014	5.889961541001543	7.563744205226764	3926932
+3927632	PL	p#: a concurrent prolog for the .net framework	2004	5.441602755209688	7.853538311227464	3927659
+3928652	PL	code generation in a machine-independent compiler (with retrospective)	1979	5.347183604961719	7.772538779133472	3928679
+3929110	PL	algebraic proof assistants in hol	1995	5.520663551583091	8.062662029535547	3929137
+3929292	Logic	modular verification of object-based programs - abstract of invited talk	2011	6.270031595279777	7.750468011698179	3929319
+3929311	PL	declarative foreign function binding through generic programming	2016	5.445780142166441	7.757481361383555	3929338
+3930980	PL	obl: a formal deduction method for object-oriented systems	1999	6.2578204275538365	7.786494284746998	3931007
+3940397	PL	optimizing invokedynamic	2010	5.658224980792276	8.295982913070933	3940424
+3940873	SE	beyond refactoring: a framework for modular maintenance of crosscutting design idioms	2007	6.188417309993807	7.958563609675306	3940900
+3941378	Logic	there's plenty of room at the bottom: analyzing and verifying machine code	2010	5.925157080647585	7.795814364044174	3941405
+3942501	PL	yaccscript: a platform for intersecting high-level languages	2006	5.396148838803882	7.748741280766399	3942528
+3947765	PL	tool demonstration: silver extensible compiler frameworks and modular language extensions for java and c	2006	5.613550622302035	7.509718751569473	3947792
+3951893	DB	first-class undefined classes for pharo: from alternative designs to a unified practical solution	2017	5.661188438778363	8.142535816645973	3951920
+3952548	Vision	syntactic action refinement in presence of multiway synchronisation	1993	6.079093925422351	8.090990361542895	3952575
+3955104	PL	specifying the plan network programming langauge	1999	5.7011168058443795	7.812623701666455	3955131
+3960754	AI	spnp: stochastic petri net package	1989	5.4363302608132456	8.185252488316435	3960781
+3962685	OS	framework for modeling and analysis of distributed problem-solving systems	1992	5.960609544935139	8.23913259554781	3962712
+3964599	Logic	typed connector families and their semantics	2017	5.519387840329945	8.300035436717888	3964626
+3966890	PL	a functional approach to type constraints of generic definitions	1997	5.64981386638298	7.590177643040335	3966917
+3969306	SE	sql dom: compile time checking of dynamic sql statements	2005	5.857794989035423	7.560879667023537	3969333
+3971072	SE	software testing based on formal specifications: a theory and a tool	1991	6.202634982659416	8.152087320473134	3971099
+3972119	PL	formal verification of klibc with the wp frama-c plug-in	2014	5.517447538415447	8.282139753844199	3972146
+3975874	PL	back to the future: the story of squeak - a usable smalltalk written in itself.	1997	5.474661067800122	7.624203038790576	3975901
+3977751	PL	compiling prolog to idiomatic java	2011	5.718331603290689	7.790706207169643	3977778
+3981097	PL	adding configuration to the choice calculus	2013	6.062467750041861	7.760186644449713	3981124
+3982622	Logic	incremental design of statechart specifications	2001	6.078757189310062	7.82648498220717	3982649
+3983128	Embedded	an open source implementation of an intuitionistic fuzzy inference system in clojure	2017	5.5320643373726766	7.471756451369967	3983155
+3986033	EDA	graphical design of reactive systems	1998	5.957639096770886	8.057540115143862	3986060
+3986472	PL	bootstrapping reflective systems: the case of pharo	2014	5.837191334624106	7.490702138212693	3986499
+3988320	HCI	towards safe and flexible object adaptation	2009	6.1555410311660275	8.331825515290987	3988347
+3988809	SE	architectural tradeoffs for a meaning-preserving program restructuring tool	1995	6.2006468259073735	7.6238203368168	3988836
+3990152	SE	types in concurrency	2005	5.541773040772483	7.58884458581868	3990179
+3990480	DB	verification of hierarchical artifact systems	2016	5.409070999206651	7.475848679101863	3990507
+3990553	Logic	modelling and proof of a tree-structured file system	2008	5.414267306791388	8.216968051525072	3990580
+3994032	SE	global development via local observational construction steps	2002	5.827915837648032	7.7485260159736535	3994059
+3997925	PL	the implementation of ada 2005 interface types in the gnat compiler	2005	5.501476036924023	7.579088669015022	3997952
+3998602	Logic	algorithm explanation: visualizing abstract states and invariants	2001	5.770653574586071	7.5150173849579165	3998629
+3999095	Embedded	a model for the semantics of component interactions of cyber-physical systems	2016	5.889184647621581	7.685023777729953	3999122
+4000155	PL	making generic functions useable in smalltalk	2007	6.125890593216458	7.57367984468713	4000182
+4008543	PL	on the integration of smalltalk and java	2014	5.997984590903994	8.1517194251518	4008570
+4009000	HCI	inheritance of object behavior - consistent extension of object life cycles	1994	5.917111173517708	8.146577260697875	4009027
+4009653	PL	multijava: design rationale, compiler implementation, and applications	2006	5.3646064272937695	7.6561386387816235	4009680
+4015871	PL	join point interfaces for safe and flexible decoupling of aspects	2014	5.968863884852965	7.972009674711832	4015898
+4022096	SE	languages for the specification of software	1996	6.08957755057909	7.6704117278207455	4022123
+4022112	Logic	towards automatic composition of web services: sat-based concretisation of abstract scenarios	2012	5.805244070482758	7.87447522018604	4022139
+4023001	PL	static verification for code contracts	2010	6.187485467753618	8.056527983668074	4023028
+4029180	PL	a study of protection in programming languages	1977	5.5736240273551205	7.523589161840325	4029207
+4033023	PL	improving method extraction: a novel approach to data flow analysis using boolean flags and expressions.	2007	5.834705712334359	7.787150515470282	4033050
+4036544	PL	revision classes for explicit versioning	2009	5.405661306852294	7.9702859756368625	4036571
+4036941	PL	early experience with asdl in lcc	1999	5.412998633919333	7.9678373303175185	4036968
+4037264	Logic	consistency, independence and consequences in uml and ocl models	2009	6.277742050422423	8.30680938280851	4037291
+4046337	Logic	abstract property language for mdg model checking methodology	2012	5.437057991959615	7.599999337327947	4046364
+4052308	SE	towards reduction of paradigm coordination models	2011	5.651394112475012	8.073701349602231	4052335
+4055424	DB	a temporal framework for database specification and verification	1984	5.366648949447309	8.288785650096655	4055451
+4055477	PL	enumeration refactoring: a tool for automatically converting java constants to enumerated types	2010	5.685269066086741	7.755661053755312	4055504
+4057199	PL	resumable java bytecode - process mobility for the jvm	2009	5.444733953852286	7.881224050090064	4057226
+4061547	AI	normc: a norm compliance temporal logic model checker	2012	6.248344461149645	8.385392583712017	4061574
+4062285	Embedded	a shallow embedded type safe extendable dsl for the arduino	2015	5.476156669198756	8.33318858631634	4062312
+4065459	PL	data-flow analysis of programs with associative arrays	2014	5.621879724316366	8.375729545287548	4065486
+4065572	Security	byteweight: learning to recognize functions in binary code	2014	6.1933484144167545	7.5305069906668995	4065599
+4066718	Logic	formal verification of web services composition using linear logic and the pi-calculus	2011	6.0428073995269385	8.304882633095088	4066745
+4067987	PL	concepts: linguistic support for generic programming in c++	2006	5.52625364732319	7.5004773214364	4068014
+4069503	SE	constraint-oriented style for object-oriented formal specification	1998	6.287804836045697	7.898323925567948	4069530
+4070728	PL	the essence of ruby	2014	5.809832156530446	7.520861510414113	4070755
+4072989	Logic	coq implementation of oo verification framework verij	2016	5.386099772328085	7.830039518410706	4073016
+4073628	PL	an automata-based abstract semantics for string manipulation languages	2018	5.712648649089246	8.251579203374522	4073655
+4077538	PL	simple support for design by contract in c++	2001	5.744243390552423	7.515824288215016	4077565
+4078264	PL	flexible type-safe linking of components for java-like languages	2006	5.4166302537488304	7.853331345493653	4078291
+4080560	PL	mapping nautilus language into java: towards a specification and programming environment for distributed systems	2003	5.9068601098107125	8.106110790165303	4080587
+4082107	SE	design and implementation of an automatic rtpa code generator	2006	6.027715415798941	8.0648454357388	4082134
+4085168	PL	a constructive approach to correctness, exemplified by a generator for certified java card applets	2005	6.253233529579825	8.36780526877012	4085195
+4087478	Robotics	program behavior model based on event grammar and its application for debugging automation	1995	5.44751986864982	8.352308707541297	4087505
+4088097	Logic	a way to comprehend counterexamples generated by the maude ltl model checker	2017	5.6809274171545265	8.151317825471398	4088124
+4090637	Logic	reactive synthesis	2015	5.443945621326972	7.988890067043406	4090664
+4093399	PL	reasoning with executable specifications	1995	5.9048479944152	8.010499726416532	4093426
+4095455	PL	classless java	2016	5.504790482644063	7.5269029617399905	4095482
+4098160	AI	simulating algebraic high-level nets by parallel attributed graph transformation	2005	6.202639682903218	8.134436250645306	4098187
+4100754	PL	j%: integrating domain-specific languages with java	2009	5.401789600719925	7.920612712483822	4100781
+4101527	PL	magda: a new language for modularity	2012	5.782005314034482	7.603538682037983	4101554

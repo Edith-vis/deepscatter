@@ -1,0 +1,139 @@
+id	area	title	year	x	y	ix
+3787437	EDA	equivalence checking of partial designs using dependency quantified boolean formulae	2013	-5.3570205017606085	10.062411109862792	3787464
+3792586	EDA	application of boolean unification to combinational logic synthesis	1991	-5.771645544132997	9.935284638125225	3792613
+3793000	EDA	exact synthesis of toffoli gate circuits with negative control lines	2012	-6.2165456101561	10.224681389299183	3793027
+3794420	EDA	permutation and phase independent boolean comparison	1993	-5.924604591474396	9.994060363856276	3794447
+3798881	EDA	logic transformation and coding theory-based frameworks for boolean satisfiability	2003	-6.0854604239135766	9.81768279080109	3798908
+3801404	EDA	an evolutionary algorithm-based approach to robust analog circuit design using constrained multi-objective optimization	2008	-5.907435992917361	9.835094847072787	3801431
+3804069	EDA	a state traversal algorithm using a state covariance matrix	1993	-5.395371899665742	10.15370949662167	3804096
+3804329	EDA	fuzzified iterative algorithms for performance driven low power vlsi placement	2001	-5.492445518991836	9.641283070109255	3804356
+3811361	EDA	practical passive filter synthesis using genetic programming	2005	-5.466404207272087	9.816445654256787	3811388
+3818422	EDA	a novel subcircuit extraction algorithm by recursive identification scheme	2001	-5.697483631604293	10.305281003520758	3818449
+3820506	Visualization	"""comments on """"detection location of input and feedback bridging faults among input output lines"""""""	1983	-5.3604724949228615	10.117448566289527	3820533
+3820694	AI	machine-learning-based circuit synthesis	2012	-5.306174095050997	9.611223465653877	3820721
+3822565	EDA	exact evaluation of diagnostic test resolution	1992	-5.398083400445518	10.319446027225984	3822592
+3824398	EDA	fpga routing and routability estimation via boolean satisfiability	1998	-5.79710021611079	10.196953355359208	3824425
+3827530	EDA	designing hfpga-based mealy fsms with transformation of output functions	2017	-5.7656125869987145	10.191924522795269	3827557
+3831424	EDA	incremental logic rectification	1997	-5.360225806854533	10.195735883227645	3831451
+3832285	Vision	logic optimization using rule-based randomized search	2005	-5.443368773450542	10.00198369944751	3832312
+3832678	EDA	an evolutionary method for analog circuits optimization utilizing mosfet-c filters	2011	-5.377775786588776	9.662716702333203	3832705
+3835754	EDA	genetic algorithm for test pattern generator design	2010	-5.806753175713962	10.291961592245904	3835781
+3839148	EDA	exact calculation of synchronization sequences based on binary decision diagrams	1992	-5.9716070686471205	10.134418005513227	3839175
+3839488	Embedded	self-implicating structures for diagnosable systems	1985	-5.56632110284621	9.838564084136566	3839515
+3839661	EDA	on-set realization of fail-safe sequential machines	1974	-5.670158619211633	10.21635414898882	3839688
+3841723	SE	an algorithm to obtain test data by path analysis	1987	-5.982892911680036	10.246224775559037	3841750
+3850685	EDA	four-valued reasoning and cyclic circuits	2014	-5.804529204928548	9.632174098298943	3850712
+3853837	EDA	linear programming for hazard elimination in asynchronous circuits	1994	-5.550066114686509	10.205884184002132	3853864
+3855240	EDA	lazy-expansion symbolic expression approximation in synap	1992	-5.7253156548377175	10.112826395691439	3855267
+3855493	EDA	structural fault collapsing by superposition of bdds for test generation in digital circuits	2010	-5.46786915371159	10.23527164215446	3855520
+3855733	EDA	a sequential circuit structure with combinational test generation complexity and its application	1997	-5.993580356960777	10.251507842903091	3855760
+3857353	AI	application of the simulated annealing local search technique to problems of redundancy elimination in functional and parametric tests of integrated circuits	2003	-5.618573652365721	9.965503798042016	3857380
+3857428	EDA	chesmin: a heuristic for state reduction in incompletely specified finite state machines	2002	-5.444575587777506	10.133896925999835	3857455
+3863530	EDA	analysis of test generation complexity for stuck-at and path delay faults based on tauk-notation	2007	-5.921344413689639	10.229304063711787	3863557
+3868402	EDA	automated state-variable formulation for power electronic circuits and systems	2004	-5.4613040293092885	10.032318237531186	3868429
+3869389	EDA	an efficient combinationality check technique for the synthesis of cyclic combinational circuits	2005	-5.804561363398948	10.104387993323526	3869416
+3871817	EDA	equivalence and dominance relations between fault pairs and their use in fault pair collapsing for fault diagnosis	2007	-5.536581716106881	10.125649403030419	3871844
+3872403	Theory	improved bounds on binary identifying codes	2008	-5.408889019359798	9.46734990588076	3872430
+3874126	EDA	the production of completion signals by asynchronous, iterative networks	1964	-5.592034336388923	9.806825781346475	3874153
+3874807	EDA	on the (non-)resetability of synchronous sequential circuits	1996	-5.498277641812705	10.270665823668637	3874834
+3875266	EDA	arithmetic transforms of imprecise datapaths by taylor series conversion	2006	-6.115953154466236	10.018133192642642	3875293
+3875577	EDA	diagnosis and fault equivalence in combinational circuits	1974	-5.6058353413160935	10.254856487349823	3875604
+3875726	EDA	automated design of multiple-valued logic circuits by automatic theorem proving techniques	1983	-5.39855632192466	9.839419082972269	3875753
+3875794	Vision	probabilistic treatment of general combinational networks	1975	-5.555278857698912	9.664053549147429	3875821
+3876537	EDA	neural computing for built-in self-repair of embedded memory arrays	1989	-5.8467545562014624	10.22553084259652	3876564
+3877428	EDA	a novel design space reduction method for efficient simulation-based optimization	2014	-6.151801501141136	10.193239743099953	3877455
+3878447	Logic	implementation of a cellular automaton with globally switchable rules	2014	-6.1351450363981765	9.496622736281504	3878474
+3879292	EDA	application of simple genetic algorithms to sequential circuit test generation	1994	-5.5082611262075325	10.1925188125904	3879319
+3879676	EDA	design of reliable synchronous sequential circuits	1975	-5.9788604181594955	10.028246850603088	3879703
+3885480	EDA	"""comments on """"design of diagnosable iterative arrays"""""""	1972	-5.737717062362457	9.675030155804158	3885507
+3893154	ML	fault detecting experiments for sequential circuits	1964	-6.190100255960848	9.742776134670828	3893181
+3900212	EDA	probabilistic verification over gf(2m) using mod2-obdds	2010	-6.113871081326008	9.853570760884994	3900239
+3900306	EDA	analog design synthesis method using simulated annealing and particle swarm optimization	2011	-5.803080866678197	9.77078910055955	3900333
+3900825	Embedded	improved bounds for algorithm-based fault tolerance	1993	-5.445218220706936	9.635436139942383	3900852
+3900947	ML	full fault dictionary storage based on labeled tree encoding	1996	-5.894453576434574	10.293215618390752	3900974
+3904543	Logic	sequential equivalence checking using cuts	2005	-5.563346793773742	10.016717490935553	3904570
+3904738	EDA	a model for the metastability delay of sequential elements	2017	-5.841154700135063	10.01006797179372	3904765
+3910763	EDA	a discrete pso for multi-objective optimization in vlsi floorplanning	2009	-5.956200256934931	10.186044432886165	3910790
+3911418	EDA	oscillator verification with probability one	2012	-5.435706354203299	9.66317030215792	3911445
+3911930	EDA	isomorphism elimination for the enhancement of genetically generated analog circuits	1999	-5.781254360969066	9.871081327113783	3911957
+3911978	EDA	automated design of analog circuits accelerated by use of simplified mos model and reuse of genetic operations	2007	-5.557459897325043	9.739938056017019	3912005
+3914957	EDA	multi-level approach for integrated spiral inductor optimization	2005	-6.192226595312995	10.251741329764444	3914984
+3915104	Arch	failure-tolerant sequential machines with past information	1971	-5.757249884387035	10.016904082921126	3915131
+3919924	EDA	sequential redundancy identification using recursive learning	1996	-5.321607421635512	10.21916428745491	3919951
+3921381	EDA	sat-based equivalence checking based on circuit partitioning and special approaches for conflict clause reuse	2007	-5.643707120806089	10.176697550292618	3921408
+3921608	EDA	efficient minimization of test frequencies for linear analog circuits	2013	-5.75897293036537	10.198512343060061	3921635
+3921865	EDA	retiming dags [direct acyclic graph]	1998	-6.021754759971968	9.92946947358838	3921892
+3923819	Logic	selection of efficient re-ordering heuristics for mdd construction	2001	-5.474536589646953	10.002984861033092	3923846
+3925538	Logic	constraint multi-objective automated synthesis for cmos operational amplifier	2010	-5.914363759263722	9.70633105662389	3925565
+3926377	EDA	application of functional decomposition in synthesis of reversible circuits	2015	-6.216371270011098	10.320755940138735	3926404
+3926382	Logic	boolean satisfiability and equivalence checking using general binary decision diagrams	1992	-5.833774825906419	9.752094118903518	3926409
+3927855	EDA	a method for analog circuits visualization	1996	-5.575713879667815	10.172599404137165	3927882
+3929792	EDA	a hybrid multi-objective pso algorithm with local search strategy for vlsi partitioning	2014	-5.5571641928862965	9.485107302913267	3929819
+3930668	EDA	a pspice optimal design tool utilizing genetic optimization	2003	-5.590771649847479	9.412450527172746	3930695
+3934268	EDA	incorporating timing constraints in the efficient memory model for symbolic ternary simulation	1998	-5.433339552769451	10.1146020094292	3934295
+3934802	EDA	analysis of logic circuits with faults using input signal probabilities	1975	-5.86415472282813	10.321429612050137	3934829
+3935541	EDA	multiobjective analog/rf circuit sizing using an improved brain storm optimization algorithm	2018	-5.768859944231896	9.569721785431241	3935568
+3944387	EDA	realization of semiconductor device synthesis with the parallel genetic algorithm	2001	-5.781854830799465	10.217245254510782	3944414
+3946675	Robotics	circuit approximation using single- and multi-objective cartesian gp	2015	-5.555767695804244	9.82283125855206	3946702
+3955081	EDA	simulation bounds for equivalence verification of arithmetic datapaths with finite word-length operands	2006	-5.89616012839753	9.85792178634205	3955108
+3955858	AI	conquering uncertainty in multiple-valued logic design	2003	-6.082399262353023	10.041411011939372	3955885
+3963173	AI	macro-cell and module placement by genetic adaptive search with bitmap-represented chromosome	1991	-6.192938293357332	9.672889269053703	3963200
+3963398	EDA	cegar-based ef synthesis of boolean functions with an application to circuit rectification	2017	-5.388152420966011	10.086147358700158	3963425
+3963630	EDA	analog circuit optimization system based on hybrid evolutionary algorithms	2009	-5.676715622847192	9.624375402517934	3963657
+3964721	EDA	sodac: a simulation-based tool for the optimal design of analog circuits	2012	-5.584360720886946	9.868018310747434	3964748
+3964827	EDA	importance of multi-parameter sat attack exploration for integrated circuit security	2018	-5.4704570396527314	10.321374066940162	3964854
+3966506	EDA	tan-like state assignments ror synchronous sequential machines	1973	-6.139628435511526	9.841311868094907	3966533
+3970264	SE	fast anti-random (far) test generation to improve the quality of behavioral model verification	2002	-5.532159369023545	9.58863981091335	3970291
+3970268	EDA	efficient (non-)reachability analysis of counterexamples	2004	-5.4148565265009605	9.78705830860762	3970295
+3972681	ML	an event spacing experiment	2002	-5.319838764788034	9.976940573410356	3972708
+3974933	EDA	bound set selection and circuit re-synthesis for area/delay driven decomposition [logic design]	2005	-6.139010868469193	10.250009479680417	3974960
+3982079	SE	a hybrid deterministic/genetic test generator to improve fault effectiveness and reduce cpu time run	2004	-5.518535840230795	10.105027500934774	3982106
+3982946	EDA	new & improved models for sat-based bi-decomposition	2012	-5.8493260596369465	9.449256684184432	3982973
+3983471	EDA	retiming and resynthesis with sweep are complete for sequential transformation	2009	-5.707907814562618	10.16951666603442	3983498
+3985829	EDA	boolean minimization and algebraic factorization procedures for fully testable sequential machines	1989	-5.78543172042796	10.25206833200282	3985856
+4007697	Visualization	logic hazards in threshold networks	1968	-6.105741601497039	10.066044772322966	4007724
+4008739	EDA	design of moore finite state machine with coding space stretching	2014	-6.237254755188228	10.217794452555406	4008766
+4009057	Arch	ode: output direct state machine encoding	1995	-6.063689443180264	9.98389177612449	4009084
+4010215	EDA	on test generation for interconnected finite-state machines - the output sequence justification problem	1996	-5.4957682210039405	10.13027705453115	4010242
+4011115	EDA	an efficient logic equivalence checker for industrial circuits	2000	-5.4844516988908865	10.180921448456726	4011142
+4011261	EDA	test set compaction procedure for combinational circuits based on decomposition tree	2011	-6.111662753165818	10.268345726816644	4011288
+4011988	EDA	double phase fault collapsing with linear complexity in digital circuits	2010	-5.530616821617541	10.172806099442834	4012015
+4013021	EDA	a new automated design and optimization method of cmos logic circuits based on modified imperialistic competitive algorithm	2014	-5.742768900182733	9.608773492123342	4013048
+4014177	Robotics	artificial evolution of active filters: a case study	1999	-5.4631275946953926	9.51160373702869	4014204
+4014693	EDA	automated sizing of analog circuits based on genetic algorithm with parameter orthogonalization procedure	2008	-5.721712452273378	9.71881787113868	4014720
+4018003	Logic	recurrence relations revisited: scalable verification of bit level multiplier circuits	2015	-6.2455676844675185	9.942539241081553	4018030
+4019729	AI	an immunity based genetic algorithm and its application to the vlsi floorplan design problem	1996	-5.501276616895457	9.378697343642964	4019756
+4020437	Embedded	simulation of quantum cellular automaton circuits based on genetic simulated annealing algorithm	2005	-6.0846364928866965	9.861018220186192	4020464
+4021974	EDA	establishing latch correspondence for sequential circuits using distinguishing signatures	1999	-5.7050878906224325	10.186310943973462	4022001
+4024202	EDA	state assignment for optimal design of monitored self-checking sequential circuits	1993	-5.978194336738228	9.746086854694457	4024229
+4028570	EDA	exploiting functional properties of boolean functions for optimal multi-level design by bi-decomposition	2003	-6.209355298297889	9.815741618740184	4028597
+4028908	EDA	detecting support-reducing bound sets using two-cofactor symmetries	2005	-6.221811158147293	10.3127931464383	4028935
+4030536	Vision	a tree representation of combinational networks	1983	-5.686907470499128	10.234400629013884	4030563
+4031490	EDA	parallel partitioning techniques for logic minimization using redundancy identification	2003	-5.787863607561837	10.296838065838278	4031517
+4034115	EDA	sat-based atpg for reversible circuits	2010	-5.425354980818341	10.203636192234882	4034142
+4034437	Logic	a new method for ordering binary states probabilities in reliability and risk analysis	2002	-5.422787275566704	9.37841949775082	4034464
+4037792	EDA	cartesian genetic programming as local optimizer of logic networks	2014	-5.434728192385468	9.617503156169287	4037819
+4038081	EDA	equivalence proofs of some yield modeling methods for defect-tolerant integrated circuits	1995	-6.038687799290968	10.106923157058695	4038108
+4040210	Vision	an elitist distributed particle swarm algorithm for rf ic optimization	2005	-5.796562343142513	9.71496090663213	4040237
+4043518	EDA	a cad methodology for automatic topology selection & sizing	2011	-5.50841573601283	10.120880808430373	4043545
+4044073	EDA	scalable algorithm for structural fault collapsing in digital circuits	2015	-5.52232017021001	10.097320168631226	4044100
+4045610	EDA	an efficient heuristic procedure for solving the state assignment problem for event-based specifications	1995	-5.457294731695093	10.08508134324592	4045637
+4045912	EDA	combinational equivalence checking through function transformation	2002	-5.99753056852586	9.927322349267149	4045939
+4059879	EDA	test generation and fault simulation methods on the basis of cubic algebra for digital devices	2001	-5.608396841927774	10.19190859872798	4059906
+4064127	EDA	efficient variable ordering heuristics for shared robdd	1993	-5.8476107916266375	9.904058621348188	4064154
+4064159	EDA	delay computation in combinational logic circuits: theory and algorithms	1991	-5.544223907268554	10.284875350626937	4064186
+4064368	Logic	characterization and implicit identification of sequential indistinguishability	1997	-5.493766933920492	10.322523030996901	4064395
+4064414	NLP	new compact representation of multiple-valued functions, relations, and non-deterministic state machines	1998	-5.945825903451141	9.856334179454468	4064441
+4068495	EDA	a symbolic technique for automated characterization of the uniqueness and similarity of analog circuit design features	2011	-5.4977102513848575	9.859276747486415	4068522
+4071262	AI	a heuristic test-pattern generator for programmable logic arrays	1980	-5.550402304959447	10.30124292218601	4071289
+4073733	EDA	automated design of logic circuits with a increasable evolution approach	2009	-5.331941790956977	9.702421469247358	4073760
+4075526	ML	a search space pruning method for test pattern generation using search state dominance	1993	-6.1646704451301435	9.69958700709033	4075553
+4078941	EDA	exploiting signal unobservability for efficient translation to cnf in formal verification of microprocessors	2004	-5.527217012264007	9.805642454557944	4078968
+4079881	Logic	exact probabilistic analysis of error detection for parity checkers	1997	-6.247544127513037	10.292065177137824	4079908
+4080658	EDA	highly regular, modular, and cascadable design of cellular automata-based pattern classifier	2000	-6.232744725951049	10.008528171834882	4080685
+4082212	ML	exploiting dominance and equivalence using fault tuples	2002	-5.592642305282083	10.228173165387943	4082239
+4085334	AI	encoding global unobservability for efficient translation to sat	2004	-5.793671780514514	10.076172719118665	4085361
+4088557	EDA	permissible functions for multioutput components in combinational logic optimization	1996	-6.070178713778652	10.15585112885033	4088584
+4089964	Theory	counting two-state transition-tour sequences	1996	-6.048945393809298	10.097839590045071	4089991
+4091539	EDA	optimizing an amplifier by a many-objective algorithm based on r2 indicator	2015	-5.9044611227330055	9.767703095400512	4091566
+4098246	EDA	efficient verification and synthesis using design commonalities	1998	-5.898086708035519	10.07575375706242	4098273

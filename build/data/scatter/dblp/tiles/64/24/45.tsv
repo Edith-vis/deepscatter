@@ -1,0 +1,833 @@
+id	area	title	year	x	y	ix
+2935182	EDA	alborz: address level bus power optimization	2002	-6.367411982925526	12.762610636061185	2935209
+2935511	EDA	a study on the accuracy of minimum width transistor area in estimating fpga layout area	2017	-6.34305172341966	12.546773163704215	2935538
+2935549	EDA	methodology for analysis of tsv stress induced transistor variation and circuit performance	2012	-6.683691495423492	12.962372686926074	2935576
+2936538	Arch	evaluation and comparison of threshold logic gates	2007	-6.3779141834844975	13.027213086127874	2936565
+2938207	EDA	wakeup scheduling in mtcmos circuits using successive relaxation to minimize ground bounce	2007	-7.013652223389302	12.567620101812295	2938234
+2938841	EDA	efficient designs for adder comparator	2007	-6.9833749177180815	12.680520269819894	2938868
+2939810	EDA	power optimization for bus on multimedia soc	2006	-6.6360279419838974	12.647236873526523	2939837
+2943534	EDA	thermal-aware p/g tsv planning for ir drop reduction in 3d ics	2013	-6.826848436398508	12.813454752655542	2943561
+2943578	EDA	variable voltage scheduling	1995	-6.960218578893834	12.481303312962053	2943605
+2950225	EDA	substrate noise-aware floorplanning for mixed-signal socs	2004	-6.72687767939114	12.245244914242187	2950252
+2950602	EDA	novel delay elements for bundled-data transfer circuits based on two-phase handshaking protocols	2018	-6.8273635488573765	12.302236307019347	2950629
+2950703	EDA	revisiting the linear programming framework for leakage power vs. performance optimization	2009	-6.8528239724031055	12.292661304201056	2950730
+2951997	EDA	robust chip-level clock tree synthesis	2011	-6.379281951366927	12.448966828100357	2952024
+2954317	EDA	simultaneous flare level and flare variation minimization with dummification in euvl	2012	-6.8901284152849005	12.335607220220265	2954344
+2954890	EDA	fast and efficient on-chip interconnection delay modeling for high speed vlsi systems	2008	-6.442389814555595	12.53028128778283	2954917
+2959780	EDA	power minimization in microring-based benes networks	2018	-6.857712378562027	12.618247217275087	2959807
+2959849	EDA	a simple and accurate model of input capacitance for power estimation in cmos logic	2007	-6.407325859016652	12.614368807285596	2959876
+2962101	EDA	obstacle aware routing in 3d integrated circuits	2011	-6.7280422753976925	12.343526730724989	2962128
+2962669	EDA	variation-aware, library compatible delay modeling strategy	2006	-6.2650332533455275	12.250814761915644	2962696
+2964290	EDA	a practical cad technique for reducing power/ground noise in dsm circuits	2003	-6.785842499183955	12.695742720722635	2964317
+2964424	EDA	a very compact population count circuit for associative memories	2018	-6.483316633226246	13.080142681164556	2964451
+2964926	EDA	variability of flip-flop timing at sub-threshold voltages	2008	-6.277629182519838	12.79636898667636	2964953
+2965679	EDA	optimum design of two-level mcml gates	2008	-6.643775558001306	12.746109643103404	2965706
+2966096	EDA	low leakage multi-vth technique for sequential circuits at transistor level in nanotechnology	2010	-6.4915128407045675	12.57797273097608	2966123
+2967409	EDA	dynamic nets-to-tsvs assignment in 3d floorplanning	2015	-7.046171125250407	12.397803907872806	2967436
+2967703	EDA	electromigration study for multi-scale power/ground vias in tsv-based 3d ics	2013	-6.715631236867206	12.723738872199064	2967730
+2968330	EDA	detailed routing architectures for embedded programmable logic ip cores	2001	-7.060485814939824	12.567943198496778	2968357
+2968416	EDA	post-scheduling frequency assignment for energy-efficient high-level synthesis	2010	-6.982851944738182	12.489743471431053	2968443
+2970133	EDA	standard cell library optimization for leakage reduction	2006	-6.490693302422415	12.882737445858504	2970160
+2972407	EDA	a novel optimization method for reversible logic circuit minimization	2013	-7.215018018357422	12.64882226860725	2972434
+2973150	EDA	towards ultra-efficient qca reversible circuits	2017	-7.019789995528103	13.192329232974789	2973177
+2974106	EDA	the fast optimal voltage partitioning algorithm for peak power density minimization	2010	-6.968516511907061	12.573090736796072	2974133
+2975054	EDA	buffer design and assignment for structured asic	2014	-6.731945448231058	12.856510478057945	2975081
+2977311	EDA	all optical implementation of mach-zehnder interferometer based reversible sequential circuit	2014	-7.034254972055462	12.609467564949364	2977338
+2977484	EDA	domino logic synthesis using complex static gates	1998	-6.897297632972957	12.424535700731079	2977511
+2978386	EDA	parasitic-aware sizing and detailed routing for binary-weighted capacitors in charge-scaling dac	2014	-7.097847128244553	12.53044007999957	2978413
+2978394	EDA	walking pads: fast power-supply pad-placement optimization	2014	-6.579628235973753	12.946649511282796	2978421
+2983771	EDA	cems-pg: a parametrized algorithm for balanced partitioning and wakeup of power gated circuits	2012	-6.7430576488428375	12.84826438406567	2983798
+2984848	EDA	an mtcmos technology for low-power physical design	2009	-6.612776532582978	12.940127204628975	2984875
+2985838	EDA	device-parameter estimation with on-chip variation sensors considering random variability	2011	-6.495925067783272	12.666280087386253	2985865
+2988210	EDA	noise constrained transistor sizing and power optimization for dual vst domino logic	2002	-6.79401246928305	12.932344526462114	2988237
+2988526	EDA	reducing delay uncertainty of on-chip interconnects by combining inverting and non-inverting repeaters insertion	2007	-6.947253586480068	13.200777489052221	2988553
+2989464	EDA	cross entropy minimization for efficient estimation of sram failure rate	2012	-6.515725633923996	12.248936125987994	2989491
+2989847	EDA	two-phase fine-grain sleep transistor insertion technique in leakage critical circuits	2006	-6.834881152519808	13.042470371715353	2989874
+2989971	EDA	circuit partitioning for low power bist design with minimized peak power consumption	1999	-6.673508447396394	12.401780002632625	2989998
+2990525	Arch	quantifying the effect of local interconnects on on-chip power distribution	2015	-6.794234655583462	12.82394360721447	2990552
+2990718	EDA	statistical yield modeling for sub-wavelength lithography	2008	-6.325294465109312	12.636805049699454	2990745
+2996031	EDA	power/ground network optimization considering decap leakage currents	2006	-7.012952607408441	12.273342706624387	2996058
+2997679	EDA	power estimation in global interconnects and its reduction using a novel repeater optimization methodology	2002	-6.621771648171894	12.732768986134909	2997706
+3001456	Metrics	models for characterizing noise based pcmos circuits	2013	-6.4204509776991525	12.29938931165345	3001483
+3002637	EDA	optimal decoupling capacitor sizing and placement for standard-cell layout designs	2003	-6.922650238314384	12.523101991354615	3002664
+3002822	EDA	skewed flip-flop and mixed-$v_{t}$ gates for minimizing leakage in sequential circuits	2008	-6.503663825119474	13.077487242650786	3002849
+3003940	EDA	accelerated statistical simulation via on-demand hermite spline interpolations	2011	-6.484474127749996	12.273553452976866	3003967
+3004348	EDA	a thermal-driven force-directed floorplanning algorithm for 3d ics	2009	-6.72941835680014	12.441058925755188	3004375
+3004821	EDA	an ilp algorithm for post-floorplanning voltage-island generation considering power-network planning	2007	-7.072591317999648	12.2465614749131	3004848
+3005120	EDA	timing driven power gating	2006	-6.737305508528397	13.045097545696784	3005147
+3005713	EDA	a flexible statistical model for cad of submicrometer analog cmos integrated circuits	1993	-6.484988136189588	12.336586470710998	3005740
+3007099	EDA	temperature-aware leakage estimation using piecewise linear power models	2010	-6.325847607981725	12.957978236997596	3007126
+3007517	EDA	an efficient method for analyzing on-chip thermal reliability considering process variations	2013	-6.625524122136067	12.52663003927441	3007544
+3007940	HCI	timing analysis in presence of power supply and ground voltage variations	2003	-6.7199048708021705	12.769269580710318	3007967
+3008982	EDA	area-efficient area pad design for high pin-count chips	1999	-6.933686964773254	12.297322506526045	3009009
+3009032	EDA	delay and power optimization with tsv-aware 3d floorplanning	2014	-7.0124936048261555	12.582597753881604	3009059
+3010636	EDA	efficient multi-threshold voltage techniques for minimum leakage current in nanoscale technology	2011	-6.712689908878291	12.545351692918814	3010663
+3013772	EDA	speed binning aware design methodology to improve profit under parameter variations	2006	-6.618604482197036	12.503083442071574	3013799
+3014526	EDA	a new method for design of robust digital circuits	2005	-6.595061212558467	12.286688911237274	3014553
+3017038	EDA	performance-driven unit-capacitor placement of successive-approximation-register adcs	2015	-7.150296146488753	12.546018950945045	3017065
+3017768	EDA	sram dynamic stability estimation using mpfp and its applications	2009	-6.324800614941932	12.413798291633439	3017795
+3019199	Arch	understanding the effect of process variations on the delay of static and domino logic	2010	-6.563440874620356	13.176928055071244	3019226
+3019503	EDA	reducing the signal electromigration effects on different logic gates by cell layout optimization	2015	-6.3809841330849	12.751332148159035	3019530
+3022288	EDA	novel and efficient min cut based voltage assignment in gate level	2011	-6.8274684097653795	12.531246283971582	3022315
+3022582	EDA	study of through-silicon-via impact on the 3-d stacked ic layout	2013	-6.615427858352555	12.511425182651653	3022609
+3024351	EDA	design and synthesis of reversible circuits using hardware description languages	2015	-7.166431780407889	12.545232173071144	3024378
+3025591	EDA	architectural enhancements in stratix v™	2013	-6.694142125720935	13.025654755617495	3025618
+3026930	EDA	3d floorplanning of low-power and area-efficient network-on-chip architecture	2011	-6.411024261578393	12.962547583070377	3026957
+3030973	EDA	design of dual threshold voltages asynchronous circuits	2008	-6.771162997294352	12.637039669011715	3031000
+3031874	Embedded	applying inherent capabilities of quantum-dot cellular automata to design: d flip-flop case study	2009	-6.44196678632763	13.00330105045457	3031901
+3032022	EDA	real-time reconfigurable subthreshold cmos perceptron	2008	-7.062783715463746	13.188829236400466	3032049
+3032865	EDA	on nor-2 von neumann multiplexing	2010	-6.539888097760818	13.053528854855891	3032892
+3033646	EDA	optimal design of the power-delivery network for multiple voltage-island system-on-chips	2009	-7.113107777405019	12.819817676002224	3033673
+3033819	EDA	methodology for early estimation of hierarchical routing resources in 3d fpgas	2012	-6.317731737417233	12.524378758994311	3033846
+3034844	EDA	a timing-dependent power estimation framework considering coupling	2006	-6.3676976945690775	12.899708998773036	3034871
+3034963	EDA	load-balanced clock tree synthesis with adjustable delay buffer insertion for clock skew reduction in multiple dynamic supply voltage designs	2012	-7.120068902253269	12.39662923810256	3034990
+3035884	EDA	applying the small-world network to routing structure of fpgas	2005	-6.3540109247196845	12.586828864960044	3035911
+3039019	EDA	i/o clustering in design cost and performance optimization for flip-chip design	2004	-6.822409893889391	12.307679767706535	3039046
+3041524	EDA	incorporation of input glitches into power macromodeling	2002	-6.484680847103824	12.346666856326602	3041551
+3042234	EDA	statistical modeling and analysis of static leakage and dynamic switching power	2008	-6.357977639353192	12.618103661234159	3042261
+3042439	EDA	optimal simultaneous module and multivoltage assignment for low power	2006	-6.821420031518714	12.534758408645676	3042466
+3043585	EDA	optimal common-centroid-based unit capacitor placements for yield enhancement of switched-capacitor circuits	2013	-6.985846879895189	12.271115527226995	3043612
+3044752	EDA	system partitioning to maximize sleep time	1995	-6.745550375222543	12.489014396836287	3044779
+3046164	EDA	power-aware floorplanning-based power throughsilicon- via technology and bump minimisation for three-dimensional power delivery network	2014	-6.6570971977447275	12.766313890658665	3046191
+3048513	EDA	impact of random dopant fluctuations on the timing characteristics of flip-flops	2012	-6.555181960411111	12.379899733643901	3048540
+3049027	EDA	capacitance multiplier with large multiplication factor, high accuracy, and low power and silicon area for floating applications	2018	-6.55596152111975	12.623901579060805	3049054
+3049734	EDA	gated clock routing minimizing the switched capacitance	1998	-6.87167625365142	13.046543905020668	3049761
+3050551	Robotics	a thermal driven genetic algorithm for three dimensional network-on-chip systems	2016	-6.3259743122802545	12.942793697807744	3050578
+3052946	Arch	optimal techniques for assigning inter-tier signals to 3d-vias with path control in a 3dic	2014	-6.901730499183887	12.262841374513762	3052973
+3056020	EDA	timing-based placement considering uncertainty due to process variations	2010	-6.820962297217357	12.27178995132731	3056047
+3057758	Arch	maximum density of quantum information in a scalable cmos implementation of the hybrid qubit architecture	2016	-6.902895251953666	12.87159460118716	3057785
+3057915	EDA	a functionality-directed clustering technique for low-power mtcmos design - computation of simultaneously discharging current	2007	-6.91458606348709	12.994978101929854	3057942
+3058795	EDA	optimal placement of power-supply pads and pins	2004	-6.976859885044072	12.412400377971627	3058822
+3062639	EDA	clock buffer polarity assignment for power noise reduction	2006	-7.220020900469725	12.249911689831636	3062666
+3065230	EDA	floorplan-based crosstalk estimation for macrocell-based designs	2005	-6.5618455451605175	12.278229293281047	3065257
+3065926	EDA	resource allocation and binding approach for low leakage power	2003	-6.694475587787492	12.894964294639966	3065953
+3066614	EDA	general transistor-level methodology on vlsi low-power design	2006	-6.671902066122395	12.40403449099207	3066641
+3069331	Theory	quantum dot-based quantum buses for quantum computer hardware architecture	2006	-7.050504322204307	12.456128621443346	3069358
+3074193	HPC	thermal-aware ir drop analysis in large power grid	2008	-6.555759546542964	12.901377320848784	3074220
+3074971	EDA	statistical timing analysis under spatial correlations	2005	-6.612646831407808	12.447320395828953	3074998
+3075396	EDA	statistically aware sram memory array design	2006	-6.306149758298974	12.912330195190178	3075423
+3075624	EDA	on design of multiple-valued static random-access-memory	1990	-7.160001241301557	12.307057016526633	3075651
+3076050	EDA	simultaneous scheduling and binding for low gate leakage nano-complementary metaloxide-semiconductor data path circuit behavioural synthesis	2008	-6.734025990854295	12.372950324437046	3076077
+3076085	EDA	silicon effect-aware full-chip extraction and mitigation of tsv-to-tsv coupling	2014	-6.5881448371806695	12.584869778604572	3076112
+3076394	EDA	a design strategy for sub-threshold circuits considering energy-minimization and yield-maximization	2011	-6.510179629643549	13.194983241386234	3076421
+3076994	EDA	statistical timing analysis considering clock jitter and skew due to power supply noise and process variation	2010	-6.3138625843002405	12.527849394278865	3077021
+3077338	EDA	physical design with multiple on-chip voltages	2002	-6.5350933846962445	13.133322058501205	3077365
+3077559	EDA	parallel statistical capacitance extraction of on-chip interconnects with an improved geometric variation model	2011	-6.433120713719402	12.246419127768949	3077586
+3081318	EDA	cad tools for variation tolerance	2005	-6.37011235670121	12.731568047744933	3081345
+3083883	EDA	statistical leakage and timing optimization for submicron process variation	2007	-6.4108615369397315	12.921905139611725	3083910
+3083997	EDA	total power optimization combining placement, sizing and multi-vt through slack distribution management	2008	-6.861034242026857	12.477763029459002	3084024
+3085542	Arch	design flow of robust routed power distribution for low power asic	2002	-6.4380731788042524	12.930852356525351	3085569
+3086034	EDA	a simultaneous input vector control and circuit modification technique to reduce leakage with zero delay penalty	2010	-6.7858420693142465	13.088464046379118	3086061
+3087426	EDA	output resistance scaling model for deep-submicron cmos buffers for timing performance optimisation	2005	-6.567275453072119	13.130152423999007	3087453
+3087683	EDA	dram yield analysis and optimization by a statistical design approach	2011	-6.414290122509653	12.84445326285214	3087710
+3089922	EDA	post sign-off leakage power optimization	2011	-6.703348687676827	12.80991415929778	3089949
+3091514	EDA	fast and accurate interval-based timing estimator for variability-aware fpga physical synthesis tools	2007	-6.437495864205871	12.271053817788443	3091541
+3092519	EDA	evaluation of fpga design guardband caused by inhomogeneous nbti degradation considering process variations	2010	-6.274071192503727	13.151176614203047	3092546
+3092704	EDA	casser: a closed-form analysis framework for statistical soft error rate	2013	-6.518213396548795	12.38207931320096	3092731
+3094648	EDA	monte carlo static timing analysis with statistical sampling	2014	-6.326634562399242	12.53455263673592	3094675
+3094755	EDA	library optimization for near-threshold voltage design	2018	-6.7425962344197785	13.007921172421765	3094782
+3095460	EDA	statistical modeling with the virtual source mosfet model	2013	-6.603697669830412	12.308476686829165	3095487
+3096098	EDA	accurate total static leakage current estimation in transistor stacks	2006	-6.419003295799175	12.889976745169713	3096125
+3096278	EDA	a cell-based power estimation in cmos combinational circuits	1994	-6.639290776490519	12.561212141336107	3096305
+3096763	EDA	efficient thermal via planning for placement of 3d integrated circuits	2007	-6.789840510330946	12.634775926001673	3096790
+3097452	EDA	useful-skew clock optimization for multi-power mode designs	2011	-6.959559195620552	12.807817234578627	3097479
+3097579	EDA	on optimizing power and crosstalk for bus coupling capacitance using genetic algorithms	2003	-6.546614760345028	12.424531881329514	3097606
+3098679	EDA	variation aware design of post-silicon tunable clock buffer	2014	-6.6013237433603225	12.832650736281543	3098706
+3099664	Arch	power optimization of interconnection networks for transport triggered architecture	2006	-6.326681294843744	12.27008067947814	3099691
+3103200	Logic	associative memory with ordered retrieval	1962	-7.071097645152961	12.45004650639842	3103227
+3105439	EDA	optimization of wafer scale h-tree clock distribution network based on a new statistical skew model	2000	-6.986217581512313	12.29315680866165	3105466
+3106420	EDA	time-division multiplexing for testing dvfs-based socs	2015	-6.372201678146997	12.679081684890894	3106447
+3107466	EDA	a transduction-based framework to synthesize rsfq circuits	2006	-6.3005560399099405	12.519073240187844	3107493
+3109129	EDA	synthesis of skewed logic circuits	2005	-6.878473655520183	12.827846652626967	3109156
+3110512	Arch	performance analysis of high-speed mos transistors with different layout styles	2005	-7.065779320812324	12.478918439220529	3110539
+3111702	EDA	pass transistor-based pull-up/pull-down insertion technique for leakage power optimization in cmos vlsi circuits	2016	-6.616553718533798	12.924534993619911	3111729
+3112507	EDA	reduction of process variation effect on fpgas using multiple configurations	2010	-6.374993112156888	12.491232644499677	3112534
+3117239	EDA	memristor-based linear feedback shift register based on material implication logic	2015	-6.900540368339647	13.068584821698769	3117266
+3118168	EDA	low power bist by filtering non-detecting vectors	1999	-6.283853959902568	12.27240207882937	3118195
+3119452	EDA	study of floating fill impact on interconnect capacitance	2006	-6.8736133508894826	12.502254361357815	3119479
+3119481	EDA	provably good algorithm for low power consumption with dual supply voltages	1999	-7.045867034539003	12.3368395313477	3119508
+3119566	EDA	performance driven decoupling capacitor allocation considering data and clock interactions	2005	-6.4058014574813775	12.705123906608046	3119593
+3120373	EDA	latch-based performance optimization for fpgas	2011	-6.448234919634363	13.099428875891704	3120400
+3120553	EDA	an efficient temperature-gradient based burn-in technique for 3d stacked ics	2014	-6.306628881871491	12.834464934938078	3120580
+3120906	EDA	a black box method for stability analysis of arbitrary sram cell structures	2010	-6.486250900566093	12.375693253523648	3120933
+3121564	EDA	minimizing power consumption of static cmos circuits by transistor sizing and input reordering	1995	-6.754960677558678	12.345056361863445	3121591
+3125251	EDA	analysis and minimization of short-circuit current in mesh clock network	2013	-6.922618155008812	12.768095780963078	3125278
+3125740	EDA	transistor sizing of lcd driver circuit for technology migration	2007	-6.708033557477408	12.615680371785837	3125767
+3126535	EDA	lut-based power macromodeling technique for dsp architectures	2007	-6.756864835611358	12.381546355511414	3126562
+3127563	EDA	a novel low-power scan design technique using supply gating	2004	-6.801550667556037	13.127278096348254	3127590
+3130783	EDA	multiple chip planning for chip-interposer codesign	2013	-6.350921784134576	12.34465248526288	3130810
+3132081	EDA	timing-constrained and voltage-island-aware voltage assignment	2006	-7.081088210335631	12.45238457432341	3132108
+3136495	EDA	a comprehensive study of monolithic 3d cell on cell design using commercial 2d tool	2015	-6.313394025987503	12.47396917869543	3136522
+3139458	EDA	a constructive approach for threshold logic circuit synthesis	2014	-6.602751861600195	12.642791861030705	3139485
+3139951	EDA	power constrained test scheduling with low power weighted random testing	2001	-6.4686864610815755	12.902997488252364	3139978
+3140483	EDA	memmap-pd: performance driven technology mapping algorithm for fpgas with embedded memory arrays	2004	-6.392967146445528	12.594348562712007	3140510
+3143135	EDA	determining the optimal number of islands in power islands synthesis	2008	-6.830687793968839	12.44666273012349	3143162
+3143217	EDA	statistical performance-driven module binding in high-level synthesis	1998	-6.319308401316879	12.466879289269993	3143244
+3148091	EDA	a comprehensive tapered buffer optimization algorithm for unified design metrics	2011	-6.897678750140338	12.733769649337942	3148118
+3151710	EDA	a technique to generate cmos vlsi flip-flops based on differential latches	2002	-6.6344966856540575	12.508954865039485	3151737
+3152620	Arch	temperature-aware floorplanning of microarchitecture blocks with ipc-power dependence modeling and transient analysis	2006	-6.546888958031344	12.638901913167244	3152647
+3153423	EDA	an electromigration and thermal model of power wires for a priori high-level reliability prediction	2004	-6.321385224593045	12.620751501948408	3153450
+3153655	EDA	power-delay trade-offs in scl gates	2002	-6.428028788512885	12.759958807578425	3153682
+3155943	EDA	a new efficient dcvs circuit synthesis technique used for an improved implementation of a serial/parallel multiplier	1995	-7.12538652700585	13.06702183457876	3155970
+3157209	EDA	predicting vt variation and static ir drop of ring oscillators using model-fitting techniques	2017	-6.398931918319197	12.433956515566699	3157236
+3165011	EDA	nanomagnetic logic microprocessor: hierarchical power model	2013	-6.53015946199232	13.062092800575776	3165038
+3165089	EDA	a bipartition-codec architecture to reduce power in pipelined circuits	1999	-6.957146001314884	13.14161142079633	3165116
+3165575	EDA	an improved model for delay/energy estimation in near-threshold flip-flops	2011	-6.487698797790543	12.845270742044061	3165602
+3166855	EDA	a formulation for quick evaluation and optimization of digital cmos circuits	1999	-6.648742635010103	13.043764002282138	3166882
+3166862	EDA	floorplanning with power supply noise avoidance	2003	-6.935711621842924	12.350612309641626	3166889
+3168955	EDA	congestion-aware optimal techniques for assigning inter-tier signals to 3d-vias in a 3dic	2015	-6.733788799325931	12.360466702823631	3168982
+3169579	EDA	input space adaptive design: a high-level methodology for energy and performance optimization	2001	-6.327035690355562	13.168364482480113	3169606
+3170864	EDA	timing-aware power noise reduction in layout	2005	-6.837086433614045	12.56629807990178	3170891
+3171886	EDA	sequence pair based voltage island floorplanning	2011	-7.070932879159887	12.459330978838901	3171913
+3174089	EDA	duet: an accurate leakage estimation and optimization tool for dual-vt circuits	2002	-6.6888988111934475	12.70534903716099	3174116
+3174691	EDA	clock buffer polarity assignment with skew tuning	2011	-7.043625509318608	12.669967272218125	3174718
+3176668	EDA	energy efficient mapping and voltage islanding for regular noc under design constraints	2010	-7.09012313544973	12.465230083346345	3176695
+3178433	EDA	gate-level design exploiting dual supply voltages for power-driven applications	1999	-6.651612888996373	12.764128996800148	3178460
+3188467	EDA	high-speed simulator including accurate mtj models for spintronics integrated circuit design	2012	-6.285372824090882	12.624068648497332	3188494
+3188979	Embedded	a built-in self-test scheme for high speed i/o using cycle-by-cycle edge control	2010	-7.0311377179858825	13.047082967454596	3189006
+3189143	EDA	on-chip thermal gradient analysis and temperature flattening for soc design	2005	-6.487439665662057	12.923821022550616	3189170
+3191212	EDA	prediction of delay time for future lsi using on-chip transmission line interconnects	2005	-6.7930307449868845	12.733736879619364	3191239
+3191252	EDA	tabu search based behavioural synthesis of low leakage datapaths	2004	-6.619891199914411	12.408294269456071	3191279
+3193052	EDA	stacking signal tsv for thermal dissipation in global routing for 3d ic	2013	-7.040788591064303	12.398314412957685	3193079
+3193396	Embedded	physical demonstration of polymorphic self-checking circuits	2008	-6.341484527321957	12.579995585035661	3193423
+3196217	Arch	comparing simulation techniques for microarchitecture-aware floorplanning	2006	-6.541289318675543	12.469730473033044	3196244
+3198049	EDA	a high-level register optimization technique for minimizing leakage and dynamic power	2007	-6.39998842345509	12.861193555421181	3198076
+3198523	EDA	a robustness optimization of sram dynamic stability by sensitivity-based reachability analysis	2014	-6.4828173734145205	12.298290660815509	3198550
+3198668	EDA	reliability aware through silicon via planning for 3d stacked ics	2009	-6.3464027278626	12.82968466881873	3198695
+3199936	EDA	deep submicron interconnect timing model with quadratic random variable analysis	2008	-6.599613733174468	12.246245699507144	3199963
+3201363	EDA	variability driven joint leakage-delay optimization through gate sizing with provabale convergence	2007	-6.652906173899289	12.407735061446932	3201390
+3202303	EDA	a high-speed carry circuit for binary adders	1969	-6.84176170124779	12.300191708918119	3202330
+3203042	EDA	statistical leakage minimization through joint selection of gate sizes, gate lengths and threshold voltage	2006	-6.787657705208275	12.574761839141269	3203069
+3203659	EDA	interconnect driver design for long wires in field-programmable gate arrays	2006	-6.802231941389624	12.542968164014894	3203686
+3204692	EDA	pass-xnor logic: a new logic style for p-n junction based graphene circuits	2014	-7.209870992345715	12.66757444149152	3204719
+3205857	EDA	iposa: a novel slack distribution algorithm for interconnect power optimization	2008	-6.782078015246452	12.726306673625725	3205884
+3211203	EDA	a non-iterative equivalent waveform model for timing analysis in presence of crosstalk	2005	-6.616491267389869	12.560423017226224	3211230
+3212829	EDA	signal probability based statistical timing analysis	2008	-6.461934667652383	12.618786156500384	3212856
+3215086	EDA	profit aware circuit design under process variations considering speed binning	2008	-6.6313553892880766	12.538614861515248	3215113
+3215270	EDA	qca systolic array design	2013	-6.847018931193548	12.98304500523607	3215297
+3215817	EDA	a method of automatic sizing logic driver of 16nm fin-fet	2015	-6.8092710010891375	12.561181734895086	3215844
+3217581	EDA	compact current source models for timing analysis under temperature and body bias variations	2012	-6.438971174310387	12.622135819564052	3217608
+3218051	EDA	rt-level route-and-place design methodology for interconnect optimization in dsm regime	1999	-6.7960753542644445	12.312367915143973	3218078
+3224831	Arch	a system level memory power optimization technique using multiple supply and threshold voltages	2001	-6.3559164859136414	13.125988600126586	3224858
+3225526	EDA	timing yield estimation using statistical static timing analysis	2005	-6.44090534119116	12.384491729251929	3225553
+3225542	EDA	finprin: finfet logic circuit analysis and optimization under pvt variations	2014	-6.555385480222603	12.811911216239867	3225569
+3227405	EDA	performances of coupled interconnect lines: the impact of inductance and routing orientation	2005	-6.881369304747598	12.790623294394152	3227432
+3228603	HCI	comparison of noise tolerant precharge (ntp) to conventional feedback keepers for dynamic logic	2003	-6.410708674018451	13.07479321277515	3228630
+3232764	EDA	heterogeneous technology mapping for fpgas with dual-port embedded memory arrays	2000	-6.568405438791733	13.169398477624435	3232791
+3233392	Arch	transistor-level monolithic 3d standard cell layout optimization for full-chip static power integrity	2017	-6.542344174819899	13.11081002408113	3233419
+3233724	EDA	a current-based method for short circuit power calculation under noisy input waveforms	2007	-6.660129144431206	12.748144939407478	3233751
+3234512	EDA	innovative model for ternary qca gates	2018	-6.95227576156134	12.515803776545114	3234539
+3235842	EDA	parasitic-aware common-centroid binary-weighted capacitor layout generation integrating placement, routing, and unit capacitor sizing	2017	-7.116999243804302	12.540518883095991	3235869
+3236096	EDA	reducing cross-talk induced power consumption and delay	2004	-6.880716212538483	13.189925830138767	3236123
+3236784	EDA	process variation aware dual-vth assignment technique for low power nanoscale cmos design	2011	-6.799231391514501	12.956049287075286	3236811
+3237616	EDA	exploiting the expressive power of graphene reconfigurable gates via post-synthesis optimization	2015	-6.881730174563785	13.196504464104061	3237643
+3238900	EDA	improved perturbation vector generation method for accurate sram yield estimation	2017	-6.54356814112663	12.776034490232973	3238927
+3240477	EDA	accurate ptv, state, and abb aware rtl blackbox modeling of subthreshold, gate, and pn-junction leakage	2006	-6.365358363831606	12.787989834916019	3240504
+3241290	EDA	optimum supply and threshold voltages and transistor sizing effects on low power soi circuit design	2006	-6.8121889336113615	13.021837251856914	3241317
+3241993	Arch	distributed tsv topology for 3-d power-supply networks	2012	-6.482103415237718	12.7940869031317	3242020
+3242109	EDA	inversion optimization in majority-inverter graphs	2016	-6.550875190371152	13.10679957215734	3242136
+3247250	EDA	row-based power-gating: a novel sleep transistor insertion methodology for leakage power optimization in nanometer cmos circuits	2011	-6.712345386125108	12.784487243964927	3247277
+3248990	EDA	scalable in-memory mapping of boolean functions in memristive crossbar array using simulated annealing	2018	-6.719273102490872	12.918789942389893	3249017
+3249708	EDA	nbti-aware adaptive minimum leakage vector selection using a linear programming approach	2016	-6.749802379440008	12.366963478937896	3249735
+3249751	EDA	best polarity for low power xor gate decomposition	2002	-6.998468340086332	12.648535600184989	3249778
+3249820	EDA	routability-constrained multi-bit flip-flop construction for clock power reduction	2013	-7.0090911954830935	12.611085957526253	3249847
+3249957	EDA	modeling and analysis of leakage power considering within-die process variations	2002	-6.3735734914620545	12.894362776109555	3249984
+3252648	EDA	a unified delay model for cmos logic styles	2003	-6.899849667377615	12.970451953115013	3252675
+3252721	EDA	speco: stochastic perturbation based clock tree optimization considering temperature uncertainty	2013	-6.761815355265093	12.543624153659485	3252748
+3253424	EDA	p3 (power-performance-process) optimization of nano-cmos sramusing statistical doe-ilp	2010	-6.75142739554892	12.965744177743824	3253451
+3253878	Vision	revisiting 3dic benefit with multiple tiers	2017	-6.421160602890858	12.804937101683526	3253905
+3255312	EDA	sleep transistor distribution in row-based mtcmos designs	2007	-6.940430304824269	13.110896513457744	3255339
+3257413	EDA	an electrically robust method for placing power gating switches in voltage islands	2004	-6.800983899433009	12.898465508286495	3257440
+3260579	EDA	design and fabrication of a microprocessor using adiabatic cmos and bennett clocking	2015	-7.182541958913316	12.920118067899	3260606
+3262436	EDA	simultaneously optimizing crosstalk and power for instruction bus coupling capacitance using wire pairing	2006	-6.5654987333467	12.569007243941385	3262463
+3262505	EDA	reduced order macromodel of coupled interconnects for timing and functional verification of sub half-micron ic designs	1998	-6.315345653910612	12.520606408474785	3262532
+3262870	EDA	approaches to run-time and standby mode leakage reduction in global buses	2004	-6.684197195479572	13.011180668641956	3262897
+3265374	EDA	reliability-centric gate sizing with simultaneous optimization of soft error rate, delay and power	2008	-6.574277224600077	12.487943885289235	3265401
+3268109	EDA	biconditional bdd: a novel canonical bdd for logic synthesis targeting xor-rich circuits	2013	-7.070653882026413	12.747985401187403	3268136
+3270897	EDA	tsv stress aware timing analysis with applications to 3d-ic layout optimization	2010	-6.691978041108477	12.864686098363938	3270924
+3272760	EDA	density-uniformity-aware analog layout retargeting	2018	-6.49049292467564	12.465473929713536	3272787
+3276972	EDA	a fast clock scheduling for peak power reduction in lsi	2007	-6.460257741981566	12.485272038831454	3276999
+3281863	EDA	coupling delay optimization by temporal decorrelation using dual threshold voltage technique	2003	-6.7495578155240485	13.045681039101217	3281890
+3282051	EDA	timing-aware power-noise reduction in placement	2007	-6.881581308103192	12.584671959900632	3282078
+3283859	EDA	modeling and optimization techniques for yield-aware sram post-silicon tuning	2014	-6.5666700116308245	13.109727030442604	3283886
+3284540	EDA	application of very fast simulated reannealing (vfsr) to low power design	2005	-6.470309481925543	13.147587466028394	3284567
+3286180	EDA	new cmos differential logic circuits for true-single-phase pipelined systems	1994	-6.391222750623226	12.709933671351635	3286207
+3288043	EDA	an efficient control point insertion technique for leakage reduction of scaled cmos circuits	2005	-6.425551122912591	12.91109204821589	3288070
+3289075	EDA	a heuristic for thermal-safe soc test scheduling	2007	-6.339982118507358	12.465306962236497	3289102
+3291167	EDA	system-level performance evaluation of three-dimensional integrated circuits	2000	-6.305324143898853	12.559166050142837	3291194
+3291203	EDA	a linear programming formulation for security-aware gate sizing	2008	-6.826318752346711	12.527408929813491	3291230
+3292146	EDA	minimal buffer insertion based low power clock tree synthesis for 3d integrated circuits	2016	-6.995715115303852	12.369009045021624	3292173
+3292855	Arch	multiple valued logic using 3-state quantum dot gate fets	2008	-6.698280657334965	12.392661989523894	3292882
+3292923	EDA	modelling of process parameters for 32nm pmos transistor using taguchi method	2012	-6.523901763648863	12.435344700637824	3292950
+3298701	Embedded	accelerated bti degradation under stochastic tddb effect	2018	-6.380116777164242	12.869571826709262	3298728
+3299233	EDA	multivoltage floorplan design	2010	-7.064320720899032	12.534920084620568	3299260
+3301580	EDA	buffer design and optimization for lut-based structured asic design styles	2009	-6.720684985774673	12.749982612736945	3301607
+3302637	EDA	decoupling capacitance allocation for timing with statistical noise model and timing analysis	2008	-6.9868875541565725	12.265390037186187	3302664
+3303215	EDA	isgp: iterative sequential geometric programming for precise and robust cmos analog circuit sizing	2014	-6.812015532722938	12.518233248821776	3303242
+3304469	Arch	don’t care filling for power minimization in vlsi circuit testing	2008	-6.307567504781443	13.192544053787866	3304496
+3304811	EDA	statistical timing analysis based on simulation of lithographic process	2009	-6.486113671913679	12.611828139918494	3304838
+3307166	EDA	analysis of high-performance clock networks with rlc and transmission line effects	2010	-6.8050955060344345	12.505564965535862	3307193
+3307265	EDA	variation- and degradation-aware stochastic behavioral modeling of analog circuit components	2017	-6.4298947730217995	12.449830332893633	3307292
+3307473	EDA	an efficient logic/circuit mixed-mode simulator for analysis of power supply voltage fluctutation	1995	-6.352760966957514	12.35432990865942	3307500
+3307875	EDA	whitespace redistribution for thermal via insertion in 3d stacked ics	2007	-6.7041381346342135	12.539702683366716	3307902
+3308245	EDA	bus-aware microarchitectural floorplanning	2008	-6.490164099144304	12.346605984495456	3308272
+3308707	EDA	coupling timing objectives with optical proximity correction for improved timing yield	2011	-6.392591070993582	12.703469467167249	3308734
+3310584	EDA	thermal via allocation for 3-d ics considering temporally and spatially variant thermal power	2006	-7.070084703130107	12.271870311998233	3310611
+3312158	EDA	peak current reduction by simultaneous state replication and re-encoding	2010	-6.344418014924813	12.330273046465974	3312185
+3314557	EDA	quantum cost optimization for reversible sequential circuit	2013	-7.122823335247017	12.809928178673363	3314584
+3314760	EDA	memory-based crosstalk canceling codecs for on-chip buses	2006	-6.930442559120403	13.139058519155851	3314787
+3316069	EDA	area efficient implementation of ripple carry adder using memristor crossbar arrays	2016	-6.772385899494059	13.196247860262439	3316096
+3320486	EDA	evaluation and mitigation of performance degradation under random telegraph noise for digital circuits	2013	-6.370896873576019	12.673834045371626	3320513
+3320773	EDA	rescope: high-dimensional statistical circuit simulation towards full failure region coverage	2014	-6.453707494924665	12.249573245534265	3320800
+3321032	EDA	power-aware automated pipelining of combinational circuits	2014	-6.86426591549358	12.549670055906622	3321059
+3321589	EDA	clock tree resynthesis for multi-corner multi-mode timing closure	2015	-6.578230342094438	12.438311918162226	3321616
+3322733	EDA	a statistical approach to area-constrained yield enhancement for pipelined circuits under parameter variations	2005	-6.5994864892130005	12.331905369229275	3322760
+3324013	EDA	power-delay product based resource library construction for effective power optimization in hls	2017	-6.7660780102763045	12.651611146276435	3324040
+3325326	EDA	modeling the impact of process variation on resistive bridge defects	2010	-6.461036854786912	12.504282851154368	3325353
+3328045	EDA	multiple shift-vector importance sampling method using support vector machine and clustering for high-density dram designs	2016	-6.295357925052045	12.398210003200257	3328072
+3328578	EDA	power distribution in tsv-based 3-d processor-memory stacks	2012	-6.396201405322159	12.918962351088714	3328605
+3330536	EDA	lpscan: an algorithm for supply scaling and switching activity minimization during test	2013	-6.433744629268558	12.995493428641096	3330563
+3331383	EDA	current source modeling in the presence of body bias	2010	-6.446271593458588	12.472283507797133	3331410
+3332176	EDA	measuring the accuracy of minimum width transistor area in estimating fpga layout area	2015	-6.385865774111927	12.485838254505827	3332203
+3332669	EDA	a fine-grained clock buffer polarity assignment for high-speed and low-power digital systems	2014	-7.0171401442341095	12.556891979189546	3332696
+3332731	EDA	a rewriting algorithm to generate arom-free fully synchronous circuits	2010	-6.48148529387389	12.301751578346193	3332758
+3333280	EDA	statistical full-chip total power estimation considering spatially correlated process variations	2013	-6.799912251768445	12.252588655660979	3333307
+3334629	EDA	a sequential quadratic programming approach to concurrent gate and wire sizing	1995	-6.804157698497628	12.297838608558855	3334656
+3335899	EDA	power minimization using simultaneous gate sizing, dual-vdd and dual-vth assignment	2004	-6.844149423781193	12.647753745552714	3335926
+3336723	EDA	accurate stacking effect macro-modeling of leakage power in sub-100 nm circuits	2005	-6.415029809112438	12.998170197901704	3336750
+3337326	EDA	a new clock network synthesizer for modern vlsi designs	2012	-7.063881098642086	12.298621057881368	3337353
+3342786	EDA	architecture-level thermal characterization for multicore microprocessors	2009	-6.49054020046548	12.658545769435875	3342813
+3343041	EDA	clock tree design challenges for robust and low power design	2006	-6.4866958167814674	13.072616685854195	3343068
+3343283	EDA	design-synthesis co-optimisation using skewed and tapered gates	2016	-6.740276483725146	12.909454020366685	3343310
+3344195	EDA	practical variation-aware interconnect delay and slew analysis for statistical timing verification	2006	-6.266777167203273	12.384194968700536	3344222
+3344757	EDA	power centric application mapping for dynamically reconfigurable processor array with dual vdd and dual vth	2011	-6.444172511560677	13.192454108897774	3344784
+3345430	Arch	multiple-valued logic computation circuits using micro- and nanoelectronic devices	1993	-6.306015241731565	13.138160052134538	3345457
+3345674	EDA	application-driven voltage-island partitioning for low-power system-on-chip design	2009	-6.845246954713013	12.601211072338984	3345701
+3346003	EDA	a novel statistical timing and leakage power characterization of partially depleted silicon-on-insulator gates	2009	-6.359705736632908	12.733639305872273	3346030
+3346187	EDA	a method for reducing power consumption of cmos logic based on signal transition probability	1994	-7.0577277601223924	13.07634321700266	3346214
+3349684	EDA	eliad: efficient lithography aware detailed router with compact post-opc printability prediction	2008	-6.3900104053009095	12.427195734276294	3349711
+3352023	EDA	improving voltage assignment by outlier detection and incremental placement	2007	-7.122538847138692	12.387887936118107	3352050
+3352797	EDA	using multi-bit logic blocks and automated packing to improve field-programmable gate array density for implementing datapath circuits	2004	-6.675318845172295	12.785623400884912	3352824
+3353000	EDA	ha2tsd: hierarchical time slack distribution for ultra-low power cmos vlsi	2002	-6.693439948018671	13.093648702151023	3353027
+3353098	EDA	a rule-based approach for minimizing power dissipation of digital circuits	2016	-6.592116106956878	12.868663248521562	3353125
+3353310	EDA	clock skew bounds estimation under power supply and process variations	2005	-6.641290247815349	12.246210992361586	3353337
+3353419	EDA	global interconnect design in a three-dimensional system-on-a-chip	2004	-6.610721474035263	12.764125439569122	3353446
+3355389	EDA	thermal-aware placement based on fm partition scheme and force-directed heuristic	2006	-6.76738791038129	12.504466402635098	3355416
+3356711	EDA	optimization technique for flip-flop inserted global interconnect	2008	-6.588796207949879	13.093166441732276	3356738
+3356859	EDA	layout techniques supporting the use of dual supply voltages for cell-based designs	1999	-6.554921540229106	12.546355186489597	3356886
+3357666	EDA	an energy-efficient high-level synthesis algorithm incorporating interconnection delays and dynamic multiple supply voltages	2013	-6.6649707357679056	12.900667952119374	3357693
+3358268	EDA	total power modeling in fpgas under spatial correlation	2009	-6.407157675411134	12.540673579221046	3358295
+3358623	EDA	interconnect tuning strategies for high-performance ics	1998	-7.0695255439549145	12.271773836021481	3358650
+3359294	EDA	multi-corner multi-voltage domain clock mesh design	2013	-7.001702321027484	12.530369210820375	3359321
+3360395	EDA	peak power identification on power bumps during test application	2011	-6.517487949825162	12.774918703807394	3360422
+3360699	EDA	statistical waveform and current source based standard cell models for accurate timing analysis	2008	-6.597019853423758	12.38734988747011	3360726
+3364851	EDA	a novel power noise simulation methodology for chip design using wafer level chip scale packaging	2014	-6.599806661309716	12.902701853814511	3364878
+3364863	EDA	impact of thermal gradients on clock skew and testing	2006	-6.449070577618198	12.933640499297175	3364890
+3364947	EDA	skew bounded buffer tree resynthesis for clock power optimization	2015	-6.809159877468902	12.487876163569556	3364974
+3365323	EDA	lsc: a large-scale consensus-based clustering algorithm for high-performance fpgas	2017	-6.476093699122228	12.32074723603509	3365350
+3366188	EDA	improved predictability, timing yield and power consumption using hierarchical highways-on-chip planning methodology	2011	-6.266216910392476	12.502404443653619	3366215
+3368367	EDA	early power-grid seed creation to reduce power-signoff effort	2016	-6.351082610311752	12.663767687720046	3368394
+3369531	EDA	modeling and estimation of total leakage current in nano-scaled-cmos devices considering the effect of parameter variation	2003	-6.4835621241838535	12.923202493235044	3369558
+3371237	EDA	performance enhancement of cmos vlsi circuits by transistor reordering	1993	-6.753191961642671	12.797878952297271	3371264
+3372313	EDA	skew management of nbti impacted gated clock trees	2013	-6.621752335232315	12.901454996952474	3372340
+3372720	EDA	heuristic based majority/minority logic synthesis for emerging technologies	2017	-6.69539096312439	12.750247568787534	3372747
+3377080	EDA	an efficient phase detector connection structure for the skew synchronization system	2010	-6.669353935515256	13.189151847608994	3377107
+3378715	EDA	simple and accurate method for fast static currentestimation in cmos complex gates with interaction ofleakage mechanisms	2008	-6.491074251071902	12.93408226512078	3378742
+3388158	EDA	power vs. delay in gate sizing: conflicting objectives?	1995	-6.988731860099912	12.42959830569273	3388185
+3388975	EDA	wiring area optimization in floorplan-aware hierarchical power grids	2005	-6.746716843601504	12.494105970697179	3389002
+3389963	EDA	multilevel routing with jumper insertion for antenna avoidance	2004	-7.00901855280929	12.511332452713232	3389990
+3390282	EDA	a non-iterative gate resizing algorithm for high reduction in power consumption	1997	-6.908954448795187	12.46153946044115	3390309
+3390745	EDA	parametric yield analysis and optimization in leakage dominated technologies	2007	-6.586901575265168	12.688207706061617	3390772
+3392056	HPC	delay-optimal wiring plan for the microprocessor of high performance computing machines	2000	-6.4995190416927935	12.326623731243426	3392083
+3392154	EDA	low-power driven logic synthesis using accurate power estimation technique	1997	-6.658349843630952	12.3433745519964	3392181
+3394367	EDA	effective analytical delay model for transistor sizing	2005	-6.422742216965934	12.485212632450402	3394394
+3398329	EDA	an alternate approach to buffer insertion for delay and power reduction in vlsi interconnects	2010	-6.738507530860229	13.096755457063038	3398356
+3399392	EDA	interconnect-centric array architectures for minimum sram access time	2001	-6.425357143158932	13.106737775505884	3399419
+3399496	EDA	optimal dual -vt assignment for low-voltage energy-constrained cmos circuits	2002	-6.546008652673037	12.946642071198175	3399523
+3400211	EDA	on confidence in characterization and application of variation models	2010	-6.27201371265558	12.761018999034373	3400238
+3401337	EDA	using negative edge triggered ffs to reduce glitching power in fpga circuits	2007	-6.594717157599742	12.4995415040595	3401364
+3404261	Logic	building a comprehensive information systems auditing and control software	2007	-7.0958720793946695	12.567447101471783	3404288
+3404701	EDA	gate resizing for soft error rate reduction in nano-scale digital circuits considering process variations	2015	-6.470113637897164	12.599362976071264	3404728
+3406800	EDA	body bias optimization for variable pipelined cgra	2017	-6.712060653784845	12.9923861563433	3406827
+3407626	EDA	clock distribution area reduction using a multiple-valued clocking approach	2014	-7.032454785558463	12.68114954895849	3407653
+3407966	Arch	circuit optimization for leakage power reduction using multi-threshold voltages for high performance microprocessors	2007	-7.017523471077729	12.322100056790445	3407993
+3411548	EDA	the flipped voltage follower: a useful cell for low-voltage low-power circuit design	2005	-6.769524154031099	13.052804675370247	3411575
+3412860	EDA	super fast physics-based methodology for accurate memory yield prediction	2015	-6.5156543867428764	12.306026102629463	3412887
+3412929	EDA	datapath scheduling using dynamic frequency clocking	2002	-6.7588917938891795	12.756317772099006	3412956
+3415084	EDA	current calculation on vlsi signal interconnects	2005	-6.392387257154193	12.452348329471905	3415111
+3415820	EDA	power gating topologies in tsv based 3d integrated circuits	2013	-6.442024764297697	12.886967176541278	3415847
+3417300	EDA	utilization of multi-bit flip-flops for clock power reduction	2012	-6.939168016020334	12.775647715775456	3417327
+3417490	EDA	uncorrelated power supply noise and ground bounce consideration for test pattern generation	2013	-6.4806423492259535	12.34174122730314	3417517
+3418126	EDA	high performance low swing clock tree synthesis with custom d flip-flop design	2014	-6.822612096420336	13.158138078613995	3418153
+3421456	EDA	design methodology for multiple output combinational circuits using cyclic combinational technique	2016	-7.042698145619713	12.853744952585938	3421483
+3421946	EDA	a novel binding algorithm to reduce critical path delay during high level synthesis	2011	-6.765114622988457	12.574883912692863	3421973
+3423669	EDA	statistical static timing analysis considering leakage variability in power gated designs	2009	-6.296322382958232	12.840255052274165	3423696
+3423719	EDA	buffer minimization in pass transistor logic	2001	-7.092849281852327	12.624354610265307	3423746
+3424349	EDA	integrated injection logic: a bipolar lsi technique	1976	-6.847815586129703	12.814862761446385	3424376
+3424594	EDA	multi-voltage and level-shifter assignment driven floorplanning	2009	-6.904936182775433	12.38094262017825	3424621
+3424709	EDA	fin prin: analysis and optimization of finfet logic circuits under pvt variations	2013	-6.537352115425314	13.029280199233662	3424736
+3426029	EDA	accurate temperature-dependent integrated circuit leakage power estimation is easy	2007	-6.295421123076391	12.978454320742095	3426056
+3427226	EDA	maximizing throughput over parallel wire structures in the deep submicrometer regime	2003	-7.21265826550681	12.489006830210519	3427253
+3427415	EDA	coupled analysis of electromigration reliability and performance in ulsi signal nets	2001	-6.336961435554048	12.910567982504125	3427442
+3434283	EDA	an interconnect channel design methodology for high performance integrated circuits	2004	-6.585232296415052	12.76887506531893	3434310
+3434522	EDA	voltage binning under process variation	2009	-6.5457563824305405	12.858711541368498	3434549
+3435221	EDA	statistical timing analysis in sequential circuit for on-chip global interconnect pipelining	2004	-6.334938501831617	13.076812684219954	3435248
+3438002	EDA	time domain current waveform simulation of cmos circuits	1988	-6.321936242722657	12.272650401818847	3438029
+3442858	EDA	early quality assessment for low power behavioral synthesis	2005	-6.696924381640768	12.465250843382368	3442885
+3446477	EDA	simultaneous v/sub t/ selection and assignment for leakage optimization	2005	-6.85246017481701	12.281428210800886	3446504
+3448799	EDA	circuit synthesis of clock distribution networks based on non-zero clock skew	1994	-7.060796117818224	12.783441765870249	3448826
+3449086	Logic	several logic gates extended from magic-memristor-aided logic	2017	-6.777879186157612	13.181125262321038	3449113
+3449520	EDA	resource selection and binding of nonzero clock skew circuits for standby leakage current minimization	2010	-6.566136047827992	12.85910799282461	3449547
+3450109	EDA	design and reliability analysis of multiple valued logic gates using carbon nanotube fets	2012	-6.701100719649241	13.08210018920286	3450136
+3452791	EDA	decoupling-capacitor planning and sizing for noise and leakage reduction	2006	-6.898667461843086	12.497478811338512	3452818
+3453183	EDA	managing inductive coupling in wide signal busses	2004	-6.79617806735149	12.587825947914839	3453210
+3454956	EDA	low-power gated and buffered clock network construction	2008	-6.962559966703532	12.298564397446224	3454983
+3455660	EDA	low area/power synthesis using hybrid pass transistor/cmos logic cells in standard cell-based design environment	2010	-6.8139584915596485	12.299383777580536	3455687
+3457170	EDA	power reduction in pipelines	1998	-6.287074075095585	13.091080719462461	3457197
+3459354	EDA	power optimization of delay constrained cmos bus drivers	1996	-6.754087243868575	12.894681951992876	3459381
+3460077	EDA	optimized power-delay curve generation for standard cell ics	2002	-6.902161744480956	13.023515971615396	3460104
+3460376	EDA	thermal-aware design and test techniques for two-and three-dimensional networks-on-chip	2016	-6.599682638809996	12.436837891962444	3460403
+3461579	EDA	black-box leakage power modeling for cell library and sram compiler	2011	-6.289081487542269	12.656754779072047	3461606
+3461754	EDA	predicting the worst-case voltage violation in a 3d power network	2009	-6.853244679474285	12.523152599430645	3461781
+3462518	EDA	clock skew minimization in multi-voltage mode designs using adjustable delay buffers	2010	-7.16237431407102	12.24587996404515	3462545
+3463292	EDA	optimal design of synchronous circuits using software pipelining techniques	1998	-6.774039185666451	12.302134513708568	3463319
+3463574	Arch	a crossbar interconnection network in dna	2015	-6.350987470437403	12.594234232432376	3463601
+3465822	HPC	loosely coupled multi-bit flip-flop allocation for power reduction	2017	-6.898924494204506	13.06130951489839	3465849
+3470647	EDA	the monotonic increasing relationship between average powers of cmos vlsi circuits with and without delay and its applications	2002	-7.137845362346063	12.516278294338827	3470674
+3471012	EDA	parameter reduction for variability analysis by slice inverse regression (sir) method	2007	-6.432748325492084	12.259826894260517	3471039
+3473832	EDA	speed and yield enhancement by track swapping on critical paths utilizing random variations for fpgas	2008	-6.558282548295884	13.014221377810252	3473859
+3475219	EDA	computationally efficient clustering of power supplies in heterogeneous real time systems	2014	-7.026860829298936	13.003866902649115	3475246
+3478697	EDA	a scan matrix design for low power scan-based test	2005	-6.529584653782356	12.382457640444635	3478724
+3479706	EDA	architecture-level thermal behavioral characterization for multi-core microprocessors	2008	-6.542838074808973	12.597253772723393	3479733
+3482735	EDA	power distribution network optimization for timing improvement with statistical noise model and timing analysis	2012	-7.024933552020812	12.357225640491505	3482762
+3483894	EDA	mismatch-aware common-centroid placement for arbitrary-ratio capacitor arrays considering dummy capacitors	2012	-7.063640775047772	12.442677303276673	3483921
+3485743	EDA	dynamic flip-flop conversion to tolerate process variation in low power circuits	2014	-6.347629301044099	12.580197216523409	3485770
+3486100	EDA	practical approach to programmable analog circuits with memristors	2010	-6.511571044593325	13.027804682190256	3486127
+3488393	EDA	reduction of rlc tree delay using bidirectional buffer repeater insertion	2006	-7.060803100581097	12.525499453361313	3488420
+3490785	Arch	nand-nor: a compact, fast, and delay balanced fpga logic element	2017	-6.41568821593538	12.371676120071756	3490812
+3491914	Arch	clock skew minimization in multiple dynamic supply voltage with adjustable delay buffers restriction	2015	-7.072943749644165	12.399861647927963	3491941
+3494337	EDA	an integrated timing and dynamic supply noise verification for multi-10-million gate soc designs	2006	-6.341223393473777	12.491504911489017	3494364
+3495019	EDA	process variability-aware statistical hybrid modeling of dynamic power dissipation in 65 nm cmos designs	2007	-6.615361077899173	12.641995181608472	3495046
+3495826	EDA	multi-voltage domain clock mesh design	2012	-7.004185251842233	12.480614781665215	3495853
+3496864	EDA	speed clustering of integrated circuits	2004	-6.430455737297343	12.639755055395735	3496891
+3498994	EDA	efficient region-aware p/g tsv planning for 3d ics	2014	-6.883712253899557	12.594769352453437	3499021
+3500068	EDA	synthesis of resonant clock networks supporting dynamic voltage / frequency scaling	2015	-6.9820789277188045	12.930372061293724	3500095
+3502190	EDA	pulser gating: a clock gating of pulsed-latch circuits	2011	-7.03118248054851	12.689505689875991	3502217
+3503804	EDA	rlc coupling-aware simulation for on-chip buses and their encoding for delay reduction	2005	-6.7346704109911295	13.054273429990143	3503831
+3504263	EDA	a case for hardened multiplexers in fpgas	2013	-6.910578563896013	12.82117960019489	3504290
+3504315	EDA	efficient circuit clustering for area and power reduction in fpgas	2002	-6.813200616253699	12.249346087636221	3504342
+3504420	EDA	dynamic electrothermal simulation of three-dimensional integrated circuits using standard cell macromodels	2012	-6.582444288818457	12.457841618367867	3504447
+3505330	EDA	blockage-avoiding buffered clock-tree synthesis for clock latency-range and skew minimization	2010	-7.011125393438383	12.354566409241288	3505357
+3508707	EDA	simultaneous reduction of dynamic and static power in scan structures	2005	-6.3033790776832275	12.688494680959687	3508734
+3508956	EDA	statistical full-chip dynamic power estimation considering spatial correlations	2011	-6.77572239073624	12.30133155952328	3508983
+3510257	EDA	floorplan-aware decoupling capacitance budgeting on equivalent circuit model	2006	-6.913869332590325	12.309621456242333	3510284
+3510903	EDA	impact of range and precision in technology on cell-based design	2012	-6.794454531663402	12.518355079221973	3510930
+3511334	AI	delay-insensitive gate-level pipelining	2001	-7.025850668183676	12.851281690874965	3511361
+3514122	EDA	a high-speed hybrid full adder with low power consumption	2012	-7.1625033603272925	12.87088491112533	3514149
+3514487	EDA	estimation of power consumption in encoded data buses	2002	-6.448622290829481	12.341737617821071	3514514
+3517449	EDA	optimized implementation of memristor-based full adder by material implication logic	2014	-7.093033132002145	13.200793845584785	3517476
+3519813	EDA	an efficient and effective methodology to control turn-on sequence of power switches for power gating designs	2016	-6.907574190982026	12.646225039275961	3519840
+3520284	EDA	exploiting on-chip data behavior for delay minimization	2007	-6.774311667003915	13.146940694098316	3520311
+3520852	EDA	application of the defect clustering model for forming, set and reset statistics in rram devices	2016	-6.355973335850133	12.93940963829276	3520879
+3521804	EDA	misalignment-aware delay modeling of narrow on-chip interconnects considering variability	2018	-6.583573285668017	12.75710780236333	3521831
+3523576	Crypto	selective clock-gating for low power/low noise synchronous counters 1	2002	-7.093376845698807	13.169173192745864	3523603
+3525560	EDA	mcmm clock tree optimization based on slack redistribution using a reduced slack graph	2016	-7.071317723379693	12.453432095199375	3525587
+3525896	EDA	experimental study on cell-base high-performance datapath design.	2002	-7.064317617935393	12.980003423569286	3525923
+3527343	EDA	performance optimization and power efficiency in 3d ic with buffer insertion scheme	2016	-6.7898335070339755	12.63648264683532	3527370
+3530833	Arch	serial-link bus: a low-power on-chip bus architecture	2005	-6.774656358773025	13.111067369994855	3530860
+3533333	EDA	optimizing decoupling capacitors in 3d circuits for power grid integrity	2009	-6.7998678040374365	12.687422953035133	3533360
+3533659	EDA	comprehensive analysis and control of design parameters for power gated circuits	2011	-6.985186183908949	12.624073994503519	3533686
+3534379	EDA	timing-driven variation-aware synthesis of hybrid mesh/tree clock distribution networks	2013	-6.739032457414201	12.750657532358575	3534406
+3537368	EDA	a technique for minimizing power during fpga placement	2008	-6.643031530819492	12.44165061987356	3537395
+3537828	EDA	virtual prototyper (vipro): an sram design tool for yield constrained optimization	2015	-6.471518325192274	13.145636880409265	3537855
+3538932	EDA	soft-error-rate-analysis (sera) methodology	2004	-6.6171183279288055	12.864704912569636	3538959
+3541941	EDA	leakage-power-aware scheduling with dual-threshold voltage design	2016	-6.634881931523586	12.433452282603984	3541968
+3543348	EDA	crosstalk avoidance codes for 3d vlsi	2013	-6.98242900451258	12.470815080731269	3543375
+3543552	EDA	minimizing coupling jitter by buffer resizing for coupled clock networks	2003	-6.45846746426337	12.892448410218826	3543579
+3545323	EDA	minimization of nbti performance degradation using internal node control	2009	-6.855533449550077	12.596763048487002	3545350
+3545692	EDA	designing efficient qca logical circuits with power dissipation analysis	2015	-6.734650782658223	13.037048687594307	3545719
+3547427	Arch	design and implementation of a totally self-checking 16 × 16 bit array multiplier	1992	-7.224342877948046	13.058605547339333	3547454
+3552074	EDA	a 3d-layout aware binding algorithm for high-level synthesis of three-dimensional integrated circuits	2007	-6.47879650245201	12.271464534306595	3552101
+3552165	EDA	statistical timing-based post-placement leakage recovery	2011	-6.445728162902872	12.91865953330777	3552192
+3552263	EDA	thermal-aware post layout voltage-island generation for 3d ics	2013	-6.897500359914004	12.47982943448882	3552290
+3553311	EDA	statistical transistor-level timing analysis using a direct random differential equation solver	2014	-6.65951992392303	12.294774179567352	3553338
+3554751	EDA	ir drop reduction via a flip-flop resynthesis technique	2008	-6.798689910109338	12.304599909579457	3554778
+3556609	EDA	test clock domain optimization for peak power supply noise reduction during scan	2011	-6.353306083341124	12.345061165492352	3556636
+3557909	EDA	in-situ characterization and extraction of sram variability	2010	-6.414299705855401	12.75576855216268	3557936
+3559898	EDA	power efficient voltage islanding for systems-on-chip from a floorplanning perspective	2010	-7.001855053182425	12.597890379514439	3559925
+3564712	EDA	model-based dummy feature placement for oxide chemical-mechanicalpolishing manufacturability	2001	-7.077511642506647	12.438179057923255	3564739
+3566249	EDA	reversible logic based design and test of field coupled nanocomputing circuits	2014	-7.226969697467947	12.602664031584766	3566276
+3566467	EDA	leakage-aware kalman filter for accurate temperature tracking	2011	-6.329887034382308	13.183345813061598	3566494
+3567400	Embedded	impact of multicycled scheduling on power-area tradeoffs in behavioural synthesis	2005	-6.394873062086319	12.582366130814085	3567427
+3567488	EDA	full-chip multiple tsv-to-tsv coupling extraction and optimization in 3d ics	2013	-6.408987904843528	12.6284313711739	3567515
+3567547	EDA	a gate level methodology for efficient statistical leakage estimation in complex 32nm circuits	2013	-6.335081379402813	12.337618743476053	3567574
+3569011	EDA	power minimization of fprm functions based on polarity conversion	2003	-7.1341699583843825	12.530720428204935	3569038
+3569371	EDA	layer optimization for power reduction in integrated circuits	2018	-6.712679289036702	12.616488604376215	3569398
+3569876	EDA	general behavioral thermal modeling and characterization for multi-core microprocessor design	2010	-6.707763998837664	12.244867427085161	3569903
+3570859	EDA	m-ivc: using multiple input vectors to minimize aging-induced delay	2009	-6.3120327743016285	13.020027287648404	3570886
+3571727	EDA	variability-driven formulation for simultaneous gate sizing and postsilicon tunability allocation	2007	-6.8995255890265454	12.320018168281775	3571754
+3572701	EDA	fast power- and slew-aware gated clock tree synthesis	2012	-6.908508311581572	12.46472634293016	3572728
+3572950	EDA	voltage island aware floorplanning for power and timing optimization	2006	-6.913570569675756	12.549672264365798	3572977
+3573276	EDA	on-chip decoupling capacitance and p/g wire co-optimization for dynamic noise	2007	-7.016461156688983	12.331937581340776	3573303
+3573718	EDA	minimizing leakage power of sequential circuits through mixed-vt flip-flops and multi-vt combinational gates	2009	-6.387582507978274	13.084691997750571	3573745
+3574827	Theory	pseudo-tree data structure for content-based composition and synchronization of multimedia presentations	1996	-6.691911969547268	12.890162705140517	3574854
+3576488	EDA	a methodology to improve timing yield in the presence of process variations	2004	-6.603202891801268	12.368604499689086	3576515
+3577609	EDA	soft error optimization of combinational circuit based on gate sizing and multi-objective particle swarm optimization algorithm	2018	-6.271262233947851	12.884610634975347	3577636
+3580373	EDA	self-compensating design for reduction of timing and leakage sensitivity to systematic pattern-dependent variation	2007	-6.717428755934843	12.621511683220572	3580400
+3581278	EDA	a novel approach for variation aware power minimization during gate sizing	2006	-6.796422275643341	12.295472342712564	3581305
+3581831	EDA	co-design of signal, power, and thermal distribution networks for 3d ics	2009	-6.969862097686776	12.45300860034449	3581858
+3582353	EDA	vawiram: a variable width random access memory module	1996	-6.598625246652492	12.33865238507364	3582380
+3584062	EDA	convex optimization of energy and delay using logical effort method in deep sub-micron technology	2013	-6.456909644853597	13.039514192012224	3584089
+3585410	EDA	dominant critical gate identification for power and yield optimization in logic circuits	2010	-6.337735903942776	12.906307876381097	3585437
+3588335	EDA	redundant vias insertion for performance enhancement in 3d ics	2008	-6.868121076564892	12.633609699791156	3588362
+3591421	EDA	standard cell placement for even on-chip thermal distribution	1999	-6.913634499710701	12.356895190206954	3591448
+3593569	EDA	low-power data-driven dynamic logic (d3l) [cmos devices]	2000	-6.319164472956982	12.928788868507498	3593596
+3594857	EDA	comparison between nmos pass transistor logic style vs. cmos complementary cells	1997	-7.213569416533749	13.127179262110925	3594884
+3596136	EDA	skew aware polarity assignment in clock tree	2007	-7.2160833812096286	12.371404390640366	3596163
+3599877	EDA	clock tree optimization in synchronous cmos digital circuits for substrate noise reduction using folding of supply current transients	2002	-6.755234140220888	12.37327155390471	3599904
+3600823	EDA	saving power by synthesizing gated clocks for sequential circuits	1994	-6.431196096648798	12.907462751211193	3600850
+3600891	EDA	statistical circuit performance variability minimization under manufacturing variations	2006	-6.529171578972449	12.469616396070506	3600918
+3602469	EDA	full-chip leakage analysis in nano-scale technologies: mechanisms, variation sources, and verification	2008	-6.603709629227392	12.34397648592493	3602496
+3602611	EDA	statistical analysis of full-chip leakage power considering junction tunneling leakage	2007	-6.472287440252671	12.7591131586827	3602638
+3605434	EDA	simultaneous fine-grain sleep transistor placement and sizing for leakage optimization	2006	-6.792531461073965	13.16563584961184	3605461
+3606910	EDA	an analysis of interconnect delay minimization by low-voltage repeater insertion	2007	-6.850536454297143	13.007529413853538	3606937
+3607643	EDA	the future of computing — arithmetic circuits implemented with memristors	2017	-6.916069388836327	13.017955538515125	3607670
+3609638	Arch	switching activity analysis and power estimation for multiple constant multiplier block of fir filters	2011	-6.5835797152333315	12.481966236699224	3609665
+3611586	EDA	segmented bus design for low-power systems	1999	-7.0234911547096015	12.555239121565993	3611613
+3618354	EDA	design-patterning co-optimization of sram robustness for double patterning lithography	2012	-6.335348108882271	13.167767226900326	3618381
+3620510	EDA	a unified scheduling approach for power and resource optimization with multiple vdd or/and vth in high-level synthesis	2017	-6.983961154212795	12.369201748307724	3620537
+3620668	EDA	a practical gate resizing technique considering glitch reduction for low power design	1999	-6.557889918015012	13.024655677834867	3620695
+3621806	EDA	dose map and placement co-optimization for timing yield enhancement and leakage power reduction	2008	-6.780397799084795	12.45507413630201	3621833
+3623770	EDA	a fast thermal-aware fixed-outline floorplanning methodology based on analytical models	2018	-6.5456001257052865	12.733498211255743	3623797
+3625027	EDA	timing modeling for digital sub-threshold circuits	2010	-6.529959352901889	12.378028271087404	3625054
+3628636	EDA	a hardware based low temperature solution for vlsi testing using decompressor side masking	2015	-6.391856261532958	12.72716331010131	3628663
+3629652	EDA	clock gating optimization with delay-matching	2011	-6.807005150295754	12.579035157967608	3629679
+3631444	EDA	models for power consumption and power grid noise due to datapath transition activity	2001	-6.638254973613746	12.255417385167235	3631471
+3632519	EDA	a new circuit optimization technique for high performance cmos circuits	1991	-6.612287677052937	12.695813569388738	3632546
+3632827	EDA	logic gates as repeaters (lgr) for area-efficient timing optimization	2006	-6.807015079931376	12.632735512458833	3632854
+3633166	Arch	power reduction of on-chip serial links	2007	-6.279394902182273	12.924099691745587	3633193
+3634959	EDA	clock design techniques considering circuit reliability	2011	-6.7518789445209375	12.742512153678913	3634986
+3636108	EDA	floorplan and power/ground network co-synthesis for fast design convergence	2006	-6.77334335381175	12.372829083247266	3636135
+3636172	EDA	power grid correction using sensitivity analysis under an rc model	2011	-6.9964476745919635	12.406451448082905	3636199
+3636420	EDA	gate delay modeling with multiple input switching for static (statistical) timing analysis	2006	-6.546344452687153	12.276754189246555	3636447
+3636594	EDA	selected transition time adjustment for tolerating crosstalk effects on network-on-chip interconnects	2011	-6.2928763675864205	13.135139788158519	3636621
+3639242	EDA	design and optimization of on-chip interconnects using wave-pipelined multiplexed routing	2007	-6.623926931532663	12.83995927678306	3639269
+3642510	EDA	macromodels for static virtual ground voltage estimation in power-gated circuits	2016	-6.352816110885593	12.56658866591207	3642537
+3642630	EDA	dynamic power estimation for deep submicron circuits with process variation	2010	-6.386746318601652	12.49791941156523	3642657
+3642777	EDA	power delivery aware floorplanning for voltage island designs	2007	-6.837184710865227	12.732879010768931	3642804
+3643394	EDA	decoupling capacitance allocation for power supply noise suppression	2001	-7.0379294226003335	12.529415087308097	3643421
+3644381	EDA	behavioral synthesis of datapaths with low leakage power	2002	-6.683294452988834	12.940659099351954	3644408
+3650956	EDA	lithography aware critical area estimation and yield analysis	2011	-6.274875896593807	12.683352035379635	3650983
+3653954	EDA	return-to-one dims logic on 4-phase m-of-n asynchronous circuits	2012	-6.348333573338162	12.926715852918164	3653981
+3655220	EDA	layer assignment algorithm for rlc crosstalk minimization	2004	-6.405407227200167	12.643588797334399	3655247
+3655408	EDA	a novel scan architecture for low power scan-based testing	2015	-6.596994852886515	13.064225192050051	3655435
+3655516	EDA	faster statistical cell characterization using adjoint sensitivity analysis	2008	-6.550912811466961	12.46942099661158	3655543
+3655956	EDA	statistical modeling of gate-delay variation with consideration of intra-gate variability	2003	-6.495421390296135	12.669425959847946	3655983
+3655965	EDA	doppler: dpl-aware and opc-friendly gridless detailed routing with mask density balancing	2011	-7.126925255086473	12.247819739372536	3655992
+3656349	EDA	efficient thermal simulation for run-time temperature tracking and management	2005	-6.4035656882610805	12.661438932588856	3656376
+3657747	EDA	statistical blockade method for fast robustness estimation and compensation of nano-cmos arithmetic circuits	2011	-6.3339236868008335	12.545411335156984	3657774
+3658270	EDA	delay uncertainty reduction by interconnect and gate splitting	2007	-6.416324515709089	13.037773206073954	3658297
+3658276	EDA	modeling and layout optimization for tapered tsvs	2015	-6.753793793804808	12.844748418956893	3658303
+3660672	EDA	noise-aware buffer planning for interconnect-driven floorplanning	2003	-6.888177436168072	12.576166431570018	3660699
+3662373	EDA	activity-driven fine-grained clock gating and run time power gating integration	2013	-6.448993689559946	12.92312736911416	3662400
+3662505	Embedded	a closer look at the delay-chain based trng	2018	-6.661880155150714	12.69715702416126	3662532
+3664825	EDA	clock tree resynthesis for multi-corner multi-mode timing closure	2014	-6.543972366093098	12.319925506843159	3664852
+3668727	EDA	a qca implementation of a configurable logic block for an fpga	2006	-6.6320127685668435	12.988130407469294	3668754
+3671362	EDA	simulation-driven thermal-safe test time minimization for system-on-chip	2008	-6.314585132828848	12.660544253281756	3671389
+3673614	EDA	integrated circuit white space redistribution for temperature optimization	2011	-7.078174969949986	12.377675204186911	3673641
+3673814	EDA	a finite-point method for efficient gate characterization under multiple input switching	2015	-6.340933310493349	12.57791366398152	3673841
+3674349	EDA	simple and accurate models for capacitance increment due to metal fill insertion	2007	-7.031208092859551	12.414537208156109	3674376
+3675216	Arch	effect of supply voltage on random telegraph noise of transistors under switching condition	2017	-6.301492160246013	13.042007418151002	3675243
+3675940	EDA	uncertainty-aware robust optimization of test-access architectures for 3d stacked ics	2013	-6.674654933037533	12.270215152300453	3675967
+3678460	EDA	coupling-aware high-level interconnect synthesis for low power	2002	-6.83420098331029	12.433283939349806	3678487
+3680437	EDA	improvement in computational accuracy of output transition time variation considering threshold voltage variations	2009	-6.376312204482054	12.575492270875495	3680464
+3681117	EDA	bus encoder design for reduced crosstalk, power and area in coupled vlsi interconnects	2013	-6.956473001428687	13.094382088695	3681144
+3682416	EDA	repeater and current-sensing hybrid circuits for on-chip interconnects	2003	-6.848306687188782	13.074480731569214	3682443
+3683143	EDA	separation and extraction of short-circuit power consumption in digital cmos vlsi circuits	1998	-6.929696234050515	12.468280923726955	3683170
+3685751	EDA	construction of reconfigurable clock trees for mcmm designs	2015	-7.138514478081336	12.738101958842206	3685778
+3687708	EDA	system-level power and thermal modeling and analysis by orthogonal polynomial based response surface approach (oprs)	2005	-6.417906235421997	12.41992185548704	3687735
+3687800	EDA	cad reference flow for 3d via-last integrated circuits	2010	-6.346243700587275	12.341266937477805	3687827
+3692276	EDA	constructing stability-based clock gating with hierarchical clustering	2015	-6.611154766177874	12.894605598814945	3692303
+3693907	EDA	all-region statistical model for delay variation based on log-skew-normal distribution	2016	-6.486544880672987	12.678207837540972	3693934
+3694418	EDA	statistical power profile correlation for realistic thermal estimation	2008	-6.37797712003705	12.836680256347188	3694445
+3695445	HCI	hypermedia document design using the htspn model	1996	-6.501204002203412	13.06711940367702	3695472
+3696838	EDA	an algorithm to remove asynchronous roms in circuits with cycles	2011	-6.344126264333387	12.36521314510227	3696865
+3699077	EDA	temperature-aware global placement	2004	-6.376973095408193	12.951311492734124	3699104
+3699731	EDA	power and delay analysis of various c-element topologies: a comparative study	2016	-6.419510596241608	13.196418259046332	3699758
+3700009	EDA	synthesizing hdl to memristor technology: a generic framework	2016	-6.342586471199273	13.118451685050365	3700036
+3701186	EDA	architectural power analysis: the dual bit type method	1995	-6.282577383451033	13.017558022245495	3701213
+3702481	EDA	thermal driven placement for island-style mtcmos fpgas	2008	-6.526179984156393	12.992789221457127	3702508
+3702747	EDA	dose map and placement co-optimization for improved timing yield and leakage power	2010	-6.795791020468116	12.526278368482089	3702774
+3702942	EDA	powerfield: a probabilistic approach for temperature-to-power conversion based on markov random field theory	2013	-6.740705820256872	12.253440672284654	3702969
+3705066	EDA	subthreshold leakage modeling and estimation of general cmos complex gates	2007	-6.461534830535221	12.941232205268605	3705093
+3705408	EDA	technology-aware logic synthesis for reram based in-memory computing	2018	-6.930656814687054	12.288569823123026	3705435
+3705714	EDA	a parameterized timing-aware flip-flop merging algorithm for clock power reduction	2018	-6.940309929139744	12.702038513139158	3705741
+3705814	EDA	a novel approach to estimate the impact of analog circuit performance based on the small signal model under process variations	2011	-6.67649287501867	12.291072322231667	3705841
+3706556	EDA	tsvs in early layout design exploration for 3d ics	2014	-6.637349019501707	12.934207033828125	3706583
+3707606	EDA	design of ternary logic combinational circuits based on quantum dot gate fets	2013	-7.0315146232698345	12.525439579276082	3707633
+3709321	EDA	design planning for uniform thermal distribution	2006	-6.6210168920187495	12.735710143519762	3709348
+3710212	EDA	delay modeling and static timing analysis for mtcmos circuits	2006	-6.5261599360195115	12.367503245834143	3710239
+3710889	EDA	a statistical framework for post-silicon tuning through body bias clustering	2006	-6.486411106947916	12.9117597092158	3710916
+3712153	EDA	a novel contribution to the rtd-based threshold logic family	2008	-6.9650643903075125	13.035549487092553	3712180
+3712970	EDA	a fast ulv logic synthesis flow in many-$v_{t}$  cmos processes for minimum energy under timing constraints	2012	-6.708415913821152	13.008769960521073	3712997
+3713360	HPC	inductance/area/resistance tradeoffs in high performance power distribution grids	2002	-6.665841596906141	13.142333224615287	3713387
+3713930	EDA	analysis and verification of power grids considering process-induced leakage-current variations	2006	-6.302411828990524	12.830213665428353	3713957
+3713944	EDA	interconnect delay analysis for rram crossbar based fpga	2018	-6.313743069551713	12.681442892496007	3713971
+3716299	EDA	gtfuzz: a novel algorithm for robust dynamic power optimization via gate sizing with fuzzy games	2015	-6.649809699308751	12.389025697665875	3716326
+3720685	EDA	sfqmap: a technology mapping tool for single flux quantum logic circuits	2018	-6.766643114537182	13.144708271714329	3720712
+3723031	EDA	computation of waveform sensitivity using geometric transforms for ssta	2008	-6.54468654712254	12.443350207030418	3723058
+3723673	EDA	routability-driven flip-flop merging process for clock power reduction	2010	-6.995637599040549	12.502450475802142	3723700
+3723857	EDA	leakage reduction, delay compensation using partition-based tunable body-biasing techniques	2009	-6.436993895531511	13.09699788056078	3723884
+3724374	EDA	single edge clock (sec) distribution for improved latency, skew, and jitter performance	2008	-6.476897387231372	12.937386476363864	3724401
+3727431	EDA	energy efficient mpsoc on-chip communication bus synthesis using voltage scaling technique	2006	-6.670164211612978	12.829390846246483	3727458
+3730608	EDA	a lithography-friendly structured asic design approach	2008	-6.503256030814628	12.995348137421107	3730635
+3732197	EDA	variation aware timing based placement using fuzzy programming	2007	-6.795427769259413	12.381242640910854	3732224
+3735360	Arch	analysis and modeling of subthreshold leakage of rt-components under ptv and state variation	2006	-6.351042261629973	13.008942819508807	3735387
+3737172	EDA	fast power loss calculation for digital static cmos circuits	1997	-6.3702500118314385	12.313618075312705	3737199
+3738331	EDA	design and optimization of mos current mode logic for parameter variations	2004	-6.746307391547044	12.74569037118664	3738358
+3738802	EDA	soft error rate analysis for combinational logic using an accurate electrical masking model	1995	-6.3730428704720765	12.62620296473493	3738829
+3739860	EDA	process-induced skew variation for scaled 2-d and 3-d ics	2010	-6.447021833941236	12.980865572548078	3739887
+3741263	EDA	power minimization for dynamic plas	2005	-6.614157701376334	12.351406657446974	3741290
+3741818	EDA	cmos gates with second function	2018	-6.640120767022358	12.639652142249586	3741845
+3742664	EDA	cmos op-amp circuit synthesis with geometric programming models for layout-dependent effects	2012	-6.37863158854171	12.967057874906914	3742691
+3743022	EDA	analytical bound for unwanted clock skew due to wire width variation	2003	-6.6253114716231725	12.403239477313145	3743049
+3744907	EDA	activation-aware slack assignment for time-to-failure extension and power saving	2018	-6.605161393116617	12.825819305301511	3744934
+3745107	EDA	device-circuit optimization for minimal energy and power consumption in cmos random logic networks	1997	-6.819113594930808	12.55275283069339	3745134
+3747595	EDA	asymmetric clock driver for improved power and noise performances	2007	-6.735520804503878	12.862978663563766	3747622
+3748806	EDA	decoupling capacitor planning and sizing for noise and leakage reduction	2006	-6.763331182045184	12.611987030691946	3748833
+3756312	EDA	novel asynchronous registers for sequential circuits with quantum-dot cellular automata	2012	-7.131676949674675	13.176133872569654	3756339
+3759169	EDA	peak power minimization through datapath scheduling	2003	-6.711599021739701	12.704735600198953	3759196
+3759966	EDA	high-level synthesis for minimum-area low-power clock gating	2012	-6.510654041529407	12.445740378061284	3759993
+3762494	EDA	thermal signature: a simple yet accurate thermal index for floorplan optimization	2011	-6.902545185412118	12.407647885368448	3762521
+3769607	EDA	floorplan and placement methodology for improved energy reduction in stacked power-domain design	2017	-7.0804735163927495	12.617412730223249	3769634
+3770856	EDA	a new approach for electronic design automation of analog building blocks	2018	-7.208571645831452	13.13641326452674	3770883
+3774165	EDA	temperature-aware routing in 3d ics	2006	-6.793122843875666	12.593372693013999	3774192
+3774657	EDA	physical modeling of bitcell stability in subthreshold srams for leakage–area optimization under pvt variations	2018	-6.309274642128434	12.884944050652866	3774684
+3775323	Arch	gate failures effectively shape multiplexing	2006	-6.777596444504223	12.416799469605493	3775350
+3775514	EDA	evt-based worst case delay estimation under process variation	2018	-6.305590131452322	12.461007069110627	3775541
+3777905	EDA	analysis of performance and reliability trade-off in dummy pattern design for 32-nm technology	2009	-6.341175995457599	12.740382065782947	3777932
+3780402	EDA	a scalable algorithmic framework for row-based power-gating	2008	-6.959664405788626	12.61128187085795	3780429
+3780972	EDA	variability budgetin pulsed flip-flops	2015	-6.482378086085289	12.878731066130458	3780999
+3782650	EDA	decoupling capacitance efficient placement for reducing transient power supply noise	2009	-7.093234228247664	12.427800883229242	3782677
+3784954	EDA	synthesizing parsimonious inexact circuits through probabilistic design techniques	2013	-6.830508692912552	13.047225927199733	3784981
+3785350	EDA	a static estimation technique of power sensitivity in logic circuits	2001	-6.273548282635282	12.534589795044036	3785377
+3785905	EDA	separatrices in high-dimensional state space: system-theoretical tangent computation and application to sram dynamic stability analysis	2010	-6.608453866206733	12.3054094483884	3785932
+3786318	EDA	test scheduling with thermal optimization for network-on-chip systems using variable-rate on-chip clocking	2006	-6.427401904513903	12.772849244083787	3786345
+3786617	EDA	hamming-distance-based valve-switching optimization for control-layer multiplexing in flow-based microfluidic biochips	2017	-6.491969544314704	12.663269753869498	3786644
+3786708	EDA	power consumption in xor-based circuits	1999	-6.865351069920085	13.037058051420866	3786735
+3788527	EDA	width quantization aware finfet circuit design	2006	-6.405138353191887	12.852797391551334	3788554
+3791874	EDA	scheduling techniques for variable voltage low power designs	1997	-6.487133746165202	12.405367140080493	3791901
+3791965	EDA	determining mosfet parameters in moderate inversion	2007	-6.4902822289360165	12.936364759518394	3791992
+3794886	EDA	multi-objective 3d floorplanning with integrated voltage assignment	2017	-6.833639645628826	12.412012579522715	3794913
+3797166	EDA	timing margin recovery with flexible flip-flop timing model	2014	-6.53218698875077	12.446142769275813	3797193
+3799122	EDA	3d-ic signal tsv assignment for thermal and wirelength optimization	2017	-6.936377054195934	12.30633098106541	3799149
+3799383	EDA	ulsi interconnect length distribution model considering core utilization	2004	-6.322479359726183	13.124136020766475	3799410
+3800741	EDA	actual-delay circuits on fpga: trading-off luts for speed	2006	-6.347563212093253	12.967308864162085	3800768
+3802276	EDA	identifying high variability speed-limiting paths under aging	2017	-6.387169037310634	12.550621776342695	3802303
+3802303	EDA	on increasing signal integrity with minimal decap insertion in area-array soc floorplan design	2007	-6.724208445292827	12.367925260919757	3802330
+3802965	Arch	fast, parallel two-rail code checker with enhanced testability	2005	-6.749587183224891	12.525936374537446	3802992
+3804108	EDA	leakage current reduction in sequential circuits by modifying the scan chains	2003	-6.2808314581252995	12.541551852738134	3804135
+3805070	EDA	leakage power optimization in standard-cell designs	2004	-6.664162617458093	12.864834454212493	3805097
+3806173	EDA	high-level power estimation with interconnect effects	2000	-6.347381015116213	12.636986591468876	3806200
+3808475	EDA	on achieving low-power soc clock tree synthesis by transition time planning via buffer library study	2006	-6.853150508677473	12.642142701437395	3808502
+3809114	EDA	leakage current reduction in cmos vlsi circuits by input vector control	2004	-6.548314835687259	12.58826146132424	3809141
+3809832	EDA	minimizing simultaneous switching noise (ssn) using modified odd/even bus invert method	2006	-6.980262919314554	13.200838235517347	3809859
+3812003	EDA	dynamic and leakage power reduction in mtcmos circuits using an automated efficient gate clustering technique	2002	-6.80619425394849	12.732110904062257	3812030
+3813762	EDA	hierarchical-analysis-based fast chip-scale power estimation method for large and complex lsis	2006	-6.299603215781124	12.690054465432313	3813789
+3815219	EDA	application of machine learning methods in post-silicon yield improvement	2017	-6.508824309201706	12.274059358446975	3815246
+3818560	EDA	statistical timing analysis driven post-silicon-tunable clock-tree synthesis	2005	-6.777342529489176	12.445144348452873	3818587
+3819140	EDA	correlation controlled sampling for efficient variability analysis of analog circuits	2010	-6.582638509949889	12.255928274142564	3819167
+3819666	EDA	a logic-aware layout methodology to enhance the noise immunity of domino circuits	2003	-6.301253123274919	12.778084041373663	3819693
+3820367	EDA	genetic algorithm-based multi-objective optimization for statistical yield analysis under parameter variations	2017	-6.615786238791255	12.296273857633206	3820394
+3821345	EDA	statistical circuit optimization considering device andinterconnect process variations	2007	-6.5704003984009995	12.806831440519225	3821372
+3822886	EDA	distributed sleep transistor network for power reduction	2003	-6.83602128241692	12.862229024491551	3822913
+3823398	EDA	analysis of power consumption using a new methodology for the capacitance modeling of complex logic gates	2009	-6.551972816528628	12.909580628290767	3823425
+3824631	EDA	skew aware polarity assignment in clock tree	2007	-7.220843752294847	12.388393816989687	3824658
+3825231	EDA	design of multiple fanout clock distribution network for rapid single flux quantum technology	2017	-6.679197604412212	13.102869074935356	3825258
+3826052	EDA	high-level synthesis with distributed controller for fast timing closure	2011	-6.596526415058906	12.2548422374662	3826079
+3829161	EDA	multi-objective optimization of qca circuits with multiple outputs using genetic programming	2012	-7.001414631544365	12.469974552857945	3829188
+3831860	EDA	pvt variations in differential flip-flops: a comparative analysis	2015	-6.379638483412397	12.808744934902865	3831887
+3832244	EDA	capture and shift toggle reduction (castr) atpg to minimize peak power supply noise	2008	-6.340972551361984	12.327460442227492	3832271
+3832464	EDA	analysis of noise avoidance techniques in dsm interconnects using a complete crosstalk noise model	2002	-6.759406558837286	12.308868572324982	3832491
+3834061	EDA	a clock interconnect extractor for multigigahertz frequencies incorporating inductance effect	2003	-6.622288004784035	12.468732874510687	3834088
+3834166	EDA	microarchitecture level interconnect modeling considering layout optimization	2005	-6.3351951940783175	12.891291840979786	3834193
+3834329	EDA	incremental layer assignment driven by an external signoff timing engine	2017	-6.834427217847015	12.289746614080306	3834356
+3837492	EDA	overlay aware interconnect and timing variation modeling for double patterning technology	2008	-7.004921207340227	12.355482829558172	3837519
+3837714	EDA	gate level multiple supply voltage assignment algorithm for power optimization under timing constraint	2007	-6.7387766632917785	12.50132222249535	3837741
+3837776	EDA	simultaneous voltage island generation and floorplanning	2010	-7.064184913959021	12.462502376900947	3837803
+3838680	EDA	an analytical placement framework for 3-d ics and its extension on thermal awareness	2013	-6.911413913742464	12.593880371098892	3838707
+3839861	EDA	leakage optimized decap design for fpgas	2006	-6.589418678255508	13.025252596309455	3839888
+3841396	EDA	low power optimization technique for bdd mapped circuits	2001	-6.491305308297756	12.534105317292413	3841423
+3841666	EDA	an efficient approach to simultaneous transistor and interconnect sizing	1996	-7.054517926120317	12.291719124085644	3841693
+3841982	EDA	all-optical reconfigurable logic unit with optically controlled microcavity switches	2010	-7.0641081323886015	12.963728240471314	3842009
+3842388	EDA	robust clock tree synthesis with timing yield optimization for 3d-ics	2011	-6.779714643980848	12.791192830898302	3842415
+3843349	EDA	behavioral level dual-vth design for reduced leakage power with thermal awareness	2010	-6.583295466394046	12.571916203710598	3843376
+3843782	EDA	a power delivery network aware framework for synthesis of 3d networks-on-chip with multiple voltage islands	2012	-6.77918304811083	12.777260866831469	3843809
+3844060	EDA	runtime leakage minimization through probability-aware dual-v/sub t/ or dual-t/sub ox/ assignment	2005	-6.4029376916366765	13.014476453739727	3844087
+3844061	EDA	coupling delay optimization by temporal decorrelation using dual threshold voltage technique	2001	-6.749362258466469	13.005807673456244	3844088
+3844608	EDA	process variation aware clock tree routing	2003	-6.624015273804085	12.323327854217538	3844635
+3844687	EDA	a timing dependent power estimation framework considering coupling	2006	-6.384578608071222	12.837205549573536	3844714
+3845607	EDA	a hybrid power model for rtl power estimation	1998	-6.322976321698076	12.473696420127206	3845634
+3845680	EDA	delay and power minimization in vlsi interconnects with spatio-temporal bus-encoding scheme	2007	-6.910076493511206	12.956888200351385	3845707
+3848384	EDA	efficient thermal aware placement approach integrated with 3d dct placement algorithm	2008	-7.100326360386496	12.332162271913154	3848411
+3848587	EDA	voltage-drop aware analytical placement by global power spreading for mixed-size circuit designs	2009	-7.040327187366822	12.493166151231431	3848614
+3850083	EDA	temperature-gradient based test scheduling for 3d stacked ics	2013	-6.44531751383172	12.61552147604592	3850110
+3853796	EDA	exploratory design of on-chip power delivery for 14, 10, and 7 nm and beyond finfet ics	2018	-6.6132950625168165	12.865592596992485	3853823
+3855865	EDA	analysis of ground bounce in deep sub-micron circuits	1997	-6.637535016648169	12.964180416386439	3855892
+3860797	EDA	variation-aware leakage power model extraction for system-level hierarchical power analysis	2012	-6.308653267861434	12.375879452297552	3860824
+3861303	EDA	temporal and spatial idleness exploitation for optimal-grained leakage control	2009	-6.303219504966007	12.41936953101868	3861330
+3861498	EDA	fabrics ii: a statistically based ic fabrication process simulator	1984	-6.293750289880192	12.334232299651426	3861525
+3862369	EDA	determination of worst-case crosstalk noise for non-switching victims in ghz+ buses	2002	-6.844752831694671	12.314464306180438	3862396
+3863377	EDA	walking pads: managing c4 placement for transient voltage noise minimization	2014	-6.603686503272903	13.074513121356606	3863404
+3864721	Arch	characterizing and modeling minimum energy operation for subthreshold circuits	2004	-6.7117190677387715	12.915076764590413	3864748
+3865068	EDA	leveraging recovery effect to reduce electromigration degradation in power/ground tsv	2017	-6.345427384569996	12.900310304627366	3865095
+3865558	EDA	measuring and utilizing the correlation between signal connectivity and signal positioning for fpgas containing multi-bit building blocks	2005	-6.84479051329966	13.068707458024225	3865585
+3866759	EDA	primitive-level pipelining method on delay-insensitive model for rsfq pulse-driven logic	1998	-7.226737703899968	13.1409875404355	3866786
+3867631	EDA	stand-by power minimization through simultaneous threshold voltage selection and circuit sizing	1999	-6.500535874462006	12.841955076686522	3867658
+3867919	EDA	low power asynchronous circuit back-end design flow	2011	-6.353490488039538	12.548098393533499	3867946
+3872737	EDA	exploiting sti stress for performance	2007	-6.281587826696942	13.068203428869175	3872764
+3874188	EDA	globally optimal time-multiplexing of inter-fpga connections for multi-fpga prototyping systems	2010	-6.624934056998268	12.356063304314315	3874215
+3876232	EDA	exploiting sleep mode for memory partitioning and other applications	1998	-6.802237199219397	12.495317201057574	3876259
+3877616	EDA	aging-leakage tradeoffs using multi-vth cell library	2016	-6.362172969117148	12.834266700700136	3877643
+3879410	EDA	transistor network restructuring against nbti degradation	2010	-6.5139880583276435	13.168405718403454	3879437
+3880250	EDA	fast design optimization through simple kriging metamodeling: a sense amplifier case study	2014	-6.483024409023706	12.35628794616596	3880277
+3880312	Arch	de-synchronization of a point-of-sales digital-logic controller	2008	-7.011694515844903	12.796913372820587	3880339
+3880435	EDA	automated transistor sizing algorithm for minimizing spurious switching activities in cmos circuits	2000	-6.874217443389362	12.781144541215673	3880462
+3883604	EDA	floorplanning considering ir drop in multiple supply voltages island designs	2011	-6.843852191410153	12.697690522813039	3883631
+3883721	EDA	low-energy for deep-submicron address buses	2001	-6.607327087407612	12.450533668888962	3883748
+3885124	EDA	an algorithm for power estimation in switched-capacitor circuits	1996	-6.792840879352669	12.285061600678564	3885151
+3886621	EDA	modeling and synthesis of quality-energy optimal approximate adders	2012	-7.1501171834126875	12.666217738348331	3886648
+3887339	EDA	buffer insertion and sizing in clock distribution networks with gradual transition time relaxation for reduced power consumption	2007	-7.083560295332407	12.747689313062097	3887366
+3888818	EDA	electromigration aware circuits by using special signal non-default routing rules	2016	-6.3882795778017165	12.600202274268765	3888845
+3891450	EDA	synthesis and optimization of multi-objective multi-output qca circuit using genetic algorithm	2017	-7.042357618809676	12.954989389154733	3891477
+3892607	EDA	simultaneous input vector selection and dual threshold voltage assignment for static leakage minimization	2007	-6.8692729745718095	12.447555111692536	3892634
+3894602	EDA	low power gated bus synthesis using shortest-path steiner graph for system-on-chip communications	2009	-6.8415977520615385	12.907086455583553	3894629
+3895284	Arch	time dependent variability in rmg-hkmg finfets: impact of extraction scheme on stochastic nbti	2015	-6.278075525931604	13.046955818251195	3895311
+3899124	EDA	a bottom-up approach to on-chip signal integrity	2003	-6.55988760529256	12.370283853797266	3899151
+3899999	EDA	comparisons of synchronous-clocking sfq adders	2010	-6.933750350901938	12.884294237716016	3900026
+3900470	EDA	using power gating techniques in area-array soc floorplan design	2007	-6.501983520127597	13.157097667288602	3900497
+3900552	EDA	a mask double patterning technique using litho simulation by wavelet transform	2010	-6.749999610005166	12.378468953809463	3900579
+3902607	EDA	simultaneous power fluctuation and average power minimization during nano-cmos behavioral synthesis	2007	-6.558947634605133	13.104504405836682	3902634
+3902743	EDA	a novel vlsi layout fabric for deep sub-micron applications	1999	-6.297165520291745	12.568421645502365	3902770
+3903730	EDA	tsv array utilization in low-power 3d clock network design	2012	-6.941523894892602	12.5692412493734	3903757
+3906292	EDA	principle hessian direction-based parameter reduction for interconnect networks with process variation	2007	-6.466180594837852	12.360514644758648	3906319
+3906622	Vision	a two-phase reconfiguration strategy for extracting linear arrays out of two-dimensional architectures	1993	-6.961847913728538	12.552533182200811	3906649
+3911870	EDA	high-performance noise-robust asynchronous circuits	2006	-6.52246088173454	13.190448507471508	3911897
+3912088	EDA	scalable multilevel vectorless power grid voltage integrity verification	2013	-6.7470818245840665	12.247901816544493	3912115
+3912791	EDA	a unified design methodology for cmos tapered buffers	1995	-6.465656706674506	13.050160406001716	3912818
+3913635	EDA	accurate estimation of vector dependent leakage power in the presence of process variations	2009	-6.565202846014216	12.63696777902267	3913662
+3913656	EDA	gate sizing and buffer insertion for optimizing performance in power constrained bicmos circuits	1993	-7.1778208700300965	13.176720346811203	3913683
+3914063	EDA	practical design and performance evaluation of completion detection circuits	1998	-6.840673290042771	13.051879969227134	3914090
+3915564	EDA	leakage reduction through optimization of regular layout parameters	2012	-6.607825991649167	13.01663251287833	3915591
+3918183	EDA	worst-case noise area prediciton of on-chip power distribution network	2014	-7.0453506113125925	12.659933045120573	3918210
+3920332	EDA	pasta - the characterization of the inherent fluctuations in the fabrication process for circuit simulation	1995	-6.4337484423547675	12.288895856893737	3920359
+3921731	EDA	empirical validation of yield recovery using idle-cycle insertion	2007	-6.598483519963076	12.260017767844865	3921758
+3922242	EDA	analysis of buffered hybrid structured clock networks	2005	-6.970182713984657	12.472830153833206	3922269
+3923634	Arch	electromigration and voltage drop aware power grid optimization for power gated ics	2007	-6.622234702577865	12.82769084054558	3923661
+3925375	EDA	modeling and analysis of loading effect on leakage of nanoscaled bulk-cmos logic circuits	2005	-6.508050837721439	12.994991561628282	3925402
+3926171	EDA	current density aware power switch placement algorithm for power gating designs	2014	-6.896559886148093	12.638831070927468	3926198
+3926664	EDA	algorithm for achieving minimum energy consumption in cmos circuits using multiple supply and threshold voltages at the module level	2003	-6.8784548677581725	13.117609286321422	3926691
+3932355	EDA	an energy-efficient high-level synthesis algorithm for huddle-based distributed-register architectures	2012	-6.340209067902457	13.044137410205915	3932382
+3932619	EDA	3d ic test scheduling using simulated annealing	2012	-6.361840622712967	12.71562699024696	3932646
+3934423	EDA	current source modeling for power and timing analysis at different supply voltages	2012	-6.3862469879011305	12.456168788827698	3934450
+3934843	EDA	logic design partitioning for stacked power domains	2017	-7.072915424276045	12.591778789989293	3934870
+3941873	Arch	investigating the impact of fill metal on crosstalk-induced delay and noise	2008	-6.866512798756609	12.56568240616443	3941900
+3942574	EDA	symmetrical buffer placement in clock trees for minimal skew immune to global on-chip variations	2009	-6.972110963895943	12.360299749964671	3942601
+3942680	EDA	physical model for power supply noise and chip/package co-design in gigascale systems with the consideration of hot spots	2007	-6.405151791635015	12.944919496339686	3942707
+3948736	EDA	multi-functional interconnect co-optimization for fast and reliable 3d stacked ics	2009	-6.503997511680231	12.850718263418965	3948763
+3948852	EDA	memmap-pd: performance driven technology mapping algorithm for fpgas with embedded memory blocks	2004	-6.62735333091334	12.44799944799562	3948879
+3951745	EDA	placement aware clock gate cloning and redistribution methodology	2012	-6.758527131480182	12.496330700956594	3951772
+3953461	EDA	performance evaluation of optimized transistor networks built using independent-gate finfet	2016	-6.714281035264108	13.17479857059651	3953488
+3953985	EDA	voltage island-driven floorplanning considering level shifter placement	2012	-7.010575698854162	12.478492236488796	3954012
+3954878	EDA	fast buffer delay estimation considering time-dependent dielectric breakdown	2015	-6.397597181586233	12.713713626904203	3954905
+3956392	EDA	power/ground supply network optimization for power-gating	2006	-6.848867128256575	12.817949307096994	3956419
+3957426	EDA	global wire bus configuration with minimum delay uncertainty	2003	-6.345569018277748	12.748709046081785	3957453
+3960657	EDA	delay modeling and critical-path delay calculation for mtcmos circuits	2006	-6.644476795117361	12.646044358443847	3960684
+3962303	EDA	statistical timing analysis using levelized covariance propagation	2005	-6.5685672526530094	12.517351779418705	3962330
+3963966	Arch	context-aware post routing redundant via insertion	2009	-6.610842869425211	12.448889505053884	3963993
+3964819	EDA	clock tree layout design for reduced delay uncertainty	2004	-6.714536090389532	12.499735430364124	3964846
+3965884	Arch	exploiting useful skew in gated low voltage clock trees	2016	-6.8699819332912675	13.057536269833616	3965911
+3968555	EDA	voltage island generation in cell based dual-vdd design	2007	-6.962487938473412	12.56547713225299	3968582
+3970904	EDA	placement for binary-weighted capacitive array in sar adc using multiple weighting methods	2014	-7.136096654576762	12.615403320945624	3970931
+3972330	EDA	leakage current optimization techniques during test based on don’t care bits assignment	2007	-6.6323806862553765	13.032296978163824	3972357
+3973926	EDA	power-driven global routing for multisupply voltage domains	2013	-7.216494558837564	12.332740945478248	3973953
+3974001	EDA	a sequential quadratic programming approach to concurrent gate and wire sizing	1995	-6.801178805436153	12.271301537418426	3974028
+3981648	EDA	game theoretic modeling of voltage and frequency scaling during behavioral synthesis	2004	-6.941017145472686	12.453604837546767	3981675
+3983577	EDA	vlsi thermal placement issues: a cooperative game theory based approach	2016	-6.72013161726139	12.529626775361915	3983604
+3985958	EDA	p/g pad placement optimization in usb test chips	2017	-6.885084984578192	12.382900022640493	3985985
+3986237	EDA	dynamic cmos load balancing and path oriented in time optimization algorithms to minimize delay uncertainties from process variations	2010	-6.673867919971983	12.378745764100135	3986264
+3988410	EDA	thermal via placement in 3d ics	2005	-6.837397613784088	12.627274013113125	3988437
+3988566	HPC	power dissipation of vlsi array processing systems	1992	-7.201250363788652	12.495896903160034	3988593
+3991270	EDA	a power-supply noise aware dynamic timing analysis methodology, based on a statistical prediction engine	2018	-6.337237112430952	12.636208070058238	3991297
+3998077	EDA	cell selection from technology libraries for minimizing power	2002	-6.8661147027135945	12.323193793750038	3998104
+3999309	EDA	the effect of srnr on timing characteristics of signal busses	2011	-6.654951648771408	12.680410934873644	3999336
+3999763	EDA	a lower bound computation method for evaluation of statistical design techniques	2010	-6.532494424385402	12.446590217595038	3999790
+4000909	EDA	exploiting parity computation latency for on-chip crosstalk reduction	2010	-6.7482053334651875	13.152482452643307	4000936
+4002313	EDA	thermal-aware floorplanner for 3d ic, including tsvs, liquid microchannels and thermal domains optimization	2015	-6.830969162473985	12.366463123667268	4002340
+4003302	EDA	leakage power-aware clock skew scheduling: converting stolen time into leakage power reduction	2008	-6.764313807446394	13.183061224485929	4003329
+4003377	EDA	optimization of trigate-on-insulator mosfet aspect ratio with mastar	2015	-6.420120017941628	12.919071559009073	4003404
+4003625	EDA	weight-based bus-invert coding for low-power applications	2002	-7.211949193957884	12.592411285973474	4003652
+4003920	EDA	gated clock routing for low-power microprocessor design	2001	-6.942012917943794	12.805589052580993	4003947
+4003934	EDA	optimal assignment of high threshold voltage for synthesizing dual threshold cmos circuits	2001	-6.984106503576378	12.861876143430223	4003961
+4004080	EDA	k-way partitioning based packing for fpga logic blocks without input bandwidth constraint	2012	-6.962909941117653	12.248632440111393	4004107
+4004801	EDA	robust analytical gate delay modeling for low voltage circuits	2006	-6.632595358319355	12.8703553527987	4004828
+4004956	EDA	efficient static d-latch standard cell characterization using a novel setup time model	2015	-6.46664220163871	12.876173666375566	4004983
+4005369	EDA	power supply noise analysis methodology for deep-submicron vlsi chip design	1997	-6.665722825067316	12.668809371050491	4005396
+4006541	EDA	practical statistical static timing analysis with current source models	2016	-6.3246072039072505	12.532342009826523	4006568
+4006945	EDA	fault effect of open faults considering adjacent signal lines in a 90 nm ic	2009	-6.727208252399949	12.366509737760088	4006972
+4008943	EDA	circuit optimization techniques to mitigate the effects of soft errors in combinational logic	2009	-6.535560649816438	12.401536645236325	4008970
+4012175	EDA	automatic reram spice model generation from empirical data for fast reram-circuit coevaluation	2017	-6.311595945984068	12.453559374628265	4012202
+4015687	EDA	wire shaping is practical	2009	-6.74268340328621	12.297683885362735	4015714
+4020533	EDA	3d-staf: scalable temperature and leakage aware floorplanning for three-dimensional integrated circuits	2007	-7.052223600350481	12.262065195422284	4020560
+4024164	EDA	associative-search bubble devices for content-addressable memory and array logic	1979	-6.483235345749803	13.18718496328969	4024191
+4024925	EDA	design and synthesis of low power weighted random pattern generator considering peak power reduction	1999	-6.6857250764340685	12.768244360436935	4024952
+4028005	EDA	an accurate rtl power estimation considering power library unevenness	2010	-6.652342645615178	12.502592949353454	4028032
+4029185	Logic	process variability-induced noc link failure: a probabilistic model	2015	-6.842524776499218	12.689081877055536	4029212
+4032500	EDA	temperature-gradient-based burn-in and test scheduling for 3-d stacked ics	2015	-6.318322581381854	12.80630528627939	4032527
+4033867	Arch	bit error rate estimation in sram considering temperature fluctuation	2012	-6.547617784520355	13.172167260416071	4033894
+4034376	EDA	on construction low power and robust clock tree via slew budgeting	2012	-7.0018193422610855	12.517621056396575	4034403
+4035374	EDA	patterning aware design optimization of selective etching in n5 and beyond	2017	-6.5987281136354285	12.379094433342464	4035401
+4035719	EDA	on optimizing scan testing power and routing cost in scan chain design	2006	-6.642977689498148	12.249770413421599	4035746
+4037793	EDA	non-linear operating point statistical analysis for local variations in logic timing at low voltage	2010	-6.6973598254699205	12.388511850512787	4037820
+4039339	EDA	recent research in analog placement considering thermal gradient	2011	-6.525530271223478	12.871589646132135	4039366
+4040037	EDA	high variation-tolerant obstacle-avoiding clock mesh synthesis with symmetrical driving trees	2010	-6.985580274442317	12.278850302415865	4040064
+4040320	EDA	ilp-based scheme for low power scheduling and resource binding	2000	-6.953669174905277	12.405864328113346	4040347
+4040766	EDA	compensating for variability in fpgas by re-mapping and re-placement	2009	-6.2746152573421705	12.388524022558592	4040793
+4041886	EDA	statistical design optimization of finfet sram using back-gate voltage	2011	-6.355992684812707	12.910262965716012	4041913
+4042417	EDA	thermal-aware high-level synthesis based on network flow method	2006	-6.905137112662214	13.006930128964289	4042444
+4048185	EDA	statistical crosstalk aggressor alignment aware interconnect delay calculation	2006	-6.6543793897756505	12.412333128163386	4048212
+4049154	EDA	voltage scaling for 3-d ics: when, how, and how much?	2017	-6.399648026426939	13.146525641019073	4049181
+4049252	EDA	a static-switching pulse domino technique for statistical power reduction of wide fan-in dynamic gates	2011	-6.663526232343353	13.039445733421914	4049279
+4052251	EDA	buffer insertion for noise and delay optimization	1999	-6.276274919393639	12.484683936008107	4052278
+4052270	EDA	robust optimization of test-access architectures under realistic scenarios	2015	-6.673885123072681	12.299159159800668	4052297
+4053480	EDA	an analytical delay model for sram-based fpga interconnections	1999	-6.825546890098875	12.488555880357538	4053507
+4054571	EDA	power-efficient control of thermoelectric coolers considering distributed hot spots	2015	-6.64750631236562	12.88647664759554	4054598
+4055347	EDA	high-density mom capacitor array with novel mortise-tenon structure for low-power sar adc	2017	-7.0982275704460704	12.533094529983046	4055374
+4056670	EDA	improvement of power distribution network using correlation-based regression analysis	2007	-6.548461813045113	12.25542083786408	4056697
+4060340	Logic	an analysis of dna sequences using symbolic scatter plots	2009	-6.9304620685299	13.099178921241903	4060367
+4064655	EDA	a power modeling and characterization method for the cmos standard cell library	1996	-6.798371568010802	12.857903416105636	4064682
+4065288	EDA	zero-skew driven buffered rlc clock tree construction	2007	-6.923023617119582	12.379503615726907	4065315
+4067747	EDA	low power clock buffer planning methodology in f-d placement for large scale circuit design	2008	-6.7538938649767	12.401269110174749	4067774
+4070616	EDA	improved analytical delay models for rc-coupled interconnects	2014	-6.3029671358481645	12.751077392918516	4070643
+4071793	EDA	electromigration-aware routing for 3d ics with stress-aware em modeling	2012	-6.485007390674691	12.722551158982904	4071820
+4071919	EDA	low power bist design by hypergraph partitioning: methodology and architectures	2000	-6.636334338724718	12.416171340706963	4071946
+4072152	EDA	unification of speed, power, area & reliability in cmos tapered buffer design	1994	-6.429211199278328	13.030586589133279	4072179
+4073353	EDA	cell-level placement for improving substrate thermal distribution	2000	-6.673054735698296	12.662400565957704	4073380
+4073540	EDA	predicting circuit aging using ring oscillators	2014	-6.423551277297389	12.866770083462812	4073567
+4074452	EDA	simultaneous extraction of effective gate length and low-field mobility in non-uniform devices	2010	-6.645612999215585	12.911679273837052	4074479
+4075489	EDA	a reconfigurable analog substrate for highly efficient maximum flow computation	2015	-6.899069316971853	12.53356639795818	4075516
+4077649	EDA	minimizing clock latency range in robust clock tree synthesis	2010	-7.212913671774462	12.488258800194654	4077676
+4077908	EDA	data bus inversion in high-speed memory applications	2009	-6.913923130430177	13.084130317540055	4077935
+4078529	EDA	network flow-based simultaneous retiming and slack budgeting for low power design	2011	-6.931175988354743	12.458755646379327	4078556
+4081184	EDA	crosstalk reduction by transistor sizing	1999	-6.614638293044782	12.475043481115199	4081211
+4083020	EDA	selective body biasing for post-silicon tuning of sub-threshold designs: a semi-infinite programming approach with incremental hypercubic sampling	2016	-6.550291740784875	12.254784823913699	4083047
+4083944	EDA	new robust qca d flip flop and memory structures	2012	-7.189722844295558	13.145532698560126	4083971
+4085068	EDA	synthesis of anti-aging gated clock designs	2009	-6.511055057300317	12.873154824653465	4085095
+4089268	HPC	opposite-phase clock tree for peak current reduction	2007	-6.853104208550381	13.105405242986002	4089295
+4090346	Arch	parallel flow to analyze the impact of the voltage regulator model in nanoscale power distribution network	2009	-6.4113035180565605	12.501487545633298	4090373
+4092093	Arch	novel and efficient ir-drop models for designing power distribution network for sub-100nm integrated circuits	2007	-6.405890591806204	12.78919701126852	4092120
+4093984	EDA	a simulated annealing based method supporting dual supply voltages in standard cell placement	1999	-6.537277203686982	12.556156997475615	4094011
+4094090	EDA	a monte carlo approach for maximum power estimation based onextreme value theory	2002	-6.498595604694649	12.270144732977565	4094117
+4094923	EDA	design of a ternary edge-triggered d flip-flap-flop for multiple-valued sequential logic	2016	-7.184740060828558	12.968250387623367	4094950
+4099473	AI	algorithms and analysis of scheduling for loops with minimum switching	2006	-6.964018000730287	12.532983726311677	4099500
+4102586	EDA	an ilp formulation for low power based on minimizing switched capacitance during data path allocation	1995	-6.7902128822279	12.735667057745804	4102613

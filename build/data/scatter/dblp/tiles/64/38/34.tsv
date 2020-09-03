@@ -1,0 +1,910 @@
+id	area	title	year	x	y	ix
+2886509	DB	mining changes from versions of dynamic xml documents	2006	6.795255141100077	1.8556925992327664	2886536
+2886633	DB	structural and semantic aspects of similarity of document type definitions and xml schemas	2010	7.1917413017817475	2.2699525789428554	2886660
+2888392	AI	seslds: an extension scheme for linked data sources based on semantically enhanced annotation and reasoning	2018	7.221069926271511	2.2242643588973525	2888419
+2890633	DB	optimizing the performance of concurrent rdf stream processing queries	2017	7.242535451146018	2.1674570168322345	2890660
+2891458	DB	extensible cost models and query optimization in genesis	1986	6.766465865001207	1.7516405929057943	2891485
+2892255	DB	maintaining consistency in partially self-maintainable views at the data warehouse	1998	6.402117051819045	2.4406161266639272	2892282
+2893508	Comp.	concept lattice representations of annotated taxonomies	2006	6.4354090567881075	2.3265248876135773	2893535
+2893650	DB	pivot and unpivot: optimization and execution strategies in an rdbms	2004	6.850663730812683	2.580167378657391	2893677
+2894112	Web+IR	effective keyword-based xml retrieval using the data-centric and document-centric features	2012	6.6725804592473095	1.7924175673104834	2894139
+2896844	Web+IR	parallel, platform-independent implementation of information retrieval algorithms	2000	7.056869970670822	2.0714049212669896	2896871
+2898030	DB	the design of relational information system according to different kinds of dependencies	1978	7.100704621407895	2.655820430081685	2898057
+2899701	HPC	analysis of equivalence mapping for terminology services	2008	6.580957013741117	2.4662216344538987	2899728
+2899975	SE	similarity for analogical software reuse: a conceptual modelling approach	1993	7.201708545005332	2.040732190720464	2900002
+2901263	DB	schema caching for improved xml query processing in p2p systems	2006	6.553913634728385	1.983581759211306	2901290
+2901464	DB	datasynth: generating synthetic data using declarative constraints	2011	6.611972340072646	2.347317187577533	2901491
+2906043	DB	a heuristics-based approach to query optimization in structured document databases	1999	6.774243473462099	2.1690787136882648	2906070
+2906952	DB	complex patten processing in spatio-temporal databases	2014	6.8375447658661255	2.0469925068351844	2906979
+2907923	AI	frames, objects and relations: three semantic levels for knowledge base systems.	1994	6.880544260942679	1.889701233910792	2907950
+2908768	DB	a framework for the classification and description of multidimensional data models	2001	7.127247364581289	2.3097604608775617	2908795
+2910565	Web+IR	a retrieval language for historical documents	1998	7.155169100176399	1.975459070703809	2910592
+2910975	DB	heuristic and cost-based optimization for diverse provenance tasks	2018	6.545553194654525	2.509430765642601	2911002
+2911652	DB	optimising conjunctive queries on a relational interface to codasyl dbms	1982	6.523068291560914	2.4126334860363707	2911679
+2913772	DB	a presentation scheduling scheme for multimedia databases	1996	6.411874983068548	2.4388623493706296	2913799
+2917484	AI	mining the content of relational databases to learn ontologies with deeper taxonomies	2008	7.238117114366668	2.273211918698194	2917511
+2917867	DB	xpath query transformation based on xslt stylesheets	2003	6.848857333048638	2.53191043892556	2917894
+2918596	DB	challenges in graph-based relational data visualization	1992	6.949773282835376	1.777629851515095	2918623
+2919769	Web+IR	the mace approach for caching mashups	2010	7.2030487620523145	1.8987669812509496	2919796
+2921865	DB	sri: exploiting semantic information for effective query routing in a pdms	2006	7.104136828610141	1.963665776004224	2921892
+2922781	DB	efficient multi-depth querying on provenance of relational queries using graph database	2016	6.416290875022878	1.7864080672733118	2922808
+2925290	Web+IR	evaluating and analyzing inconsistent rdf data in a semantic dataset: emage dataset	2013	6.755748631162138	2.026654267932649	2925317
+2927692	DB	comparative research of xml compression technologies	2008	7.002175911248712	1.9952278580999137	2927719
+2932406	AI	the owl reasoner evaluation (ore) 2015 competition report	2015	6.5173518352770685	2.344558092376517	2932433
+2933436	DB	a knowledge management scheme for meta-data: an information structure graph	2001	7.003469396128894	2.4197644182599443	2933463
+2936479	AI	framework and schema for semantic web knowledge bases	2010	6.788738283299095	2.3146980704418727	2936506
+2938342	DB	mining association rules from xml data using xquery	2004	6.723595591152253	1.8302573056307383	2938369
+2938981	AI	retaining knowledge for document management: category-tree integration by exploiting category relationships and hierarchical structures	2010	6.912066883045522	2.1974139752827497	2939008
+2940039	DB	building olap cubes from columnar nosql data warehouses	2016	6.615848475034874	2.031582909176868	2940066
+2943011	AI	discovering typical structures of documents: a road map approach	1998	6.668489505086813	2.1828678113566133	2943038
+2945588	Web+IR	fixing comparative preferences for sparql.	2018	7.079016746185861	1.936399921327547	2945615
+2948150	DB	retrieving xml data from heterogeneous sources through vague querying	2009	7.031703882702649	2.409778854589133	2948177
+2950013	AI	reasoning at runtime using time-distorted contexts: a models@run.time based approach	2014	7.163683879672908	2.069913086779024	2950040
+2951575	DB	zero-latency data warehousing for heterogeneous data sources and continuous data streams	2003	6.372548709835835	2.0917165078935738	2951602
+2952443	DB	managing multiple real and simulation business scenarios by means of a multiversion data warehouse	2006	7.159400366742138	2.176082182326406	2952470
+2952872	DB	triplecloud: an infrastructure for exploratory querying over web-scale rdf data	2011	6.781046585711335	1.8748525093112045	2952899
+2952941	Web+IR	merging changes in xml documents using reliable context fingerprints	2008	6.489655179847068	2.2056339018355056	2952968
+2953806	DB	logical schema-based mapping technique to reduce search space in the data warehouse for keyword-based search	2017	6.516938408690738	2.0045977470754703	2953833
+2955265	DB	a system for keyword search on hybrid xml-relational databases using xrjoin	2010	6.331631351946754	1.9523164786807852	2955292
+2959254	DB	concept based querying of semistructured data	2002	7.07960245161801	2.6442168765422083	2959281
+2959694	AI	prspr: an adaptive framework for massive rdf stream reasoning	2018	6.719041575269344	2.509175243423075	2959721
+2960530	DB	generating flexible workloads for graph databases	2016	6.771408077245483	2.1805488880503434	2960557
+2960980	DB	demo: approximate semantic matching in the collider event processing engine	2013	7.2749498125472165	1.9718613379860932	2961007
+2963459	DB	graphgen: exploring interesting graphs in relational data	2015	7.0116994825576064	2.327057835987828	2963486
+2966018	AI	principles for organizing semantic relations in large knowledge bases	1996	7.054431752215479	1.9969069861796251	2966045
+2966739	DB	multi-source materialized views maintenance	2006	6.431315057703174	2.2470854849909343	2966766
+2966990	DB	datacommandr: column-oriented data integration, transformation and analysis	2016	6.870747400762202	2.5833890679036884	2967017
+2969506	DB	spatio-temporal information integration in xml	2004	6.4312485419824466	2.61488187171108	2969533
+2970091	AI	real-time complex event recognition and reasoning-a logic programming approach	2012	6.993096326185027	2.6523134855201533	2970118
+2971225	DB	ct-olap: temporal multidimensional data model and algebra for moving objects	2007	6.4797501996721785	2.2722696616631546	2971252
+2971402	AI	temporal query answering in a fuzzy world	2015	6.6049018828894415	2.459474076211281	2971429
+2973920	DB	automating the design and construction of query forms	2006	6.384285535893693	1.965094558192634	2973947
+2974841	Robotics	exploiting object oriented methods for multi-modal trip planning systems	1996	6.6429955526930655	1.9647126359151248	2974868
+2975284	DB	distributing xml with focus on parallel evaluation	2008	6.3897258277475135	2.2458700888138954	2975311
+2976535	DB	a query language for the o2 object-oriented database system	1989	6.917705746744125	1.8199553697559532	2976562
+2977595	DB	a compressed, inference-enabled encoding scheme for rdf stream processing	2017	6.433083757382574	2.0117897517468744	2977622
+2980513	DB	study of localized data cleansing process for etl performance improvement in independent datamart	2011	7.218038571877752	2.6212656481617707	2980540
+2980930	AI	fgp: a virtual machine for database-driven expert systems	1989	7.05892052576306	1.9529687401868316	2980957
+2981522	Web+IR	scalable continuous query system for web databases	2004	6.323414657819762	1.812701074401441	2981549
+2987649	DB	towards a logical multidimensional model for spatial data warehousing and olap	2006	6.773972003318208	1.8488385396986733	2987676
+2987782	DB	adding flexibility to structure similarity queries on xml data	2002	6.699302980949483	1.8454726166183693	2987809
+2989788	DB	storing linked xml documents in object-relational dbms	2006	6.778744961082057	2.520897797414003	2989815
+2991418	DB	introducing the elasticity of spatial data	2008	6.464579367907957	2.2193604384482324	2991445
+2991626	DB	refinement of correspondences in exsmal for xml document transformation	2006	7.0859473612757675	2.6327179075470446	2991653
+2993323	AI	a time-efficient hybrid approach to link discovery	2011	6.797111286311723	1.7264420501970237	2993350
+2995969	DB	a logic-based approach for query refinement	2004	6.5730656546902635	2.6160420018954564	2995996
+2996671	Web+IR	towards efficient distributed sparql queries on linked data	2014	6.453978397967088	2.2781003905919524	2996698
+2998637	AI	transactions on computational collective intelligence xii	2013	6.9128380133480025	2.3367723856906943	2998664
+3001868	NLP	querying large knowledge graphs over triple pattern fragments: an empirical study	2018	6.9669337472506525	2.1121473641943282	3001895
+3002421	DB	join queries with external text sources: execution and optimization techniques	1995	6.449713859983017	2.10835306524477	3002448
+3003378	DB	ontology-dtd matching algorithm for efficient xml query	2005	6.4998719161226335	1.8535633530519968	3003405
+3004833	DB	semantic knowledge integration to support inductive query optimization	2007	6.712718012214756	2.6424583169165583	3004860
+3006234	DB	analysis of different approaches for storing gml documents	2002	6.725261575209634	2.5447944999485466	3006261
+3010401	AI	parallel markov-based clustering strategy for large-scale ontology partitioning	2017	6.658376974072563	1.9287369428566024	3010428
+3013054	DB	the design and performance evaluation of alternative xml storage strategies	2002	6.748015001853457	2.2077077702687133	3013081
+3015222	DB	extending the re-use of query results at remote client sites	2000	6.4032709995238415	2.4599455259384446	3015249
+3015403	PL	types in their prime: sub-typing of data in resource constrained environments	2013	6.4021703186618915	2.60237538725453	3015430
+3018269	DB	assessing information quality for the composite relational operation join.	2002	6.6084940933355725	2.042846086248309	3018296
+3025725	DB	practical lineage tracing in data warehouses	2000	6.365397317271527	2.350254054854424	3025752
+3026232	DB	querying moving objects in secondo	2006	6.940477475513282	1.9753235759457488	3026259
+3026469	DB	overview of dbms: a high performance database management system	1987	6.524822670823628	2.1992803332889546	3026496
+3026685	DB	sindex: query optimization and access control in a semi-structured database	2007	6.353229427619366	2.5894375117902206	3026712
+3027391	Web+IR	iterative xml search based on data and associated semantics	2008	6.849995174970798	2.324597456379508	3027418
+3027652	DB	interactive analysis of web-scale data	2009	7.217686501252782	2.17472851730348	3027679
+3027776	AI	distributed instance retrieval in heterogeneous ontologies	2005	7.260856680976057	2.4528400633802843	3027803
+3029154	DB	query processing on data streams	2006	6.7544183256475625	1.8691622100813647	3029181
+3029430	DB	object-based methodology for xml data partitioning (oxdp)	2011	6.693866544780269	2.4275199661359865	3029457
+3029520	DB	msql+: a plugin toolkit for similarity search under metric spaces in distributed relational database systems	2018	6.334291235268277	1.9846243780972197	3029547
+3030562	DB	review - on completeness of historical relational query languages	2000	6.318656768996023	1.968510238026832	3030589
+3031083	DB	a graph-based rdf triple store	2015	6.898372749446873	1.857308720931537	3031110
+3031576	DB	intelligent ordered xpath for processing data streams	2009	6.652272593288805	1.8059288028959228	3031603
+3034934	DB	"""transitive dependencies: comments on """"a logical design methodology for relational databases using the extended entity-relationship model"""" (surveyors' forum)"""	1987	7.075022425813733	1.9950875174787364	3034961
+3036385	ML	data mining query language for object-0riented database	1998	7.036432135855402	2.5978038435521595	3036412
+3036784	Web+IR	a diagnosis and repair framework for dl-litea kbs	2015	7.034966152929879	2.3736625206603383	3036811
+3038711	DB	coupling methodology of 1d finite difference and 3d finite volume cfd codes based on the method of characteristics	2011	6.917443791340045	2.3125168724643848	3038738
+3042606	DB	negation query handling engine for natural language interfaces to ontologies	2012	6.86620049242193	2.5557038461212924	3042633
+3044611	Web+IR	on the efficient distributed evaluation of sparql queries	2016	6.558272021636126	2.063157340523368	3044638
+3044649	DB	selection of materialized relations in ontology repository management system	2006	6.4325739542981974	2.1893918516250737	3044676
+3045158	DB	query operators in temporal xml databases	2005	6.698706562008399	2.403680436076967	3045185
+3049927	AI	answer set programming for stream reasoning	2012	6.94659465943903	2.2708695526586395	3049954
+3051008	DB	quiow: a keyword-based query processing tool for rdf datasets and relational databases	2018	7.100478769021208	1.7925892096350071	3051035
+3053312	DB	query optimization in information integration for queries involving aggregation and group by	2011	6.815516071345327	2.1247826705192567	3053339
+3053512	AI	on original generation of structure in legal documents	2003	7.237244558327219	2.4196590483241507	3053539
+3054310	DB	distributed stream consistency checking	2018	6.587226049680033	1.9884274406591689	3054337
+3055023	DB	optimizing xml data with view fragments	2010	6.9955334765948765	2.0150600007485084	3055050
+3055693	AI	the inference efficiency problem in business and technological rules management systems	2010	6.651858386282528	2.4747699835278785	3055720
+3055697	DB	an extension of xquery for moving objects over gml	2004	6.997833560637982	2.2642769612784828	3055724
+3056673	DB	the use of the data dictionary in dbms based on graphs	1996	7.16934760778472	2.4528245762566843	3056700
+3057213	DB	column heterogeneity as a measure of data quality.	2006	7.078450032994487	1.7356136581448036	3057240
+3057426	DB	on designing archiving policies for evolving rdf datasets on the web	2014	7.060210767199368	2.0972055386957558	3057453
+3059046	DB	queries on dates: fast yet not blind	2011	6.672943939619605	2.115113032775469	3059073
+3059203	DB	the drill down benchmark	1998	6.885421907568418	2.3326523544027755	3059230
+3060229	DB	efficiently instantiating view-objects from remote relational databases	1994	6.462216124153321	2.5063032737947264	3060256
+3061461	DB	building summary graphs of rdf data in semantic web	2015	7.205676191077887	1.8041849905079723	3061488
+3061835	DB	efficient processing of sparql joins in memory by dynamically restricting triple patterns	2009	6.503286681501264	2.0880146692619537	3061862
+3063132	DB	hand-olap: semantics-aware compression of data cubes for effective and efficient olap in mobile enviroments	2011	6.559531029745298	1.7485899119714368	3063159
+3063165	DB	data mining for xml query-answering support	2012	6.646773599207875	1.7263371276865545	3063192
+3064171	ML	equivalence of xsd constructs and its exploitation in similarity evaluation	2008	6.963399335334009	2.0062226713952045	3064198
+3064779	ECom	derived data for decision support systems	1996	6.784499023200133	2.5450426258160745	3064806
+3065515	DB	the effects of normalization on end-user query errors: an experimental evaluation	2001	6.586099734811371	2.3921628529642027	3065542
+3066670	ML	efficient knowledge discovery through the integration of heterogeneous data	1999	6.487252487737613	2.4058208038746125	3066697
+3067283	AI	improving the recruitment process through ontology-based querying.	2006	6.9027672037979935	1.7356571959443514	3067310
+3069759	NLP	5dpo-2000 team description	1999	7.254531625739771	2.6060222394528787	3069786
+3069785	DB	indexing temporal xml using interval-tree index	2008	6.678017360156216	2.00992413584772	3069812
+3070467	AI	a survey on semantic parsing	2018	7.163583246877807	2.1781378029275347	3070494
+3071682	DB	open user schema guided evaluation of streaming rdf queries	2010	6.382251471321687	2.324935264641752	3071709
+3075303	DB	two-level data staging etl for transaction data	2014	6.367403234788707	2.17548055713907	3075330
+3079531	DB	aggregation strategies for columnar in-memory databases in a mixed workload	2011	6.923001688528668	2.014694291414153	3079558
+3080151	ML	olap mining: an integration of olap with data mining	1997	7.13671919853012	2.469521831776868	3080178
+3080917	AI	mining rdf data for owl2 rl axioms	2016	6.946035506091006	2.077656405469444	3080944
+3083108	Web+IR	transaction-time queries in dydra	2016	6.796545844735808	2.464766203967489	3083135
+3084606	DB	a novel mining approach for schemas in xml documents	2006	6.595456328691393	2.226030749655058	3084633
+3086566	Web+IR	analyzing real-world sparql queries in the light of probabilistic data	2016	6.8290856341527215	2.533315214783956	3086593
+3087548	DB	realtime healthcare services via nested complex event processing technology	2012	6.609226191979937	2.510441152303076	3087575
+3087948	Metrics	evaluation techniques for storage hierarchies	1970	6.581749599353222	2.6411879133382565	3087975
+3089979	DB	a logical model for multiversion data warehouses	2014	6.577731124640293	2.2565380515037163	3090006
+3090363	DB	a novel query preprocessing technique for efficient access to xml-relational databases	2009	6.364314237763681	2.3424378592717274	3090390
+3091475	Web+IR	querying distributed rdf data sources with sparql	2008	7.233456281800947	2.035387824149145	3091502
+3091974	AI	integrating uncertainty into ontology mapping	2007	6.721652388667572	2.209142687990592	3092001
+3093503	Web+IR	fast business process similarity search	2012	7.174314174147036	1.7184653327526975	3093530
+3094610	DB	maintaining temporal perspective	2010	7.1068142606273845	1.925742764878953	3094637
+3095032	DB	decomposing and re-composing lightweight compression schemes - and why it matters	2018	6.356658032364972	2.21183024300704	3095059
+3096204	DB	towards scalable querying of large-scale models	2014	7.268596584845481	2.2962623478219903	3096231
+3098912	DB	mocha: a self-extensible database middleware system for distributed data sources	2000	6.912508343588942	2.5023515038429807	3098939
+3099806	DB	forgetting data intelligently in data warehouses	2007	6.91212702453666	2.27935569695242	3099833
+3101410	DB	mutant query plans	2002	6.939472992591788	2.5224536898841614	3101437
+3101712	DB	view maintenance for hierarchical semistructured data	2000	6.639892644990449	2.569127644482497	3101739
+3104445	SE	an approach to evaluate policy similarity	2007	6.431186024887293	1.976699359743808	3104472
+3107586	DB	an evaluation of vig with the bsbm benchmark	2016	6.970408495925755	2.311307688535181	3107613
+3108334	DB	a simple blueprint for automatic boolean query processing	1988	6.579921554834035	2.23699514528754	3108361
+3108523	DB	the bellman data quality browser	2006	6.813029905178388	1.909781453021572	3108550
+3108544	DB	ontological multidimensional data models and contextual data quality	2018	6.974245614611669	2.605464240997974	3108571
+3109513	DB	rewriting complex sparql analytical queries for efficient cloud-based processing	2015	6.662118132046111	2.2800976152639705	3109540
+3116012	DB	pattern mining over star schemas in the onto4ar framework	2009	6.6306469805942765	1.7679627481205662	3116039
+3117688	DB	querying and indexing xml documents	2005	7.036781635513555	2.4762526016023396	3117715
+3119057	DB	a comparison of a network structure and a database system used for document retrieval	1985	6.671717862711423	1.9195551550544827	3119084
+3120202	DB	renda-rx: a benchmark for evaluating xml-relational database system	2011	6.567977550567868	2.130790959282132	3120229
+3120331	AI	a semantic representation of time intervals in owl 2	2017	7.154603933287334	2.339148394589392	3120358
+3120780	Web+IR	studying metadata for better client-server trade-offs in linked data publishing	2016	6.9046829509142125	2.065817559687676	3120807
+3121942	NLP	computing pathways in bio-models derived from bio-science text sources	2014	7.269330156903932	2.5513310668306275	3121969
+3122281	ML	flexible querying of web documents	2002	6.432670635977121	2.087372816085092	3122308
+3122483	AI	meaningful spatial prediction and aggregation	2014	6.9709872170010545	1.7532975575924648	3122510
+3122867	DB	legodb: customizing relational storage for xml documents	2002	7.269746772264042	2.476932110155334	3122894
+3127271	DB	the revolution in database system architecture	2004	6.511263371694867	2.2120583994384515	3127298
+3128373	DB	strabon: a semantic geospatial dbms	2012	6.885244775999433	2.5212249840816843	3128400
+3130780	DB	an optimization strategy for mashups performance based on relational algebra	2012	6.997300278620618	2.2903296328298244	3130807
+3131117	DB	an effective data processing method for fast clustering	2008	6.524428240411747	1.8030062080456235	3131144
+3131379	DB	sqlscript: efficiently analyzing big enterprise data in sap hana	2013	7.075124797154548	2.6490383726743008	3131406
+3132153	DB	xml query processing using document type definitions	2002	7.031971784828025	2.302195797019349	3132180
+3137183	Web+IR	gauging triple stores with actual biological data	2012	7.129112201881759	1.8352714369954088	3137210
+3141820	DB	access to indexed hierarchical databases using a relational query language	1993	6.4399056458104775	2.5749376411950715	3141847
+3142967	DB	supporting user-defined granularities in a spatiotemporal conceptual model	2002	6.925778195992078	2.485628331899687	3142994
+3143296	DB	declarative graph querying in practice and theory	2017	6.969672502542718	2.091258305694068	3143323
+3149874	AI	unification of underlying concepts in different office models	1991	6.5802057665753	2.4903446260066726	3149901
+3150060	DB	research paper: exploring performance issues for a clinical database organized using an entity-attribute-value representation	2000	6.98518581800245	2.0619807202716447	3150087
+3150287	DB	querying the deep web	2010	6.657897451672572	2.13192158445228	3150314
+3151388	DB	multidimensional database design via schema transformation: turning tpc-h into the tpc-h*d multidimensional benchmark	2013	6.709669877348825	2.2575576584492723	3151415
+3152013	Web+IR	formal concept discovery in semantic web data	2012	7.264107568796308	2.1203041892308647	3152040
+3157071	DB	semantic-distance based clustering for xml keyword search	2010	6.5813973223126165	1.7181409056279746	3157098
+3157788	DB	on query-processing issues for non- navigational queries for xml	2004	7.196481725532588	2.578534169957695	3157815
+3159589	Web+IR	gleaning types for literals in rdf triples with application to entity summarization	2016	6.894056235230986	2.4246601940887804	3159616
+3159620	DB	a broker architecture, push-pull database system for intelligence analysis	2018	6.993339474002224	2.2570287277504035	3159647
+3159624	DB	analytical processing of xml documents: opportunities and challenges	2005	6.927039385580125	2.332019996061753	3159651
+3161130	DB	extending sparql to support entity grouping and path queries	2012	6.4386501820533475	1.7766751782844925	3161157
+3162311	DB	columbuscout: towards building local search engines over large databases	2012	6.779051844865296	2.1153034683275806	3162338
+3164244	DB	activity memory for text information retrieval	1988	7.1607157331410995	1.8790419156616611	3164271
+3164611	SE	evogen: a generator for synthetic versioned rdf	2016	6.814571670378131	1.8866552802833043	3164638
+3165614	DB	db2/xml: designing for evolution	2005	7.205629861773423	2.346203167971146	3165641
+3167155	AI	spatial reasoning for gis using a tesseral data representation	1995	6.709660227122152	2.5865866139622042	3167182
+3167792	DB	sparti: scalable rdf data management using query-centric semantic partitioning	2018	6.321651652045878	1.9298530675860976	3167819
+3169597	DB	drillbeyond: processing multi-result open world sql queries	2015	6.789357284985652	1.810050178221245	3169624
+3170203	DB	querying and updating probabilistic information in xml	2006	6.33567430115295	2.390351339340816	3170230
+3171964	DB	querying tree-structured data using dimension graphs	2005	6.982492855542575	2.0173500611730293	3171991
+3176659	DB	on the efficient search of an xml twig query in large dataguide trees	2008	7.065478151422893	2.188046465637339	3176686
+3176790	Web+IR	mining the web of data with metaqueries	2018	7.038741626240465	2.6471917623236756	3176817
+3178326	DB	on estimating semantic loss in peer data management systems	2009	7.07705525192458	2.3792372246923144	3178353
+3178606	DB	computing the stratified semantics of logic programs over big data through mass parallelization	2013	6.563753109082023	2.091999068257208	3178633
+3178846	DB	a comparison of two view materialization approaches for disease surveillance system	2004	6.909180708795159	2.1006493695523307	3178873
+3179115	DB	sedex: scalable entity preserving data exchange	2016	7.244532204941051	2.44313924347797	3179142
+3179273	DB	quest: a high-level query language for network, hierarchical, and relational databases	1982	6.969848890965339	1.8322688635216025	3179300
+3184208	DB	a context-aware preference database system	2007	6.779361461994103	1.9477835806944248	3184235
+3184858	DB	linkdb: a probabilistic linkage database system	2011	7.100171104912825	2.0488912949437093	3184885
+3188279	DB	text retrieval and the relational model	1991	7.059133910446525	2.308933218898128	3188306
+3189351	HPC	fdsss: an efficient metadata management scheme in large scale data environment	2006	6.415190929343042	2.032974540698861	3189378
+3192439	SE	law and order: assessing and enforcing compliance with ontological modeling principles in the foundational model of anatomy	2006	6.940727103205947	2.4202800245835743	3192466
+3193076	DB	bigdata oriented open scalable relational data model	2014	7.08345181347025	2.3782178004908974	3193103
+3193258	DB	automatic generation of query order execution plan for hybrid mediator with medical sources	2011	7.122766871140661	2.224832274810052	3193285
+3193774	DB	xstore: federated temporal query processing for large scale rdf triples on a cloud environment	2017	6.577992971984972	1.7029583660025185	3193801
+3196384	AI	a first step towards stream reasoning	2008	6.890098550527265	2.4325195924105945	3196411
+3198211	DB	evaluating sparql 1.1 property path support	2017	6.740737910315065	2.16037203009003	3198238
+3198623	DB	gsmnet: a hierarchical graph model for moving objects in networks	2017	6.418479465840733	1.996972081356996	3198650
+3200843	Web+IR	enabling access to and exploration of information graphs	2018	6.953873899386057	1.7439477568069308	3200870
+3203556	DB	data structures for indexing triple table	2015	6.666968655692352	2.3202353362753727	3203583
+3205444	DB	efficient provenance storage over nested data collections	2009	6.5679232734668025	2.3704969883504323	3205471
+3208713	DB	a high-level query language for events	2006	7.06993342355554	2.480777405703092	3208740
+3209222	DB	the topx db&ir engine	2007	7.206411737214023	1.7300750119632666	3209249
+3210228	DB	optimized query translation strategy for xml stored in relational database	2004	6.431558166448331	2.452257802752792	3210255
+3210502	SE	using changesets for incremental maintenance of linkset views	2016	6.813396183237102	2.2093298147805536	3210529
+3214404	DB	spartex: a vertex-centric framework for rdf data analytics	2015	6.555993744057808	2.306983583337046	3214431
+3214956	DB	fdt 2.0: improving scalability of the fuzzy decision tree induction tool - integrating database storage	2014	6.862150875190928	2.1752962968596603	3214983
+3215110	DB	efficient xquery join processing in publish/subscribe systems	2009	6.443660810910756	2.266634083720434	3215137
+3215495	AI	wrapper induction for information extraction	1997	7.047418598922848	2.2173236341988494	3215522
+3218160	DB	storing together the structural information of xml documents in relational databases	2004	6.509851670408295	2.3988221188834635	3218187
+3218189	DB	querying transformed xml documents: determining a sufficient fragment of the original document	2003	6.738567613324188	2.4598485345876937	3218216
+3218238	PL	sorting non-key fields in the distributed result set iterator pattern	2004	6.3444972302082085	2.1201357375448606	3218265
+3222014	DB	what is spatio-temporal data warehousing?	2009	7.139034210033612	2.31628104665498	3222041
+3223962	DB	discover dependencies from data—a review	2012	6.489038336054528	2.5257200687961308	3223989
+3225382	Web+IR	improve-qa: an interactive mechanism for rdf question/answering systems	2018	7.098525385258756	1.987302051719308	3225409
+3229125	DB	evaluation of rdf queries via equivalence	2012	6.36328604880437	2.364860363516742	3229152
+3232071	DB	speeding up heterogeneous data access by converting and pushing down string comparisons	1999	6.483796037076926	2.332375354105675	3232098
+3232073	DB	sphinx: empowering impala for efficient execution of sql queries on big spatial data	2017	6.5245197344878925	2.2038543817626333	3232100
+3232393	DB	benchmarking using basic dbms operations	2010	6.799608057395548	2.406246527462296	3232420
+3234009	DB	generating finite-state transducers for semi-structured data extraction from the web	1998	7.077287160287567	2.2908427175675845	3234036
+3234634	DB	managing moving objects in the context of spatio-temporal data streams	2011	6.3722232717536675	2.440705983779209	3234661
+3235602	DB	fuzzy querying of incomplete, imprecise, and heterogeneously structured data in the relational model using ontologies and rules	2005	6.520088756902106	2.2833603976064167	3235629
+3236395	DB	optimizing queries over semantically integrated datasets on mapreduce platforms	2013	6.824477229061906	2.212653382582673	3236422
+3237044	Web+IR	multihierarchical xquery for document-centric xml	2006	7.241337066152548	2.367377048987839	3237071
+3238470	HCI	a database approach for accelerate video data access	2009	6.741746890995536	2.0571074344473352	3238497
+3239265	Arch	temporal databases: from theory to applications	2008	6.9356908197776725	2.2082617366411488	3239292
+3240239	DB	xql and proximal nodes	2002	6.354805230576985	1.9738535376890376	3240266
+3241386	DB	adaptive management of multigranular spatio-temporal object attributes	2009	6.914510468572992	2.1967079198265207	3241413
+3244262	DB	handling temporal grouping and pattern-matching queries in a temporal object model	1998	6.45173461290793	2.6448753844145583	3244289
+3244287	AI	an object oriented and visual data analysis environment : semantics and pragmatics of multi language programming	2003	6.752616077454214	1.8982513967824903	3244314
+3244721	DB	benchmarking summarizability processing in xml warehouses with complex hierarchies	2012	6.6736348894844015	2.0795117182273564	3244748
+3245590	DB	semantics based multi-xml query algorithm	2008	6.708557578937072	2.241731452612486	3245617
+3246377	DB	a comparison between query languages for the extraction of association rules	2002	6.490289133550428	2.542546670682226	3246404
+3246951	DB	storage support for multidimensional discrete data in databases	1993	7.258707922318949	2.565776260126814	3246978
+3248137	DB	learning probabilistic relational models with (partially structured) graph databases	2017	6.700417378051771	2.4329317787183973	3248164
+3248282	AI	large-scale complex reasoning with semantics: approaches and challenges	2013	6.604051991526863	1.8146005410437087	3248309
+3250479	DB	the role of definitions in biomedical concept representation.	2001	7.0612093940075225	1.892820885243116	3250506
+3250906	DB	integrating pattern mining in relational databases	2006	6.630904431653667	2.2120046566902847	3250933
+3253866	DB	the object event calculus and temporal geographic information systems	2003	6.726848261087161	2.033127474051958	3253893
+3255879	DB	exploitation of referential integrity constraints for efficient update of data warehouse views	2005	6.501827265656193	2.415292060609023	3255906
+3256118	DB	a geographic, multimedia, and temporal data model for semistructured data	2005	7.077429123859434	2.6528371836129296	3256145
+3256293	DB	informix under control: online query processing	2000	7.03733222663613	2.4111420165204662	3256320
+3258577	AI	rdfkb: a semantic web knowledge base	2011	6.522247000786675	1.9151504610912888	3258604
+3260824	DB	a general architecture for finding structural regularities on the web	2000	7.21917672843737	2.2199169662509006	3260851
+3264792	DB	fuzzy query over ontologies based on relational databases	2017	6.821612395846107	2.4609630864437984	3264819
+3267809	DB	search and result presentation in scientific workflow repositories	2013	6.886079873049412	2.08068010405774	3267836
+3268593	NLP	a formalism for temporal annotation and reasoning of complex events in natural language	2011	6.966193219891692	1.7106051389846542	3268620
+3270312	DB	rule by example: an example-based approach to knowledge-base management	1991	7.228754896130506	1.8970133163025191	3270339
+3273764	DB	user-driven ontology learning from structured data	2012	7.098140060600572	2.0305696243750595	3273791
+3275725	DB	query preprocessing for integrated search in heterogeneous data sources	2001	6.616930768962523	1.8682192750630413	3275752
+3278369	DB	rainbow: a distributed and hierarchical rdf triple store with dynamic scalability	2014	6.509793064633187	1.9147985844720945	3278396
+3279086	DB	enabling fine-grained rdf data completeness assessment	2016	7.06426292763758	2.2537465248325703	3279113
+3279391	DB	the stark framework for spatio-temporal data analytics on spark	2017	6.761275769121142	1.8417274831584305	3279418
+3279425	DB	multi-user file system search	2007	6.5985976108396205	1.8495726858183423	3279452
+3279616	Web+IR	designing indexing structure for discovering relationships in rdf graphs	2004	7.020445116019091	1.9863177737647817	3279643
+3281946	ML	the sirius approach for refreshing data warehouses incrementally	1999	7.071308251419919	2.548337590968853	3281973
+3284612	DB	performance evaluation of various data structures in building efficient indexing schemes for xml documents	2017	6.325154964102524	1.716715021735128	3284639
+3284640	DB	semantic loss in query reformulation in dynamic distributed environments	2012	7.011128491459197	2.3439514610978924	3284667
+3286296	DB	distributed sparql query answering over rdf data streams	2013	7.166813424234947	2.5113374853414903	3286323
+3287613	DB	fhin: an efficient storage structure and access method for object-oriented databases	1999	6.455451696791811	2.2921528030555707	3287640
+3287875	DB	an efficient storage model for the sbml documents using object databases	2006	7.058683103975631	2.4326041146160753	3287902
+3288391	DB	on user views in scientific workflow systems	2009	6.844903806738322	2.0815026031296298	3288418
+3289761	NLP	multi agent ontology mapping framework in the aqua question answering system	2005	6.8623664400980475	1.8558998987428008	3289788
+3292017	ML	processannotated service discovery facilitated by an ngrambased index	2005	6.3248931576474865	1.9016971875067372	3292044
+3293915	DB	a detailed analysis of the quality of stream-based schema construction on linked open data	2012	6.678910552096903	1.7393859041895832	3293942
+3294037	DB	temporal query operators in xml databases	2002	6.532045975257175	2.4199578576351533	3294064
+3297419	DB	sql extension for exploring multiple tables	2008	6.3158213785812	2.3707582804017338	3297446
+3298897	DB	implementing bfs-based traversals of rdf graphs over mapreduce efficiently	2013	6.472480516802449	1.7691886450428551	3298924
+3299503	DB	using ontologies to discover fact ids	2010	6.767589393087612	2.213274571694494	3299530
+3299715	HPC	keyword based indexing and searching over storage resource broker	2007	6.604352489640519	2.1720804280657595	3299742
+3302283	OS	enaxs: efficient native xml storage system	2003	6.5991522375239375	2.2891547857788748	3302310
+3303294	DB	data fusion	2008	6.624333461429645	2.102431730103993	3303321
+3303538	Web+IR	on an enhancement of xml applied for mobile e-commerce	2012	6.3380691484785	2.244345357819004	3303565
+3304150	NLP	representing expectations in spatial information systems - a case study	1993	6.313890267942657	2.3860636749971627	3304177
+3304192	AI	snomed ct's problem list: ontologists' and logicians' therapy suggestions	2007	7.206724621609945	2.377469108310079	3304219
+3304342	DB	consistent query answering - recent developments and future directions	2003	6.493659776098387	2.6149230958180465	3304369
+3304602	ML	identification of the most specific information that a signal carries by using barwise-seligman theory of information channel	2010	6.766333000344424	1.716438218579483	3304629
+3305615	DB	multidimensional contexts for data quality assessment	2012	7.145247494690116	2.5672405573491166	3305642
+3308598	DB	on proposing and evaluating a nosql document database logical approach	2016	6.903078334235237	2.5197591388610343	3308625
+3309017	DB	a structure for materialized views of data warehouse with concurrency control	2004	6.526672943041206	1.8146603129318453	3309044
+3309971	AI	concept cell model for knowledge representation	2004	6.931164851587896	1.9172805343271488	3309998
+3310242	DB	a natural language interface for performing database updates	1984	7.117358118450401	2.358523763540373	3310269
+3310845	DB	a new fuzzy multidimensional model	2006	6.332403914734911	1.9518724351464691	3310872
+3315427	DB	efficient and scalable processing of frequent sparql queries	2013	6.365150585758232	1.8363477994541364	3315454
+3315513	DB	an engineering design process supported by knowledge retrieval from a spatial database	1996	6.753546406731804	1.7654217918901811	3315540
+3317046	DB	educe: a marriage of convenience: prolog and a relational dbms	1986	6.598382811553392	2.6470132649782547	3317073
+3317606	DB	rdf-tx: a fast, user-friendly system for querying the history of rdf knowledge bases	2016	6.9951964111314675	1.9732069048582708	3317633
+3318217	DB	data mining in databases: languages and indices	2018	6.727925883271487	1.8577357613787648	3318244
+3321193	DB	data sources selection for xml data sources	2008	6.559238249893764	1.7495326731782257	3321220
+3321851	DB	ontology-driven compression of temporal series: a case study in scada technologies	2008	6.783644507837398	1.8264291183151624	3321878
+3323580	DB	compressed accessibility map: efficient access control for xml	2002	6.801300214515728	2.5299042404857186	3323607
+3326628	DB	schema evolution for stars and snowflakes	2004	7.1209635583684205	2.5665864166352987	3326655
+3326990	Logic	an approach to computation specification for an entity-relationship query language	1987	6.90774223721521	2.2040326158363404	3327017
+3329613	DB	xmltable index - an efficient way of indexing and querying xml property data	2007	6.680580726234801	2.487962493613522	3329640
+3331449	DB	benchmarking data schemes of ontology based databases	2006	7.198690560945352	2.5528600438859432	3331476
+3338033	DB	qfed: query set for federated sparql query benchmark	2014	6.940862102260006	2.1492702804207244	3338060
+3339141	DB	xparent: an efficient rdbms-based xml database system	2002	7.178479948127787	2.6531999411029066	3339168
+3339242	AI	a grid enabled staging dbms method for data mapping, matching & loading	2011	6.899328346811943	2.122697207947782	3339269
+3340415	DB	flexible querying of xml documents	2006	6.969991029553545	1.9689237660543712	3340442
+3341963	DB	object-relational representation of a conceptual model for temporal data warehouses	2006	6.934055189348428	2.6088147202527083	3341990
+3348125	DB	towards parallel processing of rdf queries in dhts	2009	6.659880060916297	1.8673776538679625	3348152
+3348628	Web+IR	a comprehensive study for essentiality of graph based distributed sparql query processing	2018	7.162543684753714	1.9239890382317129	3348655
+3348714	DB	a comparison of abstract data type and constraint database approaches to gis query languages	2009	6.844666982422867	2.564383424700289	3348741
+3350835	DB	rdf data-centric storage	2009	6.488777747312926	1.8818698893931032	3350862
+3351589	DB	iterative querying in web-based database applications	2002	6.494731898135308	2.0142090650263063	3351616
+3352503	DB	xtract: a system for extracting document type descriptors from xml documents	2000	6.777013049986013	2.131445932676816	3352530
+3355567	DB	controlling diversity in benchmarking graph databases	2015	6.807667221716023	2.157449893816411	3355594
+3358229	DB	the bigdawg monitoring framework	2016	7.262890779882932	2.2088807239709123	3358256
+3359317	DB	comparison queries for uncertain graphs	2013	6.8415512372480976	1.981144517450418	3359344
+3360118	DB	a data services composition approach for continuous query on data streams	2018	7.210695673450904	2.07935347841008	3360145
+3361850	HPC	a common characteristic knowledge discovery system in distributed computing environment	2005	6.430837653596402	1.7628879677624183	3361877
+3362398	AI	scalable representations of diseases in biomedical ontologies	2011	6.942721789018803	1.7532217954300544	3362425
+3362498	Web+IR	ontrel: an ontology indexer to store owl-dl ontologies and its instances	2009	7.1834323036452306	2.5693860952495364	3362525
+3362861	DB	sciql: bridging the gap between science and relational dbms	2011	6.774612334319547	2.625660156807257	3362888
+3363826	DB	an evolutionary perspective on approximate rdf query answering	2008	6.470677967609119	2.2465937021301654	3363853
+3364469	DB	querying semantic knowledge bases with sql-on-hadoop	2017	6.905997070743967	2.168425418145404	3364496
+3364544	DB	storage structures and access methods in the relational data base management system ingres	1975	6.83173605910745	1.9726162768020563	3364571
+3364830	DB	development of embedded system for storing and retrieving xml data	2003	6.465257194493956	2.417266547563247	3364857
+3366158	DB	a multidimensional approach to the representation of the spatio-temporal multi-granularity	2006	6.830926603219828	2.0064956275481705	3366185
+3366375	DB	schema based data storage and query optimization for semi-structured data	2000	6.692670051744603	2.6409074208496643	3366402
+3367426	DB	principles, implementation strategies, and evaluation of a corpus query system	2005	6.548447698764135	2.528413840301881	3367453
+3367861	DB	evolutionary mining of relaxed dependencies from big data collections	2017	6.334299920924399	1.8245192568201052	3367888
+3369292	SE	on supporting full-text retrievals in xml query	2007	6.368113646511144	2.152518161796748	3369319
+3369344	DB	subject space: a state-persistent model for publish/subscribe systems	2002	6.901425340261536	2.0215863393248505	3369371
+3370322	NLP	extending temporal ontology with uncertain historical time	2007	7.083556646577172	2.2762375637263013	3370349
+3372559	DB	extended adaptive join operator with bind-bloom join for federated sparql queries	2017	6.869998855527602	2.125698735615297	3372586
+3373329	Web+IR	processing billions of rdf triples on a single machine using streaming and sorting	2015	6.6527638305360535	2.092653051297276	3373356
+3373677	DB	an experimental consideration of the use of the transrelationaltmmodel for data warehousing	2006	6.751076419596468	2.4129591392896006	3373704
+3375625	DB	continuous queries over data streams	2001	6.676990462544477	1.7780947635716444	3375652
+3376130	DB	using reformulation trees to optimize queries over distributed heterogeneous sources	2010	6.371301290097335	1.9421204075929168	3376157
+3377249	DB	supporting imprecision in database systems	2009	6.9385916292865	2.3732753498246573	3377276
+3377550	DB	shc: distributed query processing for non-relational data store	2018	6.7876557951358745	2.3009713282358395	3377577
+3378176	SE	transporting up: a case study	1980	6.959025904538227	2.2781668391410532	3378203
+3378523	DB	query xml data in rdbms	2012	6.374631429248102	2.1138429776899383	3378550
+3378891	DB	evaluation of queries on tree-structured data using dimension graphs	2005	6.814137483755747	1.9187482772492768	3378918
+3379747	DB	efficient processing of sparql queries over graphframes	2017	6.799375264572184	1.8706202973540744	3379774
+3383060	DB	an application of advanced spatio-temporal formalisms to behavioural ecology	2008	6.959404801304825	2.5541841419548152	3383087
+3383636	DB	translating database update statements from relational to object-oriented database systems for database reengineering	1996	7.087121310450237	2.5825120272377453	3383663
+3383871	DB	lazy query evaluation for active xml	2004	6.478171382903117	2.5117547960554316	3383898
+3385189	DB	adaptive partitioned indexes for efficient xml keyword search	2007	6.935694109716235	1.8193720298703033	3385216
+3385415	DB	supporting temporal slicing in xml databases	2006	6.380468026393533	2.143557944925224	3385442
+3387254	AI	towards scalable instance retrieval over ontologies	2010	6.802645337878858	2.537510580551438	3387281
+3387554	DB	design and realization of spectral data management in the spectral knowledge base	2004	6.407944715071754	2.5549880837068897	3387581
+3390025	Web+IR	a flexible xml query language for non dummies	2011	6.545556959454294	2.618305877875228	3390052
+3390098	DB	towards linear algebra over normalized data	2017	6.322223483314158	2.0060988367233303	3390125
+3390119	ML	sparql query writing with recommendations based on datasets	2014	6.912508057087545	2.5800895906602888	3390146
+3390468	Web+IR	rewriting queries over summaries of big data graphs	2014	6.97209629773652	2.2238351581463545	3390495
+3390783	DB	an xpath query processor for a decomposition storage scheme	2003	6.389662001766375	2.248845177629506	3390810
+3391802	DB	relevancy-based access control and its evaluation on versioned xml documents	2007	6.688391166523785	2.5215120740989247	3391829
+3393116	DB	using a relational database system to support explanation in a knowledge-based system	1992	6.516710029473393	2.628933193135339	3393143
+3393885	Web+IR	signatures, typed feature structures and rdfs	2002	7.1056540374245545	2.2840827066514353	3393912
+3395968	DB	an open schema for xml data in hive	2014	7.0216319408117105	2.2747761334991896	3395995
+3395982	DB	replicate relational and xml databases for internet computing	2004	6.6751106571906424	2.3257540226265547	3396009
+3397057	HPC	spiderstore: a native main memory approach for graph storage	2011	6.655246022763914	2.2439394453731345	3397084
+3397496	DB	equal format databases and semantic-relational encoding	2009	7.1122233827274774	2.62693198897922	3397523
+3399717	Embedded	gpf: a general policy framework	2011	6.9711300133650855	2.3771063979651235	3399744
+3399791	DB	exploiting and maintaining materialized views for xml keyword queries	2012	6.484483861445455	1.917597765541442	3399818
+3400280	DB	the panq tool and emf sql for complex data management	1999	6.463223213539151	2.555178807548008	3400307
+3400480	SE	a uniform representation of multi-variant data in intensive-query databases	2016	6.949135464405247	2.1522717267295968	3400507
+3400871	DB	fuzzy ontology storage in fuzzy relational database	2009	6.349991999774469	2.090890717089409	3400898
+3402644	DB	an iftr approach to approximate xml query matching	2011	6.606997637365443	2.1282035315694707	3402671
+3404112	DB	3sepias: a semi-structured search engine for personal information in dataspace system	2013	7.012138732284142	1.8028031895590384	3404139
+3404562	DB	scaling unbound-property queries on big rdf data warehouses using mapreduce.	2015	6.82520449516437	2.1099784213368387	3404589
+3404740	Web+IR	enabling fine-grained http caching of sparql query results	2011	6.479813005677936	2.1279954696709327	3404767
+3405634	ML	choosing between graph databases and rdf engines for consuming and mining linked data	2013	6.88842134702617	1.7697694567598308	3405661
+3407969	DB	algorithms for temporal query operators in xml databases	2002	6.686420502401058	2.060964847574757	3407996
+3408171	DB	extending data warehouses by semiconsistent views	2002	6.344877788101425	2.2463306245876904	3408198
+3408195	DB	semantics preserving mapreduce process for rdb to rdf transformation	2015	7.143875550832495	2.3794824450882968	3408222
+3409155	DB	probabilistic and fuzzy logic based event processing for effective business intelligence	2016	6.410377651842923	2.6318335410297986	3409182
+3411848	DB	on the use of query-driven xml auto-indexing	2010	6.998801166594325	2.441885141926995	3411875
+3415355	DB	interactive inference of xml schemas	2010	6.803551307990688	2.39944648098798	3415382
+3415386	Web+IR	defining views with formal concept analysis for understanding sparql query results	2014	6.708222860709284	1.9445894541715067	3415413
+3415535	Web+IR	caching intermediate result of sparql queries	2011	6.3369117356402676	1.9362212995350525	3415562
+3416362	DB	enabling schema-free xquery with meaningful query focus	2006	6.6907247613326835	2.0554371465740227	3416389
+3417452	DB	automatic mapping of mysql databases to nosql mongodb	2016	6.751415156477712	2.399965708225789	3417479
+3420831	DB	data provenance for historical queries in relational database	2015	6.8390942208235534	2.0359412649787227	3420858
+3422503	ML	cinefile: a category-based analytic browser	2012	7.268059650794581	1.9045818485275965	3422530
+3422622	ML	relational xes: data management for process mining	2015	6.705270143138246	2.4383018541374346	3422649
+3422853	DB	unification of publish/subscribe systems and stream databases - the impact on complex event processing	2012	6.886654654863716	2.2958060040141954	3422880
+3423140	DB	optimizing sql queries over text databases	2008	6.640620315981712	1.7014895961904282	3423167
+3423879	DB	integration of information retrieval and database management systems	1985	7.164762380285673	2.386774232394344	3423906
+3425191	DB	a nested graph model for visualizing rdf data	2009	6.697305272000984	2.6254615578049947	3425218
+3425620	DB	constraints preserving schema mapping from xml to relations	2002	7.071694516078822	2.6336296740222864	3425647
+3428996	DB	optimizing the secure evaluation of twig queries	2002	7.1248781146950435	2.196180541264189	3429023
+3429899	DB	efficient web change monitoring with page digest	2004	6.713181489618225	1.722051735848822	3429926
+3433660	ML	datamine: application programming interface and query language for database mining	1996	7.0377160851622165	2.4762417227857165	3433687
+3435411	DB	xav: a fast and flexible tracing framework for network simulation	2008	6.6311817888571465	2.560296600043232	3435438
+3438487	DB	indexing method for transitive relationships of product information	2008	6.9671427890252495	2.4545360198005306	3438514
+3438723	DB	what-if olap queries with changing dimensions	2008	6.917718005831006	1.871224680798716	3438750
+3441549	HPC	distributed rdfs reasoning with mapreduce	2014	6.673430515175284	1.8033075989315777	3441576
+3441971	ML	unboxing data mining via decomposition in operators - towards macro optimization and distribution	2009	6.974392258219625	2.236065576582035	3441998
+3445091	DB	a black-box approach to query cardinality estimation	2007	6.850760794376607	2.3551307264274723	3445118
+3447167	DB	inode*: an effective approach for storing xml using relational database	2004	6.749321772264095	2.5191399255787505	3447194
+3448882	DB	semantic querying of tree-structured data sources using partially specified tree patterns	2005	6.704085609036563	2.3810103256673445	3448909
+3452931	SE	query by example in large-scale code repositories	2015	6.4372540825190825	1.7711385182656325	3452958
+3454007	DB	a framework for query reformulation between knowledge base peers	2006	6.904493870091286	2.1025640679146194	3454034
+3454263	DB	data types and operations for spatio-temporal data streams	2011	6.684347511848202	2.5141751621238364	3454290
+3455199	DB	a semantics-aware storage framework for scalable processing of knowledge graphs on hadoop	2017	6.946897195304547	2.121431218075501	3455226
+3457726	DB	database techniques for semantics-rich semi-structured web data. (techniques d'optimisation pour des données semi-structurées du web sémantique)	2013	7.265467566877688	1.942445689734383	3457753
+3458222	DB	changes of dimension data in temporal data warehouses	2001	6.661379079210174	2.1746539717422624	3458249
+3464614	DB	optimizations enabled by relational data model view to querying data streams	2001	6.763913787472898	2.190188258272538	3464641
+3468889	DB	sgprov: summarization mechanism for multiple provenance graphs	2014	6.759357263096622	2.044747108298174	3468916
+3469416	DB	a scalable algorithm for one-to-one, onto, and partial schema matching with uninterpreted column names and column values	2014	6.476054793661636	2.4867629678394563	3469443
+3469745	DB	st-hadoop: a mapreduce framework for spatio-temporal data	2018	6.637238634723095	1.8724032250716411	3469772
+3471283	DB	comparison of native xml databases and experimenting with inex	2006	6.894054027792276	2.051234981743764	3471310
+3473435	DB	mining association rules from semi-structured data	2000	6.832881400890155	2.026966756274622	3473462
+3473977	Web+IR	an indexing scheme for rdf and rdf schema based on suffix arrays	2003	7.11742018964986	2.4629470390096473	3474004
+3476049	DB	exploiting rdf open data using nosql graph databases	2015	7.164698139526165	1.8094149885449642	3476076
+3477126	DB	learning queries from examples and their explanations	2016	7.137212914141933	1.8230137235840609	3477153
+3479410	DB	comparison of complete and elementless native storage of xml documents	2007	6.500365166915628	2.3838252092646948	3479437
+3480066	DB	a conceptual solution for representing time in data warehouse dimensions	2006	6.934763648014706	2.4334840015447017	3480093
+3480737	DB	fclos: a client-server architecture for mobile olap	2009	6.604572268891175	1.9574036675712188	3480764
+3483393	DB	mapping entity-attribute web tables to web-scale knowledge bases	2013	6.9172237904974745	1.7738132097746946	3483420
+3484555	AI	distel: a distributed el+ ontology classifier	2013	6.878679631755164	1.9580615172719784	3484582
+3486245	AI	stream-based reasoning in dyknow	2010	6.673963992924023	1.7188846360314636	3486272
+3487116	DB	lattice model of browsable data spaces	1986	6.357773213301218	2.2838892867027174	3487143
+3487451	DB	a workload-driven logical design approach for nosql document databases	2015	7.056906384368372	2.455422756591916	3487478
+3488986	DB	performance evaluation and optimization of join queries for association rule mining	1999	6.670071938718884	2.0511274115952243	3489013
+3490321	DB	vague queries on peer-to-peer xml databases	2007	6.7272915876476285	2.571750429413341	3490348
+3491870	DB	brighthouse: an analytic data warehouse for ad-hoc queries	2008	6.336081936787783	1.8676991958565925	3491897
+3492588	DB	design of an integrated information retrieval/database management system	1990	6.950238415597798	2.2210771389547768	3492615
+3492974	DB	starflake schema implementation using depth-first algorithm in automating data normalization	2015	6.651183502118464	2.641021499479462	3493001
+3493408	AI	formalisms and tools for knowledge integration using relational databases	2013	6.957305709856242	2.434673620162642	3493435
+3493752	DB	extracting association rules from xml documents using xquery	2003	6.838665522325468	1.7370780618609487	3493779
+3495727	DB	k-relevance: a spectrum of relevance for data sources impacting a query	2007	7.09248896870113	2.206696179865709	3495754
+3495770	DB	hare: a hybrid sparql engine to enhance query answers via crowdsourcing	2015	7.0748109019791325	1.7283654454548731	3495797
+3496330	HPC	materialized view tuning mechanism and usability enhancement	2006	6.329630415227503	2.4297761252813217	3496357
+3498096	HPC	advances in databases and information systems : 13th east european conference, adbis 2009, riga, latvia, september 7-10, 2009 : proceedings	2009	7.121675248816088	2.3653031069660866	3498123
+3498388	DB	cirqul: complex information retrieval query language	2003	6.765433531753692	1.79721930810936	3498415
+3499550	AI	a synthetic, trend-based benchmark for xpath	2009	6.4235467089568	2.418922146229648	3499577
+3500478	DB	an efficient sql-based querying method to rdf schemata	2009	7.0840932331039905	2.582507775512935	3500505
+3502636	DB	an efficient and grain preservation mapping algorithm: from er diagram to multidimensional model	2005	7.120692655299568	2.3953809908851427	3502663
+3502855	DB	performance analysis of distributed data base systems.	1983	6.660043850064024	1.7195571842240955	3502882
+3503787	ML	application of data compression to a large bibliographic data base	1981	6.660884049238187	2.316408054313919	3503814
+3506244	DB	ontodbench: novel benchmarking system for ontology-based databases	2012	7.023219244844552	2.173211228179376	3506271
+3506590	DB	efficient dictionary compression for processing rdf big data using google bigquery	2016	6.680752601350006	1.921158725268324	3506617
+3510410	DB	formal and conceptual modeling of spatio-temporal granularities	2009	6.967127704733432	2.207322699988421	3510437
+3510508	SE	a method of large-scale software development	1984	7.065023707338313	2.323535231635919	3510535
+3511069	AI	schema.org as a description logic	2015	6.905421823801378	2.2799008627455097	3511096
+3511383	DB	index tuning through query evaluation mechanism based on indirect domain knowledge	2012	6.360308945346509	2.200698746439365	3511410
+3512608	DB	mix: a meta-data indexing system for xml	2005	7.201473006041097	2.3025695581375665	3512635
+3512875	ML	learning classifiers from distributed, ontology-extended data sources	2006	6.472359533854611	2.1118722682549897	3512902
+3513334	DB	a reachability-based theoretical framework for modeling and querying complex probabilistic graph data	2012	6.7119267999531536	2.5144659576525035	3513361
+3516798	HPC	the saaz framework for turbulent flow queries	2011	6.3912946437578775	2.0220940426208958	3516825
+3519662	AI	stream-based real world information integration framework	2010	6.8134380066339455	2.5255203234344097	3519689
+3520893	DB	a mongodb-based management of planar spatial data with a flattened r-tree	2016	6.6289537739878845	2.360547609186865	3520920
+3521863	DB	extending contexts with ontologies for multidimensional data quality assessment	2014	7.120136469712414	2.5293824253962494	3521890
+3521972	AI	distributed and scalable owl el reasoning	2015	7.0835636617003255	2.272920949610564	3521999
+3522905	DB	storing rdf as a graph	2003	6.792950465181576	2.526472694077941	3522932
+3522976	DB	native directly follows operator	2018	6.707967718597432	2.6269539786665566	3523003
+3523429	Robotics	integrate inconsistent and heterogeneous data based on user feedback	2015	7.210518113149545	2.1122571162264965	3523456
+3524060	DB	a unifying approach for conceptual schema to support multiple data models	1981	7.086961476153319	1.9809820923677088	3524087
+3526087	DB	declarative approach for long-term sensor data storage. (approche déclarative pour le stockage à long terme de données capteurs)	2017	6.687252506959803	1.7053431238235686	3526114
+3531575	DB	meta-data indexing for xpath location steps	2006	6.673265228485022	2.5280591066686395	3531602
+3532879	DB	tracing the lineage of view data in a warehousing environment	2000	6.420660031895853	2.1313874209005803	3532906
+3533320	DB	a framework for enabling query rewrites when analyzing workflow records	2012	6.383674885276978	1.9685875653898	3533347
+3533591	DB	towards social network extraction using a graph database	2010	6.670804476283932	1.8449332124735949	3533618
+3533633	DB	using a relational database for scalable xml search	2007	6.3371693790521295	2.1373968032005393	3533660
+3534887	DB	an extension of sparql with fuzzy navigational capabilities for querying fuzzy rdf data	2016	6.660590597943328	2.256010833340699	3534914
+3538350	Web+IR	argos: efficient refresh in an xql-based web caching system	2000	6.471332327131928	2.4294119836418187	3538377
+3539972	DB	cost-based sharing and recycling of (intermediate) results in dataflow programs	2018	7.151991769228943	1.6994888379690247	3539999
+3541863	DB	exarch: semantics-based modular distributed data storage	2017	6.65435571383085	2.3437411082111854	3541890
+3542451	DB	orientstore: a schema based native xml storage system	2003	6.88467576875407	2.1876483090947305	3542478
+3543474	DB	t-sparql: a tsql2-like temporal query language for rdf	2010	7.215017096051648	2.2392683878715256	3543501
+3545492	DB	considerations on information storage and retrieval systems for recycling objects	2007	6.611971589368318	2.639773158173834	3545519
+3546089	DB	the world wide web: what cost simplicity?	1997	7.108546895259127	2.4220837038381338	3546116
+3546443	DB	comparison of xml serializations: cost benefits versus complexity	2006	6.658757611102894	2.644200068677168	3546470
+3549025	HCI	attractive interface for xml: convincing naive users to go online	2010	7.2232195420772065	2.287768113262828	3549052
+3549219	DB	support for efficiently processing complex queries over a p2p substrate	2005	7.0446265756240996	2.4297985424725783	3549246
+3550361	ML	leveraging terminological structure for object reconciliation	2010	7.094365421712987	2.0017322711483265	3550388
+3552950	DB	scalable hybrid search on distributed databases	2005	6.7829036717832425	1.9971469580337584	3552977
+3554128	DB	implementation of secondary index on cloud computing nosql database in big data environment	2015	6.95079782761197	1.7044139926724329	3554155
+3557499	Web+IR	storage schema and ontology-independent sparql to hiveql translation	2015	6.7005348679596946	2.1667271427550205	3557526
+3559734	DB	converting relational database into xml documents with dom	2003	6.728725289973833	2.5476439411064007	3559761
+3561963	DB	reengineering object-oriented fuzzy spatiotemporal data into xml	2018	7.116742978575612	2.5913283002391614	3561990
+3567058	DB	an approach for generation of sparql query from sql algebra based transformation rules of rdb to ontology	2018	6.922250182875514	2.4708571363191485	3567085
+3567979	HCI	provrpq: an interactive tool for provenance-aware regular path queries on rdf graphs	2016	7.1370288173034275	2.43367430605966	3568006
+3568046	DB	a general techniques for querying xml documents using a relational database system	2001	6.4889645133116325	2.421612538079178	3568073
+3570258	ML	xml data mining	2010	6.484378807736189	2.254664340482808	3570285
+3570293	DB	semantic integrity constraints in the query by example data base management language	1980	6.853468425070792	1.7605716904346465	3570320
+3571611	DB	a query based graph-oriented load-shedding for rdf stream processing	2016	7.0383146631016125	1.897254528718954	3571638
+3572886	AI	on the complexity of computing peer agreements for consistent query answering in peer-to-peer data integration systems	2005	6.72652728099183	2.385988235601391	3572913
+3573504	DB	maintainance of object-oriented systems during structural schema evolution	1997	7.248334020460403	2.5252788789828284	3573531
+3574039	DB	fast xml document filtering by sequencing twig patterns	2009	6.454424442898531	2.0276132737798243	3574066
+3576457	DB	the cost model for xml documents in relational database systems	2001	6.3777358679282905	2.1701576620197187	3576484
+3577467	Web+IR	data summaries for on-demand queries over linked data	2010	6.6810737578138335	1.7236803507144804	3577494
+3579211	DB	semfilter: a simple and efficient semantic filtering of xml messages	2007	7.102934544676262	2.279391891613748	3579238
+3580697	AI	evaluating reasoners under realistic semantic web conditions	2012	7.259389940218519	2.102538208488268	3580724
+3584327	DB	a split-path schema-based rfid data storage model in supply chain management	2013	6.718218248983559	1.7376379292742978	3584354
+3584714	AI	a visual representation of part-whole relationships in bfo-conformant ontologies	2017	6.997301074080802	2.008902185559875	3584741
+3585537	DB	xml query processing using signature and dtd	2002	6.5895212519920205	2.4167087599305974	3585564
+3589969	DB	an information retrieval view of environmental information systems	1991	6.840020146204893	1.995931860762856	3589996
+3592558	DB	on modeling and querying of text corpora	2014	6.526537054337453	2.2121017332835216	3592585
+3592791	DB	roses: a continuous content-based query engine for rss feeds	2011	7.1653246741034256	2.1321973552750544	3592818
+3593409	DB	qmds: a file system metadata management service supporting a graph data model-based query language	2011	6.941104485409224	2.2502714313821106	3593436
+3593890	DB	recurring retrieval needs in diverse and dynamic dataspaces: issues and reference framework	2017	6.452499708803046	1.886037998380196	3593917
+3595864	DB	on optimizing workflows using query processing techniques	2012	7.1407104142322755	2.337059170193043	3595891
+3599505	Web+IR	binary rdf representation for publication and exchange (hdt)	2013	6.391549347517043	1.7944728433181982	3599532
+3600016	ECom	suits: faceted user interface for constructing structured queries from keywords	2009	7.228094445542501	2.2902289193185226	3600043
+3600436	DB	temporal interoperability in multi+ temporal databases	1998	7.099881779529668	2.606703292119505	3600463
+3600651	DB	the 2-3tr-tree, a trajectory-oriented index structure for fully evolving valid-time spatio-temporal datasets	2002	6.6630632514485	1.70636782338203	3600678
+3600945	DB	polyanalyst data analysis technique and its specialization for processing data organized as a set of attribute values	1998	6.732220949237363	2.1784186713810523	3600972
+3603790	ML	nonstop sql/mx primitives for knowledge discovery	1999	7.046147307203162	2.295304062379906	3603817
+3605996	AI	context-aware decision support in dynamic environments: theoretical and technological foundations	2013	6.703787902611986	2.2472601950912914	3606023
+3607388	DB	pg-trajectory: a postgresql/postgis based data model for spatiotemporal trajectories	2016	6.9096366080416365	1.7151239040290067	3607415
+3608043	DB	docbase - the inex evaluation experience	2004	7.238533233129753	1.9558277948171117	3608070
+3608891	DB	a comparative study of temporal dbms architectures	1996	6.984143740536381	2.4458771050288024	3608918
+3610202	DB	tau-xsynopses - a system for run-time management of xml synopses	2006	7.182467350128232	2.3156485493658243	3610229
+3614109	DB	aqax: a system for approximate xml query answers	2006	6.964740713642298	1.9099069852947463	3614136
+3614303	DB	answering queries using views: a survey	2001	6.652047858944665	2.565577302346865	3614330
+3620165	DB	managing highly correlated semi-structured data: architectural aspects of a digital archive	2007	7.186610775372403	2.356466692265226	3620192
+3620931	DB	modeling nested relationships in xml documents using relational databases	2005	6.4498852439121634	2.3379118799273666	3620958
+3621233	DB	efficient storage and query processing of large string in oracle	2015	6.699131584494113	2.3290046548440517	3621260
+3621458	DB	selp: selective tracking and presentation of data provenance	2015	6.7538495637988865	2.2614098775972526	3621485
+3621915	DB	transformation of fuzzy spatiotemporal data from xml to object-oriented database	2018	6.882914641097251	2.546715167432166	3621942
+3621990	DB	conditional tables in practice	2013	7.2588378827129265	2.466188244726434	3622017
+3626494	AI	formal ontologies and coherent spaces	2014	6.762406651105344	2.401527776398334	3626521
+3626734	DB	a boolean query processing with a result cache in mediator systems	2000	6.560482502552081	2.032183915870831	3626761
+3629295	DB	a meta-wrapper for scaling up to multiple autonomous distributed information sources	1998	7.2069424209938395	2.4398726861755056	3629322
+3631089	HPC	hybrid storage architecture and efficient mapreduce processing for unstructured data	2017	7.000617699888033	1.8160327916620296	3631116
+3631557	DB	transaction management in fully temporal system	2014	6.543570937275629	2.2054046455738656	3631584
+3633270	DB	flexible and extensible preference evaluation in database systems	2013	6.564643395112031	2.151110024125419	3633297
+3634829	DB	a survey of logical models for olap databases	1999	7.137416901349803	2.174715518158504	3634856
+3635912	DB	automatic discovery of semantic structures in html documents	2003	7.146947970545478	2.108606232504941	3635939
+3636529	DB	performance measurements towards the optimization of stream processing for xml data	2009	6.4730777464129625	2.166636065083498	3636556
+3638763	Web+IR	quark-x: an efficient top-k processing framework for rdf quad stores	2016	6.6618353630633225	1.7721671715949765	3638790
+3640822	DB	expressing olap preferences	2009	6.840250967920038	2.0404276170865536	3640849
+3642660	DB	path-based keyword search over xml streams	2015	6.530627232432335	1.890001896826742	3642687
+3642748	AI	modeling temporal consistency in data warehouses	2001	6.6722133288508125	2.3691133421128465	3642775
+3643614	DB	groupeer: a system for clustering pdmss	2011	7.134016906270755	2.2984404159660894	3643641
+3645328	DB	the michigan benchmark: towards xml query performance diagnostics	2006	7.2386525276732465	2.643605302938965	3645355
+3647515	NLP	sparqlgx: efficient distributed evaluation of sparql with apache spark	2016	6.8321421201780606	2.0480003221425904	3647542
+3648046	DB	efficient support for time series queries in data stream management systems	2005	6.386793530603395	2.3598910060547604	3648073
+3648292	DB	query optimization for broadcast database	1999	6.489280327865183	2.5202808401954893	3648319
+3649702	DB	query optimization techniques in graph databases	2016	6.4975828836956335	1.9421175293412023	3649729
+3652378	DB	scalable graph-based olap analytics over process execution data	2014	7.217592045506848	1.8822318003576315	3652405
+3654354	AI	semantic enrichment of ontology mappings: a linguistic-based approach	2013	7.2561731367766225	1.9425671911625664	3654381
+3655268	DB	the advanced video information system: data structures and query processing	1996	6.555390050650217	2.549274490653382	3655295
+3656171	DB	an efficient infrastructure for native transactional xml processing	2007	6.883596095962528	2.4945997739444445	3656198
+3657069	DB	glog: a high level graph analysis system using mapreduce	2014	6.81294305442628	2.4664369257447807	3657096
+3657895	DB	schema extraction and levelization for xml data	2001	6.464158158836848	1.9476065489478287	3657922
+3658343	DB	representing and querying semistructured web data using nested tables with structural variants	2002	6.8047399946039935	2.6003013254046072	3658370
+3659326	DB	deferred incremental refresh of xml materialized views	2002	6.6797774599884585	2.3743039849244627	3659353
+3660348	Crypto	paginação de resultados em consultas por abrangência	2008	6.328907374816715	2.4490066060171314	3660375
+3661214	DB	trace retrieval for business process operational support	2016	6.662890973501482	2.023841740401388	3661241
+3663386	Web+IR	yars2: a federated repository for querying graph structured data from the web	2007	7.211914607085396	1.851301643853404	3663413
+3667190	DB	evaluation of sparql queries using relational databases	2006	6.97661983986091	2.3495660310518667	3667217
+3669816	DB	rta: a framework for the integration of local and relational open data	2017	6.813546044143117	2.360660175914652	3669843
+3670762	DB	stream driven query processing in a database	1993	6.496791874913282	2.1056297156589485	3670789
+3672380	DB	query rewriting in the semantic web7	2006	6.948323439298445	1.853161605409981	3672407
+3672569	HPC	a demonstration of lusail: querying linked data at scale	2017	7.019592778958856	1.840748640260828	3672596
+3672876	DB	efficient xml query processing in mediators	2001	6.420169934852347	2.2041238443657467	3672903
+3674191	Web+IR	querying rdf data using a multigraph-based approach	2016	6.969050148321115	1.9260596533973813	3674218
+3675054	ML	towards adaptively approximated search in distributed architectures	2011	6.414226691734216	2.2286914861115505	3675081
+3675165	DB	a survey on xml streaming evaluation techniques	2012	6.716420668916621	2.272524222498411	3675192
+3678646	DB	efficient olap operations for rdf analytics	2015	6.790027949073582	2.3435787893687205	3678673
+3678654	DB	transformation of xml data sources for sequential path mining	2016	6.369018119622267	1.8568726001714289	3678681
+3681000	DB	data storage practices and query processing in xml databases: a survey	2011	6.596345834111452	2.055534756689164	3681027
+3681254	DB	benchmarking polystores: the cloudmdsql experience	2016	7.1950502447032925	2.4351208611264896	3681281
+3681951	Networks	an rdf-based p2p overlay network supporting range and and wildcard queries	2014	6.5832628594582605	2.112920441868764	3681978
+3684567	Vision	solap on-the-fly generalization approach based on spatial hierarchical structures	2015	6.92978548214943	1.8102870062777916	3684594
+3684863	DB	orthogonality of information structures	1978	6.376891940350415	1.7068142114132314	3684890
+3685511	DB	the time-based data partitioning method for xml query optimization	2011	6.5442080120920325	2.060178253162262	3685538
+3687516	SE	detecting move operations in versioning information	2006	6.8903854232615895	1.704601081596956	3687543
+3690145	DB	xquec: pushing queries to compressed xml data	2003	6.392570430573207	2.21222716219631	3690172
+3690719	DB	exploiting recurrent retrieval needs in querying heterogeneous and dynamic graph dataspaces	2017	6.470588787160432	1.831686057434536	3690746
+3691159	ML	tmg: a matlab toolbox for generating term-document matrices from text collections	2006	7.2437433652501975	1.735673941050306	3691186
+3692609	DB	a distributed database server for continuous media	2002	6.779890556505856	2.2105155679537845	3692636
+3694349	DB	system p: completeness-driven query answering in peer data management systems	2007	7.012937711514887	2.22196909767649	3694376
+3696017	DB	storing, indexing, and querying xml documents in native xml database management systems	2009	7.1906244909085295	1.9932648589699384	3696044
+3696512	DB	querying web forms and nested semi-structured data	2005	6.825312215276017	2.441581349449438	3696539
+3699482	DB	a solution for data inconsistency in data integration	2011	7.183018286742352	2.119284901189692	3699509
+3700917	DB	efficient management of multiversion documents by object referencing	2001	6.316236691045643	2.3778298431600557	3700944
+3701353	Web+IR	xml filtering system based on ontology	2010	6.563877492700883	2.1476717202201385	3701380
+3702762	Web+IR	similarity measures for object-oriented case representations	1998	6.973316683606838	2.025046499686853	3702789
+3705700	DB	scaling concurrency of personalized semantic search over large rdf data	2013	6.308557939305477	1.7750867771422576	3705727
+3706144	DB	constraint-based interoperability of spatiotemporal databases	1999	6.959926794050766	2.5839112263468578	3706171
+3706315	DB	supporting imprecision in multidimensional databases using granularities	1999	6.681087442392363	2.1061799337949134	3706342
+3706906	DB	efficient querying of transformed xml documents	2004	6.638398334009861	2.396962767484648	3706933
+3707356	DB	reverse query processing	2007	6.521288609952737	2.30496836914471	3707383
+3708853	DB	combining user and database perspective for solving keyword queries over relational databases	2016	6.833920483549894	2.4555567184977964	3708880
+3709847	DB	an xml-enabled association rule framework	2003	6.670177198264562	1.810465758840576	3709874
+3710671	DB	csm - a maintenance tool for data warehouse structures	2004	6.441583194758524	2.1141853116673444	3710698
+3712703	DB	algebraic optimization for processing graph pattern queries in the cloud	2013	6.7691192205003174	2.5532858197032393	3712730
+3718693	DB	basex & deepfs joint storage for filesystem and database	2009	7.2120140194805025	2.46474882104373	3718720
+3718925	DB	programming hive - data warehouse and query language for hadoop	2012	7.2079122976120305	1.834864068502836	3718952
+3719962	Web+IR	constructing a generic natural language interface for an xml database	2006	7.061769629868383	2.3105148047931934	3719989
+3720496	DB	managing semistructured data in object-relational dbms	1999	6.933554063894332	2.1229700808510668	3720523
+3722825	DB	what-if analysis in molap environments	2009	6.919438114937411	1.8905337198414829	3722852
+3723163	DB	locating xml documents in a peer-to-peer network using distributed hash tables	2009	6.632825268282978	2.1182395040176782	3723190
+3727400	DB	data mining techniques in materialised project and selection view	2004	6.861657516604924	2.0795741517757937	3727427
+3728295	DB	an xml database as filesystem in userspace	2008	6.672467206776849	2.417823506107624	3728322
+3731017	DB	spatial database support for virtual engineering	2004	6.406361552509727	2.20288338283051	3731044
+3733226	DB	discovering structural association of semistructured data	2000	6.614840871728691	2.2205371104114136	3733253
+3734759	DB	a hybrid risk-aware design method for spatial datacubes handling spatial vague data: implementation and validation	2014	6.591251338863732	1.7434739280070342	3734786
+3734962	DB	a metaprogramming approach to semantically optimize queries in deduktive databases	1988	7.050004576037699	2.5747021703536452	3734989
+3736126	Web+IR	how to feed apache hbase with petabytes of rdf data: an extremely scalable rdf store based on eclipse rdf4j framework and apache hbase database	2016	6.94481594066906	1.942130730792848	3736153
+3736642	Web+IR	c-swrl: a unique semantic web framework for reasoning over stream data	2017	7.090079648603176	2.530169266061776	3736669
+3738151	DB	schema conversion model of sql database to nosql	2014	6.724640667603997	2.4010329840475837	3738178
+3738566	DB	an analytical model for data persistence in business data warehouses	2015	7.048231867867051	2.0211956222199974	3738593
+3741410	DB	striderr: massive and distributed rdf graph stream reasoning	2017	7.120065639891687	2.1960594174375334	3741437
+3741620	DB	repairing inconsistent merged xml data	2003	6.441981765181523	2.1423964889033016	3741647
+3742280	DB	value-based predicate filtering of xml documents	2008	6.343355249726594	2.5275122773571463	3742307
+3742424	DB	scalable queries over log database collections	2015	6.9768831864156144	2.008006528289431	3742451
+3744299	DB	musicdb: a platform for longitudinal music analytics	2016	6.903082341506377	1.7445943772231798	3744326
+3744809	DB	towards a comprehensive xml benchamrk	2015	6.897466568778522	2.3491939533259534	3744836
+3746684	DB	using the data base as a semantic component to aid in the parsing of natural language data base queries	1980	7.2686167534244355	1.937829423060172	3746711
+3746861	DB	a query processing method for data warehouses which contain multimedia	1997	6.321244608532563	1.80215749846764	3746888
+3749538	DB	a unified interface for optimizing continuous query in heterogeneous rdf stream processing systems	2016	6.51103130567182	2.1780080149661987	3749565
+3749935	Web+IR	using sparql to test for lattices: application to quality assurance in biomedical ontologies	2010	6.562602978924008	1.8825409647874392	3749962
+3750852	AI	extending drill-down through semantic reasoning on indicator formulas	2014	7.0764909796835695	2.6472418756319303	3750879
+3752305	DB	a query optimization assistant for xpath	2011	6.921783876504117	2.511333182435642	3752332
+3754534	DB	efficiently querying large xml data repositories: a survey	2007	6.647968160617893	2.3123393995318438	3754561
+3756131	DB	supporting flexible, efficient, and user-interpretable retrieval of similar time series	2013	6.335483010144923	2.090673264922446	3756158
+3760835	DB	cover model pivot view indexing for efficient xml data management	2010	6.6315468352924825	2.2630636288973944	3760862
+3761833	DB	a decision support method for evaluating database designs	2012	6.492326877327049	1.9335961125885297	3761860
+3762106	Web+IR	xml syntax conscious compression	2006	6.6886990900785435	2.5934695554157807	3762133
+3763270	DB	building xml data warehouse based on frequent patterns in user queries	2003	6.716097361714518	1.8541912883066545	3763297
+3763941	DB	a semantical change detection algorithm for xml	2007	6.502851615422206	2.0229028783557483	3763968
+3764093	DB	performance of graph query languages: comparison of cypher, gremlin and native access in neo4j	2013	6.974777654053511	2.2008718518551853	3764120
+3765835	DB	generating xml data for xpath queries	2015	6.657445963396486	2.252862594616921	3765862
+3766213	DB	querying heterogeneous information sources using source descriptions	1996	7.134303420374807	2.177008980620622	3766240
+3766519	DB	snql: a social networks query and transformation language	2011	6.910798561287954	2.4726695582807627	3766546
+3766751	DB	fast access to xml data: a set-based approach	2016	7.158710824516988	1.967049081812764	3766778
+3767451	DB	entitymanager: managing dirty data based on entity resolution	2017	6.718997702267891	1.9138008010103869	3767478
+3768208	DB	scalable view-based techniques for web data : algorithms and systems. (techniques efficaces basées sur des vues matérialisées pour la gestion des données du web : algorithmes et systèmes)	2013	7.0765859826912845	1.8512104324562448	3768235
+3768708	DB	version management of xml documents	2000	6.607032706630815	2.4506324126828547	3768735
+3769411	DB	oasis: an open architecture scientific information system	1996	7.096999293011515	2.270991717433722	3769438
+3770310	DB	on separation between interface, implementation, and representation in object dbmss	1998	6.521968077350879	2.6418352098979967	3770337
+3770382	NLP	a new approach for discovering complex mappings between owl ontologies	2016	7.1857930595647215	1.7298932142095675	3770409
+3771940	DB	probabilistic data programming with enframe	2014	6.6617857529570434	1.7684911532198526	3771967
+3773572	DB	a roadmap towards declarative similarity queries	2018	6.506492202730074	2.3475665795731446	3773599
+3775604	DB	querying xml using structures and keywords in timber	2003	6.628579289662966	2.2273978603417994	3775631
+3776363	HPC	gram: a gpu-based property graph traversal and query for hpc rich metadata management	2018	6.721725077312211	2.110359667178272	3776390
+3777018	DB	clustering rdf databases using tunable-lsh.	2015	6.685703472939093	1.9330333899957608	3777045
+3777446	Web+IR	integrating open sources and relational data with sparql	2008	7.133244009262454	2.5360362442208397	3777473
+3778279	AI	associating ω-automata to path queries on webs of linked data	2016	7.274224389550681	1.9005924006582195	3778306
+3779926	Web+IR	fast answering of xpath query workloads on web collections	2007	7.249105899527695	2.1497060619750608	3779953
+3781457	DB	schema discovery of the semi-structured and hierarchical data	2002	7.146040119691624	1.7270162326493723	3781484
+3782545	DB	invited address: an overview of parallel query optimization in relational systems	2000	6.786610127612871	2.1837612914528517	3782572
+3783249	DB	mms-iu model for incremental update of spatial database	2013	6.421391854474299	2.5297182578972217	3783276
+3786941	AI	a hybrid storage strategy to manage the evolution of an owl 2 dl domain ontology	2017	7.114806486416576	2.269951831711142	3786968
+3788142	DB	on the discovery of semantically enhanced sequential patterns	2005	7.185383492892632	2.023846962787017	3788169
+3789203	DB	biokleisli: a digital library for biomedical researchers	1997	6.891541273156341	2.637309277225049	3789230
+3789392	ML	study and application of data mining and data warehouse in cims	2003	6.919300850085869	2.010007925277657	3789419
+3789697	AI	optimizing a rete-based inference engine using a hybrid heuristic and pyramid based indexes on ontological data	2007	6.453982772727104	2.286310139502854	3789724
+3790392	DB	approximate joins: concepts and techniques	2005	6.693939891357491	1.7340790471928598	3790419
+3793368	DB	signature file methods for semantic query caching	1998	6.317723699502492	2.2060421023160304	3793395
+3793568	DB	xml publishing: look at siblings too!	2003	6.519116689505408	2.614524767553528	3793595
+3795289	DB	reducing the network load of triple pattern fragments by supporting bind joins	2016	6.5720715773672165	2.183009921354746	3795316
+3795730	DB	general purpose database summarization	2005	6.330118772254878	1.993650975866576	3795757
+3797235	DB	the design of query interfaces to the gpcrdb biological database	1999	7.1175991588131975	2.019784358291316	3797262
+3797274	DB	a simulation of a minicomputer-based data base transaction system	1978	6.308720955790186	2.558962335644517	3797301
+3797961	NLP	towards an integrative computational foundation for applied behavior analysis in early autism interventions	2013	6.911821397130376	1.8274519947558268	3797988
+3798778	DB	practical experiences with materialized views in a very large data store for telecommunication service management	1998	6.905156528169756	2.5155641177359667	3798805
+3800244	DB	amnesia - a distributed real-time primary memory dbms with a deductive query language	1995	6.751656583999544	2.499468021173748	3800271
+3801023	HPC	validating an access cost model for wide area applications	2001	6.946082551095806	2.35277799250605	3801050
+3801149	DB	structural summaries as a core technology for efficient xml retrieval	2006	6.465358361672567	1.8286744506420716	3801176
+3801818	AI	stream-query compilation with ontologies	2015	6.944466053564388	2.5235655719525103	3801845
+3804033	DB	understanding and modeling the deep web for integrated environment	2012	7.119093741570912	2.4560008534795528	3804060
+3804712	DB	experimental comparison of graph databases	2013	7.0247305182491075	1.8834398298970567	3804739
+3806057	DB	olap for xml data	2005	7.105034797102458	2.4462306194063554	3806084
+3808280	DB	experimental evaluation of big data analytical tools	2018	7.192049900870558	1.803090085581544	3808307
+3809756	AI	kraft: knowledge fusion from distributed databases and knowledge bases	1997	7.121349314378754	2.0645411591878244	3809783
+3812244	DB	optimization of complex sparql analytical queries	2016	6.8390341684299765	2.2053038984174336	3812271
+3814861	DB	fuzzy approaches to flexible querying in xml retrieval	2016	6.674582551973156	2.0845723593639023	3814888
+3815736	DB	a hybrid framework for query processing and data analytics on spark	2018	7.080609605015929	1.9594692927977613	3815763
+3816214	Web+IR	prsp: a plugin-based framework for rdf stream processing	2017	6.432606165423856	2.4883516926851152	3816241
+3817260	DB	large-scale rdf dataset slicing	2013	6.4832879506680525	1.838726295606071	3817287
+3819282	DB	diincx: an approach to discovery of implicit integrity constraints from xml data	2007	7.189261964401525	2.4391313303268127	3819309
+3821253	DB	araxa: storing and managing active xml documents	2010	6.729704333172847	2.5843471641902007	3821280
+3824504	DB	inflatable xml processing	2005	6.448318704579581	2.564178666362728	3824531
+3825066	DB	stream: the stanford data stream management system	2016	6.730485019060597	2.01573875545598	3825093
+3826142	AI	controlling search for the consequences of new information during knowledge integration	1989	6.651248592032817	2.3620756803316785	3826169
+3826600	DB	a set of aggregation functions for spatial measures	2008	6.942976096064832	1.716821552462367	3826627
+3829417	DB	optimizing healthcare research data warehouse design through past costar query analysis	1999	7.087256310404972	2.114958951339951	3829444
+3831376	Web+IR	croissant: centralized relational interface for web-scale sparql endpoints	2017	7.118819348854174	2.19260344434291	3831403
+3831584	Comp.	biozon: a system for unification, management and analysis of heterogeneous biological data	2005	7.126799280446465	1.7658826003815935	3831611
+3831832	Arch	role of associative array processors in data base machine architecture	1979	7.086111250061174	2.237745821269669	3831859
+3834005	DB	the sql++ semi-structured data model and query language: a capabilities survey of sql-on-hadoop, nosql and newsql databases	2014	7.046707371705112	2.169247515318089	3834032
+3840046	DB	temporal management of rfid data	2005	7.0059029842742735	1.7371905203615194	3840073
+3840542	DB	keyword search with path-based filtering over xml streams	2014	6.578894664462677	1.8954652531049223	3840569
+3841276	EDA	the genealogical approach to the layout problem	1980	7.178786348078312	2.3688436127907537	3841303
+3841782	AI	meaning and the semantic web	2004	7.221114648133786	2.590974701755918	3841809
+3846167	Web+IR	qed: out-of-the-box datasets for sparql query evaluation	2018	6.9201162117748485	2.4049549766319203	3846194
+3846360	DB	a form-based pictorial query language for pictorial database	1989	7.081470120426028	2.429888259798359	3846387
+3847173	DB	object store with navigation accelerator	1993	6.313892339563514	2.319043306411253	3847200
+3848733	DB	exploiting versions for on-line data warehouse maintenance in molap servers	2002	6.317333490970575	1.9994246038087649	3848760
+3849309	DB	efficient provenance storage for rdf dataset in semantic web environment	2015	6.670224980269995	2.3140439635570504	3849336
+3852117	DB	bigdansing: a system for big data cleansing	2015	6.351713286006722	2.143488111845484	3852144
+3854638	AI	efficient rdf stream reasoning with graphics processingunits (gpus)	2014	6.4649304793440745	2.072010587234055	3854665
+3855107	OS	handling scalable approximate queries over nosql graph databases: cypherf and the fuzzy4s framework	2018	6.81059083941844	2.413195212134496	3855134
+3856448	DB	massively parallel reasoning under the well-founded semantics using x10	2014	6.601906543366704	2.0217206321439383	3856475
+3857573	DB	nodb: efficient query execution on raw data files	2015	7.2195769244220855	2.041690885921452	3857600
+3857816	DB	using domain knowledge to learn from heterogeneous distributed databases	2004	6.964915978484187	2.194750159492288	3857843
+3859025	DB	schemas for web data: a reverse engineering approach	2001	7.172397745622642	2.362434481977149	3859052
+3860400	Metrics	benchmarking triple stores with biological data	2010	7.074816885002482	1.8247250576207057	3860427
+3860471	DB	processing sparql queries with regular expressions in rdf databases	2010	6.537385086622356	1.7098312789370238	3860498
+3860665	DB	cascading map-side joins over hbase for scalable join processing	2012	6.444274092550148	1.8977107311071	3860692
+3863104	DB	usando critérios de qualidade para materialização seletiva de dados	2003	7.024210383871738	2.3866087421502766	3863131
+3863561	DB	projection for xml update optimization	2011	6.339694492841637	2.0653892455611085	3863588
+3864528	DB	graph mining meets the semantic web	2015	6.7068365024324486	1.9010939923538568	3864555
+3864535	DB	a high-level tool for enhancing the performance and scalability of open-source relational databases	2017	7.251528452534521	2.4185926798180244	3864562
+3864991	DB	rogas: a declarative framework for network analytics	2016	7.1594149441544905	2.229697868560724	3865018
+3865434	DB	object management in a relational data base system	1986	7.201666057379647	2.642138975407728	3865461
+3866306	DB	gmark: schema-driven generation of graphs and queries	2017	6.788909186313119	2.1070371040795464	3866333
+3866523	DB	towards temporal graph databases	2016	6.561971601842003	2.0965048080307773	3866550
+3866657	DB	a query expression and processing technique for an xml search engine	2005	6.680114559179605	2.101972500957816	3866684
+3866910	DB	distributed xml query processing - (extended abstract)	2010	6.404810288433827	2.3564964623370748	3866937
+3868634	Web+IR	retrieval from hierarchical texts by partial patterns	1993	6.647986238836447	2.6332897698946818	3868661
+3870020	DB	binary xml storage and query processing in oracle 11g	2009	6.363848589221298	2.3009165037900177	3870047
+3872057	DB	a comprehensive study of view maintenance approaches in data warehousing evolution	2012	6.657997288894628	2.3528660593829707	3872084
+3872390	DB	cellstore - the vision of pure object database	2006	7.038491542039522	2.0544995604825087	3872417
+3872474	DB	descriptive schema: semantics-based query answering	2008	7.005900076858152	1.998742872375804	3872501
+3874896	NLP	improving the usability of process change trees based on change similarity measures	2018	6.468794395738922	1.7240250286029952	3874923
+3876633	DB	optimization of pacs data persistency using indexed hierarchical data	2013	6.433053702319893	1.970917355102694	3876660
+3879753	Web+IR	a blueprint for automatic boolean query processing	1982	6.6224397278097555	2.1357179068065646	3879780
+3880287	DB	measuring and constraining data quality with analytic workflows	2008	6.7939426284293285	2.3927144401938727	3880314
+3881838	DB	return specification inference and result clustering for keyword search on xml	2010	6.391182694452429	1.8651041380983957	3881865
+3882407	DB	copy-based versus edit-based version management schemes for structured documents	2001	6.683060515519143	2.3416432750947043	3882434
+3882945	DB	text search using database systems revisited - some experiments	1995	7.083163387241808	2.485811589632463	3882972
+3883533	DB	mustblend: blending visual multi-source twig query formulation and query processing in rdbms	2013	6.385205867583735	2.3270200677179353	3883560
+3884041	DB	no-escape search: design and implementation ofcloud based directory content search	2017	6.662914533150309	1.8003344077289842	3884068
+3884619	NLP	errol: an entity-relationship, role oriented, query language	1983	7.1276398873836655	2.1419728302309062	3884646
+3884917	DB	precis index implementation for efficient fulltext data mining	2011	6.3164201424252	1.9703598468156025	3884944
+3885197	DB	enhanced query processing using weighted predicate tree in edge computing environment	2017	6.473817985475298	1.8973724097369011	3885224
+3885373	DB	data currency quality factors in data warehouse design	1999	7.2462413192667965	2.6298371127195104	3885400
+3886437	DB	deriving and mining spatiotemporal event schemas in in-situ sensor data	2008	6.60385918314862	2.3605846012012117	3886464
+3886512	Web+IR	integrating custom index extensions into virtuoso rdf store for e-commerce applications	2015	6.924170908025582	2.1598359983164923	3886539
+3887429	DB	cost modeling and estimation for olap-xml federations	2002	6.9794576395097465	2.4005733144176578	3887456
+3887932	Web+IR	how caching improves efficiency and result completeness for querying linked data	2011	6.491140496572152	2.1032257245846897	3887959
+3888804	DB	c-swrl: swrl for reasoning over stream data	2017	6.922770542330224	2.448544977495558	3888831
+3888910	DB	mapping rdf graphs to property graphs	2018	6.881603936744041	1.9421774342089364	3888937
+3889368	DB	discovering interesting information in xml data with association rules	2003	6.326735542573594	2.217080998288888	3889395
+3890356	Web+IR	optimization of xslt by compact specialization and combination	2005	6.829627595286898	2.346947758940633	3890383
+3890812	DB	xcheck: a platform for benchmarking xquery engines	2006	6.943395550818466	2.389305750997673	3890839
+3892733	DB	ontodb: an ontology-based database for data intensive applications	2007	6.590784527087908	2.2360532479790938	3892760
+3893696	AI	logmap results for oaei 2011	2011	7.1050989199141705	2.5652357437666593	3893723
+3894446	DB	use of semantic structure in information systems	1962	7.225290250495843	1.7062014104278218	3894473
+3896176	Visualization	torpedo: improving the state-of-the-art rdf dataset slicing	2017	6.534300383942742	1.7828851579422351	3896203
+3898309	DB	multi-lingual semantic matching with ordpath in relational systems	2007	7.125575971717549	2.4590091740421687	3898336
+3898765	DB	keyword search on relational data streams	2007	6.452342891921536	2.0669858427651078	3898792
+3899979	DB	efficient dissemination of filtered data in xml-based sdi	2005	6.897290076124527	1.9955610319221493	3900006
+3904536	DB	faceted navigation framework for xml data	2012	7.178719903824067	2.1800374632507644	3904563
+3905501	DB	attribute lattices: a schema-free unified framework for data semantics	2017	7.075861560322312	1.9360439189706824	3905528
+3905941	DB	a brief study of open source graph databases	2013	6.464441321023653	1.7250537139446984	3905968
+3906098	DB	benchmarking database systems for social network applications	2013	6.730974881032694	1.8786813681270305	3906125
+3906279	HPC	querying the web of data with low latency : high performance distributed sparql processing and benchmarking	2014	6.411633439052538	2.05389129929784	3906306
+3906290	AI	combining concept annotation and pattern structures for guiding ontology mapping	2018	7.165006034383683	2.5610497015517697	3906317
+3907547	DB	enabling cognitive intelligence queries in relational databases using low-dimensional word embeddings	2016	6.9235233727114665	1.8558993026936164	3907574
+3908282	DB	one query to retrieve xml and relational data	2018	6.869191913023371	2.3516491702495244	3908309
+3908688	Web+IR	attaching semantic metadata to cryptocurrency transactions	2017	6.553635134024015	1.9496119094658035	3908715
+3909962	DB	indexing and querying overlapping structures	2013	7.009667586406443	2.5131303667479314	3909989
+3911035	Web+IR	storage and retrieval of system log events using a structured schema based on message type transformation	2011	6.415579111897782	2.2888806849268857	3911062
+3911933	DB	order indexes: supporting highly dynamic hierarchical data in relational main-memory database systems	2016	6.4234729007294655	1.9646418461693416	3911960
+3913349	DB	system ii: a hypergraph based native rdf repository	2008	6.839509207321598	2.3466227089766707	3913376
+3913733	DB	analyzing the impact of xml storage models on the performance of native xml database systems – a case study	2010	7.16895736109497	2.4168569175941776	3913760
+3914628	SE	codeblast: a two-stage algorithm for improved program similarity matching in large software repositories	2013	6.8639536705142	1.721783172216958	3914655
+3915505	DB	best-match querying in general database systems-a language approach	1978	7.095253820539537	2.638700260230911	3915532
+3918043	AI	rdf packages: a scheme for efficient reasoning and querying over large-scale rdf data	2012	6.682933510398028	2.5355563772885903	3918070
+3918279	Robotics	real time complex event detection for resource-limited multimedia sensor networks	2011	6.860490669575696	2.03041592807888	3918306
+3918592	DB	querying and maintaining ordered xml data using relational databases	2005	6.353479593639129	2.285299594088338	3918619
+3919076	AI	semantic reasoning for smog disaster analysis	2016	7.152997701520258	1.9724011838181672	3919103
+3919238	DB	transforming fuzzy spatiotemporal data from relational databases to xml	2018	6.7584366686803685	2.4680041570132047	3919265
+3927095	DB	describing capabilities of internet data sources for information discovery and sharing	2001	6.932090176926543	2.3751127300720647	3927122
+3927631	DB	spatial/temporal query processing for information fusion applications	2000	6.75801596526933	2.5834502527000263	3927658
+3927835	DB	towards a spatial multidimensional model	2005	6.819885888227216	1.8684732047714816	3927862
+3930165	DB	a demonstration of the g∗ graph database system	2013	6.972030968120344	1.993673111668757	3930192
+3931480	DB	k*sql: a unifying engine for sequence patterns and xml	2010	7.260030053141921	2.3152886968313022	3931507
+3934006	Web+IR	aide à la décision sémantique pour la diffusion d'informations. (semantic decision support for information fusion applications)	2013	7.1018625266809146	2.554991170001447	3934033
+3934302	DB	cleaning up very large databases and keeping them clean	2001	6.8990849525864055	2.2538620067325783	3934329
+3935389	Web+IR	aderis: adaptively integrating rdf data from sparql endpoints	2010	6.581425849030179	2.3185039236985285	3935416
+3939919	DB	efficient query reverse engineering for joins and olap-style aggregations	2018	6.467775345721173	2.073995710910998	3939946
+3940527	Robotics	an object-oriented framework for knowledge representation based on fuzzy sets	1993	6.571520626682076	2.3835702709716537	3940554
+3940778	DB	making views self-maintainable for data warehousing	1996	6.464686450439911	2.4271569974096368	3940805
+3940869	Web+IR	lhd: optimising linked data query processing using parallelisation	2013	6.421945986911088	2.0171733085702286	3940896
+3942449	AI	the granular perspective as semantically enriched granulation hierarchy	2011	6.679222862845196	2.426632553428038	3942476
+3942790	Web+IR	discovering xml keys and foreign keys in queries	2009	7.010660829732271	2.3051088767516186	3942817
+3942879	DB	updating multidimensional xml documents	2007	6.699956844146245	2.5058082354022213	3942906
+3943282	DB	enhancing data quality by cleaning inconsistent big rdf data	2017	6.792501021922115	2.098607374411179	3943309
+3943422	DB	optimisation techniques for flexible querying in sparql 1.1	2017	6.308595730150224	2.0057982119348767	3943449
+3945643	DB	on the synthetic generation of semantic web schemas	2007	6.9034125022010215	2.3155272363383386	3945670
+3948201	SE	web information integration tool: data structure modelling	2005	7.191368717638562	2.6013201317681967	3948228
+3948649	DB	data structures for databases	2004	6.437005650316918	2.5351166863204577	3948676
+3948762	DB	xpathmark: an xpath benchmark for the xmark generated data	2005	6.528234328860461	2.277041326669053	3948789
+3950422	ML	mql: an algebraic query language for knowledge discovery	2003	7.017731011134059	2.5508963759935552	3950449
+3954306	DB	efficient lineage tracking for scientific workflows	2008	6.895494795226005	2.156358563422803	3954333
+3956967	DB	fast queries over heterogeneous data through engine customization	2016	7.198415542271932	2.4595308047648747	3956994
+3958033	Robotics	large-scale incremental owl/rdfs reasoning over fuzzy rdf data	2017	6.858144443780352	1.9777186084961824	3958060
+3958045	DB	modelling data warehouses and olap applications by means of dialogue objects	1999	7.100360166538419	2.4044508538153373	3958072
+3959241	DB	extending postgresql to support distributed/heterogeneous query processing	2007	6.835387350723113	2.4880928675159684	3959268
+3961457	DB	pushing similarity joins down to the storage layer in xml databases	2017	6.585832204583	2.092146085445446	3961484
+3961922	DB	model mapping approaches for xml documents: a review	2015	7.186075517769429	2.2381859926329377	3961949
+3964189	DB	what lies beyond structured data? a comparison study for metric data storage	2018	6.32795506313613	1.813153916993419	3964216
+3965419	DB	answering approximate queries over xml data	2016	6.311719869476596	1.7298510602835069	3965446
+3965537	DB	data consistency of a decision support system at distributed database	2005	6.482175527625487	2.380262448746084	3965564
+3966958	Web+IR	element relationship: exploiting inline markup for better xml retrieval.	2005	6.7501044388556215	1.932930543256755	3966985
+3967207	DB	a framework for object-oriented data mining	2008	7.02928739031186	2.3108065575506105	3967234
+3968607	Web+IR	owlim - a pragmatic semantic repository for owl	2005	6.465217312815723	2.570925758554185	3968634
+3970215	AI	a bottom-up approach for creating goal hierarchy using olap query recommendation technique	2018	6.764475298055882	1.83564961132676	3970242
+3973329	Web+IR	an approach to dynamic query classification and approximation on an inference-enabled sparql endpoint	2015	6.653604693256651	1.731776451424968	3973356
+3973390	Web+IR	web service query service	2009	7.013288207716697	2.5399631831742275	3973417
+3975078	DB	a scalable xml access control system.	2001	6.411283343549713	2.4691068571217403	3975105
+3978283	SE	incompleteness errors in ontology	2007	6.8411687787005695	2.4713929572592384	3978310
+3981567	DB	augmenting olap exploration with dynamic advanced analytics	2010	7.229449381411379	1.840220786051762	3981594
+3983629	NLP	concept type hierarchy as ontology: an example historical knowledge base	2004	7.023976383131133	2.5996986621335982	3983656
+3984590	DB	on inference of xml schema with the knowledge of an obsolete one	2009	7.004901842931537	2.4670531623139844	3984617
+3986981	DB	the specification of a relational database (preci) as an abstract data type and its realisation in hope	1986	6.862244515376494	2.4890175627567857	3987008
+3990032	DB	from keywords to semantic queries - incremental query construction on the semantic web	2009	7.009621473344562	2.083657213239932	3990059
+3990848	DB	relevancy based access control of versioned xml documents	2005	6.735921022367965	2.5773006199161936	3990875
+3991636	DB	an analysis of an efficient data structure for evaluating flexible constraints on xml documents	2011	6.578269776496952	1.9297607389655984	3991663
+3994118	DB	on the semantics of data bases: the semantics of data manipulation languages	1976	6.881962784265096	2.3731762733665507	3994145
+3995150	DB	abox inference for large scale owl-lite data	2006	6.4723092944699925	2.155477497751806	3995177
+3995386	DB	improving access to multi-dimensional self-describing scientific dataset	2003	6.4149349979487695	1.944373241238624	3995413
+3996409	DB	decomposing federated queries in presence of replicated fragments	2017	6.515663916210944	2.1281668843602013	3996436
+3997156	DB	spatio-temporal indexing in non-relational distributed databases	2013	6.871097310565952	1.8921209738284928	3997183
+3997486	DB	highly efficient processing of xml path/twig queries using index caches	2012	6.7931724230939405	2.2810386321410565	3997513
+3997773	DB	analysis of some database schemas used to evaluate natural language interfaces to databases	2015	7.2017041247709965	2.551876147041831	3997800
+3997933	ML	a uml-extended approach for mining olap data cubes in complex knowledge discovery environments	2011	7.088882663699254	1.8124747270673225	3997960
+3998212	DB	porsche: performance oriented schema mediation	2008	6.860390839547459	1.98577029298852	3998239
+3998304	ML	compiling relational database schemata into probabilistic graphical models	2012	6.660562278020409	2.1879944152716004	3998331
+3998738	DB	scalable reconstruction of rdf-archived relational databases	2013	6.4567073391771075	2.245092092990963	3998765
+4001058	DB	mragyati : a system for keyword-based searching in databases	2001	6.598316585902633	1.6997733036515623	4001085
+4006758	SE	full of beans: a study on the alignment of two flowering plants classification systems	2018	6.609101362363175	2.29073364948198	4006785
+4011063	DB	storing, indexing and querying large provenance data sets as rdf graphs in apache hbase	2013	6.573074512407208	1.9365131349313085	4011090
+4012424	DB	merging spatial data cubes using the gis overlay operator	2010	6.997627155918098	1.7648417121912496	4012451
+4016628	DB	performing olap over graph data: query language, implementation, and a case study	2017	6.730937001944731	1.9259585293781072	4016655
+4019963	DB	expiring data in a warehouse	1998	6.4306195059517375	2.3870051254212674	4019990
+4020300	DB	seamless integration of distance functions and feature vectors for similarity-queries processing	2014	6.863909615896787	2.318192943987211	4020327
+4020506	Web+IR	evaluating navigational rdf queries over the web	2017	7.143502766381114	1.8180260462687912	4020533
+4023082	DB	towards a statistical evaluation of piglatin joins	2013	6.96163481782232	1.8147686180883813	4023109
+4026313	DB	accessing multidimensional data types in oracle 9i release 2	2003	7.005609485440468	2.485053403959215	4026340
+4034434	DB	pre-matching: large xml schemas decomposition approach	2009	6.945731702742664	1.9269571293221488	4034461
+4034481	DB	itrails: pay-as-you-go information integration in dataspaces	2007	6.983337962931199	2.3366004813478445	4034508
+4034666	AI	hypergraphdb: a generalized graph database	2010	7.116276321473364	2.4976769046374936	4034693
+4034693	DB	flexidex: flexible indexing for similarity search with logic-based query models	2013	6.3465627321116695	1.703324503511343	4034720
+4035566	DB	splash: ad-hoc querying of data and statistical models	2010	7.1204468077906276	1.7363037602153617	4035593
+4039316	DB	developing an indexing scheme for xml document collection using the oracle8i extensibility framework	2001	7.202732387886144	2.5225101125335496	4039343
+4040617	DB	data classification and management in very large data warehouses	2001	6.638836121058419	1.7188243373381842	4040644
+4041719	DB	mesa: an efficient matching scheme in content-based publish/subscribe system with simplified bayesian approach	2017	6.332481633964843	1.8504898761727475	4041746
+4041858	DB	on debugging non-answers in keyword search systems	2015	6.692350080138786	1.943664339447137	4041885
+4044313	DB	meta-data based mediator generation	1998	7.258806093481194	2.555207993092246	4044340
+4044453	DB	a model for object relational olap	2010	7.047556270369741	2.3372418903981718	4044480
+4046350	DB	storing hypergraph-based data models in non-hypergraph data storage	2018	6.959633814817237	2.373164521149917	4046377
+4047501	DB	querying vague spatial information in geographic data warehouses	2011	6.514541214180452	2.152714941904934	4047528
+4048374	DB	a query algebra for fragmented xml stream data	2003	6.882886885741861	2.556646790557405	4048401
+4048413	DB	causality and explanations in databases	2014	7.247581292537585	1.937634684756126	4048440
+4049975	ML	webtool: an integrated framework for data mining	1999	7.10893165729146	1.7406426629837315	4050002
+4050152	DB	the next database revolution	2004	6.500749683546236	2.198604871072181	4050179
+4050301	DB	empowering in-memory relational database engines with native graph processing	2017	6.809962434297821	2.1574346562621107	4050328
+4052190	DB	fuzzy multilinkage thesaurus builder in multimedia information systems	1995	6.90247401406672	2.397889523687152	4052217
+4052968	ML	rdb-miner: a sql-based algorithm for mining true relational databases	2010	6.838145524576956	2.4416278744335926	4052995
+4053491	Logic	sql/lpp+: a cascading query language for temporal correlation verification	1999	6.374372136374602	2.123464654837731	4053518
+4055075	DB	data manipulation in heterogeneous databases	1991	6.861208937890189	2.5970832862784854	4055102
+4057597	DB	modeling of an analytical database system	2007	7.260476302719415	2.2375025666964645	4057624
+4057947	DB	optimizing dom programs on xml views over existing relational databases	2004	6.609693122242238	2.41540372412038	4057974
+4058304	AI	streamrule: a nonmonotonic stream reasoning system for the semantic web	2013	6.705606737460308	2.433425274655483	4058331
+4061631	HPC	two-level modeling schemes for temporal-spatial multimedia data representation	1992	7.0105223513080475	2.5182128131321946	4061658
+4062286	DB	costfed: cost-based query optimization for sparql endpoint federation	2018	6.557759347308395	1.9900347821480724	4062313
+4065608	DB	complex time management in databases	2014	6.457612768614158	2.6308145630293542	4065635
+4067154	DB	graql: a query language for high-performance attributed graph databases	2016	6.867896244484223	1.8649988920946456	4067181
+4067392	AI	a query optimization strategy based on domain ontology	2009	7.1018594972151305	1.9058140417547345	4067419
+4068506	OS	scads: scale-independent storage for social computing applications	2009	7.174089181881821	1.9084617497562504	4068533
+4068955	DB	index structure for managing multi-levels of road networks on distributed environment	2003	6.457177171109262	2.0491847848368234	4068982
+4070549	Graphics	representing composites in conceptual modeling	2004	6.574144285848504	2.029536930250226	4070576
+4072931	DB	aderis: an adaptive query processor for joining federated sparql endpoints	2011	6.542591273662852	2.212306238270513	4072958
+4076579	DB	executing queries over schemaless rdf databases	2015	6.473640579980213	1.93363971178378	4076606
+4078024	DB	the pdd framework for detecting categories of peculiar data	2006	6.939663794009467	2.3860181065678407	4078051
+4078583	Web+IR	efficiently answering personalized queries on xml data	2008	6.312184619866329	1.890767448940116	4078610
+4080373	DB	extended cascaded star schema and ecolap operations for spatial data warehouse	2009	6.788790260543853	2.4330586903446	4080400
+4080556	DB	dynamic restructuring of databases with generation data structures	1976	7.102732107413275	2.1467884719317825	4080583
+4080740	DB	indexing xml to support path expressions	2002	6.5712678477039494	2.384877179116576	4080767
+4081871	DB	on the midpoint of a set of xml documents	2005	7.1745878641835175	2.5259987566842548	4081898
+4083215	AI	an introduction to ontology based structured knowledge base system: knowledge acquisition module	2013	6.996494713412419	2.200584879364842	4083242
+4085974	DB	query for streaming information: dynamic processing and adaptive incremental maintenance of rdf stream	2018	7.03772852326991	2.3237425817445763	4086001
+4085975	DB	rapid: enabling scalable ad-hoc analytics on the semantic web	2009	6.857712749575113	1.9072949908460584	4086002
+4086933	DB	the temporal mechanisms in hbase	1996	7.066051124926434	1.8213108706576924	4086960
+4087444	AI	a system for searching renting houses based on relaxed query answering	2016	7.112615607681311	1.8687307711543557	4087471
+4087709	DB	a constraint-aware query optimizer for web-based data integration	2008	7.1661483426990715	2.49455351134931	4087736
+4089320	DB	tracking federated queries in the linked data	2015	6.973621543343536	2.0960596513218466	4089347
+4090214	DB	domain-specific semijoin: a new operation for distributed query processing	1990	6.421168168528488	2.1965304717259024	4090241
+4094381	DB	echochamber: rule-based semantic webhooks	2018	7.237170669365064	2.1754310981018703	4094408
+4094587	DB	data management in rfid applications	2007	6.8914700348519515	1.7580890670013247	4094614
+4094721	DB	f-cube factory: a fuzzy olap system for supporting imprecision	2007	6.353410051892701	2.0839107098804983	4094748
+4096109	AI	the interpreted-compiled range of ai/db systems	1989	6.77166394821072	2.621167251853898	4096136
+4101295	DB	sonschema: a conceptual schema for social networks	2013	7.237438287896558	1.9357817673574942	4101322
+4101926	Web+IR	mitos: design and evaluation of a dbms-based web search engine	2008	6.374525280708599	1.8600273374561125	4101953
+4103325	DB	wrapping of web sources with restricted query interfaces by query tunneling	2006	7.147897223748692	2.6159015662859453	4103352

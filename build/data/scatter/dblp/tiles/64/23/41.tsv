@@ -1,0 +1,617 @@
+id	area	title	year	x	y	ix
+3121981	Theory	switching graphs	2008	-7.811651522500893	9.043036085562095	3122008
+3128755	Logic	state complexity of overlap assembly	2018	-7.671680817730483	8.45566397156894	3128782
+3128858	Theory	nonerasing, counting, and majority over the linear time hierarchy	2002	-7.978357532850996	8.693808089755482	3128885
+3130590	Theory	approximation to the smallest regular expression for a given regular language	2004	-7.693449190058483	8.825850552079876	3130617
+3130625	Logic	constraint satisfaction problems over the integers with successor	2015	-8.088344246071088	8.452251223817525	3130652
+3134780	Logic	some remarks on multihead automata	1977	-7.418970552835661	8.560800696114349	3134807
+3136809	Logic	the iota-delta function as an alternative to boolean formalism	2018	-7.467440405035021	9.228382377957981	3136836
+3137271	Logic	generic e-removal and input e-normalization algorithms for weighted transducers	2002	-7.5868794848043	8.865638459387519	3137298
+3137654	Arch	different modifications of pointer machines and their computational power	1991	-7.909929165413679	8.81623629515458	3137681
+3140565	ECom	fast parallel language recognition by cellular automata	1985	-8.068892471869576	8.825077071683056	3140592
+3141149	DB	minimization of sequential transducers	1994	-7.384413552934276	8.719390809614339	3141176
+3145011	Theory	separation of deterministic, nondeterministic and alternating complexity classes	1991	-7.809046606426595	8.545340875570629	3145038
+3145895	ECom	on the computational completeness of graph-controlled insertion-deletion systems with binary sizes	2017	-7.248251880327384	8.433791729113803	3145922
+3145948	Theory	computational complexity of random access stored program machines	1971	-7.992058232759754	9.147203257689071	3145975
+3149586	NLP	unary coded pspace-complete languages in aspace(loglog n)	2017	-7.6595111418796815	8.668738642354862	3149613
+3151625	Theory	fooling a two-way automaton or one pushdown store is better than one counter for two way machines (preliminary version)	1981	-7.742795456874998	8.917380344644977	3151652
+3151808	Theory	checking generalized debates with small space and randomness	2012	-8.14820884438435	9.292915084730557	3151835
+3155038	Theory	one-way finite automata with quantum and classical states	2012	-8.102089659505463	8.923445383612657	3155065
+3156782	NLP	polynomial size test sets for context-free languages	1992	-7.721599652467438	8.821220227735084	3156809
+3158010	Logic	algorithms based on finite automata for testing of z-codes	2012	-7.623946410087266	8.59510462945256	3158037
+3158417	Theory	universality of a reversible two-counter machine	1996	-7.880996126400348	9.072980946453184	3158444
+3160088	Logic	optimal estimation on the order of local testability of finite automata	2000	-7.809571132162849	8.932374855069781	3160115
+3161864	Theory	efficient analysis of graph properties on context-free graph languages (extended abstract)	1988	-8.055986764059675	8.6895952977115	3161891
+3162991	Theory	state complexity of deterministic watson–crick automata and time varying watson–crick automata	2015	-7.402971057784338	8.73369192984711	3163018
+3163221	ML	space and time efficient simulations and characterizations of some restricted classes of pdas	1984	-7.630736423718816	8.908019997099466	3163248
+3163665	Theory	a note on off-line machines with 'brownian' input heads	1984	-7.967087470316371	8.96286429475393	3163692
+3164729	Theory	characterizations of pushdown machines in terms of time-bounded computers	1971	-7.522178753230091	8.461070708184563	3164756
+3169837	Theory	some observations on two-way finite automata with quantum and classical states	2008	-7.836214860381451	8.7510879611993	3169864
+3173289	Logic	learning pattern languages over groups	2016	-7.34655374240551	8.410358862400582	3173316
+3174788	Theory	on the power of polynomial bit-reductions	1992	-7.6509940783435795	8.653081438937923	3174815
+3175050	Theory	structure of weakly invertible semi-input-memory finite automata with delay 2	2002	-7.495363841205538	8.860375721136931	3175077
+3175898	DB	running fcrpni in efficient time for piecewise and right piecewise testable languages	2004	-7.308948606126216	8.907293034434838	3175925
+3179056	Logic	omega-regular model checking	2004	-7.249498011865518	8.720331521553746	3179083
+3180753	Logic	reset complexity of ideal languages	2014	-7.721337293738277	8.544994245933424	3180780
+3181354	Theory	an improved algorithm for the membership problem for extended regular expressions	2002	-7.806216696076289	8.908386885729307	3181381
+3182354	ECom	remarks on blind and partially blind one-way multicounter machines	1978	-7.547487636482581	8.75341320236884	3182381
+3183482	Theory	finding of k in fagin's r. theorem 24	2010	-7.909471295856014	8.900292235129243	3183509
+3183911	Theory	word problems over traces which are solvable in linear time	1989	-7.820374818626624	8.68841018092358	3183938
+3184220	NLP	nondeterministic tree width of regular languages	2015	-7.865845712163893	8.788354390483864	3184247
+3184588	Theory	a note on the complexity of deterministic tree-walking transducers	2013	-7.580603874337071	8.695923671277558	3184615
+3185230	Logic	regularity results for fifo channels	2005	-7.236979475728583	8.686035904955157	3185257
+3185718	Theory	characterizations of bounded semilinear languages by one-way and two-way deterministic machines	2011	-7.710421625821648	8.502728537653077	3185745
+3187490	Theory	state complexity of operations on input-driven pushdown automata	2017	-7.916053798042673	8.875528344480326	3187517
+3188238	NLP	the length of a minimal synchronizing word and the černy conjecture	2014	-8.073401110680107	8.884933823586735	3188265
+3189730	ML	on-the-fly algorithms and sequential machines	1997	-7.521884794501584	9.044377175020337	3189757
+3192923	Logic	alternative automata characterization of piecewise testable languages	2013	-7.69327067882341	8.500409786992968	3192950
+3193085	Theory	the minimum amount of useful space: new results and new directions	2014	-7.687676971807085	8.940252189942909	3193112
+3193606	ML	a learning algorithm for multi-dimensional trees, or: learning beyond context-freeness	2008	-7.394630049712182	8.505555231787097	3193633
+3195182	ML	the query complexity of learning some subclasses of context-free grammars	1995	-8.011207596503487	8.760865979870985	3195209
+3195434	ECom	boundary sets of regular and context-free languages	2016	-7.365399582235625	8.464636109051595	3195461
+3197544	Theory	real-time simulation of concatenable double-ended queues by double-ended queues (preliminary version)	1979	-7.890561861188022	9.029344188800948	3197571
+3197750	Crypto	on the lower bound to the memory of finite state machines	1969	-7.9285953525780615	9.131917014702136	3197777
+3201870	Theory	probabilistic automata complexity of languages depends on language structure and error probability	1988	-7.931724156107028	8.656114416454686	3201897
+3202979	Logic	parameterized complexity of first-order logic	2009	-7.9777258824378166	8.865583017866278	3203006
+3207597	Theory	some results on reversible gate classes over non-binary alphabets	2016	-8.077570499392259	9.273092154853881	3207624
+3207635	Theory	halting space-bounded computations	1978	-8.053447761283294	9.060734796617774	3207662
+3207690	Logic	a short note on infinite union/intersection of omega regular languages	2016	-7.44387556109552	8.419418912500186	3207717
+3208343	Logic	infinite synchronizing words for probabilistic automata	2011	-7.367745510863119	8.619748046106759	3208370
+3208878	Logic	on the automata size for presburger arithmetic	2004	-7.588346978733253	8.8629943786439	3208905
+3211663	Logic	towards completely characterizing the complexity of boolean nets synthesis	2018	-7.7573483033307875	8.88998713996343	3211690
+3213184	Theory	on optimal algorithms and optimal proof systems	1999	-7.9724078950165485	8.915225632242882	3213211
+3214516	Theory	two lower bounds on computational complexity of infinite words	1997	-7.8011817261028265	8.44936545064049	3214543
+3215746	Theory	fast iterative arrays with restricted inter-cell communication: constructions and decidability	2006	-7.5309745802112005	8.814132507050491	3215773
+3219909	Logic	hyper-ackermannian bounds for pushdown vector addition systems	2014	-7.804745784498332	8.709293882543577	3219936
+3223467	Arch	translating regular expressions into small epsilon-free nondeterministic finite automata	1997	-7.885228963099554	9.00651028862262	3223494
+3224320	EDA	equational logic	1974	-7.620405997045534	9.347179746553989	3224347
+3226330	Logic	finite dp automata versus multi-head finite automata	2011	-7.376387835622264	8.556598337879786	3226357
+3229740	PL	tightening the complexity of equivalence problems for commutative grammars	2016	-7.679618952725824	8.557274738076314	3229767
+3229751	Logic	quantum state complexity of formal languages	2015	-7.764767386862639	8.735736604835527	3229778
+3230244	Logic	finite complete rewriting systems and the complexity of the word problem	1984	-7.400779327185748	8.513158901707373	3230271
+3230571	Logic	fast language acceptance by shrinking cellular automata	1983	-7.853289172772218	8.60907007077873	3230598
+3232908	Logic	a new lower bound for reset threshold of synchronizing automata with sink state	2017	-7.81339542379534	8.935329723223449	3232935
+3234422	Theory	on stateless multihead finite automata and multihead pushdown automata	2009	-7.435806310565911	8.820866551720773	3234449
+3234756	Theory	on the power of real-time two-way multihead finite automata with jumps	1984	-7.555433380548033	8.620132215191619	3234783
+3237206	Theory	translation from classical two-way automata to pebble two-way automata	2010	-7.554633391177981	8.906966489439348	3237233
+3241668	Theory	on the complexity of finite, pushdown, and stack automata	1976	-7.391908374917237	8.73679552676977	3241695
+3246408	Theory	on learning unions of pattern languages and tree patterns	1999	-7.716911107022253	8.733900917866235	3246435
+3247554	Logic	an efficient null-free procedure for deciding regular language membership	1997	-7.6362050069188205	8.48325520309983	3247581
+3249663	AI	planning graphs and propositional clause-learning	2008	-7.354694960861765	8.679604492833052	3249690
+3250682	Logic	characterization and complexity results on jumping finite automata	2017	-7.629422521575068	8.511820162329187	3250709
+3252055	Logic	learning probabilistic automata and markov chains via queries	1992	-7.822134673671905	8.44782952089862	3252082
+3252080	Crypto	a second step towards circuit complexity-theoretic analogs of rice's theorem	1998	-8.196418946874818	8.45707670108191	3252107
+3252160	Theory	on path-controlled insertion–deletion systems	2018	-7.4474201271622515	8.53999203358231	3252187
+3252235	Theory	descriptional complexity of pushdown store languages	2012	-7.808713301549378	9.007773238986905	3252262
+3253330	Theory	on the complexity of equivalence and minimisation for q-weighted automata	2013	-7.906667250820869	8.861953056782895	3253357
+3254862	Theory	on the universe, disjointness, and containment problems for simple machines	2010	-7.568550068198062	8.897939312891513	3254889
+3254927	Logic	from regular expressions to smaller nfas	2011	-7.647687970814021	8.735596322547227	3254954
+3255251	Theory	lower bound for the length of synchronizing words in partially-synchronizing automata	2008	-7.643770681588916	8.838242728842909	3255278
+3257149	Theory	incremental learning from positive data	1996	-8.062138699971761	8.577547431830016	3257176
+3259378	Logic	state complexity of prefix-free regular languages	2006	-7.595310191365218	8.837795167809734	3259405
+3260417	Logic	alternating space is closed under complement and other simulations for sublogarithmic space	2017	-8.119113603645403	8.88025421082597	3260444
+3261310	Theory	operations on automata with all states final	2014	-7.711481837132005	8.579925013276894	3261337
+3262823	Logic	computational complexity of input/output logic	2015	-7.641079661735701	8.613525366580742	3262850
+3263717	PL	an o(mlogn) algorithm for computing stuttering equivalence and branching bisimulation	2017	-7.424053529733048	9.223135095909363	3263744
+3263955	Logic	dynamics of the independence number and automata synchronization	2018	-8.124217732773623	9.169782195158152	3263982
+3265457	DB	learning k-piecewise testable languages from positive data	1996	-7.680419454496523	8.634425604804651	3265484
+3268687	Theory	the intersection problem for finite monoids	2018	-8.062177049942036	8.534097326549094	3268714
+3270978	Logic	descriptional complexity of two-way pushdown automata with restricted head reversals	2011	-7.449933250914652	8.882705020336195	3271005
+3272211	Theory	on decision problems for parameterized machines	2010	-7.402470633048513	8.722394269182411	3272238
+3272687	Theory	on the size complexity of deterministic frequency automata	2013	-7.635918459087268	8.637180827482256	3272714
+3275053	Theory	from cascade decompositions to bit-vector algorithms	2004	-7.3836811396953586	8.746009777251125	3275080
+3276230	Theory	fast parallel recognition of lr language suffixes	2004	-7.529627200248213	8.973148370400198	3276257
+3276340	Theory	recognizing certain repetitions and reversals within strings	1976	-8.027307243308684	8.716055716781046	3276367
+3279437	Theory	normality and automata	2015	-7.4244955180709065	8.690281136361687	3279464
+3280890	EDA	identification of linear ternary logic functions and its algorithms	1994	-7.253739402802006	9.242864920807891	3280917
+3281482	Logic	unary language concatenation and its state complexity	2000	-7.602661629621013	8.457388877680359	3281509
+3281749	NLP	optimal parallel parsing of bracket languages	1987	-7.6214348738231825	9.234253468534156	3281776
+3281807	Theory	two-way counter machines and diophantine equations	1982	-7.594616665693228	8.700908334092034	3281834
+3282297	AI	a new one pass algorithm for estimating stochastic context-free grammars	1999	-7.7655770136240045	9.007135459638638	3282324
+3283834	Theory	a note on three-way two-dimensional probabilistic turing machines	2000	-7.96115063386133	8.87327383670803	3283861
+3284580	Theory	economy of description by parsers, dpda's, and pda's	1975	-7.60944332602055	9.007688270867712	3284607
+3288417	Embedded	tight bounds for the space complexity of nonregular language recognition by real-time machines	2013	-8.045679724971642	8.801337247791595	3288444
+3288955	Theory	pebble alternating tree-walking automata and their recognizing power	2008	-7.403506377001218	8.801866515105877	3288982
+3291530	Theory	linear time language recognition on cellular automata with restricted communication	2000	-7.818577720365139	8.986994614569111	3291557
+3292157	Theory	an n log n algorithm for online bdd refinement	1999	-7.347500812435403	9.147301636163453	3292184
+3292841	Theory	reversible computation	2011	-8.131753061467148	9.00570139585243	3292868
+3292849	Embedded	language recognition power of watson-crick automata: multiheads and sensing	2012	-7.454047258286775	8.521040712589498	3292876
+3293445	AI	succinct representation and leaf languages	1995	-8.082425509088125	8.606286611195596	3293472
+3296404	Theory	limited random access turing machines	1968	-7.530172597217923	8.821793981301298	3296431
+3296874	Theory	structured storage afa	1973	-7.681524243909662	8.628595660746871	3296901
+3297605	Theory	efficient construction of semilinear representations of languages accepted by unary nondeterministic finite automata	2013	-7.884485955819625	8.508981993172435	3297632
+3301647	Theory	on the optimal number of instructions for universal turing machines connected with a finite automaton	2003	-7.7035799875878395	8.813958914722686	3301674
+3302933	Theory	the complexity of decision problems for finite-turn multicounter machines	1981	-7.536334445268855	8.481386474977182	3302960
+3306268	Logic	determination of the final state of an automaton whose initial state is unknown	1963	-7.4130020145292175	8.732351868650568	3306295
+3308280	Theory	global versus local computations: fast computing with identifiers	2017	-7.57421052865121	9.125458439870814	3308307
+3309356	Theory	computation in networks of passively mobile finite-state sensors	2004	-7.901519962947897	9.203111028950444	3309383
+3312353	Theory	abelian logic gates	2015	-8.14007497970423	9.181868124381198	3312380
+3315814	Logic	learn with sat to minimize büchi automata	2012	-7.801010516084952	8.842031664818467	3315841
+3317118	Theory	reduced nondeterministic finite automata for approximate string matching.	1996	-8.072234511916264	9.326767368303242	3317145
+3317192	EDA	universal two state machines: characterization theorems and decomposition schemes	1968	-7.282096173004593	8.884458559969103	3317219
+3322380	Theory	computing the order of a locally testable automaton	1994	-8.061170903348591	8.860969519816988	3322407
+3322516	PL	language operations with regular expressions of polynomial size	2008	-8.138257246113037	8.83455589288686	3322543
+3324443	Theory	on the state complexity of k-entry deterministic finite automata	2001	-7.55203612589036	8.587385173528983	3324470
+3324629	Logic	balanced timed regular expressions	2002	-7.2309618911679125	8.50857324832889	3324656
+3325236	Logic	a new order theory of set systems and better quasi-orderings	2011	-7.94529064367753	8.451115072752355	3325263
+3327159	Logic	on the average size of glushkov and partial derivative automata	2012	-7.841383495499872	9.032911730929493	3327186
+3327397	Logic	on the expressiveness and complexity of randomization in finite state monitors	2008	-7.471477804803047	8.78642768335881	3327424
+3329369	Theory	automated pattern detection - an algorithm for constructing optimally synchronizing multi-regular language filters	2006	-7.660841923798994	8.687200370967474	3329396
+3329608	Logic	reversibility in space-bounded computation	2014	-8.067205175249999	9.16267026221128	3329635
+3333169	Theory	verifying time complexity of turing machines	2015	-8.119375963364481	9.100613143388586	3333196
+3335000	Theory	fixing monotone boolean networks asynchronously	2018	-7.761739490889193	8.873114815659935	3335027
+3336736	Logic	blackhole state-controlled regulated pushdown automata	2010	-7.301512842672249	8.576788263357647	3336763
+3347357	Theory	symmetry coincides with nondeterminism for time-bounded auxiliary pushdown automata	2010	-7.473121028360507	8.60013264715101	3347384
+3347691	Vision	a minimal representation for continuous functions	2017	-8.191040033904986	8.461070352765857	3347718
+3348210	Theory	an analysis of the nonemptiness problem for classes of reversal-bounded multicounter machines	1986	-7.4072504235559915	8.755111077134513	3348237
+3348240	ML	the complexity of matrix transposition on one-tape off-line turing machines with output tape	1988	-8.184182101398282	9.301817993246868	3348267
+3348911	Theory	square on deterministic, alternating, and boolean finite automata	2017	-8.00838215573961	8.761890445695766	3348938
+3351404	PL	small nfas from regular expressions: some experimental results	2010	-7.2564779740992496	8.986802275696121	3351431
+3353005	Logic	succinctness of regular expressions with interleaving, intersection and counting	2010	-7.280938954462703	8.777365456804075	3353032
+3354105	Theory	a special case of a unary regular language containment	2005	-7.980650664161727	8.543573667317053	3354132
+3355564	Theory	a space lower bound of two-dimensional probabilistic turing machines	2002	-7.964283455044528	8.969638557268096	3355591
+3355789	Theory	multi-head finite automata: data-independent versus data-dependent computations	1997	-7.957700153479492	8.968825275611342	3355816
+3356234	Theory	lower bounds and reductions between grammar problems	1978	-7.3323843543514275	8.651110229646747	3356261
+3358412	AI	the parallel complexity of single rule logic programs	1992	-8.143769858528287	8.501162854404956	3358439
+3359892	Theory	continuant polynomials and worst-case behavior of hopcroft's minimization algorithm	2009	-7.972301186037622	8.515454255798605	3359919
+3360348	Theory	complexity problems in real time computation	1970	-7.9241871751375	8.907675234469199	3360375
+3361108	Vision	the origin of the method of iterated consensus	1968	-7.353924850692416	9.353201413481402	3361135
+3361486	Theory	on one-way one-bit o (one)-message cellular automata	2009	-7.54045639204004	8.604825825481111	3361513
+3362560	Theory	sublogarithmic space-bounded multi-inkdot alternating turing machines with only existential (universal) states	2006	-7.938888835872402	8.810608405508964	3362587
+3363399	Theory	synchronizing automata with large reset lengths	2014	-7.845244163029378	8.821914651922414	3363426
+3363656	Logic	experimental study of the shortest reset word of random automata	2011	-7.847943043560799	9.036679455099012	3363683
+3365480	Logic	nondeterministic biautomata and their descriptional complexity	2014	-7.382154547254682	8.765028801936102	3365507
+3367723	Theory	prefix-free languages: left and right quotient and reversal	2016	-8.11290901399171	8.424338798828956	3367750
+3368079	Theory	program schemes with binary write-once arrays and the complexity classes they capture	2001	-7.602906767072335	8.756592603067567	3368106
+3370466	Theory	new problems complete for nondeterministic log space	1976	-7.7604309819932284	8.813723849313867	3370493
+3370900	Logic	enumeration of function and bases of three-valued set logic under compositions with boolean functions	1994	-7.471209992222173	8.946024837585131	3370927
+3371164	Theory	a maximum path length pumping lemma for edge-replacement languages	1993	-7.923256259687776	8.470631744151303	3371191
+3372357	Theory	advice for semifeasible sets and the complexity-theoretic cost(lessness) of algebraic properties	2004	-8.105365090846737	8.52829905070597	3372384
+3376198	Logic	complexity of automaton identification from given data	1978	-7.708904911196893	8.753584059775045	3376225
+3376588	Logic	limitations of lower bound methods for deterministic nested word automata	2011	-7.724016557309443	8.934256877634155	3376615
+3376718	Theory	deterministic pushdown automata and unary languages	2009	-7.5890234868772195	8.847458391403846	3376745
+3377928	Theory	a note on tape-bounded complexity classes and linear context-free languages	1975	-8.011304845596383	8.4678855934135	3377955
+3379039	Theory	path systems and language recognition	1970	-7.761363436805213	8.754654966125704	3379066
+3380807	DB	deterministic deep pushdown transducer and its parallel version	2018	-7.276980715353536	8.497688616734234	3380834
+3382399	Theory	decidability of boundedness problems for minsky counter machines	2010	-7.671635566834557	8.585020746140374	3382426
+3383311	Logic	the maximum state complexity for finite languages	2004	-8.183547041290051	8.921680491177804	3383338
+3385050	Theory	linear-time version of holub's algorithm for morphic imprimitivity testing	2015	-8.02653021944357	9.022693955212448	3385077
+3386182	Logic	syntactic complexity of prefix-, suffix-, bifix-, and factor-free regular languages	2012	-7.462505024158918	8.463478576469718	3386209
+3388666	Logic	co-ing büchi made tight and useful	2009	-7.722156407353747	8.998184917471297	3388693
+3395473	DB	exponential output size of top-down tree transducers	1999	-7.49184349202696	8.649032120273432	3395500
+3395475	Theory	complexity bounds of constant-space quantum computation - (extended abstract)	2015	-7.657901872500055	8.967854893751891	3395502
+3396465	Theory	unary pushdown automata and straight-line programs	2014	-7.433498130526033	8.691452786576946	3396492
+3397176	Theory	on the probability of being synchronizable	2016	-7.8324165952005185	9.061534285711966	3397203
+3402402	EDA	toward the minimal universal petri net	2014	-7.7091108308063845	8.593687073796378	3402429
+3402718	Theory	equivalence classes of boolean functions for first-order correlation	2010	-8.194894343512013	9.303944672997023	3402745
+3403043	Theory	on the complexity of membership and counting in height-deterministic pushdown automata	2009	-7.418160718134737	8.719092178177082	3403070
+3403995	Logic	succinctness of regular expressions with interleaving, intersection and counting	2008	-7.325226354792918	8.77505581069515	3404022
+3406435	Theory	on nondeterminism in parallel computation	1986	-8.028555940933906	9.123257304049488	3406462
+3415088	Logic	minimal separating sets for acceptance conditions in muller automata	2000	-7.906908541437954	8.812827210059313	3415115
+3418374	Logic	converting two-way nondeterministic unary automata into simpler automata	2003	-7.629381662232935	8.821615733459387	3418401
+3420440	Theory	compressed membership in automata with compressed labels	2011	-8.008808938641085	9.117073025202352	3420467
+3421203	Logic	bisimilarity of one-counter processes is pspace-complete	2010	-7.365746501099413	8.642954191366714	3421230
+3421574	Theory	converting two-way nondeterministic unary automata into simpler automata	2001	-7.608670012974033	8.7392547927138	3421601
+3424504	Theory	word equations in nondeterministic linear space	2017	-7.391094696377811	8.61933148733067	3424531
+3430410	Theory	on relativizations of the p =? np question for several structures	2008	-7.989040151008048	8.450144438841605	3430437
+3433262	Theory	hierarchies and characterizations of stateless multicounter machines	2009	-7.5860908835187715	8.936497536884051	3433289
+3436205	Theory	a decision procedure for well-formed linear quantum cellular automata	1996	-7.864669985782897	8.41718286043952	3436232
+3439210	Logic	improved ramsey-based büchi complementation	2012	-7.8306474246263535	8.846116848820408	3439237
+3442156	Theory	relativizations of the p =? np question	1975	-7.766874474072561	8.562753998029622	3442183
+3442914	Logic	the average transition complexity of glushkov and partial derivative automata	2011	-7.8403069984757305	9.019226216004396	3442941
+3443304	Logic	polynomial vector addition systems with states	2018	-7.596754013270826	8.752198840249887	3443331
+3445253	ML	on variants of iterative learning	1998	-7.7736975347538255	8.462019561946258	3445280
+3447569	Theory	computing the edit distance of a regular language	2007	-7.774238924587003	8.936978779084454	3447596
+3448904	Theory	tight upper bounds for streett and parity complementation	2011	-7.806418975992603	8.889243326178631	3448931
+3452579	Logic	bisimulations over dlts in o(m.log n)-time	2013	-7.715804853961574	9.004228085177884	3452606
+3459703	Vision	a note on time-bounded bottom-up pyramid cellular acceptors	1990	-7.784272212049035	8.679541140823535	3459730
+3460399	Logic	the ranges of state complexities for complement, star, and reversal of regular languages	2014	-8.018812330609473	8.861001923672124	3460426
+3460505	Logic	locality from circuit lower bounds	2011	-8.080257565123048	8.808313545986671	3460532
+3463404	Theory	the reduction of two-way automata to one-way automata	1959	-7.5230163963272325	8.696706921315974	3463431
+3466971	Theory	uniform simulations of nondeterministic real time multitape turing machines	1987	-7.545689367064253	8.672702323866385	3466998
+3469737	Theory	alternating towers and piecewise testable separators	2014	-7.664567625733915	8.518120628796815	3469764
+3470092	Theory	descriptional complexity of two-way pushdown automata with restricted head reversals	2012	-7.420816392318318	8.875266592645417	3470119
+3470890	Theory	quantum versus probabilistic one-way finite automata with counter	2001	-8.112571050637486	8.955653474866041	3470917
+3472511	Theory	uncountable realtime probabilistic classes	2017	-7.92161432991585	8.747058640307047	3472538
+3474419	Theory	iterative arrays with limited nondeterministic communication cell	2000	-7.6168704663902655	9.043788906913475	3474446
+3476927	Logic	the synchronization problem for strongly transitive automata	2008	-7.708982438427538	8.752789627705809	3476954
+3477398	Theory	on algorithmic equivalence of instruction sequences for computing bit string functions	2015	-7.397832611457154	9.003977414905528	3477425
+3484140	Theory	infinite linear sequential machines	1968	-7.390736605656782	8.744591477871102	3484167
+3485508	Logic	the blowup in translating ltl to deterministic automata	2010	-7.341502199067918	8.777858183260355	3485535
+3486927	Theory	an efficient algorithm for constructing minimal cover automata for finite languages	2002	-7.449119137707187	8.785111629969222	3486954
+3493648	Logic	succint representation of regular languages by boolean automata	1981	-7.461938704223785	8.450863046382945	3493675
+3494607	Theory	the 4-way deterministic tiling problem is undecidable	2009	-8.040573573485172	8.550057033583776	3494634
+3495710	Logic	stateless one-way multi-head finite automata with pebbles	2014	-7.394203312994758	8.832661255072802	3495737
+3496558	Theory	on actl formulas having linear counterexamples	2001	-8.066103346333202	8.456270309251936	3496585
+3496630	Theory	constructing sets of functions which have a givenf-cardinality	1992	-8.16629134472052	8.488032773376823	3496657
+3499112	Logic	"""comments on """"on a new class of bounds on bayes' risk in multihypothesis pattern recognition"""""""	1975	-7.260018873505375	9.205794730237425	3499139
+3499509	Theory	attribute storage optimization by stacks	1990	-7.37781709391396	9.071830626474512	3499536
+3499756	Logic	generating small automata and the černý conjecture	2013	-7.738651921056192	8.888689442186552	3499783
+3501213	Theory	reset sequences for finite automata with application to design of parts orienters	1988	-7.764753506512082	9.146721947227418	3501240
+3501520	Theory	optimal 2dfa algorithms for one-way liveness on two and three symbols	2018	-7.772152478937602	8.896684648914981	3501547
+3506988	Theory	transition complexity of language operations	2006	-7.604035979530053	8.780169349323701	3507015
+3510516	Logic	solving automaton equations with distortions in the automaton transition function	2002	-7.664303850559733	8.425338557225334	3510543
+3510815	DB	bit-parallel algorithms for translating regular expressions into nfas	2007	-8.028619472607879	9.115334467057762	3510842
+3511500	Theory	some properties of zerotesting bounded one-way multicounter machines	1990	-7.905107165579706	8.85039057357432	3511527
+3512155	ECom	ordered term tree languages which are polynomial time inductively inferable from positive data	2006	-7.453754422474264	8.794659419642212	3512182
+3512223	NLP	bigger is not always better: on the quality of hypotheses in active automata learning	2014	-7.428407168286178	8.475691353611321	3512250
+3517645	Logic	minimal strings in a regular language with respect to a partial order on the alphabet	1991	-8.073611639472691	8.726842090223483	3517672
+3521390	Theory	dichotomization, reachability, and the forbidden subgraph problem (extended abstract)	1976	-7.352480983631612	8.495211801573394	3521417
+3522817	Theory	relative prefix distance between languages	2017	-8.03149661155955	8.606871117982351	3522844
+3523289	DB	a note on three-way two-dimensional alternating turing machines	1988	-7.998337301123086	8.863581624135389	3523316
+3523873	Theory	decidable and expressive classes of probabilistic automata	2019	-7.45221292274852	8.799225248250028	3523900
+3524033	Theory	approximating deterministic lattice automata	2012	-8.1363179958086	8.783788987889103	3524060
+3525116	Logic	on deterministic finite automata and syntactic monoid size	2004	-7.950789544925525	8.643626963206744	3525143
+3527320	Logic	prefix pushdown automata and their simplification	1999	-7.496319964221308	8.64351526367115	3527347
+3531288	Logic	partial orders on words, minimal elements of regular languages and state complexity	1993	-7.840481815172449	8.812453804768596	3531315
+3532670	Logic	state complexity of unary sv-xnfa with different acceptance conditions	2017	-7.809466500113153	8.446966634332348	3532697
+3533017	ML	teaching learners with restricted mind changes	2005	-8.153755638311717	8.515297646937917	3533044
+3533685	Theory	algorithms for the boundedness problem for minsky counter machines	2010	-7.8861865285619475	8.442197741403099	3533712
+3534334	Theory	difficulties in forcing fairness of polynomial time inductive inference	2009	-7.458075997531396	8.626800361558876	3534361
+3534562	Theory	frontiers of feasible and probabilistic feasible boolean manipulation with branching programs	1993	-8.029226099354581	9.357874820358976	3534589
+3534975	DB	the implication problem of computing policies	2015	-7.260887796268189	8.662994346851201	3535002
+3535458	Logic	the size-cost of boolean operations on constant height deterministic pushdown automata	2012	-7.804811821896743	8.914773890667005	3535485
+3535897	Theory	guest column: one-tape turing machine variants and language recognition	2015	-7.755261839847678	8.778759017515581	3535924
+3536871	Theory	state complexity approximation	2009	-7.7942927868296685	8.580035351970206	3536898
+3542441	Logic	hierarchical representations of discrete functions, with application to model checking	1994	-7.63863955304459	9.166123848353614	3542468
+3543731	Theory	on learning unions of pattern languages and tree patterns in the mistake bound model	2002	-7.7384696746183455	8.689052139357628	3543758
+3549440	Theory	alternating on-line turing machines with only universal states and small space bounds	1985	-7.931393498397474	8.705676436777868	3549467
+3550104	Theory	iterative learning from texts and counterexamples using additional information	2011	-7.883949342009661	8.577107210106824	3550131
+3552221	Theory	linear time simulation of multihead turing machines with head-to-head jumps	1977	-7.919698308920898	9.029430200326043	3552248
+3552396	Theory	measures of nondeterminism in finite automata	2000	-8.044732107263135	8.922429914537837	3552423
+3553668	ML	set-driven and rearrangement-independent learning of recursive languages	1996	-7.6359728670096025	8.462711406670069	3553695
+3555992	Logic	quantum pushdown automata with a garbage tape	2015	-7.768127749824133	8.902550939324954	3556019
+3557731	Logic	metric lexical analysis	1999	-7.2936627365027045	8.502216601711602	3557758
+3559552	Theory	information-theoretic incompleteness	1992	-7.7273062241281165	8.782394309776153	3559579
+3559962	AI	a region crossing problem for array-bounded automata	1976	-7.594836308454058	8.72144531519206	3559989
+3562229	Theory	a remark on two-dimensional finite automata	1980	-7.821265909977651	8.706640449445391	3562256
+3562791	Logic	inference of finite automata using homing sequences	1993	-7.614094747828499	8.845968639546376	3562818
+3564472	Theory	state hierarchy for one-way finite automata	2007	-7.564647067872115	8.495021686216793	3564499
+3567532	Vision	derivation of minimal sums for completely specified functions	1987	-7.314473545822308	9.315101053810436	3567559
+3568131	Theory	on the valuedness of finite transducers	1990	-7.570570176636933	8.468449769395232	3568158
+3568539	Theory	research report: state complexity of operations on two-way quantum finite automata	2008	-7.886282792640072	8.81701892570565	3568566
+3569305	Theory	dfas and pfas with long shortest synchronizing word length	2017	-7.943615922944818	9.016173117034931	3569332
+3574264	Theory	reachability and mortality problems for restricted hierarchical piecewise constant derivatives	2014	-7.661580227701348	8.430036796844439	3574291
+3581963	ECom	one-shot learners using negative counterexamples and nearest positive examples	2009	-7.633461798080384	8.440920254541451	3581990
+3583853	AI	phase transitions of bounded satisfiability problems	2003	-7.7051413145399295	8.641500138269885	3583880
+3585421	Logic	deciding probabilistic bisimilarity distance one for labelled markov chains	2018	-7.7212165271526825	8.900356016466551	3585448
+3585525	Theory	hardness results for intersection non-emptiness	2014	-8.17311600993792	8.937031114582535	3585552
+3586849	Logic	branching-time model checking of parametric one-counter automata	2012	-7.232215446855777	8.723661057902925	3586876
+3589363	Theory	parallel algorithms for finite automata problems	1998	-7.620866409193801	9.233329036484584	3589390
+3590367	Theory	aspace(o(log log n)) is regular	1993	-8.059938296201166	8.857118391318863	3590394
+3591401	Logic	the state complexities of some basic operations on regular languages	1994	-7.960862489929676	8.564527601035312	3591428
+3592416	Theory	a note on real-time one-way alternating multicounter machines	1991	-7.744715646031348	8.78150135001285	3592443
+3595762	Theory	on separating constant from polynomial ambiguity of finite automata	2006	-8.019465804662383	8.575430108988456	3595789
+3596229	Logic	some decision questions concerning the time complexity of language acceptors	2014	-7.834466755295456	8.894992801246485	3596256
+3596704	Theory	probabilistic verification of all languages	2018	-8.114700682220711	8.822535799885618	3596731
+3597437	Logic	synchronizing data words for register automata	2016	-7.5710744567129025	8.822570167652627	3597464
+3597833	Theory	the difference between one tape and two tapes: with respect to reversal complexity	1990	-8.141272040903564	8.818167194148891	3597860
+3599442	Theory	finite automata with multiset memory: a new characterization of chomsky hierarchy	2015	-7.53417182302531	8.483342920573001	3599469
+3599507	Theory	superdeterministic dpdas: the method for accepting does affect decision problems	1979	-7.368668686874407	8.651231207807024	3599534
+3601643	Theory	mergible states in large nfa	2005	-7.706111019332154	8.825480679104983	3601670
+3602995	Theory	two-dimensional alternating turing machines with only universal states	1982	-7.623600723055768	8.591300613131715	3603022
+3603066	Logic	synchronizations and general repetitive machines, with applications to ultimate definite automata	1969	-7.478600065337551	8.868980733484108	3603093
+3604165	Theory	word equations with two variables	1991	-8.01652048252052	8.437057044840099	3604192
+3605274	Theory	on the complexity of intersecting regular, context-free, and tree languages	2015	-7.862203691977101	8.807464251760226	3605301
+3606972	Theory	naive infinite enumeration of context-free languages in incremental polynomial time	2015	-7.238965109709848	8.919508382407672	3606999
+3607279	Theory	on two-way tree automata	1994	-7.295633244115013	8.658319099716838	3607306
+3610021	ML	learnability of automatic classes	2010	-7.647865211094666	8.446883044329017	3610048
+3610172	Theory	tours in machines and digraphs	1973	-7.993037453353381	8.887034519444837	3610199
+3610660	ECom	confident and consistent partial learning of recursive functions	2014	-7.9458714896955565	8.539687778156578	3610687
+3612016	Arch	iterative arrays with direct central control	1977	-7.869984651294403	9.004329246516432	3612043
+3613369	Theory	lower bounds on the size of sweeping automata	1980	-7.792327723825866	8.761201263750937	3613396
+3613471	Theory	the complexity of connectivity problems on context-free graph languages	1994	-7.400752516780613	8.412863705013446	3613498
+3617228	Logic	linear time universal coding of tree sources via fsm closure	2004	-7.6770532761526535	8.675929155699222	3617255
+3617588	Theory	time-space-optimal string matching	1981	-8.032672705072798	9.316171503300303	3617615
+3619832	Crypto	mirror images and schemes for the maximal complexity of nondeterminism	2012	-7.919878557725711	8.460566308657812	3619859
+3621395	Logic	new finite automaton constructions based on canonical derivatives	2000	-7.799074125391175	8.480571405914	3621422
+3623577	Comp.	optimal amnesic probabilistic automata or how to learn and classify proteins in linear time and space	2000	-7.497630807208071	9.34141283707519	3623604
+3625912	Theory	the dynamic descriptive complexity of k-clique	2017	-8.065216607284619	8.703828827653433	3625939
+3626756	Theory	some properties of space-bounded synchronized alternating turin machines with universal states only	1992	-7.829064183061547	8.655977761674439	3626783
+3627842	Theory	reset sequences for monotonic automata	1990	-7.780439552172528	9.144008012591	3627869
+3628166	Theory	compressed tree canonization	2015	-7.540651162393223	8.874499854098163	3628193
+3629098	Theory	decidability results on the existence of lookahead delegators for nfa	2013	-7.703888396153156	8.924215990027365	3629125
+3629181	Logic	tomorrow and all our yesterdays: mtl satisfiability over the integers	2008	-7.411339346665898	8.528330974546442	3629208
+3633114	Logic	a tree-height hierarchy of context-free languages	2007	-8.101159482579707	8.429473758050907	3633141
+3634570	Theory	the head hierarchy for oblivious finite automata with polynomial advice collapses	1998	-7.652951848549402	8.890470665077341	3634597
+3637997	Theory	real-time simulation of multihead tape units	1972	-7.925548745934982	9.185299258665921	3638024
+3640310	Theory	compressed membership problems revisited	2008	-7.507999113023359	8.848883895854948	3640337
+3640871	Theory	on the computational complexity of problems related to distinguishability sets	2015	-7.820766872218678	8.82622190567223	3640898
+3642093	Logic	nondeterministic descriptional complexity of regular languages	2003	-7.846930916669064	8.9570693424707	3642120
+3642246	Logic	automaticity: properties of a measure of descriptional complexity	1994	-7.873174124231896	8.807655664406779	3642273
+3642665	Logic	bisimilarity of pushdown automata is nonelementary	2013	-7.488987771666983	8.509761877216736	3642692
+3644221	Theory	toward tractable universal induction through recursive program learning	2015	-7.4377201613785	8.549311793650789	3644248
+3644409	Logic	an improved lower bound for the complementation of rabin automata	2009	-7.536392556439608	8.878897022181151	3644436
+3645157	Theory	reversal-bounded multipushdown machines	1974	-7.64582956788091	8.836144046822241	3645184
+3645567	Theory	languages with bounded multiparty communication complexity	2006	-7.943948901701957	8.654741318230746	3645594
+3648027	Theory	periodic representations and t-partitionable equivalents of sequential machines	1971	-7.987680555600883	8.668465852433508	3648054
+3648700	Theory	the complexity of probabilistic versus quantum finite automata	2002	-8.066752604539767	8.857170883651591	3648727
+3649902	Theory	on the state and computational complexity of the reverse of acyclic minimal dfas	2012	-7.768059899552998	8.793534235663438	3649929
+3649972	ML	aspects of complexity of conservative probabilistic learning	1998	-8.089394620910433	8.548894716982659	3649999
+3654859	Logic	building the minimal automaton of a*x in linear time, when x is of bounded cardinality	2010	-8.17307715478626	8.746278736100178	3654886
+3655899	DB	some subclasses of context-free languages in nc1	1988	-7.468664407293098	8.45841835245126	3655926
+3657371	Theory	a survey on fooling sets as effective tools for lower bounds on nondeterministic complexity	2018	-7.8278956209215895	8.932578749564591	3657398
+3657635	Logic	finite automata and unary languages	1986	-7.692347056671138	8.536797660301996	3657662
+3657845	AI	parameterizing by the number of numbers	2011	-7.738757645937746	8.941652014400843	3657872
+3658313	Theory	bounded monotone recursion and multihead automata	2013	-7.620084147326843	8.574414117743226	3658340
+3659186	AI	learning from recursive, tree structured examples	1994	-7.547203011514638	8.668971080618634	3659213
+3662917	HPC	mechanisms for pattern generation	1993	-7.398373004189433	8.486980087498555	3662944
+3663248	Theory	block insertion and deletion on trajectories	2011	-7.4280696511719775	8.617628599990166	3663275
+3663412	Theory	uniform random generation of strings in a context-free language	1983	-7.670651459885744	9.057740717032061	3663439
+3666492	Logic	on functions weakly computable by petri nets and vector addition systems	2014	-7.559756011756742	8.41284488468235	3666519
+3666940	Logic	counting logics and games with counters	2015	-7.7507081573874475	8.821944461635535	3666967
+3667041	Logic	realizations by stochastic finite automata	1971	-7.341839730435367	8.453341058583545	3667068
+3667772	Theory	on the complexity of hopcroft's state minimization algorithm	2004	-7.972982340398039	8.763269189753894	3667799
+3671645	Logic	modulo counting on words and trees	2017	-7.768689360689047	8.449313384578703	3671672
+3672931	Theory	finite automata, real time processes and counting problems in bounded arithmetics	1988	-7.758357444422393	8.714356013981007	3672958
+3674141	NLP	iterative learning from texts and counterexamples using additional information	2009	-7.788131039104152	8.552412264129746	3674168
+3674506	Logic	towards a theory of good sat representations	2012	-8.118361140488629	8.99989859148037	3674533
+3674614	Theory	solving classical string problems an compressed texts	2006	-8.05367483546232	9.329123682981573	3674641
+3675078	PL	implementation of state elimination using heuristics	2009	-7.422337226260014	9.142738038066144	3675105
+3675899	Theory	determinism, nondeterminism, alternation, and counting	2001	-7.980631263614195	8.92724901233842	3675926
+3676178	NLP	economy of descriptions by parsers, dpda's, and pda's	1975	-7.573521985797412	8.968228814890644	3676205
+3676630	Theory	reversible multi-head finite automata characterize reversible logarithmic space	2012	-7.963806834164165	8.818578787721746	3676657
+3679049	Theory	on the power of different types of restricted branching programs	1994	-7.938633802416339	9.164738270379598	3679076
+3682486	Theory	exactly learning automata with small cover time	1995	-7.721795733516148	8.658987802956085	3682513
+3684773	Theory	probabilistic and nondeterministic unary automata	2003	-7.794145512790456	8.827777358930385	3684800
+3685043	Theory	bisimulation equivalence of a bpp and a finite-state system can be decided in polynomial time	2005	-7.403881609528071	8.654017486561827	3685070
+3686080	Theory	global data flow analysis and iterative algorithms	1976	-8.145730560329303	9.311290840913083	3686107
+3687979	NLP	navigability with bounded recall	2018	-7.669247335066973	8.42341464378035	3688006
+3689262	Embedded	the sensing cost of monitoring and synthesis	2015	-7.260272264327407	8.675582539638777	3689289
+3694138	EDA	canonical multi-target toffoli circuits	2016	-7.706745474431587	9.04275878281839	3694165
+3695488	Theory	towards separating nondeterminism from determinism	1984	-7.89490925236424	8.767631895631423	3695515
+3697222	Logic	karp-miller trees for a branching extension of vass	2005	-7.264064587163269	8.50186274689985	3697249
+3697596	Logic	remarks on the complexity of nondeterministic counter languages	1976	-7.942720687925389	8.982333391066497	3697623
+3701663	DB	a randomised inference algorithm for regular tree languages	2011	-7.621881424881617	8.51402253798844	3701690
+3702894	Arch	the inhibition of potential parallelism by conditional jumps	1972	-7.284182843554003	8.969800478575685	3702921
+3708968	Theory	learning context free grammars in the limit aided by the sample distribution	2003	-7.442545018355171	8.458980078415276	3708995
+3710042	Logic	a note on non-closure property of sublogarithmic space-bounded 1-inkdot alternating pushdown automata with only existential (universal) states	2006	-7.682240969819452	8.777702974946424	3710069
+3710531	PL	queueing and glueing for optimal partitioning (functional pearl)	2016	-8.054748627633584	9.327378521466082	3710558
+3710583	Theory	a note on two-way nondeterministic pushdown automata	1982	-7.851153043757495	8.923650229030896	3710610
+3712695	AI	a fast storage allocator	1965	-7.5044543794463525	9.112945212965421	3712722
+3715422	Logic	learning behaviors of automata from multiplicity and equivalence queries	1994	-7.81899357282267	8.780382466310153	3715449
+3717826	Logic	minimal cover-automata for finite languages	2001	-7.336521825786778	8.458669365409373	3717853
+3717965	Logic	minimization of counterexamples in spin	2004	-8.173611165474853	8.996600020751115	3717992
+3717967	Theory	automaticity iii: polynomial automaticity and context-free languages	1998	-8.014035808996537	8.860956508630322	3717994
+3720294	Logic	sublogarithmic space-bounded multi-inkdot alternating pushdown automata with only existential (universal) states	2009	-7.740031895392242	8.790771426473661	3720321
+3722342	Theory	queue automata of constant length	2013	-7.53635458398287	8.881047096865865	3722369
+3723289	Theory	iterative learning of simple external contextual languages	2008	-7.5074419344207275	8.435035030481608	3723316
+3724159	Theory	contextual insertions/deletions and computability	1996	-7.3228746698859135	8.572791858827053	3724186
+3725173	Theory	the equivalence problem for deterministic two-way sequential transducers is decidable	1982	-7.551867844396063	8.702790950902902	3725200
+3727196	Theory	incomplete transition complexity of some basic operations	2013	-8.02854549252671	8.627780983008787	3727223
+3727640	Theory	fooling a two-way nondeterministic multihead automaton with reversal number restriction	1985	-7.742008441635416	8.792170080211022	3727667
+3727970	Theory	r70-1 a note on computing time for the recognition of context- free languages by a single-tape turing machine	1970	-7.644448462180991	8.424836776321332	3727997
+3728931	Logic	on a class of timer hybrid systems reducible to finite state automata	1995	-7.60493175059913	8.89619885847049	3728958
+3734451	Logic	characterizing unambiguous augmented pushdown automata by circuits	1990	-7.545165485966573	8.69529316827546	3734478
+3734553	PL	computing the longest common prefix of a context-free language in polynomial time	2018	-7.547024934163457	8.451447150883906	3734580
+3734828	Logic	incremental and semi-incremental construction of pseudo-minimal automata	2005	-7.243173656240456	8.530322342054008	3734855
+3737168	Theory	a compositional approach to synchronize two dimensional networks of processors	2000	-7.750068834634592	8.99932195833066	3737195
+3739573	AI	learning of event-recording automata	2004	-7.400923737411187	8.692859285958455	3739600
+3739806	EDA	finite nondeterminism vs. dfas with multiple initial states	2013	-7.681223168187399	8.881837439149324	3739833
+3741191	Theory	size lower bounds for quantum automata	2013	-7.7594028508888595	8.945665259657565	3741218
+3742863	Theory	complexity bounds of constant-space quantum computation	2016	-7.633502857371424	8.962318521786962	3742890
+3742919	Theory	undecidability on quantum finite automata	1999	-7.634900859863577	8.630223216104238	3742946
+3744438	Logic	on transition minimality of bideterministic automata	2008	-7.415997171757042	8.457481350162011	3744465
+3745003	DB	string matching with simple devices	2007	-8.111032143881223	8.88616693747441	3745030
+3745797	ECom	on the analysis of sequential machines	1958	-7.257407292556019	9.208808633175368	3745824
+3746652	Logic	ehrenfeucht-fraïssé games on random structures	2009	-8.088804690791298	8.808504378384331	3746679
+3748827	ML	learning branches and learning to win closed games	1996	-7.6617322358634325	8.462877036694076	3748854
+3749490	Theory	some bounds on the storage requirements of sequential machines and turing machines	1967	-7.953983480176939	9.09752588941923	3749517
+3750686	Theory	optimal simulation of two-dimensional alternating finite automata by three-way nondeterministic turing machines	1995	-8.121247415726378	9.033636757382727	3750713
+3751066	DB	a note on one-pebble two-dimensional turing machines	2004	-7.9645712648165174	8.92858367452932	3751093
+3753882	Theory	synchronizing automata with random inputs	2014	-7.776208609984278	8.68784785570209	3753909
+3755834	Theory	an effective simulation of deterministic pushdown automata with many two-way and one-way heads	1981	-8.00471215895315	9.231770800667755	3755861
+3756281	Theory	parametric random generation of deterministic tree automata	2010	-7.452610242128805	8.765820652329719	3756308
+3756619	NLP	closure of language classes under bounded duplication	2006	-7.687501251810201	8.492950504161433	3756646
+3756994	Logic	reachability analysis for some models of infinite-state transition systems	2000	-7.411756020081537	8.912473489147736	3757021
+3758997	Logic	automata with modulo counters and nondeterministic counter bounds	2012	-7.287206905426772	8.640818489687941	3759024
+3761270	PL	off-line and on-line algorithms for deducing equalities	1978	-7.97910748154866	8.733277850463978	3761297
+3761772	Theory	ordered term tree languages which are polynomial time inductively inferable from positive data	2002	-7.4589692047952125	8.78270197108688	3761799
+3763437	Logic	on the number of binary-minded individuals required to compute sqrt(1/2)	2011	-7.54838964588716	9.150783509218604	3763464
+3764790	Theory	homomorphisms between stochastic sequential machines and related problems	1968	-7.732439650859747	8.818150996868138	3764817
+3765012	Theory	an efficient incremental dfa minimization algorithm	2003	-7.300476293509959	9.193469518361493	3765039
+3765545	Theory	finite state verifiers i: the power of interaction	1992	-7.913827540875789	9.138243970232699	3765572
+3767519	Logic	on the complexity of deciding fair termination of probabilistic concurrent finite-state programs	1988	-7.539425891758858	8.985870018949836	3767546
+3770572	Logic	state complexity of nested word automata	2009	-7.587926030492881	8.530283958989251	3770599
+3773829	Theory	complexity of preimage problems for deterministic finite automata	2018	-7.780748455855122	8.8943617293741	3773856
+3775097	Logic	computing optimal reachability costs in priced dense-timed pushdown automata	2014	-7.433586204362433	8.66806043690747	3775124
+3778685	Logic	nonclosure property of nondeterministic two-dimensional finite automata under cyclic closure	1980	-7.741285496509444	8.430737931546043	3778712
+3779864	SE	cheap and small counterexamples	2008	-7.741712032127287	9.354600692160274	3779891
+3781925	Theory	computation with absolutely no space overhead	2003	-7.852867425538419	8.993429788664939	3781952
+3784491	NLP	universal reversible turing machines with a small number of tape symbols	2015	-7.936902153247413	8.475302329224991	3784518
+3787515	Logic	efficient algorithms for testing the twins property	2003	-7.3130802614187935	8.706978273224516	3787542
+3788219	NLP	omega-regular half-positional winning conditions	2007	-7.308117824939686	8.493559279405536	3788246
+3788279	Theory	how to use sorting procedures to minimize dfa	1996	-7.949865253744277	9.038500346695963	3788306
+3788443	Logic	state complexity of deletion	2014	-7.97024964362172	8.926878844305142	3788470
+3788609	Robotics	enumeration of reachable, forbidden, live, and deadlock states of bottom k-th order system (with a left side non-sharing resource place) of petri nets	2014	-7.620027665670378	9.102935023483841	3788636
+3791020	PL	on the complexity of the correctness problem for non-zeroness test instruction sequences	2018	-8.188344881781648	8.542775267544997	3791047
+3793411	ECom	using acceptors as transducers	2001	-7.733616033187755	8.624280742516271	3793438
+3794801	PL	linear control flow analysis	1992	-7.3766563807990515	9.309352214442953	3794828
+3795766	Theory	verifying whether one-tape turing machines run in linear time	2015	-7.775250524474338	8.85867142232838	3795793
+3798590	Theory	three-way two-dimensional finite automata with rotated inputs	1986	-7.924753427157543	8.779788727248745	3798617
+3798649	Logic	nondeterministic state complexity of basic operations for prefix-free regular languages	2009	-7.612972287962247	8.678858904007637	3798676
+3798674	ECom	reducing the time complexity of testing for local threshold testability	2004	-7.764488888361014	8.926187560187035	3798701
+3799000	Theory	bounded-reversal multihead finite automata languages	1974	-7.7880099213293335	8.856589925846976	3799027
+3800274	Logic	determinizing discounted-sum automata	2011	-7.844522931393184	8.665953363526482	3800301
+3802283	Logic	safe turing machines, grzegorczyk classes and polytime	1996	-7.29085228180188	8.42758561773044	3802310
+3803637	Theory	languages recognized with unbounded error by quantum finite automata	2009	-7.678402027021551	8.750458742142083	3803664
+3807037	Logic	on the determinization of weighted finite automata	1998	-7.786142539792778	9.145380368735793	3807064
+3808480	Logic	equational logic	1968	-7.642829450352924	9.364990707259622	3808507
+3808666	Theory	an improved bound for checking experiments that use simple input-output and characterizing sequences	1975	-7.550507793957472	9.20967056412891	3808693
+3808950	Logic	uniform random sampling of traces in very large models	2006	-7.669252551196166	8.461751376398176	3808977
+3809735	Theory	nondeterminism and the size of two way finite automata	1978	-8.18716656333271	8.556300437601866	3809762
+3811963	Theory	making nondeterminism unambiguous	2000	-8.032178265481495	8.456136142788083	3811990
+3812315	Logic	information rate of some classes of non-regular languages: an automata-theoretic approach	2017	-7.892944341150849	8.883083387115969	3812342
+3816281	Logic	on languages accepted by p/t systems composed of joins	2009	-7.369297847150795	8.505622552798345	3816308
+3817031	Theory	some combinatorial game problems require omega(nk) time	1984	-7.935172619629961	8.900529601526364	3817058
+3817061	Theory	some remarks on lower bounds for queues machines (preliminary report)	2013	-7.412156995558224	8.51317576202793	3817088
+3821125	Logic	pushdown automata with bounded nondeterminism and bounded anbiguity	1995	-7.341389532012405	8.855856659095107	3821152
+3823215	Theory	decision algorithms for havel's branching automata	1975	-7.681794489476582	8.447106268353838	3823242
+3825136	Logic	on the complexity of existential positive queries	2014	-8.153964973512295	8.977437091232222	3825163
+3833978	Theory	generation of primes by a one-dimensional real-time iterative array	1965	-8.189449741694972	9.094796851016426	3834005
+3837336	Logic	unambiguous finite automata over a unary alphabet	2012	-7.739541811092723	8.868501817567056	3837363
+3838679	Logic	channel synthesis for finite transducers	2011	-7.361875715491301	8.709211865942793	3838706
+3840433	Theory	the complexity of universal text-learners	1999	-7.32287922599404	8.443420816315662	3840460
+3841516	PL	an improved recursive algorithm for parity games	2014	-7.519094938084858	9.114890999919544	3841543
+3849252	Theory	space bounds for processing contentless inputs	1975	-8.01086234746972	8.84318988449443	3849279
+3850042	Theory	weak factor automata: comparing (failure) oracles and storacles	2013	-8.022983220443843	9.252632762370153	3850069
+3850207	Vision	the realization of finite state machines by decomposition and the principal lattice of partitions of a submodular function	2003	-7.551517272851044	8.824021250082833	3850234
+3851786	Theory	learning one-variable pattern languages in linear average time	1998	-8.074919714921503	8.624772684375081	3851813
+3852037	Theory	the complexity of finding reset words in finite automata	2010	-7.9312442907384195	8.960515179853694	3852064
+3852539	Logic	kth-order finite automaton	1964	-7.57841126115158	8.5222010817962	3852566
+3855990	Theory	equivalences between probalistic and deterministic sequential machines	1966	-7.462949317662463	8.681506842387282	3856017
+3857719	ECom	reversal-bounded nondeterministic multicounter machines and complementation	1987	-8.153612636311026	8.575574355622049	3857746
+3858390	Theory	on the acceptance power of regular languages	1994	-7.933846435623097	8.589338913180889	3858417
+3858796	Theory	remarks on sorting and one-way multihead finite automata	1990	-7.7067339244519975	8.467905041043995	3858823
+3858958	Theory	alternating turing machines with modified accepting structure	1991	-7.670701932566812	8.821091353978408	3858985
+3862370	Logic	one-way jumping finite automata	2016	-7.361988545882872	8.678543439471643	3862397
+3862415	Theory	on the power of alternation on reversal-bounded alternating turing machines with a restriction	1997	-7.941455546442662	9.037783912114133	3862442
+3865082	Crypto	parikh images of regular languages: complexity and applications	2010	-7.895714111604173	8.851221310476047	3865109
+3866365	Theory	the complexity of computing the behaviour of lattice automata on infinite trees	2014	-7.7803028713480975	8.698329815065836	3866392
+3866604	Theory	closure property of space-bounded two-dimensional alternating turing machines, pushdown automata, and counter automata	2001	-7.907832449794519	8.881235316229029	3866631
+3867353	Theory	a generalization of girod's bidirectional decoding method to codes with a finite deciphering delay	2015	-7.975815268562565	8.977561806901045	3867380
+3867969	Logic	synchronizing automata with finitely many minimal synchronizing words	2011	-7.559652271519242	8.749418657948114	3867996
+3869407	Theory	note on tape reversal complexity of languages	1970	-7.800968858586276	8.830868950811789	3869434
+3870825	Theory	minimum times and memories needed to compute the values of a function	1974	-7.711834733829349	9.150235709813602	3870852
+3873733	Logic	how to synchronize the heads of a multitape automaton	2013	-7.485799371666537	8.818011860151758	3873760
+3875469	Logic	an introduction to finite automata and their connection to logic	2012	-7.447014618002131	8.685983938089933	3875496
+3879928	Theory	bounds for the quantifier depth in two-variable logic	2012	-8.025410461481293	8.614220560818458	3879955
+3882463	Theory	the alternation hierarchy for sublogarithmic space is infinite	1993	-8.12119416818107	8.795153279389629	3882490
+3885414	Theory	non-trivial unary languages recognized by two-way one-counter machines	2013	-7.913788138414693	8.858093894674537	3885441
+3886553	Theory	membership testing: removing extra stacks from multi-stack pushdown automata	2009	-7.376360679668458	8.667408032614302	3886580
+3887857	Theory	learning of finite unions of tree patterns with internal structured variables from queries	2008	-7.35250972274277	8.732452784320817	3887884
+3890040	Theory	on reversal-bounded counter machines and on pushdown automata with a bound on the size of their pushdown store	1982	-8.001405340748914	9.015008030139944	3890067
+3890923	Logic	state complexity of the subword closure operation with applications to dna coding	2008	-7.893346048778202	8.635293865957648	3890950
+3892247	Theory	learning of finite unions of tree patterns with internal structured variables from queries	2002	-7.412434611180255	8.747500166395007	3892274
+3895741	Logic	state complexity of the concatenation of regular tree languages	2012	-7.48744522309288	8.797472342384985	3895768
+3896567	ECom	unit-cost pointers versus logarithmic-cost addresses	1994	-7.59774509241654	9.326229627396794	3896594
+3896762	Theory	k + 1 heads are better than k	1976	-7.690072777384566	8.55844481395558	3896789
+3898255	AI	an automata-based recognition algorithm for semi-extended regular expressions	2000	-7.752143687662446	9.345845010009551	3898282
+3899005	Theory	restricted turing machines and language recognition	2016	-7.927236445431109	8.688928306025097	3899032
+3899180	PL	fly-automata for checking mso 2 graph properties	2018	-7.457670405869142	8.838158492905473	3899207
+3901854	Theory	the f-snapshot problem	2016	-8.096456631187769	9.260714641817716	3901881
+3902034	Logic	determination of finite automata accepting subregular languages	2009	-7.812792475432037	9.001957475771661	3902061
+3902265	Theory	visits, crosses, and reversals for nondeterministic off-line machines	1978	-7.900025687493975	9.072404116960444	3902292
+3902791	Theory	finding short synchronizing words for prefix codes	2018	-8.118131556760481	8.766239378201371	3902818
+3904872	Logic	graph reachability and pebble automata over infinite alphabets	2009	-7.979169013207282	8.613272616918032	3904899
+3908410	EDA	okfdds versus obdds and ofdds	1995	-8.152303549997633	9.069070493663627	3908437
+3911916	ECom	probabilistic language learning under monotonicity constraints	1997	-7.541278811979902	8.487060597453985	3911943
+3913876	Logic	further closure properties of input-driven pushdown automata	2018	-7.883436724876058	8.734268011502014	3913903
+3914638	Theory	pushdown automata with reversal-bounded counters	1988	-7.872927971144012	8.988081239285087	3914665
+3915131	Security	towards differential privacy for symbolic systems	2018	-8.106491120601806	8.928482778737918	3915158
+3918797	Theory	efficient stepwise selection in decomposable models	2001	-7.282618485984327	9.339164841534224	3918824
+3918834	ML	replacing limit learners with equally powerful one-shot query learners	2004	-7.667012564414139	8.474089142510921	3918861
+3919048	Theory	deterministic set automata	2014	-7.46956580703022	8.73731246312907	3919075
+3920050	Theory	büchi complementation made tight	2009	-7.688841573804829	8.937524363737667	3920077
+3920178	Theory	minimization of automata	1990	-7.401403361778691	8.856655582968386	3920205
+3922638	Theory	multiple-person alternation	1979	-7.538990320949877	8.511073931139029	3922665
+3924245	Theory	a linear-time algorithm for the orbit problem over cyclic groups	2015	-8.19255507992991	8.849603282730175	3924272
+3925846	Logic	oblivious two-way finite automata: decidability and complexity	2014	-7.89190117921753	9.050912268393516	3925873
+3926355	Logic	the complexity of a counting finite-state automaton	1988	-7.759528886468152	8.971096992134251	3926382
+3926474	Logic	two-dimensional automata with rotated inputs	1980	-7.822609870382802	8.787993057708187	3926501
+3934955	Theory	strong inapproximability of the shortest reset word	2015	-8.060419754125125	9.065672747513727	3934982
+3937975	Logic	flip-pushdown automata: nondeterministic ε-moves can be removed	2011	-7.9718933771782465	8.457939091085157	3938002
+3939156	Theory	jumping finite automata: characterizations and complexity	2015	-7.4620928541382625	8.561520398662827	3939183
+3939400	Logic	average analysis of glushkov automata under a bst-like model	2010	-7.763528738883183	8.762485443374024	3939427
+3940516	Logic	most complex non-returning regular languages	2017	-7.967427023251685	8.502560170318516	3940543
+3940891	Theory	non-erasing turing machines: a new frontier between a decidable halting problem and universality	1995	-7.638218450457544	8.412441455616133	3940918
+3942848	Theory	nondeterminism in the presence of a diverse or unknown future	2013	-7.386759559483428	8.676811796361976	3942875
+3945205	Theory	on small space complexity classes of stochastic turing machines and arthur-merlin-games	1999	-8.102659516790595	8.927527508371591	3945232
+3945437	Theory	vacillatory learning of nearly minimal size grammars	1994	-7.995721353300555	8.536007167664614	3945464
+3945911	Theory	on fixable families of boolean networks	2018	-7.791921806562755	8.857175579767858	3945938
+3946380	Theory	checking determinism of regular expressions with counting	2012	-7.307719853858688	8.711314224636201	3946407
+3952156	Theory	on reversal bounded alternating turing machines	1987	-7.9058067137390005	8.88406817438747	3952183
+3952417	Theory	uncountable classical and quantum complexity classes	2016	-7.867537275636362	8.959385620196063	3952444
+3952442	Theory	a polynomial algorithm for deciding bisimilarity of normed context-free processes	1996	-7.9736399192363026	8.450789888721818	3952469
+3954039	Logic	some fundamental properties of multiple-valued kleenean functions and determination of their logic formulas	1993	-7.364099878362495	9.343708134109873	3954066
+3954592	Logic	state complexity of kleene-star operations on regular tree languages	2015	-7.873576820299674	9.034174234639599	3954619
+3954640	Logic	synchronizing automata and the language of minimal reset words	2017	-7.7340403032331855	8.912523315676808	3954667
+3955274	Theory	on families of languages defined by time-bounded random access machines	1973	-7.969931654940049	9.07955175140742	3955301
+3956080	Theory	power of interconnections and of nondeterminism in regulary-tree systolic automata	1995	-7.5670053025495525	8.711813863479994	3956107
+3956227	Theory	state complexity of reversals of deterministic finite automata with output	2018	-8.009213974432946	8.941799887961777	3956254
+3956396	Theory	detecting patterns in finite regular and context-free languages	2010	-7.736915013698544	8.427905605895491	3956423
+3960836	Theory	state complexity of unambiguous operations on deterministic finite automata	2018	-7.878366802223249	8.638448254268189	3960863
+3963783	Logic	termination of linear bounded term rewriting systems	2010	-7.24201423908568	8.46959694145134	3963810
+3964754	Theory	pushing for weighted tree automata	2018	-7.551728315274192	8.93837665235563	3964781
+3966626	Theory	pushdown automata with bounded nondeterminism and bounded ambiguity	1997	-7.30533831038613	8.842849837955363	3966653
+3972779	Logic	the complexity of deciding code and monoid properties for regular sets	1992	-7.890759561890556	8.738599384963152	3972806
+3973767	SE	empirical studies in the size of diagnosers and verifiers for diagnosability analysis	2017	-8.045153277131895	9.212841905403007	3973794
+3977235	Theory	space and reversal complexity of probabilistic one-way turing machines	1983	-8.045794001972395	8.745033746775578	3977262
+3978421	Theory	time-restricted sequence generation	1970	-7.894681343628515	8.712320021552094	3978448
+3978564	Robotics	boundedness, empty channel detection and synchronization for communicating finite state machines	1985	-7.2544330681516	8.831408189023154	3978591
+3979156	Theory	counting minimal symmetric difference nfas	2013	-8.04860383155794	8.681777710669804	3979183
+3981024	Logic	on selective unboundedness of vass	2013	-7.553733717214677	8.825385887372823	3981051
+3983351	Theory	constant leaf-size hierarchy of two-dimensional alternating turing machines	1994	-8.195015333821019	8.995764043159216	3983378
+3983573	EDA	method for solving logic equation set consist of zero-one non-zero and non-one type logic equation	2010	-7.5239628055745715	9.30858683857853	3983600
+3984194	Theory	switching graphs	2009	-7.760190344373269	9.063058764129217	3984221
+3989755	Logic	k-detectability in discrete event systems	2016	-7.917067438331585	8.592232879310531	3989782
+3989941	Theory	time/space trade-offs for reversible computation	1989	-7.855487774636997	9.035894710035928	3989968
+3991142	Theory	on the finite-valuedness problem for sequential machines	1983	-8.03934278251945	8.724692599726701	3991169
+3991891	Theory	the derivation of on-line algorithms, with an application to finding palindromes	1994	-8.067048295285304	8.867472444677077	3991918
+3992360	Logic	structural presburger digit vector automata	2008	-7.494738206017967	8.478000634914936	3992387
+3992450	ECom	finite-automaton aperiodicity is pspace-complete	1991	-8.001715050367357	8.564347705439973	3992477
+3995474	Logic	synchronizing automata preserving a chain of partial orders	2007	-7.457560935198517	8.755280511987934	3995501
+3995909	Logic	fast synchronization of random automata	2016	-7.962179086876312	8.967937166275014	3995936
+3997070	Theory	on pointers versus addresses (extended abstract)	1988	-7.7273022777585485	8.417924243789036	3997097
+3998098	Logic	narrowing down the hardness barrier of synthesizing elementary net systems	2018	-7.296170986368629	8.882326783298346	3998125
+3999298	Theory	converting nondeterministic automata and context-free grammars into parikh equivalent one-way and two-way deterministic automata	2013	-7.487005638643381	8.697701150785031	3999325
+4003243	PL	upper bounds for speedup in parallel parsing	1982	-7.2348979290344815	9.194927201121864	4003270
+4011523	Theory	partitioning a graph in o(|a| log2 |v|)	1982	-7.865320642902223	8.814960925383858	4011550
+4012858	Theory	nondeterminism is essential in small two-way finite automata with few reversals	2013	-7.7170001200115665	8.716704827909929	4012885
+4014078	Logic	state complexity of concatenation and complementation of regular languages	2004	-7.737702110064943	8.802591394763878	4014105
+4014314	SE	implied constraints for automaton constraints	2015	-7.418773183913008	8.45406121044275	4014341
+4015368	Theory	distance automata having large finite distance or finite ambiguity	1993	-7.89352408692903	8.707633653687727	4015395
+4016686	Theory	bounded pushdown dimension vs lempel ziv information density	2007	-7.494913195929973	8.750959867248826	4016713
+4017057	Theory	hyper-minimization in o(n2)	2009	-7.8880752625219985	8.661146939412964	4017084
+4017104	Theory	multihead two-way probabilistic finite automata	1997	-7.747971690952062	8.894568552408273	4017131
+4018105	Theory	polynomial time learning of simple deterministic languages via queries and a representative sample	2004	-7.514119028696308	8.620238526589564	4018132
+4018913	Theory	a note on three-dimensional alternating turing machines with space smaller than log m	1993	-8.130629090971317	8.996541018702072	4018940
+4022265	Logic	r70-23 multi-tape and multi-head pushdown automata	1970	-7.6784630167120715	8.520916660125785	4022292
+4023965	Theory	two decidability results for deterministic pushdown automata	1977	-7.264150857290982	8.503662166926032	4023992
+4026207	Theory	lower bounds on the size of quantum automata accepting unary languages	2003	-7.902225753319089	8.702563192061652	4026234
+4027092	Arch	on shift-register realizations of sequential machines and finite-state universal sequential machines	1968	-7.310088485990748	9.2970991326067	4027119
+4027743	Theory	tree-size bounded alternation	1979	-7.815421428523337	8.861873599008009	4027770
+4028988	Logic	input-driven queue automata: finite turns, decidability, and closure properties	2013	-7.4845467560694905	8.665272702710494	4029015
+4029670	Theory	linear-time version of holub's algorithm for morphic imprimitivity testing	2013	-7.98594584701828	9.041242181664382	4029697
+4031663	Theory	the smallest fssp partial solutions for one-dimensional ring cellular automata: symmetric and asymmetric synchronizers	2018	-7.9194542774057135	8.977836864960414	4031690
+4033215	Theory	state complexity of operations on two-way deterministic finite automata over a unary alphabet	2011	-7.890444552514389	8.825865171591243	4033242
+4033510	Logic	special tree-width and the verification of monadic second-order graph pr operties	2010	-7.3937191548973855	8.506893487099283	4033537
+4034409	DB	a note on deterministic three-way tape-bounded two-dimensional turing machines	1980	-7.855438197650976	8.512203374041022	4034436
+4034617	Theory	on some decision problems for stateless deterministic ordered restarting automata	2015	-7.462635413333957	8.883230380651204	4034644
+4036379	Logic	real numbers and bdds	2002	-7.485456236236263	9.301020339469565	4036406
+4038593	Embedded	a note on realtime one-way synchronized alternating one-counter automata	1993	-7.768561000356701	8.64405081026279	4038620
+4041018	Logic	petri nets with time windows: a comparison to classical petri nets	2009	-7.4591699096825455	8.754358604764949	4041045
+4041235	NLP	on bounded semilinear languages, counter machines, and finite-index et0l	2016	-7.349431302512387	8.628384273898384	4041262
+4043747	Theory	implicit complexity over an arbitrary structure: sequential and parallel polynomial time	2005	-8.001654934348794	8.415107886867824	4043774
+4044862	Theory	a simple way to construct nfa with fewer states and transitions	2004	-7.686163142509384	9.347376762475477	4044889
+4044924	Theory	a framework for succinct labeled ordinal trees over large alphabets	2014	-8.185796053843267	9.248667847060432	4044951
+4046155	Logic	vector sequence analysis and full weak safety for concurrent systems	1993	-7.481205366230704	8.668867180469901	4046182
+4050218	Logic	the cost of being co-buchi is nonlinear	2009	-7.554491741066449	8.841623652381259	4050245
+4050524	ML	towards the existential control of boolean networks: a preliminary report	2018	-7.307429713951322	8.727964283036302	4050551
+4052602	Theory	on the linearity of sequential machines	1966	-7.3253827164869865	9.276540884261331	4052629
+4055826	Theory	deterministic one-way turing machines with sublinear space bounds	2013	-8.081346782130963	8.945241850990064	4055853
+4056466	Theory	hierarchy and equivalence of multi-letter quantum finite automata	2009	-8.057251348167492	8.482669583899646	4056493
+4056944	Theory	on the computational power of pushdown automata	1970	-7.740322962316923	8.789694141149791	4056971
+4057341	Theory	characterizations of logarithmic advice complexity classes	1992	-8.082425096244572	8.670873358733509	4057368
+4057547	Theory	on the complexity of intersecting finite state automata and n l versus n p	2003	-7.703695543519605	8.78131735107233	4057574
+4059499	Theory	exactly learning automata of small cover time	1997	-7.82446652870561	8.646217275751173	4059526
+4060705	Theory	non-closure properties of 1-inkdot nondeterministic turing machines and alternating turing machines with only universal states using small space	2010	-7.58382876749845	8.6885203988168	4060732
+4061296	Theory	investigations on the power of matrix insertion-deletion systems with small sizes	2017	-7.665149517660271	8.604373349841614	4061323
+4065394	ML	finite automata	2005	-7.892327192621955	8.822004729367743	4065421
+4071600	Theory	theory of one-tape linear-time turing machines	2010	-8.0454271031827	8.863941933852526	4071627
+4072264	Theory	a note on alternating on-line turing machines	1982	-7.861724585275737	8.729624483886376	4072291
+4072582	Embedded	pushdown store machines and real-time computation	1969	-7.794175059930303	9.029693630172476	4072609
+4075102	NLP	extracting synchronous grammar rules from word-level alignments in linear time	2008	-7.379215097605124	8.983092744610959	4075129
+4076565	Theory	a note on multiple-entry finite automata	1976	-7.920190485655481	8.655917590083451	4076592
+4077591	ECom	one way finite visit automata	1978	-7.454582828487638	8.819476630456151	4077618
+4080960	Theory	descriptional complexity of determinization and complementation for finite automata	2011	-7.830937833173696	9.110984814927106	4080987
+4083972	ECom	structure theory of multi-level deterministically synchronized sequential processes	2001	-7.835928158373897	8.553765022141915	4083999
+4086554	Theory	on the convergence of population protocols when population goes to infinity	2009	-7.600509634315487	9.195077712745368	4086581
+4091074	Logic	a series of slowly synchronizing automata with a zero state over a small alphabet	2008	-7.7583513520274385	8.700620847170383	4091101
+4091121	Theory	small fast universal turing machines	2006	-8.135586038220291	8.550676521884785	4091148
+4091262	Theory	an upper bound on the order of locally testable deterministic finite automata	1989	-7.796120391613964	8.935907683856339	4091289
+4092987	Theory	improved upper and lower bounds for büchi disambiguation	2013	-7.440018679486745	8.724823890203654	4093014
+4094403	Theory	type classes of tree models	2007	-7.274385599692215	8.553288114227474	4094430
+4096601	Logic	counting the number of minimal dfca obtained by merging states	2003	-8.037307515402157	8.755632017939314	4096628
+4100097	Logic	three-way two-dimensional alternating finite automata with rotated inputs	2006	-7.758836074817077	8.718616249874167	4100124
+4102572	Theory	on the complexity of space bounded interactive proofs (extended abstract)	1989	-7.957690894004675	9.08483889304966	4102599

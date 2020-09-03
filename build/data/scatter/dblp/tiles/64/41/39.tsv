@@ -1,0 +1,609 @@
+id	area	title	year	x	y	ix
+3097237	DB	panel: using production rules in object-oriented design	1998	10.114296243676236	6.936608368857746	3097264
+3101575	SE	suitability of object and aspect oriented languages for software maintenance	2007	9.994432137023539	7.213458934713107	3101602
+3104359	SE	assessing and restructuring of classes based on cohesion	1996	10.143674271620846	6.835058058773559	3104386
+3105503	SE	"""bidirectional transformations in database evolution: a case study """"at scale"""""""	2014	10.054259768421216	7.167580825685393	3105530
+3105887	PL	using dependency models to manage complex software architecture	2005	9.610430130072732	6.917107866894022	3105914
+3113490	SE	unit testing tool competitions - lessons learned	2013	9.229173857148119	6.599487384885251	3113517
+3116218	SE	configuration-aware change impact analysis (t)	2015	10.134988186327556	7.279667810576573	3116245
+3116368	SE	a pluggable tool for measuring software metrics from source code	2011	9.984105924204474	6.527114258724063	3116395
+3120301	SE	the gpm meta-transcompiler: harmonizing javascript-oriented web development with the upcoming ecmascript 6 “harmony” specification	2015	9.905868215936595	7.171226546559165	3120328
+3124362	SE	simplicity principles for plug-in development: the jabc approach	2012	9.25996758178568	7.189373535810682	3124389
+3124969	SE	search based software maintenance: methods and tools	2014	9.340363694454151	6.9345753583563265	3124996
+3125795	ML	generating logical representations for natural language requirements using syntactic dependencies and norm analysis patterns	2015	9.436228758008669	6.831836108222173	3125822
+3130733	SE	tete: a non-invasive unit testing framework for source transformation	2005	9.43835586460612	7.33001492906652	3130760
+3131449	SE	towards deploying model-based testing with a domain-specific modeling approach	2006	9.271576687645103	7.0416725977154915	3131476
+3134710	SE	a pragmatic approach for debugging parameter-driven software	2013	9.675730347539421	7.1800265081032855	3134737
+3136166	Arch	towards easing the diagnosis of bugs in os code	2007	9.860226877982882	6.648651996390856	3136193
+3137108	SE	predicting class testability using object-oriented metrics	2004	9.653398036778231	6.902812829219486	3137135
+3139697	SE	finding the best compromise between design quality and testing effort during refactoring	2016	9.352764280129804	6.806167331256697	3139724
+3141765	SE	an mda approach for generating web interfaces with uml concurtasktrees and canonical abstract prototypes	2006	10.130381237953184	7.342980687083057	3141792
+3142239	SE	uml profile for specifying user interfaces of business applications	2010	9.609805148678342	7.079871762267199	3142266
+3143046	SE	a genetic algorithm for automated refactoring of component-based software	2015	10.045690126118807	6.8070914878642474	3143073
+3143803	AI	a conceptual modelling pattern for roles	2003	9.520870918311786	7.138353512599133	3143830
+3144339	SE	how high will it be? using machine learning models to predict branch coverage in automated testing	2018	9.324241471533146	6.694900651860663	3144366
+3144665	SE	requirements engineering for real-time systems	1991	9.486672093514352	7.447695434771285	3144692
+3150721	SE	graph layout support for model-driven engineering	2015	9.797499505737292	7.111126078492888	3150748
+3152368	SE	combinatorial testing: learnings from our experience	2007	9.3385305678561	7.005682300014776	3152395
+3154438	SE	observation-driven configuration of complex software systems	2004	9.754655005651225	7.0113090381310395	3154465
+3155282	SE	test suites for benchmarks of static analysis tools	2015	9.391880861539589	6.550534010642662	3155309
+3157504	SE	refactoring support for the ruby development tools	2007	9.920019029662537	6.5109266458978245	3157531
+3158028	SE	evaluating a framework for the development and deployment of evolving applications as a software maintenance tool	2009	10.11605726862212	7.251904642074609	3158055
+3160436	SE	metamorphic model-based testing applied on nasa dat -- an experience report	2015	9.470259569420033	6.532795771332327	3160463
+3161421	SE	inline visualization of concerns	2009	9.475966802204448	7.069980642334144	3161448
+3162161	SE	effects of decomposition techniques on knowledge-based program understanding	1997	9.462919187574876	6.9560408978440895	3162188
+3163079	ML	analyzing dependencies to solve low-level problems	1997	9.535434978418724	6.9395399370226345	3163106
+3164541	SE	incremental development using object oriented frameworks: a case study	2002	9.633964917292118	7.166703532662657	3164568
+3165036	SE	simevo: a toolset for simulink test evolution & maintenance	2018	10.023927248804393	7.2342345494980576	3165063
+3165974	SE	graphical user interfaces in dynamic software product lines	2013	9.282309294209604	7.368751573193479	3166001
+3166852	SE	dsketch: lightweight, adaptable dependency analysis	2010	9.778940106558835	6.813689278516621	3166879
+3167676	SE	an empirical study to quantify the characteristics of java programs that may influence symbolic execution from a unit testing perspective	2016	9.470932473445997	6.496803698416781	3167703
+3169836	SE	several issues on the definition of algorithm for the layout of the uml class diagrams	2011	9.259354403235221	7.145352386714825	3169863
+3171535	SE	scheduling of conflicting refactorings to promote quality improvement	2007	9.437621386126576	6.906645673670733	3171562
+3173219	SE	identifying code generation candidates using software categories	2015	9.802949101489158	7.295494526769848	3173246
+3173432	SE	test case prioritization for regression testing of service-oriented business applications	2009	10.078015673013198	7.05050723542538	3173459
+3174454	SE	generic environment for full automation of benchmarking	2004	10.165794553184181	6.619182000884303	3174481
+3174526	SE	should software testers use mutation analysis to augment a test set	2009	9.21865070838061	6.603457799750549	3174553
+3180496	SE	test item prioritizing metrics for selective software testing	2004	9.577396844958557	6.6097515657614645	3180523
+3180964	SE	applying classification techniques to remotely-collected program execution data	2005	9.473271784604954	6.65493514127895	3180991
+3181880	SE	change-merging of psdl abstract data types	2003	9.399654964634829	7.308147724078921	3181907
+3182995	HPC	test suite reduction based on traceability matrix with association rule mining technique	2017	9.264755118879627	6.866756940917612	3183022
+3184289	SE	preliminary study to empirically investigate the comprehensibility of requirements specifications	2005	9.866706539769588	6.849100140510662	3184316
+3185449	SE	cvsm 2013 challenge: recognizing high-level edit operations in evolving models	2013	9.577441497696631	7.447952269174605	3185476
+3185564	SE	feedback-directed model-based gui test case generation	2008	9.906894771267286	6.917744751622256	3185591
+3188669	SE	handling clone mutations in simulink models with vcl	2014	9.222708167587925	6.781464461904408	3188696
+3191870	DB	extracting business logic from existing cobol programs as a basis for redevelopment	2001	9.992825797300029	6.8446214061905435	3191897
+3192374	SE	a data quality approach to conformance checks for business network models	2012	10.00900566918073	7.072983137988364	3192401
+3192560	PL	classifying relationships between object-oriented design pattern	1998	10.120869458426501	6.704513597719046	3192587
+3196536	SE	on the automatic recovery of style-specific architectural relations in software systems	2002	10.144779341862998	7.3705923511241975	3196563
+3198726	SE	matrix: maintenance-oriented testing requirements identifier and examiner	2006	9.262819564793027	6.766209380262054	3198753
+3198864	SE	maintaining multi-tier web applications	2007	10.133108359541012	6.734387918525963	3198891
+3199076	SE	on the economics of requirements-based test case prioritization	2005	9.952712288794093	6.6552697043089015	3199103
+3203690	PL	a multithreaded java framework for information extraction in the context of enterprise application integration	2003	9.502818560361288	7.3422863292318485	3203717
+3203874	SE	using patterns for the refinement and translationof uml models: a controlled experiment	2006	9.242359280261848	7.190823246423726	3203901
+3205836	SE	errors in the uml metamodel?	2003	9.551949825471482	6.493476439189434	3205863
+3205888	SE	using fine-grained code change metrics to simulate software evolution	2014	9.404548782933931	6.524215749634884	3205915
+3205911	PL	crocopat: efficient pattern analysis in object-oriented programs	2003	9.816476631869225	6.547009388223037	3205938
+3206927	SE	an analysis of the variability in forty preprocessor-based software product lines	2010	9.458047363956982	6.9388070212411845	3206954
+3207292	SE	program understanding and maintenance with the canto environment	1997	9.559420172995797	6.817860124389832	3207319
+3210209	SE	a catalog of object model transformations	1996	9.924702832436935	7.205554693667122	3210236
+3210473	SE	traceability between code and design documentation in database management system: a case study	2018	9.926543851487349	7.386166232043728	3210500
+3212631	SE	using dependency models to manage software architecture	2005	9.527849104622485	7.078624266097336	3212658
+3212898	SE	intrusive test automation with failed test case clustering	2011	9.387242596272674	6.67795218133267	3212925
+3213175	SE	in search of silver bullet [software engineering]	1988	9.974157943507572	6.677165413613513	3213202
+3213389	SE	poster: unit tests and component tests do make a difference on fault localisation effectiveness	2018	9.522096993840265	6.5530499787682	3213416
+3213533	SE	design defect detection rules generation: a music metaphor	2011	9.955866759532864	6.746079137490784	3213560
+3215530	SE	automatic generation of interactive prototypes for domain model validation	2008	9.730711614940592	7.40444750871787	3215557
+3215840	SE	maramaai: tool support for capturing and managing consistency of multi-lingual requirements	2012	9.269707208399034	6.737286504503291	3215867
+3217917	SE	aiding program comprehension by static and dynamic feature analysis	2001	9.779207833144486	6.537765911549184	3217944
+3220202	SE	exception fault localization in android applications	2015	9.283724225974778	6.730542648030549	3220229
+3220346	SE	removing clones from the code	1999	9.901497505035893	6.892924773734699	3220373
+3221281	SE	an industrial application of mutation testing: lessons, challenges, and research directions	2018	9.82901436615026	6.579377305251772	3221308
+3222909	PL	using metamodeling to analyze the fit of object-oriented methods to languages	1998	9.41049767366652	7.326408301784565	3222936
+3224359	EDA	mutation analysis with coverage discounting	2013	9.309486257955381	6.583389451715143	3224386
+3225078	PL	understanding object-oriented programs through declaratice event analysis	1998	9.399280993851646	6.529676068651954	3225105
+3227307	SE	an empirical study of the effect of time constraints on the cost-benefits of regression testing	2008	9.832169288121463	6.6187372951209005	3227334
+3227885	SE	iproblems - an integrated instrument for reporting design flaws, vulnerabilities and defects	2011	10.024885740243963	6.774161966890769	3227912
+3230569	Visualization	a framework for the recovery and visualization of system availability scenarios from execution traces	2018	9.904924968580817	7.237009608497908	3230596
+3231088	SE	supporting several levels of restriction in the uml	2000	9.678937555432137	7.059086209461401	3231115
+3231276	SE	search-based requirements traceability recovery: a multi-objective approach	2017	9.693003369160813	6.680872890723183	3231303
+3232057	SE	generating test cases for android applications through gui modeling, usage modeling, and change analysis	2015	9.859933663307023	6.800208384180559	3232084
+3234168	SE	multi-objective test case prioritization in highly configurable systems: a case study	2016	9.302138921905703	6.689954678783446	3234195
+3235282	SE	reengineering class hierarchies into 3d bridge form	2007	9.594746654086256	7.282182944791359	3235309
+3235375	SE	testing for unexpected interactions in aop	2009	9.992080638723532	7.132323829753838	3235402
+3236993	SE	launchpad's quest for a better and agile user interface	2010	9.649458072834454	7.018601948639632	3237020
+3237604	SE	on dynamic feature location	2005	9.552001714277248	6.541638892215202	3237631
+3238808	SE	save: static analysis on versioning entities	2008	10.061952441030057	6.61954622693339	3238835
+3239819	SE	cute: c++ unit testing easier	2007	9.655007758826443	6.900879653772117	3239846
+3242714	SE	mining api error-handling specifications from source code	2009	9.270957701234828	6.572898572125577	3242741
+3242994	DB	data perspectives of workflow schema evolution	2015	9.610669386666887	6.648636834125299	3243021
+3245781	SE	a structural approach towards the maintenance of database applications	2004	9.234939872630036	6.786257291123907	3245808
+3248222	SE	the drawbacks of statement code coverage test case prioritization related to domain testing	2016	9.419014550730004	6.7391934114146785	3248249
+3251008	SE	maintaining traceability during object-oriented software evolution: a case study	1999	9.951509317533214	6.529140720994935	3251035
+3252304	EDA	debugging simulation models	2005	9.866821277193877	6.571090059273868	3252331
+3253766	SE	constraint specification by example in a meta-case tool	2009	10.019115246614518	7.353773412812026	3253793
+3256688	SE	a logic foundation for a general-purpose history querying tool	2014	9.233094234315564	6.639819793407724	3256715
+3256727	SE	usage-based testing of event-driven software	2012	9.80519499750932	6.514209677301567	3256754
+3257996	SE	comparing the effectiveness of testing methods in improving programs: the effect of variations in program quality	1998	9.579703486973504	6.496540920128473	3258023
+3259434	SE	combinatorial testing in cloud computing	2017	9.853551635001237	7.000756555352393	3259461
+3263337	SE	early aspects refactoring	2008	10.061778403031033	7.332995768350539	3263364
+3264764	SE	automated testing of pointcuts in aspectj programs	2006	9.607686719963883	6.947077238707932	3264791
+3276069	SE	analysis of mistakes as a method to improve test case design	2011	9.537407487227886	6.642940749159878	3276096
+3281813	SE	a test driven approach for aspectualizing legacy software using mock systems	2008	9.907787331073694	6.954151077798081	3281840
+3284182	SE	combining conceptual and domain-based couplings to detect database and code dependencies	2012	10.007952715343023	6.767269876982263	3284209
+3285161	SE	test suite evaluation using code coverage based metrics	2015	9.318352189347298	7.017930215283244	3285188
+3291795	SE	tool integration in the pact environment	1989	9.793809952804807	6.894515407080153	3291822
+3293343	SE	the oracle problem in software testing: a survey	2015	10.098831341521834	6.690247820423759	3293370
+3294109	PL	the mvc-web design pattern	2011	9.526475384341998	6.7166259208916665	3294136
+3297025	SE	permission assurance for semantic aspects of design patterns	2012	9.85637753692538	6.641369509359626	3297052
+3300158	SE	an empirical study of the impact of ocl smells and refactorings on the understandability of ocl specifications	2007	10.051282724801645	7.446476254356389	3300185
+3300902	SE	fault detection through sequential filtering of novelty patterns	2011	9.653930568223537	6.599024166808717	3300929
+3301586	SE	improving the runtime-processing of test cases for component adaptation	2013	9.247166405051958	6.95162232095732	3301613
+3304216	SE	towards impact analysis of test goal prioritization on the efficient execution of automatically generated test suites based on state machines	2011	9.336102007622724	6.788189286393358	3304243
+3307192	SE	architectural model for generating user interfaces based on class metadata	2013	9.81297114814693	7.137303328406546	3307219
+3308982	SE	architecture of the neurath basic model view controller	2006	9.887954334523766	7.22346790706648	3309009
+3310911	SE	conan: a tool for the identification of crosscutting concerns in object oriented systems based on type hierarchy analysis	2009	9.370198346702642	6.898197829445697	3310938
+3311665	SE	using the meta-environment for maintenance and renovation	2007	9.861425989651414	6.6578941776659635	3311692
+3313051	SE	correlation between similarity and variability metrics in search-based product line architecture: experimental study and lessons learned	2017	9.398062620027524	7.2177328063654125	3313078
+3313301	SE	a safe regression testing approach for safety critical systems	2011	9.520319471220374	7.449789713061337	3313328
+3316760	SE	uml specification and correction of object-oriented anti-patterns	2009	9.993466443353787	7.442084809895816	3316787
+3317762	SE	prism is research in aspect mining	2004	9.96978444941127	6.771858912982168	3317789
+3318776	SE	applying mutation testing to web applications	2010	9.56125667245677	7.1457230023127805	3318803
+3319404	AI	design and implementation of universal web-tree service component for large-scale data maintenance	2014	9.402369440432835	7.314517199223966	3319431
+3320020	SE	on the influence of model structure and test case profile on the prioritization of test cases in the context of model-based testing	2013	9.650924623726793	6.5852285209639	3320047
+3321623	SE	resilient user interface level tests	2014	9.93121616651573	6.6854729481626665	3321650
+3321950	SE	an evaluation of the effectiveness of the atomic section model	2014	9.748477789356263	6.578035099373653	3321977
+3323009	SE	software refactoring under uncertainty: a robust multi-objective approach	2014	9.32012382457384	6.639348762423551	3323036
+3323190	AI	an approach for the evolutionary discovery of software architectures	2015	9.34305526708068	7.422983489314125	3323217
+3323928	EDA	verification and validation of simulation models	1994	9.994947264839645	7.36933917306751	3323955
+3325460	SE	support reengineering by type reference - a reengineering pattern	1999	9.442096479239877	6.9283351749791695	3325487
+3326956	SE	model generation to support model-based testing applied on the nasa dat web-application - an experience report	2015	9.53656278583908	6.7965342905369495	3326983
+3329614	SE	an empirical evaluation of mutation testing for improving the test quality of safety-critical software	2013	9.22815513719213	6.9692491782996475	3329641
+3330131	SE	automatic and continuous software architecture validation	2015	10.106747468142796	6.701900026031088	3330158
+3333619	SE	relating code coverage, mutation score and test suite reducibility to defect density	2016	9.234408386169822	6.5479976725656925	3333646
+3335991	SE	intelligent support for retrieval and synthesis of patterns for object-oriented design	1997	10.028195288986893	7.171593078120942	3336018
+3337015	SE	analysis and testing of web applications	2001	9.747255716327174	7.036263759446813	3337042
+3337114	SE	executable uml and spark ada: the best of both worlds	2005	10.06425621139963	7.39555297545713	3337141
+3338393	SE	investigating the partial relationships between testability and the dynamic range-to-domain ratio	2003	9.326939184783633	6.7284663670169875	3338420
+3340623	SE	a critical evaluation of spectrum-based fault localization techniques on a large-scale software system	2017	9.239022139446572	6.499861546064671	3340650
+3341156	PL	design pattern implementation in java and aspectj	2002	9.944717535890183	7.445090883675423	3341183
+3342323	SE	umldiff: an algorithm for object-oriented design differencing	2005	9.908915889043678	6.722084070373744	3342350
+3342374	SE	measuring the expressiveness of a constrained natural language: an empirical study	2005	10.109334942974296	7.056588800150021	3342401
+3346065	SE	genutest: a unit test and mock aspect generation tool	2009	9.58183757054158	6.742575120047553	3346092
+3347092	SE	architectural analysis of matlab/simulink models with artshop	2016	9.415508818033274	7.198676202147347	3347119
+3347550	SE	a framework for gui testing based on use case design	2010	9.787971465926917	6.811702884723308	3347577
+3351969	OS	fast black-box testing of system recovery code	2012	9.236460307364043	6.642169056501121	3351996
+3352372	HPC	bringing evolutionary computation to industrial applications with guide	2009	9.398537068853175	6.623643531944543	3352399
+3352618	SE	employing fuzzy logic in feature diagrams to model variability in software product-lines	2003	10.096011232295275	7.2378553463800035	3352645
+3354275	PL	the mt model transformation language	2006	9.966963159406149	7.3692956528227755	3354302
+3357354	SE	a gui modeling dsl for pattern-based gui testing paradigm	2014	10.011400216983912	7.31771071840858	3357381
+3359887	SE	scenario-based object-oriented testing framework	2003	9.677319275924944	7.244686834465407	3359914
+3359995	SE	building a model-based gui test automation system for mobile applications	2016	10.042293453115503	7.058980828969925	3360022
+3362683	SE	a feature dependency graph analysis method based on object	2016	9.78969296629376	7.166817521059909	3362710
+3364510	SE	verification, validation, and accreditation: verification, validation, and accreditation of simulation models	2000	10.02211534677232	7.33156169100518	3364537
+3365946	SE	adapting keyword driven test automation framework to iec 61131-3 industrial control applications using plcopen xml	2014	9.812422869539963	6.911781331336216	3365973
+3366355	SE	using testing trace for automatic user categorization	2009	10.042120763172457	6.926763876991777	3366382
+3369087	SE	traceability and impact analysis in requirement verification	2017	10.126567108042037	7.160578062457732	3369114
+3370358	SE	re-architecture of contiki and cooja regression test suites using combinatorial testing approach	2015	9.588302887113263	6.785759543989563	3370385
+3375636	SE	automatic layout of uml use case diagrams	2008	9.86077825479863	7.186367448229992	3375663
+3375761	Robotics	information systems development based on visual domain specific language bilingva	2009	9.92016046866862	7.36995763684676	3375788
+3377427	SE	re-implementing apache thrift using model-driven engineering technologies: an experience report	2016	9.590552445596897	7.227701844843935	3377454
+3378622	SE	the openponk modeling platform	2016	9.629150524067137	7.278865319898527	3378649
+3380932	SE	codegenie: using test-cases to search and reuse source code	2007	9.794010627148095	6.550173353360237	3380959
+3382005	SE	debugging in parallel or sequential: an empirical study	2015	9.219283859836674	6.634672804057683	3382032
+3382233	SE	using data flow patterns for equivalent mutant detection	2014	9.289544939352355	6.6105316092600885	3382260
+3385020	PL	software language engineering	2011	9.40219173844207	7.4371046802182015	3385047
+3387603	SE	using graph patterns to extract scenarios	2002	9.68350545807657	6.542555062990719	3387630
+3387644	SE	searching models, modeling search: on the synergies of sbse and mde	2013	9.493491636908717	7.358028310046334	3387671
+3388167	SE	random gui testing of android application using behavioral model	2017	9.384784786382722	6.876949893158537	3388194
+3389000	EDA	bridging the framework modeling and implementation gap	2000	10.071181395851152	7.242285380804797	3389027
+3389288	SE	software engineering despite object-orientation	2000	9.377604076105104	7.066349197137151	3389315
+3389909	SE	application of design patterns in process of large-scale software evolving	2010	9.96851050707983	7.079677469712268	3389936
+3390247	SE	mining source code for structural regularities	2010	9.707324256043536	6.536584705042722	3390274
+3390501	SE	test suite reduction for fault detection and localization: a combined approach	2014	9.43962882274166	6.59254232547851	3390528
+3395945	SE	using uml(vr) for supporting the automated test data generation	2008	9.53127313003113	7.402062746388874	3395972
+3398806	SE	understanding javascript event-based interactions with clematis	2016	9.364746616205355	6.548800470746702	3398833
+3399098	Robotics	a proposal of separation of concerns in emls and its relation with ld	2006	10.166251067473006	7.008739505929923	3399125
+3399397	Crypto	analysis of large system black-box test data	1992	9.579732751391054	6.9348231127124516	3399424
+3399409	SE	mt-scribe: an end-user approach to automate software model evolution	2011	10.103656172062573	7.310272816036438	3399436
+3401918	SE	fundamental nonmodularity in electronic mail	2004	10.101427225538444	6.865079198191952	3401945
+3404901	SE	flextest: an aspect-oriented framework for unit testing	2005	9.748376840444363	7.339141677818474	3404928
+3404928	HPC	evs process miner: incorporating ideas from search, etl into process mining	2008	9.687577191690655	7.1290600131146205	3404955
+3405950	SE	automatic test generation for database-driven applications	2007	9.659032940545716	7.070373553480956	3405977
+3406035	SE	avcs: the apl version control system	1995	9.927912676788884	6.51958207351231	3406062
+3406517	SE	automating code reviews with simulink code inspector	2012	10.03880776132148	6.792554191826223	3406544
+3409140	SE	reproducing field failures for programs with complex grammar-based input	2014	9.395967148526287	6.820879103019946	3409167
+3412990	DB	identifying cycle causes with enriched dependency structural matrix	2009	9.879135200159787	6.728734549738755	3413017
+3414017	SE	evaluating an automatic text-based test case selection using a non-instrumented code coverage analysis	2017	9.84120755736714	6.585126731212312	3414044
+3418835	SE	an automated approach for acceptance web test case modeling and executing	2010	9.648342200538297	6.702692144517232	3418862
+3420255	SE	efficient regression test selection and recommendation approach for component based software	2014	9.91860626711228	7.118934510627705	3420282
+3423888	SE	user requirements for oo case tools	2001	10.003977096767947	6.831140684533634	3423915
+3425253	NLP	mysql extension automatic porting to pdo for php migration and security improvement	2018	9.994880770725404	7.230053336355656	3425280
+3427990	SE	efsm-based test case generation: sequence, data, and oracle	2015	9.319776271478815	7.170583644561272	3428017
+3428455	SE	timeaware test suite prioritization	2006	9.583182745070484	6.5490168392748895	3428482
+3428617	PL	we should stop claiming generality in our domain-specific language papers (extended abstract)	2018	10.08078269251448	6.96974733080198	3428644
+3429348	SE	experience report on building astm based tools for multi-language reverse engineering	2016	9.300053482879038	7.31096023605924	3429375
+3431671	SE	configuration-aware regression testing: an empirical study of sampling and prioritization	2008	10.08490248993254	6.641643752729406	3431698
+3433265	DB	mini-me: a min-repro system for database software	2010	9.216030366188829	6.6814656764688705	3433292
+3434122	SE	aspectj idioms for aspect-oriented software construction.	2003	9.735424834622512	6.656733211837863	3434149
+3439346	HCI	using model driven engineering technologies for building authoring applications	2010	9.872554077734476	6.933899562229664	3439373
+3440534	SE	historical value-based approach for cost-cognizant test case prioritization to improve the effectiveness of regression testing	2008	9.73693313053161	6.599541737206412	3440561
+3441854	SE	exploring feature interactions without specifications: a controlled experiment	2018	9.212136780302977	6.80264138715418	3441881
+3444702	SE	improving understanding of dynamically typed software developed by agile practitioners	2017	9.984581706788012	6.667928457248569	3444729
+3451768	SE	on the evaluation of software maintainability using automatic test case generation	2014	9.936937028228623	6.557712099343668	3451795
+3452523	SE	a hierarchical model for regression test selection and cost analysis of java programs	2010	9.487105430703712	6.6494731921605705	3452550
+3453936	SE	automatically detecting and tracking inconsistencies in software design models	2011	9.353960095068985	6.880667121317537	3453963
+3454249	SE	a representation model for procedural program maintenance	1999	10.028093723306077	6.7903764055660645	3454276
+3454538	Robotics	a formal approach in robot development process using a uml model	2008	9.861441288804995	6.7745202232739965	3454565
+3454907	SE	the software knowledge base	1985	9.24868873567853	7.439381390718272	3454934
+3455740	SE	type safe extensible programming	2009	9.800193522398137	7.245620332891795	3455767
+3456949	SE	fxplorer: exploration of computed software behavior - a new approach to understanding and verification	2009	10.173925313206682	6.608533476998908	3456976
+3457097	DB	recovering class diagrams from data-intensive legacy systems	2000	9.884195767327776	7.026335271217049	3457124
+3458169	SE	representing design patterns as design components	1999	9.539132429959947	7.117548109469216	3458196
+3459362	SE	lift: driving development using a business-readable dsl for web testing	2010	10.082307247651851	6.836120529413388	3459389
+3460101	SE	applying mutation testing for assessing test suites quality at model level	2016	9.888256276331383	6.825996302111652	3460128
+3462746	SE	an empirical study of regression test selection techniques	1998	9.619199722706403	6.499289115236695	3462773
+3463041	SE	advanced visual modelling: beyond uml	2002	9.487629852896921	7.212759608849883	3463068
+3464698	SE	object-oriented analysis: criteria and case study	1993	10.033330707254676	7.365686438609343	3464725
+3465720	SE	the role of program slicing in ripple effect analysis	1996	9.850733868041813	7.1860119817278605	3465747
+3468099	SE	re-approaching the refactoring rubicon	2008	9.900202584275872	6.6042137551949605	3468126
+3468225	SE	test veri yonetiminde alternatif bir yaklasim, test veri yonetimi otomasyonu(an alternative approach in test data management, automation of test data management)	2017	9.360916114193	7.0695412391147245	3468252
+3474387	SE	faultbuster: an automatic code smell refactoring toolset	2015	9.597961572516393	6.6783666119276655	3474414
+3474898	SE	the effectiveness of statistical testing when applied to logic systems	2001	9.65434345399626	6.505526080106334	3474925
+3478764	SE	complementing metaheuristic search with higher abstraction techniques	2013	9.704610402552543	7.409263946485047	3478791
+3483088	SE	stress testing an ai based web service: a case study	2010	10.17343516073943	7.3045254659199035	3483115
+3483468	SE	a rendering algorithm for function call diagram in software reliability assurance	2014	9.374755454356206	6.815653171842738	3483495
+3484408	PL	classbox/j: controlling the scope of change in java	2005	9.787091376552585	6.956534292927666	3484435
+3484487	DB	a lesson for software engineering from knowledge engineering	2003	10.038063396399831	7.109761568914817	3484514
+3484749	SE	a comfortable testplayer for analyzing statistical usage testing strategies	2011	9.830577367591431	7.282022906215777	3484776
+3484919	SE	behavior model mapping	2011	9.715104673772851	7.294845950238661	3484946
+3486363	SE	experiences of debugger-based architecture comprehension	2017	9.625946036701713	7.010836053777178	3486390
+3486487	SE	integration of programming environments for platform migration	2003	9.9329965985964	7.308206954149612	3486514
+3488062	SE	reducing interactive refactoring effort via clustering-based multi-objective search	2018	9.619546001193573	6.8005373634145325	3488089
+3489442	SE	tool-support to foster model-based requirements engineering for cyber-phsyical systems	2018	10.036444720683331	6.72659476317508	3489469
+3490518	SE	the accuracy of dependency analysis in static architecture compliance checking	2017	9.425122913471963	6.720925344842222	3490545
+3491665	SE	alborz: an interactive toolkit to extract static and dynamic views of a software system	2006	9.31172745766183	7.260866214485388	3491692
+3492020	NLP	preliminary study on the correlation of objective functions to optimize product-line architectures	2017	9.330800805749906	7.033072022522018	3492047
+3494268	SE	an initial assessment of aspect-oriented programming	1998	9.893599395184626	6.582342959720679	3494295
+3495263	SE	on guiding the augmentation of an automated test suite via mutation analysis	2008	9.22774673264069	6.574365226671264	3495290
+3496499	SE	how bayesians debug	2006	9.458145461189904	6.500810303407597	3496526
+3497300	EDA	cross system product application generator: application design	1990	9.45615075627599	6.993300590787194	3497327
+3497754	SE	inferring architectural evolution from source code analysis - a tool-supported approach for the detection of architectural tactics	2016	9.931986647731543	7.1408879357756225	3497781
+3499100	PL	harmony-oriented programming and software evolution	2009	9.608763651274586	7.234157203898881	3499127
+3501921	SE	generating various contexts from permissions for testing android applications	2015	9.61309631873267	6.546700302835532	3501948
+3502718	SE	a comparative study of artificial neural networks and info-fuzzy networks as automated oracles in software testing	2012	9.710659619813931	6.500629555623164	3502745
+3505031	SE	estimation and enhancement of real-time software reliability through mutation analysis	1992	10.146668879523268	6.656114253464911	3505058
+3507069	SE	tracql: a domain-specific language for traceability analysis	2012	9.308659227414706	7.0120789529554495	3507096
+3512323	SE	software reuse: bridging with social-awareness	2016	9.497847089733009	7.431394100006813	3512350
+3513696	SE	code coverage of adaptive random testing	2013	9.247854407280126	6.552419194649537	3513723
+3514902	SE	"""rapid """"crash testing"""" for continuously evolving gui-based software applications"""	2005	9.737667447112893	6.52938653115432	3514929
+3516220	SE	measuring test coverage of soa services	2015	9.853165602200717	7.297720177970934	3516247
+3518166	SE	application of combinatorial testing techniques in complex event processing engines	2012	9.601783701999524	7.003003364932518	3518193
+3524357	NLP	mde in practice for computational science	2015	10.087113929268801	7.0730052634199385	3524384
+3524358	SE	leveraging task-based data to support functional testing of web applications	2015	10.10896301744264	7.108611462262603	3524385
+3527074	SE	modularizing security related concerns in enterprise applications - a case study with j2ee and aspectj	2005	9.878678962606891	6.5863297768697855	3527101
+3527209	SE	regression testing for web applications using reusable constraint values	2014	9.603608378219585	6.7589005217912765	3527236
+3527235	SE	a comparative study of invariants generated by daikon and user-defined design contracts	2014	9.276256209193173	6.876403769036832	3527262
+3527938	SE	orts: a tool for optimized regression testing selection	2009	9.723935736343236	7.025001514842539	3527965
+3531321	SE	prioritizing change-impact analysis via semantic program-dependence quantification	2016	9.882638000874598	6.689081548261624	3531348
+3531375	SE	a novel structure-oriented difference approach for software artifacts	2006	9.55154826162962	7.098626072724594	3531402
+3531912	SE	comprehending source code of large software system for reuse	2016	9.324159107452124	6.770586521423891	3531939
+3532925	SE	debugging measurement systems using a domain-specific modeling language	2014	10.012902341348227	7.414906680429826	3532952
+3533574	SE	cost analysis and tradeoffs in regression testing using fsmweb	2014	9.467805464987897	6.718896203645405	3533601
+3534834	SE	graph-based reverse engineering and reengineering tools	1999	9.83602831816106	7.2692181827864655	3534861
+3537542	HCI	extending uml use case modelling to support graphical user interface design	2001	9.76511797964041	6.816707452607207	3537569
+3537574	SE	estimation of software reliability by stratified sampling	1999	9.29771465124263	6.6304214149726235	3537601
+3538291	SE	a software debugging method based on pairwise testing	2005	9.241219649608409	6.7106070829161455	3538318
+3538359	SE	extracting domain ontologies from domain specific apis	2008	9.76959921380155	6.611387672847183	3538386
+3538876	SE	fault density, fault types, and spectra-based fault localization	2014	9.22879397907582	6.535557587539215	3538903
+3539859	EDA	supporting the partitioning of distributed systems with function-class decomposition	2000	9.642472021583872	7.073465480061223	3539886
+3539960	SE	jumbl: a tool for model-based statistical testing	2003	9.949143659467882	6.845001218631277	3539987
+3544007	SE	gridunit: software testing on the grid	2006	9.834486540691053	6.6193115444291095	3544034
+3545876	SE	a technique for the selective revalidation of oo software	1997	9.588353841947807	6.7553543690544675	3545903
+3546756	SE	online model editing, simulation and code generation for web and mobile applications	2017	9.627314602002645	7.075803766035979	3546783
+3550341	SE	augmenting pattern-based architectural recovery with flow analysis: mosaic -a case study	1996	9.718541071184818	6.788724955412833	3550368
+3550855	SE	cluster-based test suite functional analysis	2016	9.70022827220106	6.867053923946883	3550882
+3554993	SE	constructing usage scenarios for api redocumentation	2007	9.622101815558574	7.1894417700806015	3555020
+3558276	SE	model-based user interface testing with spec explorer and concurtasktrees	2008	9.573987816621186	7.264867796933858	3558303
+3566490	SE	testing django configurations using combinatorial interaction testing	2015	9.33945934982025	6.641150925764708	3566517
+3566946	SE	global-aware recommendations for repairing violations in exception handling	2018	10.16529028640384	6.499153294610774	3566973
+3573300	SE	vdmpad: a lightweight ide for exploratory vdm-sl specification	2015	9.7236111213598	7.359686504920178	3573327
+3573790	SE	testing software and systems	2014	9.645191126750357	6.788228385562456	3573817
+3576605	SE	partial redesign of java software systems based on clone analysis	1999	9.337695651632037	6.492642100879599	3576632
+3576804	AI	static and completion analysis for knowledge acquisition, validation and maintenance of planning knowledge bases	1998	9.385743112033053	7.130731461375152	3576831
+3578889	SE	early conflict detection with mined models	2014	9.465083510155178	7.080921076329632	3578916
+3579148	SE	towards test case reuse: a study of redundancies in android platform test libraries	2013	9.968890372243123	6.550836573601464	3579175
+3582629	SE	turning models inside out	2017	10.03488686429549	7.2618910646323025	3582656
+3583000	SE	a framework for statistical testing of software components	2007	9.578160293728304	7.207916848900178	3583027
+3583031	SE	employing user profiles to test a new version of a gui component in its context of use	2006	9.563127770679131	6.631520493142173	3583058
+3583940	SE	a coupling metric applying the characteristics of components	2006	10.046841426763846	7.057665149332137	3583967
+3584040	SE	aspect mining using event traces	2004	9.952051904739683	7.1054350488219695	3584067
+3584372	SE	an empirical study of regression test application frequency	2000	9.385812600336463	6.546970238658155	3584399
+3585235	SE	feature maintenance with emergent interfaces	2014	9.686676996724188	7.166910145246698	3585262
+3587177	SE	coordinated collaborative testing of shared software components	2016	10.163303474263301	6.559088500254872	3587204
+3588052	SE	on class diagrams, crossings and metrics	2005	9.545906617919217	6.901160512520593	3588079
+3589653	SE	combinatorial testing of acts: a case study	2012	9.258274840555133	6.929525782503502	3589680
+3589714	SE	differential symbolic execution	2008	10.098969966223775	6.583868211047156	3589741
+3591801	SE	how significant is the effect of fault interactions on coverage-based fault localizations?	2013	9.296329108147676	6.570353698328929	3591828
+3593867	SE	search based reverse engineering	2002	9.51851292908252	6.862091738728839	3593894
+3598685	SE	feature interaction faults revisited: an exploratory study	2011	9.502669807806042	6.784459214444934	3598712
+3598720	SE	automated java gui modeling for model-based testing purposes	2011	9.515876072354482	6.944578984197725	3598747
+3599707	SE	automatic workarounds: exploiting the intrinsic redundancy of web applications	2015	9.329126241170817	7.366503702479135	3599734
+3599918	SE	model-based testing and exploratory testing: is synergy possible?	2016	9.53636978329156	6.770891008599367	3599945
+3600080	DB	an automatic layout algorithm for bpel processes	2010	9.812658952563947	7.386738284605105	3600107
+3604122	SE	efficient product-line testing using cluster-based product prioritization	2017	9.420462293463467	6.959188073257713	3604149
+3605198	SE	scenario oriented program slicing	2008	9.253548034758873	6.663782220266191	3605225
+3605931	SE	on the automatic modularization of software systems using the bunch tool	2006	9.308053623187636	6.751545462507634	3605958
+3608975	SE	model synthesis for real-time systems	2005	9.238318779909811	7.364277079348345	3609002
+3609316	SE	dynamic coupling metric: proof of concept	2005	10.156537257731301	7.313291246542717	3609343
+3612315	SE	a case for automatic exception handling	2008	9.792806200134356	6.715589514509066	3612342
+3615723	SE	locating and understanding features of complex software systems by synchronizing time-, collaboration- and code-focused views on execution traces	2008	9.958021409165053	6.649278728439453	3615750
+3616305	SE	model verification and debugging of eoo models aided by model reduction techniques (work in progress paper)	2010	9.41676153803588	7.378405256128361	3616332
+3617824	SE	towards model construction based on test cases and gui extraction	2016	9.755039951511703	7.329689595035274	3617851
+3619195	SE	separating architectural concerns to ease program understanding	2005	9.225632835407508	6.510532447158698	3619222
+3621545	SE	extending uml for modeling of multimedia applications	1999	9.768549790807748	6.9224324657901875	3621572
+3621786	SE	an industry proof-of-concept demonstration of automated combinatorial test	2013	9.261752695889086	7.111724601717586	3621813
+3624983	SE	a method for test suite reduction for regression testing of interactions between software modules	2009	9.269952331322713	7.391619424602468	3625010
+3625104	SE	towards a framework for testing structural source-code regularities	2005	9.527617903782675	6.9778804874639215	3625131
+3628335	SE	test case generation with pathcrawler/ltest: how to automate an industrial testing process	2018	10.063420906226527	7.261952692855406	3628362
+3628592	SE	towards a software/knowware co-engineering	2006	9.874905683888539	7.1639703095740845	3628619
+3630055	SE	using reengineering and aspect-based techniques to retrieve knowledge embedded in object-oriented legacy system	2004	10.10365732262731	7.3046729045160115	3630082
+3630490	SE	automated detection of test fixture strategies and smells	2013	9.771820860741856	6.536797526042732	3630517
+3633626	EDA	automatic generation of tutorial systems from development specification	2006	9.213556952713207	7.082885441493838	3633653
+3634273	SE	reverse engineering of complex legacy telecommunication systems: problem domain, concepts, solutions, and tool support	2005	9.373698956174543	6.697584818127568	3634300
+3635726	DB	prototypes are forever evolving from a prototype project to a full-featured system	2010	9.465570979671622	6.570858130234134	3635753
+3637019	SE	metric-based selective representation of uml diagrams	2002	9.808949860218627	6.732026872486037	3637046
+3637351	SE	automatic test case generation for multi-tier web applications	2007	10.020767308211145	6.712695086835106	3637378
+3638036	SE	quota-constrained test-case prioritization for regression testing of service-centric systems	2008	9.648245648763037	6.8154653350591365	3638063
+3638920	SE	can automated test case generation cope with extract method validation?	2018	9.659518261218476	6.523040418492505	3638947
+3639250	SE	procrawl: mining test models from multi-user web applications	2014	9.417934507548981	6.877605343609242	3639277
+3639738	DB	asynchronous replication for evolutionary database development: a design for the experimental assessment of a novel approach	2011	9.302817433923707	7.0972898315019	3639765
+3640405	SE	a hitchhiker's guide to search-based software engineering for software product lines	2014	9.830911443818069	7.0071093769502975	3640432
+3641191	AI	static and completion analysis for planning knowledge base development and verification.	1996	9.387633351498962	7.121026685998875	3641218
+3641251	PL	lessons learned about language engineering from the development of mbeddr (keynote)	2016	9.303937114654863	7.248824319930124	3641278
+3644709	SE	securing opensource code via static analysis	2012	10.114910947864631	6.662255489963374	3644736
+3646057	SE	using structural testing information to support monitoring activities	2011	9.656628693922233	7.048700472669539	3646084
+3650127	SE	program slicing to understand software generators	2013	9.491799082516827	6.586438083921076	3650154
+3650291	SE	a systematic analysis patterns specification	2006	10.060144501909312	6.539397572818074	3650318
+3652331	SE	tracking performance across software revisions	2009	9.702543092864788	6.8960927885255074	3652358
+3656804	SE	refactoring-aware version control	2006	9.5859666432297	6.817759895819488	3656831
+3657187	SE	call graph construction for java libraries	2016	9.397796481802779	6.949897905847308	3657214
+3658888	SE	recovering runtime architecture models and managing their complexity using dynamic information and composite structures	2018	9.890500200193953	7.0594173799383215	3658915
+3661275	SE	supporting design patterns with annotations	2006	10.049971536312556	6.557907420415456	3661302
+3662062	EDA	a testing methodology for a dataflow based visual programming language	2001	9.745179553155447	6.557288233603012	3662089
+3663794	SE	an empirical study on testing and fault tolerance for software reliability engineering	2003	9.60128721967124	6.6258370184281885	3663821
+3665273	SE	design recovery for distributed systems	1997	9.411800528207506	7.214354133191825	3665300
+3670002	SE	a model for conformance analysis of software documents	2003	10.054398915021057	6.925022379397124	3670029
+3679077	SE	analyzing and understanding architectural characteristics of com+ components	2003	9.684294299739902	7.439632115102012	3679104
+3683547	SE	sbstframe: a framework to search-based software testing	2016	9.461875526044231	7.280722411263633	3683574
+3684084	DB	toward a unified approach to coupling	1997	9.398218685939355	7.058696815856618	3684111
+3686059	SE	model-based testing of community-driven open-source gui applications	2006	9.836670747178422	6.63584965631119	3686086
+3686753	SE	event-code interaction directed test cases	2016	9.345276934823275	6.96971732348154	3686780
+3688513	SE	understanding object oriented software systems without source code inspection	1999	9.767803417068624	6.839893097508337	3688540
+3689603	OS	using trace analysis for improving performance in cots systems	2004	9.8034581117558	6.909907450760629	3689630
+3690434	SE	effective identification of failure-inducing changes: a hybrid approach	2008	9.296690862447383	6.519334835001492	3690461
+3690628	SE	precise dynamic impact analysis with dependency analysis for object-oriented programs	2007	9.640393300830633	7.306852518287686	3690655
+3691031	SE	software architecture decoupling at ericsson	2017	10.019556692177158	7.247279716804807	3691058
+3691151	SE	continuous test generation: enhancing continuous integration with automated test generation	2014	9.550015284975442	6.574612420598326	3691178
+3695883	PL	toward an automated benchmark management system	2016	9.61616889454216	6.703192110850116	3695910
+3695940	SE	a novel automated gui testing echnology based on image recognition	2016	9.838317253852944	6.908500999552988	3695967
+3696994	SE	applying concept formation methods to object identification in procedural code	1997	10.027742466926904	6.864707953936567	3697021
+3697411	SE	case tool architecture for knowledge-based regression testing	1993	10.155510612044225	7.2545330417715395	3697438
+3698319	SE	quantifying the effectiveness of testing via efficient residual path profiling	2007	9.323909511453444	6.6891080698754415	3698346
+3698812	PL	demonstrating coherent design: a data structure catalogue	1993	9.649139139952805	7.423683322460456	3698839
+3702685	SE	how does regression test prioritization perform in real-world software evolution?	2016	9.299419945520851	6.644840728184746	3702712
+3705656	SE	verification of causality in the frame system based on the topological functioning modelling	2018	9.799479702546467	6.765928174714773	3705683
+3706566	Robotics	object-oriented programming as an alternative to industrial control	2012	9.61530953357682	7.350386105763757	3706593
+3709673	HCI	expressing graphical user's input for test specifications	2002	9.499038633050928	6.8579480360894784	3709700
+3710828	SE	an ontology-based approach for gui testing	2009	10.130455773268944	7.232770408244642	3710855
+3711903	SE	using difference information to reuse software cases	2007	9.741794506576305	7.32196628098121	3711930
+3712015	SE	model and data engineering	2017	9.979352331579	7.249217590737722	3712042
+3713770	PL	mapping object-oriented systems to distributed systems using data mining techniques	2000	9.849469627514674	6.9169501090153735	3713797
+3716594	SE	automated test data generation using search based software engineering	2007	9.32017781387434	7.382979836895377	3716621
+3718797	DB	database application evolution: a transformational approach	2006	10.092639831280982	7.254489108136657	3718824
+3721567	SE	leveraging annotation-based modeling with jump	2016	9.452492282154155	7.186043352315062	3721594
+3725434	SE	specification extraction by symbolic execution	2013	9.45915408486814	6.6704222115651834	3725461
+3726499	SE	software metrics in static program analysis	2010	9.508684136267544	6.998166988714623	3726526
+3727524	SE	model-driven engineering and optimizing compilers: a bridge too far?	2011	9.614893998172363	7.1683387328982695	3727551
+3727652	SE	a framework for cost-effective dependence-based dynamic impact analysis	2015	9.791125843208423	6.768702141251142	3727679
+3730711	SE	a tool to support automated testing for web application scenario	2006	10.16277616574265	7.441372403393513	3730738
+3731621	SE	a framework for text categorization.	2002	10.120385362611968	6.873593133512016	3731648
+3732295	SE	towards automated oracles for gui input validation	2011	9.988556089285696	6.729716183395336	3732322
+3733559	SE	porting the netbeans java 8 enhanced for loop lambda expression refactoring to eclipse	2015	9.454793399717754	6.682571303845006	3733586
+3735562	SE	a refactoring discovering tool based on graph transformation	2007	9.498462406636436	7.1194389951146855	3735589
+3735941	SE	reconciling the past and the present: an empirical study on the application of source code transformations to automatically rejuvenate java programs	2018	9.738983295267372	6.525440002336247	3735968
+3736542	EDA	model-driven prototyping - prototype-dirven modeling for knowledge-based systems	1993	9.856993762390669	7.251586687995437	3736569
+3738092	SE	integrated analysis of exception flows and handler actions in java libraries: an empirical study	2016	9.457092701769962	6.509138401279924	3738119
+3739275	SE	c&l: generating model based test cases from natural language requirements descriptions	2014	10.085692306764473	7.322234796115028	3739302
+3739786	SE	a model for software product quality	1995	10.128023586333695	6.918687371334298	3739813
+3742055	SE	web-based feature reduction system: a case study	2003	10.118690776747238	7.175983017169128	3742082
+3742354	SE	experiences with program static analysis	1998	9.537742433818906	7.116679220789024	3742381
+3742792	SE	brama : a new graphic animation tool for b models clearsy -2007 b conference	2006	9.926441901957489	7.269647123508098	3742819
+3745082	SE	maintaining the evolution of software objects in an integrated enviornment	1989	9.650477514097236	7.292537968339054	3745109
+3745720	SE	design of a test plan and its test cases for a translator	1988	9.591473701628448	7.314249531682723	3745747
+3746448	SE	looking back at uml	2012	9.932590585854	6.5459587234936825	3746475
+3748866	SE	towards a framework for automatic correction of anti-patterns	2015	9.51766705643293	6.659772266547723	3748893
+3749996	SE	a method for requirements capture and specification based on disciplined use cases and screen mockups	2015	10.108396358364	7.265535241100069	3750023
+3752345	SE	a novel technique proposed for testing of object oriented software systems	2009	9.38763823466744	7.125996562384449	3752372
+3754113	SE	toolset and program repository for code coverage-based test suite analysis and manipulation	2014	9.59481304550052	6.717752242632631	3754140
+3754731	EDA	an introductory tutorial on verification and validation of simulation models	2015	9.81126800191465	7.310665120956304	3754758
+3754814	SE	aspect oriented programming with hidden markov models to verify design use cases	2009	9.484247551508	7.389941323360309	3754841
+3761528	SE	generating a test strategy with bayesian networks and common sense	2006	9.600726107336474	7.350800175762222	3761555
+3762038	SE	experience with regression test selection	1997	9.461073076385453	6.609896443916045	3762065
+3768701	SE	business rules extraction from large legacy systems	2004	10.014643771361882	6.6698089839831844	3768728
+3773904	SE	building dynamic software product lines	2012	10.169495140619237	7.444957973794542	3773931
+3776539	SE	identifying aspects using fan-in analysis	2004	9.985475621229536	6.699933343317353	3776566
+3778038	SE	hybrid regression testing technique: based on requirement priorities, fault and modification history	2015	9.681507094322773	6.833910313609338	3778065
+3779716	SE	an evaluation of java code coverage testing tools	2012	10.054765599508347	6.609081430982938	3779743
+3781233	SE	towards a deeper understanding of test coverage	2008	10.130849881763986	6.693125894484576	3781260
+3782583	SE	a robust multi-objective approach for software refactoring under uncertainty	2014	9.278238111456536	6.6390465244845664	3782610
+3787948	SE	toward a code-clone search through the entire lifecycle of a software product	2014	9.788766880570325	6.863424084921465	3787975
+3788488	SE	land: a user-friendly and customizable test generation tool for android apps	2018	9.345791671763411	6.518102518494513	3788515
+3795410	SE	i2sd: reverse engineering sequence diagrams from enterprise java beans with interceptors	2011	9.760375054095068	7.00335128055673	3795437
+3796401	SE	an investigation of statistical software testing	1991	9.248720739377411	6.806389982077907	3796428
+3799265	SE	improving the dataflow-based concern identification approach	2009	9.458678269110747	6.5364142753975925	3799292
+3800241	SE	modular specification of architectural constraints	2016	10.12619622748526	7.367418102120188	3800268
+3800685	SE	model extraction of legacy c code in sccharts	2017	9.238448154008381	6.609917045726923	3800712
+3802280	SE	regaining lost knowledge through dynamic analysis and aspect orientation $an industrial experience report	2006	9.97965581903766	6.6796543000982265	3802307
+3802669	SE	performance analysis of hr portal domain components extraction	2011	9.877877094096805	6.634680872495433	3802696
+3803026	SE	choc'late: a framework for specification-based testing	2010	9.61676618961048	6.900924254135318	3803053
+3814671	SE	on the accuracy of architecture compliance checking support accuracy of dependency analysis and violation reporting	2013	9.41791787195627	6.743564956764433	3814698
+3817599	SE	reusability hypothesis verification using machine learning techniques: a case study	1998	10.073157117796505	6.640102417746332	3817626
+3818903	SE	an information retrieval approach for regression test prioritization based on program changes	2015	9.237313066142333	6.538339051987097	3818930
+3820293	SE	automating extract class refactoring: an improved method and its evaluation	2013	9.958456227721788	6.7105276907552955	3820320
+3825215	SE	extraction of conditional statements for understanding business rules	2014	9.838121296801427	7.3347161553759195	3825242
+3826880	SE	a pattern-based approach for gui modeling and testing	2013	9.634827850036645	6.976120676935884	3826907
+3827333	PL	dsl-dia - an environment for domain-specific languages for database-intensive applications	2003	9.24540787989688	7.138335297566411	3827360
+3828385	SE	dealing with software metrics collection and analysis: a relational approach	2004	9.467467035869024	6.615847617722838	3828412
+3828907	SE	prioritizing user-session-based test cases for web applications testing	2008	9.87366042306995	6.580217604643358	3828934
+3830221	SE	search-based determination of refactorings for improving the class structure of object-oriented systems	2006	9.668851138417445	6.744007663629758	3830248
+3831105	AI	model transformation by demonstration	2009	9.776151229681053	7.164095969626378	3831132
+3833354	SE	software requirements parts for construction of software requirements specifications	2013	10.007083223022573	7.117076187912444	3833381
+3834013	SE	the framesoc software architecture for multiple-view trace data analysis	2014	9.865231290110062	6.54587766740704	3834040
+3834210	SE	prioritization of metamorphic relations based on test case execution properties	2018	9.231443360531877	6.776397630471346	3834237
+3837527	SE	feature model-based software product line testing	2011	9.556678717204267	7.402055765532566	3837554
+3840869	HCI	advanced visual modeling (tutorial session): beyond uml	2000	10.139181091673652	7.099986182799874	3840896
+3841940	SE	understanding variable code: reducing the complexity by integrating variability information	2016	9.63308296413042	6.734453017542722	3841967
+3845129	SE	abstraction of multiple executions of object-oriented programs	2009	9.430811815639867	6.771595519514384	3845156
+3845428	PL	one way to select many	2016	9.992165616868183	6.501016210798096	3845455
+3846945	SE	a genetic algorithm-based approach for automated refactoring of component-based software	2017	9.488377624814587	6.699628697744106	3846972
+3849079	SE	encapsulation theory fundamentals	2008	9.294103259855984	7.280919211737096	3849106
+3850396	SE	an experimental protocol for analyzing the accuracy of software error impact analysis	2015	9.426724945369392	6.740877417531995	3850423
+3852901	SE	multi-dimensional measures for test case quality	2008	9.955840492839373	6.646937383915384	3852928
+3853226	SE	propagation analysis based on software graphs and synthetic data. (analyse de la propagation basée sur les graphes logiciels et les données synthétiques)	2016	10.071449507439613	6.506840632790277	3853253
+3854382	SE	writing and animating z specifications	1996	10.071904300995433	7.116425814710622	3854409
+3856213	SE	towards a set of application independent clustering criteria within an architecture recovery approach	2005	9.986750738589418	6.493102395475312	3856240
+3857041	SE	structural redocumentation: a case study	1995	9.634205422445573	6.791977490547821	3857068
+3857318	PL	implementing refactorings in intellij idea	2008	9.303768791356717	6.552996580969582	3857345
+3857894	SE	an eclipse gmf tool for modelling user interaction	2009	9.832298377528607	7.227861835973128	3857921
+3858924	PL	structured co-evolution of models and web application platforms	2007	9.743315852667283	7.1181637850499175	3858951
+3860253	SE	mining anomalies in object-oriented implementations through execution traces	2006	9.693102865552317	6.495369272284473	3860280
+3862567	SE	towards a design process for modeling mas organizations	2011	9.98261649572682	7.413136185696257	3862594
+3865866	SE	evaluation of coupling in the context of java interfaces (poster session)	2000	9.613119703594787	7.09271539309935	3865893
+3868349	SE	test consulting system for switching systems	1991	10.073978708287836	7.006739435702693	3868376
+3868710	SE	a data model for software representation (abstract)	1990	10.140063158676352	6.962136233415529	3868737
+3870387	SE	a survey on aspect-oriented testing approaches	2007	10.15407160182916	7.29741118935835	3870414
+3871008	SE	conducting and analyzing empirical studies in search-based software engineering	2011	9.669025609173477	6.902600387832782	3871035
+3871799	PL	redesigning the jmetal multi-objective optimization framework	2015	9.379328960858698	7.144427733095317	3871826
+3872805	SE	discovering faults in idiom-based exception handling	2006	9.44155042112107	6.887359999143825	3872832
+3874522	SE	towards mutation analysis for use cases	2016	10.082841542324962	7.3655832401222145	3874549
+3877329	SE	practical change impact analysis based on static program slicing for industrial software systems	2012	10.041430629042582	6.702836540126968	3877356
+3878658	DB	the impact of column-orientation on the quality of class inheritance mapping specifications	2015	9.934763729587825	6.502969916495439	3878685
+3878956	SE	using the case-based ranking methodology for test case prioritization	2006	9.244082842515711	6.674015250299703	3878983
+3882926	Metrics	family-based performance measurement	2013	9.31446117201769	6.801017376196095	3882953
+3884361	SE	user interface modelling with uml	2000	10.024961828806155	7.052916492450255	3884388
+3890216	SE	analysis and transformation of configurable systems	2015	9.390933180779395	6.989403264846853	3890243
+3891275	SE	reducing system testing effort by focusing on commonalities in test procedures	2016	9.2649653268307	6.757127686645416	3891302
+3891496	SE	mining design patterns from existing projects using static and run-time analysis	2008	9.402686301197194	6.9196455653237665	3891523
+3891560	SE	automated oracle comparators for testingweb applications	2007	9.255581840313372	6.846962860334898	3891587
+3895650	SE	mining change patterns in aspectj software evolution	2008	9.701887086862957	6.543731026627097	3895677
+3896401	Robotics	using a framework to augment reusability in the development of an intelligent tutoring system	2003	9.762045302714746	6.8924103385763065	3896428
+3897536	SE	creating a software-engineering knowledge base	1986	9.788661105916797	6.5823869577723215	3897563
+3899537	SE	an empirical comparison of fixed-strength and mixed-strength for interaction coverage based prioritization	2018	9.300432239882038	6.698228854664876	3899564
+3900841	SE	detecting semantic merge conflicts with variability-aware execution	2015	9.459451443659393	6.516436911522338	3900868
+3902843	SE	employing multiple views to separate large-scale software systems	2001	10.057807753311424	7.173267965474272	3902870
+3903656	SE	distributed environment integrating tools for software testing	2008	9.372447303922677	7.017712391341551	3903683
+3909177	SE	aspect mining in procedural object oriented code	2008	9.805339721671922	6.808397972675578	3909204
+3909468	SE	detection of logical coupling based on product release history	1998	9.773763059559467	7.091033392435428	3909495
+3910441	AI	conceptual modelling of knowledge-based systems using uml	2005	9.773514187320114	7.050237082759613	3910468
+3910798	SE	reqt.org - towards a semi-formal, open and scalable requirements modeling tool	2013	9.270145388348732	6.751106995752789	3910825
+3913864	SE	why statically estimate code coverage is so hard? a report of lessons learned	2015	9.5141916775039	6.501765175973303	3913891
+3914820	SE	magister: quality assurance of magic applications for software developers and end users	2010	9.780422606847921	6.901247519357157	3914847
+3918608	SE	a pattern-based approach to generate code from api usage scenarios	2006	9.610043779225393	7.23107001540704	3918635
+3919606	SE	an empirical study into class testability	2006	9.781815436897324	6.924700077903403	3919633
+3920383	SE	reducing the number of test cases for performance evaluation of components	2007	9.415106397192725	7.152463086528705	3920410
+3922298	SE	quality assurance of software applications using the in vivo testing approach	2009	9.807958912926043	6.757168603833915	3922325
+3923493	SE	activeaspect: presenting crosscutting structure	2005	9.411143950132775	7.1558678086354	3923520
+3926572	DB	supporting model evolution through demonstration-based model transformation	2009	9.925416373054551	7.111522832800682	3926599
+3933543	SE	extracting uml class diagrams from object-oriented fortran: foruml	2013	9.98478568135203	6.8144020203293705	3933570
+3933883	SE	towards destructive software testing	2006	10.009859962752195	6.766355870800832	3933910
+3936965	SE	tool integration: experiences and issues in using xmi and component technology	2000	9.777357808429644	7.079519432364912	3936992
+3938835	SE	test script generation based on design documents for web application testing	2015	9.625955740235057	6.956191292593437	3938862
+3941471	SE	migrating combinatorial interaction test modeling and generation to the web	2018	9.44879379928886	6.96749608519262	3941498
+3941890	SE	new test case prioritization strategies for regression testing of web applications	2012	9.447908640692276	6.7761134296409296	3941917
+3944257	DB	building a family of compilers	2008	9.348748140106501	7.360848562304205	3944284
+3945343	SE	towards having a cloud of mobile devices specialized for software testing	2016	9.787052243608194	6.954574196823999	3945370
+3945679	SE	extracting knowledge from association relationships to build navigational models	2003	9.660176951836286	6.754012923813683	3945706
+3946938	SE	using traceability links and higher order transformations for easing regression testing of web applications	2011	9.635334399616694	7.091301640046204	3946965
+3947239	SE	understanding case generated legacy applications: a case study	2004	9.539243993652457	6.659061982494153	3947266
+3948042	SE	usage model-based automated testing of c++ templates	2005	9.858368163066853	7.380274078880904	3948069
+3950005	SE	programming language and tools for automated testing	2007	9.259383037493887	6.8945130724675305	3950032
+3950675	Arch	modeling request routing in web applications	2006	9.395294209746359	7.1022918287963765	3950702
+3951471	SE	experiences of testing bioinformatics programs for detecting subtle faults	2016	9.23955638450254	6.547690977165482	3951498
+3952653	SE	a taxonomy for identifying requirement interactions in software systems	2007	10.055060028053196	6.883120187306982	3952680
+3954812	Robotics	dynamic state charts: composition and coordination of complex robot behavior and reuse of action plots	2013	9.678290874840362	6.536331089533923	3954839
+3955607	SE	automatic testing of object-oriented software	2007	9.413107799632604	6.7424179469754275	3955634
+3956791	SE	using dynamic mixins to implement design patterns	2014	9.273044675181195	7.362047729464579	3956818
+3965326	SE	multi-language refactoring with dimensions of semantics-preservation	2013	9.235184584455688	7.183547391899266	3965353
+3965517	SE	qtep: quality-aware test case prioritization	2017	9.27572681354359	6.524091678780417	3965544
+3965766	SE	coloração automática de variabilidades em linhas de produtos de software	2009	9.29081550423248	6.7120776876453485	3965793
+3965851	SE	a graphically based language for constructing, executing and analysing models of software systems	2002	10.022503627145415	6.839965862219223	3965878
+3976952	SE	automated support for modeling oo software	1998	9.343063779813367	7.363163499941285	3976979
+3977287	SE	a formal approach to hypertext using post-prototype formal specification	1990	9.309767775351327	7.368911303411303	3977314
+3977523	SE	search based software engineering: techniques, taxonomy, tutorial	2010	9.577781085015127	6.985952283952745	3977550
+3979596	SE	applying combinatorial testing to the siemens suite	2013	9.536402931155736	6.75270134344754	3979623
+3979809	SE	combining lexical and structural information to reconstruct software layers	2016	9.977218736749151	7.308039742898524	3979836
+3981722	SE	jtop: managing junit test cases in absence of coverage information	2009	9.5342504542001	6.674132265897889	3981749
+3984081	SE	case study in migration to object-oriented system structure using design transformation methods	1997	10.098581855897828	7.156459047407992	3984108
+3984606	SE	pareto optimal search based refactoring at the design level	2007	9.742732657270707	6.799321556619798	3984633
+3984840	SE	a methodology of verification and testing of large software systems	2003	9.971904221814109	6.9533149465886925	3984867
+3986117	SE	testing autosar software with quickcheck	2015	9.883735609816883	6.641026508581781	3986144
+3986173	SE	complexity-based prediction of faults number for software modules ranking before testing: technique and case study	2016	9.492306005550669	6.494002415255379	3986200
+3986485	SE	rigi-a system for programming-in-the-large	1988	10.115611790556589	7.368441281935575	3986512
+3988529	Metrics	enhancing understanding of discrete event simulation models through analysis	2015	9.476948203113702	7.0420088438718125	3988556
+3989087	SE	testing component compatibility in evolving configurations	2013	9.754860021312712	6.625872273993832	3989114
+3991756	SE	design and implementation of a uml-based design repository	2001	10.042582295352457	7.280776823535684	3991783
+3992681	SE	definition and modeling of process using object orientation	2008	9.48508498351186	7.357337955738537	3992708
+3993771	SE	on-the-fly and non-invasive extraction of runtime architectures using hierarchical object graphs	2010	9.536712546670831	6.836043805620355	3993798
+3994669	SE	a systematic mapping study of search-based software engineering for software product lines	2015	9.91282171008116	6.940091364691516	3994696
+3996078	SE	automatic extraction and verification of page transitions in aweb application	2007	9.671875024455703	6.932009389594728	3996105
+3996385	SE	a technique for automatically organizing software libraries for software reuse	1994	9.97168598162024	6.5671935118206415	3996412
+3997316	SE	grammar inference technology applications in software engineering	2010	9.981233213047352	7.200975262483692	3997343
+3998466	PL	executable modeling with uml. a vision or a nightmare?	2013	9.673874624270498	7.044908038675404	3998493
+3998984	SE	static/dynamic test case generation for software upgrades via arc-b and deltatest	2015	9.462714971180622	7.251199042003787	3999011
+3999413	SE	dynamic analysis for the reconstruction of system behavior models	2010	9.739132336334213	7.122681509320973	3999440
+4000585	Vision	the origin and evolution of syntax errors in simple sequence flow models in bpmn	2018	9.941165984186961	6.579502653364602	4000612
+4006034	SE	search-based software test data generation: a survey	2004	9.25235602394894	7.126161096577426	4006061
+4007133	SE	a framework for subsystem-based configuration management	2001	9.810385095667085	7.419260519407297	4007160
+4008182	SE	verification validation: model verification and validation	2002	9.968341548946414	7.0419615800744815	4008209
+4008368	SE	refactoring of legacy software using model learning and equivalence checking: an industrial experience report	2016	10.155057391159543	7.283733643098833	4008395
+4009080	SE	a systematic review of the application and empirical investigation of search-based test case generation	2010	9.898642862057978	6.795097233638041	4009107
+4009700	SE	eliminating products to test in a software product line	2010	9.44992306439675	6.9368754025013875	4009727
+4011994	SE	mutation operators for the atlas transformation language	2013	9.282015139844725	7.193707635240829	4012021
+4012999	SE	design and implementation of combinatorial testing tools	2017	9.638032082102923	7.437175214100897	4013026
+4014147	SE	studying the feasibility and importance of software testing: an analysis	2009	9.635803842826368	7.004499587617898	4014174
+4015954	SE	towards test focus selection for integration testing using method level software metrics	2013	9.466949237214747	6.923852518360998	4015981
+4019696	SE	datec: contextual data flow testing of java classes	2009	9.986030485249582	6.633230527299499	4019723
+4020257	SE	ranking programs using black box testing	2010	9.304366436515954	6.707361774072839	4020284
+4020750	SE	the impact of refactoring on class and architecture stability	2011	10.137537191429617	6.516947648846741	4020777
+4022257	SE	fepss: a flexible and extensible program comprehension support system	1998	9.661288951105591	7.196946721561619	4022284
+4025750	SE	predicting the cost-effectiveness of regression testing strategies	1996	9.456363366949995	6.5713967194665175	4025777
+4030086	SE	mining workflow models from web applications	2015	9.408248057712983	6.828799089492147	4030113
+4030527	SE	the secret life of ocl constraints	2012	9.537832979656985	7.388211088934458	4030554
+4032255	SE	gui structure and behavior from java source code analysis	2016	9.49511418367732	7.144452475306594	4032282
+4032925	PL	an information-based view of representational coupling in object-oriented systems	2003	9.78455873684417	7.20392977978511	4032952
+4033958	SE	configurations everywhere: implications for testing and debugging in practice	2014	9.364280163730324	7.279181399189942	4033985
+4034033	SE	command-form coverage for testing database applications	2006	9.629894192841702	6.516129364821688	4034060
+4034151	SE	team accessible methods for production of safety critical hypermedia documentation	2000	9.791679529275914	7.108302621264395	4034178
+4034658	NLP	a practical experience on validating gdmo-based information models with sdl'88 and '92	1997	9.80708652324641	7.307249128143222	4034685
+4035890	SE	evolution or revolution: the critical need in genetic algorithm based testing	2016	9.213620008222863	6.548449708990903	4035917
+4036296	Robotics	a linguistic approach to the development of object oriented systems using the nl system lolita	1994	9.860547706248227	6.623598668185392	4036323
+4037138	Robotics	test case prioritization for nunit based test plans in agile environment	2014	9.255979602917847	6.8270555423726185	4037165
+4037235	SE	evolutionary algorithm for bug localization in the reconfigurations of models at runtime	2018	9.427123036524952	6.502488470477277	4037262
+4039769	AI	an artificial intelligence paradigm for troubleshooting software bugs	2018	9.518926085273847	6.531923894504486	4039796
+4041435	SE	towards a benchmark for evaluating reverse engineering tools	2008	9.331171262533363	6.610040991961824	4041462
+4042512	SE	model-based testing of end-user collaboration intensive systems	2017	9.6540916604367	6.573862961549788	4042539
+4048109	EDA	validation and verification of simulation models	1992	10.010674202777468	7.3537649757623855	4048136
+4048530	SE	a classification of product sampling for software product lines	2018	9.47760689218568	6.76368609781517	4048557
+4049541	SE	a model-based representation of configuration knowledge	2009	9.679926633510751	7.416619660582079	4049568
+4049579	SE	extracting business rules from cobol: a model-based tool	2013	9.806145049174269	7.4068776331255926	4049606
+4050953	SE	dynamic test selection using source code changes	2017	9.939348988705431	6.585095258275991	4050980
+4053311	SE	web service group testing with windowing mechanisms	2005	9.57374039043975	6.695069317116536	4053338
+4054020	SE	a suite of tools for facilitating reverse engineering using formal methods	2001	9.798412713302124	6.970502860590563	4054047
+4054913	SE	classsheets: automatic generation of spreadsheet applications from object-oriented specifications	2005	9.573291942129815	7.436927243324747	4054940
+4055977	SE	optimization of test case generation using genetic algorithm (ga)	2016	9.401696020911393	6.846548920247826	4056004
+4056537	SE	towards clone detection in uml domain models	2010	10.031574954979973	6.810581337269013	4056564
+4057221	SE	conflict-aware optimal scheduling of code clone refactoring: a constraint programming approach	2011	9.229770136651783	6.7821954732912095	4057248
+4060500	SE	today/future importance analysis	2010	9.416003247950274	6.807623859323548	4060527
+4061228	SE	conceptualization, prototyping and process of hypermedia applications	2004	9.712852330154554	7.179018999144932	4061255
+4062710	SE	restructuring programs through program slicing	1994	9.286709827419653	7.338802492430006	4062737
+4068218	SE	design and implementation of a reusable software tool with application	2005	9.87525918481736	7.324279517113621	4068245
+4071941	SE	analyzing exception flow in java programs	1999	9.487019976447227	6.821181233923602	4071968
+4075825	SE	effective and scalable software compatibility testing	2008	9.360573054498584	7.342062476916182	4075852
+4077129	SE	regression testing in the presence of non-code changes	2011	9.616816550180696	7.039360397864808	4077156
+4077517	EDA	a strategy for realizing traceability in an object-oriented design environment	1994	9.826092282280618	7.157099109083752	4077544
+4079678	SE	conflict-aware schedule of software refactorings	2008	9.359927625345891	6.908803369505464	4079705
+4081112	PL	a dynamic approach for object-oriented cluster-level tests by program instrumentation	2000	9.22755428228414	7.2026627952823965	4081139
+4081526	SE	fault localization based on multi-level similarity of execution traces	2009	9.544346960781947	6.6140560295541135	4081553
+4081844	SE	an initial study on ideal gui test case replayability	2012	9.666121100464961	6.8954340619839085	4081871
+4083300	SE	reverse engineering feature models from software configurations using formal concept analysis	2014	10.067568862913305	6.849845989802921	4083327
+4088553	SE	automatic test suite evolution	2011	9.679737559069821	6.691226087232391	4088580
+4089080	SE	seviz: a tool for visualizing symbolic execution	2015	9.486026934565992	6.839191395881152	4089107
+4089940	SE	an ide for the lares toolset	2014	9.24142549378545	7.249918508630105	4089967
+4094768	PL	on variants of genericity	2003	9.8411631565518	7.439935876583897	4094795
+4095773	SE	formalization of class structure extraction through lifetime analysis.	2004	10.151148793230755	7.1535129784914435	4095800
+4097055	SE	a model and a tool for change propagation in software	2000	9.705926729433239	7.128546948561923	4097082
+4097093	SE	a framework for the efficient production of web applications	2003	10.061589186727412	6.649669433535776	4097120
+4101200	SE	harnessing automated test case generators for gui testing in industry	2016	9.5833168022974	6.789627628373827	4101227
+4102093	DB	layout techniques coupled with web2.0-based business process modeling	2009	9.806784566744248	7.039964717902024	4102120
+4102927	SE	a generic difference algorithm for uml models	2005	9.676650370520154	6.830318783255801	4102954

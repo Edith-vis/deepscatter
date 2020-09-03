@@ -1,0 +1,814 @@
+id	area	title	year	x	y	ix
+3041261	Embedded	contracts-refinement proof system for component-based embedded systems	2015	6.560587972049098	9.002455812129314	3041288
+3043027	SE	formal specification of cscw applications with concurrent abstract data types	1998	7.235889471233906	9.043876503232749	3043054
+3043084	EDA	automatic verification of application-tailored osek kernels	2017	7.046959355720421	8.968808943257502	3043111
+3043906	SE	a constraint-solving approach for achieving minimal-reset transition coverage of smartcard behaviour	2014	6.451867176516363	8.914613203862	3043933
+3044235	Networks	development of air combat hdevs model implemented in hdevsim++ environment	2017	6.941660613751335	9.035201540150632	3044262
+3047013	Theory	the sdl specification of the sliding window protocol revisited	1997	6.4305485076121505	9.147224674350555	3047040
+3047449	Robotics	graphical description of soft fault on manufacturing systems using fdi strategy: a scl approach	2012	6.78945529581874	8.527107884833763	3047476
+3047970	Logic	a combined continuous-time/discrete-event computation model for heterogeneous simulation systems	2003	7.159160337093719	8.804136282588741	3047997
+3050843	Logic	techniques for partial specification and specification of switching systems	1991	6.839092276416802	8.818154582082283	3050870
+3051643	PL	towards a runtime verification framework for the ada programming language	2014	6.9667517892124895	9.191148214202768	3051670
+3052184	Logic	formalizing and verifying compatibility and consistency of sysml blocks	2012	7.085406416217149	9.127732297854292	3052211
+3053350	SE	objectcheck: a model checking tool for executable object-oriented software system designs	2002	7.058328258925134	8.53221942811531	3053377
+3053764	SE	a formal object-oriented analysis for software reliability: design for verification	2001	7.043282621907358	8.84597956133581	3053791
+3055351	AI	separation of concerns for mechatronic multi-agent systems through dynamic communities	2004	7.156603513510042	8.419227696834932	3055378
+3055611	PL	on-the-fly construction, correctness and completeness of model transformations based on triple graph grammars	2009	7.077327721372822	8.433238506923484	3055638
+3058050	SE	synchronous sequence charts in action	1997	6.386218374323622	9.28719203961391	3058077
+3059232	SE	an integrated formal model of scenarios based on statecharts	1995	7.1621301798165	8.415466894506425	3059259
+3059533	PL	ruling the behavior of distributed software components.	1997	7.097758795986301	8.46200979730889	3059560
+3060499	SE	a petri-net approach to refining object behavioural specifications	2009	6.841426632699412	8.499583430873201	3060526
+3066882	SE	a rigorous method for testing real-time reactive systems	2001	6.969079414222992	9.230488477433571	3066909
+3067137	SE	from service specification to protocol entity impelmentation - an exercise in formal protocol development	1992	6.7153540257681446	8.650482469251322	3067164
+3068641	ECom	verified compilation and the b method: a proposal and a first appraisal	2009	6.440932752438883	8.409379462384209	3068668
+3069521	HCI	enriching context-oriented programming with structured context representation	2012	6.68973493409024	8.812016103229189	3069548
+3072737	Robotics	testing of communicating systems : 17th ifip tc6/wg6.1 international conference, testcom 2005, montreal, canada, may 31 - june 2, 2005 : proceedings	2005	6.554219887151442	9.3278204587115	3072764
+3077776	PL	monitoring method call sequences using annotations	2014	6.925439651111394	8.646578768271977	3077803
+3077809	SE	scenario-based testing from uml/ocl behavioral models	2011	6.9000083250641735	8.609093289181635	3077836
+3078555	SE	partially automatic generation of fault-trees with time dependencies	2006	6.508018377722791	9.022036007641107	3078582
+3079136	Logic	model checking merged program traces	2009	6.433772698881701	8.785093974195153	3079163
+3081011	SE	model checking suspendible business processes via statechart diagrams and csp	2006	7.209158122089129	8.52007020631377	3081038
+3082308	PL	message-passing program development by ensemble	1997	6.441801354139296	8.55712473644514	3082335
+3082659	Logic	stepwise development and model checking of a distributed interlocking system - using raise	2018	7.190831740157917	9.298751167948526	3082686
+3086161	SE	a flexible and non-intrusive approach for computing complex structural coverage metrics	2015	6.937984196206106	8.78723842893257	3086188
+3087296	SE	towards a framework for modelling and verification of relay interlocking systems	2010	7.260644197629257	9.038649649639158	3087323
+3089084	SE	model-based test generation using evolutional symbolic grammar	2012	6.970392836356541	8.484131893561978	3089111
+3090712	Logic	on compositional approaches for discrete event systems verification and synthesis	2015	6.667813747425678	9.314048111462867	3090739
+3090774	Logic	model checking multi-agent systems	2006	6.665563701646482	9.219171859439317	3090801
+3091801	SE	from finite state machines to provably correct java card applets	2003	6.6777092620172205	8.536033754079492	3091828
+3095762	SE	integrating aorta with model-based data specification languages	1998	6.651121881373801	8.504669685671699	3095789
+3097391	SE	automation of test case generation from behavior tree requirements models	2015	6.968117134110906	8.969558332559139	3097418
+3097893	PL	dynamic transition refinement	2007	7.181894723633228	8.84609483781137	3097920
+3099511	EDA	untwist your brain - efficient debugging and diagnosis of complex assertions	2009	6.32812390626094	8.795448094622346	3099538
+3101139	SE	certifying domain-specific policies	2001	6.338801823347375	8.563549745447894	3101166
+3102532	Logic	event b development of a synchronous aadl scheduler	2011	6.68945400559263	9.125381674759273	3102559
+3102651	SE	deontic protocol modelling - modelling business rules with state machines	2006	6.5119080194466825	8.443395022190806	3102678
+3103264	HCI	component composition preserving behavioural contracts based on communication traces	2005	7.107246967922103	8.908992354523086	3103291
+3103679	Embedded	specifying real-time systems with z and the duration calculus	1994	6.436634639558482	8.871630929651243	3103706
+3104308	SE	alloy meets tla+: an exploratory study	2016	6.412999243915876	8.669368938853996	3104335
+3104338	DB	techniques for modelling and verifying railway interlockings	2014	7.126460711180624	8.904722192519756	3104365
+3104368	Logic	intertwined development and formal verification of a 60x bus model	1997	6.85732217277599	9.193569568934594	3104395
+3104940	SE	on reusing atnet modules in protocol specification	1994	6.496564763994504	8.707019758631622	3104967
+3105870	Security	a formal security policy for xenon	2008	7.234886950913283	9.219271874771149	3105897
+3106016	SE	a novel test coverage metric for concurrently-accessed software components	2005	6.7801679157300985	8.735550709909331	3106043
+3108064	Embedded	an application of structural modeling and automated reasoning to real-time systems design	1989	6.572232256571753	8.673183639570512	3108091
+3109131	SE	time-optimal real-time test case generation using uppaal	2003	7.242994743024981	8.872314573384381	3109158
+3109893	EDA	combining the design of industrial systems with effective verification techniques	1994	6.632274499512135	8.807797310094266	3109920
+3112103	Logic	handling timing in a time-critical reasoning system - a case study	2001	7.135518063797275	8.856230785152588	3112130
+3112614	SE	symbolic message sequence charts	2007	6.72902081393742	8.424824937099423	3112641
+3112706	Robotics	scene transition nets simulator for multi-aspect modeling of discrete-continuous hybrid systems	2011	6.862650019026437	8.843852544092243	3112733
+3112909	Robotics	a formal model conversion approach to developing a devs-based factory simulator	2003	7.265854792502696	8.667600750322206	3112936
+3115675	SE	a formal software verification concept based on automated theorem proving and reverse engineering	2002	7.040301256158912	8.706027480974505	3115702
+3116310	Embedded	verification of software via integration of design and implementation	2006	7.1896111118710975	9.013045292007243	3116337
+3116405	Logic	modelling coordinated atomic actions in timed csp	2000	6.552394467309256	8.9695575077703	3116432
+3121251	HPC	developing safe concurrent and distributed applications with an architectural environment	1999	6.869476815865237	9.35338749469854	3121278
+3122799	SE	a dual language approach to the development of time-critical systems	2005	7.211673034296816	8.769893898955665	3122826
+3124102	Logic	static analysis techniques for robotics software verification	2013	7.096133485655421	8.873712791464826	3124129
+3127302	SE	using abstraction and model checking to detect safety violations in requirements specifications	1998	7.004090096899375	8.589226292511219	3127329
+3128423	Logic	symbolic specification and verification of data-aware bpmn processes using rewriting modulo smt	2018	7.223419436655148	8.605585158225423	3128450
+3128918	NLP	verification of automatic train protection systems with rtcp-nets	2006	7.087049919938374	9.056035030553906	3128945
+3129943	SE	pepa nets: a structured performance modelling formalism	2003	6.348763804408562	9.097069647411711	3129970
+3129988	AI	r-charon, a modeling language for reconfigurable hybrid systems	2006	6.83329529008071	9.33116734691528	3130015
+3131161	SE	on requirements verification for model refinements	2013	7.179805141358715	8.745128778263929	3131188
+3131657	Embedded	modeling a production cell as a distributed real-time system with cottbus timed automata	1998	6.433082367041429	8.947700821148896	3131684
+3135969	SE	time exceptions in sequence diagrams	2006	6.87659081796939	8.87590054598035	3135996
+3136750	Embedded	from auml protocol diagrams to event b for the specification and the verification of interaction protocols in multi-agent systems	2008	6.841883995445532	9.024810648649046	3136777
+3137166	SE	formal specification and verification of a procedural protocol: case study	1995	7.041946615807457	9.297734307807657	3137193
+3137931	Embedded	excharon: improved modeling language for cyber-physical systems based on charon	2013	6.5507099284746815	9.192852765397472	3137958
+3138113	SE	self-repairing systems modeling and verification using agg	2009	6.477535777924977	9.317050933151167	3138140
+3138636	SE	circus models for safety-critical java programs	2014	6.316043151007094	8.611716727819266	3138663
+3139063	Embedded	s-taliro: a tool for temporal logic falsification for hybrid systems	2011	7.0474211661215875	9.266316439080112	3139090
+3139850	SE	equivalence checking of communicating uml statechart diagrams	2012	6.5044996033022295	8.669907929169836	3139877
+3140962	SE	combining sequence diagrams and ocl for liveness	2005	7.224005440676247	8.514517902251757	3140989
+3141543	Logic	dev-promela: an extension of promela for the modelling, simulation and verification of discrete-event systems	2017	6.75593382091245	9.155850353131274	3141570
+3141759	Logic	amt: a property-based monitoring tool for analog systems	2007	6.589444273532894	8.856172219639909	3141786
+3147709	Robotics	specification and modeling of flexible manufacturing systems using behaviors and petri nets building blocks	1999	6.758356003878647	8.970201018840658	3147736
+3151683	SE	specifying and verifying requirements for election processes	2008	6.719186078772576	9.05195457556958	3151710
+3153837	Logic	verifying security protocols: an asm approach.	2005	6.372983833146948	8.673363368131513	3153864
+3154630	Logic	a case study on formal design of hybrid control systems	2001	6.924295700469763	9.316142565052958	3154657
+3156203	SE	verification of uml-based real-time system designs by means of ctla	2000	6.6198115973855804	9.038363269217193	3156230
+3156284	AI	an extensive model checking framework for multi-agent systems	2014	6.9771566988419815	8.713650293803067	3156311
+3156838	SE	specification and refinement of a buffer of length one	1996	6.611078618584251	8.818742959194038	3156865
+3157580	Graphics	guest editorial: special issue on computer automated multi-paradigm modeling	2002	7.048977529406503	8.626391480714654	3157607
+3160696	SE	decomposing automatic train control verification system with projection	2015	7.255797195293487	9.181822804625297	3160723
+3160875	SE	a practical study of semi-automatic osi protocol implementation	1988	6.8548426307350185	9.303016777654996	3160902
+3161097	SE	rt-inconsistency: a new property for real-time requirements	2011	6.462301061282197	9.333571184423068	3161124
+3162786	AI	jafmas: a multiagent application development system	1998	6.609955105118032	9.125407928696381	3162813
+3162943	Logic	06121 report: break out session on guaranteed execution	2006	6.846257490052827	8.548302538799902	3162970
+3164098	Robotics	design of elevator control systems using statecharts	2013	6.881423377421888	8.443441100378562	3164125
+3164304	SE	software behavior model measuring approach of combining structural analysis and language set	2014	6.694217270191934	8.547337810506754	3164331
+3165972	SE	auv modeling and analysis using a colored object-oriented petri net	2006	7.137206475945817	8.592461599853626	3165999
+3166100	Logic	loewe: a lotos engineering workbench	1993	6.5384573359781655	8.659494935501911	3166127
+3166519	DB	towards a formal semantics for an integrated sa/rt and z specification language	1997	6.654646031159071	8.474528669746881	3166546
+3167996	SE	integrated environment for verifying and running distributed components	2016	7.1060796954475425	9.191027244055745	3168023
+3169288	Robotics	automatic property checking of robotic applications	2017	7.232938425504522	9.139826701366909	3169315
+3169390	Logic	six issues concerning future directions in concurrency research	1996	6.893590985030494	8.409846659927041	3169417
+3170822	Embedded	modelling complex timing requirements with refinement	2016	6.743105661728211	9.116249081736393	3170849
+3171849	SE	on the complexity of partial order trace model checking	2008	6.357682069375818	9.19161255938959	3171876
+3180925	SE	petri net diagnosability analyzer	2016	6.816597824585986	9.087270136462989	3180952
+3182677	Robotics	coverage-guided test generation for continuous and hybrid systems	2009	7.098282793785878	8.549460647899576	3182704
+3183417	Logic	specification and verification of dynamic topology systems: on the applicability of query- and data-type-reduction-based abstractions	2008	6.4067790140509375	9.189398794815023	3183444
+3184946	SE	visual specification and analysis of contract-based software architectures	2017	7.183313746510068	9.225582173654557	3184973
+3186777	SE	on formalizing uml state machines using asm	2004	6.592875046408301	8.457925152103405	3186804
+3187534	Embedded	proving safety properties for embedded control systems	1996	6.670421790107111	9.270933035666367	3187561
+3187951	SE	a formal analysis of requirements-based testing	2009	6.390742076969651	8.49905248237381	3187978
+3188180	Logic	a symbolic semantics for a calculus for service-oriented computing	2009	6.763613424163872	8.754907437019886	3188207
+3188509	Embedded	verifying ptolemy ii discrete-event models using real-time maude	2009	6.780230120826023	9.313322402840509	3188536
+3189520	Logic	logical verification and systematic parametric analysis in train control	2008	6.883733646563604	9.261536415122936	3189547
+3189954	EDA	a framework for verification of systemc tlm programs with model slicing: a case study	2016	7.192600090631	9.358269711861077	3189981
+3190762	SE	a systematic approach to automatically generate multiple semantically equivalent program versions	2008	6.4417382471004645	8.49058935508845	3190789
+3193120	Logic	modeling dynamic domains with congolog	1999	6.5821487307397435	8.460189127285387	3193147
+3196506	SE	compositional verification of uml dynamic models	2007	7.0862065752911105	8.992152775649934	3196533
+3198467	SE	formal verification of complex properties on plc programs	2014	6.969357878896361	9.102935850567157	3198494
+3198484	AI	proving the effectiveness of negotiation protocols kqml in multi-agent systems using event-b	2017	7.003214445802037	8.938258642112205	3198511
+3200542	SE	checking compositions of uml sequence diagrams for timing inconsistency	2000	7.127413965224768	8.709658524048654	3200569
+3201185	Logic	validation of gspn and swn models through the prod tool	2002	6.384489602991335	8.695334481175031	3201212
+3201974	Embedded	integrating methods for the design of real-time systems	1996	7.26617849592337	8.801609288247272	3202001
+3205786	AI	an execution control system for autonomous robots	2002	6.451787424332602	9.235529413944313	3205813
+3206214	SE	from scenarios to timed automata: building specifications from users requirements	1995	6.959549281329509	9.070887461997104	3206241
+3206223	SE	towards property oriented testing	2007	6.352831561041943	8.644491236981054	3206250
+3207702	SE	dynamic model learning using genetic algorithm under adaptive model checking framework	2006	6.4807338053241015	9.034370306728276	3207729
+3209221	SE	using z to specify telephone features	1995	7.271206412516237	9.17716989107227	3209248
+3210990	SE	a set of performance and dependability analysis components for cadp	2003	7.026621717503593	9.126611049354382	3211017
+3211573	SE	decomposability in input output conformance testing	2013	7.0892526857014815	9.101851093918373	3211600
+3211685	Logic	formal methods in cad from an industrial perspective (abstract)	1998	7.092024507110191	8.884467738768114	3211712
+3213490	SE	tent: test sequence generation tool for communication systems	1989	7.112890056940433	8.795046940441836	3213517
+3215799	SE	extending statecharts to model system interactions	2015	6.814144711112491	8.929808283311571	3215826
+3216815	SE	static automated program repair for heap properties	2018	6.3225674146327755	8.894121991197927	3216842
+3217038	AI	a model transformation approach for verifying multi-agent systems using spin	2011	6.4357674896611	8.964325422374626	3217065
+3217156	Embedded	ptera: an event-oriented model of computation for heterogeneous systems	2010	6.496376361708993	9.339181748081844	3217183
+3218139	PL	an overview of the mop runtime verification framework	2011	6.521440742639348	9.011825956294679	3218166
+3218421	SE	active learning from blackbox to timed connectors	2016	6.7310763381762255	9.082914088106305	3218448
+3218790	Logic	qualitative and quantitative model checking of distributed probabilistic timed actors	2018	6.5515126281159235	9.277042414762906	3218817
+3220439	SE	modeling and verification using uml statecharts - a working guide to reactive system design, runtime monitoring and execution-based model checking	2006	7.11020752439403	8.764284168570546	3220466
+3221025	Logic	event automata as a generic model of reactive systems	1995	6.351022612400037	8.690804922937245	3221052
+3222641	Embedded	systematic design of real-time systems based on csp+t process algebra	2004	6.688029606946473	9.199649785584525	3222668
+3223271	PL	towards a formal semantics of the tesl specification language.	2015	7.043468706618409	9.119693518265732	3223298
+3223940	SE	dynamic verification of trust in distributed open systems	2007	7.1298945989188045	9.217975498848322	3223967
+3223967	SE	model checking for an executable subset of uml	2001	6.610541217674034	8.788848426774674	3223994
+3224777	Robotics	formal description of variability in product families	2011	6.334504961381747	8.636146319028972	3224804
+3224802	SE	two-way traceability and conflict debugging for aspectltl programs	2013	6.348223675499338	8.784472939420787	3224829
+3226156	SE	analyzing temporal properties of abstract models	2011	7.219676214640017	8.783329206665103	3226183
+3226363	Embedded	formal verification of internal block diagram of sysml for modeling real-time system	2015	6.898553184161362	9.223489124377439	3226390
+3230452	Logic	csp and kripke structures	2015	6.891191035516209	8.66284059026634	3230479
+3231529	SE	integration of functional and timed testing of real-time and concurrent systems	2003	6.907158769297294	8.966516248248839	3231556
+3232209	Vision	formal description, time and performance analysis. a framework	1990	6.642211378161473	8.775857665173739	3232236
+3232889	SE	descriptions of timing in requirements for reactive systems	2000	6.917370990150098	9.171717314316373	3232916
+3233354	Embedded	framework for simulation of hybrid systems: interoperation of discrete event and continuous simulators using hla/rti	2011	7.084081793795483	9.187717527539194	3233381
+3236701	SE	tbfv-se: testing-based formal verification with symbolic execution	2018	6.697368209900644	8.594492558194899	3236728
+3236857	EDA	rewriting logic and elan: prototyping tools for petri nets with time	2001	6.6676033446332434	8.953815778441891	3236884
+3241162	Logic	verifying hybrid systems modeled as timed automata: a case study	1997	6.763489921218414	9.315019228830533	3241189
+3241871	NLP	a petri-net-based modeling framework for automated negotiation protocols in electronic commerce	2005	6.772129019566357	8.933284874723329	3241898
+3242073	Logic	lola as abstract planning engine of planics	2014	6.436216889184718	8.77374857504434	3242100
+3242487	Logic	cadp 2006: a toolbox for the construction and analysis of distributed processes	2007	6.855287134839679	8.416944201918376	3242514
+3243732	AI	specification and verification of agent interaction protocols in a logic-based system	2004	7.016946331879897	9.202251621960144	3243759
+3246975	SE	automated verification of system requirements and software specifications	2016	7.132330203969826	8.819452625359661	3247002
+3247372	DB	introduction to the iso specification language lotos	1987	7.006872592604092	9.17624475650216	3247399
+3248108	Vision	feature interaction detection: a lotos-based approach	2000	6.403854467387973	9.194663039154493	3248135
+3249184	Embedded	specifying mode requirements of embedded systems	2002	7.010319062579571	9.232934061883203	3249211
+3250128	Logic	qualitative und quantitative analysis of timed sdl specifications	1993	6.832933247447285	8.920619840256965	3250155
+3251355	Web+IR	realizability of conversation protocols with message contents	2005	6.386190314956	9.287326854393394	3251382
+3252442	PL	formal analysis tools for the synchronous aspect language larissa	2008	6.437911561491573	8.818980749865528	3252469
+3252578	SE	rule-based design methodology for solving control problems	1991	6.96337181596107	8.804984904261689	3252605
+3254670	SE	program repair suggestions from graphical state-transition specifications	2008	6.745867552601316	8.495021833206446	3254697
+3257129	Logic	if validation environment tutorial	2004	7.116747787434254	8.779711650835551	3257156
+3260084	SE	consistent object-oriented modeling of system dynamics with state-based collaboration diagrams.	2003	7.088085160204184	8.544107334202051	3260111
+3264512	OS	from a verified kernel towards verified systems	2010	6.7646235124032446	8.750520217701693	3264539
+3265371	PL	bidirectional model transformation with precedence triple graph grammars	2012	6.8770660513778745	8.60393947692098	3265398
+3265857	SE	well-defined generalized stochastic petri nets: a net-level method to specify priorities	2003	6.74192141639895	9.187993236930733	3265884
+3267449	SE	g-nets: a petri net based approach for logical and timing analysis of complex software systems	1997	7.100555085431676	9.142315314299033	3267476
+3269555	EDA	generating parallel based on planning graph analysis of predicate/transition nets	2002	6.465770318256188	8.605807169261395	3269582
+3271035	NLP	a homogeneous actor-based monitor language for adaptive behaviour	2018	6.446126624572363	8.884800970758908	3271062
+3271237	SE	concurrent test case generation from uml activity diagram based on dynamic programming	2017	7.093542102793353	8.622944216659029	3271264
+3271415	SE	state machine specification directly in java and c++ (poster session)	2000	6.541285577627813	8.683092975023845	3271442
+3273011	Embedded	software models for real-time systems	1992	6.71521900322963	8.987756829963761	3273038
+3273736	SE	formal verification of tokeneer behaviours modelled in fuml using csp	2010	6.850182798831197	8.860689345788412	3273763
+3279450	SE	some current topics in model checking	2006	7.030196597219643	8.554194008183607	3279477
+3279844	EDA	concurrenc: a new approach towards effective abstraction of c-based sldls	2009	7.1215474223526565	9.296879461571928	3279871
+3286188	SE	relating inter-agent and intra-agent specifications (the case of live sequence charts)	2005	6.404971285247727	8.796315216951266	3286215
+3286482	Logic	tomspin-a tool for modelling with stochastic petri nets	1995	6.433179640144062	8.832861902166494	3286509
+3286823	EDA	structuring multilevel discrete-event systems with dependency structure matrices	2017	6.572572532759707	8.801772870548776	3286850
+3290847	EDA	testing embedded real-time systems	2000	6.682766334709724	9.333973734827882	3290874
+3292590	Embedded	validating real-time systems by history-checking trio specifications	1992	6.576345616228499	8.527132045273424	3292617
+3295838	SE	incremental feature validation: a synchronous point of view	1998	6.586626429670794	9.00887498046515	3295865
+3296756	SE	generating efficient test sets with a model checker	2004	6.373373503390397	8.828996187993846	3296783
+3297159	PL	efficient java code generation of security protocols specified in anb/anbx	2014	6.971121557127653	9.194493015022395	3297186
+3297294	SE	model checking raise applicative specifications	2007	6.911558483712177	8.839565051581578	3297321
+3298173	Theory	a logical framework for distributed systems and communication protocols	1998	6.9233342541683065	9.213913306181377	3298200
+3298337	Logic	confidentiality-preserving refinement is compositional - sometimes	2002	6.394355142318176	8.643998037972503	3298364
+3298942	Embedded	a type system for spardl	2012	6.516156730261593	8.616959466474222	3298969
+3301741	DB	a characterization of uml diagrams and their consistency	2006	6.516663629556171	8.534247754087694	3301768
+3302469	Logic	evp: integration of fdts for the analysis and verification of communication protocols	1996	6.768681129759643	9.09273723677776	3302496
+3303418	Embedded	timed automata patterns	2008	6.552816729620059	9.251229530061536	3303445
+3305064	Robotics	an event based control architecture for non linear systems diagnosis	2007	6.540620005815972	8.421909802531095	3305091
+3305811	SE	deriving software performance models from architectural patterns by graph transformations	1998	7.040793621526513	9.13514440374769	3305838
+3306924	Embedded	integrated hybrid systems modeling and simulation methodology based on hdevs formalism	2013	7.080528703378904	8.800902693731032	3306951
+3310425	Embedded	m/cd++: modeling continuous systems using modelica and devs	2005	6.868123118834032	8.6992395479514	3310452
+3312412	SE	synthesis of distributed testers from true-concurrency models of reactive systems	2003	6.690123298760097	8.570846616328579	3312439
+3313133	SE	using learning techniques to generate system models for online testing.	2008	6.5606216026196345	8.882412466562549	3313160
+3314813	SE	lustructu: a tool for the automatic coverage assessment of lustre programs	2005	6.6702763997181895	8.567790383580695	3314840
+3319631	SE	specification and verification of multi-agent applications using temporal z	2004	6.697072508485885	8.710689524270368	3319658
+3320955	SE	temporal-logic property preservation under z refinement	2011	6.399120224453387	8.68543614756717	3320982
+3321558	HCI	on the difficulties of concurrent-system design, illustrated with a 2×2 switch case study	2009	6.539473536456022	9.031007797775807	3321585
+3321657	Logic	can we verify cyber-physical systems?: technical perspective	2013	6.471593292599835	9.078067217878148	3321684
+3322113	Logic	aspects of protocol conformance in inter-agent dialogue	2003	6.442711571056697	8.930485568299071	3322140
+3322562	SE	attest: a testing toolkit for validating software properties	2007	6.639334475818486	8.537393290861688	3322589
+3324032	Embedded	requirements-based testing of real-time systems: modeling for testability	1985	6.9679754931966125	9.10602534588834	3324059
+3324256	Logic	supervisor computation and representation: a case study	2010	6.779052225880194	8.921103243795342	3324283
+3327013	DB	the building blocks for specifying communication behavior of complex objects: an activity-driven approach	1996	6.7292434056144055	8.590022527005791	3327040
+3328528	SE	test case generation using stochastic automata networks: quantitative analysis	2004	6.535107273816393	9.022508045265793	3328555
+3333614	Embedded	modeling & simulation framework for the inclusion of simulation objectives by abstraction	2014	6.320668803067405	8.748751608973189	3333641
+3334950	EDA	interfacing software libraries from nondeterministic prototypes	2003	7.167942181549567	8.414834856855752	3334977
+3335535	SE	hierarchical behavior annex: towards an aadl functional specification extension	2018	7.135166612397917	9.27252316091311	3335562
+3335718	SE	automated analysis of feature models using atomic sets	2008	6.825297923504085	8.919065411582741	3335745
+3336366	SE	leveraging test generation and specification mining for automated bug detection without false positives	2012	6.99869324441662	8.409363563933361	3336393
+3336475	Logic	discrete event process controller synthesis using vdm/sup ++/	1995	7.034308053613512	9.176408448207873	3336502
+3336961	Embedded	a refinement calculus for the development of real-time systems	1998	6.737718129765764	8.479093277996636	3336988
+3337820	Logic	simulink timed models for program verification	2013	6.74028120026076	8.607838874408728	3337847
+3338038	SE	automatic information flow analysis of business process models	2012	7.1744529619038735	8.671326104229879	3338065
+3338055	SE	on quantitative analysis of time open workflow nets and parametric extension	2015	6.891448888492688	9.132944742283186	3338082
+3340084	Logic	an evaluation of two recent reachability analysis tools for hybrid systems	2006	6.354453338561133	8.422952112441722	3340111
+3342199	SE	a technique for automatic validation of model transformations	2010	6.419795415272825	8.743952863741688	3342226
+3342230	PL	executable hybriduml and its application to train control systems	2004	6.530960897562576	8.484237207986066	3342257
+3342725	SE	comparison of specification decomposition methods in event-b	2016	7.206544936316187	8.648026922477223	3342752
+3343585	SE	semantic analysis of component-aspect dynamism for connector-based architecture styles	2012	7.181908267355308	8.986562674667988	3343612
+3343803	Robotics	an architecture for embedded software integration using reusable components	2000	6.45505628851679	9.246869886663877	3343830
+3344336	Logic	type inference of simulink hierarchical block diagrams in isabelle	2017	6.715497915373343	8.747401676590151	3344363
+3344694	Logic	formal guarantees for localized bug fixes	2013	7.0225662088434815	8.576237113140209	3344721
+3345268	Embedded	simulation processors and their collaboration for devs models integrated with universal coupling specification	2007	6.700671991117701	9.053164932268153	3345295
+3346393	SE	using robustness testing to handle incomplete verification results when combining verification and testing techniques	2017	7.246899891119788	8.757615098399327	3346420
+3350740	Logic	synthesis from recursive-components libraries	2011	6.6149604512584945	8.487682187615496	3350767
+3353537	DB	combining components and policies	1994	7.226275346533345	8.9258096772016	3353564
+3356464	SE	composable semantics for model-based notations	2002	7.213043672131236	8.907229413280836	3356491
+3357152	AI	a combined on-line/off-line framework for black-box fault diagnosis	2009	6.33302237480025	8.889879535376076	3357179
+3358183	EDA	scemit: a systemc error and mutation injection tool	2010	7.1340442724564825	8.449342805690772	3358210
+3362981	Embedded	extending the real-time maude semantics of ptolemy to hierarchical de models	2010	6.566868747109523	9.276667284563617	3363008
+3364411	SE	simulation and verification tool for hierarchical real-time systems	2004	6.621727310957462	8.99101373126423	3364438
+3367239	SE	an approach for checking osek/vdx applications	2013	6.418412347251389	9.046115702702725	3367266
+3368162	EDA	an approach to multi-paradigm controller synthesis from timing diagram specifications	1992	6.54981796214741	8.824042467071457	3368189
+3368330	EDA	a tool for tailored code generation from petri net models	2005	7.173176692696637	8.788039746975842	3368357
+3375148	Logic	modelling of hybrid systems based on extended coloured petri nets	1994	6.3113000424617045	8.62603423014144	3375175
+3375646	SE	refining interfaces: the case of the b method	2009	6.888490643728344	8.593728860692993	3375673
+3375721	SE	pollux: safely upgrading dependent application libraries	2016	6.455930490800981	9.128709418051436	3375748
+3375980	SE	deciding properties of message sequence charts	2003	6.789094066862413	8.946326893627203	3376007
+3376235	AI	using formal methods to reason about taskload and resource conflicts in simulated air traffic scenarios	2017	6.620223662928042	8.84464709878228	3376262
+3377612	SE	on the specification of full contracts	2009	7.1132188722676375	8.451441818804406	3377639
+3381001	Embedded	optimized hybrid verification of embedded software	2014	7.080246798095211	8.875827483288283	3381028
+3382663	AI	developing software controllers with petri nets and a logic of actions	2001	6.9916654690027435	8.614097550211781	3382690
+3384181	Embedded	verifying timing consistency in formal specifications	1996	6.496357694451477	9.177610509229762	3384208
+3384503	AI	formal verification of alica multi-agent plans using model checking	2018	6.805498220251905	9.167247450025046	3384530
+3384579	Logic	nusmv model verification of an airport traffic control system with deontic rules	2016	7.2606030575813065	9.342673492646659	3384606
+3386703	SE	automated analysis of stateflow models	2017	6.94939062095029	9.063401394636887	3386730
+3386740	Logic	a case study in abstraction using e-lotos and the firewire	2001	6.3906571698584775	9.316367054742212	3386767
+3387969	PL	modeling with scala	2018	6.314550844283496	8.456035039699957	3387996
+3388461	SE	automata for context-dependent connectors	2009	6.402154729955398	9.365317013375916	3388488
+3390339	SE	a simulation approach to verification and validation of formal specifications	2002	7.054821161574267	8.581704411396847	3390366
+3393418	SE	modelling timed reactive systems from natural-language requirements	2016	6.92157566186191	8.752041928899562	3393445
+3395768	SE	asnst: an abstract syntax notation-one support tool	1989	6.860462336743178	9.266650645892645	3395795
+3400005	Logic	uml-based modeling and formal verification of security protocols	2005	7.003694690867218	8.736816268026631	3400032
+3403819	SE	making software verification tools really work	2011	7.120220336780469	8.445667152339318	3403846
+3404027	SE	coloured petri nets with parallel composition to separate concerns	2010	7.011388308047732	8.762448788649532	3404054
+3404925	Logic	formal aspects of component software	2011	7.134068354257035	9.314600478128447	3404952
+3408063	Embedded	safety property analysis techniques for cooperating embedded systems using lts	2007	6.374222102709526	9.275703537712227	3408090
+3408641	SE	model-based testing from input output symbolic transition systems enriched by program calls and contracts	2015	6.713226925057769	8.43366138885703	3408668
+3412371	SE	a graph transformation approach for testing timed systems	2012	7.09762593167258	8.598845325691498	3412398
+3413147	Logic	verification of program computations	2015	6.493470166182402	8.433325826580312	3413174
+3413554	Logic	model checking uml statechart diagrams using jack	1999	6.336981496440632	8.802690141413851	3413581
+3413752	Visualization	an application ofweb-service interfaces	2007	6.6001453017633045	9.192233540434453	3413779
+3414169	SE	generation of tlm testbenches using mutation testing	2012	7.200422584893673	8.511019182871872	3414196
+3415654	ECom	using circus for safety-critical applications	2004	6.565831680352726	8.449734642479786	3415681
+3417195	SE	performance analysis of a uml micro-business case study	2004	7.103462280384593	8.64470697849746	3417222
+3417208	Networks	membership services and protocols for cooperative frameworks of processes	1993	7.202045952569313	9.224221693859016	3417235
+3417652	Logic	equivalent semantic translation from parallel devs models to time automata	2007	6.515611649822196	9.348040393760924	3417679
+3418016	Robotics	a pi-calculus formalism for discrete event simulation	2008	6.992428891301394	9.318509157267648	3418043
+3419096	Logic	development of verification and conformance testing tools for a railway signaling communication protocol	2009	6.6665731963555945	9.366515190124439	3419123
+3421745	ECom	refinement of actions in circus	2002	6.633525447270466	8.425567345385389	3421772
+3421943	PL	nasa formal methods	2018	6.447557453287617	9.312784066941287	3421970
+3428687	SE	a general translation from nested petri nets into promela	2014	6.4683650211137165	8.870091038125235	3428714
+3430582	SE	safety analysis of trampoline os using model checking: an experience report	2011	7.253614901304507	8.835985053276731	3430609
+3431591	SE	analysis of firing rates in petri nets using linear algebra	1985	6.417997366402968	9.110155054139303	3431618
+3434254	SE	the model checker spin	1997	6.32808597696555	9.357985822089036	3434281
+3434479	SE	applying csp || b to information systems	2007	6.770758214711238	9.287366323260835	3434506
+3440729	Embedded	braceassertion: runtime verification of cyber-physical systems	2015	6.8953244716054956	9.32931308557683	3440756
+3441564	SE	re-designing tasking structures of ada programs for analysis: a case study	1994	7.145629227539303	9.29165449112207	3441591
+3443502	SE	stepwise refinement of control software - a case study using raise	1994	7.002687794162648	8.700659373876004	3443529
+3445752	Logic	towards automatic exception safety verification	2006	6.4051470654217555	8.858727009888174	3445779
+3448422	Logic	transforming sources to petri nets: a way to analyze execution of parallel programs	2008	6.896989320665063	8.86028792898063	3448449
+3450232	SE	a formal semantics of uml statecharts by means of timed petri nets	2005	6.514680759134477	9.016178181449131	3450259
+3451266	Robotics	implementation of supervisory control systems based on state machines	2009	6.660769216957696	9.299592960919245	3451293
+3451488	SE	"""""""fly me to the moon"""": verification of aerospace systems"""	2010	7.253080230206742	9.304897945179128	3451515
+3452222	Robotics	towards a formal verification methodology for collective robotic systems	2012	6.891869320538076	9.115714789306564	3452249
+3454902	Embedded	moby/rt: a tool for specification and verification of real-time systems	2003	6.9483739445178925	8.789003716812559	3454929
+3455328	SE	timing analysis of uml sequence diagrams	1999	6.779562444468929	8.9878112843946	3455355
+3456167	SE	enhancing spark's contract checking facilities using symbolic execution	2011	6.990317569625225	8.790229501307191	3456194
+3457760	EDA	promising directions in hardware design verification (invited)	2002	6.799905214352039	8.727399139787927	3457787
+3458954	SE	securing uml information flow using flowuml	2006	6.897461493471877	8.742695461149237	3458981
+3459213	PL	unifying denotational semantics with operational semantics for web services	2007	6.4469974784770505	9.038841866819984	3459240
+3460205	Embedded	a real-time discrete event system specification formalism for seamless real-time software development	1997	7.080099034670949	9.017248298925944	3460232
+3460592	SE	validating real-time systems by history-checking trio specifications	1992	7.089202552138381	8.700992948131967	3460619
+3460887	NLP	formal semantics for behavioural substitutability of agent components: application to interaction protocols	2001	6.4970189000098335	9.121930712749199	3460914
+3461871	SE	a framework for off-line conformance testing of timed connectors	2015	6.642510778385727	9.278723904394052	3461898
+3462907	DB	formalizing database recovery	1997	7.044266643576568	8.742109421686658	3462934
+3462915	Logic	process ordering in a process calculus for spatially-explicit ecological models	2012	6.3562725707914725	8.561830313573331	3462942
+3463582	SE	model-based testing - a glossary	2004	6.546804173123541	8.880736897933444	3463609
+3469375	SE	gccs: a graphical coordination language for system specification	2000	6.43692389422302	9.23913590232356	3469402
+3470267	Logic	symmetry and partial order reduction techniques in model checking rebeca	2009	6.370710039137813	9.068396801082724	3470294
+3475719	SE	discovering thread interactions in a concurrent system	2005	6.429532446498138	9.126033228597972	3475746
+3476568	NLP	a generic model based on automata for multi-agent systems.	2005	7.0668099535764615	8.498888709874139	3476595
+3477006	EDA	expressing dynamic reconfiguration by partial evaluation	1996	6.632756638446015	8.74018629083685	3477033
+3477347	Robotics	representing extended finite state machines for sdl by a novel control model of discrete event systems	2006	7.0118327752467335	8.88267104808059	3477374
+3477890	Embedded	transforming rtpa mathematical models of system behaviors into c++	2006	6.795718912976143	8.955585349872262	3477917
+3478354	Robotics	a formal approach for the specification, verification and control of flexible manufacturing systems	2007	6.659367085702812	8.78236945770021	3478381
+3479076	Logic	an fsm-based program generator for communication protocol software	1994	6.651693763210996	8.756090982640716	3479103
+3479263	Logic	a simulink hybrid heart model for quantitative verification of cardiac pacemakers	2013	7.074012332892267	8.86622800282289	3479290
+3481607	Robotics	formalising concurrent uml state machines using coloured petri nets	2014	6.3547368797054995	8.894380442875466	3481634
+3484236	EDA	hornets: nets within nets combined with net algebra	2009	6.726330960335437	9.365337545382811	3484263
+3484482	Embedded	the production cell: a verified real-time system	1996	6.85166985837964	8.912989416251033	3484509
+3484789	Logic	deductive verification of cryptographic software	2009	7.069707128025407	8.89317098560443	3484816
+3487083	NLP	on abstraction-based deadlock-analysis in service-oriented systems with recursion	2017	6.7447430177330325	9.339449691158368	3487110
+3488202	SE	automated adaptation via quantitative partial model checking	2016	6.47959649851934	8.725666603113165	3488229
+3488325	SE	static analysis by abstract interpretation of embedded critical software	2011	6.897529335386549	9.296683750056008	3488352
+3488603	Embedded	refinement from a control problem to programs	1995	6.449100690816428	8.5414107693364	3488630
+3489549	SE	symbolic model based testing for component oriented systems	2007	7.030268704759936	9.166464796377635	3489576
+3491084	Robotics	decentralized control of robotic swarms from high-level temporal logic specifications	2017	7.20929110075623	8.929404011862605	3491111
+3492549	SE	runtime verification logics a language design perspective	2017	6.820763961746317	9.050785223193179	3492576
+3495241	SE	formal verification of plc programs using the b method	2012	7.233511217659575	9.189065089205883	3495268
+3495490	SE	surrendering to the need for speed while maintaining visibility in adverse code conditions	2007	6.717631032511847	8.784813626938284	3495517
+3497122	SE	the key tool	2004	6.896267933992175	8.602581412462595	3497149
+3499104	Mobile	on the formalization of uml activities for component-based protocol design specifications	2012	6.9835907020909325	9.212345747051119	3499131
+3501455	NLP	formal verification of a simple automated negotiation protocol.	2006	6.482895641302804	8.7551900751185	3501482
+3504120	EDA	abstract architecture representation using vspec	1999	6.4311601481749054	8.918159756054735	3504147
+3504977	Logic	product line process theory	2016	7.164304768071144	8.47411373573914	3505004
+3506237	SE	semantics of message sequence charts	2005	7.108730946642601	8.885231818713844	3506264
+3506308	Embedded	formal refinement and partitioning of a fuel pump system for small aircraft in hybrid event-b	2016	7.1510282126347215	9.337904325205836	3506335
+3510088	EDA	a formal approach to determining parallel resource bindings: experience report	1994	6.314281760076038	9.122989134006367	3510115
+3512353	SE	engineering process for an online testing process of control software in production systems	2011	6.571226492335562	9.250362066906773	3512380
+3512691	Robotics	automatic synthesis of cooperative multi-agent systems	2014	6.3668574526854504	9.158159646951017	3512718
+3512826	EDA	verifying the structure and behavior in uml/ocl models using satisfiability solvers	2016	7.0736417629275135	8.907499462068529	3512853
+3513220	SE	tgv: theory, principles and algorithms	2004	6.9225621165649605	8.905213874015578	3513247
+3513233	EDA	semi-formal verification at ibm	2006	7.227433328686369	8.531472755696786	3513260
+3513771	SE	ots/cafeobj2jml: an attempt to combine design by contract with behavioral specifications	2012	7.195147014309	8.459450649185507	3513798
+3513773	SE	architecture-directed refinement	1994	7.271789938675418	8.60424186910646	3513800
+3515037	Robotics	experiments in behavior composition	1997	6.83681793907004	9.23926627778414	3515064
+3519782	HCI	the definition of a graphical g-lotos editor using the meta-tool loggie	1991	6.949147502816102	8.994203837822868	3519809
+3520497	SE	model-based testing of cooperating robotic systems using coloured petri nets	2013	7.271119714049005	9.304105743306014	3520524
+3521774	PL	equivalence checking between function block diagrams and c programs using hw-cbmc	2011	6.924459226371553	9.041795139094402	3521801
+3522301	Embedded	a requirements specification method for adaptive real-time systems	1991	6.682147568368349	8.937260992082123	3522328
+3524814	Embedded	isis: runtime verification of tlm platforms	2009	6.327776838120951	9.179796060326627	3524841
+3526266	Embedded	verifying hierarchical ptolemy ii discrete-event models using real-time maude	2012	6.691985759789673	9.274304563583403	3526293
+3526479	Embedded	activity regions for the specification of discrete event systems	2010	6.424727643977718	8.511996655336729	3526506
+3528748	Logic	metareasoning about security protocols using distributed temporal logic	2005	6.349184349013608	8.854840040626739	3528775
+3529440	SE	component-oriented specification of performance measures	2006	6.346607421638313	9.117853898203627	3529467
+3530513	SE	rules for translating interaction protocols into a b formal representation	2005	6.835582628671317	9.240840267201216	3530540
+3532487	PL	case study: model transformations for time-triggered languages	2006	6.942165835640032	9.10885095907902	3532514
+3532600	DB	verifying aspect-oriented programs using open temporal logic	2009	6.781085183508308	8.648022702307657	3532627
+3536309	SE	sdl2pml - tool for automated generation of promela model from sdl specification	2009	7.172912198788666	9.238558900350286	3536336
+3537687	Security	analysis of the hardware verification of the honeywell scomp	1985	7.106624172204675	8.418236522965701	3537714
+3538298	Embedded	conformance testing as falsification for cyber-physical systems	2014	6.652597312745128	9.353685985561556	3538325
+3539475	AI	a tool for specifying and validating agents' interaction protocols: from agent uml to maude	2010	6.966585586710485	8.909816097415282	3539502
+3540088	ML	an introduction to lotos: learning by examples	1992	6.9966782705962745	8.7848874595814	3540115
+3541010	SE	model-based testing for asynchronous systems	2017	6.609785390586403	9.200314019135584	3541037
+3541792	Logic	towards sound development of pixitp, conformance test suites, and conforming implementations for various formal description techniques	2008	6.7142539443221425	9.11934830424566	3541819
+3541978	EDA	the relationship between design and verification	1979	6.578351642722184	9.125460319705418	3542005
+3542610	Embedded	hybrid marte statecharts	2012	6.448438684439712	9.186594045929906	3542637
+3544268	SE	a new verification technique for large processes based on identification of relevant tasks	2015	6.902728317802218	9.266433306936984	3544295
+3546927	SE	a semantics for uml-rt using n-calculus	2007	7.205212364342789	9.027463669751796	3546954
+3553343	AI	towards verifying compliance in agent-based web service compositions	2008	6.847789092884265	8.991573368598113	3553370
+3555841	Logic	principles of distributed test synthesis based on true-concurrency models	2002	6.720943177748668	8.548465008415327	3555868
+3557491	Logic	object-oriented formal modeling and analysis of interacting hybrid systems in hi-maude	2011	6.685437219625204	8.81976839207157	3557518
+3558512	EDA	compositional proofs in differential dynamic logic dl	2017	6.569464371305671	8.840752553962812	3558539
+3559620	Embedded	hybrid dynamic systems: models for continous and hybrid system simulation	2003	6.456711325013658	9.297033149958203	3559647
+3560509	SE	verifying estelle specifications: numerical petri nets approach	1993	6.636274708340805	9.10670565499608	3560536
+3563006	PL	model checking object-z using asm	2002	6.9196819202027235	8.548317748994549	3563033
+3563009	Logic	industrial experience of abstract interpretation-based static analyzers	2004	7.152424277733062	9.253071229354905	3563036
+3563255	SE	extending interaction overview diagrams with activity diagram constructs	2009	7.192437622123635	8.517657688027219	3563282
+3564427	EDA	reactive system refinement of distributed systems in b	1999	6.442480951673296	8.958162140912403	3564454
+3568762	NLP	protocol specification using a commitment based acl	2003	6.553215497188063	8.991304903716488	3568789
+3573331	Robotics	security modelling using hierarchical state machines	1991	6.583017182503793	9.203865296289184	3573358
+3573618	Logic	a term rewriting approach to analyze high level petri nets	2016	7.221116781136982	8.633058440217559	3573645
+3574306	OS	modular design and implementation of a logic control system for a batch process	2003	6.854761361541848	9.296410946873607	3574333
+3575805	Logic	ten years of analyzing actors: rebeca experience	2011	6.712577279728622	8.9114776526821	3575832
+3577493	SE	checking interface interaction protocols using aspect-oriented programming	2008	6.948465247193117	8.901506112067182	3577520
+3578637	DB	an overview of asn.1	1992	6.920339547944902	9.19676924387123	3578664
+3579966	SE	symbolic model checking of uml statechart diagrams with an integrated approach	2004	7.057399058481945	8.93198617067195	3579993
+3580986	PL	multistage, multifaceted analysis of telecommunications network architectures	1989	7.053747548886584	8.689502615331486	3581013
+3581191	SE	model checking uml state machines and collaborations	2001	6.5358129172190536	8.988673906606738	3581218
+3582699	SE	vooduu: verification of object-oriented designs using uppaal	2004	7.011356183512584	8.863133933835234	3582726
+3583152	SE	towards symbolic model-based mutation testing: pitfalls in expressing semantics as constraints	2012	7.070302052766046	8.425826409364984	3583179
+3585331	EDA	guest editor’s introduction	2005	6.598774463568431	8.81375745483609	3585358
+3586094	AI	compliance verification of agent interaction: a logic-based software tool	2006	7.174578866870749	9.22076624156176	3586121
+3586247	SE	a survey of automated techniques for formal software verification	2008	6.533058027386026	8.461890166991093	3586274
+3587729	Logic	hybrid dynamic systems: relating chi to hybrid automata	2003	6.919027873826223	9.170623438125006	3587756
+3588724	Embedded	formal specification and timing analysis of high-integrity real-time systems	1992	7.001285003742153	8.819414377560072	3588751
+3589829	SE	a temporal approach to the specification and verification of interaction protocols	2005	6.548799060462322	8.916821916929736	3589856
+3592330	AI	modeling and analysis of multi-agent systems based on π-calculus	2005	6.55576781216128	9.084975548468657	3592357
+3595212	Logic	overhead elimination mechanisms in real-time systems	2006	6.847772622419987	8.471611592364184	3595239
+3599382	AI	verifying temporal trust logic using ctl model checking	2018	6.541503182719731	9.1458252664418	3599409
+3603891	SE	analyzing formal requirements specifications using an off-the-shelf model checker	2013	6.8306512938452615	9.01573496984908	3603918
+3606045	SE	effect of resource allocation on distributed system response-a case study	1982	7.209888700527259	9.104877067454797	3606072
+3606201	SE	using colored petri nets for conversation modeling	2000	6.549281456659184	9.017430969482268	3606228
+3606714	DB	on the use of formal techniques for validation	1998	6.907500281449907	9.03255292109302	3606741
+3607332	Embedded	proving critical properties of simulink models	2016	7.1047662037120185	9.019068769318784	3607359
+3608163	SE	toward precise semantics of actions	2017	7.1743096024057245	8.499195764971429	3608190
+3609530	Embedded	a framework for adding time into formal object models	1997	6.502388195577936	8.834615214919006	3609557
+3610646	SE	structure analysis for dynamic software architecture based on spatial logic	2005	7.070156488607247	8.689553676471748	3610673
+3613597	EDA	petri nets and other models of concurrency - icatpn 2006 : 27th international conference on applications and theory of petri nets and other models of concurrency, turku, finland, june 26-30, 2006 ; proceedings	2006	6.707531980725298	9.161718923909557	3613624
+3614388	SE	design synthesis from interaction and state-based specifications	2006	7.158547815645307	8.804511964406043	3614415
+3621970	SE	scenario-based testing using symbolic animation of b models	2012	7.09338922914646	8.439842068258603	3621997
+3622277	SE	testing prototypes validity to enhance code reuse	1998	7.235038209021258	8.747819449979236	3622304
+3622733	Logic	a passive testing approach based on invariants: application to the wap	2005	6.314689904457801	8.985051418233947	3622760
+3625206	DB	formal methods and vlsi engineering practice	1994	7.0219442403499235	8.635413537816051	3625233
+3626117	AI	guardnet: a distributed and concurrent programming environment for multi-agent systems	1996	6.745136952694984	9.233226537301313	3626144
+3628443	Logic	optimising the prob model checker for b using partial order reduction	2014	6.40655800280415	9.133855832275813	3628470
+3629762	SE	a spin-based model checker for telecommunication protocols	2001	6.910472198073701	9.349212160823443	3629789
+3631045	HPC	a computational infrastructure for reliable computer simulations	2003	7.001168823316427	9.214706142107232	3631072
+3631722	Logic	specification diagrams for actor systems	1997	6.544929923928612	8.684971121160537	3631749
+3631856	Embedded	verification of real-time systems design	2010	6.861933837590157	9.112377642344176	3631883
+3633575	SE	timed testing of concurrent systems	1995	6.801863664427838	8.853820076163807	3633602
+3636286	PL	towards evaluating size reduction techniques for software model checking	2017	6.505781430291293	8.756989954859213	3636313
+3636391	Logic	conformance relations for distributed testing based on csp	2011	6.440190851726463	8.9011162910519	3636418
+3638806	Robotics	a use case driven approach to synthesis and analysis of flexible manufacturing systems	2001	6.8087316171603565	8.70452077000945	3638833
+3639243	AI	dynamics and control in component-based agent models	2002	6.917685170282457	8.410947929603276	3639270
+3639649	AI	verifying conformance of multi-agent commitment-based protocols	2013	6.378530731997945	9.163810316206169	3639676
+3640243	Logic	semi-formal verification with supporting tool by automatic application of hoare logic	2017	7.196998379701957	8.536356929329209	3640270
+3641070	PL	an executable subset of vdm-sl in an sa/rt framework	1993	7.021680452349584	8.577981660609838	3641097
+3641590	SE	comparison of model checking tools for information systems	2010	6.669644418213379	8.55675924452711	3641617
+3641622	Vision	a hybrid model for specifying features and detecting interactions	2000	6.9481355332611265	8.590188596885165	3641649
+3642621	Robotics	a discrete event systems modeling formalism based on event occurrence rules and precedences	2001	6.689317983623751	8.986979056392443	3642648
+3644349	PL	refinement by interface instantiation	2012	6.919713832381487	8.95428191850171	3644376
+3644774	SE	strongly consistent transformation of partial scenarios	2012	6.854239980671014	8.692545792003711	3644801
+3644894	Logic	test selection for hierarchical and communicating finite state machines	2009	6.799879871853326	9.33034643909066	3644921
+3645018	Embedded	adapting the uppaal model of a distributed lift system	2007	6.920781347930224	9.210589901346246	3645045
+3646954	Embedded	spatio-temporal uml statechart for cyber-physical systems	2012	6.977591314307891	9.291315942127346	3646981
+3647941	Logic	trace partitioning and local monitoring for asynchronous components	2017	6.372310526337892	9.267759413256796	3647968
+3649102	SE	grand challenge: model check software.	2005	7.138019019868683	8.576157708131362	3649129
+3650354	Embedded	model checking coordination of cps using timed automata	2018	6.869844376158488	9.14896029061588	3650381
+3650580	Logic	psyhcos: parameter synthesis for hierarchical concurrent real-time systems	2013	6.497997464755353	8.926039869496162	3650607
+3651177	SE	twoeagles: a model transformation tool from architectural descriptions to queueing networks	2011	7.14155913059418	8.946985629806223	3651204
+3652976	Mobile	an algebraic framework for modeling of mobile systems	2007	6.473301267716838	9.260908519380305	3653003
+3654216	Logic	mcmas: an open-source model checker for the verification of multi-agent systems	2015	6.692407193102664	9.0178922340156	3654243
+3655929	SE	a formal modeling for component behaviors based on event track	2010	6.9978727095674005	8.988817378540196	3655956
+3656932	Logic	the nuxmv symbolic model checker	2014	6.4352022445810535	9.054491246821446	3656959
+3657267	EDA	vhdl/s - integrating statecharts, timing diagrams, and vhdl	1993	6.649812045976818	8.943426164886496	3657294
+3657882	Robotics	a derivation of system specifications based on a partial logical petri net	1995	6.867694362061907	8.934734019106727	3657909
+3657937	AI	an ontology for transitions in physical dynamic systems	1998	6.673444737533011	8.428084276038486	3657964
+3657972	Logic	algorithm 972: jmarkov: an integrated framework for markov chain modeling	2017	6.494855573277262	8.951787234392668	3657999
+3658977	PL	specification of the javacard api in jml	2000	7.163518236515137	8.702582654658833	3659004
+3659531	Logic	constructor-based inductive theorem prover	2013	6.950635148786726	8.434222196348816	3659558
+3663570	Embedded	modeling and analysis of real-time cooperative systems using petri nets	2007	6.642778136070379	9.050260138106248	3663597
+3664248	Logic	model checking of software product lines in presence of nondeterminism and probabilities	2014	6.4511943825235125	9.350850380433616	3664275
+3667788	Logic	an engine for automatic code generation of security protocols in multiple languages	2013	6.870975996536232	9.348264914317275	3667815
+3667968	SE	an algebra of temporal faults	2016	6.747029187995841	9.142734393820817	3667995
+3669319	PL	efficient composition and automatic initialization of arbitrary structured pvm programs	1996	6.3182487894033335	8.487779819921126	3669346
+3673799	SE	telephone feature verification: translating sdl to tla+	1997	6.568523082254133	8.605389781291798	3673826
+3674426	Embedded	on composing and proving the correctness of reactive behavior	2013	6.626800241463567	8.490441938195966	3674453
+3679636	EDA	csp with synthesisable systemc(tm) and osss	2007	6.825212542404269	8.996051386218891	3679663
+3680758	SE	formal specification of bounded buffer using stream functions	2009	6.573393292080915	8.555597731629305	3680785
+3681931	Logic	parallel graph transformation for model simulation applied to timed transition petri nets	2004	7.190007736380094	8.432748149143546	3681958
+3682444	Logic	combining devs and model-checking: concepts and tools for integrating simulation and analysis	2017	6.358175339828428	8.832763546174583	3682471
+3682569	Logic	towards composition of conformant systems	2015	6.829300701101032	9.189304763635679	3682596
+3682667	PL	class and capsule refinement in uml for real time	2004	7.138662838801428	8.431953286259894	3682694
+3682993	Logic	on-the-fly verification using cadp	2003	6.9920674693930485	8.740865160236025	3683020
+3683845	SE	a specification language for coordinated objects	2006	6.559315425252594	8.972136802825686	3683872
+3683888	Robotics	identification of incompatible states in mode switching	2008	6.836312220880586	9.058804110356196	3683915
+3685515	SE	improving quality of ada software with range analysis	2011	7.00554178898179	8.64580436774151	3685542
+3687577	Logic	spatio-temporal hybrid automata for cyber-physical systems	2013	6.9544663745204165	9.22199584978526	3687604
+3687982	SE	developing components in the presence of re-entrance	1999	6.930232757508353	8.539357216305408	3688009
+3688385	AI	a multi-level model for self-adaptive systems	2012	6.309021048109559	8.650285153991701	3688412
+3689347	Robotics	oris: a tool for state-space analysis of real-time preemptive systems	2004	7.205845626142402	9.043710477780143	3689374
+3694025	SE	a formal approach to aspect-oriented modular reconfigurable computing	2007	6.656250468512281	8.645819942990746	3694052
+3695989	SE	an approach to symbolic test generation	2000	6.329377597074072	8.744111340317456	3696016
+3697430	Embedded	real-time software specification and validation with transnet	1994	6.87014206181075	9.02325433170669	3697457
+3699270	PL	specifying hardware systems in lotos	1993	6.744844691448872	9.147363244940063	3699297
+3699558	Embedded	a graphical language to integrate process algebra and state machine views for specification and verification of distributed real-time systems	2012	7.201851964891164	8.520438322439771	3699585
+3702143	AI	simulation and statistical model-checking of logic-based multi-agent system models	2014	6.910597332289808	9.359537969360606	3702170
+3704485	SE	large volume testing for executable formal specification using hadoop	2011	6.970834811704121	9.059958438356027	3704512
+3704505	SE	modeling uml sequence diagrams using extended petri nets	2010	7.173288323696843	8.57533070374941	3704532
+3706179	EDA	an approach for psl assertion coverage analysis with high-level decision diagrams	2010	6.481202031810947	8.985328143179892	3706206
+3706626	Logic	despec: modeling the windows driver environment11this work was partially supported by the czech academy of sciences project 1et400300504 and the grant agency of the czech republic project gd201/05/h014.	2009	6.389299962668503	8.593556696205935	3706653
+3709101	SE	towards managing dynamic reconfiguration of software systems in a categorical setting	2010	6.451358323193272	8.776543587953354	3709128
+3709784	Logic	correct real-time software for programmable logic controllers	1999	7.257328486087669	9.041490249901141	3709811
+3710659	PL	can formal methods be integrated into real-time object-oriented design? response to j. de la puente's contribution	2000	6.669055197531781	8.451185724962453	3710686
+3712122	AI	component interface description using hypermscs and connectors	2001	6.485588586947327	8.490575496799844	3712149
+3714766	SE	on the unsoundness of static analysis for android guis	2016	6.439047644811008	8.486660135781372	3714793
+3715772	SE	event and strategy analytics	2015	7.2332443889072895	8.444606297276652	3715799
+3715857	AI	a verification framework for normative multi-agent systems	2008	6.656331735635461	8.564440592208111	3715884
+3719280	SE	verification of distributed erlang programs using testing, model checking and theorem proving	2008	6.616017180746215	9.125947078578765	3719307
+3719510	SE	stochastic process algebra: from an algebraic formalism to an architectural description language	2002	7.235314613699917	8.79729137268327	3719537
+3721043	Logic	development of a verified flash file system	2014	6.731911523571867	8.637485130729884	3721070
+3724232	SE	formalising concurrent uml state machines using coloured petri nets	2016	6.39404233573236	8.908859479774799	3724259
+3724890	SE	data-type checking of iec61131-3 st and il applications	2012	6.559724512714904	8.416850197219029	3724917
+3725354	SE	automated analysis of reliability architectures	2013	6.599635727693169	8.969195990393139	3725381
+3726038	Logic	compositional synthesis of temporal fault trees from state machines	2011	7.130017803147223	9.345045410127817	3726065
+3728968	Logic	modular semantics for a uml statechart diagrams kernel and its extension to multicharts and branching time model-checking	2002	6.670236772156827	8.426387723347299	3728995
+3731693	SE	statistical model checking of e-motions domain-specific modeling languages	2016	6.930043641473001	9.021660255283436	3731720
+3732490	Embedded	reusing of properties after discretization of hybrid automata	2011	6.403421979008662	9.104201598178589	3732517
+3733137	AI	safe and optimal adaptive cruise control	2015	7.104198048447472	9.287067077788095	3733164
+3734488	Logic	simcheck: a contract type system for simulink	2011	6.5737593664915766	8.906359570554086	3734515
+3734539	PL	attribute global types for dynamic checking of protocols in logic-based multiagent systems	2013	6.584149811743847	9.263848262209805	3734566
+3735846	Logic	coverage of compositional property sets for hardware and hardware-dependent software in formal system-on-chip verification	2017	7.023033864126446	9.18968064818649	3735873
+3736645	PL	an executable specification of c++	2005	7.258609221343758	8.479748930965995	3736672
+3736727	Robotics	execution model for non-hierarchical heterogeneous modeling	2004	6.598940706680469	9.029287946747699	3736754
+3738370	AI	automated planning as an early verification tool for distributed control	2014	6.346989422783438	8.87099774678128	3738397
+3738581	Embedded	a fuzzy real-time temporal logic	2013	6.3174715531373655	9.279181844579362	3738608
+3738727	SE	a unified integration and component testing approach from deterministic stream x-machine specifications	2015	6.399374862086952	9.066679632591653	3738754
+3739113	AI	an outline of the use of transition systems to formalize jade agents and multi-agent systems	2015	6.84431864995181	8.413026164752509	3739140
+3741732	SE	graphical specifications for concurrent software systems	1992	7.240976533291318	8.503639392951191	3741759
+3741848	AI	view-based modelling and state-space generation for graph transformation systems	2012	6.727740470855359	8.55302302009558	3741875
+3743600	SE	analysis on demand: instantaneous soundness checking of industrial business process models	2011	7.110786184290515	9.143818872113618	3743627
+3744098	Logic	differential dynamic logics	2010	6.929767815948398	9.060362837292463	3744125
+3745801	SE	frame conditions in symbolic representations of uml/ocl models	2016	6.970397507931643	8.808627235281492	3745828
+3745934	Logic	automated deployment of argumentation protocols	2012	6.603103298351159	8.791260234360047	3745961
+3746142	SE	viewpoint-based testing of concurrent components	2004	6.732139443995957	9.04954984077646	3746169
+3748257	Logic	test sequence generation methods for protocol conformance testing	1994	6.945515716788776	8.805730850677882	3748284
+3748508	Logic	vest - an intelligent tool for timing socs verification using uml timing diagrams	2008	6.695463434221681	9.234744174792844	3748535
+3748718	Embedded	why adopting uml to model hybrid manufacturing systems?	2004	6.819939963250915	9.080847598635149	3748745
+3749756	SE	an integrated environment for communicating uml statechart diagrams	2005	6.917319440834384	8.847487208911323	3749783
+3752024	Embedded	slicing concurrent real-time system specifications for verification	2007	6.310615215894472	8.983726619731492	3752051
+3753704	SE	formal method for automated transformation of lotos specifications to estelle specifications	2005	6.774873892284624	9.348761271848069	3753731
+3754107	SE	"""a framework for analysing the effect of """"change"""" in legacy code - semantic scholar"""	1999	6.977173410823068	9.144790270436754	3754134
+3757686	SE	verification of feature coordination using the fluent calculus	2018	6.615433230322847	9.146089286611023	3757713
+3758015	Logic	property preserving refinement for csp-casl	2008	7.20904319910029	8.412031844387897	3758042
+3759276	Embedded	simsync: a table-based constraint processing language for synchronization control	2009	7.0881916181173805	8.409665453028026	3759303
+3760569	SE	model based test automation through asynchronous channels	2012	6.691645809421497	8.886597368126429	3760596
+3762890	SE	a new approach to verify statechart specifications for reactive systems	2008	6.310731777548421	9.36204230133237	3762917
+3763297	Logic	a tool integrating model checking into a c verification toolset	2016	7.149805113369725	8.554245604144917	3763324
+3763919	OS	simplifying contract-violating traces	2012	7.05120945374868	8.836299955056107	3763946
+3764458	Arch	fm 2006 : formal methods : 14th international symposium on formal methods hamilton, canada, august 21-27, 2006 : proceedings	2006	6.395990298167839	8.67251841799185	3764485
+3767511	SE	verification of web service conversations specified in wscl	2007	7.157776038659956	8.796437345361328	3767538
+3769955	SE	asn1-light: a verified message encoding for security protocols	2007	6.611835302972311	9.206861878853543	3769982
+3770773	PL	high-level timed petri nets as a kernel for executable specifications	1993	6.945006890770428	8.818971307523261	3770800
+3772840	SE	practical programming, validation and verification with finite-state machines: a library and its industrial application	2016	6.666280418185147	8.666240559050868	3772867
+3773905	SE	semi-automatic transformation from formal specifications to programs	1996	6.559185880752026	8.41974063727009	3773932
+3775238	PL	interactive verification of communication software on the basis of cil	1984	6.685966419459264	8.524046229209869	3775265
+3777522	Embedded	translating discrete-time simulink to lustre	2005	6.445626132522807	9.07728637788123	3777549
+3777990	SE	model driven testing of time sensitive distributed systems	2006	6.668163656611734	8.898405824188792	3778017
+3780251	Logic	model-checking csp-z: strategy, tool support and industrial application	2001	6.6434312891515575	8.968599704238482	3780278
+3782358	Logic	security issues in component-based design	2001	6.438658413745839	9.08616349944833	3782385
+3782710	SE	automatically testing implementations of numerical abstract domains	2018	6.8564547048539435	8.58356532774883	3782737
+3782781	SE	logical observable entities	1998	6.483571701657525	9.180664724239543	3782808
+3791631	SE	the declarative nature of implicit layer activation	2017	6.6418558136217225	8.998659891587529	3791658
+3792275	DB	verification of workflow task structures: a petri-net-baset approach	2000	6.773030867550589	9.115906415036953	3792302
+3794096	PL	correctness and completeness of generalised concurrent model synchronisation based on triple graph grammars	2013	6.308963108870048	8.524444798550563	3794123
+3794438	Embedded	development of a formalism for modelling and analysis of dynamic reconfiguration of dependable real-time systems: a technical diary	2008	6.715014818780639	9.350538379963092	3794465
+3795448	SE	promobox: a framework for generating domain-specific property languages	2014	7.0943375073087	8.547101603477486	3795475
+3796236	SE	distributed communication software specification based on the action superposition mechanism	1990	6.83825601929687	8.741810226784983	3796263
+3797252	Robotics	reactive mode handling of flexible manufacturing systems	2009	7.149898928696728	9.176687184962804	3797279
+3798426	SE	instrumentation of annotated c programs for test generation	2014	6.369836145733478	8.448260237269835	3798453
+3798612	Embedded	a simple context-oriented programming extension to an frp language for small-scale embedded systems	2018	6.994982140260976	9.297616725381856	3798639
+3799050	EDA	mutation operators for concurrent systemc designs	2009	6.99864769176114	8.899351221956083	3799077
+3803363	EDA	automatic generation of complex properties for hardware designs	2008	6.528983947115859	8.614342408169698	3803390
+3804232	PL	a formal verification environment for use in the certification of safety-related c-programs	2010	7.1124907248006535	8.878551604020751	3804259
+3805847	SE	modeling a consistent behavior of plc-sensors	2014	6.683062833315026	8.761981356271876	3805874
+3806578	SE	a true-concurrent interpretation of behavioural scenarios	2009	6.408402150503083	8.609243440430937	3806605
+3807464	PL	cronos: a separate compilation toolset for modular esterel applications	1999	7.1198659515329155	9.036132550860462	3807491
+3808579	SE	code generation for parallel applications modelled with object-based graph grammars	2007	6.91416981479393	9.014243249887953	3808606
+3809438	AI	engineering multiagent systems based on interaction protocols: a compositional petri net approach	2003	6.987239147660597	8.980919181843449	3809465
+3810518	Robotics	specifications and rapid prototyping of multi-agent systems through coloured petri net represented in abductive logic programming (cpn-lp)	2006	6.7309531077950195	8.436299100816731	3810545
+3811420	SE	tool support for generating passive c++ test oracles from object-z specifications	2003	7.15473243125788	8.417748481786287	3811447
+3812252	SE	specification-based testing of concurrent systems	1997	6.75779913731012	8.863928292853057	3812279
+3817442	Embedded	generative programming with support for formal verification	2009	7.201144901347106	9.324675199314004	3817469
+3819011	NLP	an event-b approach to data sharing agreements	2010	6.5131247659019165	9.171085598781014	3819038
+3820064	SE	testing communicating systems: a model, a methodology, and a tool	2005	7.146382107324369	9.314558485915093	3820091
+3825547	SE	feature interaction detection using testing and model-checking experience report	1999	7.0700007576614965	8.565299874594338	3825574
+3827161	SE	towards maude-tla based foundation for complex concurrent systems specification and certification	2008	6.997010683712294	8.730497656838889	3827188
+3828768	Logic	from event-b models to dafny code contracts	2015	7.137323854694637	8.600303813366736	3828795
+3829984	SE	waves: automatic synthesis of client-side validation code for web applications	2012	6.525054317155695	8.444195936656609	3830011
+3832391	HCI	formal validation of complex production systems using coloured petri nets	1994	6.9569020777695965	8.598370533330613	3832418
+3833703	SE	some operational tools in a osi protocols study environment	1984	7.020551570885343	8.717527431142447	3833730
+3834930	Logic	specifying complex and structured systems with evolving algebras	1997	6.316392952117548	8.529046708890254	3834957
+3835111	SE	formal specification and validation of railway network components using z notation	2009	7.268101019874844	9.28017681269298	3835138
+3835635	SE	semantics of the interaction overview diagram	2009	7.1998550159583345	8.411618882982689	3835662
+3837843	Logic	ttcn: towards a formal semantics and validation of test suites	1996	6.701723978256255	8.837441022683274	3837870
+3838235	SE	complete model-based equivalence class testing for the etcs ceiling speed monitor	2014	7.206074214119668	8.737715931429076	3838262
+3839093	SE	a generic formal framework for protocol interoperability test and test cases minimization	2008	7.086493534357983	9.035064928613377	3839120
+3839478	Embedded	from uml diagrams to simulink models: a precise and verified translation	2015	6.8246709724381756	8.763937074200804	3839505
+3840772	SE	integrating software engineering methods and petri nets for the specification and prototyping of complex information systems	1993	7.273495175619109	9.010432673944658	3840799
+3841378	SE	email fi identification and resolution with model checking	2011	6.780145484325148	8.990729694734327	3841405
+3843620	SE	bounded model checking of c++ programs based on the qt cross-platform framework	2017	6.6448105059417	8.825093466811877	3843647
+3845417	SE	implementing communicating processes in the event of interface difference	2001	6.7608300611809184	8.51580508262351	3845444
+3846275	SE	from scenarios to test implementations via promela	2010	6.9136467479955455	8.680226123804685	3846302
+3846878	PL	representing embedded system sequence diagrams as a formal language	2001	6.738209939286642	8.957254375949864	3846905
+3848215	EDA	temporal logic applied to reliability modelling of fault-tolerant systems	1992	6.980565712654762	9.207356104491561	3848242
+3848798	SE	the formal specification of concurrent systems: a small ccs case study	1994	6.365002515081347	9.047453604324321	3848825
+3849942	SE	deductive reasoning versus model checking: two formal approaches for system development	1999	6.686854973736906	8.458814719646465	3849969
+3852550	HPC	formal validation of virtual finite state machines	1995	7.221096165465259	9.294057277645623	3852577
+3853061	SE	developing a software system for automata-based code generation	2016	6.817599563086986	8.71748429711297	3853088
+3858273	DB	coordination among multi-agents using process calculus and eca rule	2002	6.709573337383149	8.924585237391355	3858300
+3858801	Robotics	a logic of actions and its application to the development of programmable controllers	2001	7.045263134689756	8.983346093190193	3858828
+3858961	SE	specification-based testing for refinement	2007	6.692109961862854	8.479270489076393	3858988
+3860092	SE	scaling up with event-b: a case study	2011	7.066023635596554	8.912521731223661	3860119
+3860708	SE	model checking aircraft controller software: a case study	2015	7.053346120343544	8.934277372967891	3860735
+3861518	SE	aspectltl: an aspect language for ltl specifications	2011	6.9315581318962325	8.71670576202914	3861545
+3861726	SE	feature specification and refinement with state transition diagrams	1997	6.586022786344074	8.453581310882207	3861753
+3864190	EDA	controller design and implementation: an approach based on problem frames and petri net models	2015	6.944696291604651	9.069545275145778	3864217
+3864811	Logic	formal analysis of bpmn via a translation into cows	2008	7.106597343593957	8.58769889775333	3864838
+3865374	Logic	behavioural equivalence in simulation modelling	2007	6.5734917412210905	8.654920514083686	3865401
+3865712	Robotics	improvement of recurrent fuzzy detection/diagnosis functions modeling. a temporal modeling application for fault states in a manufacturing system	2010	7.003435149894059	9.359140127944878	3865739
+3866369	EDA	system modeling and transformational design refinement in forsyde [formal system design]	2004	6.917336475681235	9.200818994789666	3866396
+3866618	PL	compiling sccharts - a case-study on interactive model-based compilation	2014	6.924647656862537	8.536190430491256	3866645
+3866828	PL	s2a: a compiler for multi-modal uml sequence diagrams	2007	6.484859553980784	8.498999939835349	3866855
+3869290	Visualization	a survey of formal methods applied to leader election in ieee 1394	2000	6.321464772910407	9.20647166783437	3869317
+3871263	Networks	step-wise validation of communication protocols and services	1986	6.670738630262901	8.948582780070593	3871290
+3872470	SE	model fusion for the compatibility verification of software components	2014	6.884038460328009	9.269532016929642	3872497
+3874306	Embedded	hierarchical modeling and analysis of embedded systems	2003	7.134674956525732	8.879322064198277	3874333
+3874646	Logic	testing ltl formula translation into büchi automata	2002	6.388653627605757	8.799651246040726	3874673
+3875820	AI	this is myworld: the logic of an agent-oriented dai testbed	1994	6.581937894866741	8.53565303904672	3875847
+3877514	SE	modeling inheritance anomaly in concurrent systems using colored petri nets	2004	6.580229767157402	8.820775775395312	3877541
+3878182	EDA	specification-based monitoring of cyber-physical systems: a survey on theory, tools and applications	2018	7.162988526675364	9.274661080595836	3878209
+3878378	Logic	mechanized result verification: an industrial application	2000	6.458854645337487	8.634422067066264	3878405
+3879704	Logic	using csp to develop quality concurrent software	2018	6.465495320781372	8.910599745659269	3879731
+3880079	Logic	quantitative verification of implantable cardiac pacemakers over hybrid heart models	2014	7.1464652309919545	9.000220653072533	3880106
+3882492	SE	interpretation of uml sequence diagrams as causality flows	2005	6.45560608835439	8.573929996742375	3882519
+3885025	SE	visual specification of concurrent systems	2003	6.848446620138897	8.76210500243502	3885052
+3886731	Embedded	real-time specifications	2013	6.310887784342847	8.753211747017144	3886758
+3887039	Embedded	software engineering : testing real-time embedded systems using timed automata based approaches	2012	6.503837499102823	9.343427600288171	3887066
+3887904	Robotics	applications of property-preserving algebras to component-based manufacturing system design	2007	7.024806875923074	8.881032120787081	3887931
+3888755	SE	ten years of automated code analysis at microsoft (invited industrial talk)	2012	6.676622906793369	8.725456790740076	3888782
+3888958	PL	stateful breakpoints: a practical approach to defining parameterized runtime monitors	2011	6.355698744746157	8.606884507633026	3888985
+3896926	Logic	program safety via programmer safety	2006	6.9354831463738025	8.64337258986031	3896953
+3900509	Logic	formal verification of the aamp5 microprocessor: a case study in the industrial use of formal methods	1995	6.7476055802299655	9.111881061118794	3900536
+3901201	Robotics	graphical modeling and analysis software for state space-based optimization of discrete event systems	2018	7.187606951570999	8.699324869541389	3901228
+3901269	SE	spatio-temporal properties analysis for cyber-physical systems	2013	7.085885055184457	9.243816363892996	3901296
+3903462	Logic	smt-based symbolic encoding and formal analysis of hml models	2016	6.845544842583981	9.242973457152512	3903489
+3903648	SE	hierarchical timed automata based verification of dynamic evolution process in open environments	2014	7.092936044431545	8.847049177110497	3903675
+3904994	SE	a formal model for sdl specifications based on timed rewriting logic	2000	6.4380382409875	8.899465661299336	3905021
+3905653	SE	perts: an environment for specification and verification of reactive systems	2001	6.357093831493318	8.856098776655012	3905680
+3906719	SE	steps: a software tool-set for automated protocol synthesis	1997	7.162292727137207	8.650814435159079	3906746
+3907796	Logic	contract-oriented computing in co2	2012	6.330071613361268	9.120090811050405	3907823
+3908143	Embedded	discrete-time systems modeling and verification with alvis language and tools	2018	6.458425601523567	9.054508912781484	3908170
+3908429	AI	modular petri net models of communicating agents - a gpensim approach	2017	7.044872097303863	9.118223940301348	3908456
+3908700	SE	virtualized-fault injection testing: a machine learning approach	2018	7.121437109149044	8.992424774475452	3908727
+3909288	Embedded	robustness of simulink/stateflow model against implementation imperfections	2015	6.356840261842547	8.928405129146629	3909315
+3910352	Logic	alvis – modelling language for concurrent systems	2011	6.990549145601566	8.645918025931831	3910379
+3912866	SE	pn3-editor: compositional petri net editor for protocol specification	1995	6.6128479702500185	8.923364612651547	3912893
+3914536	SE	on the interplay of exception handling and design by contract: an aspect-oriented recovery approach	2011	6.697464851084533	8.653762680136937	3914563
+3915237	NLP	towards context-aware propagators: language constructs for context-aware adaptation dependencies	2009	6.549132101309457	8.770273323559318	3915264
+3916331	AI	specification and implementation of multi-agent organizations	2006	7.033576605075325	9.02848184836716	3916358
+3917705	Embedded	event language for real-time on-the-fly control according to the initial requirements	2004	7.020317924995	8.737122920496404	3917732
+3919663	SE	verification of safety requirements for program code using data abstraction	2009	6.550044727394729	9.078795723547753	3919690
+3920150	SE	falling back on executable specifications	2010	7.243466424229312	8.522264973929166	3920177
+3925262	SE	an eclipse-based editor to support lotos newcomers	2014	7.2196223422075425	8.963622716511681	3925289
+3925339	SE	formalising and analysing the control software of the compact muon solenoid experiment at the large hadron collider	2013	6.629758788255884	9.126618361326672	3925366
+3927206	SE	runtime verification method for self-adaptive software using reachability of transition system model	2017	7.150298343212137	9.009608901769226	3927233
+3928517	AI	reactive policy checking for action languages	2016	6.423615249806567	8.777139296001543	3928544
+3929595	SE	object state testing and fault analysis for reliable software systems	1996	6.904905237311276	9.289218306565532	3929622
+3930452	SE	automated analysis of compositional multi-agent systems	2010	6.361338037900338	8.635082571125068	3930479
+3934162	PL	specifying stateful asynchronous properties for distributed programs	2012	6.385559048854103	9.35744858653496	3934189
+3935772	SE	refinement-based validation of event-b specifications	2016	6.7525663465448025	9.089038348412911	3935799
+3936942	DB	towards a formal specification of an electronic payment system in csp-casl	2004	6.877778928242521	8.439621863557036	3936969
+3937032	Robotics	modular and hierarchical modeling of interactive mobile agents	2004	6.980181290105442	8.451487611213489	3937059
+3938976	SE	the derivation of conformance tests from lotos specifications	1990	6.8882605339073315	9.052772074158398	3939003
+3940446	NLP	test case generation for uml statecharts	2003	6.964484960693978	8.762791581297598	3940473
+3942590	SE	a compositional event & time-based policy model	2006	6.656809608390094	8.744412860689739	3942617
+3942627	EDA	rule-based refinement of high-level nets preserving safety properties	2001	7.254064379851153	8.540833301465419	3942654
+3942840	DB	process evolution based on transformation of algebraic high-level nets with applications to communication platforms	2012	7.202917565708478	8.476171238751796	3942867
+3943145	AI	a verifiable logic-based agent architecture	2006	6.82357231979581	9.2293378288178	3943172
+3943697	SE	model-checker-based testing of ltl specifications	2007	6.319198825423392	8.712839065285289	3943724
+3943780	PL	coccinelle: tool support for automated cert c secure coding standard certification	2014	6.614979812549149	8.455405059795707	3943807
+3945046	SE	runtime monitoring and verification of systems with hidden information	2013	7.256953302306472	8.419276265473131	3945073
+3947722	SE	contract-based data structure repair using alloy	2010	6.313532173554044	8.637381784324376	3947749
+3947889	Logic	steam boiler control specification problem: a tla solution	1995	6.363643862004495	9.065925109295195	3947916
+3948320	PL	a guide to extending full maude illustrated with the implementation of real-time maude	2009	6.558349857811428	8.825075781317034	3948347
+3948452	EDA	an object-oriented real time systems modeling and verification methodology	1996	6.909679198235433	8.5315859057651	3948479
+3948797	Logic	formal models of sysml blocks	2013	6.698442410726344	8.604190221485222	3948824
+3948816	AI	computational logic in multi-agent systems	2013	6.52595917108733	9.298200198883952	3948843
+3953585	SE	oars: an object-oriented architecture for reactive systems	1995	6.668044753823988	8.883399548150999	3953612
+3954510	DB	a rigorous, compositional, and extensible framework for dynamic fault tree analysis	2010	7.066810917235538	8.97506689110165	3954537
+3956313	SE	introducing objectcharts or how to use statecharts in object-oriented design	1992	6.890490552522002	8.524887180795554	3956340
+3956757	EDA	vacuity aware falsification for mtl request-response specifications	2017	6.772618237304277	9.092906869587813	3956784
+3958431	SE	use of a static analysis tool for safety-critical ada applications: a critical assessment	1996	7.263529152891286	8.7530087220443	3958458
+3958797	Robotics	modeling and analysis of traffic light controller using statechart	2010	6.63719862025121	8.78485681394728	3958824
+3960402	Logic	verifying functional behaviors of automotive products in east-adl2 using uppaal-port	2011	6.9487999455419684	9.194759413857122	3960429
+3960827	SE	on proposing a markup language for statecharts to be used in performance evaluation	2004	6.690994054146844	9.06563131048992	3960854
+3960978	SE	ptd: architectural system description support based on visual specification languages	1992	7.2092143281627905	9.356203555796348	3961005
+3960992	Logic	does this fault lead to failure? combining refinement and input-output conformance checking in fault-oriented test-case generation	2016	6.338519924439909	8.859250130859373	3961019
+3960996	SE	formal semantics of the procom real-time component model	2009	7.1520589058858945	9.257679247153813	3961023
+3962907	SE	discrete event model verification using system morphism	2001	6.910114586997128	8.859720256169766	3962934
+3964543	EDA	challenges in the formal verification of complete state-of-the-art processors	2005	7.228958336553375	8.504061948003837	3964570
+3965249	SE	formal verification applied to java concurrent software	2000	6.855643728075602	8.738117547776817	3965276
+3965421	Logic	refinement of interface automata strengthened by action semantics	2009	6.990254854694727	8.727306596255424	3965448
+3965439	SE	behavioural analysis for distributed simulations	2012	7.065757301251483	8.799312400391063	3965466
+3965895	SE	a formal specification of an oscilloscope	1990	6.780290738925652	8.854811945589367	3965922
+3965952	Embedded	formal specification of hybrid marte statecharts	2012	6.713715964785223	9.178510847286622	3965979
+3966422	Logic	frame conditions in the automatic validation and verification of uml/ocl models: a symbolic formulation of modifies only statements	2017	6.793060133789942	8.636879801000276	3966449
+3967400	SE	detecting software defects in telecom applications through lightweight static analysis: a war story	2004	6.5150660662518325	8.88395453950378	3967427
+3967522	SE	model checking interlocking control tables	2010	6.894152750459836	9.34841733298379	3967549
+3967753	SE	temporal model-based diagnostics generation for hvac control systems	2010	7.144912840462659	9.145468197100977	3967780
+3968642	SE	timed i/o test sequences for discrete event model verification	2004	6.9535364971800675	8.817916398404208	3968669
+3969629	AI	model-based computing: using concurrent constraint programming for modeling and model compilation	1995	6.879837740991744	8.812419875223226	3969656
+3969833	PL	performance and formal design: a process algebraic perspective	1995	6.565270698029183	8.641159724796863	3969860
+3971408	Robotics	formal framework for detection of automation surprises in human-machine systems modeled by hybrid automata	2014	7.2310907129782045	8.907319108281364	3971435
+3978789	Embedded	"""defining and translating a """"safe"""" subset of simulink/stateflow into lustre"""	2004	6.46212804641234	8.768878271603588	3978816
+3979907	Theory	using vdm to specify osi managed objects	1991	7.251113089548752	8.616840677837546	3979934
+3982435	Logic	integrating simulink models into the model checker cosmos	2018	7.0683084828468585	9.085171849489917	3982462
+3984187	Embedded	a test sequence selection method for protocol testing	1991	6.434465218845543	9.31047948197302	3984214
+3984870	Robotics	implementation of on-line simulation with the colored petri net simulator renew	2004	6.583950393886279	9.201404754273153	3984897
+3985909	SE	adaptable transition systems	2012	6.60999041998052	8.913054117316921	3985936
+3985984	SE	critères de couverture structurelle pour les programmes lustre. (strurtural coverage criteria for lustre programs)	2006	6.7873467661413525	8.852009664513211	3986011
+3986446	Embedded	challenges in embedded model checking — a simulator for the [mc]square model checker	2008	7.188164874704344	9.15184010541685	3986473
+3987757	SE	model checking of state-rich formalisms (by linking to combination of state-based formalism and process algebra)	2016	7.0354181234686575	9.150273162900051	3987784
+3987948	SE	improving coverage based test purposes	2009	7.237053915083911	8.600139575987171	3987975
+3987967	SE	management of evolving specifications using category theory	1998	7.266467987067328	8.669714451791368	3987994
+3990174	PL	formalisation of a production system modelling language the operational semantics of c core	2000	7.0266547462212845	8.472675108696066	3990201
+3992671	SE	generating a performance stochastic model from uml specifications	2011	7.060242751855112	8.825486523052945	3992698
+3993563	Logic	towards automatic verification of embedded control software	2001	7.067578665594586	9.135832829842306	3993590
+3994506	SE	experimental evaluation of fsm-based testing methods	2005	6.9291933439231075	8.809573601724937	3994533
+3995067	SE	model checking flight guidance systems: from synchrony to asynchrony	2005	7.073124800936916	8.736233719500925	3995094
+3995299	Logic	cgmurphi: automatic synthesis of numerical controllers for nonlinear hybrid systems	2013	6.5968777210255904	8.522837125170616	3995326
+3997927	Logic	using simulink design verifier for proving behavioral properties on a complex safety critical system in the ground transportation domain	2010	7.120906369287943	9.301363372184664	3997954
+3998725	Robotics	petri net-based cooperation in multi-agent systems	2007	6.4573919879573225	9.273813605485724	3998752
+3998878	PL	specification mining for smart contracts with automatic abstraction tuning	2018	7.039805107798532	8.529953020946513	3998905
+3999222	SE	input-output conformance testing based on featured transition systems	2014	6.944074212413641	8.569797658354661	3999249
+3999902	AI	compositional verification of multi-agent systems: a formal analysis of pro-activeness and reactiveness	1997	6.9900234220101645	9.018294251903924	3999929
+4000178	AI	promoca: probabilistic modeling and analysis of agents in commitment protocols	2016	6.637432272086544	9.20877166225195	4000205
+4000624	SE	typing the behavior of objects and component using session types	2003	6.522827362936393	8.946625969986918	4000651
+4001629	Robotics	modeling of hybrid supervisory systems using uml and petri nets	2001	7.119315466940308	9.218865689189576	4001656
+4002919	SE	a new perspective on formal testing method for real-time software	2000	7.109549715488027	8.791562529036295	4002946
+4004101	SE	from formal requirements to highly assured software for unmanned aircraft systems	2018	6.67975197283616	9.207227050032387	4004128
+4007003	SE	structural refinement in object-z/csp	2000	7.169384711038318	8.734768563160365	4007030
+4007259	Embedded	simulation of hybrid mechatronic systems: a case study	1997	6.971895128054831	9.071499074420274	4007286
+4008058	Robotics	an extended object-oriented petri nets for modeling and analysis automated re-entrant manufacturing systems	2004	7.054140140392074	9.017451896379866	4008085
+4008869	SE	relaxing b sharing restrictions within csp	2012	6.513842590385273	8.485367963684872	4008896
+4011741	Logic	towards an implementation-oriented specification of tp protocol in lotos	1993	7.110276398744463	9.242212108917665	4011768
+4012380	Robotics	formal approach to control design of complex and dynamical systems	2017	6.693300261089332	8.730050253667589	4012407
+4013605	Logic	a uml profile for real-time constraints with the ocl	2002	7.24999450784646	9.18775874052066	4013632
+4017049	SE	a case study in parallel verification of component-based systems	2008	6.6505305572842754	9.270008676592415	4017076
+4017904	Robotics	problem decomposition and sub-model reconciliation of control systems in event-b	2013	7.027496854899423	8.926767042237222	4017931
+4020105	Logic	specifying and verifying the synergy reconfiguration protocol with lotos nt and cadp	2011	6.760518862488418	8.726592496383486	4020132
+4020702	Embedded	toward bringing distributed system design upon rigorous footing	2016	6.880998590970264	8.462498016589121	4020729
+4021842	SE	combining specification techniques for processes, data and time	2002	6.6905263299594155	8.940765275303832	4021869
+4022122	EDA	a new uml profile for real-time system formal design and validation	2001	6.841108519389214	9.236981247749755	4022149
+4023337	Logic	introduction to the special issue on runtime verification	2012	6.4312593723760925	8.567243857917802	4023364
+4023511	PL	runtime verification of .net contracts	2003	6.83908965806295	8.90113552871292	4023538
+4024294	SE	translating object-z specifications to passive test oracles	1998	7.127007422937405	8.46278830400254	4024321
+4025639	SE	a generic static analysis framework for domain-specific languages	2018	7.086006927278613	8.683733782719179	4025666
+4027704	SE	verification of automotive control units	1999	7.0820871434557775	9.22836301306301	4027731
+4029528	Embedded	efficient guiding strategies for testing of temporal properties of hybrid systems	2015	6.943466547257789	8.970347056557314	4029555
+4030103	SE	techniques and toolset for conformance testing against uml sequence diagrams	2013	7.0123218011606205	8.641738694018452	4030130
+4031973	Embedded	nonautonomous elementary net systems and their application to programmable logic control	2008	6.602719354912018	8.92700444805474	4032000
+4032062	SE	model checking process with goal oriented requirements analysis	2008	7.1055310303122425	8.693480027708834	4032089
+4032457	SE	a multiply hierarchical automaton semantics for the iwim coordination model	2003	6.394070031781329	8.44035471571598	4032484
+4032691	SE	model-based diagnosis versus error explanation	2012	6.391943720185018	8.537811747506497	4032718
+4034616	EDA	a specification language for real-time distributed systems	1988	6.799121041855142	9.092268334982029	4034643
+4034906	SE	automatic documentation inference for exceptions	2008	6.462490868152584	8.63908839401661	4034933
+4035278	SE	on qualitative analysis of fault trees using structurally persistent nets	2016	6.312652096017748	8.592078381153147	4035305
+4035457	SE	efficient safety checking for automotive operating systems using property-based slicing and constraint-based environment generation	2015	7.117160609949119	8.945314351898901	4035484
+4035710	SE	revisiting compatibility of input-output modal transition systems	2014	6.714652855424634	8.641769508810691	4035737
+4037560	SE	automatic verification of distributed logic specifications	1994	7.174592336891487	9.270406321508094	4037587
+4039139	Embedded	an environment for formal modeling and simulation of control systems	2000	7.1268963455981424	9.121921278360604	4039166
+4040060	Graphics	a component-based approach to modeling and simulating mixed-signal and hybrid systems	2002	7.015385522867254	9.213875975214805	4040087
+4040596	SE	stepwise validation of formal specifications	2011	6.989844275307875	8.460385156290982	4040623
+4042471	SE	quantitative analysis of web services using srmc	2009	7.036714788563992	8.468839525064922	4042498
+4042932	SE	synthesising pepa nets from iods for performance analysis	2010	6.314335086911105	9.173477468557149	4042959
+4043291	Embedded	a method to generate embedded real-time system test suites based on software architecture specifications	2008	6.884366675617157	9.290682522087458	4043318
+4044294	Logic	maven: modular aspect verification	2007	6.9622274833712625	8.635151785985428	4044321
+4044926	AI	a communication protocol for conflict resolution	1995	6.431276329009374	9.148407687602756	4044953
+4046458	Arch	a flow chart notation for the description of a speed-independent control	1961	6.737230723211501	9.353378029888097	4046485
+4049662	Embedded	component-based protocol synthesis	1992	7.01914866371897	9.179977384427232	4049689
+4050227	AI	symbolic model checking commitment protocols using reduction	2010	6.3719729044944	9.158121365680351	4050254
+4051143	Logic	formal modeling and analysis of rbc subsystem in ctcs level 3 using uppaal	2009	6.869471583751269	9.172083104845314	4051170
+4054317	Logic	the modest modeling tool and its implementation	2003	6.750146695895367	8.979551467181702	4054344
+4055416	SE	grammar based asynchronous testing	2009	6.3090188926949216	8.563995126071998	4055443
+4057909	SE	simplifying the formal verification of safety requirements in zone controllers through problem frames and constraint-based projection	2018	7.22229622174329	9.26246273705376	4057936
+4058462	AI	a formal approach to legal negotiation	2001	7.107573226075634	8.626437328493253	4058489
+4058884	SE	existential live sequence charts revisited	2008	7.221531656473865	8.5529448030212	4058911
+4060899	Logic	application of fuzzy labeled transition system to contract net protocol	2015	6.798388784416794	8.829877390220066	4060926
+4060920	SE	programming and verifying component ensembles	2014	6.709657835426127	9.055727171990789	4060947
+4063374	PL	managing complexity through abstraction: a refinement-based approach to formalize instruction set architectures	2011	6.4494986709888655	8.864633354174721	4063401
+4063463	Robotics	verifying correctness of interfaces of design models of manufacturing systems using functional abstractions	1997	6.857844859386063	9.0424907920566	4063490
+4065463	Embedded	translating sequential function charts to the compositional interchange format for hybrid systems	2010	7.051630918119946	9.299211873295011	4065490
+4066069	SE	model-checking behavioral programs	2011	6.332522641294769	8.635445938764818	4066096
+4067687	Embedded	derivation of stochastic reward net for compatibility and conformance verification of component erroneous behavior model	2013	7.0914736838057015	8.926348650079564	4067714
+4068544	SE	requirements specifications for hybrid systems	1995	7.033961564185828	9.033767581287169	4068571
+4069006	Embedded	a higher-order extension for imperative synchronous languages	2010	6.7521730938113835	9.205568178390347	4069033
+4069048	SE	non-synchronous communications in process algebraic architectural description languages	2008	7.1470547317930855	9.150569042567717	4069075
+4070408	Robotics	a handling management system for freight with the ambient calculus and uhf rfid tags	2012	6.91704575257532	9.092571709681534	4070435
+4070779	SE	reducing false positives by combining abstract interpretation and bounded model checking	2008	6.621366244172116	9.043854550166387	4070806
+4073140	SE	structural induction as a method to distribute the generation of a trace language representation for complex systems.	2017	7.138226192953037	8.709046338710106	4073167
+4074920	Embedded	prodevs: an event-driven modeling and simulation tool for hybrid systems using state diagrams	2015	7.044581017418528	8.682974766762516	4074947
+4075016	SE	a logical basis for the specification of reconfigurable component-based systems	2003	7.12532469123856	9.344875655670565	4075043
+4076894	SE	formal methods for security in the xenon hypervisor	2011	7.230677921592306	9.151258580957169	4076921
+4077088	PL	developing secure applications: a systematic approach	1997	7.212419143353863	8.612548288421468	4077115
+4082558	PL	retrenchment: an engineering variation on refinement	1998	6.542703261565306	8.761433405933312	4082585
+4083613	SE	transcpn - software tool for transformation of colored petri nets	2009	6.3289015547836796	8.92570377993467	4083640
+4085238	AI	engineering commitment-based multiagent systems: a temporal logic approach	2003	6.594141146409272	8.917082944798976	4085265
+4085968	Logic	program abstraction in a higher-order logic framework	1998	6.863419660217043	8.88861288863406	4085995
+4085992	SE	timing specification and rule-based systems	1997	6.780611368071259	8.431343585748573	4086019
+4086515	PL	the conlan project: concepts, implementations, and applications	1985	6.369414994149108	8.910889492115555	4086542
+4089483	Embedded	osiris: a tool for abstraction and verification of control software with lookup tables	2017	6.696004923099049	9.320323861253087	4089510
+4089562	PL	formal verification of object-oriented graph grammars specifications	2007	6.635114027284574	8.661619162451027	4089589
+4089645	Robotics	formal requirements-based programming for complex systems	2005	6.4621896940882895	8.579155067127084	4089672
+4090067	SE	research on cpn model reduction focus on parallel tested behaviors	2017	6.395718221928117	8.988314327493207	4090094
+4091173	SE	from an erae requirements specification to a pluss algebraic specificatiaon: a case study	1989	7.1692879302895625	8.483546816883267	4091200
+4093046	SE	generating test sequences from a set of mscs	2003	7.253491652124362	8.896036670695949	4093073
+4093658	SE	reusability and modularity of safety specifications for supervisory control	2016	6.588859690896518	9.150908478196897	4093685
+4096207	EDA	formal test automation: the conference protocol with phact	2000	6.869256185103481	9.067105318286252	4096234
+4098331	SE	automating timed specification transparency for human designer validation of real-time discrete-event control requirements	2012	7.251501586960814	8.806899903725155	4098358
+4098548	SE	a java toolkit for the design and the automatic checking of server architectures	2007	7.103738252926406	8.746116973577648	4098575
+4100752	EDA	on deriving equivalent architecture model from system specification	2004	7.005470195747286	9.078791734294766	4100779
+4101143	Embedded	the semantics and tool support of ozta	2005	7.117047948630559	8.653576139698787	4101170
+4101919	Theory	taming distributed system complexity through formal patterns	2011	6.875079362633682	9.33586468786192	4101946
+4102897	PL	a semantics for distributed execution of statemate	2003	7.197723672201469	8.614069741813363	4102924
+4103213	SE	checking properties described by state machines: on synergy of instrumentation, slicing, and symbolic execution	2012	6.435349738568019	8.727852685638172	4103240
+4103572	ECom	encapsulating deontic and branching time specifications	2012	6.338215408743817	8.460683526551051	4103599

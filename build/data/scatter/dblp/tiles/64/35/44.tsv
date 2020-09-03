@@ -1,0 +1,215 @@
+id	area	title	year	x	y	ix
+3677780	OS	a theory of nested speculative execution	2007	3.8692454313552544	11.883248161811963	3677807
+3681285	PL	a fast compiler for netkat	2015	3.8953936442568566	11.312379937586284	3681312
+3682778	Arch	proteus - a microcoded multiprocessor system	1978	3.4164450583560413	11.750686959305586	3682805
+3683791	Arch	a user-controlled synchronization method	1973	4.230063564433345	12.03678511090835	3683818
+3684256	AI	the renaming problem as an introduction to structures for wait-free computing	2003	3.7722053110998175	11.825515177469075	3684283
+3687671	Theory	on distributed resource handling: dining, drinking and mobile philosophers	1997	3.826205140306856	11.32364878302907	3687698
+3688654	Arch	speculative synchronization: programmability and performance for parallel codes	2003	3.48922091905788	12.044978541735425	3688681
+3689331	HPC	thread-group based local heap garbage collection in a simulated runtime environment	2016	3.872993962893198	11.615473883713696	3689358
+3689743	HPC	implementing linda tuplespace on a distributed system	1995	3.628959007803165	11.903269683316687	3689770
+3689754	HPC	cmmd i/o: a parallel unix i/o	1993	3.8472768985256867	11.905628268763342	3689781
+3691088	Robotics	tree clocks: an efficient and entirely dynamic logical time system	2007	4.223091355183179	12.013641575387984	3691115
+3695571	Robotics	improving fast mutual exclusion	1992	3.8878023614840975	12.222500136214974	3695598
+3696022	Arch	non-intrusive dynamic application profiler for detailed loop execution characterization	2008	3.716810017944749	11.627209303734247	3696049
+3698195	Arch	a cellular processor for task assignments in polymorphic, multiprocessor computers	1972	4.094491268713803	11.891439983465526	3698222
+3700501	PL	portable multithreading-the signal stack trick for user-space thread creation	2000	4.085083161883964	11.550517647943693	3700528
+3702487	SE	a general approach to queuing in c. s. p	1984	4.267838507397165	11.469102638888991	3702514
+3704543	Arch	controlling program execution through binary instrumentation	2005	3.9832511906294696	11.536089247762149	3704570
+3706649	Arch	rabit: a new framework for runtime emulation and binary translation	2004	3.5329145385621974	11.495954742083194	3706676
+3713343	HPC	mpi-interoperable generalized active messages	2013	3.666509893401004	11.845326946483581	3713370
+3714866	EDA	towards a single system image for high-performance java	2003	3.874745958080145	11.615431320491355	3714893
+3716828	Logic	token scheme: an algorithm for distributed termination detection and its proof of correctness	1992	3.664138479300123	11.593909603837519	3716855
+3720448	HPC	design and implementation of a high-performance mpi for c# and the common language infrastructure	2008	3.5487559071840957	11.416132111344755	3720475
+3723626	Mobile	object lifetime trend of modern android applications for gc performance improvement	2017	4.355625231905982	11.859219765273904	3723653
+3725456	PL	poster: on the problem of consistency exceptions in the context of strong memory models	2017	3.9469993659629528	11.400866818541148	3725483
+3726271	DB	token-based sequential consistency	2002	4.115910073540288	12.025808591898361	3726298
+3729442	PL	sharejit: jit code cache sharing across processes and its practical implementation	2018	3.693897224114902	11.510191175860387	3729469
+3736509	HPC	characterizing i/o performance using the tau performance system.	2011	3.9196827956963927	11.648334318297227	3736536
+3737153	Metrics	analysis of personal computer workloads	1999	4.308306504452586	12.004012606754127	3737180
+3739383	PL	fine-grained concurrent completion	1996	3.957748043536707	12.066475971177807	3739410
+3740916	Security	a framework for detecting redundant data transmission on distributed memories by data flow analysis.	1995	3.4729621662687613	12.092708416959074	3740943
+3752265	SE	energy profiles of java collections classes	2016	3.5065348854530263	11.785515310810295	3752292
+3752510	Vision	global representation of local time measurements in transputer networks	1993	3.5228085592314917	11.475267287464597	3752537
+3753599	Visualization	a multithreaded message passing interface (mpi) architecture: performance and program issues	2001	3.5119316483910152	11.779539971516158	3753626
+3756993	HPC	sowing mpich: a case study in the dissemination of a portable environment for parallel scientific computing	1997	3.9928912308517353	11.438891406850756	3757020
+3763347	DB	using chains and groups to make gpss more efficient	1981	3.8127624262685775	11.57776103921211	3763374
+3764399	OS	operating system profiling via latency analysis	2006	4.0422454905102425	12.03055324256006	3764426
+3772282	OS	sequential consistency versus linearizability	1994	3.741164918218998	11.895061817594142	3772309
+3777353	PL	atomcaml: first-class atomicity via rollback	2005	3.6524688451569776	11.72036569636987	3777380
+3779697	Arch	microstache: a lightweight execution context for in-process safe region isolation	2018	3.822724590243953	11.997145434053323	3779724
+3779828	Theory	faster fair solution for the reader-writer problem	2013	3.6785714280649375	11.974444723675198	3779855
+3780839	Logic	a linked list cache coherence protocol: verifying the bottom layer	1991	3.4747133443985185	11.880974683654607	3780866
+3782679	Metrics	distributed simulation of networks	1979	3.737416508592857	12.209988070239104	3782706
+3783139	SE	visualization of java workloads using ternary diagrams	2004	3.8261238220768767	11.315916609405154	3783166
+3784472	Logic	a comparative analysis of the reliability of simple and two-level checkpointing techniques in distributed industrial control systems	2000	3.971862825066888	12.176040956583984	3784499
+3784590	Networks	a fast and general implementation of mach ipc in a network	1993	4.252065120173917	11.974443563149087	3784617
+3785383	HPC	a block device driver for parallel and fault-tolerant storage	2010	4.299533109615473	12.115998832315722	3785410
+3785453	Arch	maintaining consistency and bounding capacity of software code caches	2005	3.9338128708134494	11.335962561748225	3785480
+3786587	OS	synchronization for fast and reentrant operating system kernel tracing	2010	4.213413665413781	12.0264546735128	3786614
+3786627	Arch	transparent adaptation of sharing granularity in multiview-based dsm systems	2001	3.594375151827742	11.835911354521535	3786654
+3788201	DB	give-up-based protocol for token passing	1987	3.8037471457441296	11.923649661737864	3788228
+3788861	OS	pacceptor and sconnector frameworks: combining concurrency and communication	2000	4.077355790407242	11.832047637954444	3788888
+3791056	HPC	jwarp: a java library for parallel discrete-event simulations	1998	3.4320569889708903	11.654463773475285	3791083
+3791093	Metrics	hardware-based data value and address trace filtering techniques	2010	3.91927886192314	11.908614537453232	3791120
+3794040	HPC	quicksilver: a proxy app for the monte carlo transport code mercury	2017	3.4287085203593493	11.402611406135973	3794067
+3795271	DB	dynamic job scheduling in uniform hypercube multiprocessors using a boundary value bin packing approach for deterministic models	2005	4.10459536015104	11.76814637376749	3795298
+3796197	HPC	instrumental complex of parallel software system development and operating environment support for distributed processing within multitransputer systems, transsoft	1993	4.3127716659024165	11.884622327076185	3796224
+3797296	Theory	the modeling and analysis of mixed-criticality systems - extended abstract	2014	3.605608408709132	12.033886314378009	3797323
+3799063	PL	concurrent c: real-time programming and fault tolerance	1991	4.307217742294038	11.451204130051213	3799090
+3800513	HPC	efficient communications in multithreaded runtime systems	1999	3.5713259099394006	12.134072771513539	3800540
+3801894	HPC	an environment for parallel and distributed computation with application to overlapping grids	1994	3.4192585375345566	12.144914657305346	3801921
+3807923	PL	thread specific singletons: handling singleton pattern errors in multi-threaded applications and their variations	2002	4.160257847513758	11.339980181544744	3807950
+3810900	Logic	a real-time java tool chain for resource constrained platforms	2014	4.254285789279437	11.323948942150373	3810927
+3811058	DB	differential dataflow	2013	3.861452999514276	12.24082804470975	3811085
+3813536	HPC	language concepts for distributed processing of large arrays	1982	4.272651536307591	11.855596408969822	3813563
+3816032	NLP	methods of garbage collection for algol 68	1970	3.595304557942792	11.785943828425667	3816059
+3816187	Logic	true simulation of real parallel processes is impossible. a proof by the five dining philosophers	1995	3.9821761382279752	11.382199973511062	3816214
+3816568	DB	applying distributed shared memory techniques for implementing distributed objects	1997	3.5101256761335553	12.111224618442755	3816595
+3817085	Theory	including an explicit memory model in a machine description	1988	3.6084655064270943	11.797923020902758	3817112
+3818186	Theory	lazy cyclic reference counting	2003	3.571030562149982	11.653269429177428	3818213
+3822083	Arch	dekker's mutual exclusion algorithm made rw-safe	2016	3.7775983521896745	11.429219635865511	3822110
+3822331	DB	an efficient deadlock-free algorithm for handling concurrent update in databases	1982	3.84039456612957	11.557711593123214	3822358
+3829359	HPC	improving j9 virtual machine with lttng for efficient and effective tracing	2015	3.9271472939777374	12.21149592850869	3829386
+3832559	Logic	managing complexity of control software through concurrency	2005	4.0081812187896135	11.60991214252405	3832586
+3833944	PL	hard real-time garbage collection im modern object oriented programming languages	2002	4.2804128219345605	11.31967821025234	3833971
+3834262	Embedded	cost and benefit of separate address spaces in real-time operating systems	2002	4.130654323772374	11.969457086147203	3834289
+3835108	Embedded	parallel execution of real-time rule-based systems	1993	3.720165151464069	11.762626666921213	3835135
+3837344	OS	dynamic virtual logical processes	1998	3.6863883226431615	12.071174753053661	3837371
+3838919	PL	decrypting the java gene pool	2007	3.8891769106804706	11.855498105483774	3838946
+3841834	HPC	parallel data processing in a distributed object-oriented model	1999	3.8809144368965716	11.706290418303338	3841861
+3843416	Robotics	method of evaluation of distributed and token-based mutual exclusion approaches	2004	4.040700278425969	11.978023810022087	3843443
+3851679	PL	the case for profile-directed selection of garbage collectors	2000	3.6255232148181538	11.397435851710256	3851706
+3852597	Graphics	an approach to the optimum design of computer graphics systems	1971	3.722219736332408	12.02211908208922	3852624
+3854704	PL	memory debugging in parallel and distributed applications	2008	3.8506988618937386	11.668009725605916	3854731
+3856310	OS	the design, implementation, and evaluation of adaptive code unloading for resource-constrained devices	2005	3.654077531154889	11.455670010997162	3856337
+3858744	Arch	operating system design considerations for microprogrammed mini-computer satellite systems	1973	3.608353771575203	11.39311453763036	3858771
+3859648	PL	verification of scalable synchronous queue	2011	3.6430548752951726	12.024176448325738	3859675
+3862954	OS	improving reactivity to i/o events in multithreaded environments using a uniform, scheduler-centric api	2002	3.503347278911745	12.146515487852868	3862981
+3862992	Theory	concurrent reading and writing	1977	3.6497815235876137	11.677497193017269	3863019
+3874000	Embedded	locating performance bottlenecks in embedded java software with calling-context cross-profiling	2009	4.1283256235889665	11.510972129887707	3874027
+3875444	Arch	weak ordering - a new definition	1990	3.7526189665645977	12.206017665529515	3875471
+3879684	PL	transparent speculative parallelization of discrete event simulation applications using global variables	2016	3.901353365178057	11.415435680402329	3879711
+3881881	NLP	a gracefully degradable algorithm for byzantine agreement	1987	4.057225406634879	12.126409600759633	3881908
+3884753	ML	frequent instruction sequential pattern mining in hardware sample data	2010	3.439015612603813	11.924451884248926	3884780
+3886292	PL	an analysis of reshuffled handshaking expansions	2001	3.710732575813208	11.347703777348045	3886319
+3888964	PL	a study of dead data members in c++ applications	1998	3.795447029752864	11.44879833703483	3888991
+3895132	HPC	dynamic behavior of memory reference streams for the perfect club benchmarks	1992	3.737213292529027	11.358133397508654	3895159
+3897270	HPC	peace - a software backplane for parallel computing	1994	4.167721299020637	11.809494428460054	3897297
+3903564	HPC	flexible user-definable memory coherence scheme in distributed shared memory of galaxy	1991	4.06461617844052	12.03269258953184	3903591
+3914666	Embedded	run-time compilation of bytecode in wireless sensor networks	2010	4.3135047320417685	12.044662305181847	3914693
+3914770	ML	a performance and scalability analysis framework for parallel discrete event simulators	2001	3.845245739618069	11.642635895577367	3914797
+3915062	HPC	modeling master/worker applications for automatic performance tuning	2006	3.4812612794386952	11.639493234891354	3915089
+3915600	HPC	performance analysis of parallel programs using prober as a single aid tool	2002	3.7552707010695743	11.452620455436936	3915627
+3919072	EDA	a non-intrusive, operating system independent spinlock profiler for embedded multicore systems	2017	4.128441249371658	11.90644306361886	3919099
+3920016	Arch	short-circuit dispatch: accelerating virtual machine interpreters on embedded processors	2016	3.5012885482279223	11.400706759970884	3920043
+3920280	Theory	locking operations for maximum concurrency	1981	3.971680062513199	11.76916087483103	3920307
+3921028	PL	generic soft-error detection and correction for concurrent data structures	2017	4.286786967498188	11.962712133144286	3921055
+3923184	Arch	asynchronous network of specific microprocessors	1973	3.990947779058125	11.957827808419536	3923211
+3924314	Networks	application-specific trace compression for low bandwidth trace logging	2008	3.94914810833521	11.527148195181706	3924341
+3926002	ML	artificial neural networks as a tool for identifying image spam	2009	4.018087996424898	12.023785118030686	3926029
+3933674	SE	vmvm: unit test virtualization for java	2014	4.124269018318892	11.443391614699445	3933701
+3935680	OS	kernel plugins: when a vm is too much	2004	3.6972627999365013	12.048441291608501	3935707
+3939916	Embedded	transparent and efficient shared-state management for optimistic simulations on multi-core machines	2012	4.087781863623417	12.18167811769156	3939943
+3941885	Embedded	self-stabilizing clock synchronization in a hierarchical network	1999	3.41564180818213	11.491046407471046	3941912
+3944667	Arch	a method for implementing paged, segmented virtual memories on microprogrammable computers	1979	4.191964709458439	11.97271956371658	3944694
+3944855	Theory	structured deferral: synchronization via procrastination	2013	4.202694664742906	11.996828546380215	3944882
+3945767	PL	incremental mature garbage collection using the train algorithm	1995	3.7834858553186814	11.909107510323038	3945794
+3948309	HPC	distributed arry query and visualization for high performance fortran	1996	3.713961176310303	11.717413146534435	3948336
+3948602	SE	selective bisection debugging	2017	3.660633854966613	11.616528879267435	3948629
+3949722	Robotics	complementing missing and inaccurate profiling using a minimum cost circulation algorithm	2008	3.4636171032063547	11.958724778437489	3949749
+3950286	HPC	automated analysis of memory access behavior	2005	3.5808538024270247	11.82058115314179	3950313
+3950907	PL	hardware extensions to make lazy subscription safe	2014	4.126751847841928	11.699354918356054	3950934
+3951390	HPC	gantt chart visualization for mpi and apache multi-dimensional trace files	2002	4.041358488936107	11.531481432940593	3951417
+3953994	NLP	an efficient distributed obstruction-free compare-and-swap primitive	2013	3.687072241820234	11.61088482388556	3954021
+3954518	EDA	optimizing embedded applications using programmer-inserted hints	2005	3.5389749326836526	11.529992156219624	3954545
+3954635	ML	cautious transaction schedulers with k versions	1988	3.4663567870573013	12.021336111348358	3954662
+3958480	EDA	design, implementation and performance estimation of mtd64-ng, a new tiny dns64 proxy	2017	4.267173889591324	11.487427027023926	3958507
+3966157	HPC	scalable timestamp synchronization for event traces of message-passing applications	2009	3.9787109160315013	12.23706699056293	3966184
+3966162	Arch	an efficient adaptive software-implemented technique to detect control-flow errors in multi-core architectures	2012	3.825462315723301	11.35505827742072	3966189
+3967529	Theory	comments on “a comparison of two synchronizing concepts by p.b. hansen”	1972	3.8066496004449024	11.768130118124287	3967556
+3970498	Embedded	research of dynamic priority improvement method in μc/os-ii real-time operating system	2011	4.080781971522678	11.880509886537688	3970525
+3970540	DB	data recovery of user-defined procedures in binary translation	2013	4.28833431493026	11.448462276639988	3970567
+3971256	PL	visualizing code profiling line oriented statistics	1992	3.485804257160676	11.81888930838283	3971283
+3974414	DB	run-time and task-based performance of event detection techniques for twitter	2015	4.0679676826543645	12.161535084633153	3974441
+3975131	HPC	a directly coupled multiprocessing system	1963	3.683797877883781	11.95421076432708	3975158
+3975373	PL	a class of synchronization operations that permit efficient race detection	1996	3.9583812165904217	11.381681101666794	3975400
+3976472	PL	on-line debugging and performance monitoring with barriers	2001	4.0371408147768735	11.367233556578539	3976499
+3979573	PL	profile-based pretenuring	2007	3.6125763012424423	11.758332214157887	3979600
+3981336	Embedded	rt-est: real-time operating system for semi-fixed-priority scheduling algorithms	2011	4.1806996561212015	12.080065951117382	3981363
+3982303	Embedded	a wcet-aware parallel programming model for predictability enhanced multi-core architectures	2018	4.037084178564712	11.386658639582453	3982330
+3985530	Arch	hydra: efficient detection of multiple concurrency bugs on fused cpu-gpu architecture	2014	3.898749183147136	11.872646618330405	3985557
+3987388	PL	autolocker: synchronization inference for atomic sections	2006	3.553275273368455	11.774637454008687	3987415
+3989613	HPC	on the recursive-parallel programming for the .net framework	2014	3.707606397483092	12.00138668554311	3989640
+3990546	EDA	replacement of computer bureaux	1979	3.5079939406206613	11.553239462853362	3990573
+3990740	Arch	speculative synchronization: applying thread-level speculation to explicitly parallel applications	2002	3.5593502726175976	12.192158029923375	3990767
+3992958	PL	isolation for nested task parallelism	2013	3.8372026630253777	11.375857545342068	3992985
+3994348	Robotics	exploiting development to enhance the scalability of hardware evolution	2005	3.7568588011636206	12.177938082090249	3994375
+3994701	Embedded	a l2e-based qos forecasting algorithm for dynamic, distributed real-time systems	2003	3.9269431007192965	12.232055652087706	3994728
+3998569	PL	safe and efficient hybrid memory management for java	2015	3.493404769306371	11.385364623557429	3998596
+3998600	HPC	recent enhancements to pvm	1995	4.158274754679702	11.599782908274214	3998627
+3999279	Arch	formal verification and its impact on the snooping versus directory protocol debate	2005	3.9249124217472224	11.360656826933482	3999306
+4001109	HPC	using hardware performance monitors to understand the behavior of java applications	2004	3.937482557393377	11.714586866755743	4001136
+4001504	OS	a comprehensive study on bugs in actor systems	2018	4.1779217473727455	11.704749982131025	4001531
+4001934	OS	efficient deterministic multithreading without global barriers	2014	3.588164909409102	11.607043659577794	4001961
+4002620	EDA	synchronous elastic circuits with early evaluation and token counterflow	2007	3.602381544507712	11.406412043945815	4002647
+4006521	Metrics	darc: dynamic analysis of root causes of latency distributions	2008	4.2432260753046505	11.637360202720638	4006548
+4009359	Theory	quantum shared broadcasting	2008	3.64941844215104	11.80077239942611	4009386
+4011239	Logic	process selection in an hierarchical operating system	1971	4.348565090912826	11.47747345331276	4011266
+4012838	HPC	paraweb: towards world-wide supercomputing	1996	3.6142612117226918	12.068062166135652	4012865
+4013330	PL	a java processor with hardware-support object-oriented instructions	2006	3.5101103298946943	11.365342201553768	4013357
+4013650	Arch	ecotm: conflict-aware economical unbounded hardware transactional memory	2013	3.711502746175661	12.001607433620885	4013677
+4015528	PL	message analysis for concurrent programs using message passing	2006	3.578806143964804	11.477696193912376	4015555
+4016286	HPC	the paradyn parallel performance measurement tool	1995	4.315601248157272	11.75873861014703	4016313
+4018379	HPC	"""vimpios, a """"truly"""" portable mpi-io implementation"""	2000	3.672908323132632	11.920055213277273	4018406
+4018817	PL	data-race exceptions have benefits beyond the memory model	2011	3.887496879077244	11.686232751209598	4018844
+4023018	OS	statistical analysis of latency through semantic profiling	2017	3.8848880711961664	11.48890489949719	4023045
+4023665	Embedded	real-time java processor optimized for rtsj	2007	3.6849385939148616	11.809386370267164	4023692
+4029212	PL	a concurrency abstraction for reliable sensor network applications	2005	3.4613564079680383	11.695741786420982	4029239
+4029435	HPC	from trace generation to visualization: a performance framework for distributed parallel systems	2000	4.142384683923506	11.51701866499542	4029462
+4033893	Arch	cache coherence requirements for interprocess rendezvous	1990	4.349844368720159	11.656724759065206	4033920
+4034998	HPC	rambrain - a library for virtually extending physical memory	2015	3.6296642012996916	12.194473392914185	4035025
+4035341	Arch	constructing instruction traces from cache-filtered address traces (citcat)	1996	4.028880183032571	11.823551257702023	4035368
+4035393	HPC	models for on-the-fly compensation of measurement overhead in parallel performance profiling	2005	4.032476414374388	11.776696835060587	4035420
+4036175	PL	a way forward in parallelising dynamic languages	2014	3.619772457929857	11.4281932951209	4036202
+4036818	Logic	a minimal property for characterizing deadlock-free programs	2001	4.0978356060692525	11.95305802820025	4036845
+4037817	PL	a survey on object cache locality in automated memory management systems	2015	3.5849811189658065	12.149254780197131	4037844
+4037827	Arch	impact of instruction re-ordering on the correctness of shared-memory programs	2005	3.5401356752509687	11.81369576127649	4037854
+4038392	Arch	post-silicon validation of multiprocessor memory consistency	2015	3.5905756204326376	11.361198028907655	4038419
+4038912	EDA	the architecture and design of hs-series storageworks array controllers	1994	3.5841890145709763	12.193612898591962	4038939
+4040353	Arch	a novel lightweight hardware-assisted static instrumentation approach for arm soc using debug components	2018	4.011353508863974	11.532814943970509	4040380
+4043944	PL	new abstractions for effective performance analysis of stm programs	2010	3.4161255582290586	11.723229841954868	4043971
+4045354	EDA	improving the energy efficiency of hardware-assisted watchpoint systems	2013	4.348528856317136	11.481693013662515	4045381
+4045896	Security	lamport clocks: verifying a directory cache-coherence protocol	1998	4.123979412198254	11.71229174664918	4045923
+4047394	AI	a garbage collection policy based on empirical behavior	2004	3.8600198278503273	11.333791012148216	4047421
+4047683	HPC	towards an efficient simulation of multi-language descriptions of heterogeneous systems	2006	3.49044719272052	12.055932658990676	4047710
+4047759	OS	overhead analysis of performance counter measurements	2014	3.852342391786887	11.751539660185776	4047786
+4056124	HPC	a low-overhead and efficient java object profiler on art virtual machine	2018	3.8952450428896648	11.768203275623062	4056151
+4056552	PL	efficient memory traces with full pointer information	2016	3.6163231379550296	11.65910332123933	4056579
+4060113	Robotics	global distributed deadlock detection & resolution with finite buffers	1986	3.6457622282811584	11.518143530666444	4060140
+4060376	Embedded	analyzing performance and dynamic behavior of embedded java software with calling-context cross-profiling	2009	4.1142804889288165	11.523457500374803	4060403
+4061047	OS	microprogrammed implementation of a scheduler	1976	3.8838197889849337	11.833065209709835	4061074
+4065425	PL	nesting-safe recoverable linearizability: modular constructions for non-volatile memory	2018	4.297093822097054	11.498636765186744	4065452
+4071411	Security	tainttrace: efficient flow tracing with dynamic binary rewriting	2006	4.133456547907808	11.937656630739946	4071438
+4073658	HPC	data distribution for parallel corba objects	2000	3.5830366823574686	12.14580791749413	4073685
+4075145	Arch	software pipelines in image processing	1982	4.250198764126867	11.57781187990908	4075172
+4076478	HPC	linking performance data into scientific visualization tools	2014	3.704817538584333	11.630947242548418	4076505
+4078349	PL	optimizing dynamic dispatch with fine-grained state tracking	2010	4.084516284486204	11.493099200392166	4078376
+4080423	SE	performance models of parallel and distributed processing systems (abstract)	1986	4.091072671848037	11.503597262986196	4080450
+4080849	DB	pvm experiences in developing the midas parallel database system	1997	3.9304526744203536	11.374670266704664	4080876
+4082233	Arch	sofritas: serializable ordering-free regions for increasing thread atomicity scalably	2018	3.9900150461558432	11.520925237244755	4082260
+4084544	HPC	a lightweight process facility supporting meta-level programming	1997	3.4196947535323736	12.219145422727955	4084571
+4085303	HPC	performance optimization strategies for transactional memory applications	2013	3.5449149865570906	11.964512337996096	4085330
+4086393	HPC	design of tightly-coupled multiprocessing programming	1974	3.53184045896849	11.30104374491698	4086420
+4086564	DB	transaction safe nonblocking data structures	2007	4.24002416789362	11.751715477363176	4086591
+4088602	PL	can seqlocks get along with programming language memory models?	2012	3.7040685496542833	11.505856922212772	4088629
+4089187	HPC	cluster computing as an assembly process: coordination with s-net	2010	4.134811766059015	11.789336441772832	4089214
+4089492	Arch	the cheri capability model: revisiting risc in an age of risk	2014	3.4338693222183783	11.56153056309472	4089519
+4095440	PL	object equivalence: revisiting object equality profiling (an experience report)	2017	3.8409250046133705	11.608444152828765	4095467
+4095804	OS	a deterministic model of time for distributed systems	1996	4.220325665011607	11.609198151821921	4095831
+4095993	Theory	solutions of a problem in concurrent programming control (reprint)	1983	3.791182266545388	11.458492646524107	4096020
+4096576	EDA	using simulation to improve the flexibility of adaptive workflow models based on temporal logic	2006	4.244640019921234	12.08744442410214	4096603
+4097300	HPC	capturing and visualizing event flow graphs of mpi applications	2009	3.7987133382433065	11.421916071022524	4097327
+4098683	OS	the use of the monitor call instruction to implement domain switching in the ibm 370 architecture	1981	3.6791307432892473	11.633616438621486	4098710
+4101204	PL	reducing java garbage collection pause times	2009	3.7308158423629374	11.823126618948734	4101231
+4102686	HPC	modelling the performance of large-scale systems	2003	4.368564344273627	11.62805729787843	4102713
